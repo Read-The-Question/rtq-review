@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-blocked"
 title: "Topic - Probability - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -123,6 +123,7 @@ Mr Prime has these numbered discs face down on a table:
 
 ![missing image](/papers/missing_image.svg)
 
+
 He turns one over at random.
 
 On the line below, mark the following probabilities with the letters shown:
@@ -134,6 +135,7 @@ On the line below, mark the following probabilities with the letters shown:
 - the number on his disc is a multiple of $12$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

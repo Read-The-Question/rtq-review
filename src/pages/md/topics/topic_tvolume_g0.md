@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-g0"
 title: "Topic - Volume - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,7 @@ Which $3 \text{D}$ shape does the net below make?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -87,7 +88,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 8 \times 6 \times 4 \\\\
                 &= 192 \ \text{cm}^{3}
 \end{aligned}
@@ -122,6 +124,7 @@ Label both vertices with $*$.
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with sides marked IMAGE_PLACEHOLDER_ENDS **
 
@@ -230,6 +233,7 @@ Find the volume of this shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -288,6 +292,7 @@ tvolume
 Jelly beans are sold in boxes which are cuboids measuring $10\ \text{cm}$ by $3\ \text{cm}$ by $12\ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -470,6 +475,7 @@ How many blocks of ice--cream can he put into the cool box?
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
+
 As per the question,
 
 $
@@ -594,6 +600,7 @@ $4 \ \text {cm}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A carton measures $200 \ \text{cm}$ by $100 \ \text{cm}$ by $100 \ \text{cm}$.
 
@@ -783,6 +790,7 @@ What is its length if the volume of a cuboid is given by length x width x height
 Let the length of the second cuboid (in $\text{cm}$) $= l$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
 
 As per the question, the two weights have the same volume. Using that we get,
 

@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-all"
 title: "Reviewer - Chiliveru Aravind - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1556,6 +1556,7 @@ $12 \ \text{m} + 37 \ \text{cm}$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -1592,6 +1593,7 @@ $6.3 \ \text{km} - 140 \ \text{m}$
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -1698,6 +1700,7 @@ Find the missing angle, $x$:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1749,7 +1752,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1970,7 +1974,8 @@ talgebra
 
 Find the size of angle $x$:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2205,7 +2210,8 @@ ttemperature
 
 The table shows the average temperatures of some European cities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2403,17 +2409,59 @@ What is the sum of the next three terms in the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{\times 2 - 3 }}
-&&  \footnotesize{\maroonC{\times 2 - 3 }} 
-&&  \footnotesize{\maroonC{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC{\times 2 - 3 }}  \\
+&   \footnotesize{\maroonC
+{\times 2 - 3 }}
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }} 
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}  \\
+4,  &&    5,  &&  7,  &&   \ldots, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 7 \times 2 - 3 \\\\
+                               &= 14 - 3 \\\\     
+                               &= 11 \\\\
+\text{Second missing number}   &= 11 \times 2 - 3 \\\\
+                               &= 22 - 3 \\\\     
+                               &= 19 \\\\
+\text{Third missing number}    &= 19 \times 2 - 3 \\\\
+                               &= 38 - 3 \\\\ 
+                               &= 35 \\\\
+\text{The sum of the next three terms in the sequence}  &= \text{First missing number} + \text{Second missing number} + \text{Third missing number} \\\\
+&=  11 + 16 + 39 \\\\
+&=  65
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{\times 2 - 3 }}
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }} 
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}  \\
 4,  &&    5,  &&  7,  &&   \ldots, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -2750,7 +2798,8 @@ tsimpleword
 
 The following grid is made of $1 \ \text{cm}$ squares. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2787,6 +2836,7 @@ As per the question,
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -3006,6 +3056,7 @@ talgebra
 Calculate the angle marked with the letter $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $70 \degree$
 - $85 \degree$
@@ -3252,6 +3303,7 @@ tsimpleword
 Calculate the area of the trapezium.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $50 \ \text{cm}^{2}$
 - $44 \ \text{cm}^{2}$

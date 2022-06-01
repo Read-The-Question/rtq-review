@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,106 @@ date: 2022-06-01 14:28:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$85$ people go to the school concert. They pay $\pounds 1.30$ each. 
+
+How much money is collected?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total money collected}    &= \text{No. of people} \times \text{Payment per person} \\\\
+                                &= 85 \times \pounds 1.30 \\\\
+                                &= 85 \times 1.3 \\\\
+\text{Total money collected}    &= \pounds 110.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 110.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around **all** the amounts that can be made with **three** coins:
+
+$13 \text{p} \quad 23 \text{p} \quad 33 \text{p} \quad 43 \text{p} \quad 53 \text{p}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+13 \text {p}     &= 10 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+23 \text {p}     &= 20 \text {p} + 2 \text {p} + 1 \text {p} \\\\
+53 \text {p}     &= 50 \text {p} + 2 \text {p} + 1 \text {p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \text{p},23 \text{p},53 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
@@ -62,6 +162,63 @@ $57 \text{p}$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>442CEB47-8FC8-4532-A8CE-9778C560B7A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around **each** the amounts that can be made with **four** coins.
+
+State which coins you would use
+
+$24 \text{p} \quad 38 \text{p} \quad 57 \text{p} \quad \pounds 1.18 \quad \pounds 1.26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -125,6 +282,7 @@ Matthew buys $2$ sandwiches and a cookie with a $\pounds 5$ note.
 How much change does he receive?
 
 ![missing table](/papers/missing_table.svg)
+
                    
 <!--
 Price List
@@ -348,6 +506,7 @@ The list below shows the prices at greasy Joe's roadside snack bar. Four friends
 Duncan decide to stop by for a meal on their way home from work one day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -921,6 +1080,7 @@ Katherine has ten coins in a bag.
 She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1105,6 +1265,7 @@ with $C$ the probability that the coin is worth less than $\pounds 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1150,6 +1311,7 @@ tmoney
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1660,6 +1822,7 @@ tmoney
 $32$ students and $4$ members of staff from Encrypt School are going to a lecture on code-breaking.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Code-Breaking Lecture
 
@@ -2604,6 +2767,171 @@ $45 \ \text{pence}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CFB32739-86C9-4BC9-BD3E-426B8D993135</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When a gas meter was read in October 2010, the meter reading showed $3165$ units. When it was read again, in January 2011, the meter reading was $3945$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out how many units of gas were used in the $3$ months from October to January.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The cost of the gas is $7 \text{p}$ for each unit. Also there is a fixed charge of $\pounds 12.50$ to be paid. Work out the total cost of the gas and the fixed charge.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally, $10 \%$ of this total is then added on for tax purposes.  Work out the final cost.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>913C4FD9-9AC9-45BA-BE94-814E838F0E2F</p>
@@ -3374,6 +3702,7 @@ tmoney
 
 ![missing image](/papers/missing_image.svg)
 
+
 I have FIVE coins in my pocket. 
 
 They add up to 77 \text{p}$.
@@ -3427,6 +3756,7 @@ tmoney
 Alison went to the supermarket. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 She bought two cans of cola costing $53 \text{p}$$ each, three packets of crisps costing $27 \text{p}$$ each and a large bar of chocolate that costs $$\pounds 1.24$.
 
@@ -3942,6 +4272,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -3998,6 +4329,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 

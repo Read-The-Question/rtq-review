@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -89,6 +89,7 @@ ttable
 The chart below shows the technology subjects studies by a group of students.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Complete the chart above 
 
@@ -257,7 +258,9 @@ Farmer Giles has two legs and each of his cows have four legs. In the picture be
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 Hillary is trying to find a formula that links the Number of Cows, $C$, to the number of Legs, $L$. 
 Fill in the gaps to help her: 
@@ -313,12 +316,16 @@ ttable
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This picture shows people sitting around tables made of smaller square tables. Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Adam is trying to find a formula that links the Table number, $T$, to the number of People, $P$. Fill in the gaps to help him:
 
@@ -374,7 +381,8 @@ The table shows part of a multiplication grid.
 
 Fill in the missing numbers.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -493,6 +501,7 @@ He has completed the first row of the table.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Complete the table with the two missing values.
 
 </div>
@@ -556,6 +565,7 @@ in metres             2610        2579        2592        2164
 -->
 
 ![missing table](/papers/missing_table.svg)
+
 
 The table above shows some information about four African countries.
 
@@ -766,6 +776,7 @@ There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -957,6 +968,7 @@ Give the fractions in their simplest form.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1019,6 +1031,7 @@ In total, $38$ of the members do not play a stringed instrument.
 Use this information to complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1098,9 +1111,11 @@ The number machine below adds $3$ to the input number and then multiplies by $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1141,6 +1156,7 @@ TODOANSWER
 A different number machine produces the input and output table below 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the rule of this number machine?
 
@@ -1204,9 +1220,11 @@ When it is born, the Joak has one head with a bristle, and one body segment with
 
 ![missing image](/papers/missing_image.svg)
 
+
 At the start of each year, Joak grows one more identical body segment so that at the start of the second year it looks like this: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1283,6 +1301,7 @@ TODOANSWER
 Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 start of year     number of segments    number of bristles
  1 (when born)           1                     5
@@ -1466,6 +1485,7 @@ Complete the table to show all of the possible different types of tiles.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1585,6 +1605,7 @@ TODOANSWER
 Below are three of her tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
 
@@ -1722,9 +1743,11 @@ Amy has the two-stage number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Amy’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1766,11 +1789,13 @@ Hannah has a different number machine which has produced the following table of 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately the labels have fallen off Hannah’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1832,6 +1857,7 @@ The first one has already been done for you.
 ![missing table](/papers/missing_table.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1883,6 +1909,7 @@ ttable
 James missed the $4.20 \ \text{p.m.}$ train by three minutes.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How long must he wait to catch the 5.02 p.m. train?
 
@@ -1972,6 +1999,7 @@ Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2013,6 +2041,7 @@ Claire and Erin play a similar game.
 They record their results in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 
 Work out what Erin does to each number that Claire calls out.
@@ -2075,7 +2104,8 @@ Mrs King asked all the children in Year $6$ if they play tennis.
 
 This table shows some of the results.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2250,6 +2280,7 @@ Here is a pattern made with small equilateral triangles using centimetre dotted 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2287,6 +2318,7 @@ TODOANSWER
 Complete pattern $4$ on the isometric paper below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2327,6 +2359,7 @@ TODOANSWER
 Complete the table showing the number of lines, dots and small triangles in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

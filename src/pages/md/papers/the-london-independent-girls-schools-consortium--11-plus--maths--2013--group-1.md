@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -436,15 +436,41 @@ $45  \quad 53 \quad \boxed{\phantom{55}}  \quad 69$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+8)} } 
-&&  \footnotesize {\maroonC {(+8)} }  
-&&  \footnotesize {\maroonC {(+8)} } \\
+&   \footnotesize {\maroonC
+ {(+8)} } 
+&&  \footnotesize {\maroonC
+ {(+8)} }  
+&&  \footnotesize {\maroonC
+ {(+8)} } \\
+45,  &&    53,  &&   \ldots,  &&   69
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 53 + 8 \\\\
+                       &= 61
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+8)} } 
+&&  \footnotesize {\maroonC
+ {(+8)} }  
+&&  \footnotesize {\maroonC
+ {(+8)} } \\
 45,  &&    53,  &&   \ldots,  &&   69
 \end{matrix}
 $
@@ -934,6 +960,7 @@ One of the times has been covered.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1291,6 +1318,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1538,6 +1566,7 @@ $80 \ \text{millilitres}$ olive oil
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1774,6 +1803,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 At SuperMart, a packet of jam tarts costs $\pounds 1.20$.
 
 This week, there is a special offer:
@@ -1858,6 +1888,7 @@ Draw all lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1887,6 +1918,7 @@ TODOANSWER
 Reflect the shaded shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1919,6 +1951,7 @@ This clock has been reflected in a mirror.
 What time is it?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1966,6 +1999,7 @@ Mrs Spencer asked each of the children in class $6A$ to state their favourite Ol
 The pie chart below shows the results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2132,6 +2166,7 @@ tcircle
 The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2369,6 +2404,7 @@ Work out the area of the shape below, drawn on centimetre-squared paper.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2424,6 +2460,7 @@ TODOANSWER
 a rectangle with perimeter $10 \ \text{cm}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2755,6 +2792,7 @@ Points $P$ and $Q$ have been plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2863,11 +2901,13 @@ and a square on its bottom face.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On each of the other faces there is an arrow, pointing towards the top face.
 
 Circle the net below which will make the cube described above.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2918,6 +2958,7 @@ Tilly and Tally have a large tub of $1$-centimetre cubes.
 Tilly uses some of the cubes to make the cuboid shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3032,6 +3073,7 @@ $1$ bag of potatoes
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use this information to work out the mass of the bag of potatoes.
 
 Give your answer in grams.
@@ -3084,6 +3126,7 @@ Here is the start of a pattern made with black hexagons and white hexagons:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3111,6 +3154,7 @@ TODOANSWER
 Complete the table showing the numbers of black hexagons and white hexagons in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3308,6 +3352,7 @@ Fill in the table below to show this information.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3488,6 +3533,7 @@ The area of each face of the cubes is $1 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the shape is dipped into a large pot of paint, what is the total 
 area which will be covered in paint?
 
@@ -3666,6 +3712,7 @@ Their names are Dolly, Holly, Lolly, Molly and Polly.
 The bar chart below shows their results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use the information below to work out which child is represented by each letter.
 
@@ -3922,6 +3969,7 @@ so that the number in each circle is the total of the numbers in each of the fou
 The numbers $2, 3$ and $5$ have already been placed for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

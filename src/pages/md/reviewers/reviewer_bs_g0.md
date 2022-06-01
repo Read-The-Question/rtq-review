@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-bs-g0"
 title: "Reviewer - Banoth Sairam - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -500,11 +500,13 @@ What fraction of the area of the triangle has been shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with answer triangles drawn in IMAGE_PLACEHOLDER_ENDS **
 
@@ -561,6 +563,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 The wall measurement is given in feet while the tile measurement is given in inches.
 
 Let's convert the wall measurements into inches.
@@ -833,6 +836,7 @@ together to make the letter $F$, which he then
 paints. What area is covered with paint?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1472,7 +1476,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -1673,15 +1678,46 @@ What is the missing number in this list $33, 44, 56, \ldots, 83, 98$?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+11)}} 
-&&  \footnotesize{\maroonC{(+12)}}  
-&&  \footnotesize{\maroonC{(+13)}}   
-&&  \footnotesize{\maroonC{(+14)}}  
-&&  \footnotesize{\maroonC{(+15)}} \\
+&   \footnotesize{\maroonC
+{(+11)}} 
+&&  \footnotesize{\maroonC
+{(+12)}}  
+&&  \footnotesize{\maroonC
+{(+13)}}   
+&&  \footnotesize{\maroonC
+{(+14)}}  
+&&  \footnotesize{\maroonC
+{(+15)}} \\
+33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 56 + 13 \\\\
+                        &= 69
+\end{aligned}
+$
+
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+11)}} 
+&&  \footnotesize{\maroonC
+{(+12)}}  
+&&  \footnotesize{\maroonC
+{(+13)}}   
+&&  \footnotesize{\maroonC
+{(+14)}}  
+&&  \footnotesize{\maroonC
+{(+15)}} \\
 33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
 \end{matrix}
 $
@@ -1986,7 +2022,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 
 As per the question,
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -2535,16 +2572,45 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+1.6)}} 
-&&  \footnotesize{\maroonC{(+1.6)}}  
-&&  \footnotesize{\maroonC{(+1.6)}}   
-&&  \footnotesize{\maroonC{(+1.6)}}  \\
+&   \footnotesize{\maroonC
+{(+1.6)}} 
+&&  \footnotesize{\maroonC
+{(+1.6)}}  
+&&  \footnotesize{\maroonC
+{(+1.6)}}   
+&&  \footnotesize{\maroonC
+{(+1.6)}}  \\
+2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4.3 + 1.6 \\\\
+                        &= 5.9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1.6)}} 
+&&  \footnotesize{\maroonC
+{(+1.6)}}  
+&&  \footnotesize{\maroonC
+{(+1.6)}}   
+&&  \footnotesize{\maroonC
+{(+1.6)}}  \\
 2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
 \end{matrix}
 $

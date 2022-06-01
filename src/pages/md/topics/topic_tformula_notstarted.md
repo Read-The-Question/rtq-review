@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tformula-notstarted"
 title: "Topic - Formula - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -163,6 +163,7 @@ For example, $26 = 12 + 14$ and $5 = 1 + 4$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -200,6 +201,7 @@ TODOANSWER
 Complete the triangle of numbers:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -240,6 +242,7 @@ TODOANSWER
 Complete the triangle of numbers:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

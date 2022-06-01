@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-notstarted"
 title: "Topic - Permutation - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -299,6 +299,7 @@ How many ways are there of colouring in three squares in this grid so that exact
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -358,6 +359,7 @@ He only ever walks north (up the map) or east (to the right of the map).
 How many different possible routes are there?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -604,9 +606,11 @@ Here are some number cards:
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $3927$, like this:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use the four number cards to make numbers that are as close as possible to the numbers written below.
 
@@ -614,13 +618,17 @@ Example
 
 ![missing image](/papers/missing_image.svg)
 
+
 You must **not** use the same card more than once in each answer.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1101,6 +1109,7 @@ What is the only other possible order?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1205,7 +1214,8 @@ tdraw
 
 The equilateral triangle ADF is split into four equally sized smaller equilateral triangles.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1234,6 +1244,7 @@ The equilateral triangle ADF is split into four equally sized smaller equilatera
 Two of the four small triangles are to be painted black and the other two are to be painted white .In how many different ways can this be done?
 
 ![missing image](/papers/missing_image.svg)
+
 
 Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page **and** without going over the same line twice. He begins at A and then travels to B.
 
@@ -1430,9 +1441,13 @@ Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on t
 the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1669,6 +1684,7 @@ tpermutation
 The streets of New York are arranged in a grid as shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are three direct ways of travelling from $A$ to $B$.
 
@@ -1926,6 +1942,7 @@ How long is the shortest distance from $A$ to $B$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1989,6 +2006,7 @@ In the interest of marital harmony each husband must sit next to his wife.
 The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2109,6 +2127,7 @@ Mr Green buys tickets for seats $A1, A2, A3, A4, B1$ and $B2$. Assuming that the
 sit still apply, work out the number of ways in which Mr Green can allocate the tickets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2356,6 +2375,7 @@ For example, there are three different possible footpaths between villages $Q$ a
 
 ![missing image](/papers/missing_image.svg)
 
+
 Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
 
 Work out how many different possible routes Jane could take?
@@ -2421,11 +2441,13 @@ $3$ other people arrive who do not mind where they sit.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many different possible seating arrangements are there of the $6$ people?
 
 *You may find the boxes helpful*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2541,6 +2563,7 @@ For example:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Blue Green
 
 because international rules state that the flag may not be all one colour and the rules also state that they are only allowed to pick from a certain number of colours.
@@ -2548,6 +2571,7 @@ because international rules state that the flag may not be all one colour and th
 The country always chooses what colour to put in the left section first. When calculating how many possible choices that they have for their flag; the following system is adopted. So with seven possible colours the choices would be
 
 ![missing table](/papers/missing_table.svg)
+
 
 Any of the $7$ colours
 Any of the $6$ remaining colours
@@ -2559,6 +2583,7 @@ If the country wants to make a flag with three colours, the rules state that the
 If there were $4$ choices of colour the calculation would be:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Any of the $4$ colours
 Any of the $3$ remaining colours
@@ -2851,6 +2876,77 @@ $810$
 </ul>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>826766D1-0786-4F68-AD0B-6CA2C8F22C40</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpermutation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a school table-tennis league each team plays each of the other teams **twice** during the year, once at home and once away. If there are $30$ matches in total during the season, how many teams are there in the table-tennis league?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question each team plays every other team twice
+
+Let's take
+
+total no. of teams in a leagues as $x$ teams
+
+total no. of games played as       $n$  games
+
+$
+\begin{aligned}
+n \  &= x^2 - x \\
+30 \ &= x^2 - x 
+\end{aligned}
+$
+
+$x$ is greater than $5$ as $(5 \times 5) = 25$
+
+Let' try to substitute $x$ with $6$
+
+$
+\begin{aligned}
+30 &= 6^2 - 6 \\
+   &= (6 \times 6) - 6 \\
+   &= 36 - 6 \\
+   &= 30 \\
+\end{aligned}
+$
+
+$x$ = 6
+
+There are total of $6$ teams playing the league
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

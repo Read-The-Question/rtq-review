@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -115,6 +115,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the coordinates of the centre of the square?
 
@@ -276,6 +277,7 @@ Which shape has exactly two lines of symmetry?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -376,6 +378,7 @@ tgraph
 The chart below shows the number of children in classes 5S and 5 \text{p}$ who live up to $\dfrac{1}{2}$ mile and more than $\dfrac{1}{2}$ mile from school.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more children in class 5 \text{p}$ than 5S live less than $\dfrac{1}{2}$ mile from school?
 
@@ -679,6 +682,7 @@ A square has the same area as the rectangle below. What is the length of its sid
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -935,6 +939,7 @@ tstatistics
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which day has the median temperature?
 
 </div>
@@ -1083,6 +1088,7 @@ tstatistics
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the range of the shoe sizes?
 
@@ -1573,7 +1579,8 @@ What is the probability of picking a green counter?
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
                     &= \dfrac {7} {15}
 \end{aligned}
@@ -1929,6 +1936,7 @@ tangle
 
 ![missing table](/papers/missing_table.svg)
 
+
 A pie chart is drawn to show children’s favourite colour using the table above. What size angle would represent Red?
 
 </div>
@@ -1988,7 +1996,8 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
 
@@ -2185,6 +2194,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 $180$ children were surveyed as to their favourite pastime. The results are in the pie chart above. How many children prefer computers?
 

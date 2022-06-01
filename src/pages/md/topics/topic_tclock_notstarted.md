@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-notstarted"
 title: "Topic - Clock - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -196,6 +196,7 @@ Calculate the angle between the hands of a clock at $9.30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -251,6 +252,7 @@ Work out how many degrees the minute hand moves through between $07.30$ and $09.
 You can use the clock face to help you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -379,6 +381,7 @@ $4 \ \text{pm}$ and $6 \ \text{pm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -419,6 +422,7 @@ $2.30 \ \text{pm}$ and $3.50 \ \text{pm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -458,6 +462,7 @@ TODOANSWER
 Work out the angle between the hour and minute hands when the time is $3.15 \ \text{pm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -734,7 +739,9 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1320,7 +1327,10 @@ tclock
 
 What is the smaller angle between the hour hand and the minute hand at the following times?
 
-![missing image](/papers/missing_image.svg)              ![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)            
+![missing image](/papers/missing_image.svg)
+              ![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+            
 
 </div>
 <div class='workings'>
@@ -1678,6 +1688,7 @@ What is the acute angle between the hands of a clock at
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1809,6 +1820,7 @@ Draw all lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1838,6 +1850,7 @@ TODOANSWER
 Reflect the shaded shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1870,6 +1883,7 @@ This clock has been reflected in a mirror.
 What time is it?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1915,6 +1929,7 @@ tclock
 Between $3 \ \text{a.m.}$ and $6 \ \text{a.m.}$ the hour hand on a clock moves through an angle of $90 \degree$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the angle which the hour hand on a clock move through between
 
@@ -2054,6 +2069,247 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>97D098CD-FA0C-4FD9-B9F2-AE1076B52CD4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tclock
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A clock shows $2$ o'clock, with the minute hand on $12$ and the hour hand on $2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many times does the minute hand go past the hour hand between $2.00 \ \text{pm}$ and $7.00 \ \text{pm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What time will the clock show when the hour hand has turned through an angle of $60 \degree$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What time will the clock show when the minute hand has turned through an angle of $900 \degree$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Through what angle will the minute hand have turned from $2$ o'clock, when the clock shows $10$ o'clock?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Through what angle will the hour hand have turned from $2$ o'clock, when the clock shows $6{:}30$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2326,6 +2582,7 @@ tclock
 What is the angle between the hands of this clock?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

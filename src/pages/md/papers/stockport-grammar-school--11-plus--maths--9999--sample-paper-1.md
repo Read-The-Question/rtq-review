@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -606,6 +606,7 @@ $12 \ \text{m} + 37 \ \text{cm}$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -642,6 +643,7 @@ $6.3 \ \text{km} - 140 \ \text{m}$
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -747,6 +749,7 @@ talgebra
 Find the missing angle, $x$: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -859,6 +862,7 @@ Matthew buys $2$ sandwiches and a cookie with a $\pounds 5$ note.
 How much change does he receive?
 
 ![missing table](/papers/missing_table.svg)
+
                    
 <!--
 Price List
@@ -1025,7 +1029,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1289,7 +1294,8 @@ talgebra
 
 Find the size of angle $x$:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1624,7 +1630,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1693,6 +1700,7 @@ Find the area of the triangle
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 $
 \begin{aligned}
 \text{area} &=  \dfrac{1}{2} \times 2 \times 3 \\\\ 
@@ -1729,12 +1737,14 @@ Reflect the triangle in the x-axis and label your shape $B$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 </div>
@@ -1766,7 +1776,8 @@ ttemperature
 
 The table shows the average temperatures of some European cities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1915,6 +1926,7 @@ What is the difference in volumes of the two boxes?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2021,7 +2033,8 @@ tnumber
 
 Here is a recipe to make $6$ pancakes.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2256,17 +2269,59 @@ What is the sum of the next three terms in the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{\times 2 - 3 }}
-&&  \footnotesize{\maroonC{\times 2 - 3 }} 
-&&  \footnotesize{\maroonC{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC{\times 2 - 3 }}  \\
+&   \footnotesize{\maroonC
+{\times 2 - 3 }}
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }} 
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}  \\
+4,  &&    5,  &&  7,  &&   \ldots, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 7 \times 2 - 3 \\\\
+                               &= 14 - 3 \\\\     
+                               &= 11 \\\\
+\text{Second missing number}   &= 11 \times 2 - 3 \\\\
+                               &= 22 - 3 \\\\     
+                               &= 19 \\\\
+\text{Third missing number}    &= 19 \times 2 - 3 \\\\
+                               &= 38 - 3 \\\\ 
+                               &= 35 \\\\
+\text{The sum of the next three terms in the sequence}  &= \text{First missing number} + \text{Second missing number} + \text{Third missing number} \\\\
+&=  11 + 16 + 39 \\\\
+&=  65
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{\times 2 - 3 }}
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }} 
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}   
+&&  \footnotesize{\maroonC
+{\times 2 - 3 }}  \\
 4,  &&    5,  &&  7,  &&   \ldots, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -2726,7 +2781,8 @@ tsimpleword
 
 The following grid is made of $1 \ \text{cm}$ squares. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2763,6 +2819,7 @@ As per the question,
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}

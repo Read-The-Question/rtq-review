@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,6 +146,7 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  a trapezium
 -  a rhombus
 -  an octagon
@@ -197,6 +198,7 @@ tgeometry
 How many squares are in this picture?
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  $2$
 -  $3$
@@ -254,6 +256,7 @@ Here is a triangular prism.
 Write down the number of:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -386,6 +389,7 @@ Calculate the total length marked with $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -468,6 +472,7 @@ Write the name of the following shapes underneath them.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -495,6 +500,7 @@ $\text {Cone}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -568,6 +574,7 @@ Write the name of the following 3-dimensional shapes underneath them.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -595,6 +602,7 @@ $\text {Sphere}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -642,7 +650,8 @@ tgeometry
 
 Here are some 2D shapes. Write the name of each shape underneath it.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -711,7 +720,8 @@ Underneath each shape write down its name.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -741,6 +751,7 @@ $\text {Parallelogram}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -768,6 +779,7 @@ $\text {Kite}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

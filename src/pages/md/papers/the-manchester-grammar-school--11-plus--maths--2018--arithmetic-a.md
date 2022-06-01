@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -130,7 +130,27 @@ $2.3, \quad 3.4, \quad 4.7, \quad 6.2, \quad \ldots, \quad 9.8$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+1.1)}} 
+&&  \footnotesize {\maroonC {(+1.3)}}  
+&&  \footnotesize {\maroonC {(1.5)}}   
+&&  \footnotesize {\maroonC {(+1.7)}}  
+&&  \footnotesize {\maroonC {(+1.9)}} \\
+2.3,  &&    3.4,  &&    4.7,  &&   6.2,  &&   \ldots,  &&   9.8
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 6.2 + 1.7 \\\\
+                        &= 7.9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -404,6 +424,7 @@ Add together $6.37, 10.04$ and $203$.
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &       &      &    6 \ .  &    3  &    7 \\
@@ -643,7 +664,8 @@ Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
 
 A quick check shows that $5$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 5 \ \text{cm}$ 
 

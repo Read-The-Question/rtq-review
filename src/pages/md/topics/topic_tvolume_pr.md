@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-pr"
 title: "Topic - Volume - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,7 +57,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 5 \ \text{cm} \times 20 \ \text{cm} \times 10 \ \text{cm} \\\\
                 &= 1000 \ \text{cm}^{3}
 \end{aligned}
@@ -142,7 +143,9 @@ tvolume
 
 This cube and cuboid have the same volume.
 
-![missing image](/papers/missing_image.svg)             ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+             ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -425,6 +428,7 @@ measurements are in cm.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the maximum number of bricks which can be fitted into the packing case?
 
 </div>
@@ -508,6 +512,7 @@ tvolume
 What is the difference in volumes of the two boxes?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

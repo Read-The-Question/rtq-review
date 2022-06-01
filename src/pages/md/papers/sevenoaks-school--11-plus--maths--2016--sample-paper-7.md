@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -472,6 +472,7 @@ Let's take the number of coins as $= a$
 As per question,
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -1137,7 +1138,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1323,6 +1325,7 @@ Find the area of the unshaded region in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Diagram not drawn to scale
 
 </div>
@@ -1379,6 +1382,7 @@ tsimpleword
 Find the area of the shaded region in the diagram below. Give your answer in terms of $\pi$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram not drawn to scale
 
@@ -1437,6 +1441,7 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1491,6 +1496,7 @@ talgebra
 Find the size of the angles marked with the letters $a$ and $b$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1718,7 +1724,10 @@ tinfer
 
 In these diagrams, black squares are surrounded on three sides by white squares. Let $b$ represent the number of black squares and $w$ represent the number of white squares.
 
-![missing image](/papers/missing_image.svg)         ![missing image](/papers/missing_image.svg)           ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+         ![missing image](/papers/missing_image.svg)
+           ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2005,7 +2014,9 @@ A square is divided into three congruent rectangles. The middle rectangle is rem
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 
 What is the ratio of the perimeter of the square to the perimeter of the octagon?
@@ -2117,6 +2128,7 @@ tinfer
 In this magic square, which uses all whole numbers from $7$ to $15$ (including $7$ and $15$), each of the rows, columns and the two main diagonals have the same total. Which number replaces  in the completed square?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

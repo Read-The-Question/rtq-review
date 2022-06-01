@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-all"
 title: "Topic - Draw - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -90,6 +90,7 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  a trapezium
 -  a rhombus
 -  an octagon
@@ -153,13 +154,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -219,9 +223,11 @@ The square grid shows a rectangle reflected in **two mirror lines**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the square grid below, show the triangle reflected in the two mirror lines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -286,6 +292,7 @@ For each shape on the left, draw a **rectangle** that has the same area.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -349,6 +356,7 @@ Match each statement with the correct expression for the amount in pence.
 The first on is done for you.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -442,43 +450,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -518,6 +489,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -555,6 +527,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -611,6 +623,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -781,43 +794,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -857,6 +833,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -894,6 +871,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -949,7 +966,8 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1122,6 +1140,7 @@ Write down the decimal number that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1161,6 +1180,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1237,6 +1257,7 @@ TODOANSWER
 The jug contains water up to the level shown in the diagram. How many millilitres (ml) of water are in the jug?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1375,6 +1396,7 @@ TODOANSWER
 Write down the coordinates of point $A$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1574,43 +1596,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -1649,6 +1634,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1714,6 +1739,7 @@ Here are some patterns made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1754,6 +1780,7 @@ Complete the diagram for pattern $5$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1793,6 +1820,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1890,6 +1918,7 @@ Label each arrow with the number it indicates on the scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1944,9 +1973,13 @@ tdraw
 Look at the diagrams below, consisting of dots and lines:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2115,7 +2148,9 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2327,6 +2362,7 @@ Use your ruler to measure the length and width of this rectangle *8as accurately
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2426,6 +2462,7 @@ The shaded **rectangle** has area $12 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2463,6 +2500,7 @@ TODOANSWER
 On this grid draw a different a **different rectangle** with area $12 \ \text{cm}^2$ (rotations are not allowed).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2558,13 +2596,17 @@ tdraw
 
 Anah is making patterns with matchsticks. Here are her first three:
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 Draw pattern $4$ in the space below.
 
 Fill in this table:
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2819,6 +2861,7 @@ Reflect the shapes in the grids below so tht the marked lines are lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2877,6 +2920,7 @@ Shade three more squares so that the dotted line is a line of symmetry (mirror l
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2934,6 +2978,7 @@ tsimpleword
 The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3134,6 +3179,7 @@ What number is the arrow pointing to? Write your answer in the box.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3269,7 +3315,8 @@ tsymmetry
 
 I have four identical square tiles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3308,6 +3355,7 @@ TODOANSWER
 Shade in the diagram below to show how the four tiles can fit together to make a pattern with $\bold{4\:\:lines\:\: of\:\: symmetry}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3349,6 +3397,7 @@ Now shade in the next diagram to show how the four tiles can fit together to mak
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3388,6 +3437,7 @@ TODOANSWER
 Show how the four tiles can fit together to make a pattern with $\bold{rotation\:\: symmetry\:\: of\:\: order\:\: 2}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3429,6 +3479,62 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>724517C5-450C-400E-8D62-81DD6270A1E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shade in $\dfrac{3}{5}$ of this shape
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>F5BAF6A4-6EAB-4502-94EE-2430B7FAF0C8</p>
 </div>
 <div class='topics'>
@@ -3449,6 +3555,7 @@ tdraw
 On the coordinate grid below each small square represents $1 \ \text{cm}$ by $1 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3623,6 +3730,7 @@ Finish shading the diagram, colouring *only two* more squares, so that the image
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3683,7 +3791,9 @@ The table and the bar chart have not been completed.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3988,6 +4098,7 @@ tangle
 
 ![missing table](/papers/missing_table.svg)
 
+
 A pie chart is drawn to show children’s favourite colour using the table above. What size angle would represent Red?
 
 </div>
@@ -4048,6 +4159,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4105,6 +4217,7 @@ tgeometry
 On the axes below, point $A$ has coordinates $(3,1)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4317,6 +4430,7 @@ For example, the display below represents the time $05{:}26$ since:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4354,6 +4468,7 @@ TODOANSWER
 Write down the time in ($24-\text{hour}$ format) represented by the display:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4395,6 +4510,7 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4434,7 +4550,9 @@ TODOANSWER
 Calculate how long it is between the times displayed on watch A and watch B below:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4534,6 +4652,7 @@ on the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4573,6 +4692,7 @@ TODOANSWER
 Now shade two sections in the second line grid so that the overall shape has an order of rotational symmetry of two.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4746,7 +4866,8 @@ tgeometry
 
 $A, B$ and $C$ are three points on a grid. $A$ is at $(5,2) B$ is at $(4,5)$ and $C$ is at $(3,0)$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5008,6 +5129,7 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5143,7 +5265,8 @@ The sixteen shapes in the grid each contain a number with the following rules:
 - The numbers in the circle are four more than the numbers in the squares on the same row.
 - The numbers in the triangles are double those of the numbers in the squares on the same row.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5260,6 +5383,7 @@ Write one of the four arithmetic symbols $(+, -, \times, \div)$ in each of the t
 the following formula linking all the numbers in any row of shapes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5401,6 +5525,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 | Number of burgers sold |  14 |  25  |     |  12  | 21  | 27  |     |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5577,6 +5702,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5724,6 +5850,7 @@ The table and bar chart below are to show the number of points scored by a rugby
 | Number of points scored |  25 |      |     |   9  | 23  | 30  |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5941,6 +6068,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6080,6 +6208,7 @@ tgeometry
 $A, B$ and $C$ are $3$ points on a grid. $A$ is at $(5, 1), B$ is at $(1, 1)$ and $C$ is at $(3, 5)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6254,7 +6383,8 @@ tdraw
 
 Rotate the triangle through $180\degree$ about the point marked $A$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6314,10 +6444,12 @@ The diagram below shows $4$ triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pieces can be put together to form geometric shapes. The cards can be turned upside down or rotated if necessary. 
 On the grid below the $4$ pieces have been put together to make a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below draw a diagram to show how all $4$ pieces of card could be put
 together to form the named shape.
@@ -6360,6 +6492,7 @@ A rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6399,6 +6532,7 @@ TODOANSWER
 A parallelogram that is not a rectangle
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6459,7 +6593,8 @@ tdraw
 
 Draw the reflection of each shape in the mirror line as shown.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6526,7 +6661,8 @@ Circle $B$ needs to contain multiples $4$.
 
 You will need to put some numbers outside of the two circles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6587,7 +6723,8 @@ tsymmetry
 
 Sarah has designed a tile for her new kitchen as shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6626,6 +6763,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6669,8 +6807,11 @@ half a turn.
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6735,7 +6876,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7022,6 +7164,7 @@ tinfer
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw out a $3$ by $3$ grid like that shown.
 
 Place the numbers $2 \ 2 \ 2 \ 3 \ 3 \ 3 \ 4 \ 4 \ 4$ in it so that when 
@@ -7084,7 +7227,8 @@ tgeometry
 
 Draw the shape whose sides are twice as big as the one shown in the space in the grid below it.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7142,7 +7286,8 @@ tsymmetry
 
 Reflect these shapes in the mirror lines.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7203,6 +7348,7 @@ Theo has a parallelogram and with one straight cut makes two pieces which he put
 Show a cut he could make to do this on the diagram. In the space below show how  the two pieces can then fit together to make a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7335,6 +7481,7 @@ A number of shapes have been made with matches. For this pattern:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7410,6 +7557,7 @@ TODOANSWER
 Complete the table below, to show how many matches there are
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7508,7 +7656,9 @@ tdraw
 
 Draw an extra line to give each shape below one line of symmetry.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7567,6 +7717,7 @@ Draw all of the lines of symmetry on the following shapes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7620,6 +7771,7 @@ tdraw
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7672,6 +7824,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the two shapes above draw the correct signs onto the shapes to show:
 
@@ -7844,6 +7997,7 @@ tdraw
 Complete the following using the lettered points in the frame.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Example: Square $A \ B \ C \ H$
 
@@ -8091,6 +8245,7 @@ Look at this diagram
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8207,6 +8362,7 @@ TODOANSWER
 Shade $\dfrac{2} {3}$ of this diagram
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8384,6 +8540,7 @@ Write down the names of the four shapes in this diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Shape 1 is a____________________ 
 
 Shape 2 is a____________________
@@ -8468,6 +8625,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8505,6 +8663,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8548,6 +8707,7 @@ TODOANSWER
 Complete the shaded shape on the diagram below to make the dotted line a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8606,6 +8766,7 @@ tdraw
 This temperature chart shows the temperature taken at $6\ \text{hour}$ intervals one day in January.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8721,6 +8882,7 @@ Show the time $1800\ \text{hours}$ in this clock face.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8782,6 +8944,7 @@ tangle
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8954,15 +9117,18 @@ tdraw
 
 Square patterns are drawn as follows 
 
-Pattern 1   small square  ![missing image](/papers/missing_image.svg)  1 square
+Pattern 1   small square  ![missing image](/papers/missing_image.svg)
+  1 square
 
 Pattern 2   medium square
 
-![missing image](/papers/missing_image.svg)  1 large square + 4 small squares gives a total of 5 squares
+![missing image](/papers/missing_image.svg)
+  1 large square + 4 small squares gives a total of 5 squares
 
 Pattern 3  large square 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 (note the medium squares can overlap)
        
 _____large square
@@ -9112,6 +9278,7 @@ The graph shows information about temperatures in one month.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For example:
 
 At $1000\ \text{metres}$, the maximum temperature is $30\degree\text{C}$.
@@ -9254,16 +9421,24 @@ tgeometry
 For each shape draw a rectangle that has the same area as the shape on the left. The first one is done for you.
 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9323,6 +9498,7 @@ The dotted line is a line of symmetry of a shape, which is partly drawn. On the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9378,6 +9554,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9520,6 +9697,7 @@ Add an additional point to the diagram so that you form a parallelogram $ABCD$. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9572,6 +9750,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9746,9 +9925,11 @@ A cube has shaded triangles on three of its faces.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is the net of the cube. Draw in the two missing shaded triangles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9810,6 +9991,7 @@ Draw the reflection of the shaded shape on the grid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9864,6 +10046,7 @@ tdraw
 Sarah sat by the river Thames and recorded the number of cyclists that passed by every minute. She plotted a bar chart of her results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10210,9 +10393,11 @@ What is the **area** of the **larger** shaded square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 In the grid below, draw **a square** with an area of $\bold{2\;cm^2}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10273,6 +10458,7 @@ A square grid is separated into $16$ small squares.
 How many ways can $\text{two squares}$ be shaded so that the gird has symmetry about the diagonal line AC if
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10388,9 +10574,15 @@ On the grids below, show all the ways exactly two squares can be shaded so that 
 
 (You may not need to use all the grids.)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10553,6 +10745,7 @@ $C$ is at $(-2, 0)$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10691,7 +10884,8 @@ On the diagram below, shade some white squares until the shape has
 - no lines of symmetry
 - rotational symmetry of order $2$
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10980,7 +11174,12 @@ Now look at this second pattern
 
 SHAPE 1 2 3 4 5
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 TOTAL 1 3 6 10 15
 
@@ -11122,6 +11321,7 @@ Shade in two fifths of the flag below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11182,6 +11382,7 @@ tgraph
 An ice cream company recently carried out a survey on $120$ people to see which of their flavours were most popular. The results are shown in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11267,6 +11468,7 @@ Draw a bar chart to represent these results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11347,6 +11549,7 @@ How many people are there all together?.
 Using the first two columns of the table, draw a bar chart to represent these results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11707,7 +11910,10 @@ TODOANSWER
 
 Draw in any lines of symmetry that the shapes have.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -11770,6 +11976,7 @@ Draw the lines of symmetry on the shape below :
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11823,7 +12030,10 @@ tdraw
 
 A pattern is made using matches. The first three patterns are shown below:
 
-![missing image](/papers/missing_image.svg)              ![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+              ![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12114,6 +12324,7 @@ Shade in one square to this pattern to give it one line of symmetry and draw on 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12170,7 +12381,10 @@ tinfer
 
 In these diagrams, black squares are surrounded on three sides by white squares. Let $b$ represent the number of black squares and $w$ represent the number of white squares.
 
-![missing image](/papers/missing_image.svg)         ![missing image](/papers/missing_image.svg)           ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+         ![missing image](/papers/missing_image.svg)
+           ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12340,7 +12554,8 @@ tdraw
 
 Draw hands so that the clock below shows a time of $16.30$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -12393,9 +12608,11 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 The diagrams show two thermometers. One of the thermometers shows a temperature of $52 \degree \text{F}$. 
 
@@ -12452,7 +12669,8 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -12590,7 +12808,9 @@ The scales show how much water is stored in tanks A and B
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -12767,6 +12987,7 @@ A factor tree can be used to write any number as a product of prime factors.
 
 ![missing image](/papers/missing_image.svg)
 
+
 We can say that 
 
 **180 = 2 $\times$ 2 $\times$ 3 $\times$ 3 $\times$ 5**
@@ -12832,7 +13053,8 @@ tdraw
 
 The equilateral triangle ADF is split into four equally sized smaller equilateral triangles.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -12861,6 +13083,7 @@ The equilateral triangle ADF is split into four equally sized smaller equilatera
 Two of the four small triangles are to be painted black and the other two are to be painted white .In how many different ways can this be done?
 
 ![missing image](/papers/missing_image.svg)
+
 
 Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page **and** without going over the same line twice. He begins at A and then travels to B.
 
@@ -12940,6 +13163,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13139,6 +13363,7 @@ For   example
 
 ![missing image](/papers/missing_image.svg)
 
+
 So  **$90 = 2 \times 5 \times 3 \times 3$** 
 By drawing  a  factor   tree, or using any   other method   you   know, write **36** as the   product  of prime factors.
 
@@ -13247,7 +13472,8 @@ tdraw
 <div class='question question'>
 
 Look at the shape on the grid below:
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -13365,6 +13591,7 @@ Now look at the diagram which shows the shape **reflected**. Put a cross on the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13404,6 +13631,7 @@ TODOANSWER
 Now look at the diagram which shows the shape **rotated** .Put a cross on the grid to show where B is rotated to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13466,6 +13694,7 @@ Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Imagine you are facing North East. If you turn through $135 \degree$ clockwise, which way are you facing?  
 
 </div>
@@ -13525,6 +13754,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing South East. If you turn through $270^o$ clockwise, which way are you facing? 
 
@@ -13636,6 +13866,7 @@ Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Imagine you are facing west. If you turn through $270^o$ anticlockwise, which way are you then facing?
 
 </div>
@@ -13686,7 +13917,9 @@ Answer the questions on the next page using the grids.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -13933,6 +14166,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13970,6 +14204,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14068,6 +14303,7 @@ On the grid, shade in one more square so that the completed shape has one line o
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14107,6 +14343,7 @@ TODOANSWER
 On the grid below, shade in three more squares so that the completed shape has a rotational symmetry of order $2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14167,7 +14404,8 @@ tdraw
 
 Here is a parallelogram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14245,6 +14483,7 @@ Here is a shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw all the lines of symmetry on this shape.
 
 </div>
@@ -14306,7 +14545,8 @@ tgraph
 
 Here is a coordinate grid.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14446,7 +14686,8 @@ tsequence
 
 Here are some patterns made up of dots.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14523,6 +14764,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -14623,15 +14865,20 @@ My youngest brother Joshua likes to play with bricks. One day he makes the follo
 
 ![missing image](/papers/missing_image.svg)
 
+
 If you look at this three-dimensional object from the three different directions indicated above, the shape looks like:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 The next day Joshua makes a different shape using six bricks:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Draw the three views of this new shape below. The diagrams do not have to be to scale. A rough free-hand sketch is all that is required.
 
@@ -14697,9 +14944,13 @@ Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on t
 the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14862,6 +15113,7 @@ Draw the hour and minute hands on the clock below to show this time.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14920,6 +15172,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14968,9 +15221,11 @@ Amar makes patterns out of sticks:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw Pattern $4$ and complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -15029,6 +15284,7 @@ tgeometry
 Mr T has designed the kitchen tile shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Show what this tile will look like after it has been turned through ninety degrees anticlockwise.
 
@@ -15090,9 +15346,11 @@ A tessellation is a pattern of tiles that fit together perfectly with no gaps or
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw six more kites on the dotty paper below to show how they tessellate.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15152,6 +15410,7 @@ Shade $15\%$ of this shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15210,6 +15469,7 @@ The diagram shows a scale drawing of a rectangular school playground.
 The distance between consecutive marks shown on the diagram is $25 \ \text{metres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15382,6 +15642,7 @@ Write down the time shown on this clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15519,7 +15780,9 @@ An empty jug is filled with water at a constant rate. The graph shows how the he
 $t$, as the jug fills up. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 For each of the following jugs draw the graph which shows how the height of water varies with time.
 
@@ -15558,7 +15821,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15597,7 +15862,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15636,7 +15903,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15696,6 +15965,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the reflex angle between the two hands on this clock?
 
 </div>
@@ -15754,6 +16024,7 @@ Geoff counted the number of lorries he saw on his journey to school each day.
 The results for Monday, Tuesday, Wednesday and Thursday are shown in the pictogram. Monday
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15973,6 +16244,7 @@ $(2, 2) \quad (6,2) \quad (4,4)$
 (The first one has already been done for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -16310,6 +16582,7 @@ Here is a bar chart showing his results:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -16426,6 +16699,7 @@ Use the bar chart to complete the frequency table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -16527,6 +16801,7 @@ He has given him these instructions to help him find it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Adam has decided to draw an accurate map to help.
 
 </div>
@@ -16568,6 +16843,7 @@ Using a scale of $1 \ \text{millimetre}$ to represent $1 \ \text{metre}$, draw a
 You will need to use a protractor.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -16782,6 +17058,7 @@ tsymmetry
 $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it Into sections. One section has been shaded.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -16945,6 +17222,7 @@ tgraph
 $3$ points have been plotted and Joined on the centimetre grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17204,6 +17482,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17266,6 +17545,7 @@ On the centimetre squared grid below, draw a net for the box.
 *(The shaded face has already been drawn for you.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17333,6 +17613,7 @@ tunitprompt
 This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville $(S)$ and Totalton $(T)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17402,6 +17683,7 @@ Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo 
 (The point $A$ is already drawn for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17547,6 +17829,7 @@ tareaperimeter
 Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17800,6 +18083,7 @@ Construct triangle $ADC$, in which angle $DAC = 44 \degree$ and $AD = 56 \ \text
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17982,7 +18266,9 @@ Some of the information is covered by ink.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ children chose sport.
 
@@ -18195,6 +18481,7 @@ This solid shape is made from identical cubes with $1 \ \text{cm}$ edges. There 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -18309,6 +18596,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 A tetrahedron is made from four congruent equilateral triangles.
 
 In the space below, draw an accurate net for this tetrahedron. 
@@ -18316,6 +18604,7 @@ In the space below, draw an accurate net for this tetrahedron.
 The shaded face has already been drawn for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -18382,6 +18671,7 @@ Here are some patterns made from tiles:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -18419,6 +18709,7 @@ TODOANSWER
 Draw pattern 4 on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -18459,6 +18750,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -18683,9 +18975,11 @@ He spins the spinner $60$ times and records the colour which the arrow points to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here are his results:
 
-![missing table](/papers/missing_table.svg).
+![missing table](/papers/missing_table.svg)
+.
 
 </div>
 <div class='workings'>
@@ -18762,6 +19056,7 @@ TODOANSWER
 Complete the bar chart to show his results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -18915,6 +19210,7 @@ $
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19019,6 +19315,7 @@ tgraph
 Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19282,7 +19579,9 @@ In the space below, draw an accurate net for this pyramid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19325,6 +19624,7 @@ This solid shape is made from $1 \ \text{cm}$ cubes.
 Calculate the volume of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19391,7 +19691,8 @@ tareaperimeter
 
 Shape $P$ is drawn on the centimetre-square grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -19610,6 +19911,7 @@ Draw accurately triangle $ABC$ where $AB =  5.5 \ \text{cm}, \text{angle} \ A = 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19753,6 +20055,7 @@ Draw in the remainder of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19812,6 +20115,7 @@ The $16$ points on this circle are equally spaced. Join $4$ points to make a squ
 You may use a ruler.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19873,6 +20177,7 @@ Draw and shade in another shape which has an area of $4$ hexagons and a perimete
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19931,6 +20236,7 @@ Shade the diagram so that the dotted line is line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19987,6 +20293,7 @@ Draw a line to show the level of the water in the new beaker.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20042,6 +20349,7 @@ Draw a reflection of the shape in the given line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20096,6 +20404,7 @@ tdraw
 On the blank grid, draw a **rectangle** of the same area as the picture below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20177,6 +20486,7 @@ TODOANSWER
 Use the ruler below to mark out the length of this pencil in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20351,6 +20661,7 @@ What mass is shown on the scale below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20390,6 +20701,7 @@ TODOANSWER
 On the scale below, draw an arrow to represent one tenth of $2 \ \text{kilograms}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20448,6 +20760,7 @@ tdraw
 Point $A$ is plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Point $B$ has coordinates $(7, 8)$.
 
@@ -20653,6 +20966,7 @@ Draw all lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20682,6 +20996,7 @@ TODOANSWER
 Reflect the shaded shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20714,6 +21029,7 @@ This clock has been reflected in a mirror.
 What time is it?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20792,6 +21108,7 @@ Work out the area of the shape below, drawn on centimetre-squared paper.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20847,6 +21164,7 @@ TODOANSWER
 a rectangle with perimeter $10 \ \text{cm}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20968,6 +21286,7 @@ Shade $75\%$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21007,6 +21326,7 @@ TODOANSWER
 Shade $\dfrac{5}{8}$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21145,6 +21465,7 @@ Draw all of the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21185,6 +21506,7 @@ Reflect the shape below in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21224,6 +21546,7 @@ TODOANSWER
 Add **one** square to the picture drawn on the dotten grid below, so that the finished shape has exactly one line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21286,6 +21609,7 @@ Billy has designed the tile shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21323,6 +21647,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is rotated through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21365,6 +21690,7 @@ Billy decides to reflect the tile in the dashed line shown below, and then rotat
 Draw the resulting tile in the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21430,6 +21756,7 @@ The diagram below shows $4$ right-angled triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 These pieces of card can be put together to form geometrical shapes.
 
 The pieces of card could be turned upside down or rotated if necessary.
@@ -21437,6 +21764,7 @@ The pieces of card could be turned upside down or rotated if necessary.
 On the grid below, $4$ pieces have been put together to form a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below, draw a diagram to show all $4$ pieces of card could be put together to form:
 
@@ -21478,6 +21806,7 @@ a rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21517,6 +21846,7 @@ TODOANSWER
 a trapezium with one line of symmetry
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21558,6 +21888,7 @@ a parallelogram
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21597,6 +21928,7 @@ TODOANSWER
 a kite
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21658,9 +21990,11 @@ When it is born, the Joak has one head with a bristle, and one body segment with
 
 ![missing image](/papers/missing_image.svg)
 
+
 At the start of each year, Joak grows one more identical body segment so that at the start of the second year it looks like this: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21737,6 +22071,7 @@ TODOANSWER
 Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 start of year     number of segments    number of bristles
  1 (when born)           1                     5
@@ -21908,6 +22243,7 @@ Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21938,6 +22274,7 @@ Reflect the word $SOW$ in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21967,6 +22304,7 @@ TODOANSWER
 How many millilitres of liquid are in this container?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22015,6 +22353,7 @@ tdraw
 Shade $75\%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22073,6 +22412,7 @@ tdraw
 Shapes $A, B, C$ and $D$ are drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22190,6 +22530,7 @@ On the grid below, draw a shape made up of $8$ little squares which has rotation
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22252,6 +22593,7 @@ This object is made from cubes.
 There are no hidden cubes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22328,9 +22670,13 @@ TODOANSWER
 The diagrams below show possible front and side views of the object.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the diagram which shows the:
 
@@ -22373,6 +22719,7 @@ TODOANSWER
 On the grid below, draw and shade the plan view of the object.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22468,6 +22815,7 @@ Shade $40\%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22507,6 +22855,7 @@ TODOANSWER
 What fraction of the large square below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22568,7 +22917,9 @@ tsymmetry
 Draw all of the lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22631,6 +22982,7 @@ On the centimetre square grid below, draw a hexagon with area $12 \ \text{cm}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22688,6 +23040,7 @@ tpercentage
 Draw lines from the centre to help you shade $20\%$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22751,6 +23104,7 @@ Complete the drawing of the parallelogram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22809,6 +23163,7 @@ Reflect the shaded shape in the mirror line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22865,7 +23220,8 @@ tgraph
 
 In the long jump competition, children recorded their results in a bar chart:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -23004,6 +23360,7 @@ Here is a pattern made with small equilateral triangles using centimetre dotted 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23041,6 +23398,7 @@ TODOANSWER
 Complete pattern $4$ on the isometric paper below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23081,6 +23439,7 @@ TODOANSWER
 Complete the table showing the number of lines, dots and small triangles in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -23250,7 +23609,8 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 The diagram opposite (which is NOT drawn to scale) shows triangle ABC with angle B $= 90˚$. AB $= 8\,cm$ and BC $= 12\,cm$.
 
@@ -23494,11 +23854,15 @@ tinfer
 
 In the diagram below, routes may only be made between dots by travelling along lines.
 
-You may only travel in directions   ![missing image](/papers/missing_image.svg) or  ![missing image](/papers/missing_image.svg) or ![missing image](/papers/missing_image.svg)
+You may only travel in directions   ![missing image](/papers/missing_image.svg)
+ or  ![missing image](/papers/missing_image.svg)
+ or ![missing image](/papers/missing_image.svg)
+
 
 So there are three routes from A to B.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23635,6 +23999,7 @@ Complete the following diagram so that the dotted line becomes an axis of symmet
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23726,6 +24091,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23765,6 +24131,7 @@ TODOANSWER
 Shade $\frac {2} {3}$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23901,6 +24268,7 @@ Draw a rectangle on the grid with the same area as the shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -24036,6 +24404,7 @@ Draw in the lines of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -24096,7 +24465,12 @@ tdraw
 Circle the shape that has a different area from the others.
 
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24155,6 +24529,7 @@ tsymmetry
 Draw **ALL** the lines of symmetry on this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24385,6 +24760,7 @@ Complete the diagram so that it has reflective symmetry in the dotted lines.
 
 ![missing image](/papers/missing_image.svg)
 
+
 line of symmetry
 
 </div>
@@ -24439,6 +24815,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24574,7 +24951,12 @@ tsymmetry
 Draw $\underbar{all}$ the lines of symmetry on the shapes below:
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg) $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+ $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
 
 $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Regular$\:\:\:\:\:\:\:\:$Pentagon
 
@@ -24636,6 +25018,7 @@ Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

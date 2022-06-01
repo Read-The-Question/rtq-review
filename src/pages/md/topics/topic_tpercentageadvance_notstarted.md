@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentageadvance-notstarted"
 title: "Topic - Percentageadvance - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -69,6 +69,7 @@ TODOANSWER
 Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

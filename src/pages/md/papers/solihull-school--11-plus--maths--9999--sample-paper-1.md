@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -795,12 +795,18 @@ The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+6)}} 
-&&  \footnotesize{\maroonC{(+6)}}  
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}} \\
+&   \footnotesize{\maroonC
+{(+6)}} 
+&&  \footnotesize{\maroonC
+{(+6)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}} \\
 3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
@@ -842,11 +848,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}}
-&&  \footnotesize{\maroonC{(+11)}} \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}} \\
 2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
@@ -890,11 +901,16 @@ Each consecutive term is calculated by multiplying the previous term by $\dfrac{
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times \dfrac{9} {10})}} 
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
+&   \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}} 
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}   
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  \\
 1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
@@ -2348,6 +2364,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2388,6 +2405,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2426,6 +2444,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3751,7 +3770,8 @@ tinfer
 
 Fill in the missing numbers so that adding each pair of corner numbers gives you the number between them (in the circles).
  
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

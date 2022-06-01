@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -198,6 +198,7 @@ tpercentage
 The table shows whether pupils in a class walk to school.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -982,6 +983,7 @@ tpercentage
 What percentage of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1959,7 +1961,8 @@ tpercentage
 
 Look at the grids below. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2105,6 +2108,7 @@ tpercentage
 
 Look at the grids below.  
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

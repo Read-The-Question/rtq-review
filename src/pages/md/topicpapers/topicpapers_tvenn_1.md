@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -36,6 +36,7 @@ Clara did a survey amongst her $20$ friends.
 How many or her friends liked **blueberries and cherries**?
 
 ![missing image](/papers/missing_image.svg)
+
 
 (Use the Venn Diagram to help you.)
 

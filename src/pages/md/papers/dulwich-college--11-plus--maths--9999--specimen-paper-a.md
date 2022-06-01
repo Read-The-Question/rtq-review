@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -304,11 +304,16 @@ The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+3)} } 
-&&  \footnotesize {\maroonC {(+3)} }  
-&&  \footnotesize {\maroonC {(+3)} }   
-&&  \footnotesize {\maroonC {(+3)} }    
-&&  \footnotesize {\maroonC {(+3)} }  \\
+&   \footnotesize {\maroonC
+ {(+3)} } 
+&&  \footnotesize {\maroonC
+ {(+3)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+3)} }    
+&&  \footnotesize {\maroonC
+ {(+3)} }  \\
 14,  &&   17,  &&  20, &&  23, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -359,11 +364,16 @@ The difference between the terms is $-0.75$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-0.75)} } 
-&&  \footnotesize {\maroonC {(-0.75)} }  
-&&  \footnotesize {\maroonC {(-0.75)} }   
-&&  \footnotesize {\maroonC {(-0.75)} }    
-&&  \footnotesize {\maroonC {(-0.75)} }  \\
+&   \footnotesize {\maroonC
+ {(-0.75)} } 
+&&  \footnotesize {\maroonC
+ {(-0.75)} }  
+&&  \footnotesize {\maroonC
+ {(-0.75)} }   
+&&  \footnotesize {\maroonC
+ {(-0.75)} }    
+&&  \footnotesize {\maroonC
+ {(-0.75)} }  \\
 14, && 13.25, && 12.5, && 11.75, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -529,6 +539,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -580,6 +591,7 @@ tgraph
 The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -877,7 +889,8 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin {aligned}
@@ -1014,6 +1027,7 @@ are in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1059,6 +1073,7 @@ The diagram is now squashed to make the top angle $90\degree$, turning all the t
 Calculate how many acute angles there are in the diagram now.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1125,6 +1140,7 @@ tgeometry
 On the axes below, point $A$ has coordinates $(3,1)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1549,6 +1565,7 @@ Find the area of rectangle shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1584,6 +1601,7 @@ $1200 \ \text{mm} ^2$
 George cuts the rectangle up into an exact number of right-angled triangles, each with sides as shown in the diagram below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the number of triangles that he cuts from the rectangle.
 
@@ -1969,6 +1987,7 @@ For example, the display below represents the time $05{:}26$ since:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2006,6 +2025,7 @@ TODOANSWER
 Write down the time in ($24-\text{hour}$ format) represented by the display:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2047,6 +2067,7 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2086,7 +2107,9 @@ TODOANSWER
 Calculate how long it is between the times displayed on watch A and watch B below:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2363,6 +2386,7 @@ Complete the table and bar chart for the students' findings.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2505,6 +2529,7 @@ on the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2544,6 +2569,7 @@ TODOANSWER
 Now shade two sections in the second line grid so that the overall shape has an order of rotational symmetry of two.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2599,6 +2625,7 @@ tfraction
 The diagram below is made from three squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the fraction of the larger square that is shaded, giving your answer in its lowest form.
 

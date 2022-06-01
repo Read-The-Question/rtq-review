@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -266,16 +266,45 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}  \\
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
+83,  &&   76,  &&   69,  &&   62,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next missing number}  &= 62 - 7 \\\\
+                            &= 55
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
 83,  &&   76,  &&   69,  &&   62,  &&   \ldots
 \end{matrix}
 $
@@ -650,6 +679,7 @@ What fraction of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -828,6 +858,7 @@ The two-stage number machine below changes numbers according to the rule:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -855,6 +886,7 @@ TODOANSWER
 Work out the output when the input is $13$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -885,6 +917,7 @@ TODOANSWER
 Work out the input when the output is $120$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -920,6 +953,7 @@ There are two possible function machines that will give the results shown below.
 Work out the rules for the two possible machines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -969,11 +1003,13 @@ Jasmine has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed side by side to form different numbers.
 
 For example, using four of the cards, the largest $4$-digit even number that can be made is $9854$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1167,6 +1203,7 @@ The numerals $1$ to $9$ are used in this magic square.
 Complete the magic square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1377,6 +1414,7 @@ Lily uses these ingredients to make strawberry sorbet:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1548,6 +1586,7 @@ tvenn
 The Venn diagram below is being used for sorting even numbers from $2$ to $20$ inclusive.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1751,7 +1790,8 @@ tgeometry
 
 Reflect the shape in the mirror line.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1794,6 +1834,7 @@ ttable
 James missed the $4.20 \ \text{p.m.}$ train by three minutes.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How long must he wait to catch the 5.02 p.m. train?
 
@@ -1902,6 +1943,7 @@ What is the length of the pencil?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1996,6 +2038,7 @@ The pictogram below shows the results of a survey into the numbers of woodlice f
 One symbol represents **two** woodlice.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2184,6 +2227,7 @@ Shade in four squares, so that the finished shape has exactly two lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2226,11 +2270,13 @@ The diagram shows a spinner with the numbers $1$ to $20$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Vanessa spins the spinner.
 
 The spinner is equally likely to land on each section of the disc.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the likelihood scale above:
 
@@ -2392,6 +2438,7 @@ Tick the correct box for each statement:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2436,6 +2483,7 @@ tunitprompt
 The reading on the scale below shows the mass of a parcel.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down the mass:
 
@@ -2672,6 +2720,7 @@ On the centimetre square co-ordinate grid below, plot and label the points $P(3,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $PQRS$ is a square.
 
 </div>
@@ -2782,6 +2831,7 @@ Fred fits together two triangles to form a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2810,9 +2860,11 @@ On the grid below, show how Fred can fit together the same two triangles to make
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fran fits together two isosceles triangles to make a parallelogram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2843,6 +2895,7 @@ TODOANSWER
 On the grid below, show how Fran can fit together the same two isosceles triangles to make a rhombus.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2893,7 +2946,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3053,7 +3107,8 @@ tvolume
 
 Cube $A$ has a volume of $8 \ \text{cm}^3$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 
 Another cube, $B$, has edges which are twice the length of the edges of cube $A$.
@@ -3295,6 +3350,7 @@ A start has been made for you.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3373,6 +3429,7 @@ The diagram below shows patterns drawn on a square dotted grid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3429,6 +3486,7 @@ Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3458,6 +3516,7 @@ TODOANSWER
 Sarah suggests that the perimeter of a particular pattern can be worked out using the number machine below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use Sarah’s idea to calculate the perimeter of pattern $10$.
 
@@ -3490,6 +3549,7 @@ TODOANSWER
 Emilia suggests that the number of squares in a pattern can be worked out by following these instructions, in order:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use the instructions to calculate the number of squares in pattern $100$.
 
@@ -3861,6 +3921,7 @@ Paula has two counters, with different whole numbers on each side.
 She throws them once and adds the numbers she sees:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Paula throws her counters several more times and gets the following totals:
 

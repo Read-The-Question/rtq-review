@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -166,10 +166,7 @@ $3634$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tdivision
 </li>
 </ul>
 </div>
@@ -234,6 +231,7 @@ tnoexplanation
 What is the reading on the measuring cylinder
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -330,7 +328,9 @@ Both of these nets fold to make a cube.
 
 Shade the square that will be opposite the black square when the net is folded into a cube.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -526,10 +526,10 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tfraction
 </li>
 <li>
-todo
+tdraw
 </li>
 </ul>
 </div>
@@ -538,6 +538,7 @@ todo
 Shade in $\dfrac{3}{5}$ of this shape
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -581,10 +582,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgeometry
 </li>
 </ul>
 </div>
@@ -592,7 +590,10 @@ todo
 
 Write down the mathematical name for each of these 2D shapes:
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -636,10 +637,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tstatistics
 </li>
 </ul>
 </div>
@@ -812,10 +810,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -942,10 +937,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgraph
 </li>
 </ul>
 </div>
@@ -954,6 +946,7 @@ todo
 Here is a bar chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The bar for strawberry is missing! Mr Gauss spent $\pounds 15$ on Strawberry ice cream. 
 
@@ -1076,10 +1069,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsequence
 </li>
 </ul>
 </div>
@@ -1131,10 +1121,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnet
 </li>
 </ul>
 </div>
@@ -1284,10 +1271,7 @@ $20000 \ \text{mm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsymmetry
 </li>
 </ul>
 </div>
@@ -1296,6 +1280,7 @@ todo
 Reflect the grey shape in the dashed mirror line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1339,10 +1324,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+ttemperature
 </li>
 </ul>
 </div>
@@ -1396,10 +1378,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -1409,9 +1388,11 @@ Find the areas of the following shapes:
 
 ![missing image](/papers/missing_image.svg)
 
+
 $1$ square = $1 cm^2$
 
 ![missing image](/papers/missing_image.svg)
+
 
 Not drawn to scale
 
@@ -1457,10 +1438,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1612,10 +1590,7 @@ $14$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+torder
 </li>
 </ul>
 </div>
@@ -1667,10 +1642,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -1883,10 +1855,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -2117,10 +2086,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2241,10 +2207,10 @@ $55 \text{ cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+talgebra
 </li>
 <li>
-todo
+tratio
 </li>
 </ul>
 </div>
@@ -2415,10 +2381,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tvolume
 </li>
 </ul>
 </div>
@@ -2428,7 +2391,9 @@ What is the largest number of $15\ \text{cm}$ by $30\ \text{cm}$ by $20\ \text{c
 
 Be careful - you can’t chop up the shoe boxes!
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2472,10 +2437,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2664,10 +2626,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2727,10 +2686,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2744,11 +2700,14 @@ Example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the missing values:
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2792,10 +2751,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2924,10 +2880,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2937,11 +2890,13 @@ Here is an example of a function machine:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Rule: $\underline{Multiply\: by\: three,\: then\: subtract\: 2}$.
 
 Fill in the gaps in this new function machine:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Rule: .................................
 
@@ -2987,10 +2942,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tfraction
 </li>
 </ul>
 </div>
@@ -2999,6 +2951,7 @@ todo
 This diagram shows a regular hexagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What fraction of the hexagon is shaded? 
 

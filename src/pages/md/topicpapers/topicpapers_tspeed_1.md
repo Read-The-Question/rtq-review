@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -31,6 +31,7 @@ tspeed
 Look at the pictogram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more km did Baldwin run compared to Jeff? 
 
@@ -94,6 +95,7 @@ Harry travels from $A$ to $B$ to $C$ at $100 \ \text{km/hr}$.
 Fahad travels directly from $A$ to $C$ at $60 \ \text{km/hr}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -416,6 +418,64 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5612B8B3-1CD7-4B9F-A4AF-FC459A544D71</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a sponsored walk: Adam took $4\ \text{hours}$, $39\ \text{minutes}$; 
+
+Billy took $274\ \text{minutes}$ and Charlie took $4\dfrac{3}{5}\ \text{hours}$.
+
+Who was the quickest and who was the slowest?
+
+Quickest ........................................
+
+Slowest........................................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
@@ -619,6 +679,7 @@ tunitprompt
 On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Distances between the village are shown by the arrows. 
 
@@ -922,6 +983,7 @@ tspeed
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calum and his friend cycle from $A$ to $C$, passing through $B$.
 
@@ -1678,6 +1740,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1817,6 +1880,7 @@ and she is forced to choose an alternative route to work.
 What is the least number of **additional** minutes that she will take to cycle to work today?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

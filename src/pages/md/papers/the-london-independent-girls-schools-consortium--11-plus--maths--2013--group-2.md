@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -659,9 +659,11 @@ ttemperature
 
 The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -991,6 +993,7 @@ Shade $75\%$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1030,6 +1033,7 @@ TODOANSWER
 Shade $\dfrac{5}{8}$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1162,9 +1166,11 @@ The number machine below adds $3$ to the input number and then multiplies by $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1205,6 +1211,7 @@ TODOANSWER
 A different number machine produces the input and output table below 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the rule of this number machine?
 
@@ -1267,6 +1274,7 @@ Mabel found her grandmother's recipe to make scones.
 Here are the ingredients to make $12$ scones:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1963,6 +1971,7 @@ Draw all of the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2003,6 +2012,7 @@ Reflect the shape below in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2042,6 +2052,7 @@ TODOANSWER
 Add **one** square to the picture drawn on the dotten grid below, so that the finished shape has exactly one line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2100,6 +2111,7 @@ testimate
 The diagram below shows $2$ pieces of uncooked spaghetti.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the length of piece $A$ is $5$ units, estimate the length of $B$.
 
@@ -2161,6 +2173,7 @@ Billy has designed the tile shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2198,6 +2211,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is rotated through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2240,6 +2254,7 @@ Billy decides to reflect the tile in the dashed line shown below, and then rotat
 Draw the resulting tile in the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2337,6 +2352,7 @@ TODOANSWER
 Shape $S$ is drawn on the centimetre- squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2455,6 +2471,7 @@ On the centimetred-square grid below, draw a triangle with are $21 \ \text{cm}^2
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2508,7 +2525,8 @@ tgraph
 
 Point $A$ has been plotted on the coordinate grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2721,6 +2739,7 @@ Complete the diagram to show a possible net for the cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2801,6 +2820,7 @@ Draw an arrow on the scale below to show the probability that it will stop with 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2857,6 +2877,7 @@ On their sports day, five girls took part in the $400 \ \text{metres}$ race.
 Their times were recorded in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 name        time taken
 Angie      1 min 18 secs
@@ -3044,7 +3065,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 
@@ -3099,6 +3121,7 @@ Sarah has almost completed the bar chart to show the number of pets owned by eac
 No one has more than $5$ pets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3276,6 +3299,7 @@ The diagram below shows $4$ right-angled triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 These pieces of card can be put together to form geometrical shapes.
 
 The pieces of card could be turned upside down or rotated if necessary.
@@ -3283,6 +3307,7 @@ The pieces of card could be turned upside down or rotated if necessary.
 On the grid below, $4$ pieces have been put together to form a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below, draw a diagram to show all $4$ pieces of card could be put together to form:
 
@@ -3324,6 +3349,7 @@ a rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3363,6 +3389,7 @@ TODOANSWER
 a trapezium with one line of symmetry
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3404,6 +3431,7 @@ a parallelogram
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3443,6 +3471,7 @@ TODOANSWER
 a kite
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3504,9 +3533,11 @@ When it is born, the Joak has one head with a bristle, and one body segment with
 
 ![missing image](/papers/missing_image.svg)
 
+
 At the start of each year, Joak grows one more identical body segment so that at the start of the second year it looks like this: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3583,6 +3614,7 @@ TODOANSWER
 Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 start of year     number of segments    number of bristles
  1 (when born)           1                     5
@@ -3729,6 +3761,7 @@ Work out which number each symbol represents.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3796,6 +3829,7 @@ In the third round, Thomasina wins $3$ marbles from Harriet and loses $6$ to Dix
 How many marbles does each girl have at the end of three round?
 
 ![missing table](/papers/missing_table.svg)
+
 
 name       number of marbles
 Thomasina
@@ -3897,6 +3931,7 @@ TODOANSWER
 Complete the table to show all of the possible different types of tiles.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4018,6 +4053,7 @@ Below are three of her tiles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
 
 Describe a tile which differs from the small white triangle in $1$ way.
@@ -4118,6 +4154,7 @@ The model shown below is made from $3$ identical cuboids.
 
 ![missing image](/papers/missing_image.svg)
 
+
 From which direction, $A, B, C,$ and $D$, are the following views taken?
 
 </div>
@@ -4156,6 +4193,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4193,6 +4231,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4258,6 +4297,7 @@ Work out the length of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4319,11 +4359,15 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the dotted line to complete the following diagrams:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4386,6 +4430,7 @@ Each village is represented by a letter.
 For example, there are three different possible footpaths between villages $Q$ and $R$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
 

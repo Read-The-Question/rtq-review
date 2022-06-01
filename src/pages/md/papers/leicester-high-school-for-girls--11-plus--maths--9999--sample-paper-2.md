@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1292,6 +1292,7 @@ testimate
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagram shows an angle A.
 
 </div>
@@ -1429,6 +1430,7 @@ tangle
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1600,7 +1602,8 @@ The diagram shows the design for a garden measuring $18\ \text{m}$ by $8\ \text{
 
 The shaded area is to be the lawn.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1923,7 +1926,8 @@ tstatistics
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The pie chart shows the flavour of ice cream preferred by the $120$ students taking school lunch.
 
@@ -2531,7 +2535,10 @@ tsequence
 
 Look at the patterns of grey and white tiles:
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 Complete the following table for patterns $1$ to $3$ and extend the table for patterns $4$ and $5$.
 
@@ -2722,15 +2729,18 @@ tdraw
 
 Square patterns are drawn as follows 
 
-Pattern 1   small square  ![missing image](/papers/missing_image.svg)  1 square
+Pattern 1   small square  ![missing image](/papers/missing_image.svg)
+  1 square
 
 Pattern 2   medium square
 
-![missing image](/papers/missing_image.svg)  1 large square + 4 small squares gives a total of 5 squares
+![missing image](/papers/missing_image.svg)
+  1 large square + 4 small squares gives a total of 5 squares
 
 Pattern 3  large square 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 (note the medium squares can overlap)
        
 _____large square

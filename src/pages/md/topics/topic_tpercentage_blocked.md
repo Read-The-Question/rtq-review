@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-blocked"
 title: "Topic - Percentage - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -239,6 +239,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 

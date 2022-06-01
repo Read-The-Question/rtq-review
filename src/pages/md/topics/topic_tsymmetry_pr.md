@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-pr"
 title: "Topic - Symmetry - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -89,6 +89,7 @@ tdraw
 The diagram shows part of a regular shape along with its two lines of symmetry. The whole shape is:
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  a trapezium
 -  a rhombus

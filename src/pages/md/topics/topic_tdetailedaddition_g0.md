@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-g0"
 title: "Topic - Detailedaddition - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -480,6 +480,7 @@ Add $16.03$ and $9.48$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   1   &   6 \ .   &   0   &   3 \\
@@ -534,6 +535,7 @@ $4.679 + 2.15 = {?}$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -4255,6 +4257,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -4403,6 +4406,7 @@ $0.7 \quad 0.04 \quad 1.006$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -4738,6 +4742,7 @@ Add together $6.37, 10.04$ and $203$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

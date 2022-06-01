@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-h"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper H"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1044,6 +1044,7 @@ tsequence
 
 ![missing image](/papers/missing_image.svg)
 
+
 Cans are often stacked like this in a supermarket display.
 
 </div>
@@ -1232,7 +1233,8 @@ tinfer
 
 A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{cm}$ as shown.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1442,6 +1444,7 @@ Four rectangles each of length $27 \ \text{cm}$ and width $13 \ \text{cm}$ are a
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find: 
 
 </div>
@@ -1571,7 +1574,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1983,6 +1987,7 @@ The graph below shows the times taken to walk around the school field by $5$ pup
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:  
 
 </div>
@@ -2371,7 +2376,8 @@ Along any line drawn, the numbers in the two circles at the end of a line should
 
 Fill the remaining squares and circles with numbers obeying this rule. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

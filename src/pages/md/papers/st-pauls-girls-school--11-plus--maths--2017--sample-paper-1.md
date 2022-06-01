@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -788,10 +788,10 @@ $30 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tmoney
 </li>
 <li>
-todo
+tcoin
 </li>
 </ul>
 </div>
@@ -855,6 +855,7 @@ Benjamin walks dogs to earn some money. The formula below can be used to work ou
 
 ![missing image](/papers/missing_image.svg)
 
+
 Benjamin worked all day on Monday. He walked $13$ dogs before lunch and $15$ dogs afterwards.
 
 Work out Benjamin's pay on Monday.
@@ -909,6 +910,7 @@ tnumber
 The table shows the distances in miles between some towns in the West country.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1330,10 +1332,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1389,10 +1388,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1443,16 +1439,14 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tareaperimeter
 </li>
 </ul>
 </div>
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 All the long edges of the shape above have the same length and each long edge is twice as long as each short edge. 
 All angles are $90 \degree$ or $270 \degree$. If the area of the figure is $200 \ \text{cm}^2$, what is the perimeter?
@@ -1512,6 +1506,7 @@ Work out the missing length.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1566,10 +1561,7 @@ $10 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1578,6 +1570,7 @@ todo
 In this number tower the value in each block is the sum of the two below it. What is the value of block $T$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1621,10 +1614,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1759,10 +1749,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2069,10 +2056,7 @@ $3,1 \ \text{and} \ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2357,10 +2341,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tmap
 </li>
 </ul>
 </div>
@@ -2373,6 +2354,7 @@ A route connects two villages by travelling along the straight lines.
 An example of a route from $E$ to $D$ is $EF - FC - CD$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2531,10 +2513,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -2733,10 +2712,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,11 +58,13 @@ How many tiles will I need?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The wall measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin {aligned}
@@ -335,6 +337,7 @@ tunitprompt
 Here are two containers and the amounts they hold
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which container holds the greater amounts?
 
@@ -707,6 +710,7 @@ Write down the decimal number that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -746,6 +750,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -822,6 +827,7 @@ TODOANSWER
 The jug contains water up to the level shown in the diagram. How many millilitres (ml) of water are in the jug?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1220,6 +1226,7 @@ tsimpleword
 Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, to cover a rectangular worktop in his greenhouse.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
 
@@ -1970,7 +1977,8 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -2028,7 +2036,8 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin {aligned}
@@ -2111,6 +2120,7 @@ Find the area of rectangle shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2146,6 +2156,7 @@ $1200 \ \text{mm} ^2$
 George cuts the rectangle up into an exact number of right-angled triangles, each with sides as shown in the diagram below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the number of triangles that he cuts from the rectangle.
 
@@ -2310,6 +2321,7 @@ tunitprompt
 On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Distances between the village are shown by the arrows. 
 
@@ -2513,7 +2525,8 @@ tsimpleword
 The diagram shows a plan of the rectangular garden of local celebrity Louis Cowell-Cole, 
 with an L-shaped fish pond in the middle. The dimensions of the garden and the pond are shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2712,6 +2725,7 @@ corner of the garden.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Calculate how many bushes are required to complete this in total.
 
 </div>
@@ -2774,6 +2788,7 @@ tunitprompt
 Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
@@ -3166,7 +3181,8 @@ A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between t
 
 How long is the comb in centimetres?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -3246,7 +3262,8 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 Price of Cola $= \pounds 1.09$
 
@@ -3307,7 +3324,8 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
@@ -3384,6 +3402,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
@@ -3874,9 +3893,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -3943,6 +3964,7 @@ The Floor measurement is given in metres while the tile measurement is given in 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -4134,6 +4156,7 @@ How many centimetres are there in five kilometres?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4169,6 +4192,7 @@ $500000 \ \text {cm}$
 How many times does two hundred go into one million?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4360,6 +4384,136 @@ $1.5625 \ \text {km}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6E06B36B-A54A-4715-973B-556C587FF127</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In imperial units of length, $\text{one furlong} = 10 \ \text{chains}, \text{one chain} = 22 \ \text{yards}$ and $\text{one yard} = 3 \ \text{feet}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the total number of feet in $3 \ \text{furlongs}, 2 \ \text{chains}$ and $5 \ \text{yards}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert $472 \ \text{feet}$ to chains, yards and feet using as many chains as possible, then yards and then feet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -5147,6 +5301,7 @@ Here are his results in a Venn diagram:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the Venn diagram to write down
 
 </div>
@@ -5364,6 +5519,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5405,6 +5561,7 @@ $5 \ \text {g}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5445,6 +5602,7 @@ $230 \ \text{g}$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5519,6 +5677,7 @@ This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5587,6 +5746,7 @@ Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo 
 (The point $A$ is already drawn for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5724,6 +5884,7 @@ You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use this information to write:
 
 </div>
@@ -5839,6 +6000,7 @@ tunitprompt
 Ten calculators have a total mass of $1500 \ \text{g}$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6111,7 +6273,8 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 To compare, let's convert all the units to $\text {km}$. 
 
@@ -6175,7 +6338,8 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -6301,6 +6465,7 @@ Use the ruler to work out the length of the crayon in centimetres.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6376,6 +6541,7 @@ tunitprompt
 The reading on the scale below shows the mass of a parcel.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down the mass:
 
@@ -6560,7 +6726,8 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
 
 Distance $= 3 \ \text{km}$
 
@@ -6649,7 +6816,8 @@ $1 \ \text{cm}$ on a map represents a distance of $2 \ \text{km}$ on the ground.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The distance is given in kilometres, but the answer has to be in metres.
+It is really important to use the right units in calculations and convert where required
+. The distance is given in kilometres, but the answer has to be in metres.
 
 $
 \begin{aligned}
@@ -6711,6 +6879,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 The wall measurement is given in feet while the tile measurement is given in inches.
 
 Let's convert the wall measurements into inches.
@@ -7094,7 +7263,8 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
 
 Let's convert time taken into hours.
 
@@ -7191,7 +7361,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -7265,6 +7436,7 @@ tsimpleword
 The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
 
@@ -7664,7 +7836,8 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
 
@@ -7737,7 +7910,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 
@@ -8018,7 +8192,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 
 As per the question,
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -8085,7 +8260,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 
@@ -8219,7 +8395,8 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.
 
@@ -8282,7 +8459,8 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
 

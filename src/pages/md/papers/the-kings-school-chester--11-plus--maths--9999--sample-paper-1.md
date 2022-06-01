@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -612,6 +612,7 @@ Two of the shapes below fit together to make a square. Which are they?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -927,6 +928,7 @@ $5 \quad 6 \quad 7 \quad 8$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -980,6 +982,7 @@ Fill in the missing values in the table below to show the fraction, decimal and 
 Give the fractions in their simplest form. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1035,6 +1038,7 @@ tinfer
 Alice makes a die from the net below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which number will be opposite
 
@@ -1422,6 +1426,7 @@ Draw in the remainder of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1529,6 +1534,7 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1578,6 +1584,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The graph shows the number of people living in Puddletown from $1950$ onwards.
 
@@ -1987,6 +1994,7 @@ which is $480 \ \text{m}$ long. Every $4 \ \text{m}$, a post is needed to hold t
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many posts does he need?
 
 </div>
@@ -2038,6 +2046,7 @@ tareaperimeter
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram NOT to scale
 
@@ -2167,6 +2176,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 $ABCD$ is a kite.
 

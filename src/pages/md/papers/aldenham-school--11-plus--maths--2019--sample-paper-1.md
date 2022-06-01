@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -278,7 +278,8 @@ a       &= 17
 \end{aligned}
 $
 
-$60 - \underline{\green{17}} = 43$
+$60 - \underline{\green
+{17}} = 43$
 
 </div>
 </div>
@@ -318,7 +319,8 @@ a           &= 7
 \end{aligned}
 $
 
-$\underline{\green{7}} \times 40 = 280$
+$\underline{\green
+{7}} \times 40 = 280$
 
 
 </div>
@@ -357,7 +359,8 @@ a         &= 150
 \end{aligned}
 $
 
-$\underline{\green{150}} \div 30 = 5$
+$\underline{\green
+{150}} \div 30 = 5$
 
 </div>
 </div>
@@ -395,7 +398,8 @@ a      &= 7
 \end{aligned}
 $
 
-$-8 + \underline{\green{7}} = -1$
+$-8 + \underline{\green
+{7}} = -1$
 
 </div>
 </div>
@@ -464,7 +468,8 @@ $100 \times 2.8 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$100 \times 2.8 = \underline{\green{280}}$
+$100 \times 2.8 = \underline{\green
+{280}}$
 
 </div>
 </div>
@@ -662,6 +667,7 @@ Plot these points on the axes below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -783,17 +789,49 @@ $-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+7)}} 
-&&  \footnotesize{\maroonC{(+7)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}  \\
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 26 + 7 \\\\
+                        &= 33
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
 -2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
 \end{matrix}
 $
@@ -831,17 +869,49 @@ $43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-6)}} 
-&&  \footnotesize{\maroonC{(-6)}}  
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}  \\
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 43 - 6 \\\\
+                        &= 37
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
 43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
 \end{matrix}
 $
@@ -879,17 +949,49 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(3)}} 
-&&  \footnotesize{\maroonC{(5)}}  
-&&  \footnotesize{\maroonC{(7)}}   
-&&  \footnotesize{\maroonC{(9)}}   
-&&  \footnotesize{\maroonC{(11)}}  \\
+&   \footnotesize{\maroonC
+{(3)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  
+&&  \footnotesize{\maroonC
+{(7)}}   
+&&  \footnotesize{\maroonC
+{(9)}}   
+&&  \footnotesize{\maroonC
+{(11)}}  \\
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 17 + 9 \\\\
+                        &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(3)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  
+&&  \footnotesize{\maroonC
+{(7)}}   
+&&  \footnotesize{\maroonC
+{(9)}}   
+&&  \footnotesize{\maroonC
+{(11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
@@ -945,6 +1047,7 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -999,6 +1102,7 @@ talgebra
 Calculate the missing angle in this isosceles triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1059,7 +1163,9 @@ The original price of a bicycle is $\pounds 260$. Which of these is the better d
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 Show workings. 
 
@@ -1126,6 +1232,7 @@ Look at the pictogram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many more km did Baldwin run compared to Jeff? 
 
 </div>
@@ -1189,6 +1296,7 @@ Clara did a survey amongst her $20$ friends.
 How many or her friends liked **blueberries and cherries**?
 
 ![missing image](/papers/missing_image.svg)
+
 
 (Use the Venn Diagram to help you.)
 
@@ -1283,6 +1391,7 @@ Dillan wrote down how many pages he read over the past $5$ days.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the median of the number of pages which he read?
 
 </div>
@@ -1324,6 +1433,7 @@ TODOANSWER
 Some students compared the number of pets which they had. The results are displayed below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the range of the number of pets owned.
 
@@ -1658,6 +1768,7 @@ The diagram shows a pentagonal based prism.
 
 ![missing image](/papers/missing_image.svg)
 
+
 State the number of
 
 - Faces
@@ -1744,6 +1855,7 @@ Which $3 \text{D}$ shape does the net below make?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1780,7 +1892,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 8 \times 6 \times 4 \\\\
                 &= 192 \ \text{cm}^{3}
 \end{aligned}
@@ -1815,6 +1928,7 @@ Label both vertices with $*$.
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with sides marked IMAGE_PLACEHOLDER_ENDS **
 
@@ -1914,6 +2028,7 @@ Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Perimeter $= 36 \ \text{millimetres}$
 
 Find the value of $t$.
@@ -1924,7 +2039,8 @@ Find the value of $t$.
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
@@ -2249,6 +2365,7 @@ Students at Arlington Secondary School were polled regarding their favourite dri
 
 ![missing image](/papers/missing_image.svg)
 
+
 Given that there are $600$ students at the school, how many more preferred root beer than lemonade?
 
 </div>
@@ -2508,7 +2625,8 @@ $0.022 \quad \ldots  \quad 0.2$
 <div class='workings'>
 <div class='working'>
 
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+$0.022 \quad \boxed{\green
+{<}}  \quad 0.2$
 
 </div>
 </div>
@@ -2564,7 +2682,8 @@ $
 
 Using the calculation above,
 
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+$15\%$ of $\pounds 300\  \quad \boxed{\green
+{<}}  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
@@ -2620,7 +2739,8 @@ $
 
 Using the calculation above,
 
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green
+{=}}  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>

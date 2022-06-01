@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-blocked"
 title: "Topic - Money - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -416,6 +416,7 @@ Katherine has ten coins in a bag.
 She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -600,6 +601,7 @@ with $C$ the probability that the coin is worth less than $\pounds 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -778,7 +780,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 

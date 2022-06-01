@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -34,6 +34,7 @@ tratio
 A recipe for a pudding for $6$ people requires the ingredients listed in the box on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 I want to adapt this recipe to make a similar pudding to serve $8$ people.
 
@@ -259,6 +260,7 @@ $3$ tablespoons of syrup
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -448,6 +450,7 @@ tratio
 A recipe for making $12$ large chocolate chunk cookies includes the following ingredients:
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 $300 \ \text{g}$ plain chocolate

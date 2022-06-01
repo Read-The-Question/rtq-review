@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-g0"
 title: "Topic - Money - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,7 +22,9 @@ The original price of a bicycle is $\pounds 260$. Which of these is the better d
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 Show workings. 
 
@@ -153,7 +155,8 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert the total amount into pence.
 
@@ -242,7 +245,8 @@ She spends $\pounds 1.90$ on magazines, $\pounds 2.45$ on a birthday card and $7
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert all the expenses into $\text{pence}$.
 
@@ -1382,6 +1386,7 @@ He collected a number of different promises, from his family, on his sponsor for
 
 ![missing table](/papers/missing_table.svg)
 
+
 He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 
 </div>
@@ -1581,6 +1586,7 @@ tmoney
 Sasha is selling greetings cards and gifts for Mothers' Day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1921,7 +1927,8 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -2030,7 +2037,8 @@ I buy $11$ chocolate bars costing $27 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -2292,7 +2300,8 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -2402,7 +2411,8 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin {aligned}
@@ -2459,7 +2469,8 @@ Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin {aligned}
@@ -3917,6 +3928,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3948,6 +3960,7 @@ What is the area covered by Mr Green's lawn?
 <div class='working'>
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -4042,11 +4055,13 @@ How many paving stones are needed to pave the patio?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The patio measurements is given in metres while the paving stones measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -4348,7 +4363,8 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 Price of Cola $= \pounds 1.09$
 
@@ -4691,7 +4707,8 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pence into pounds.
 
 $
 \begin{aligned}
@@ -4755,7 +4772,8 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pence into pounds.
 
 $
 \begin{aligned}
@@ -5260,7 +5278,8 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pence into pounds.
 
 $\pounds 1 = 100 \text{p}$
 
@@ -6871,7 +6890,8 @@ There are twenty four $\pounds 1$ coins, seven $\pounds 2$ coins , six $\pounds 
 
 How much money is there in total?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6909,6 +6929,7 @@ I exchange all of the money for as many $\pounds 20$ notes as possible.
 How many $\pounds 20$ notes do I have now?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6963,7 +6984,8 @@ tmoney
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7098,7 +7120,8 @@ $\pounds 1.28 + 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -7147,7 +7170,8 @@ $\pounds 1.28 - 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -7438,6 +7462,7 @@ The list below shows the prices at greasy Joe's roadside snack bar. Four friends
 Duncan decide to stop by for a meal on their way home from work one day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7775,6 +7800,7 @@ This week he bought $72$ football cards.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7992,6 +8018,7 @@ tmoney
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8219,6 +8246,7 @@ $42 \text{p}, 38 \text{p}, 40 \text{p}$ and $36 \text{p}$.
 Calculate the mean price of a bottle of lemonade.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8768,6 +8796,7 @@ Write the time her clock actually shows, using the $12$-hour clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8834,6 +8863,7 @@ $19{:}15$
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9198,7 +9228,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -9457,7 +9488,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 
@@ -9957,7 +9989,8 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
 
@@ -10147,6 +10180,7 @@ Alison went to the supermarket.
 
 ![missing image](/papers/missing_image.svg)
 
+
 She bought two cans of cola costing $53 \text{p}$$ each, three packets of crisps costing $27 \text{p}$$ each and a large bar of chocolate that costs $$\pounds 1.24$.
 
 How much change did she get from $$\pounds 5$?
@@ -10209,6 +10243,7 @@ tmoney
 <div class='question question'>
 
 Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
 
 Children are admitted at half price.
 
@@ -10378,6 +10413,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -10434,6 +10470,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 

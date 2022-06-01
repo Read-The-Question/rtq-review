@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,43 +67,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -142,6 +105,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1240,6 +1243,7 @@ In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1311,6 +1315,7 @@ tsimpleword
 The diagram below (not to scale) shows the cross-section of Roger's house. Find the total area of the cross-section.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1402,7 +1407,9 @@ TODOANSWER
 Draw all the lines of symmetry on each of these shapes.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1443,7 +1450,9 @@ TODOANSWER
 State the order of rotational symmetry of each of these shapes.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1490,10 +1499,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnet
 </li>
 </ul>
 </div>
@@ -1501,7 +1507,10 @@ todo
 
 Circle the net(s) below which can be folded to make a cube.
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)         ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+         ![missing image](/papers/missing_image.svg)
+
    
 
 </div>
@@ -1712,6 +1721,7 @@ In this multiplication, each letter stands for a different digit. What digit doe
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1754,10 +1764,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>

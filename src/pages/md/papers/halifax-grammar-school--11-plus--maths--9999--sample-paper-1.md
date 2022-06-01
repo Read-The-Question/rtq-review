@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -93,7 +93,9 @@ Shape $A$ and shape $B$ are each made from five identical squares. The **perimet
 $72 \ \text{cm}$. Work out the perimeter of shape $B$. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 - $30 \ \text{cm}$
 - $60 \ \text{cm}$
@@ -282,6 +284,7 @@ There were $15$ cartons of pineapple juice taken. How many cartons of orange jui
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $33$
 - $35$
 - $45$
@@ -436,9 +439,13 @@ tangle
 In the diagrams below, which angle is the biggest? The diagrams are not drawn to scale.
  
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
 
 - $a$
 - $b$
@@ -617,6 +624,7 @@ tnumber
 How many different ways can I travel from $P$ to $Q$? I can only travel on the lines shown and I must not go over any line more than once on a journey.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $2$
 - $3$

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-all"
 title: "Topic - Recipe - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -102,7 +102,8 @@ Given that she had plenty of all the other ingredients, how many cupcakes can sh
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -325,6 +326,7 @@ tratio
 A recipe for a pudding for $6$ people requires the ingredients listed in the box on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 I want to adapt this recipe to make a similar pudding to serve $8$ people.
 
@@ -710,6 +712,7 @@ $3$ tablespoons of syrup
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -901,6 +904,7 @@ A recipe for making $12$ large chocolate chunk cookies includes the following in
 ![missing image](/papers/missing_image.svg)
 
 
+
 $300 \ \text{g}$ plain chocolate
 
 $100 \ \text{g}$ sugar
@@ -1014,6 +1018,7 @@ trecipe
 The amount of each ingredient needed to  make $8$ cakes is given in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 **ingredients**   **$8$ cakes**          **$12$ cakes**
 
@@ -1139,6 +1144,7 @@ Complete the list below to show the amount of each ingredient which Mrs. Smith n
 
 ![missing table](/papers/missing_table.svg)
 
+
 grams pasta
 
 grams cheese
@@ -1205,6 +1211,7 @@ $10$ twists of black pepper
 $80 \ \text{millilitres}$ olive oil
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1400,7 +1407,8 @@ tratio
 
 Helen’s recipe for $12$ waffles needs the following ingredients:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1754,6 +1762,7 @@ tratio
 Lily uses these ingredients to make strawberry sorbet:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

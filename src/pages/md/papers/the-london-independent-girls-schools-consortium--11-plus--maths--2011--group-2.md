@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -545,6 +545,7 @@ The timetable below shows information about the overnight train from London to S
 
 ![missing table](/papers/missing_table.svg)
 
+
 How long does the train take
 
 </div>
@@ -649,6 +650,7 @@ Draw a reflection of the shape in the given line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -711,6 +713,7 @@ The results are shown on the bar chart below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -748,6 +751,7 @@ TODOANSWER
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -893,7 +897,8 @@ tnoexplanation
 
 What fraction of the shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -946,6 +951,7 @@ tnoexplanation
 In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the clock?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1044,6 +1050,7 @@ tdraw
 On the blank grid, draw a **rectangle** of the same area as the picture below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1182,17 +1189,51 @@ $8, \quad 13, \quad 18, \quad 23,
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $+5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+5)} } 
-&&  \footnotesize {\maroonC {(+5)} }  
-&&  \footnotesize {\maroonC {(+5)} }   
-&&  \footnotesize {\maroonC {(+5)} }   
-&&  \footnotesize {\maroonC {(+5)} } \\
+&   \footnotesize {\maroonC
+ {(+5)} } 
+&&  \footnotesize {\maroonC
+ {(+5)} }  
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} } \\
+8,  &&  13,  &&  18,  &&  23,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 23 + 5 \\\\
+                                  &= 28 \\\\
+\text{Second missing number}      &= 28 + 5 \\\\
+                                  &= 33
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $+5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+5)} } 
+&&  \footnotesize {\maroonC
+ {(+5)} }  
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} } \\
 8,  &&  13,  &&  18,  &&  23,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1234,17 +1275,51 @@ $13, \quad 8, \quad 3, \quad -2,
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-5)} } 
-&&  \footnotesize {\maroonC {(-5)} }  
-&&  \footnotesize {\maroonC {(-5)} }   
-&&  \footnotesize {\maroonC {(-5)} }   
-&&  \footnotesize {\maroonC {(-5)} } \\
+&   \footnotesize {\maroonC
+ {(-5)} } 
+&&  \footnotesize {\maroonC
+ {(-5)} }  
+&&  \footnotesize {\maroonC
+ {(-5)} }   
+&&  \footnotesize {\maroonC
+ {(-5)} }   
+&&  \footnotesize {\maroonC
+ {(-5)} } \\
+13,  &&  8,  &&  3,  &&  -2,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= - 2 - 5 \\\\
+                                  &= - 7 \\\\
+\text{Second missing number}      &= - 7 - 5 \\\\
+                                  &= - 12
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-5)} } 
+&&  \footnotesize {\maroonC
+ {(-5)} }  
+&&  \footnotesize {\maroonC
+ {(-5)} }   
+&&  \footnotesize {\maroonC
+ {(-5)} }   
+&&  \footnotesize {\maroonC
+ {(-5)} } \\
 13,  &&  8,  &&  3,  &&  -2,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1290,17 +1365,53 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 4)} } 
-&&  \footnotesize {\maroonC {(\times 4)} }  
-&&  \footnotesize {\maroonC {(\times 4)} }   
-&&  \footnotesize {\maroonC {(\times 4)} }   
-&&  \footnotesize {\maroonC {(\times 4)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 4)} } 
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  \\
+\dfrac {1} {256},  &&  \dfrac {1} {64},  &&  \dfrac {1} {16},  &&  \dfrac {1} {4},  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= \dfrac {1} {4} \times 4 \\\\
+                                  &= \dfrac {4} {4} \\\\
+                                  &= \dfrac {\cancel {4}} {\cancel {4}} \\\\
+                                  &= 1 \\\\
+\text{Second missing number}      &= 1 \times 4 \\\\
+                                  &= 4
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 4)} } 
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  \\
 \dfrac {1} {256},  &&  \dfrac {1} {64},  &&  \dfrac {1} {16},  &&  \dfrac {1} {4},  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1360,6 +1471,7 @@ identical shapes have the same operation.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The same function machine has been used below. 
 Work out the missing input or output in each case shown.
 
@@ -1388,6 +1500,7 @@ Work out the missing input or output in each case shown.
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1426,6 +1539,7 @@ $9, \ 18, \ 10, \ 5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1496,6 +1610,7 @@ Belinda has a digital alarm clock.
 The numbers on the clock are displayed as:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Belinda's digital clock shows the time $01{:}10$
 
@@ -1788,6 +1903,7 @@ Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1855,7 +1971,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 $48$ cats eat $12$ cans of food in $3$ days. 
 
@@ -2058,6 +2175,7 @@ area of $58$ square centimetres. How long are the sides of the square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2117,6 +2235,7 @@ In the following pattern, you can only move from a letter to a
 letter immediately below it but slightly to the side in the next line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One route from $L$ to $W$ is $LMOSW$.
 
@@ -2257,9 +2376,11 @@ After $4$ bends she has used  $15 \ \text{cm}$ of wire.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 How much wire will she have used after $6$ bends?
  
@@ -2325,6 +2446,7 @@ If she uses big plates she can put seven cakes on each plate with five left over
 If she uses small plates she can put five cakes on each plate with three left over.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the smallest number of cakes that were delivered for Janey's party?
 
@@ -2463,6 +2585,7 @@ What is the cost of a heart?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2590,6 +2713,7 @@ Below is an equilateral triangle with a total area of $128 \ \text{cm}^3$. Find 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2705,10 +2829,12 @@ tnoexplanation
 
 ![missing table](/papers/missing_table.svg)
 
+
 A piece of paper with letters written on it is folded in half, so that the 
 letters $A, B, C, D, E, F, G, H$ are on the top.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now the letter $M$ is under the letter $A$.
 
@@ -2767,10 +2893,12 @@ $\text{O}$
 The paper is folded again so that $A, B, E$ and $F$ are on top.
 
 ![missing image](/papers/missing_image.svg)
+
   
 Under $A$ are the letter $M, P$ and $D$ in that order. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 Working from top to bottom:
 
@@ -2805,6 +2933,7 @@ $\text{N, \ O, \ C}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 After another fold, which letters are under $B$? 
 Write the letters in order from top to bottom.
@@ -2857,6 +2986,7 @@ Pia has three cards. Card $A$ tells her to
 multiply by $5$, card $B$ tells her to add $3$ and Card $C$ tells her to divide by $2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Pia arranges her cards in the order $A \ B \ C$ and starts with the number $3$. Her answer is $9$.
 
@@ -3301,6 +3431,7 @@ and each box fits exactly inside each other, with the
 tops level. The dimensions of the largest box are $14 \times 14 \times 13$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

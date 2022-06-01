@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircleanswer-notstarted"
 title: "Topic - Circleanswer - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -192,7 +192,8 @@ tcircleanswer
 </div>
 <div class='question question'>
 
-If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg) 
+If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg)
+ 
 a)  A score of $7$ 
 b)  A score of more than $10$
 c)  A score that is an even number.
@@ -356,6 +357,7 @@ This is the start of a pattern of shapes:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -393,6 +395,7 @@ TODOANSWER
 Circle the picture below which would be the $9 \text{th}$ shape in the pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -433,6 +436,7 @@ TODOANSWER
 Circle the picture below which would be the $14 \text{th}$ shape in the pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

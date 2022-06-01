@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -236,7 +236,8 @@ $\ldots + 46 = 100$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{54}} + 46 = 100$
+$\underline{\green
+{54}} + 46 = 100$
 
 </div>
 </div>
@@ -264,7 +265,8 @@ $9 \times \ldots = 108$
 <div class='workings'>
 <div class='working'>
 
-$9 \times \underline{\green{12}} = 108$
+$9 \times \underline{\green
+{12}} = 108$
 
 </div>
 </div>
@@ -292,7 +294,8 @@ $\ldots \div 20 = 7$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{140}} \div 20 = 7$
+$\underline{\green
+{140}} \div 20 = 7$
 
 </div>
 </div>
@@ -320,7 +323,8 @@ $3 - \ldots = -8$
 <div class='workings'>
 <div class='working'>
 
-$3 - \underline{\green{11}} = -8$
+$3 - \underline{\green
+{11}} = -8$
 
 </div>
 </div>
@@ -503,7 +507,8 @@ $2.4 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$2.4 \times 100 = \underline{\green{240}}$
+$2.4 \times 100 = \underline{\green
+{240}}$
 
 </div>
 </div>
@@ -531,7 +536,8 @@ $8600 \div 10 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$8600 \div 10 = \underline{\green{860}}$
+$8600 \div 10 = \underline{\green
+{860}}$
 
 </div>
 </div>
@@ -559,7 +565,8 @@ $\ldots \times 30 = 600$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{20}} \times 30 = 600$
+$\underline{\green
+{20}} \times 30 = 600$
 
 </div>
 </div>
@@ -587,7 +594,8 @@ $80 \div 200 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$80 \div 200 = \underline{\green{0.4}}$
+$80 \div 200 = \underline{\green
+{0.4}}$
 
 </div>
 </div>
@@ -826,7 +834,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the value of the missing angle?
 
@@ -886,11 +895,15 @@ The large can weighs $425 \ \text{grams}$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 Work out the weight of one small can.
 
@@ -900,7 +913,8 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total weight into $\text{grams}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total weight into $\text{grams}$.
 
 $
 \begin{aligned}
@@ -965,6 +979,7 @@ $1 \quad 2 \quad 4 \quad 12 \quad 36 \quad 48 \quad 49 \quad 50$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1015,14 +1030,22 @@ tstatistics
 
 Find the mean weight of the sharks below.
 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1171,7 +1194,8 @@ $0.609 \quad     0.069 \quad     0.63 \quad     0.063$
 <div class='workings'>
 <div class='working'>
 
-$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+$0.609 \quad     0.069 \quad     \boxed{\green
+{0.63}} \quad     0.063$
 
 </div>
 </div>
@@ -1199,7 +1223,8 @@ $-7.5 \quad    -1 \quad      -8 \quad     -1.5$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+$-7.5 \quad   \boxed{\green
+{-1}} \quad      -8 \quad     -1.5$
 
 </div>
 </div>
@@ -1234,7 +1259,8 @@ $
 \end{aligned}
 $
 
-$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+$0.09 \quad     39\% \quad    \boxed{\green
+{0.44}} \quad     \dfrac{2}{5}$
 
 </div>
 </div>
@@ -1273,7 +1299,8 @@ ttemperature
 
 The temperature, in $\degree \text{C}$, at midday at the theme park on $6$ winter days was recorded.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1474,6 +1501,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Estimate the size of angle $r$.
 
@@ -1676,17 +1704,51 @@ $-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+5)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}  \\
+&   \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 7 + 5 \\\\
+                                &= 12 \\\\
+\text{Second missing number}       &= 12 + 5 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
 -8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -1726,17 +1788,51 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}  \\
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 53 - 8 \\\\
+                                &= 45 \\\\
+\text{Second missing number}       &= 37 - 8 \\\\
+                                &= 29
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
 61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
 \end{matrix}
 $
@@ -1776,17 +1872,51 @@ $240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}  
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 120 \div 2 \\\\
+                                &= 60 \\\\
+\text{Second missing number}       &= 15 \div 2 \\\\
+                                &= 7.5
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
 \end{matrix}
 $
@@ -1899,7 +2029,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -1951,6 +2082,7 @@ ttable
 The chart below shows the technology subjects studies by a group of students.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Complete the chart above 
 
@@ -2010,6 +2142,7 @@ You may use the grid to help you.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2045,7 +2178,8 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 4 \ \text{cm}$ 
 
@@ -2091,7 +2225,9 @@ tgraph
 The pie charts show the results of a cycling test taken by all pupils in year $7$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2308,6 +2444,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which 3D shape is this the net of?
 
 </div>
@@ -2413,7 +2550,8 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\text{pence}$.
 
 As per the question,
 
@@ -2501,9 +2639,13 @@ Three shops advertise the same luxury chair.
 Each shop has a special offer. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 At which shop is the price of the two chairs the cheapest? 
 

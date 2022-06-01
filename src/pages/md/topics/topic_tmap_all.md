@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmap-all"
 title: "Topic - Map - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -29,6 +29,7 @@ Below is a map of the area surrounding City of London School drawn to a scale of
 $1\ \text{cm}$ : $125\ \text{metres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -166,6 +167,7 @@ Each section of the route is either motorway (labelled $M$), main road (labelled
 The length of each section of the route is also stated.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Peter expects to travel at $90 \ \text{km/h}$ on the motorway, $60 \ \text{km/h}$ on the main road and $45 \ \text{km/h}$ 
 on the minor road.
@@ -421,6 +423,7 @@ How many different possible routes are there?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -530,9 +533,13 @@ tmap
 Here are $4$ shapes
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Each shape has two parallel sides.
 
@@ -590,6 +597,7 @@ tmap
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The above shows the routes and distances between villages. 
 For example, route $ABEC$ starts at $A$ and finishes at $C$. It has length $6 + 8 + 4 = 18 \ \text{km}$
@@ -767,6 +775,7 @@ The diagram shows the number of paths from Queton to Toytown through Rowton or S
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many different ways are there of getting from Queton to Toytown if you can only go from left to right?
 
 </div>
@@ -806,6 +815,178 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>4356C928-7889-4A56-8C09-03302CCE7A69</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmap
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows a road network connecting the villages $A$ to $H$. 
+The numbers between the letters show how far apart the villages are in miles. 
+A route connects two villages by travelling along the straight lines.
+
+An example of a route from $E$ to $D$ is $EF - FC - CD$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the shortest route between $A$ and $E$, and how long is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the shortest route between $H$ and $C$, and how long is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the shortest route between $A$ and $H$, and how long is it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>BA362291-5D3D-4A14-B988-DD3D44D7753B</p>
 </div>
 <div class='topics'>
@@ -831,7 +1012,9 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -894,6 +1077,7 @@ Work out the total number of possible routes to go:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -951,6 +1135,7 @@ tlogic
 Here is a map of the roads in Askeshire.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The route from Catsworth to Dogsville via Alysford is written "CAD". 
 
@@ -1089,6 +1274,7 @@ tinfer
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1116,6 +1302,7 @@ TODOANSWER
 Put a cross on the map where this signpost should go.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1202,6 +1389,7 @@ The girls that have met are:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Ella and Alison         Hiba and Justyna
 
 Dee and Fiona           Justyna and Gita 
@@ -1215,6 +1403,7 @@ Crystal and Ingrid         Dee and Hiba
 Ingrid and Dee           Crystal and Ella
 
 ![missing image](/papers/missing_image.svg)
+
 
 Put the first letter of the girl's name in the correct house.
 
@@ -1275,6 +1464,7 @@ tdirection
 The map below shows the streets in a part of Peterford with the houses of several people marked.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

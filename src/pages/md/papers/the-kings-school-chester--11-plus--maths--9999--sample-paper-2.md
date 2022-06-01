@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -454,6 +454,7 @@ Match the fraction to the correct place on the number line. One has been done fo
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -774,6 +775,7 @@ You may use a ruler.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -928,17 +930,51 @@ $2 \quad 8 \quad 14 \quad 20 \quad \ldots \quad \ldots$
 </div>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}  \\
+&   \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+2,  &&    8,  &&  14,  &&   20,  &&   \ldots  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 20 + 6 \\\\
+                              &= 26 \\\\
+\text {Second missing number} &= 26 + 6 \\\\
+                              &= 32
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
 2,  &&    8,  &&  14,  &&   20,  &&   \ldots  && \ldots
 \end{matrix}
 $
@@ -984,10 +1020,14 @@ The difference between the terms is $5$.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+5)}}  \\
+&   \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
 6,  &&    11,  &&  16,  &&   21,  &&   26
 \end{matrix}
 $
@@ -1374,6 +1414,7 @@ Complete the table giving fractions in their simplest form.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1488,6 +1529,7 @@ Here are $3$ four sided shapes drawn on a square grid.
 Put a tick next to each shape if the line drawn on it is a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1682,6 +1724,7 @@ Work out the value of the angle labelled $x$ in the diagram below.
 The diagram is not drawn to scale.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1733,6 +1776,7 @@ tgraph
 This chart shows the times when $5$ children were visiting Chester Zoo one afternoon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2001,7 +2045,8 @@ ttemperature
 
 The graph below converts degrees Celsius to degrees Fahrenheit. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 Use the graph to complete the following sentences.
 
@@ -2175,6 +2220,7 @@ The shape is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2216,6 +2262,7 @@ Calculate the perimeter (the length around the **outside**) of the following sha
 Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2406,10 +2453,12 @@ Here is a shaded rectangle on $x$ and $y$ axes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each of the co-ordinates (points on the graph) shown in the table below, 
 put a tick to show if it is inside or outside the shaded square. One has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2474,9 +2523,11 @@ that every row and column has an even number of bottles; $0, 2, 4$ and $6$ are e
 
 ![missing image](/papers/missing_image.svg)
 
+
 Put your answer in the crate drawn below
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2529,6 +2580,7 @@ tfraction
 These are called nested squares. What fraction of this shape is shaded in?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2589,6 +2641,7 @@ The shaded shape has an area of $3$ hexagons and a perimeter of $14 \ \text{cm}$
 Draw and shade in another shape which has an area of $4$ hexagons and a perimeter of $14 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

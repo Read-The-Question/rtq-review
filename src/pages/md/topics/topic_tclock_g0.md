@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tclock-g0"
 title: "Topic - Clock - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -217,6 +217,7 @@ tclock
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of the angle, in degrees, turned by the **minute** hand of a clock as it moves from the
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-g0"
 title: "Topic - Coin - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -397,7 +397,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -558,7 +559,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 

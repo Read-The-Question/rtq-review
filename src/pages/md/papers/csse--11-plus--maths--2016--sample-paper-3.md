@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,17 +60,53 @@ $\ldots, \quad 7020, \quad 702, \quad \ldots, \quad 7.02, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
+\ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 7020 \times 10 \\\\
+                            &= 70200 \\\\
+\text{Second number}        &= 702 \div 10 \\\\
+                            &= 70.2 \\\\
+\text{Third number}         &= 7.02 \div 10 \\\\
+                            &= 0.702
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
 \ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
 \end{matrix}
 $
@@ -114,15 +150,43 @@ $\ldots, \quad 0.64, \quad 12.8, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 20)} }
-&&  \footnotesize {\maroonC {(\times 20)} }
-&&  \footnotesize {\maroonC {(\times 20)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }  \\
+\ldots,  &&    0.64,  &&  12.8,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 0.64 \div 20 \\\\
+                            &= 0.032 \\\\
+\text{Second number}        &= 12.8 \times 20 \\\\
+                            &= 256
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }  \\
 \ldots,  &&    0.64,  &&  12.8,  &&  \ldots
 \end{matrix}
 $
@@ -164,17 +228,54 @@ $\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldot
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }  \\
+&   \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }  \\
+\ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {3} {4} + \dfrac {1} {4} \\\\
+                            &= \dfrac {4} {4} \\\\
+                            &= 1 \\\\
+\text{Second number}        &= \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                            &= 0 \\\\
+\text{Third number}         &= 0 - \dfrac {1} {4} \\\\
+                            &= - \dfrac {1} {4}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }  \\
 \ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -219,15 +320,45 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }  \\
+\dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
+                            &= 0
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $
@@ -271,16 +402,48 @@ $18, \quad 6, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }  \\
+18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 2 \div 3 \\\\
+                            &= \dfrac {2} {3} \\\\
+\text{Second number}        &= \dfrac {2} {3} \div 3 \\\\
+                            &= \dfrac {2} {3} \times \dfrac {1} {3} \\\\
+                            &= \dfrac {2} {9}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }  \\
 18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
 \end{matrix}
 $
@@ -368,8 +531,10 @@ For each part of this question, complete the calculation by inserting the correc
 $
 \begin{array}{cccccccccccccc}
     &    1  &                         3   &                       9 \\
-{}+ &    5  & \maroonC   1   &                       7 \\
-    &    6  &                         5   & \maroonC 6
+{}+ &    5  & \maroonC
+   1   &                       7 \\
+    &    6  &                         5   & \maroonC
+ 6
 \end{array}
 $
 
@@ -536,6 +701,7 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 In this magic square, each row, each column and each of the diagonals add to $15$.
 
 </div>
@@ -576,6 +742,7 @@ Insert the correct number in two empty positions to complete this magic square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -615,6 +782,7 @@ TODOANSWER
 Insert the correct number in the two **unshaded** positions to part complete this magic square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1139,6 +1307,7 @@ Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, t
 
 ![missing image](/papers/missing_image.svg)
 
+
 He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
 
 </div>
@@ -1336,6 +1505,7 @@ Ola is planning to complete a sponsored run for Red Nose Day.
 He collected a number of different promises, from his family, on his sponsor form.
 
 ![missing table](/papers/missing_table.svg)
+
 
 He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 
@@ -1537,6 +1707,7 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1691,6 +1862,7 @@ Each section of the route is either motorway (labelled $M$), main road (labelled
 The length of each section of the route is also stated.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Peter expects to travel at $90 \ \text{km/h}$ on the motorway, $60 \ \text{km/h}$ on the main road and $45 \ \text{km/h}$ 
 on the minor road.
@@ -1936,6 +2108,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 The graph shows the height of the tide, measured in metres, starting at noon.
 
 </div>
@@ -2105,6 +2278,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows a cube with edges that are **each** $10 \ \text{cm}$ long.
 

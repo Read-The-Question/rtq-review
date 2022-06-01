@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-g0"
 title: "Topic - Probability - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -25,6 +25,7 @@ If the probability of it raining tomorrow is $0.08$, what is the probability of 
 <div class='working'>
 
 Probabilities ALWAYS add up to 1.
+
 
 $
 \begin {aligned} 
@@ -170,6 +171,7 @@ tprobability
 This diagram shows the reults of a class survey concerning pets.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How many children have at least one pet?
 
@@ -451,6 +453,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with a $D$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $C$ on it?
@@ -465,7 +468,8 @@ Total cards with D left after one card is removed $4 - 1 = 3$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
                     &= \dfrac {4} {15}
 \end{aligned}
@@ -507,6 +511,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $E$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $F$ on it?
@@ -521,7 +526,8 @@ Total cards with D left after one card is removed $3 - 1 = 2$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
                     &= \dfrac {2} {15}
 \end{aligned}
@@ -569,7 +575,8 @@ What is the probability of picking a green counter?
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
                     &= \dfrac {7} {15}
 \end{aligned}
@@ -611,6 +618,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $F$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $E$ on it?
@@ -625,7 +633,8 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
@@ -701,7 +710,8 @@ I will pick out a green one?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {3} {2 + 3 + 4} \\\\
 &= \dfrac {3} {9} \\\\
 &= \dfrac {3} {3 \times 3} \\\\
@@ -740,7 +750,8 @@ I will pick a pencil that isn’t red?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {2 + 3} {2 + 3 + 4} \\\\
 &= \dfrac {5} {9}
 \end {aligned}
@@ -794,6 +805,7 @@ As per the question,
 Total counters $= 24 + 15 + a$
 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 
 $
 \begin{aligned}
@@ -853,6 +865,7 @@ As per the question,
 Total counters $= 32 + 14 + a$
 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 
 $
 \begin{aligned}
@@ -933,7 +946,8 @@ a red smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {7} {18}
 \end{aligned}
@@ -967,7 +981,8 @@ a blue or pink smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {6} {18} \\\\
                     &= \dfrac {6} {6 \times 3} \\\\
@@ -1004,7 +1019,8 @@ not an orange smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {13} {18}
 \end{aligned}
@@ -1051,6 +1067,7 @@ The diagram below shows an ordinary die.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Consider the following events when a single die is rolled:
 
 A: "the score on the die is either a $5$ or a $6$" 
@@ -1082,7 +1099,8 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 \end{aligned}
 $
 
@@ -1183,7 +1201,8 @@ Let's calculate the first value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {6}
 \end{aligned}
 $
@@ -1192,7 +1211,8 @@ Let's calculate the second value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
@@ -1249,7 +1269,8 @@ Give your answer as a fraction.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
                     &= \dfrac { 11 } {  20 }
 \end{aligned}
@@ -1300,7 +1321,8 @@ $
                                                     &= 5 \\\\
 \text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
                                                     &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                                                     &= \dfrac { 5 + 7 } {  50 } \\\\
                                                     &= \dfrac { 12 } {  50 } \\\\
                                                     &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
@@ -1352,7 +1374,8 @@ When she draws one disc out, what is the probability that the disc is **NOT** re
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {6 + 5} {6 + 5 + 9} \\\\
 &= \dfrac {11} {20}
 \end{aligned}

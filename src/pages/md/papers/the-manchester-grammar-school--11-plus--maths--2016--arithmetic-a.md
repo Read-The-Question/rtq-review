@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -231,16 +231,45 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+1.6)}} 
-&&  \footnotesize{\maroonC{(+1.6)}}  
-&&  \footnotesize{\maroonC{(+1.6)}}   
-&&  \footnotesize{\maroonC{(+1.6)}}  \\
+&   \footnotesize{\maroonC
+{(+1.6)}} 
+&&  \footnotesize{\maroonC
+{(+1.6)}}  
+&&  \footnotesize{\maroonC
+{(+1.6)}}   
+&&  \footnotesize{\maroonC
+{(+1.6)}}  \\
+2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4.3 + 1.6 \\\\
+                        &= 5.9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1.6)}} 
+&&  \footnotesize{\maroonC
+{(+1.6)}}  
+&&  \footnotesize{\maroonC
+{(+1.6)}}   
+&&  \footnotesize{\maroonC
+{(+1.6)}}  \\
 2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
 \end{matrix}
 $
@@ -572,6 +601,7 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
+
 Let's equate the perimeter to the length and width we get,
 
 $
@@ -645,7 +675,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 
@@ -969,7 +1000,8 @@ $
                                                     &= 5 \\\\
 \text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
                                                     &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                                                     &= \dfrac { 5 + 7 } {  50 } \\\\
                                                     &= \dfrac { 12 } {  50 } \\\\
                                                     &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\

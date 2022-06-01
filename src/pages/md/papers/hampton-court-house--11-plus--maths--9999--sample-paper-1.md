@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1028,17 +1028,51 @@ $16 \quad 13 \quad 10 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}  \\
+&   \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 7 - 3 \\\\
+                                &= 4 \\\\
+\text{Second Missing number}    &= 4 - 3 \\\\
+                                &= 1
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
 16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
 \end{matrix}
 $
@@ -1078,15 +1112,47 @@ $1 \quad 4 \quad 9 \quad 16 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+9)} }
-&&  \footnotesize {\maroonC {(+11)} } \\
+&   \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+9)} }
+&&  \footnotesize {\maroonC
+ {(+11)} } \\
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 + 9 \\\\
+                                  &= 25 \\\\
+\text{Second missing number}      &= 25 + 11 \\\\
+                                  &= 36
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+9)} }
+&&  \footnotesize {\maroonC
+ {(+11)} } \\
 1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1141,6 +1207,7 @@ tareaperimeter
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1192,7 +1259,8 @@ ttable
 
 Complete the following table
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1932,7 +2000,8 @@ I will pick out a green one?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {3} {2 + 3 + 4} \\\\
 &= \dfrac {3} {9} \\\\
 &= \dfrac {3} {3 \times 3} \\\\
@@ -1971,7 +2040,8 @@ I will pick a pencil that isn’t red?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {2 + 3} {2 + 3 + 4} \\\\
 &= \dfrac {5} {9}
 \end {aligned}
@@ -2068,7 +2138,8 @@ tinfer
 
 Alan is making squares out of matchsticks 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2107,6 +2178,7 @@ TODOANSWER
 Fill in the table 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

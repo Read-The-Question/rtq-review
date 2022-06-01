@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -310,7 +310,8 @@ tvolume
 
 A model tower block is made from centimetre cubes as shown below:
 
-![missing image](/papers/missing_image.svg)       It is $5\,cm$ by $3\,cm$ by $2\,cm$
+![missing image](/papers/missing_image.svg)
+       It is $5\,cm$ by $3\,cm$ by $2\,cm$
 
 </div>
 <div class='workings'>
@@ -432,6 +433,7 @@ tsymmetry
 Complete the following diagram so that the dotted line becomes an axis of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -676,6 +678,7 @@ tinfer
 What fraction of the shape shown has been shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1722,6 +1725,7 @@ Find the value of $χ$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1788,7 +1792,9 @@ tgraph
 Tosco and Sunbury are two supermarket chains. They each sell a variety of difference cheeses. The amounts of cheese sold in 1 week, by each supermarket, are shown in the pie charts below.
 
 
-![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1924,13 +1930,17 @@ tinfer
 </div>
 <div class='question question'>
 
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg)
+ 
 
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+$3$ ![missing image](/papers/missing_image.svg)
+ $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
 
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+$3$ ![missing image](/papers/missing_image.svg)
+  $4$ = $3 + 4 + (3 \times 4) = 19$
 
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+And similarly, $2$ ![missing image](/papers/missing_image.svg)
+  $6 = 2 + 6 + (2 \times 6) = 20$ 
 
 Find the values of
 
@@ -1958,7 +1968,8 @@ Find the values of
 </div>
 <div class='question subquestion'>
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$
 
 </div>
 <div class='workings'>
@@ -1966,7 +1977,8 @@ $5$ ![missing image](/papers/missing_image.svg)  $7$
 
 As per the question,
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$ = $5 + 7 + (5 \times 7) = 47$
 
 </div>
 </div>
@@ -1988,7 +2000,8 @@ $47$
 </div>
 <div class='question subquestion'>
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$
 
 </div>
 <div class='workings'>
@@ -1996,7 +2009,8 @@ $0$ ![missing image](/papers/missing_image.svg)  $9$
 
 As per the question,
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$ = $0 + 9 + (0 \times 9) = 9$
 
 </div>
 </div>
@@ -2018,7 +2032,8 @@ $9$
 </div>
 <div class='question subquestion'>
 
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+If $χ$ ![missing image](/papers/missing_image.svg)
+  $2 + 23$ find the value of $χ$
 
 </div>
 <div class='workings'>
@@ -2028,7 +2043,8 @@ As per the question,
 
 $
 \begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ ![missing image](/papers/missing_image.svg)
+  2            &= 23 \\\\
 χ + 2 + (χ \times 2)    &= 23 \\\\
 χ + 2 + 2χ              &= 23 \\\\
 3χ + 2                  &= 23 \\\\

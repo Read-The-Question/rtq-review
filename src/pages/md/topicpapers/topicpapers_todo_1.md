@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-todo-1"
 title: "TopicPaper - Odo - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,7 @@ What temperature does the thermometer show?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -90,6 +91,7 @@ TODOANSWER
 What temperature does this thermometer show?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -151,6 +153,7 @@ todo
 A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree \text{F}$, is
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

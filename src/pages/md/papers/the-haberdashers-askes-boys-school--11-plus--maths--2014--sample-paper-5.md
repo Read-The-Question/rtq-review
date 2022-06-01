@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1100,6 +1100,7 @@ How long is the shortest distance from $A$ to $B$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1216,6 +1217,7 @@ Complete the table below to show all $24$ equally likely final scores.
 
 ![missing table](/papers/missing_table.svg)
 
+
 If he repeats this experiment lots and lots of times, what fraction of the total scores are:
 
 </div>
@@ -1293,7 +1295,9 @@ TODOANSWER
 $12$ or more?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1356,6 +1360,7 @@ The **line graph** gives the total monthly rainfall for London.
 The scale on the right-hand side of the diagram is measured in millimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1534,9 +1539,11 @@ Amar makes patterns out of sticks:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw Pattern $4$ and complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1728,6 +1735,7 @@ Mr T has designed the kitchen tile shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show what this tile will look like after it has been turned through ninety degrees anticlockwise.
 
 </div>
@@ -1787,6 +1795,7 @@ lengths, $5 \ \text{cm}, 12 \ \text{cm}$ and $13 \ \text{cm}$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1825,6 +1834,7 @@ Complete the table to show the area of each square and hence write down a simple
 $A, B$ and $C$.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1865,6 +1875,7 @@ TODOANSWER
 Assuming that this connection works for all right-angled triangles, work out the length of square $C$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2396,43 +2407,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -2471,6 +2445,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

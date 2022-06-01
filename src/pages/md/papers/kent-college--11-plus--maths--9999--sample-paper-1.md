@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -471,6 +471,7 @@ Find the volume of this shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -688,6 +689,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -725,6 +727,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -881,6 +884,7 @@ What percentage of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -934,6 +938,7 @@ tareaperimeter
 Find the perimeter of this rectangle:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1013,6 +1018,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1052,6 +1058,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1095,6 +1102,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1154,6 +1162,7 @@ testimate
 This is a drawing of a boy in his bedroom.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1291,16 +1300,45 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+6,  &&   9,  &&   12,  &&   15,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fifth term}     &= 15 + 3 \\\\
+                      &= 18
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 6,  &&   9,  &&   12,  &&   15,  &&   \ldots
 \end{matrix}
 $
@@ -1411,6 +1449,7 @@ tnoexplanation
 Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down any of these numbers which are:
 
@@ -1568,6 +1607,7 @@ ttime
 Here is part of a railway timetable
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1762,6 +1802,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1789,6 +1830,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 Nine people sit at one table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What **fraction** of a bar do they each have?
 
@@ -1832,6 +1874,7 @@ Four people sit at another table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of a bar do they each have?
 
 </div>
@@ -1871,7 +1914,9 @@ In another room there are two tables.
 
 There are four bars of chocolate on one table. There are five on the other.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 Twelve people sit at the table with four bars. Some other people sit at the table with five bars.
 
@@ -1954,6 +1999,7 @@ Complete the chart for the four missing children using the information below.
 - Steven is $20 \ \text{cm}$ taller than the shortest boy.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now answer the following questions.
 
@@ -2300,6 +2346,7 @@ A number of shapes have been made with matches. For this pattern:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2375,6 +2422,7 @@ TODOANSWER
 Complete the table below, to show how many matches there are
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2469,6 +2517,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

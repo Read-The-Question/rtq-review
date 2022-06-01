@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-g0"
 title: "Topic - Detailedsubtraction - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -693,6 +693,7 @@ Find the difference between $8.38$ and $6.94$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -3862,6 +3863,7 @@ Work out $3.19 - 1.72$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -700,16 +700,47 @@ $5, 8, 11, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 11 + 3 \\\\
+                               &= 14 \\\\
+\text{Second missing number}   &= 14 + 3 \\\\
+                               &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -749,16 +780,47 @@ $4, 8, 16, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 16 \times 2 \\\\
+                                &= 32 \\\\
+\text {Second missing number}   &= 32 \times 2 \\\\
+                                &= 64
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -798,16 +860,47 @@ $100, 90, 80, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}  \\
+&   \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}  \\
+100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 80 - 10 \\\\
+                                &= 70 \\\\
+\text {Second missing number}   &= 70 - 10 \\\\
+                                &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}  \\
 100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -1001,6 +1094,7 @@ How many blocks of ice--cream can he put into the cool box?
 <div class='working'>
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
 
 As per the question,
 
@@ -1225,6 +1319,7 @@ Class Five conduct a traffic survey of the colours of $180$ cars.  They put thei
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1413,7 +1508,10 @@ tsequence
 
 Boxes are formed from sticks as below.
 
-![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)           ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+           ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

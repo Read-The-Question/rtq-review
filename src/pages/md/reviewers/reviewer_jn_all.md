@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-jn-all"
 title: "Reviewer - Jaishree Nair - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -50,17 +50,49 @@ $-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+7)}} 
-&&  \footnotesize{\maroonC{(+7)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+7)}}  \\
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 26 + 7 \\\\
+                        &= 33
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
 -2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
 \end{matrix}
 $
@@ -98,17 +130,49 @@ $43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-6)}} 
-&&  \footnotesize{\maroonC{(-6)}}  
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}  \\
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 43 - 6 \\\\
+                        &= 37
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
 43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
 \end{matrix}
 $
@@ -146,17 +210,49 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(3)}} 
-&&  \footnotesize{\maroonC{(5)}}  
-&&  \footnotesize{\maroonC{(7)}}   
-&&  \footnotesize{\maroonC{(9)}}   
-&&  \footnotesize{\maroonC{(11)}}  \\
+&   \footnotesize{\maroonC
+{(3)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  
+&&  \footnotesize{\maroonC
+{(7)}}   
+&&  \footnotesize{\maroonC
+{(9)}}   
+&&  \footnotesize{\maroonC
+{(11)}}  \\
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 17 + 9 \\\\
+                        &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(3)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  
+&&  \footnotesize{\maroonC
+{(7)}}   
+&&  \footnotesize{\maroonC
+{(9)}}   
+&&  \footnotesize{\maroonC
+{(11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
@@ -235,17 +331,51 @@ $-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+5)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+5)}}  \\
+&   \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 7 + 5 \\\\
+                                &= 12 \\\\
+\text{Second missing number}       &= 12 + 5 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
 -8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
 \end{matrix}
 $
@@ -285,17 +415,51 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}  \\
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 53 - 8 \\\\
+                                &= 45 \\\\
+\text{Second missing number}       &= 37 - 8 \\\\
+                                &= 29
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
 61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
 \end{matrix}
 $
@@ -335,17 +499,51 @@ $240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}  
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 120 \div 2 \\\\
+                                &= 60 \\\\
+\text{Second missing number}       &= 15 \div 2 \\\\
+                                &= 7.5
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
 \end{matrix}
 $
@@ -572,18 +770,55 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(0 + 1)} }
-&&  \footnotesize {\maroonC {(1 + 1)} }
-&&  \footnotesize {\maroonC {(1 + 2)} }
-&&  \footnotesize {\maroonC {(2 + 3)} }
-&&  \footnotesize {\maroonC {(3 + 5)} }
-&&  \footnotesize {\maroonC {(5 + 8)} }  \\
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3 + 5 \\\\
+                                  &= 8 \\\\
+\text {Second missing number}     &= 5 + 8 \\\\
+                                  &= 13
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -760,6 +995,7 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  a trapezium
 -  a rhombus
 -  an octagon
@@ -811,6 +1047,7 @@ tgeometry
 How many squares are in this picture?
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  $2$
 -  $3$
@@ -1087,6 +1324,7 @@ Write down the number of:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1215,9 +1453,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1551,6 +1792,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 Let the height of the second triangle $= a$.
 
 As per the question,
@@ -1656,6 +1898,7 @@ tunitprompt
 Here are two containers and the amounts they hold
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which container holds the greater amounts?
 
@@ -2621,6 +2864,7 @@ How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2672,6 +2916,7 @@ tpercentage
 At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What *percentage* of the teachers travel by car?
 
@@ -3764,17 +4009,51 @@ $3, \quad 5, \quad 7, \quad 9, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
+3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 9 + 2 \\\\
+                               &= 11 \\\\
+\text {Second missing number}  &= 11 + 2 \\\\
+                               &= 13
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
 3,  &&  5,  &&  7,  &&  9,  &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -3814,17 +4093,51 @@ $5.1, \quad 6.3, \quad 7.5, \quad 8.7, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $1.2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}
-&&  \footnotesize{\maroonC{(+1.2)}}  \\
+&   \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}  \\
+5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 8.7 + 1.2 \\\\
+                               &= 9.9 \\\\
+\text {Second missing number}  &= 9.9 + 1.2 \\\\
+                               &= 11.1
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $1.2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}
+&&  \footnotesize{\maroonC
+{(+1.2)}}  \\
 5.1,    &&  6.3,    &&  7.5,    &&  8.7,    &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -3864,17 +4177,51 @@ $1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}  \\
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}  \\
+1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 \times 3 \\\\
+                               &= 81 \\\\
+\text {Second missing number}  &= 81 \times 3 \\\\
+                               &= 243
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}  \\
 1,  &&  3,  &&  9,  &&  27, &&  \ldots, &&  \ldots
 \end{matrix}
 $
@@ -3914,17 +4261,51 @@ $0.3, \quad 0.6, \quad 1.2, \quad 2.4, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 2.4 \times 2 \\\\
+                               &= 4.8 \\\\
+\text {Second missing number}  &= 4.8 \times 2 \\\\
+                               &= 9.6
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 0.3,    &&  0.6,    &&  1.2,    &&  2.4,    &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -3964,17 +4345,51 @@ $15, \quad 11, \quad 7, \quad 3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  \\
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
+15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 3 - 4 \\\\
+                               &= -1 \\\\
+\text {Second missing number}  &= -1 - 4 \\\\
+                               &= -5
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
 15, &&  11, &&  7,  &&  3,  &&  \ldots,  && \ldots
 \end{matrix}
 $
@@ -4423,18 +4838,55 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+6)}} 
-&&  \footnotesize{\maroonC{(+6)}}  
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+6)}}  \\
+&   \footnotesize{\maroonC
+{(+6)}} 
+&&  \footnotesize{\maroonC
+{(+6)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 35 + 6 \\\\
+                               &= 41 \\\\
+\text{Second missing number}   &= 41 + 6 \\\\
+                               &= 47
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+6)}} 
+&&  \footnotesize{\maroonC
+{(+6)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
 11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
 \end{matrix}
 $
@@ -4477,18 +4929,55 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing by $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}}  \\
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
+108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 76 - 8 \\\\
+                               &= 68 \\\\
+\text{Second missing number}   &= 68 - 8 \\\\
+                               &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing by $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
 108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
 \end{matrix}
 $
@@ -4531,18 +5020,55 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}}   
-&&  \footnotesize{\maroonC{(+11)}}   
-&&  \footnotesize{\maroonC{(+13)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}   
+&&  \footnotesize{\maroonC
+{(+11)}}   
+&&  \footnotesize{\maroonC
+{(+13)}}  \\
+4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 28 + 11 \\\\
+                               &= 39 \\\\
+\text{Second missing number}   &= 39 + 13 \\\\
+                               &= 52
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}   
+&&  \footnotesize{\maroonC
+{(+11)}}   
+&&  \footnotesize{\maroonC
+{(+13)}}  \\
 4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
 \end{matrix}
 $
@@ -4623,6 +5149,7 @@ tsimpleword
 Calculate the size of the area left when a square side length $2 \ \text{metres}$ is removed from the rectangle below
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4761,6 +5288,7 @@ talgebra
 Find the sizes of angles $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5186,6 +5714,7 @@ If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5551,17 +6080,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }  \\
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
+7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}   &= 19 + 4\\\\
+                               &= 23 \\\\
+\text {Second missing number}  &= 23 + 4\\\\
+                               &= 27
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
 7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -5604,17 +6167,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }
-&&  \footnotesize {\maroonC {(\div 2)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }  \\
+96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}   &= 12 \div 2 \\\\
+                               &= 6 \\\\
+\text {Second missing number}  &= 6 \div 2 \\\\
+                               &= 3
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }
+&&  \footnotesize {\maroonC
+ {(\div 2)} }  \\
 96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -5657,17 +6254,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize {\maroonC {(+2)} }
-&&  \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+6)} }  \\
+&   \footnotesize {\maroonC
+ {(+2)} }
+&&  \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
+2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}   &= 11 + 5\\\\
+                               &= 16 \\\\
+\text {Second missing number}  &= 16 + 6\\\\
+                               &= 22
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize {\maroonC
+ {(+2)} }
+&&  \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
 2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
 \end {matrix}
 $
@@ -5719,6 +6350,7 @@ tangle
 The diagram shows a protractor being used to measure the angle between two lines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The lines are labelled **Line $1$** and **Line $2$**.
 
@@ -5943,6 +6575,7 @@ tsimpleword
 The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6379,6 +7012,7 @@ The diagram shows a field viewed from above. All dimensions are given in metres.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A mouse walks all the way around the edge of this field. How far does the mouse walk in metres?
 
 </div>
@@ -6464,17 +7098,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
+7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 13 + 2 \\\\
+                                &= 15 \\\\
+\text{Second missing number}    &= 15 + 2 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
 7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
 \end {matrix}
 $
@@ -6518,17 +7186,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-9$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}  \\
+&   \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
+105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 78 - 9 \\\\
+                                &= 69 \\\\
+\text{Second missing number}    &= 69 - 9 \\\\
+                                &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-9$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
 105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
 \end {matrix}
 $
@@ -6816,6 +7518,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 
@@ -7780,7 +8483,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9255,6 +9959,7 @@ How much is triangle worth?
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  Can't tell
 -  $1$
 -  $2$
@@ -9325,8 +10030,11 @@ tnumber
 Here is a pattern made from grey and white tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 A shape in the pattern has $28$ grey tiles.
 
@@ -9398,6 +10106,7 @@ This shape is made up of $3$ identical rectangles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the perimeter of the shape?
 
 -  $50 \ \text{m}$
@@ -9467,6 +10176,7 @@ tnumber
 Here are $2$ number machines:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Both machines have the same input.
 Work out the input if both machines also have the same output.
@@ -9949,6 +10659,7 @@ talgebra
 In this diagram what is the value of $x$?
 ![missing image](/papers/missing_image.svg)
 
+
 - $36$
 - $64$
 - $100$
@@ -10235,6 +10946,7 @@ talgebra
 
 When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 ![missing image](/papers/missing_image.svg)
+
 
 - $12$
 - $12.5$
@@ -10756,6 +11468,7 @@ On a very long straight road there are four villages: Allwood, Bentham, Corford 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The arrows show distances between villages.
 
 Find the distances from
@@ -10928,7 +11641,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10998,6 +11712,7 @@ Neither diagram is drawn to scale.
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -11321,7 +12036,8 @@ tgeometry
 
 How many different sized acute angles are there in the diagram below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -11369,9 +12085,11 @@ $1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$
 
 ![missing image](/papers/missing_image.svg)
 
+
 $2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of:
 
@@ -12018,7 +12736,8 @@ I will pick out a green one?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {3} {2 + 3 + 4} \\\\
 &= \dfrac {3} {9} \\\\
 &= \dfrac {3} {3 \times 3} \\\\
@@ -12057,7 +12776,8 @@ I will pick a pencil that isn’t red?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {2 + 3} {2 + 3 + 4} \\\\
 &= \dfrac {5} {9}
 \end {aligned}
@@ -12412,6 +13132,7 @@ Find the volume of this shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12468,6 +13189,7 @@ What percentage of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12521,6 +13243,7 @@ tareaperimeter
 Find the perimeter of this rectangle:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12600,6 +13323,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12639,6 +13363,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12682,6 +13407,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12746,16 +13472,45 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+6,  &&   9,  &&   12,  &&   15,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fifth term}     &= 15 + 3 \\\\
+                      &= 18
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 6,  &&   9,  &&   12,  &&   15,  &&   \ldots
 \end{matrix}
 $
@@ -12811,6 +13566,7 @@ tnoexplanation
 Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down any of these numbers which are:
 
@@ -12969,6 +13725,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12996,6 +13753,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 Nine people sit at one table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What **fraction** of a bar do they each have?
 
@@ -13039,6 +13797,7 @@ Four people sit at another table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of a bar do they each have?
 
 </div>
@@ -13078,7 +13837,9 @@ In another room there are two tables.
 
 There are four bars of chocolate on one table. There are five on the other.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 Twelve people sit at the table with four bars. Some other people sit at the table with five bars.
 
@@ -13515,10 +14276,15 @@ Here are three numbers
 and two operations on five cards.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which of these gives the answer $15$?
 
@@ -13676,7 +14442,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 5 \ \text{cm} \times 20 \ \text{cm} \times 10 \ \text{cm} \\\\
                 &= 1000 \ \text{cm}^{3}
 \end{aligned}
@@ -13788,17 +14555,49 @@ $1, \quad 4, \quad 8, \quad 13, \quad 19, \quad \text{\textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+7)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 19 + 7 \\\\
+                           &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
 1,  &&    4,  &&  8,  &&   13,  &&   19,   &&   \ldots
 \end{matrix}
 $
@@ -13836,17 +14635,50 @@ $1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 16 \times 2 \\\\
+                           &= 16 \times 2 \\\\
+                           &= 32
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 1,  &&    2,  &&  4,  &&   8,  &&   16,   &&   \ldots
 \end{matrix}
 $
@@ -13885,17 +14717,49 @@ $100, \quad 99, \quad 96, \quad 91, \quad 84, \quad \text{\textunderscore \textu
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-1)}} 
-&&  \footnotesize{\maroonC{(-3)}}  
-&&  \footnotesize{\maroonC{(-5)}}   
-&&  \footnotesize{\maroonC{(-7)}}   
-&&  \footnotesize{\maroonC{(-9)}}  \\
+&   \footnotesize{\maroonC
+{(-1)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-5)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
+100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 84 - 9 \\\\
+                           &= 75
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-1)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-5)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
 100,  &&    99,  &&  96,  &&   91,  &&   84,   &&   \ldots
 \end{matrix}
 $
@@ -13933,17 +14797,49 @@ $89, \quad 55, \quad 34, \quad 21, \quad 13, \quad \text{\textunderscore \textun
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(34)}} 
-&&  \footnotesize{\maroonC{(21)}}  
-&&  \footnotesize{\maroonC{(13)}}   
-&&  \footnotesize{\maroonC{(8)}} 
-&&  \footnotesize{\maroonC{(5)}}  \\
+&   \footnotesize{\maroonC
+{(34)}} 
+&&  \footnotesize{\maroonC
+{(21)}}  
+&&  \footnotesize{\maroonC
+{(13)}}   
+&&  \footnotesize{\maroonC
+{(8)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  \\
+89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 21 - 13 \\\\
+                           &= 8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(34)}} 
+&&  \footnotesize{\maroonC
+{(21)}}  
+&&  \footnotesize{\maroonC
+{(13)}}   
+&&  \footnotesize{\maroonC
+{(8)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  \\
 89,  &&    55,  &&  34,  &&   21,  &&   13,   &&   \ldots
 \end{matrix}
 $
@@ -14009,18 +14905,54 @@ $1, \quad 8, \quad 27,\quad \text{\textunderscore \textunderscore \textunderscor
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 It is a sequence of cube numbers.
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(1^3)}} 
-&&  \footnotesize{\maroonC{(2^3)}}  
-&&  \footnotesize{\maroonC{(3^3)}}   
-&&  \footnotesize{\maroonC{(4^3)}}   
-&&  \footnotesize{\maroonC{(5^3)}}   
-&&  \footnotesize{\maroonC{(6^3)}}  \\
+    \footnotesize{\maroonC
+{(1^3)}} 
+&&  \footnotesize{\maroonC
+{(2^3)}}  
+&&  \footnotesize{\maroonC
+{(3^3)}}   
+&&  \footnotesize{\maroonC
+{(4^3)}}   
+&&  \footnotesize{\maroonC
+{(5^3)}}   
+&&  \footnotesize{\maroonC
+{(6^3)}}  \\
+1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 4^3 \\\\
+                        &= 4 \times 4 \times 4 \\\\
+                        &= 64
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+It is a sequence of cube numbers.
+
+$
+\begin{matrix}
+    \footnotesize{\maroonC
+{(1^3)}} 
+&&  \footnotesize{\maroonC
+{(2^3)}}  
+&&  \footnotesize{\maroonC
+{(3^3)}}   
+&&  \footnotesize{\maroonC
+{(4^3)}}   
+&&  \footnotesize{\maroonC
+{(5^3)}}   
+&&  \footnotesize{\maroonC
+{(6^3)}}  \\
 1,  &&    8,  &&  27,  &&  \ldots ,  &&   125,   &&   216
 \end{matrix}
 $
@@ -14101,6 +15033,7 @@ Calculate the size of the missing angles
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14139,6 +15072,7 @@ $84 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -14181,6 +15115,7 @@ $118 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14221,6 +15156,7 @@ $57 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14259,6 +15195,7 @@ $79 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -14321,14 +15258,42 @@ Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
-&&  \footnotesize{\maroonC{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
+    \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
+\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
+                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
+                            &= \dfrac {20} {32}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+    \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
+&&  \footnotesize{\maroonC
+{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
 \dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
 \end{matrix}
 $
@@ -14405,18 +15370,55 @@ $10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+10,  &&    13,  &&  16,  && \ldots, && \ldots, &&   25,  &&   28 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 + 3 \\\\
+                                  &= 19 \\\\
+\text{Second missing number}      &= 19 + 3 \\\\
+                                  &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 10,  &&    13,  &&  16,  && \ldots, && \ldots, &&   25,  &&   28 
 \end{matrix}
 $
@@ -14456,19 +15458,59 @@ $29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-7)}} 
-&&  \footnotesize{\maroonC{(-7)}}  
-&&  \footnotesize{\maroonC{(-7)}}   
-&&  \footnotesize{\maroonC{(-7)}}   
-&&  \footnotesize{\maroonC{(-7)}}   
-&&  \footnotesize{\maroonC{(-7)}}   
-&&  \footnotesize{\maroonC{(-7)}}  \\
+&   \footnotesize{\maroonC
+{(-7)}} 
+&&  \footnotesize{\maroonC
+{(-7)}}  
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
+29,  &&    22,  &&  15,  &&  8,  && \ldots,  && \ldots, &&   -13,  &&   -20 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 8 - 7 \\\\
+                                  &= 1 \\\\
+\text{Second missing number}      &= 1 - 7 \\\\
+                                  &= -6
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing by $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-7)}} 
+&&  \footnotesize{\maroonC
+{(-7)}}  
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}   
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
 29,  &&    22,  &&  15,  &&  8,  && \ldots,  && \ldots, &&   -13,  &&   -20 
 \end{matrix}
 $
@@ -14508,20 +15550,63 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times -2)}} 
-&&  \footnotesize{\maroonC{(\times -2)}}  
-&&  \footnotesize{\maroonC{(\times -2)}}   
-&&  \footnotesize{\maroonC{(\times -2)}}   
-&&  \footnotesize{\maroonC{(\times -2)}}   
-&&  \footnotesize{\maroonC{(\times -2)}}   
-&&  \footnotesize{\maroonC{(\times -2)}}   
-&&  \footnotesize{\maroonC{(\times -2)}}  \\
+&   \footnotesize{\maroonC
+{(\times -2)}} 
+&&  \footnotesize{\maroonC
+{(\times -2)}}  
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}  \\
+1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= -8 \times -2 \\\\
+                               &= 16 \\\\
+\text{Second missing number}   &= 16 \times -2 \\\\
+                               &= -32
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times -2)}} 
+&&  \footnotesize{\maroonC
+{(\times -2)}}  
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}   
+&&  \footnotesize{\maroonC
+{(\times -2)}}  \\
 1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
 \end{matrix}
 $
@@ -15310,6 +16395,7 @@ tfraction
 What fraction of this flag has been shaded? Give the fraction as simply as possible. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -16583,6 +17669,7 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17208,7 +18295,9 @@ tgeometry
 
 Name the two shapes shown below
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17893,6 +18982,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What fraction of this flag is shaded?How many more rectangles need to be shaded to fill $\dfrac{2}{3}$ of the flag?
 
@@ -19722,6 +20812,7 @@ tfraction
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20505,6 +21596,7 @@ Name the shapes below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20532,6 +21624,7 @@ Hexagon
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20581,9 +21674,11 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $2538$ like this
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20699,7 +21794,9 @@ Use some of the four number cards to make numbers as close as possible to the nu
 
 $60$.       ![missing image](/papers/missing_image.svg)
 
+
 $400$        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20754,6 +21851,7 @@ talgebra
 The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20825,7 +21923,8 @@ Let the length of each side of the individual square (in m) $= a$
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
+\text{Area} &= \text{side} \times \text{side}
+ \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
 a                                               &= 2 \text{m}
@@ -23095,6 +24194,7 @@ The diagram shows an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23222,6 +24322,7 @@ talgebra
 Find the value of $𝑥$ in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23395,6 +24496,7 @@ tinfer
 I have a painting in a frame. The frame is $75 \ \text{cm}$ wide and $65 \ \text{cm}$ high. There is a border $15 \ \text{cm}$ wide around the painting. Find the width and height of the painting.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25516,6 +26618,7 @@ The diagram shows a regular pentagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25645,6 +26748,7 @@ talgebra
 Find the value of $𝑥$ in the quadrilateral shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25822,6 +26926,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25829,6 +26934,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -26325,6 +27431,7 @@ The London Eye has $32$ passenger capsules, each of which can take up to $18$ pe
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26673,6 +27780,7 @@ value of $x$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26769,6 +27877,7 @@ Calculate the value of 𝑥 in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26824,6 +27933,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26831,6 +27941,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -27706,16 +28817,47 @@ $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
 <div class='working'>
 
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}         &= 6 \div 2 \\\\
+                                    &= 3\\\\
+\text{Second missing number}        &= 24 \times 2 \\\\
+                                    &= 48\\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 \ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
@@ -27755,16 +28897,47 @@ $4 \quad \ldots \quad 10 \quad 13 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 4 + 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 13 + 3 \\\\
+                                  &= 16
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
@@ -27804,16 +28977,47 @@ $\ldots \quad 16 \quad 8 \quad 4 \quad  \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 \times 2 \\\\
+                                  &= 32 \\\\
+\text{Second missing number}      &= 4 \div 2 \\\\
+                                  &= 2
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 \ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
@@ -27853,16 +29057,45 @@ $\ldots \quad 6 \quad  3 \quad  0  \quad    -3$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}} 
-&&  \footnotesize{\maroonC{(-3)}}  
-&&  \footnotesize{\maroonC{(-3)}}   
-&&  \footnotesize{\maroonC{(-3)}}  \\
+&   \footnotesize{\maroonC
+{(-3)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-3)}}   
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+\ldots,  &&      6 , &&      3,   &&      0,  &&      -3
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}       &= 6 +3  \\\\
+                            &= 9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-3)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-3)}}   
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
 \ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
@@ -28051,6 +29284,7 @@ Let's take the number of coins as $= a$
 As per question,
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -28315,7 +29549,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -28500,6 +29735,7 @@ talgebra
 Find the size of the angles marked with the letters $a$ and $b$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28765,17 +30001,51 @@ $-2.0, -1.7, -1.4 , -1.1$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(+0.3)}}
-&&  \footnotesize{\maroonC{(+0.3)}}
-&&  \footnotesize{\maroonC{(+0.3)}}
-&&  \footnotesize{\maroonC{(+0.3)}}
-&&  \footnotesize{\maroonC{(+0.3)}}  \\
+&   \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+-2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= -1.1 + 0.3 \\\\
+                              &= -0.8 \\\\
+\text{Second missing number}  &= -0.8 + 0.3 \\\\
+                              &= -0.5
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
 -2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots  &&   \ldots
 \end {matrix}
 $
@@ -28815,17 +30085,51 @@ $15, 11,  7, 3$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  \\
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
+15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text{Second missing number}  &= -1 - 4 \\\\
+                              &= -5
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
 15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
 \end {matrix}
 $
@@ -28865,17 +30169,59 @@ $0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC{(+ \dfrac {3} {5})}}  \\
+&   \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}  \\
+0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 1 \dfrac {4} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9 + 3} {5} \\\\
+                              &= \dfrac {12} {5} \\\\
+                              &= 2 \dfrac {2} {5} \\\\
+\text{Second missing number}  &= 2 \dfrac {2} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12 + 3} {5} \\\\
+                              &= \dfrac {15} {5} \\\\
+                              &= \dfrac {3 \times 5} {5} \\\\
+                              &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+                              &= 3
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}  \\
 0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots  &&   \ldots
 \end {matrix}
 $
@@ -28923,15 +30269,47 @@ $5, 8 , 13, 20$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+7)}}
-&&  \footnotesize{\maroonC{(+9)}}
-&&  \footnotesize{\maroonC{(+11)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}  \\
+5,  &&   8,  &&   13,  &&   20,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 20 + 9 \\\\
+                              &= 29 \\\\
+\text{Second missing number}  &= 29 + 11 \\\\
+                              &= 40
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}  \\
 5,  &&   8,  &&   13,  &&   20,  &&   \ldots  &&   \ldots
 \end {matrix}
 $
@@ -29270,6 +30648,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29389,7 +30768,9 @@ tvolume
 
 This cube and cuboid have the same volume.
 
-![missing image](/papers/missing_image.svg)             ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+             ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30523,7 +31904,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -30659,6 +32041,7 @@ Calculate the perimeter of this rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -30707,6 +32090,7 @@ tareaperimeter
 Calculate the area of this right-angled triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -31498,6 +32882,7 @@ In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32180,12 +33565,18 @@ The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+6)}} 
-&&  \footnotesize{\maroonC{(+6)}}  
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+6)}} \\
+&   \footnotesize{\maroonC
+{(+6)}} 
+&&  \footnotesize{\maroonC
+{(+6)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}} \\
 3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
 \end{matrix}
 $
@@ -32227,11 +33618,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}}
-&&  \footnotesize{\maroonC{(+11)}} \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}} \\
 2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
 \end{matrix}
 $
@@ -32275,11 +33671,16 @@ Each consecutive term is calculated by multiplying the previous term by $\dfrac{
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times \dfrac{9} {10})}} 
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}   
-&&  \footnotesize{\maroonC{(\times \dfrac{9} {10})}}  \\
+&   \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}} 
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}   
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  \\
 1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
 \end{matrix}
 $
@@ -32944,6 +34345,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32984,6 +34386,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -33022,6 +34425,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -34462,10 +35866,14 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}} \\
+&   \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+4)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+4)}} \\
 5,  &&    9,  &&  13,  &&   17,  &&   21 \ldots
 \end{matrix}
 $
@@ -34509,10 +35917,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-1)}} 
-&&  \footnotesize{\maroonC{(-2)}}  
-&&  \footnotesize{\maroonC{(-3)}}   
-&&  \footnotesize{\maroonC{(-4)}} \\
+&   \footnotesize{\maroonC
+{(-1)}} 
+&&  \footnotesize{\maroonC
+{(-2)}}  
+&&  \footnotesize{\maroonC
+{(-3)}}   
+&&  \footnotesize{\maroonC
+{(-4)}} \\
 14,  &&    13,  &&  11,  &&   8,  &&   4 \ldots
 \end{matrix}
 $
@@ -34558,10 +35970,14 @@ Each consecutive term is calculated by multiplying the previous term by $2$ and 
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2 - 1)}} 
-&&  \footnotesize{\maroonC{(\times 2 - 1)}}  
-&&  \footnotesize{\maroonC{(\times 2 - 1)}}   
-&&  \footnotesize{\maroonC{(\times 2 - 1)}} \\
+&   \footnotesize{\maroonC
+{(\times 2 - 1)}} 
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}  
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}}   
+&&  \footnotesize{\maroonC
+{(\times 2 - 1)}} \\
 3,  &&    5,  &&  9,  &&   17,  &&   33 \ldots
 \end{matrix}
 $
@@ -34607,10 +36023,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+5)}}  
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}} \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}} \\
 1,  &&    4,  &&  9,  &&   16,  &&   25 \ldots
 \end{matrix}
 $
@@ -34656,10 +36076,14 @@ Each consecutive term is calculated by dividing the previous term by $2$
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}  
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}} \\
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}} \\
 32,  &&    16,  &&  8,  &&   4,  &&   2 \ldots
 \end{matrix}
 $
@@ -34706,10 +36130,14 @@ Each consecutive term is calculated by adding it to the previous term.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(1)}}  
-&&  \footnotesize{\maroonC{(2)}}   
-&&  \footnotesize{\maroonC{(3)}}
-&&  \footnotesize{\maroonC{(5)}}  \\
+&   \footnotesize{\maroonC
+{(1)}}  
+&&  \footnotesize{\maroonC
+{(2)}}   
+&&  \footnotesize{\maroonC
+{(3)}}
+&&  \footnotesize{\maroonC
+{(5)}}  \\
 2,  &&    3,  &&  5,  &&  8,  &&   13 \ldots
 \end{matrix}
 $
@@ -34791,6 +36219,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -34830,6 +36259,7 @@ $62 \ \text{cm}$
 The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -34886,6 +36316,7 @@ Find the *area* of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -34928,6 +36359,7 @@ $154 \ \text{cm}^2$
 The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -35738,6 +37170,7 @@ Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -36060,7 +37493,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
 
@@ -36180,7 +37614,8 @@ talgebra
 
 The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -36999,6 +38434,7 @@ tnumber
 In this fence the posts are all the same width as each other. The gaps are all the same width as each other, too.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How wide is each gap? 
 
@@ -37840,6 +39276,7 @@ Write the name of the following shapes underneath them.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -37867,6 +39304,7 @@ $\text {Cone}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -37918,6 +39356,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing North East. If you turn through $135 \degree$ clockwise, which way are you facing?  
 
@@ -37975,6 +39414,7 @@ tstatistics
 Look at the chart below which shows the number of vehicles of different types in the car park of St Anselm’s this morning. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -38261,7 +39701,8 @@ tpercentage
 
 Look at the grids below. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -39720,6 +41161,7 @@ Write the name of the following 3-dimensional shapes underneath them.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -39747,6 +41189,7 @@ $\text {Sphere}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -39798,6 +41241,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing South East. If you turn through $270^o$ clockwise, which way are you facing? 
 
@@ -39853,7 +41297,8 @@ tstatistics
 
 Look at the chart below which shows the number of cars of different colours passing the gate of St Anselm’s this morning.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -39990,6 +41435,7 @@ tpercentage
 
 Look at the grids below.  
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -41378,7 +42824,8 @@ tgeometry
 
 Here are some 2D shapes. Write the name of each shape underneath it.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -41421,6 +42868,7 @@ tgraph
 A number of Year $7$ pupils were asked to choose a favourite subject from a list of seven subjects. The number choosing each subject is shown in the chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -42148,7 +43596,8 @@ Underneath each shape write down its name.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -42178,6 +43627,7 @@ $\text {Parallelogram}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -42205,6 +43655,7 @@ $\text {Kite}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -42787,6 +44238,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -43427,7 +44879,8 @@ Give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 NO of sheets per ream = $500$
 
@@ -43469,7 +44922,8 @@ Give your answer in kilograms
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -43675,18 +45129,55 @@ $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \qua
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+7,  &&    10,  &&  \ldots,  &&   16, &&    19,  &&  \ldots,  && 25
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 + 3 \\\\
+                                &= 13 \\\\
+\text{Second missing number}       &= 19 + 3 \\\\
+                                &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 7,  &&    10,  &&  \ldots,  &&   16, &&    19,  &&  \ldots,  && 25
 \end{matrix}
 $
@@ -43726,18 +45217,55 @@ $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+192,  &&    96,  &&  48,  &&  \ldots,  &&   12, &&   6,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 48 \div 2 \\\\
+                                &= 24 \\\\
+\text{Second missing number}       &= 6 \div 2 \\\\
+                                &= 3
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 192,  &&    96,  &&  48,  &&  \ldots,  &&   12, &&   6,  &&  \ldots
 \end{matrix}
 $
@@ -44911,17 +46439,49 @@ Write down the next two numbers in the following sequences?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{\dfrac{1}{2}}} 
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  \\
+&   \footnotesize{\maroonC
+{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  \\
+8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= \dfrac{1}{2} \\\\
+\text{Second missing number}       &= \dfrac{1}{4} \\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  \\
 8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -44959,17 +46519,51 @@ $\dfrac{1}{2}, \dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-6)}} 
-&&  \footnotesize{\maroonC{(-6)}}  
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}  \\
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 - 6 \\\\
+&= -1
+\text{Second missing number}       &= -1 -6 \\\\
+& -7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
 23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -45232,7 +46826,8 @@ Jennifer is assembling a wardrobe. The measurements for the 3 sections are given
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 As the answer is to be given in cm, let's convert all measurements into cms.
 
@@ -45915,7 +47510,8 @@ tsimpleword
 
 Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -46638,10 +48234,14 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -46663,10 +48263,14 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -46715,13 +48319,20 @@ Each number in the sequence is double the previous number. Hence the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}} \\
+&   \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}} \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
@@ -47741,12 +49352,18 @@ The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}  \\
+    \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -48332,7 +49949,8 @@ Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 A quick check shows that $6$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 The two numbers which Winston thinks $= 6,14$
 
@@ -48422,6 +50040,7 @@ A company makes bricks to export to builders. To ship them, they put the bricks 
 measurements are in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the maximum number of bricks which can be fitted into the packing case?
 
@@ -49584,17 +51203,56 @@ Which of these is not part of the sequence?
 
 As per the question,
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+1)}} 
-&&  \footnotesize{\maroonC{(+2)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+12)}}
-&&  \footnotesize{\maroonC{(+24)}}  
-&&  \footnotesize{\maroonC{(+48)}}  \\
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+12)}}
+&&  \footnotesize{\maroonC
+{(+24)}}  
+&&  \footnotesize{\maroonC
+{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+12)}}
+&&  \footnotesize{\maroonC
+{(+24)}}  
+&&  \footnotesize{\maroonC
+{(+48)}}  \\
 1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
 \end{matrix}
 $
@@ -49809,12 +51467,18 @@ The difference between the terms is decreasing by $7$. Hence, the sequence would
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-4)}} 
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  
-&&  \footnotesize{\maroonC{(-4)}}   
-&&  \footnotesize{\maroonC{(-4)}}   
-&&  \footnotesize{\maroonC{(-4)}}  \\
+&   \footnotesize{\maroonC
+{(-4)}} 
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
 13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $
@@ -49958,7 +51622,8 @@ tsequence
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 This is a magic square.  
 
@@ -50102,6 +51767,7 @@ A number of shapes have been made with matches.
 For this pattern:
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many matches will be in the $4 \text{th}$ shape?
 
@@ -51698,6 +53364,7 @@ Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -52056,7 +53723,8 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -52108,7 +53776,8 @@ $\boxed { \phantom{20} } - 8 = 4 \times 3$
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$\boxed { \green
+{20} } - 8 = 4 \times 3$
 
 </div>
 </div>
@@ -52261,7 +53930,8 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -52922,6 +54592,7 @@ The notice below shows part of a train timetable between $2$ towns, Taymar and R
 One of the times has been covered.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -54050,6 +55721,7 @@ Roger trains every morning by running around the running track until he has run 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -54214,6 +55886,7 @@ An orange and a pear cost $64 \ \text{pence}$.
 How much more does an apple cost than an orange?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -54820,6 +56493,7 @@ A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
 </div>
@@ -55035,16 +56709,45 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}
-&&  \footnotesize{\maroonC{(-7)}}  \\
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
+83,  &&   76,  &&   69,  &&   62,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next missing number}  &= 62 - 7 \\\\
+                            &= 55
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
 83,  &&   76,  &&   69,  &&   62,  &&   \ldots
 \end{matrix}
 $
@@ -55419,6 +57122,7 @@ What fraction of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -55569,11 +57273,13 @@ Jasmine has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed side by side to form different numbers.
 
 For example, using four of the cards, the largest $4$-digit even number that can be made is $9854$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56055,6 +57761,7 @@ The reading on the scale below shows the mass of a parcel.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write down the mass:
 
 </div>
@@ -56165,7 +57872,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -56377,10 +58085,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+7)}} \\
+&   \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+4)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}} \\
 3,  &&    6,  &&  10,  &&   15 \ldots
 \end{matrix}
 $
@@ -56432,6 +58144,7 @@ The diagram below shows a triangle [not drawn to scale].
 Calculate each of the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56694,7 +58407,8 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green{39}} - 18 = 43$
+$93 - \underline{\green
+{39}} - 18 = 43$
 
 </div>
 </div>
@@ -57069,6 +58783,7 @@ tsimpleword
 Two rectangles ABCD and PQRS are shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $AD = $3 \ \text{cm}$$ 
 
@@ -57559,12 +59274,18 @@ As per the question, the number pattern looks like
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+5)}} 
-&&  \footnotesize{\maroonC{(+7)}}   
-&&  \footnotesize{\maroonC{(+9)}}
-&&  \footnotesize{\maroonC{(+11)}}
-&&  \footnotesize{\maroonC{(+13)}} \\
+&   \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}
+&&  \footnotesize{\maroonC
+{(+13)}} \\
 1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
 \end{matrix}
 $
@@ -58544,11 +60265,14 @@ tsimpleword
 
 Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
 
 He uses them to make this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of Bob’s shape?
 
@@ -58813,6 +60537,7 @@ talgebra
 What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -59164,6 +60889,7 @@ talgebra
 Calculate the missing angle in the triangle shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -60382,10 +62108,14 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}} \\
+&   \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}} \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
@@ -60429,10 +62159,14 @@ The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}} \\
+&   \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}} \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
@@ -60475,10 +62209,14 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}} \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}} \\
 2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
 $
@@ -61459,11 +63197,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+6)}} \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+6)}} \\
 2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -61507,11 +63250,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}} \\
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}} \\
 \dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
 \end{matrix}
 $

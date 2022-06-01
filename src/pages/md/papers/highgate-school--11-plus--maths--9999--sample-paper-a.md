@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -300,6 +300,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -331,6 +332,7 @@ What is the area covered by Mr Green's lawn?
 <div class='working'>
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -425,11 +427,13 @@ How many paving stones are needed to pave the patio?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The patio measurements is given in metres while the paving stones measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -691,6 +695,7 @@ The side lengths of the rectangles are whole numbers.
 The sides labelled $X$ and $Y$ are both longer than $1 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the lengths of the sides labelled $X$ and $Y$.
 

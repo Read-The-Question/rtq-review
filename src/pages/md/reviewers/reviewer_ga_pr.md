@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ga-pr"
 title: "Reviewer - Gifty Abhishek - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -32,6 +32,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -39,6 +40,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -413,6 +415,7 @@ TODOWORKING
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -1280,6 +1283,7 @@ Calculate the area of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $80 \ \text{cm}^2$
 - $106\ \text{cm}^2$   
 - $86 \ \text{cm}^2$
@@ -1293,6 +1297,7 @@ Calculate the area of the rectangle.
 As per the question,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -1466,6 +1471,7 @@ talgebra
 Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $126 \degree$
 - $46 \degree$
@@ -1846,6 +1852,7 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
 - $7.5 \ \text{cm}$
@@ -1920,6 +1927,7 @@ Convert $340 \ \text{millimetres}$ to metres.
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -2046,6 +2054,7 @@ Pens cost $35 \text{p}$ each. How much money will a box of $25$ pens cost?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 As per the question,
 
@@ -2240,7 +2249,8 @@ tsimpleword
 
 This is a plan of a house and its garden:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2775,6 +2785,7 @@ A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used in making the bigger cube?
 
 - $21$
@@ -3024,6 +3035,7 @@ to form the square shape shown below (the diagram is not drawn to scale).
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:
 
 The perimeter of this outer square shape
@@ -3041,6 +3053,7 @@ The perimeter of this outer square shape
 As per the question,
 
 $\text{Perimeter} = 4 \times \text{side})$
+
 
 $
 \begin{aligned}
@@ -3153,6 +3166,7 @@ by travelling along lines.
 You may only travel in directions %waffles%
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many routes are there from $B$ to $C$?
 
@@ -3397,17 +3411,51 @@ $5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(1 \dfrac{1}{2})}} 
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  \\
+&   \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  \\
+5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  \\
 5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
 \end{matrix}
 $
@@ -3573,6 +3621,7 @@ tspeed
 The diagram shows the distances between some cities.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how far was the Journey from Madrid to Paris?
 
@@ -4385,6 +4434,7 @@ Length of the rectangle $= a$
 Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 
 Let's equate the perimeter to the length and width we get,
 

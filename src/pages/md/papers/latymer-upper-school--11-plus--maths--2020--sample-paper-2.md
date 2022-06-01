@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -406,7 +406,8 @@ tnoexplanation
 
 What digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $8$ 
 
@@ -721,7 +722,8 @@ tsimpleword
 
 What is the area of the shaded shape below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$41\ \ \text{cm}$^2$ 
 
@@ -740,6 +742,7 @@ E: $\text{More information needed}$
 We can divide the shape into 2 rectangle as per the diagram shown below.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -798,7 +801,8 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pence into pounds.
 
 $
 \begin{aligned}
@@ -1102,7 +1106,8 @@ tsimpleword
 
 What is the area of the shaded triangle below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $42 \ cm^2$ 
 
@@ -1119,6 +1124,7 @@ E: $17.5 \ cm^2$
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 $
 \begin{aligned}
@@ -1812,6 +1818,7 @@ I have six identical beads which I want to put into three piles. Each pile must 
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1853,6 +1860,7 @@ List all the ways of placing eight beads into four piles, with at least one bead
 One possible answer is given to you.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2080,6 +2088,7 @@ Sid the spider goes for a walk around the whole perimeter of the shape below, st
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2125,7 +2134,10 @@ tsequence
 
 Jonny makes patterns from black and white tiles. His patterns always start with a black tile at the top. Here are some of his patterns:
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2239,7 +2251,9 @@ TODOANSWER
 
 Robin notices that he can take two copies of Pattern 4 and make them into a $4\times5$ rectangle:
 
-![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

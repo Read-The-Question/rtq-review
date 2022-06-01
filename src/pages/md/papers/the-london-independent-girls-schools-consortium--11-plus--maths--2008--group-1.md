@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -401,7 +401,8 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -453,7 +454,8 @@ $\boxed { \phantom{20} } - 8 = 4 \times 3$
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$\boxed { \green
+{20} } - 8 = 4 \times 3$
 
 </div>
 </div>
@@ -495,17 +497,51 @@ $5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(1 \dfrac{1}{2})}} 
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}   
-&&  \footnotesize{\maroonC{(1 \dfrac{1}{2})}}  \\
+&   \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  \\
+5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  \\
 5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
 \end{matrix}
 $
@@ -558,6 +594,7 @@ Fill in the gaps
 addition  subtraction  multiplication
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -716,6 +753,7 @@ tratio
 A recipe for making $12$ large chocolate chunk cookies includes the following ingredients:
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 $300 \ \text{g}$ plain chocolate
@@ -963,6 +1001,7 @@ Here is part of a train timetable for trains running between Hereford and Shrews
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1018,6 +1057,7 @@ TODOANSWER
 The return journey starts at $1950$ from Shrewsbury. If each part of the journey (including the wait at Ludlow) takes the same time as in the morning, complete the timetable for the return journey.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1286,6 +1326,7 @@ List the letters in the word
 
 ![missing image](/papers/missing_image.svg)
 
+
 which have exactly one line of symmetry?
 
 </div>
@@ -1320,10 +1361,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsymmetry
 </li>
 </ul>
 </div>
@@ -1357,6 +1395,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1384,6 +1423,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1432,6 +1472,7 @@ tgeometry
 How many squares are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1501,6 +1542,7 @@ What fraction of the shape in this diagram is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1531,6 +1573,7 @@ Shade in three quarters of this diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1559,9 +1602,12 @@ TODOANSWER
 
 Look at the diagrams below and tick the correct statement.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 ![missing table](/papers/missing_table.svg)
+
 
 Shape A has a greater fraction shaded than B.
 
@@ -1616,6 +1662,7 @@ tpercentage
 The pie chart shows the favourite colour of $180$ pupils in Highfield School.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1747,6 +1794,7 @@ Each cross is a corner of a shape. Join the correct corners to make a square and
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1790,7 +1838,9 @@ tgeometry
 
 Work out the area of the shape below and in the empty grid draw a square with the same area.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1837,6 +1887,7 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1878,6 +1929,7 @@ tgraph
 This bar chart shows the number of pets owned by children in the Animal Club.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2012,9 +2064,11 @@ In these diagrams, the positions of the dots and crosses are changing:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which of the diagrams below is the next in the sequence?
  
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2061,6 +2115,7 @@ Write down the letters of the two shapes which will fold to make a cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2093,10 +2148,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2132,6 +2184,7 @@ What is the diameter of this two pence coin, in centimetres?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2162,6 +2215,7 @@ If it is evening, what $24$ hour clock time does the watch show?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2191,6 +2245,7 @@ TODOANSWER
 A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and the inner scale shows **kg**. What is the teacher’s weight in kilograms?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2243,7 +2298,9 @@ This tower is made of small cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 If the tower is taken apart and rebuilt into the big cube shown below, how many small cubes are left over?
 
@@ -2292,9 +2349,11 @@ A piece of paper is folded in half and then folded in half again. Two shapes are
 
 ![missing image](/papers/missing_image.svg)
 
+
 The paper is unfolded. Which diagram shows what the paper looks like?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2559,7 +2618,11 @@ tsequence
 
 Look at these patterns:
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2715,6 +2778,7 @@ tclock
 What is the acute angle between the hands of a clock at
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2988,6 +3052,7 @@ He then eats another and then shares the rest out equally between himself and De
 He eats one more and gives the last one to Sean.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

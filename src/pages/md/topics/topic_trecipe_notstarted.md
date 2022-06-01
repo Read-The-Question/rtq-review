@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-notstarted"
 title: "Topic - Recipe - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -195,6 +195,7 @@ tratio
 A recipe for a pudding for $6$ people requires the ingredients listed in the box on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 I want to adapt this recipe to make a similar pudding to serve $8$ people.
 
@@ -420,6 +421,7 @@ $3$ tablespoons of syrup
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -611,6 +613,7 @@ A recipe for making $12$ large chocolate chunk cookies includes the following in
 ![missing image](/papers/missing_image.svg)
 
 
+
 $300 \ \text{g}$ plain chocolate
 
 $100 \ \text{g}$ sugar
@@ -724,6 +727,7 @@ trecipe
 The amount of each ingredient needed to  make $8$ cakes is given in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 **ingredients**   **$8$ cakes**          **$12$ cakes**
 
@@ -849,6 +853,7 @@ Complete the list below to show the amount of each ingredient which Mrs. Smith n
 
 ![missing table](/papers/missing_table.svg)
 
+
 grams pasta
 
 grams cheese
@@ -906,7 +911,8 @@ tratio
 
 Helen’s recipe for $12$ waffles needs the following ingredients:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1260,6 +1266,7 @@ tratio
 Lily uses these ingredients to make strawberry sorbet:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

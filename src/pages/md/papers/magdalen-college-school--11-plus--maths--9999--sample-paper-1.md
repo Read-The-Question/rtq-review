@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -333,6 +333,7 @@ tsimpleword
 Find the perimeter and area of this shape:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -672,7 +673,9 @@ Find the missing angles (diagrams not to scale):
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -789,18 +792,55 @@ $3, \quad 7, \quad 11, \quad 15, \quad 19, \quad \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}}   
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}  \\
+&   \footnotesize{\maroonC
+{(+4)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}  \\
+3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 19 + 4 \\\\
+                                  &= 23 \\\\
+\text{Second missing number}      &= 23 + 4 \\\\
+                                  &= 27
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+4)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}  \\
 3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -840,17 +880,51 @@ $3, \quad 6, \quad 12, \quad 24, \quad \text{\textunderscore \textunderscore \te
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}} \\
+3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 24 \times 2 \\\\
+                                  &= 48 \\\\
+\text{Second missing number}      &= 48 \times 2 \\\\
+                                  &= 96
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}} \\
 3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -890,16 +964,51 @@ $3, \quad 5, \quad 9, \quad 15, \quad 23, \quad \text{\textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}} 
-&&  \footnotesize{\maroonC{(+4)}}  
-&&  \footnotesize{\maroonC{(+6)}}   
-&&  \footnotesize{\maroonC{(+8)}}   
-&&  \footnotesize{\maroonC{(+10)}}
-&&  \footnotesize{\maroonC{(+12)}}  \\
+&   \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+8)}}   
+&&  \footnotesize{\maroonC
+{(+10)}}
+&&  \footnotesize{\maroonC
+{(+12)}}  \\
+3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 23 + 10 \\\\
+                                  &= 33 \\\\
+\text{Second missing number}      &= 33 + 12 \\\\
+                                  &= 45
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+4)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+8)}}   
+&&  \footnotesize{\maroonC
+{(+10)}}
+&&  \footnotesize{\maroonC
+{(+12)}}  \\
 3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
 \end{matrix}
 $
@@ -980,6 +1089,7 @@ Complete the table below, giving fractions in their lowest terms.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1033,7 +1143,8 @@ ttable
 
 The table shows part of the railway timetable from Edinburgh to St Andrews. Some trains stop at every station and others are express trains. All stopping trains take the same time between each station as each other.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1246,16 +1357,24 @@ tgeometry
 For each shape draw a rectangle that has the same area as the shape on the left. The first one is done for you.
 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1308,7 +1427,9 @@ talgebra
 James was given $\pounds 15$ to buy supplies for the university year. He chose to spend it on pens and pencils
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1836,6 +1957,7 @@ The dotted line is a line of symmetry of a shape, which is partly drawn. On the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2238,6 +2360,7 @@ tinfer
 Place each whole number from $1$ to $8$ inclusive in one of the blank boxes below to make the calculations correct. The calculations read left to right and top to bottom.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

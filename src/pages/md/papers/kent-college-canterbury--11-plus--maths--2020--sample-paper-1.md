@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -43,6 +43,7 @@ TODOWORKING
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -946,7 +947,9 @@ tdraw
 
 Draw an extra line to give each shape below one line of symmetry.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1170,6 +1173,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1199,6 +1203,7 @@ $\dfrac {5} {16}$
 How much of this square is shaded? Write your answer as a **decimal**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1278,16 +1283,45 @@ $7, \quad 15, \quad 23, \quad 31, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+8)} } 
-&&  \footnotesize {\maroonC {(+8)} }  
-&&  \footnotesize {\maroonC {(+8)} }   
-&&  \footnotesize {\maroonC {(+8)} } \\
+&   \footnotesize {\maroonC
+ {(+8)} } 
+&&  \footnotesize {\maroonC
+ {(+8)} }  
+&&  \footnotesize {\maroonC
+ {(+8)} }   
+&&  \footnotesize {\maroonC
+ {(+8)} } \\
+7,  &&    15,  &&  23,  &&   31,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 31 + 8 \\\\
+                       &= 39
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+8)} } 
+&&  \footnotesize {\maroonC
+ {(+8)} }  
+&&  \footnotesize {\maroonC
+ {(+8)} }   
+&&  \footnotesize {\maroonC
+ {(+8)} } \\
 7,  &&    15,  &&  23,  &&   31,  &&   \ldots
 \end{matrix}
 $
@@ -1325,17 +1359,51 @@ $42, \quad 33, \quad 24, \quad \ldots, \quad 6, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-9$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-9)} } 
-&&  \footnotesize {\maroonC {(-9)} }  
-&&  \footnotesize {\maroonC {(-9)} }   
-&&  \footnotesize {\maroonC {(-9)} }
-&&  \footnotesize {\maroonC {(-9)} } \\
+&   \footnotesize {\maroonC
+ {(-9)} } 
+&&  \footnotesize {\maroonC
+ {(-9)} }  
+&&  \footnotesize {\maroonC
+ {(-9)} }   
+&&  \footnotesize {\maroonC
+ {(-9)} }
+&&  \footnotesize {\maroonC
+ {(-9)} } \\
+42,  &&    33,  &&  24,  &&   \ldots  &&   6,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 24 - 9 \\\\
+                                  &= 15 \\\\
+\text{Second missing number}      &= 6 - 9 \\\\
+                                  &= -3
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-9$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-9)} } 
+&&  \footnotesize {\maroonC
+ {(-9)} }  
+&&  \footnotesize {\maroonC
+ {(-9)} }   
+&&  \footnotesize {\maroonC
+ {(-9)} }
+&&  \footnotesize {\maroonC
+ {(-9)} } \\
 42,  &&    33,  &&  24,  &&   \ldots  &&   6,  &&   \ldots
 \end{matrix}
 $
@@ -1745,6 +1813,7 @@ What number is $\dfrac{2}{5}$ of the way along the number line?
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show your working. 
 
 </div>
@@ -1979,6 +2048,7 @@ The diagram shows four identical white rectangles around a shaded square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded square?
 
 </div>
@@ -2033,6 +2103,7 @@ I put square tiles on a large grid so that the tiles touch at the corners.
 The diagram shows part of my diagonal pattern. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2198,6 +2269,7 @@ Show working to explain your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2251,7 +2323,10 @@ tsequence
 
 Tom is making patterns with matches.
 
-![missing image](/papers/missing_image.svg)         ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+         ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2626,6 +2701,7 @@ planks of wood.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much space should he leave between each of the planks of wood?
 
 Show your working. 
@@ -2688,7 +2764,8 @@ ttable
 
 One way to make a magic square is to substitute numbers into this algebra grid.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2730,6 +2807,7 @@ $a = 10,  \quad b = 3,  \quad c = 5$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2770,9 +2848,11 @@ Here is the algebra grid again.
 
 ![missing table](/papers/missing_table.svg)
 
+
 I use different values for $a, b$ and $c$ to complete the magic square.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What values for $a, b$ and $c$ did I use?
 
@@ -2833,6 +2913,7 @@ tnumber
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 

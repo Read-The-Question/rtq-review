@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -577,6 +577,7 @@ If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -941,6 +942,7 @@ What is the area of the shaded part of the rectangle below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1203,6 +1205,7 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1255,6 +1258,7 @@ Calculate the angle between the hands of a clock at $9.30$.
 (Remember that when the minute hand is at half past, the hour hand has moved halfway between the $9$ and the $10$).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1314,6 +1318,7 @@ Reflect the shapes in the grids below so tht the marked lines are lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1365,6 +1370,7 @@ tsequence
 Below is a sequence of squares and dots
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1667,6 +1673,7 @@ How many of the small cubes can be fully fitted into the larger cuboid?
 All measurements are in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

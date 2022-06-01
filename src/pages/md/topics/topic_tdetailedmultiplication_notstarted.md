@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-notstarted"
 title: "Topic - Detailedmultiplication - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -304,6 +304,7 @@ The two-digit by two-digit multiplication below has lots of gaps, but most of th
 (not by guesswork). Which digit must go in the position of the $*$ ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

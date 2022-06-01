@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -486,7 +486,8 @@ Underneath each shape write down its name.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -516,6 +517,7 @@ $\text {Parallelogram}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -543,6 +545,7 @@ $\text {Kite}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -616,6 +619,7 @@ Write down the fraction shaded. Where possible give the fraction in its simplest
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -645,6 +649,7 @@ $\dfrac{3}{4}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2090,7 +2095,8 @@ Calculate the angles marked with letters on the following diagrams.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -2124,7 +2130,8 @@ $45 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -2159,7 +2166,8 @@ $96 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -2264,6 +2272,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2301,6 +2310,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2517,6 +2527,7 @@ Find the area and perimeter of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2576,6 +2587,7 @@ tsimpleword
 Find the area of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2665,7 +2677,8 @@ a red smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {7} {18}
 \end{aligned}
@@ -2699,7 +2712,8 @@ a blue or pink smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {6} {18} \\\\
                     &= \dfrac {6} {6 \times 3} \\\\
@@ -2736,7 +2750,8 @@ not an orange smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {13} {18}
 \end{aligned}
@@ -3146,6 +3161,7 @@ ttime
 The timetable below shows some train times from Birmingham to York.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -719,6 +719,7 @@ The diagram shows a field viewed from above. All dimensions are given in metres.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A mouse walks all the way around the edge of this field. How far does the mouse walk in metres?
 
 </div>
@@ -804,17 +805,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+2)}}  \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
+7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 13 + 2 \\\\
+                                &= 15 \\\\
+\text{Second missing number}    &= 15 + 2 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
 7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
 \end {matrix}
 $
@@ -858,17 +893,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-9$. Hence, the sequence would be:
 
 $
 \begin {matrix}
-&   \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-9)}}  \\
+&   \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
+105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 78 - 9 \\\\
+                                &= 69 \\\\
+\text{Second missing number}    &= 69 - 9 \\\\
+                                &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-9$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
 105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
 \end {matrix}
 $
@@ -976,6 +1045,7 @@ I asked $48$ year $7$ students what their favourite food was.
 The results are shown in this pie chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1383,6 +1453,7 @@ On the coordinate grid below each small square represents $1 \ \text{cm}$ by $1 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1648,6 +1719,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 

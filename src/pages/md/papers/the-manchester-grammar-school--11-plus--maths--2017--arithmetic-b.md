@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic B"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2037,17 +2037,20 @@ tinfer
 
 The *Electric Light Organization* makes many electrical components including $\textbf{Zisters}$ which control the power to any electrical appliance.
 
-This $\textbf{Zister}$ ![missing image](/papers/missing_image.svg) has a value of $3$.
+This $\textbf{Zister}$ ![missing image](/papers/missing_image.svg)
+ has a value of $3$.
 
 $\textbf{Zisters}$ can be put together in two different ways as follows
 
 In an $\textbf{AFFTA}$, the two values of the $\textbf{Zisters}$ are added, so for example
 
-![missing image](/papers/missing_image.svg) has a value of $9$, because $3 + 6 = 9$.
+![missing image](/papers/missing_image.svg)
+ has a value of $9$, because $3 + 6 = 9$.
 
 In a $\textbf{NEXTA}$, the value has to be worked out by adding fractions as follows
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 Since $\dfrac{1}{3} + \dfrac{1}{6} = \dfrac{2}{6} + \dfrac{1}{6} = \dfrac{3}{6} = \dfrac{1}{2}$
 
@@ -2115,6 +2118,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2150,6 +2154,7 @@ $15$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2201,6 +2206,7 @@ $4$
 Work out the value of this combination of $\textbf{AFFTA}$ and $\textbf{NEXTA}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2271,6 +2277,7 @@ Work out the value of this triple $\textbf{NEXTA}$ by adding three fractions.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2317,6 +2324,7 @@ $3$
 If this new triple $\textbf{NEXTA}$ has a value of $3$, work out the value of the missing $\textbf{Zister}$ shown with (?)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2373,6 +2381,7 @@ $9$
 Finally, here is a special $\textbf{NEXTA}$. Showing all your working, calculate its value. (it is special because its value is not a whole number!)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic B"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -424,6 +424,7 @@ Andy has done some research on the internet and found two different companies he
 The graph below shows the cost of gas for the two different companies, so Andy can compare the costs.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

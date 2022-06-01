@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-g0"
 title: "Topic - Circle - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -378,6 +378,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -619,6 +620,7 @@ tcircle
 The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

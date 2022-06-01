@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -285,7 +285,8 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
-$94 - \underline{\green{29}} = 65$
+$94 - \underline{\green
+{29}} = 65$
 
 </div>
 </div>
@@ -313,7 +314,8 @@ $\ldots \times 40 = 360$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{9}} \times 40 = 360$
+$\underline{\green
+{9}} \times 40 = 360$
 
 </div>
 </div>
@@ -341,7 +343,8 @@ $\ldots \div 0.5 = 20$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{10}} \div 0.5 = 20$
+$\underline{\green
+{10}} \div 0.5 = 20$
 
 </div>
 </div>
@@ -369,7 +372,8 @@ $-35 + \ldots = -26$
 <div class='workings'>
 <div class='working'>
 
-$-35 + \underline{\green{9}} = -26$
+$-35 + \underline{\green
+{9}} = -26$
 
 </div>
 </div>
@@ -473,7 +477,8 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert the total amount into pence.
 
@@ -663,7 +668,9 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This triangle and rectangle have the same area. Find the height of the triangle.
 
@@ -673,7 +680,9 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the question,
 
@@ -795,7 +804,8 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
 \begin {aligned}
@@ -892,6 +902,7 @@ TODOANSWER
 Plot these points on the axes below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -993,7 +1004,9 @@ $44 \quad 91 \quad 350 \quad 789$
 <div class='workings'>
 <div class='working'>
 
-$44 \quad \boxed{\green{91}} \quad \boxed{\green{350}} \quad 789$
+$44 \quad \boxed{\green
+{91}} \quad \boxed{\green
+{350}} \quad 789$
 
 </div>
 </div>
@@ -1067,11 +1080,13 @@ How many tiles will I need?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The wall measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin {aligned}
@@ -1276,6 +1291,7 @@ How many or her friends liked **football and cricket**?
 
 ![missing image](/papers/missing_image.svg)
 
+
 (Use the Venn Diagram to help you.)
 
 </div>
@@ -1362,7 +1378,8 @@ $
 \begin{aligned}
 a + b  \quad        &\ldots \quad   b - a \\\\
 5 + 10  \quad       &\ldots \quad   10 - 5 \\\\
-15  \quad           &\boxed{\green{>}} \quad  5
+15  \quad           &\boxed{\green
+{>}} \quad  5
 \end{aligned}
 $
 
@@ -1397,7 +1414,8 @@ $
 c + b \div a  \quad         &\ldots \quad  2(a - c) \\\\
 2 + 10 \div 5  \quad        &\ldots \quad  2(5 - 2) \\\\
 2 + 2  \quad                &\ldots \quad  2 \times 3 \\\\
-4  \quad                    &\boxed{\green{<}} \quad 6
+4  \quad                    &\boxed{\green
+{<}} \quad 6
 \end{aligned}
 $
 
@@ -1432,7 +1450,8 @@ $
 2a^2 \quad              &\ldots \quad  ab \\\\
 2 \times 5^2 \quad      &\ldots \quad  5 \times 10 \\\\
 2 \times 25 \quad       &\ldots \quad  5 \times 10 \\\\
-50 \quad                &\boxed{\green{=}} \quad  50
+50 \quad                &\boxed{\green
+{=}} \quad  50
 \end{aligned}
 $
 
@@ -1539,11 +1558,13 @@ Work out the angle marked ?.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -1739,6 +1760,7 @@ tgraph
 Students in 6C were asked about their favourite sports. The results are displayed in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ students chose hockey.
 
@@ -1962,6 +1984,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1969,6 +1992,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -2038,6 +2062,7 @@ From the clues, work out the number that fits into the boxes.
 -  The final digit is the product of the second and the third digit.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

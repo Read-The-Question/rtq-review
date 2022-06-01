@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -759,6 +759,7 @@ For breakfast I eat a slice of buttered toast and a cup of coffee. The time take
 
 ![missing table](/papers/missing_table.svg)
 
+
 Brown toast in toaster $3 \ \text{minutes}$ 
 Butter the toast $1 \ \text{minute}$ 
 Make coffee in machine $2 \ \text{minutes}$
@@ -878,6 +879,7 @@ The chart below shows the mileage between five places in North London. For examp
 Hampstead as $4 \ \text{miles}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Daisy lives in Hampstead and drives her son to school at Haberdashers' in the morning before continuing on to the office in Southgate. 
 She then visits her sister in Harpenden before driving home via Habs. How far does she travel altogether?
@@ -1148,6 +1150,7 @@ The diagram below shows a piece of abstract art hanging up on Andrew's bedroom w
 To make this look even more interesting he decides to rotate this painting through $90 \ \text{degrees}$ clockwise. In the space provided show what the painting will look like in its new position.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1478,11 +1481,17 @@ Isolde enjoys making cubes. She first draws out shapes on pieces of cardboard an
 The diagrams below show six attempts. Unfortunately only five of these actually work. Cross out the shape which is impossible.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1544,6 +1553,7 @@ Unfortunately these objects and measurements have been muddled up.
 Draw lines on the diagram to match each object with its correct length.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Width of Wembley Stadium pitch
 $300 \ \text{mm}$
@@ -1788,6 +1798,7 @@ Seven children, $A, B, C, D, E, F, G$ take part in a competition.
 Use the information below to fill in the table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Position $1 \text{st}$ $2 \text{nd}$ $3 \text{rd}$ $4 \text{th}$ $5 \text{th}$ $6 \text{th}$ $7 \text{th}$ Child
 
@@ -2467,6 +2478,7 @@ The y-coordinate of the centre of one of the squares in this sequence is $2177$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2530,6 +2542,7 @@ For example, $26 = 12 + 14$ and $5 = 1 + 4$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2567,6 +2580,7 @@ TODOANSWER
 Complete the triangle of numbers:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2607,6 +2621,7 @@ TODOANSWER
 Complete the triangle of numbers:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2667,6 +2682,7 @@ The circles all have the same radius and the area of each is $7$ square units. W
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2705,6 +2721,7 @@ The diagram below shows a square which is $3$ units long with four identical sem
 These semi-circles overlap to create four petals which are shaded on the diagram. The area of each semi-circle is $3.5$ square units. Work out the shaded area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

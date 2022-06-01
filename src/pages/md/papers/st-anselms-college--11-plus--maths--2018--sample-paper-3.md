@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -118,7 +118,8 @@ tmoney
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -585,6 +586,7 @@ My clock shows the following time. Both hours and minutes are multiples of 3, as
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -640,6 +642,7 @@ $ 12:06 $
 Later, my clock shows
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -858,7 +861,8 @@ talgebra
 
 Look at these angles:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -960,7 +964,36 @@ $1 \,\,\, 7 \,\,\,  13 \,\,\,  20 \,\,\,   27$     ...     ...
 <div class='working'>
 
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{ \red{ (+6) } } 
+&&  \footnotesize{ \red{ (+6) } }  
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }  \\
+1,  &&    7,  &&  13,  &&   20,  &&   27  && \ldots && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 27 + 6 \\\\
+                              &= 33
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 33 + 6 \\\\
+                              &= 39
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
@@ -1187,6 +1220,7 @@ tinfer
 
 Here is the 65 times table:
 ![missing image](/papers/missing_image.svg)
+
 Use the table to answer the following questions 
 
 </div>
@@ -1354,7 +1388,8 @@ tdraw
 <div class='question question'>
 
 Look at the shape on the grid below:
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1472,6 +1507,7 @@ Now look at the diagram which shows the shape **reflected**. Put a cross on the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1511,6 +1547,7 @@ TODOANSWER
 Now look at the diagram which shows the shape **rotated** .Put a cross on the grid to show where B is rotated to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1569,7 +1606,8 @@ tstatistics
 In a survey, some football fans were asked “Who was England’s best player at the World Cup?”
 The results are shown in the chart below (with the club the player plays for in brackets).
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1757,6 +1795,7 @@ What **fraction** of the shape below is shaded? Give your answer as simply as po
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1792,6 +1831,7 @@ What **percentage** of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1826,6 +1866,7 @@ $ \dfrac{2}{5}$
 Which of the two shapes below has a greater percentage?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2132,6 +2173,7 @@ As per the question,
 Total counters $= 24 + 15 + a$
 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 
 $
 \begin{aligned}

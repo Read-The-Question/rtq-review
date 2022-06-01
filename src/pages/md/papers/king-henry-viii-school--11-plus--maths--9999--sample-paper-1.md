@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -759,6 +759,7 @@ tnoexplanation
 
 ![missing image](/papers/missing_image.svg)
 
+
 One **afternoon**, Eadie looks at the clock.
 Write the time in $12 \ \text{hour}$ clock
 
@@ -1040,6 +1041,7 @@ Measure this line to the nearest millimetre.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1258,6 +1260,7 @@ Draw all of the lines of symmetry on the following shapes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1310,6 +1313,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1818,6 +1822,7 @@ tgeometry
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1860,6 +1865,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2119,6 +2125,7 @@ tgeometry
 How many triangles can you find in the diagram below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

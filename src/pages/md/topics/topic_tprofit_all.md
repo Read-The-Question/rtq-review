@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -24,9 +24,13 @@ Three shops advertise the same luxury chair.
 Each shop has a special offer. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 At which shop is the price of the two chairs the cheapest? 
 
@@ -1880,6 +1884,7 @@ including a rover theme park ticket for everyone, would be:
 $2 \times 1320 + 780 + 2 \times 320 + 240 = \pounds 4300$
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-blocked"
 title: "Topic - Time - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ ttime
 The lengths of four of the Henry Potter films are as follows:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
 
@@ -619,6 +620,7 @@ ttime
 The timetable below shows the morning train times between St Albans and City Thameslink via St Pancras International.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

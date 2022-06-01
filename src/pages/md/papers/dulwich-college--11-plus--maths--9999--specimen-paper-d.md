@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -303,11 +303,16 @@ The difference between the terms is $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+8)} }
-&&  \footnotesize {\maroonC {(+8)} }
-&&  \footnotesize {\maroonC {(+8)} }
-&&  \footnotesize {\maroonC {(+8)} }
-&&  \footnotesize {\maroonC {(+8)} }  \\
+&   \footnotesize {\maroonC
+ {(+8)} }
+&&  \footnotesize {\maroonC
+ {(+8)} }
+&&  \footnotesize {\maroonC
+ {(+8)} }
+&&  \footnotesize {\maroonC
+ {(+8)} }
+&&  \footnotesize {\maroonC
+ {(+8)} }  \\
 29, && 37, && 45, && \text{\textunderscore \textunderscore \textunderscore }, && 61, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -353,11 +358,16 @@ The difference between the terms is $2.5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-2.5)} } 
-&&  \footnotesize {\maroonC {(-2.5)} }  
-&&  \footnotesize {\maroonC {(-2.5)} }   
-&&  \footnotesize {\maroonC {(-2.5)} }   
-&&  \footnotesize {\maroonC {(-2.5)} }  \\
+&   \footnotesize {\maroonC
+ {(-2.5)} } 
+&&  \footnotesize {\maroonC
+ {(-2.5)} }  
+&&  \footnotesize {\maroonC
+ {(-2.5)} }   
+&&  \footnotesize {\maroonC
+ {(-2.5)} }   
+&&  \footnotesize {\maroonC
+ {(-2.5)} }  \\
 31, && 28.5, && 26, && \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }, && 18.5
 \end{matrix}
 $
@@ -428,8 +438,11 @@ Therefore,
 
 $
 \begin{matrix}
-\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
-2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\boxed{\green
+{16}} & 4 & \boxed{\green
+{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green
+{8}}  & 30 \\\\
 \end{matrix}
 $
 
@@ -639,7 +652,8 @@ $((3 - 7) - 4) = ((-4) - 4) = -8$
 Therefore,
 
 \begin{matrix}
-3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green
+{3 - (7 - 4)}} && ((3 - 7) - 4)
 \end{matrix}
 
 </div>
@@ -726,7 +740,8 @@ $
 
 Using this we get,
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green
+ {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -885,6 +900,7 @@ TODOANSWER
 Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1062,6 +1078,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1214,7 +1231,9 @@ $
 
 Therefore,
 
-$\boxed{\green{9}} \qquad  55 \qquad   \boxed{\green{81}} \qquad   13 \qquad   21$
+$\boxed{\green
+{9}} \qquad  55 \qquad   \boxed{\green
+{81}} \qquad   13 \qquad   21$
 
 </div>
 </div>
@@ -1487,6 +1506,7 @@ Note: all angles are right angles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1569,6 +1589,7 @@ The table and bar chart below are to show the number of points scored by a rugby
 | Number of points scored |  25 |      |     |   9  | 23  | 30  |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1740,6 +1761,7 @@ talgebra
 The diagram shows a triangle and a line. The two angles marked $y \degree$ are equal.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1972,7 +1994,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2162,6 +2185,7 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2234,6 +2258,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2271,6 +2296,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2314,6 +2340,7 @@ TODOANSWER
 A tower with five rows is made and the bottom row is:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down the number which will appear at the top of the tower.
 
@@ -2377,11 +2404,15 @@ from being black to white and vice versa.
 
 For example:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2420,7 +2451,9 @@ TODOANSWER
 Show the effect of pressing button $7$ by shading squares on the pattern below:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2461,6 +2494,7 @@ TODOANSWER
 The object of the game is to make all the squares white. Which **two** buttons could you press from the following position to win the game?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

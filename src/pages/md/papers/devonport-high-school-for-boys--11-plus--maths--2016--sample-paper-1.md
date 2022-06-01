@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -74,6 +74,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The bar chart shows the number of animals on a farm.
 
@@ -292,6 +293,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -343,6 +345,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The chart shows the number of pupils choosing their favourite colours.
 
@@ -675,6 +678,7 @@ What is the area of this shape?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -779,6 +783,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which shape has exactly $2$ lines of reflective symmetry and also rotational symmetry?
 
 </div>
@@ -832,6 +837,7 @@ tgraph
 The ages of the members of a club are given on the histogram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many members were aged $25$ or older?
 
@@ -947,16 +953,47 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $123$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-123)} } 
-&&  \footnotesize {\maroonC {(-123)} }  
-&&  \footnotesize {\maroonC {(-123)} }   
-&&  \footnotesize {\maroonC {(-123)} }  \\
+&   \footnotesize {\maroonC
+ {(-123)} } 
+&&  \footnotesize {\maroonC
+ {(-123)} }  
+&&  \footnotesize {\maroonC
+ {(-123)} }   
+&&  \footnotesize {\maroonC
+ {(-123)} }  \\
+951,  &&    828,  &&  705,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fourth number}        &= 705 - 123 \\\\
+                            &= 582 \\\\
+\text{Fifth number}         &= 582 - 123 \\\\
+                            &= 459
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $123$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-123)} } 
+&&  \footnotesize {\maroonC
+ {(-123)} }  
+&&  \footnotesize {\maroonC
+ {(-123)} }   
+&&  \footnotesize {\maroonC
+ {(-123)} }  \\
 951,  &&    828,  &&  705,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1006,6 +1043,7 @@ tvenn
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 John is dark haired, has brown eyes and wears glasses. In which section would you put his name?
 
@@ -1221,7 +1259,8 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -1675,6 +1714,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -1948,6 +1988,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with a $D$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $C$ on it?
@@ -1962,7 +2003,8 @@ Total cards with D left after one card is removed $4 - 1 = 3$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
                     &= \dfrac {4} {15}
 \end{aligned}
@@ -2158,7 +2200,8 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 

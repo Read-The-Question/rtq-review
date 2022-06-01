@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlogic-all"
 title: "Topic - Logic - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -29,7 +29,8 @@ tsymmetry
 
 Sarah has designed a tile for her new kitchen as shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -68,6 +69,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -111,8 +113,11 @@ half a turn.
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -342,10 +347,14 @@ joined to together.
 Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
 
 ![missing image](/papers/missing_image.svg)
+ 
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -560,6 +569,7 @@ A solid square based pyramid has all of its corners cut off, as shown. How many 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -764,6 +774,7 @@ In the sum shown, different shapes represent different digits.
 What digit does the square represent?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1140,6 +1151,7 @@ Winston watched the race but forgot to write down the positions of the runners. 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
 
 </div>
@@ -1374,6 +1386,7 @@ tlogic
 Here is a map of the roads in Askeshire.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The route from Catsworth to Dogsville via Alysford is written "CAD". 
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-pr"
 title: "Topic - Areaperimeter - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -25,6 +25,7 @@ Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Perimeter $= 36 \ \text{millimetres}$
 
 Find the value of $t$.
@@ -35,7 +36,8 @@ Find the value of $t$.
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
@@ -85,6 +87,7 @@ You may use the grid to help you.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -120,7 +123,8 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 4 \ \text{cm}$ 
 
@@ -177,6 +181,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -184,6 +189,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -299,6 +305,7 @@ talgebra
 If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of the whole shape? The diagram is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -610,6 +617,7 @@ value of $x$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -706,6 +714,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -713,6 +722,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -768,6 +778,7 @@ tareaperimeter
 In the diagram the small squares are all the same size. What fraction of the large square is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -838,9 +849,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -891,7 +904,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1077,6 +1091,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1195,6 +1210,7 @@ Calculate the perimeter of this rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1243,6 +1259,7 @@ tareaperimeter
 Calculate the area of this right-angled triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1390,6 +1407,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1430,6 +1448,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1468,6 +1487,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1564,6 +1584,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1603,6 +1624,7 @@ $62 \ \text{cm}$
 The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1659,6 +1681,7 @@ Find the *area* of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1701,6 +1724,7 @@ $154 \ \text{cm}^2$
 The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1785,6 +1809,7 @@ Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -1836,6 +1861,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -2037,7 +2063,8 @@ tsimpleword
 
 Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2249,6 +2276,7 @@ Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
 
+
 Area = $49 \ \text{cm}^{2}$
 
 - $49 \ \text{cm}$
@@ -2405,6 +2433,7 @@ Calculate the area of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $80 \ \text{cm}^2$
 - $106\ \text{cm}^2$   
 - $86 \ \text{cm}^2$
@@ -2418,6 +2447,7 @@ Calculate the area of the rectangle.
 As per the question,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -2467,6 +2497,7 @@ talgebra
 The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
@@ -2531,7 +2562,8 @@ tsimpleword
 
 This is a plan of a house and its garden:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2680,6 +2712,7 @@ to form the square shape shown below (the diagram is not drawn to scale).
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:
 
 The perimeter of this outer square shape
@@ -2697,6 +2730,7 @@ The perimeter of this outer square shape
 As per the question,
 
 $\text{Perimeter} = 4 \times \text{side})$
+
 
 $
 \begin{aligned}
@@ -2909,6 +2943,7 @@ Roger trains every morning by running around the running track until he has run 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3045,6 +3080,7 @@ A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
 </div>
@@ -3175,7 +3211,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3349,6 +3386,7 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
+
 Let's equate the perimeter to the length and width we get,
 
 $
@@ -3409,6 +3447,7 @@ tsimpleword
 Two rectangles ABCD and PQRS are shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $AD = $3 \ \text{cm}$$ 
 
@@ -3479,11 +3518,14 @@ tsimpleword
 
 Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
 
 He uses them to make this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of Bob’s shape?
 

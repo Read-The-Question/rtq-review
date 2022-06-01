@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -157,6 +157,7 @@ talgebra
 Calculate the angle marked with the letter $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $70 \degree$
 - $85 \degree$
@@ -603,6 +604,7 @@ talgebra
 Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
+
 
 Area = $49 \ \text{cm}^{2}$
 
@@ -1051,6 +1053,7 @@ Calculate the area of the trapezium.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $50 \ \text{cm}^{2}$
 - $44 \ \text{cm}^{2}$
 - $40 \ \text{cm}^{2}$
@@ -1126,6 +1129,7 @@ Convert $5300 \ \text{grams}$ to kilograms.
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text{One gram} &= \dfrac{1}{1000} \\\\
@@ -1194,11 +1198,16 @@ Hence, the sequence would be
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(- \dfrac{1}{3})}} 
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}  
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}   
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}   
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}  \\
+&   \footnotesize{\maroonC
+{(- \dfrac{1}{3})}} 
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}  
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}   
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}   
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}  \\
 243,  &&    -81,  &&  27,  &&   -9,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1727,6 +1736,7 @@ tsimpleword
 Find the perimeter of the compound shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $92 \ \text{cm}$
 - $52 \ \text{cm}$
@@ -2265,17 +2275,56 @@ Which of these is not part of the sequence?
 
 As per the question,
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+1)}} 
-&&  \footnotesize{\maroonC{(+2)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+6)}}
-&&  \footnotesize{\maroonC{(+12)}}
-&&  \footnotesize{\maroonC{(+24)}}  
-&&  \footnotesize{\maroonC{(+48)}}  \\
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+12)}}
+&&  \footnotesize{\maroonC
+{(+24)}}  
+&&  \footnotesize{\maroonC
+{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+12)}}
+&&  \footnotesize{\maroonC
+{(+24)}}  
+&&  \footnotesize{\maroonC
+{(+48)}}  \\
 1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
 \end{matrix}
 $
@@ -2539,6 +2588,7 @@ Which letter is on the face opposite $M$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $I$ 
 - $P$ 
 - $K$ 
@@ -2728,13 +2778,15 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A train display shows letters by lighting cells in a grid, such as the letter ‘o’ shown. 
 A letter is made **bold** by also lighting any unlit cell immediately to the 
 right of one in the normal letter. How many cells are lit in a **bold** ‘o’?
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $22$
 - $24$
@@ -2920,6 +2972,7 @@ How many of the six faces of a dice (shown below) have fewer than three lines of
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $2$
 - $3$
 - $4$
@@ -2981,6 +3034,7 @@ In the diagram shown below, which square could be removed with the
 perimeter of the shape remaining the same?
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $1$
 - $2$

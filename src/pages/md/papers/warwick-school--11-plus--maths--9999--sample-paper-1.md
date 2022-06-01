@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -402,10 +402,14 @@ The difference between the terms is $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}} \\
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}} \\
 50,  &&    42,  &&  34,  &&   \box,  &&   18 \ldots
 \end{matrix}
 $
@@ -449,10 +453,14 @@ The difference between the terms is $0.002$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.002)}} 
-&&  \footnotesize{\maroonC{(+0.002)}}  
-&&  \footnotesize{\maroonC{(+0.002)}}
-&&  \footnotesize{\maroonC{(+0.002)}} \\
+&   \footnotesize{\maroonC
+{(+0.002)}} 
+&&  \footnotesize{\maroonC
+{(+0.002)}}  
+&&  \footnotesize{\maroonC
+{(+0.002)}}
+&&  \footnotesize{\maroonC
+{(+0.002)}} \\
 2.302,  &&    2.304,  &&  2.306,  &&   2.308 &&   \box \ldots
 \end{matrix}
 $
@@ -494,11 +502,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+(6 \times 1))}}
-&&  \footnotesize{\maroonC{(+(6 \times 2))}}
-&&  \footnotesize{\maroonC{(+(6 \times 3))}}
-&&  \footnotesize{\maroonC{(+(6 \times 4))}}
-&&  \footnotesize{\maroonC{(+(6 \times 5))}} \\
+&   \footnotesize{\maroonC
+{(+(6 \times 1))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 2))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 3))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 4))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 5))}} \\
 4,  &&    7,  &&  13,  &&   25,  &&   49 &&  \box \ldots
 \end{matrix}
 $
@@ -541,11 +554,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-19)}}
-&&  \footnotesize{\maroonC{(-17)}}
-&&  \footnotesize{\maroonC{(-15)}}
-&&  \footnotesize{\maroonC{(-13)}}
-&&  \footnotesize{\maroonC{(-11)}} \\
+&   \footnotesize{\maroonC
+{(-19)}}
+&&  \footnotesize{\maroonC
+{(-17)}}
+&&  \footnotesize{\maroonC
+{(-15)}}
+&&  \footnotesize{\maroonC
+{(-13)}}
+&&  \footnotesize{\maroonC
+{(-11)}} \\
 100,  &&    81,  &&  64,  &&   49,  &&   36 &&  \box \ldots
 \end{matrix}
 $
@@ -587,10 +605,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}} \\
 \box,  &&    3.5,  &&  7,  &&   14,  &&   28 \ldots
 \end{matrix}
 $
@@ -1226,7 +1248,9 @@ How many small triangles would fit exactly into the larger rectangle?
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1234,11 +1258,13 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
 
 Let's convert the rectangle measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -1933,6 +1959,7 @@ The rectangle and triangle below have the same height.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
 
 </div>
@@ -2009,6 +2036,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2143,6 +2171,7 @@ The triangle in the diagram below is isosceles.
 Calculate angle **$x$**
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2480,7 +2509,12 @@ tsymmetry
 Draw $\underbar{all}$ the lines of symmetry on the shapes below:
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg) $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+ $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
 
 $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Regular$\:\:\:\:\:\:\:\:$Pentagon
 
@@ -2711,6 +2745,7 @@ tnumber
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2910,6 +2945,7 @@ The diagram below represents a rectangular grass lawn surrounded by a gravel pat
 What is the cost of gravel required to cover the path?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3190,6 +3226,7 @@ tvolume
 
 The diagram represents a carton of orange juice in the shape of a cuboid. The carton is full. 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -723,12 +723,18 @@ The difference between the terms is $15$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-    \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}
-&&  \footnotesize{\maroonC{(+15)}}  \\
+    \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}  \\
 150,  &&    165,  &&  180,  &&   195,   &&   210  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1386,7 +1392,8 @@ Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 A quick check shows that $6$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 The two numbers which Winston thinks $= 6,14$
 
@@ -1603,6 +1610,7 @@ A company makes bricks to export to builders. To ship them, they put the bricks 
 measurements are in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the maximum number of bricks which can be fitted into the packing case?
 
@@ -2335,6 +2343,7 @@ Fill in the table below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2737,7 +2746,8 @@ Tick whether the following statements are true or false.
 
 The first has been done for you.
 
-![missing table](/papers/missing_table.svg)    
+![missing table](/papers/missing_table.svg)
+    
 
 </div>
 <div class='workings'>
@@ -2781,6 +2791,7 @@ leaves a remainder of $2$.
 Work out the remainders for the following questions:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3058,6 +3069,7 @@ Dividing $35$ by $8$ gives $4$ and leaves a remainder of $3$. We write: $35 \div
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3134,6 +3146,7 @@ Fill in the blank boxes in the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3175,6 +3188,7 @@ Now look at columns $B$ and $C$ in the tables above. Given the information in th
 $577767777 \div 7$ **without** performing the division. Write your answer in the blank box
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3253,6 +3267,7 @@ TODOANSWER
 Given the information in the tables below work out the remainder of $470807973 \div 8$ and write your answer in the blank box.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

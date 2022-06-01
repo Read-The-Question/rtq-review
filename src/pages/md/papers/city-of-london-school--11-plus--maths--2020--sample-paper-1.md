@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -137,10 +137,7 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -154,7 +151,9 @@ $\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\:
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -252,10 +251,7 @@ $\pounds 18.07$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsymmetry
 </li>
 </ul>
 </div>
@@ -264,6 +260,7 @@ todo
 Reflect the letters in the mirror line below. Three letters have been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -368,10 +365,7 @@ $\pounds 168$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+ttemperature
 </li>
 </ul>
 </div>
@@ -379,7 +373,9 @@ todo
 
 The thermometers below show the temperature recorded at midday yesterday and midnight last night.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -586,16 +582,14 @@ $223 \ \text {minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tfraction
 </li>
 </ul>
 </div>
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -711,6 +705,7 @@ What fraction of the large rectangle below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -756,10 +751,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -890,10 +882,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tspeed
 </li>
 </ul>
 </div>
@@ -951,10 +940,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -962,7 +948,8 @@ todo
 
 The diagram below shows two overlapping rectangles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1094,7 +1081,9 @@ talgebra
 
 The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -1178,7 +1167,8 @@ talgebra
 
 Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1223,10 +1213,7 @@ $62 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tangle
 </li>
 </ul>
 </div>
@@ -1271,6 +1258,7 @@ TODOANSWER
 Find the size of angle $‘𝑎’$ in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1364,6 +1352,7 @@ tareaperimeter
 A right angled triangle is shown below. It is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1484,6 +1473,7 @@ tvolume
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagram above is not drawn to scale. 
 
 </div>
@@ -1590,10 +1580,7 @@ $130 \text{ cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tumber
 </li>
 </ul>
 </div>
@@ -1976,10 +1963,7 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2145,10 +2129,7 @@ $23334.3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2323,10 +2304,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tlcm
 </li>
 </ul>
 </div>
@@ -2338,7 +2316,11 @@ If they are all rung at the same time, how many seconds will pass before they al
 
 You should show some justification for your answer. 
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

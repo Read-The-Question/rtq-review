@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -785,6 +785,7 @@ Kyle has drawn a triangle ABC on this grid
 
 ![missing image](/papers/missing_image.svg)
 
+
 Holly has started to draw an identical triangle DEF.
 
 What will the coordinates be of point $F$?
@@ -897,7 +898,8 @@ tsequence
 
 Below is a repeated pattern of numbered shapes.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1163,7 +1165,9 @@ tprobability
 
 Lee has two spinners 
              
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)              
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+              
 
 </div>
 <div class='workings'>
@@ -1638,9 +1642,13 @@ Below are four diagrams.
 
 Circle each diagram that is the net of a cube.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   
+
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>

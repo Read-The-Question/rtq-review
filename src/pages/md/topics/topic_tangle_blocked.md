@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-blocked"
 title: "Topic - Angle - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -24,7 +24,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -157,6 +159,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -210,9 +213,13 @@ tangle
 In the diagrams below, which angle is the biggest? The diagrams are not drawn to scale.
  
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
 
 - $a$
 - $b$
@@ -300,6 +307,7 @@ talgebra
 A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the size of the angle marked $x$. 
 
@@ -398,6 +406,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -437,6 +446,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

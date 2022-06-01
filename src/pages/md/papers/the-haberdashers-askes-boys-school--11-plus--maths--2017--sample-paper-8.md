@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -656,6 +656,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the reflex angle between the two hands on this clock?
 
 </div>
@@ -845,6 +846,7 @@ The results for Monday, Tuesday, Wednesday and Thursday are shown in the pictogr
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1011,6 +1013,7 @@ tgraph
 Here is a map of Secret Island.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1219,8 +1222,11 @@ tgeometry
 What is the name of each of these three regular polygons?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1970,6 +1976,7 @@ TODOANSWER
 Enter this information into the table below. Then complete the rest of the table.
 
 ![missing table](/papers/missing_table.svg)
+
 Boys Girls Total Left handed Right handed Total
 
 </div>
@@ -2466,7 +2473,9 @@ Here is a portion of the Monday to Friday bus timetable for the $724$ bus betwee
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 
 
@@ -2856,6 +2865,7 @@ What is the area of this triangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2895,6 +2905,7 @@ TODOANSWER
 What is the area of this triangle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -2995,6 +3006,7 @@ tlogic
 Here is a map of the roads in Askeshire.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The route from Catsworth to Dogsville via Alysford is written "CAD". 
 
@@ -3142,6 +3154,7 @@ Complete the table below. The first two rows have been completed for you.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3225,6 +3238,7 @@ Circle "NO" for each of the following prime numbers that cannot be expressed as 
 **You do not need to find the two square numbers**.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

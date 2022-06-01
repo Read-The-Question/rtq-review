@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -279,6 +279,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -326,6 +327,7 @@ tunitprompt
 Ten calculators have a total mass of $1500 \ \text{g}$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -534,6 +536,7 @@ tmoney
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -736,6 +739,7 @@ tunit
 Sophie's grandmother has given her the family recipe to make a tray of $12$ scones.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -999,9 +1003,11 @@ He spins the spinner $60$ times and records the colour which the arrow points to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here are his results:
 
-![missing table](/papers/missing_table.svg).
+![missing table](/papers/missing_table.svg)
+.
 
 </div>
 <div class='workings'>
@@ -1078,6 +1084,7 @@ TODOANSWER
 Complete the bar chart to show his results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1231,6 +1238,7 @@ $
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1324,6 +1332,7 @@ The lunch break at Harry's school lasts $60 \ \text{minutes}$.
 Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1533,6 +1542,7 @@ There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1733,6 +1743,7 @@ tgraph
 Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1948,6 +1959,7 @@ The table below shows the maximum temperatures in New York City last year.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2160,7 +2172,9 @@ In the space below, draw an accurate net for this pyramid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2203,6 +2217,7 @@ This solid shape is made from $1 \ \text{cm}$ cubes.
 Calculate the volume of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2263,6 +2278,7 @@ On the line below, mark the following probabilities with the letters shown:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -   she gets an even number on the top face
 
 -    she gets a $6$ on the top face
@@ -2270,6 +2286,7 @@ On the line below, mark the following probabilities with the letters shown:
 -    she gets a number less than $7$ on the top face
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2355,6 +2372,7 @@ $42 \text{p}, 38 \text{p}, 40 \text{p}$ and $36 \text{p}$.
 Calculate the mean price of a bottle of lemonade.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2450,11 +2468,15 @@ The area of a rectangle can be found using the formula below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of each of these rectangles is $24  \ \text{m}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2493,6 +2515,7 @@ TODOANSWER
 Complete the table below for each rectangle.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2809,6 +2832,7 @@ For example, in this number square each side adds to $12$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2848,6 +2872,7 @@ In this number triangle, the numbers $1, 2, 3, 4, 5$ and $6$ are used once each.
 Complete the triangle so that the numbers along each side add up to $9$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2890,6 +2915,7 @@ In this number pentagon, the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$ are us
 Complete the pentagon so that the numbers along each side add up to $14$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

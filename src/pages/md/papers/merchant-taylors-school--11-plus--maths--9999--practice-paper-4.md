@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -69,6 +69,7 @@ Draw all of the lines of symmetry on the following shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -108,6 +109,7 @@ TODOANSWER
 How many lines of symmetry has the shape below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -473,6 +475,7 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -521,6 +524,7 @@ $47 \degree, \ 123 \degree$
 Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -867,6 +871,7 @@ Sarah sat by the river Thames and recorded the number of cyclists that passed by
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1073,6 +1078,7 @@ ttemperature
 A gardener measures the night time temperatures over two evenings and records the results in the table shown below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1398,6 +1404,7 @@ On the grid below draw the reflection of the shape shown in the mirror line $AB$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1478,17 +1485,51 @@ $5, \quad 11, \quad 17, \quad 23, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+6)} }  
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }  \\
+&   \footnotesize {\maroonC
+ {(+6)} } 
+&&  \footnotesize {\maroonC
+ {(+6)} }  
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
+5,  &&    11,  &&  17,  &&   23,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 23 + 6 \\\\
+                                  &= 29 \\\\
+\text{Second missing number}      &= 29 + 6 \\\\
+                                  &= 35
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+6)} } 
+&&  \footnotesize {\maroonC
+ {(+6)} }  
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
 5,  &&    11,  &&  17,  &&   23,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1528,17 +1569,51 @@ $10, \quad 7, \quad 4, \quad 1, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }  \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+10,  &&    7,  &&  4,  &&   1,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 1 - 3 \\\\
+                                  &= -2 \\\\
+\text{Second missing number}      &= -2 - 3 \\\\
+                                  &= -5
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
 10,  &&    7,  &&  4,  &&   1,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1578,17 +1653,51 @@ $2, \quad 8, \quad 32, \quad 128, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 4)} } 
-&&  \footnotesize {\maroonC {(\times 4)} }  
-&&  \footnotesize {\maroonC {(\times 4)} }   
-&&  \footnotesize {\maroonC {(\times 4)} }   
-&&  \footnotesize {\maroonC {(\times 4)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 4)} } 
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  \\
+2,  &&    8,  &&  32,  &&   128,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 128 \times 4 \\\\
+                                  &= 512 \\\\
+\text{Second missing number}      &= 512 \times 4 \\\\
+                                  &= 2048
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 4)} } 
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }   
+&&  \footnotesize {\maroonC
+ {(\times 4)} }  \\
 2,  &&    8,  &&  32,  &&   128,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -1927,6 +2036,7 @@ tfraction
 The contents of part of a wardrobe are shown in the pie chart below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 What fraction, in its simplest form, of **Footwear** are boots? 
 
@@ -2980,6 +3090,7 @@ If five grey cubes are removed from each face of the larger cube, what is the to
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3402,6 +3513,7 @@ Find in terms of $x$ the perimeter of the following triangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3742,7 +3854,9 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3856,6 +3970,7 @@ The two-digit by two-digit multiplication below has lots of gaps, but most of th
 (not by guesswork). Which digit must go in the position of the $*$ ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

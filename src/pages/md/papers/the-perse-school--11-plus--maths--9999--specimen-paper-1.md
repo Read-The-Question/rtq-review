@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -83,10 +83,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+4)}} 
-&&  \footnotesize{\maroonC{(+5)}}
-&&  \footnotesize{\maroonC{(+7)}} \\
+&   \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+4)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}} \\
 3,  &&    6,  &&  10,  &&   15 \ldots
 \end{matrix}
 $
@@ -138,6 +142,7 @@ The diagram below shows a triangle [not drawn to scale].
 Calculate each of the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -493,9 +498,11 @@ tgraph
 
 Brian has $7$ dominoes in a bag. He takes out one domino and finds the total of the two numbers. He then puts the domino back in the bag. His $7$ dominoes are shown below, together with a graph of his results after doing this experiment $100$ times.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -654,7 +661,8 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green{39}} - 18 = 43$
+$93 - \underline{\green
+{39}} - 18 = 43$
 
 </div>
 </div>
@@ -1290,6 +1298,7 @@ Study the graph below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 The co-ordinates of $A, B$ and $C$ are: $A (3 , 1) ; B (6 , 2) ; C (12 , 4)$
 
 </div>
@@ -1658,9 +1667,12 @@ The difference between the terms is $11$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(1000-11 \times 1)}}  
-&&  \footnotesize{\maroonC{(1000-11 \times 2)}}    
-&&  \footnotesize{\maroonC{(1000-11 \times 3)}} \\
+&   \footnotesize{\maroonC
+{(1000-11 \times 1)}}  
+&&  \footnotesize{\maroonC
+{(1000-11 \times 2)}}    
+&&  \footnotesize{\maroonC
+{(1000-11 \times 3)}} \\
 1000,  &&    989,  &&  978,  &&   967 \ldots
 \end{matrix}
 $
@@ -1729,6 +1741,7 @@ talgebra
 Find the missing numbers so that the answer is always $56$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1836,6 +1849,7 @@ tsimpleword
 Two rectangles ABCD and PQRS are shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $AD = $3 \ \text{cm}$$ 
 

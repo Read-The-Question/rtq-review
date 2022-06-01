@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -748,6 +748,7 @@ What percentage of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -794,6 +795,7 @@ Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -837,6 +839,7 @@ The temperature in Minnesota on Monday morning was $-4 \degree \text{C}$.
 On Tuesday morning, the temperature was $6 \ \text{degrees}$ colder.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -942,11 +945,13 @@ Sam has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed together to form different numbers.
 
 For example, using just five of the cards, the largest $5$-digit number that can be made is $87652$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1105,6 +1110,7 @@ tratio
 Below are the instructions for *Kleeno*, a new kitchen disinfectant.
 
 ![missing image](/papers/missing_image.svg)
+
 
 A bottle of Kleeno contains $540 \ \text{ml}$.
 
@@ -1551,6 +1557,7 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1596,9 +1603,11 @@ A number machine has produced the following table of input and output numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1670,6 +1679,7 @@ TODOANSWER
 Use the ruler to work out the length of the crayon in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1746,7 +1756,9 @@ tgeometry
 Reflect each shape in the dashed line shown.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1795,6 +1807,7 @@ tareaperimeter
 Shapes $A, B, C, D$ and $E$ are drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1908,6 +1921,7 @@ On the grid below, draw a quadrilateral with an area of $10$ squares which has e
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1952,6 +1966,7 @@ tgraph
 The chart below shows the way Rebecca spends her $24$-hour day.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2037,7 +2052,9 @@ Jamie provides the information below about the way his $24$-hour day is spent.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 Complete the chart to show how Jamie spends his $24$-hour day.
 
@@ -2086,6 +2103,7 @@ Petra has a bag containing $24$ counters which are green, blue or red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 $50\%$ of the counters are green.
 
 There are twice as many blue counters as red counters in the bag.
@@ -2094,6 +2112,7 @@ There are twice as many blue counters as red counters in the bag.
 She picks one counter at random from the bag.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 From the probability scale shown, write down the letter which represents the probability that her counter is:
@@ -2225,9 +2244,11 @@ Yoshi is making origami models.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The time taken to make each model is shown below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2358,6 +2379,7 @@ tvenn
 Greta is sorting quadrilaterals using a Venn Diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Circle $F$ contains shapes with $4$ equal sides.
 
@@ -2492,6 +2514,7 @@ Points $A, B$ and $C$ have been plotted on the centimetre square co-ordinate gri
 
 ![missing image](/papers/missing_image.svg)
 
+
 There is a point, $D$, such that when $A, B, C$ and $D$ are joined in order, they form a parallelogram.
 
 </div>
@@ -2623,6 +2646,7 @@ talgebra
 A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
@@ -2785,6 +2809,7 @@ The pattern below is made from tesselating regular hexagons.
 To get the next pattern, an extra ‘ring’ of hexagons is added to completely surround the previous pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The length of each side of a hexagon is $3.5 \ \text{cm}$.
 
@@ -3370,6 +3395,7 @@ The digital roots of the first $9$ square numbers are given in the table below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3396,6 +3422,7 @@ TODOANSWER
 
 Complete the table of digital roots of the next nine square numbers.
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3590,6 +3617,7 @@ Quinn drew a regular pentagon and ruled in all of its diagonals.
 ![missing image](/papers/missing_image.svg)
 
 
+
 He discovered that a regular pentagon has $5$ diagonals.
 
 </div>
@@ -3620,6 +3648,7 @@ How many diagonals has a regular heptagon ($7$ sides)?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3649,6 +3678,7 @@ TODOANSWER
 How many diagonals has a regular dodecagon ($12$ sides)?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

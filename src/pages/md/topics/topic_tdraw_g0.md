@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-g0"
 title: "Topic - Draw - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -27,6 +27,7 @@ tsimpleword
 The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

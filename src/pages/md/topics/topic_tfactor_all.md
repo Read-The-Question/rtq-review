@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,13 +146,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1506,7 +1509,9 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
+57 &= \maroonC
+ {19} \times \maroonC
+ {3}
 \end{aligned}
 $
 
@@ -1538,7 +1543,9 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
+91 &= \maroonC
+ {13} \times \maroonC
+ {7}
 \end{aligned}
 $
 
@@ -1954,8 +1961,11 @@ Therefore,
 
 $
 \begin{matrix}
-\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
-2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\boxed{\green
+{16}} & 4 & \boxed{\green
+{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green
+{8}}  & 30 \\\\
 \end{matrix}
 $
 
@@ -2011,8 +2021,11 @@ All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75,
 
 $
 \begin{matrix}
-100                                   & \quad \boxed{\green {30}} & \quad 7  & \quad 11 \\\\
-\boxed{\green {10}}  & \quad \boxed{\green {3}}  & \quad 8  & \quad 45
+100                                   & \quad \boxed{\green
+ {30}} & \quad 7  & \quad 11 \\\\
+\boxed{\green
+ {10}}  & \quad \boxed{\green
+ {3}}  & \quad 8  & \quad 45
 \end{matrix}
 $
 
@@ -2126,7 +2139,8 @@ Circle $B$ needs to contain multiples $4$.
 
 You will need to put some numbers outside of the two circles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2850,6 +2864,7 @@ tnoexplanation
 Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down any of these numbers which are:
 
@@ -4385,6 +4400,7 @@ tdraw
 A factor tree can be used to write any number as a product of prime factors.
 
 ![missing image](/papers/missing_image.svg)
+
 
 We can say that 
 
@@ -6477,6 +6493,7 @@ Put the following numbers into the correct positions in the diagram below:
 $5 \quad 6 \quad 7 \quad 8$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

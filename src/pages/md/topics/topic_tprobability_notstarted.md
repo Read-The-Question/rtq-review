@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-notstarted"
 title: "Topic - Probability - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -245,10 +245,15 @@ tprobability
 The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 I am going to spin all the pointers.
 
@@ -398,13 +403,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -495,6 +503,7 @@ I am going to take a counter out of the bag at random.
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1335,6 +1344,7 @@ Fill in this tally chart and work out the frequencies (how many times she got ea
 
 ![missing table](/papers/missing_table.svg)
 
+
 Do you think the die was fair?
 
 Explain your answer:
@@ -1878,6 +1888,7 @@ Complete the table and bar chart for the students' findings.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2197,7 +2208,8 @@ tprobability
 There are two Maths classes in Year $6$, one is called $6 \text{A}$ and the other $6 \text{B}$.
 The numbers of boys and girls in each class is shown in the table.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2523,6 +2535,7 @@ TODOANSWER
 Four identical rectangles are joined together to form a larger rectangle, as shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The area of the larger rectangle is $192 \ \text{cm}^2$
 Find the length of the side labelled $X$.
@@ -2873,6 +2886,7 @@ Here is an octagonal spinner:
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each statement put a tick $(\checkmark)$ if it is true or a cross $(\text{X})$ if it is false.
 
 $3$ is the most likely score $\text{\textunderscore \textunderscore \textunderscore}$
@@ -2930,6 +2944,7 @@ He wants the probability of getting a $1$ to be greater than the probability of 
 Enter the number(s) $1, 2, 3$ or $4$ into each of the eight sections of the spinner.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3152,6 +3167,7 @@ tprobability
 Fred has a bag of sweets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He is going to take a sweet from the bag at random.
 
@@ -3949,6 +3965,7 @@ The diagram shows $18$ shapes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4415,7 +4432,9 @@ tprobability
 
 Lee has two spinners 
              
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)              
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+              
 
 </div>
 <div class='workings'>
@@ -4645,7 +4664,8 @@ tcircleanswer
 </div>
 <div class='question question'>
 
-If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg) 
+If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg)
+ 
 a)  A score of $7$ 
 b)  A score of more than $10$
 c)  A score that is an even number.
@@ -5565,6 +5585,7 @@ Complete the table below to show all $24$ equally likely final scores.
 
 ![missing table](/papers/missing_table.svg)
 
+
 If he repeats this experiment lots and lots of times, what fraction of the total scores are:
 
 </div>
@@ -5642,7 +5663,9 @@ TODOANSWER
 $12$ or more?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5698,6 +5721,7 @@ tprobability
 Stuart has a dodgy dice. He rolls it $30$ times and records the results in a tally chart. Fill in the last column of the chart.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -6087,7 +6111,9 @@ Mark  and Sarah each has a bag of coloured counters.
 These pie charts show the proportion of each colour in their bags.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6349,6 +6375,7 @@ Belinda has $60$ coloured counters. One third of them are red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6504,6 +6531,7 @@ On the probability scale below, mark the following probabilities with the letter
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6561,6 +6589,7 @@ On the line below, mark the following probabilities with the letters shown:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -   she gets an even number on the top face
 
 -    she gets a $6$ on the top face
@@ -6568,6 +6597,7 @@ On the line below, mark the following probabilities with the letters shown:
 -    she gets a number less than $7$ on the top face
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7006,6 +7036,7 @@ Bag $A$ and Bag $B$ contain black and white balls as shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bob is going to pick a ball at random for each bag.
 
 </div>
@@ -7064,6 +7095,7 @@ On the probability scale below, mark with an arrow the probability
 that the ball he picks from bag $B$ is white.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7150,6 +7182,7 @@ it is certain to land on $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7190,6 +7223,7 @@ there is an even chance of it landing on $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7229,6 +7263,7 @@ TODOANSWER
 it is twice as likely to land on $4$ as on $3$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7547,6 +7582,7 @@ tprobability
 
 ![missing image](/papers/missing_image.svg)
 
+
 Hayley has some fair six-sided dice.
 
 She chooses one die and rolls it.
@@ -7680,6 +7716,7 @@ Petra has a bag containing $24$ counters which are green, blue or red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 $50\%$ of the counters are green.
 
 There are twice as many blue counters as red counters in the bag.
@@ -7688,6 +7725,7 @@ There are twice as many blue counters as red counters in the bag.
 She picks one counter at random from the bag.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 From the probability scale shown, write down the letter which represents the probability that her counter is:
@@ -7819,11 +7857,13 @@ The diagram shows a spinner with the numbers $1$ to $20$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Vanessa spins the spinner.
 
 The spinner is equally likely to land on each section of the disc.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the likelihood scale above:
 
@@ -7982,6 +8022,7 @@ What is the probability of scoring a $6$ on this spinner?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8107,6 +8148,7 @@ TODOANSWER
 Bob says “$3$ has a less than even change of coming up”.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Is he right?
 
@@ -8378,6 +8420,7 @@ B.  Just as likely to land on a prime number as not a prime number?
 C.  More likely to land on a number that is not a prime number rather than a prime number?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcrircleanswer-all"
 title: "Topic - Crircleanswer - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,7 +70,8 @@ $
 
 Using this we get,
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green
+ {\dfrac {7} {10}} }$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinequality-g0"
 title: "Topic - Inequality - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -75,7 +75,8 @@ $
 
 Using the calculation above,
 
-$(7 \times 5) - 4 \ \quad \boxed{\green{>}}  \quad  7 \times (5 - 4)$
+$(7 \times 5) - 4 \ \quad \boxed{\green
+{>}}  \quad  7 \times (5 - 4)$
 
 </div>
 </div>
@@ -125,7 +126,8 @@ $
 
 Using the calculation above,
 
-$4 + 7 \times 5 \ \quad \boxed{\green{=}}  \quad  4 + (7 \times 5)$
+$4 + 7 \times 5 \ \quad \boxed{\green
+{=}}  \quad  4 + (7 \times 5)$
 
 </div>
 </div>
@@ -176,7 +178,8 @@ $
 
 Using the calculation above,
 
-$4 \times 5 + 7 \ \quad \boxed{\green{=}}  \quad  (5 + 4) \times (7 - 4)$
+$4 \times 5 + 7 \ \quad \boxed{\green
+{=}}  \quad  (5 + 4) \times (7 - 4)$
 
 </div>
 </div>
@@ -268,7 +271,8 @@ $
 
 Using the simplification above,
 
-$\dfrac {6} {10} \quad \boxed{\green{<}}  \quad  \dfrac {3} {4}$
+$\dfrac {6} {10} \quad \boxed{\green
+{<}}  \quad  \dfrac {3} {4}$
 
 </div>
 </div>
@@ -316,7 +320,8 @@ $
 
 Using the simplification above,
 
-$\dfrac {8} {7} \quad \boxed{\green{>}}  \quad  \dfrac {11} {13}$
+$\dfrac {8} {7} \quad \boxed{\green
+{>}}  \quad  \dfrac {11} {13}$
 
 </div>
 </div>
@@ -385,7 +390,8 @@ $
 
 Using the calculation above,
 
-$19 \times 3 \ \quad \boxed{\green{>}}  \quad  28 \times 2$
+$19 \times 3 \ \quad \boxed{\green
+{>}}  \quad  28 \times 2$
 
 </div>
 </div>

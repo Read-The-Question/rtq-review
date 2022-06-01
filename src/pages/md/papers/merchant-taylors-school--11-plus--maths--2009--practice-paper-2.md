@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -550,17 +550,51 @@ $5, \quad 12, \quad 19, \quad 26, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+7)} } 
-&&  \footnotesize {\maroonC {(+7)} }  
-&&  \footnotesize {\maroonC {(+7)} }   
-&&  \footnotesize {\maroonC {(+7)} }   
-&&  \footnotesize {\maroonC {(+7)} }  \\
+&   \footnotesize {\maroonC
+ {(+7)} } 
+&&  \footnotesize {\maroonC
+ {(+7)} }  
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }  \\
+5,  &&    12,  &&  19,  &&   26,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 26 + 7 \\\\
+                                  &= 33 \\\\
+\text{Second missing number}      &= 33 + 7 \\\\
+                                  &= 40
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+7)} } 
+&&  \footnotesize {\maroonC
+ {(+7)} }  
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }  \\
 5,  &&    12,  &&  19,  &&   26,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -600,17 +634,51 @@ $11, \quad 8, \quad 5, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }  \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+11,  &&    8,  &&  5,  &&   2,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 2 - 3 \\\\
+                                  &= -1 \\\\
+\text{Second missing number}      &= -1 - 3 \\\\
+                                  &= -4
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
 11,  &&    8,  &&  5,  &&   2,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -650,17 +718,51 @@ $2, \quad 6, \quad 18, \quad 54, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 3)} } 
-&&  \footnotesize {\maroonC {(\times 3)} }  
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  \\
+2,  &&    6,  &&  18,  &&   54,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 54 \times 3 \\\\
+                                  &= 162 \\\\
+\text{Second missing number}      &= 162 \times 3 \\\\
+                                  &= 486
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  \\
 2,  &&    6,  &&  18,  &&   54,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -715,6 +817,7 @@ talgebra
 The diagram below (not to scale) shows a cuboid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1623,6 +1726,7 @@ tdraw
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1752,7 +1856,9 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2066,6 +2172,7 @@ tgraph
 One afternoon Phil stood outside school counting the number of people in each passing car. The bar chart shows the results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2562,6 +2669,7 @@ Add an additional point to the diagram so that you form a parallelogram $ABCD$. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2613,10 +2721,14 @@ tratio
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
 ![missing image](/papers/missing_image.svg)
+ 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
 
@@ -3341,7 +3453,9 @@ talgebra
 Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3385,6 +3499,7 @@ tmap
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The above shows the routes and distances between villages. 
 For example, route $ABEC$ starts at $A$ and finishes at $C$. It has length $6 + 8 + 4 = 18 \ \text{km}$

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -405,6 +405,7 @@ The pictogram shows information about the numbers of each type.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -543,7 +544,9 @@ Screenwash is used to clean car windows.
 
 To use Screenwash you mix it with water.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -753,6 +756,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
@@ -1510,6 +1514,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Not drawn accurately
 
 </div>
@@ -1546,6 +1551,7 @@ What is the **side length** of this square?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 As per the diagram,
 
 $
@@ -1556,6 +1562,7 @@ $
 $
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 Let the side of square $= s$
 
@@ -1598,6 +1605,7 @@ What is the **side length** of this square?
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 As per the diagram,
 
@@ -1660,6 +1668,7 @@ tfraction
 In a magazine there are three adverts on the same page.
 
 ![missing image](/papers/missing_image.svg)
+
 
 **In total**, what **fraction** of the page do three adverts use?
 
@@ -1749,7 +1758,10 @@ TODOANSWER
 
 Look at these three numbers.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 Show that the **mean** of the three numbers is $\bold{\text{10}}$.
 
@@ -1797,7 +1809,11 @@ What could the four numbers be?
 
 Give an example.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1864,7 +1880,9 @@ The percentage bar charts show three pupils’ results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2011,6 +2029,7 @@ The graph shows information about temperatures in one month.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For example:
 
 At $1000\ \text{metres}$, the maximum temperature is $30\degree\text{C}$.
@@ -2147,6 +2166,7 @@ tprobability
 Fred has a bag of sweets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He is going to take a sweet from the bag at random.
 
@@ -2321,6 +2341,7 @@ tgraph
 The graph shows the straight line with equation $y = 3x - 4$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2502,6 +2523,7 @@ The squared paper shows the nets of cuboid A and cuboid B.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2641,6 +2663,7 @@ The shapes in this question are drawn on square grids.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2717,6 +2740,7 @@ On the grid below, draw a **parallelogram** that has the same area as the triang
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2756,6 +2780,7 @@ TODOANSWER
 What is the area of this trapezium?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2987,7 +3012,13 @@ tnumber
 
 Look at these number cards.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3027,7 +3058,9 @@ Choose two of the cards to give the **lowest possible answer**.
 
 Fill in the cards below and work out the answer.
 
-![missing image](/papers/missing_image.svg) x ![missing image](/papers/missing_image.svg) = .....
+![missing image](/papers/missing_image.svg)
+ x ![missing image](/papers/missing_image.svg)
+ = .....
 
 </div>
 <div class='workings'>
@@ -3067,7 +3100,9 @@ TODOANSWER
 
 Choose two of the cards to give the answer **100**
 
-![missing image](/papers/missing_image.svg) \div ![missing image](/papers/missing_image.svg) = 100
+![missing image](/papers/missing_image.svg)
+ \div ![missing image](/papers/missing_image.svg)
+ = 100
 
 </div>
 <div class='workings'>
@@ -3126,6 +3161,7 @@ The diagram shows how much money different people get when you
 buy a cup of coffee.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3227,6 +3263,7 @@ talgebra
 ABCD is a **parallelogram**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the sizes of angles *h* and *j*. 
 

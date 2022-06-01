@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -478,7 +478,8 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.
 
@@ -856,6 +857,7 @@ tareaperimeter
 In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1246,9 +1248,12 @@ Two crosses can be put in three squares in three different ways, as follows.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 In how many different ways can you put three crosses in five squares?
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-all"
 title: "Topic - Percentage - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -248,6 +248,7 @@ The table shows whether pupils in a class walk to school.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -379,6 +380,7 @@ tpercentage
 At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What *percentage* of the teachers travel by car?
 
@@ -1957,6 +1959,7 @@ What percentage of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2091,6 +2094,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
@@ -4190,7 +4194,8 @@ tpercentage
 
 Look at the grids below. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4392,6 +4397,7 @@ tpercentage
 
 Look at the grids below.  
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4600,7 +4606,9 @@ Answer the questions on the next page using the grids.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5352,6 +5360,7 @@ What percentage of the grid below is shaded? You can assume all boxes are identi
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5900,6 +5909,7 @@ $2 \times 1320 + 780 + 2 \times 320 + 240 = \pounds 4300$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6135,6 +6145,7 @@ Shade $15\%$ of this shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6315,6 +6326,7 @@ tpercentage
 The pie chart shows the favourite colour of $180$ pupils in Highfield School.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6505,6 +6517,7 @@ The results are shown on the bar chart below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6542,6 +6555,7 @@ TODOANSWER
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -6640,6 +6654,7 @@ Kate asked some people to tell her their favourite character in the Wizard of Oz
 Here is a pie chart showing her results:
 
 ![missing image](/papers/missing_image.svg)
+
  
 
 </div>
@@ -6797,6 +6812,7 @@ Shade $75\%$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6836,6 +6852,7 @@ TODOANSWER
 Shade $\dfrac{5}{8}$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6936,6 +6953,7 @@ Ben asked people about their favourite type of cheese.
 The results of his survey are shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7150,6 +7168,7 @@ What percentage of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7197,6 +7216,7 @@ tpercentage
 Draw lines from the centre to help you shade $20\%$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7255,6 +7275,7 @@ tnumber
 The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7439,6 +7460,7 @@ tpercentage
 The diagram below shows information about the girls in Year $6$ who play in the hockey team and/or the netball team.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

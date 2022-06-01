@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-pr"
 title: "Topic - Statistics - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -24,6 +24,7 @@ tstatistics
 Look at the chart below which shows the number of vehicles of different types in the car park of St Anselm’s this morning. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -162,7 +163,8 @@ tstatistics
 
 Look at the chart below which shows the number of cars of different colours passing the gate of St Anselm’s this morning.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

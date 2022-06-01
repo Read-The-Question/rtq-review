@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -523,6 +523,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -586,6 +587,7 @@ Alex puts his photographs in an album. $6$ photographs fit on each page.
 How many pages does he use?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -714,6 +716,7 @@ tsymmetry
 
 $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it Into sections. One section has been shaded.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1003,7 +1006,9 @@ This pictogram shows how many people were treated for sports Injuries at a clini
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1295,6 +1300,7 @@ For example $-3$ means that the dog lost $3 \ \text{kilograms}$ in weight.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1434,6 +1440,7 @@ tgraph
 $3$ points have been plotted and Joined on the centimetre grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1777,6 +1784,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1818,6 +1826,7 @@ $5 \ \text {g}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1858,6 +1867,7 @@ $230 \ \text{g}$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1924,7 +1934,9 @@ Mark  and Sarah each has a bag of coloured counters.
 These pie charts show the proportion of each colour in their bags.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2192,6 +2204,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2255,6 +2268,7 @@ On the centimetre squared grid below, draw a net for the box.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2309,6 +2323,7 @@ tgraph
 Here is a graph to convert between gallons and litres:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2564,6 +2579,7 @@ Mr Prime has these numbered discs face down on a table:
 
 ![missing image](/papers/missing_image.svg)
 
+
 He turns one over at random.
 
 On the line below, mark the following probabilities with the letters shown:
@@ -2575,6 +2591,7 @@ On the line below, mark the following probabilities with the letters shown:
 - the number on his disc is a multiple of $12$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2650,6 +2667,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2677,6 +2695,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 Write the missing Input and output numbers for this machine.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2809,6 +2828,7 @@ This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2877,6 +2897,7 @@ Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo 
 (The point $A$ is already drawn for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

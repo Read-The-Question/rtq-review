@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,287 @@ date: 2022-06-01 14:28:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram the small squares are all the same size. What fraction of the large square is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the figure,
+
+If we look at the large square, we can see that $8$ portions have been shaded and there are $18$ portions in total.
+
+The fraction that has been shaded $= \dfrac {8} {18}$
+
+Let's find out what fraction of the large square is shaded.
+
+$
+\begin{aligned}
+&= \dfrac {8} {18} \\\\
+&= \dfrac {4 \times 2} {9 \times 2} \\\\
+&= \dfrac {4 \times \cancel{2}} {9 \times \cancel{2}} \\\\
+&= \dfrac {4} {9}
+\end{aligned}
+$
+
+Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>30A026A8-E41C-4B35-90F2-DDA249AA1791</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Shah had $15\dfrac {1} {2} \ \text{m}$ of wire. He cut off a piece of wire $2\dfrac {3} {4} \ \text{m}$ long. How much wire did he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,  
+
+$
+\begin{aligned}
+\text{Length (Left over)}          &= \ \text{Length (Total wire)} - \text{Length (Cut off piece)} \\\\
+                                   &= 15 \dfrac {1} {2} \text{m} - 2 \dfrac {3} {4} \text{m} \\\\
+                                   &= \dfrac {31} {2} - \dfrac {11} {4} \\\\
+                                   &= \dfrac {31 \times 2} {2  \times 2} - \dfrac {11} {4} \\\\
+                                   &= \dfrac {62} {4} - \dfrac {11} {4} \\\\
+                                   &= \dfrac {62 - 11} {4} \\\\
+                                   &= \dfrac {51} {4} \text{m} \\\\
+                                   &= 12 \dfrac {3} {4} \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \dfrac {3} {4} \text{m}$ or $\dfrac {51} {4} \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dan has to walk $1\dfrac {3} {4} \ \text{km}$ to school. How far has he walked when he is halfway?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Distance walked (Halfway)}         &= \text{Total distance} \div 2 \\\\
+                                         &= 1 \dfrac {3} {4} \div 2 \\\\
+                                         &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
+                                         &= \dfrac {7 \times 1} {4 \times 2} \\\\
+                                         &= \dfrac {7} {8} \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {8} \ \text{km}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add or subtract these fractions. Give your answers in their simplest terms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {3} {5} + \dfrac {2} {10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {5} + \dfrac {2} {10} \\\\
+&= \dfrac {3} {5} + \dfrac {2} {2 \times 5} \\\\
+&= \dfrac {3} {5} + \dfrac {\cancel {2}} {\cancel {2} \times 5} \\\\
+&= \dfrac {3} {5} + \dfrac {1} {5} \\\\
+&= \dfrac {3 + 1} {5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {24} {28} - \dfrac {3} {7}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {24} {28} - \dfrac {3} {7} \\\\
+&= \dfrac {6 \times 4} {7 \times 4} - \dfrac {3} {7} \\\\
+&= \dfrac {6 \times \cancel {4}} {7 \times \cancel {4}} - \dfrac {3} {7} \\\\
+&= \dfrac {6} {7} - \dfrac {3} {7} \\\\
+&= \dfrac {6 - 3} {7} \\\\
+&= \dfrac {3} {7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {7}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -1046,7 +1327,8 @@ tfraction
 
 What fraction of this shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1091,6 +1373,7 @@ What is
 **$\dfrac {1} {3}$  of $\dfrac {1} {4}$ of $\dfrac {1} {5}$ of 360 ?**
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1342,6 +1625,7 @@ What **fraction** of the shape below is shaded? Give your answer as simply as po
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1377,6 +1661,7 @@ What **percentage** of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1411,6 +1696,7 @@ $ \dfrac{2}{5}$
 Which of the two shapes below has a greater percentage?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1484,7 +1770,9 @@ Answer the questions on the next page using the grids.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1718,6 +2006,7 @@ Write down the fraction shaded. Where possible give the fraction in its simplest
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1747,6 +2036,7 @@ $\dfrac{3}{4}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2947,6 +3237,7 @@ The diagram shows a patio made up of square concrete slabs. The shaded ones are 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3145,6 +3436,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
 
@@ -3575,6 +3867,7 @@ tsymmetry
 $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it Into sections. One section has been shaded.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3732,7 +4025,9 @@ Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3850,6 +4145,7 @@ At the end of the term, a left-handed player from Team Beta moves into Team Alph
 Redraw the table to show the new teams.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4239,6 +4535,7 @@ Shade $\dfrac{2}{3}$ of this rectangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4458,8 +4755,10 @@ Write your answer as a mixed number.
 
 *(You may use the diagrams to help you.)*
   
-![missing image](/papers/missing_image.svg)  
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+  
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4515,6 +4814,7 @@ Match the fraction to the correct place on the number line. One has been done fo
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4566,6 +4866,7 @@ tfraction
 These are called nested squares. What fraction of this shape is shaded in?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4793,6 +5094,7 @@ What fraction of the shape in this diagram is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4823,6 +5125,7 @@ Shade in three quarters of this diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4851,9 +5154,12 @@ TODOANSWER
 
 Look at the diagrams below and tick the correct statement.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 ![missing table](/papers/missing_table.svg)
+
 
 Shape A has a greater fraction shaded than B.
 
@@ -4905,6 +5211,7 @@ tfraction
 What fraction of the parallelogram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5005,6 +5312,7 @@ What fraction of this diagram is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5047,6 +5355,7 @@ A sweet is in the shape of a cube. It is made up of three layers of equal thickn
 What fraction of the outside is black?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5176,6 +5485,7 @@ What percentage of the circle is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5206,6 +5516,7 @@ What fraction of the shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5235,6 +5546,7 @@ TODOANSWER
 Shade $25 \%$ of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5481,6 +5793,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5510,6 +5823,7 @@ TODOANSWER
 Shade two-fifths of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5607,7 +5921,8 @@ tnoexplanation
 
 What fraction of the shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5762,6 +6077,7 @@ Kate asked some people to tell her their favourite character in the Wizard of Oz
 Here is a pie chart showing her results:
 
 ![missing image](/papers/missing_image.svg)
+
  
 
 </div>
@@ -6019,6 +6335,7 @@ Shade $75\%$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6058,6 +6375,7 @@ TODOANSWER
 Shade $\dfrac{5}{8}$ of this regular octagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6203,6 +6521,7 @@ tfraction
 Shade $\dfrac{3}{7}$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6505,6 +6824,7 @@ Shade $40\%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6544,6 +6864,7 @@ TODOANSWER
 What fraction of the large square below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6650,6 +6971,7 @@ What fraction of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6744,6 +7066,7 @@ tpercentage
 The diagram below shows information about the girls in Year $6$ who play in the hockey team and/or the netball team.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -8601,6 +8924,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8640,6 +8964,7 @@ TODOANSWER
 Shade $\frac {2} {3}$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

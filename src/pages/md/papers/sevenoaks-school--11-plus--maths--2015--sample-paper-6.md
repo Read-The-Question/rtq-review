@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -219,6 +219,7 @@ As per the question,
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 \text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
@@ -273,10 +274,7 @@ $\pounds 2.65$ and $\pounds 2.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -371,16 +369,47 @@ $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
 <div class='working'>
 
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+\ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}         &= 6 \div 2 \\\\
+                                    &= 3\\\\
+\text{Second missing number}        &= 24 \times 2 \\\\
+                                    &= 48\\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 \ldots,  &&      6,  &&      12,   &&      24,  &&      \ldots 
 \end{matrix}
 $
@@ -420,16 +449,47 @@ $4 \quad \ldots \quad 10 \quad 13 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 4 + 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 13 + 3 \\\\
+                                  &= 16
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 4,  &&      \ldots , &&      10,   &&      13,  &&      \ldots 
 \end{matrix}
 $
@@ -469,16 +529,47 @@ $\ldots \quad 16 \quad 8 \quad 4 \quad  \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}} 
-&&  \footnotesize{\maroonC{(\div 2)}}   
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 \times 2 \\\\
+                                  &= 32 \\\\
+\text{Second missing number}      &= 4 \div 2 \\\\
+                                  &= 2
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 \ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
@@ -518,16 +609,45 @@ $\ldots \quad 6 \quad  3 \quad  0  \quad    -3$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}} 
-&&  \footnotesize{\maroonC{(-3)}}  
-&&  \footnotesize{\maroonC{(-3)}}   
-&&  \footnotesize{\maroonC{(-3)}}  \\
+&   \footnotesize{\maroonC
+{(-3)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-3)}}   
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+\ldots,  &&      6 , &&      3,   &&      0,  &&      -3
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}       &= 6 +3  \\\\
+                            &= 9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-3)}} 
+&&  \footnotesize{\maroonC
+{(-3)}}  
+&&  \footnotesize{\maroonC
+{(-3)}}   
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
 \ldots,  &&      6 , &&      3,   &&      0,  &&      -3
 \end{matrix}
 $
@@ -642,6 +762,7 @@ tgeometry
 Calculate the total length marked with $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -907,6 +1028,7 @@ A solid square based pyramid has all of its corners cut off, as shown. How many 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -992,6 +1114,7 @@ tinfer
 The diagram shows a rod with five equally space points $A, B, C, D$ and $E$ marked on it. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 The rod is rotated three times through $180 \degree$, first about the point $A$, then about the point $B$ and finally about the point $E$. Which point finishes in the same position as it was at the start?
 
@@ -1215,6 +1338,7 @@ In the diagram the small squares are all the same size. What fraction of the lar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1284,9 +1408,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -1340,6 +1466,7 @@ tinfer
 Each symbol has a numerical value. The total for the symbols is written at the end of each row and column. Can you find the missing total that should go where the question mark has been put?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1489,10 +1616,7 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnet
 </li>
 </ul>
 </div>
@@ -1501,6 +1625,7 @@ todo
 The diagram shows the net of a cube. Which edge meets the edge $X$ when the net is folded to form the cube?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1544,10 +1669,7 @@ E
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -1558,6 +1680,7 @@ In the sum below the letters $J, M$ and $C$ represent three different non-zero d
 What is the value of $J + M + C$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

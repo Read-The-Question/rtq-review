@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-pr"
 title: "Topic - Detailedaddition - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ A number of shapes have been made with matches.
 For this pattern:
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many matches will be in the $4 \text{th}$ shape?
 

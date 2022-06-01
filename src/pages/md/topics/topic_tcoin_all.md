@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -141,6 +141,7 @@ The table below shows the coins that were collected from the machine in one day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 How many cans of lemonade were sold that day?
 
 -   $\pounds 20.85$ 
@@ -202,6 +203,7 @@ tcoin
 A can of lemonade from a vending machine costs 65 \text{p}$. The table below shows the coins that were collected from the machine in one day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How many cans of lemonade were sold that day?
 
@@ -708,6 +710,63 @@ $42 \ \text{coins}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>442CEB47-8FC8-4532-A8CE-9778C560B7A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put a circle around **each** the amounts that can be made with **four** coins.
+
+State which coins you would use
+
+$24 \text{p} \quad 38 \text{p} \quad 57 \text{p} \quad \pounds 1.18 \quad \pounds 1.26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>66F3BB48-9E07-49F4-B6BC-D5FF57B45B59</p>
@@ -728,6 +787,7 @@ Katherine has ten coins in a bag.
 
 She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -912,6 +972,7 @@ $\text {Certain}$
 with $C$ the probability that the coin is worth less than $\pounds 1$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1543,7 +1604,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -1704,7 +1766,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 

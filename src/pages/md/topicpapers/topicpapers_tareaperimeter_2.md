@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,177 @@ date: 2022-06-01 14:28:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>554242DD-BFE9-4776-B2F0-63CA47327437</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The shape below is made up of square tiles. Which of tiles A, B, C, D or E could be removed so that the perimeter remained the same? Circle your answer.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>36BA934C-02B6-4F83-82E3-F6B1E006C663</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is a right angled triangular tile:
+
+![missing image](/papers/missing_image.svg)
+
+
+Write how many of these tils you can fit into each of the following shapes.
+
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5D9FEADF-6B79-495F-90BF-45AE0EEBEB4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is the area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -38,6 +209,7 @@ Work out the perimeter of the following shape.
 The shape is not drawn accurately.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -92,11 +264,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -341,6 +515,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -411,7 +586,8 @@ Let the length of each side of the individual square (in m) $= a$
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
+\text{Area} &= \text{side} \times \text{side}
+ \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
 a                                               &= 2 \text{m}
@@ -635,6 +811,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -642,6 +819,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -792,6 +970,7 @@ value of $x$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -888,6 +1067,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -895,6 +1075,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -985,6 +1166,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1059,6 +1241,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1096,6 +1279,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1153,7 +1337,10 @@ tareaperimeter
 
 Mrs Suzie needs to cover a floor measuring $3\ \text{m}$ by $2\ \text{m}$. There are three possible options:
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 Which option is the cheapest? Show all your workings & explain clearly. 
 
@@ -1211,6 +1398,7 @@ talgebra
 Six cubes each have a **surface area** of **$24\, cm^2$**. They are joined together to make a cuboid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What could the **surface area** of this cuboid be? 
 
@@ -1271,6 +1459,7 @@ This design has one large square and two identical small squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Calculate the length of a side of the large square.
 
 </div>
@@ -1327,6 +1516,7 @@ tsimpleword
 Each square is one square unit. What is the area of the shaded triangle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1436,9 +1626,11 @@ Which two shapes have the same area?
 
 ![missing image](/papers/missing_image.svg)
 
+
 This may be helpful:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $\text{Area of a trapezium} = \dfrac {1} {2} (a + b) h$
 
@@ -1504,9 +1696,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -1557,7 +1751,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1743,6 +1938,7 @@ Find the area of the unshaded region in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Diagram not drawn to scale
 
 </div>
@@ -1799,6 +1995,7 @@ tsimpleword
 Find the area of the shaded region in the diagram below. Give your answer in terms of $\pi$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram not drawn to scale
 
@@ -1860,7 +2057,9 @@ A square is divided into three congruent rectangles. The middle rectangle is rem
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 
 What is the ratio of the perimeter of the square to the perimeter of the octagon?
@@ -1919,6 +2118,7 @@ tsimpleword
 Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2038,6 +2238,7 @@ Calculate the perimeter of this rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2086,6 +2287,7 @@ tareaperimeter
 Calculate the area of this right-angled triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2205,6 +2407,7 @@ tsimpleword
 The diagram below (not to scale) shows the cross-section of Roger's house. Find the total area of the cross-section.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2341,6 +2544,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2381,6 +2585,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2419,6 +2624,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2653,6 +2859,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2692,6 +2899,7 @@ $62 \ \text{cm}$
 The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2748,6 +2956,7 @@ Find the *area* of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2790,6 +2999,7 @@ $154 \ \text{cm}^2$
 The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2874,6 +3084,7 @@ Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -2928,6 +3139,7 @@ One cube has each of its faces covered by one face of an identical cube, making 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The total volume of the solid is $56\,cm^3$.
 
 </div>
@@ -2957,6 +3169,7 @@ The total volume of the solid is $56\,cm^3$.
 Find the width of one cube, in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2999,6 +3212,7 @@ $2 \text {cm}$
 Find the total surface of the solid, in $cm^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3081,6 +3295,7 @@ tsimpleword
 Find  the   area  of this  shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3249,6 +3464,7 @@ Find the area and perimeter of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3308,6 +3524,7 @@ tsimpleword
 Find the area of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3370,6 +3587,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -3571,7 +3789,8 @@ tsimpleword
 
 Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3765,6 +3984,60 @@ $117 \ \text{cm}^2$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>64CC096E-602F-4563-9D0B-C17332B52F8D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+All the long edges of the shape above have the same length and each long edge is twice as long as each short edge. 
+All angles are $90 \degree$ or $270 \degree$. If the area of the figure is $200 \ \text{cm}^2$, what is the perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>EFC35732-7F0C-4816-85A6-D476D88749D2</p>
 </div>
 <div class='topics'>
@@ -3782,6 +4055,7 @@ talgebra
 Work out the missing length.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4037,7 +4311,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4154,7 +4429,8 @@ tsimpleword
 
 The following grid is made of $1 \ \text{cm}$ squares. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4191,6 +4467,7 @@ As per the question,
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -4288,6 +4565,7 @@ Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
 
+
 Area = $49 \ \text{cm}^{2}$
 
 - $49 \ \text{cm}$
@@ -4358,6 +4636,7 @@ Calculate the area of the trapezium.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $50 \ \text{cm}^{2}$
 - $44 \ \text{cm}^{2}$
 - $40 \ \text{cm}^{2}$
@@ -4421,6 +4700,7 @@ tsimpleword
 Find the perimeter of the compound shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $92 \ \text{cm}$
 - $52 \ \text{cm}$
@@ -4582,6 +4862,7 @@ perimeter of the shape remaining the same?
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $1$
 - $2$
 - $3$
@@ -4640,6 +4921,7 @@ Calculate the area of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $80 \ \text{cm}^2$
 - $106\ \text{cm}^2$   
 - $86 \ \text{cm}^2$
@@ -4653,6 +4935,7 @@ Calculate the area of the rectangle.
 As per the question,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -4702,6 +4985,7 @@ talgebra
 The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
@@ -4766,7 +5050,8 @@ tsimpleword
 
 This is a plan of a house and its garden:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4915,6 +5200,7 @@ to form the square shape shown below (the diagram is not drawn to scale).
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:
 
 The perimeter of this outer square shape
@@ -4932,6 +5218,7 @@ The perimeter of this outer square shape
 As per the question,
 
 $\text{Perimeter} = 4 \times \text{side})$
+
 
 $
 \begin{aligned}
@@ -5042,6 +5329,7 @@ Here are three squares that overlap.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The non-overlapping parts of the squares have a total area of $90 \ \text{cm}^{2}$.
 
 The areas of overlapping parts are $2 \ \text{cm}^{2}$, 
@@ -5110,6 +5398,7 @@ tsimpleword
 Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What area of the table is covered? 
 
@@ -5225,6 +5514,7 @@ The circles all have the same radius and the area of each is $7$ square units. W
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5263,6 +5553,7 @@ The diagram below shows a square which is $3$ units long with four identical sem
 These semi-circles overlap to create four petals which are shaded on the diagram. The area of each semi-circle is $3.5$ square units. Work out the shaded area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5319,6 +5610,7 @@ The diagram (not to scale) shows my back lawn which is $30 \ \text{metres}$ long
 My lawnmower can cut strips $50 \ \text{cm}$ wide and I always mow the lawn by walking up and down in straight lines as shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5528,43 +5820,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -5603,6 +5858,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5765,6 +6060,7 @@ The diagram shows a scale drawing of a rectangular school playground.
 The distance between consecutive marks shown on the diagram is $25 \ \text{metres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6035,9 +6331,11 @@ To save money, he decides to build it against his barn, so that he only needs to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is the first plan:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6159,6 +6457,7 @@ Here is his new plan
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the length of his new pen.
 
 </div>
@@ -6200,6 +6499,7 @@ TODOANSWER
 Farmer Fred decides that he would like to build a square pen with his $15 \ \text{metres}$ of fence as shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 How long should each side be?
 
@@ -6303,11 +6603,15 @@ The area of a rectangle can be found using the formula below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of each of these rectangles is $24  \ \text{m}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6346,6 +6650,7 @@ TODOANSWER
 Complete the table below for each rectangle.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -6438,6 +6743,7 @@ tareaperimeter
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram NOT to scale
 
@@ -6611,6 +6917,7 @@ The shape is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6652,6 +6959,7 @@ Calculate the perimeter (the length around the **outside**) of the following sha
 Each small square is $1 \ \text{cm}$ by $1 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6711,6 +7019,7 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6729,6 +7038,140 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1D50D67D-D88C-49B9-949E-848E73310A92</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the diameter of this two pence coin, in centimetres?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If it is evening, what $24$ hour clock time does the watch show?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A teacher is weighing herself. The outer scale shows **stones*8 and **lbs** and the inner scale shows **kg**. What is the teacher’s weight in kilograms?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:32</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6755,6 +7198,7 @@ talgebra
 This shape is made from $9$ identical squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The area of the shape is $144 \ \text{cm}^2$
 
@@ -6825,6 +7269,7 @@ What is the area of this shape?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6867,6 +7312,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7000,6 +7446,7 @@ What is the area of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7113,6 +7560,7 @@ tsimpleword
 
 ![missing image](/papers/missing_image.svg)
 
+
 Twelve rectangles, all the same size, are arranged to make a square, as shown in the diagram above.
 
 Calculate the area of one of the rectangles.
@@ -7171,6 +7619,7 @@ tsimpleword
 A small **square** patio is built on a rectangular lawn
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7274,6 +7723,7 @@ The diagrams are drawn in cm squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7376,6 +7826,7 @@ This solid is made of centimetre cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7432,6 +7883,7 @@ If it is taken apart and rebuilt into the cube below, how many centimetre cubes 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7479,6 +7931,7 @@ tsimpleword
 Below is a shape made of six identical triangles arranged around a square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7640,6 +8093,7 @@ The perimeter of this square is $36 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7743,6 +8197,7 @@ of $1 \ \text{cm}$ would it take to fill the shape below with no overlapping?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7791,6 +8246,7 @@ It is made from square tiles.
 Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7861,6 +8317,7 @@ area of $58$ square centimetres. How long are the sides of the square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7920,6 +8377,7 @@ Below is an equilateral triangle with a total area of $128 \ \text{cm}^3$. Find 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7975,7 +8433,8 @@ Jiggy Score has made $4$ full size copies of this triangle:
 
 He puts his $4$ triangles together to make the shape shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8080,6 +8539,7 @@ tsimpleword
 Below are some shapes drawn on a centimetre-squared grid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8285,6 +8745,7 @@ of $3 \ \text{centimetres}$ all the way round the photograph.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What area of red card is showing?
 
 </div>
@@ -8292,6 +8753,7 @@ What area of red card is showing?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -8350,6 +8812,7 @@ Work out the length of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8406,6 +8869,7 @@ A running track has a perimeter of $400 \ \text{metres}$.
 Roger trains every morning by running around the running track until he has run a distance of $6 \ \text{kilometres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8579,6 +9043,7 @@ The shape below is made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The perimeter of the shape is $100 \ \text{centimetres}$.
 
 Work out the area of the shape.
@@ -8622,6 +9087,7 @@ TODOANSWER
 Work out the area of the shape drawn on the centimetre-squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8680,6 +9146,7 @@ talgebra
 A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
@@ -8751,7 +9218,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8823,6 +9292,7 @@ One rectangle measures $5 \ \text{cm}$ by $4 \ \text{cm}$.
 The other measures $8 \ \text{cm}$ by $6 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the section shaded black is $15 \ \text{cm}^2$, work out the area of the section shaded grey.
 
@@ -8942,7 +9412,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9105,6 +9576,7 @@ The diagram shows two squares. The larger square has perimeter $16 \ \text{cm}$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 What is the **area** of the smaller, white square?
 
 </div>
@@ -9164,6 +9636,7 @@ tsimpleword
 A matchbox measures $1 \ \text{cm}$ high, $3 \ \text{cm}$ wide and $5 \ \text{cm}$ long.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9295,11 +9768,13 @@ What fraction of the area of the triangle has been shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with answer triangles drawn in IMAGE_PLACEHOLDER_ENDS **
 
@@ -9356,6 +9831,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 The wall measurement is given in feet while the tile measurement is given in inches.
 
 Let's convert the wall measurements into inches.
@@ -9415,6 +9891,7 @@ together to make the letter $F$, which he then
 paints. What area is covered with paint?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9476,6 +9953,7 @@ A window with a wooden frame (the shaded part) is shown in the diagram below.
 The frame is $10 \ \text{cm}$ wide.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the area of glass that is needed. 
 
@@ -9541,6 +10019,7 @@ He then paints the shape he has made. What area is painted?
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with cubes drawn in IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -9623,7 +10102,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -9744,6 +10224,7 @@ tsimpleword
 All the measurements in the following diagram are given in centimetres
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9875,6 +10356,7 @@ tsimpleword
 The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
 
@@ -10365,6 +10847,7 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
+
 Let's equate the perimeter to the length and width we get,
 
 $
@@ -10701,504 +11184,6 @@ $15 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F82A9A83-8990-460E-9DE9-6B7ACD86127F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle has an area of $70 \ \text{cm}^2$ and a perimeter of $38 \ \text{cm}$. What is the length of the **shortest** side of the rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the width of the rectangle (in $\text{cm}$) $= w$
-
-Let the length of the rectangle (in $\text{cm}$) $= l$
-
-Using the formula for area and perimeter for a rectangle, we get
-
-$
-\begin{aligned}
-l \times w          &= 70 \\\\
-2 \times (l + w)    &= 38 \\\\
-l + w               &= \dfrac {38}{2} \\\\
-l + w               &= 19
-\end{aligned}
-$
-
-We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
-- Both the numbers should be smaller than $19$
-- The product of the $2$ numbers is $70$ 
-- The sum of the $2$ numbers is $19$.
-
-Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
-
-| Factors   |  Sum  | Numbers $< 19$    |
-|:-------:  |:----: |:---------------:  |
-| $2, 35$   | $37$  |        No         |
-| $5, 14$   | $19$  |       Yes         |
-| $7, 10$   | $17$  |       Yes         |
-
-A quick check shows that $5$ and $14$ meets all the criteria above.
-
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
-
-Width of the rectangle $= 5 \ \text{cm}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two rectangles ABCD and PQRS are shown below:
-
-![missing image](/papers/missing_image.svg)
-
-$AD = $3 \ \text{cm}$$ 
-
-$AB = $5 \ \text{cm}$$
-
-$PQ = $2 \ \text{cm}$$
-
-$PS = $2 \ \text{cm}$$
-
-$BR = $1 \ \text{cm}$$
-
-Calculate the shaded area.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$\text{Area of rectangle} = \text{length} \times \text{width}$
-
-$
-\begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
-                                    &= AB \times AD - QB \times QP \\\\
-                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
-                                    &= 5 \times 3 - 2 \times (2 - 1) \\\\
-                                    &= 15 - 2 \times 1 \\\\
-                                    &= 15 - 2 \\\\
-                                    &= 13 \ \text{cm}^2 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \ \text{cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A0C3E285-9532-4A49-BF24-1FB2744FE099</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tdraw
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)   
-
-The diagram opposite (which is NOT drawn to scale) shows triangle ABC with angle B $= 90˚$. AB $= 8\,cm$ and BC $= 12\,cm$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the figure by drawing in two lines to make rectangle ABCD
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the distance around (perimeter of) the rectangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the area of triangle ABC?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
-
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
-
-He uses them to make this shape.
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of Bob’s shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Perimeter of shape}      &= \text {Sum of all sides} \\\\
-                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
-                                &= 9 + 6 + 9 + 6 \\\\
-\text{Perimeter of shape}       &= 30 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7F5F775B-7E11-4998-A118-784117B4C479</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a rectangular tile.
-
-
-A pattern is made using $4$ of these tiles.
-
-![missing image](/papers/missing_image.svg)     Not to scale 
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the perimeter of the outer edge of the design?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The outer design has all the sides of equal length. So it is a square.
-
-Side of the outer square $= 7 + 3 = 10 \ \text{cm}$
-
-Perimeter of the outer square $= 4 \times 10 = 40 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the perimeter of the square left empty in the middle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Side of square in the middle}    &= \text {length of rectangle} - \text {width of rectangle} \\\\
-                                        &= 7 - 3  \\\\
-                                        &= 4 \ \text{cm}
-\end{aligned}
-$
-
-Perimeter of the middle square $= 4 \times 4 = 16 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

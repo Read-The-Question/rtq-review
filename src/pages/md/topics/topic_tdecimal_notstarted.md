@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-notstarted"
 title: "Topic - Decimal - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -180,6 +180,7 @@ TODOANSWER
 Here is a part of a number line. Write the two missing numbers in the boxes. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -436,7 +437,8 @@ TODOANSWER
 
 These are actually lengths of eyelashes in cm.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the range of eyelash lengths?
 
@@ -588,6 +590,7 @@ tdecimal
 Write down the number that the arrow is pointing to on the scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

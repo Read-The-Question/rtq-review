@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -913,9 +913,12 @@ Look at this sequence of patterns made with hexagons.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 To find the number of hexagons in pattern number $n$ you can use these rules:
 
@@ -1037,6 +1040,7 @@ talgebra
 Six cubes each have a **surface area** of **$24\, cm^2$**. They are joined together to make a cuboid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What could the **surface area** of this cuboid be? 
 
@@ -1309,6 +1313,7 @@ Look at the triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the value of $a$ and $b$.
 
 </div>
@@ -1436,13 +1441,16 @@ The diagram shows information about this square labelled A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I fold square A **in half** to make rectangle B.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Then I fold rectangle B **in half** to make square C.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Complete the table below to show the area and perimeter of each shape.
 
@@ -1492,9 +1500,11 @@ I start again with square A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Then I fold it **in half** to make triangle D.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the **area** of triangle D?
 
@@ -1605,9 +1615,11 @@ Here are the rules for an algebra grid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use these rules to complete the algebra grids below. Write your expressions as simply as possible.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1661,11 +1673,15 @@ Sue and Owen are using square patterns of dots to find different expressions for
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1782,10 +1798,13 @@ TODOANSWER
 Owen's work:  
 
 ![missing image](/papers/missing_image.svg)
+
               
 ![missing image](/papers/missing_image.svg)
+
               
 ![missing image](/papers/missing_image.svg)
+
 
 Write down Owen's expression for $n^2$.
 

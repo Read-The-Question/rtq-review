@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g0"
 title: "Topic - Order - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,7 +52,8 @@ $0.022 \quad \ldots  \quad 0.2$
 <div class='workings'>
 <div class='working'>
 
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+$0.022 \quad \boxed{\green
+{<}}  \quad 0.2$
 
 </div>
 </div>
@@ -108,7 +109,8 @@ $
 
 Using the calculation above,
 
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+$15\%$ of $\pounds 300\  \quad \boxed{\green
+{<}}  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
@@ -164,7 +166,8 @@ $
 
 Using the calculation above,
 
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green
+{=}}  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>
@@ -1497,7 +1500,8 @@ $
 
 Using this we get,
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green
+ {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -3489,7 +3493,8 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 To compare, let's convert all the units to $\text {km}$. 
 
@@ -3909,16 +3914,45 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.2)}} 
-&&  \footnotesize{\maroonC{(+0.2)}}  
-&&  \footnotesize{\maroonC{(+0.2)}}   
-&&  \footnotesize{\maroonC{(+0.2)}}  \\
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
+\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 20.0 - 0.2 \\\\
+                        &= 19.8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
 \boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
@@ -4445,6 +4479,7 @@ torder
 Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

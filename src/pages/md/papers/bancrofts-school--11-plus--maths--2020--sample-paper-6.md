@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-6"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 6"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -987,6 +987,7 @@ TODOANSWER
 
 ![missing table](/papers/missing_table.svg)
 
+
 $\dfrac{3}{4} \quad \dfrac{2}{3} \quad \dfrac{7}{10}$
 
 For the three fractions in the table above, write down
@@ -1238,7 +1239,8 @@ TODOANSWER
 
 In the diagram, the small squares are all the same size. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What fraction of the large square is shaded?
 
@@ -2420,6 +2422,7 @@ The volume of the solid shape is $875 \ \text{cm}^3$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2556,6 +2559,7 @@ Put a ring around the correct answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2612,6 +2616,7 @@ Maria and Kay ran a $1500 \ \text{metres}$ race.
 The graph shows information about the race.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2784,6 +2789,7 @@ The diagram shows the coordinates of three points $A, B$ and $C$.
 Shape $ABCD$ is a kite.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the coordinates of point $D$?
 
@@ -2962,6 +2968,7 @@ Three attempts have been made and are shown below, with the number of discs that
 What is the correct order for the three coloured discs?
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3187,6 +3194,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4049,6 +4057,7 @@ How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4110,7 +4119,9 @@ letters stands for in these two calculations.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

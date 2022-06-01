@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-notstarted"
 title: "Topic - Factor - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,13 +146,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1120,7 +1123,8 @@ Circle $B$ needs to contain multiples $4$.
 
 You will need to put some numbers outside of the two circles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2117,6 +2121,7 @@ A factor tree can be used to write any number as a product of prime factors.
 
 ![missing image](/papers/missing_image.svg)
 
+
 We can say that 
 
 **180 = 2 $\times$ 2 $\times$ 3 $\times$ 3 $\times$ 5**
@@ -2447,6 +2452,7 @@ Put the following numbers into the correct positions in the diagram below:
 $5 \quad 6 \quad 7 \quad 8$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

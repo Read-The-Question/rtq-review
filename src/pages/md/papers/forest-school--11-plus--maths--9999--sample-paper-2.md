@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -792,7 +792,8 @@ tfraction
 
 What fraction of this square is shaded in?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -950,6 +951,7 @@ How many vertices, faces and edges does the big piece left have?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1059,6 +1061,7 @@ Armand is buying grass seed for his garden.
 The lawn he wishes to make is this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Grass seed is sold by the bag. Each bag cost $\pounds 10$ and covers $3 \ \text{m} ^ {2}$.
 How much it will cost him?
@@ -1391,10 +1394,14 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }  \\
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
 6, && 10 , && 14 , && 18 , && \ldots
 \end{matrix}
 $
@@ -1621,6 +1628,7 @@ This $5$ by $5$ square is made up of a row of white squares, then a row of white
 There are $4$ black squares.  How many black squares would there be in a $7$ by $7$ square coloured in the same way?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1875,6 +1883,7 @@ Show a cut he could make to do this on the diagram. In the space below show how 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1984,7 +1993,8 @@ Alex says "Most people prefer History"
 
 Do you agree? Explain your answer.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

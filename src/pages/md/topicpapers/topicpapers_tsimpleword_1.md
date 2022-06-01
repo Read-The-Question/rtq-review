@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-1"
 title: "TopicPaper - Simpleword - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -247,6 +247,7 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -468,6 +469,7 @@ tpercentage
 At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What *percentage* of the teachers travel by car?
 
@@ -998,6 +1000,379 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>28F11153-7BAB-4998-8DC0-B28FFACC0C27</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My flask holds $480 \ \text{ml}$ when it is one quarter empty.
+
+How much does it hold when it is one quarter full?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+In the diagram, the small squares are all the same size.
+
+What fraction of the large square is shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>90AB10AD-2DC4-4437-A8A1-15ADD1B592E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dave has a lot of tables.
+
+Each rectangular table seats $8$ people.
+
+Each round table seats $5$ people.
+
+What is the smallest number of tables of each type that 
+Dave needs to use to seat $35$ friends and himself, without any empty seats? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B2DCAF57-3CED-4AB6-910D-76466E42D6A9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Fill in each box with either $+$ or $-$ to make the answer of $100$.
+
+$
+123 \ \boxed{\ \phantom{+} \ } \
+45  \ \boxed{\ \phantom{+} \ } \ 
+67  \ \boxed{\ \phantom{+} \ } \ 
+89  \ \boxed{\ \phantom{+} \ } \ = \ 100
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Last year, $275$ of the $500$ pupils at Woodgreen School were boys.
+
+This year, there are $540$ pupils in the school bu the proportion of boys is the same as last year.
+
+How many boys are at the school this year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Maya cuts a $6 \ \text{metre}$ piece of string unto three different pieces.
+
+The longest piece is $40 \ \text{cm}$ longer than the middle piece.
+
+The middle piece is $70 \ \text{cm}$ longer than the shorter piece.
+
+How long (in centimetres) is the longest piece?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1779,6 +2154,326 @@ $\pounds 168$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2E1E1988-19A4-4451-B69B-F72C0F9AC9E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $15\%$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Rowan sends $7$ text messages each day.
+
+A $\pounds 5$ credit buys him $140$ text messages.
+
+Today he received an extra $15\%$ free text messages when he bought his $\pounds 5$ credit. How many days should the credit last? Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>47B67AA9-D0B6-41E2-AC0D-2D7E985AF89B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Miss Lovelace writes the following pattern on the whiteboard:
+
+$6 \times 6 = 36$
+
+$5 \times 7 = 35 = 36 - 1$ 
+
+$4 \times 8 = 32 = 36 - 4$ 
+
+$3 \times 9 = 27 = 36 - 9$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the next line of the pattern
+
+$............ \times ........... = ........................ = 36 - ................$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Miss Lovelace says this works for other starting numbers as well and writes a second pattern
+
+$15 \times 15 = 225$
+
+$14 \times 16 = 224 = 225 - 1$ 
+
+$13 \times 17 = 221 = 225 - 4$
+
+Complete the following line of the pattern
+
+$9 \times ............ = .................... = 225 - ......................$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+You are told that $137^2 = 18769$
+
+Use this fact and the idea above to work out the value of $133 \times 141$.
+
+(Note: Do not multiply $133$ by $141$)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -3296,7 +3991,8 @@ Sara catches the $19{:}25$ bus.
 
 What time does Sara arrive at the destination? 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3403,6 +4099,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3430,6 +4127,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 Nine people sit at one table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What **fraction** of a bar do they each have?
 
@@ -3473,6 +4171,7 @@ Four people sit at another table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of a bar do they each have?
 
 </div>
@@ -3512,7 +4211,9 @@ In another room there are two tables.
 
 There are four bars of chocolate on one table. There are five on the other.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 Twelve people sit at the table with four bars. Some other people sit at the table with five bars.
 
@@ -4353,6 +5054,7 @@ A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
 How many glasses is that? 
@@ -4672,10 +5374,14 @@ tratio
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
 ![missing image](/papers/missing_image.svg)
+ 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
 
@@ -6671,6 +7377,62 @@ $1596 \ \text{cm}$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
+<p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The sum of the all the whole numbers from $1$ to $50$ inclusive is $1275$. Work out the sum of the whole numbers from $2$ and $51$ inclusive.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Sum of whole numbers $2$ to $51$ inclusive is
+
+Subtraction of $1$ from Sum of whole numbers $1$ to $50$ inclusive and Addition of $51$.
+
+Let's calculate
+
+$
+\begin{aligned}
+&= 1275 - 1 + 51\\
+&= 1274 + 51
+&= 1325 
+\end{aligned}
+$
+
+Sum of whole numbers $2$ to $51$ inclusive is $1325$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1325$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
 <div class='topics'>
@@ -8077,7 +8839,8 @@ Jennifer is assembling a wardrobe. The measurements for the 3 sections are given
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 As the answer is to be given in cm, let's convert all measurements into cms.
 
@@ -8775,6 +9538,7 @@ The lunch break at Harry's school lasts $60 \ \text{minutes}$.
 Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9901,6 +10665,7 @@ tmoney
 <div class='question question'>
 
 Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
 
 Children are admitted at half price.
 

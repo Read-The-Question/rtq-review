@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-pr"
 title: "Topic - Simpleword - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -32,6 +32,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -39,6 +40,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -277,6 +279,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -304,6 +307,7 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 Nine people sit at one table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What **fraction** of a bar do they each have?
 
@@ -347,6 +351,7 @@ Four people sit at another table. They share the chocolate **equally**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of a bar do they each have?
 
 </div>
@@ -386,7 +391,9 @@ In another room there are two tables.
 
 There are four bars of chocolate on one table. There are five on the other.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 Twelve people sit at the table with four bars. Some other people sit at the table with five bars.
 
@@ -525,6 +532,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -532,6 +540,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -618,6 +627,62 @@ $1596 \ \text{cm}$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
+<p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The sum of the all the whole numbers from $1$ to $50$ inclusive is $1275$. Work out the sum of the whole numbers from $2$ and $51$ inclusive.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Sum of whole numbers $2$ to $51$ inclusive is
+
+Subtraction of $1$ from Sum of whole numbers $1$ to $50$ inclusive and Addition of $51$.
+
+Let's calculate
+
+$
+\begin{aligned}
+&= 1275 - 1 + 51\\
+&= 1274 + 51
+&= 1325 
+\end{aligned}
+$
+
+Sum of whole numbers $2$ to $51$ inclusive is $1325$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1325$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
 <div class='topics'>
@@ -643,9 +708,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -887,6 +954,7 @@ tsimpleword
 Mr Howden is landscaping his garden, the shape of which is illustrated below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1273,6 +1341,7 @@ Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
@@ -1485,7 +1554,8 @@ Jennifer is assembling a wardrobe. The measurements for the 3 sections are given
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 As the answer is to be given in cm, let's convert all measurements into cms.
 
@@ -1817,7 +1887,8 @@ tsimpleword
 
 Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2214,7 +2285,8 @@ tsimpleword
 
 This is a plan of a house and its garden:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2363,6 +2435,7 @@ to form the square shape shown below (the diagram is not drawn to scale).
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:
 
 The perimeter of this outer square shape
@@ -2380,6 +2453,7 @@ The perimeter of this outer square shape
 As per the question,
 
 $\text{Perimeter} = 4 \times \text{side})$
+
 
 $
 \begin{aligned}
@@ -2555,6 +2629,7 @@ The lunch break at Harry's school lasts $60 \ \text{minutes}$.
 Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2832,6 +2907,7 @@ Roger trains every morning by running around the running track until he has run 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2969,7 +3045,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3131,6 +3208,7 @@ Two rectangles ABCD and PQRS are shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 $AD = $3 \ \text{cm}$$ 
 
 $AB = $5 \ \text{cm}$$
@@ -3200,11 +3278,14 @@ tsimpleword
 
 Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
 
 He uses them to make this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of Bob’s shape?
 

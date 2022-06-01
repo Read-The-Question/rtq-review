@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -217,7 +217,9 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
+57 &= \maroonC
+ {19} \times \maroonC
+ {3}
 \end{aligned}
 $
 
@@ -249,7 +251,9 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
+91 &= \maroonC
+ {13} \times \maroonC
+ {7}
 \end{aligned}
 $
 
@@ -1114,9 +1118,11 @@ In the pyramid of bricks below the number on a brick equals the two numbers imme
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the numbers on the three bricks to complete this pyramid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1598,7 +1604,9 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+$\maroonC
+ {7 ^ 2} - \maroonC
+ {4 ^ 2} = 33$
 
 </div>
 </div>
@@ -1714,6 +1722,7 @@ She records their answers in a table.
 
 ![missing table](/papers/missing_table.svg)
 
+
 What is the total amount of TV watched by Valeri's $20$ friends?
 
 </div>
@@ -1814,6 +1823,7 @@ tsimpleword
 Errol has a wooden cube $20 \ \text{cm} \times 20 \ \text{cm}  \times 20 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1931,6 +1941,7 @@ What fraction of the area of the two new blocks is **not** painted?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1987,6 +1998,7 @@ Jo ties a rope from a branch of a tree overhanging a river. She stands on the ba
 The graph shows her distance from the bank at different times from the start.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2157,6 +2169,7 @@ tangle
 The pie chart and table show the answere given by $80$ people to a survey about their favourite Summer Sports Event of $2016$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2671,6 +2684,7 @@ Complete the empty boxes in the following table with the missing measurements fo
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2898,6 +2912,7 @@ tsequence
 Look carefully at the pattern sequence, made from black and white square tiles:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

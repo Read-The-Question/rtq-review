@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-c"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper C"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -285,9 +285,13 @@ tsequence
 Mr Smith is making patterns out of matchsticks. His patterns form a sequence.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
+
 ![missing image](/papers/missing_image.svg)
+ 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -402,9 +406,13 @@ TODOANSWER
 Mr Doyle is also making patterns out of matchsticks.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
+
 ![missing image](/papers/missing_image.svg)
+ 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -755,10 +763,14 @@ joined to together.
 Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
 
 ![missing image](/papers/missing_image.svg)
+ 
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

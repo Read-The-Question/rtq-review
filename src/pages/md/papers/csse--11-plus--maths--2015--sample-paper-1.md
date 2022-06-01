@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -97,6 +97,7 @@ Add $16.03$ and $9.48$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -213,6 +214,7 @@ Find the difference between $8.38$ and $6.94$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -563,7 +565,8 @@ $
     &       &                         5   &   6 \\
 {}+ &  9    &                         7   &   5 \\
 \hline
-  1 &  0    & \maroonC {3}   &   1
+  1 &  0    & \maroonC
+ {3}   &   1
 \end{array}
 $
 
@@ -596,7 +599,8 @@ $0.35 + 1.{?}7 = 2.22$
 $
 \begin{array}{cccccc}
     &   0 \ . &                         3   &   5 \\
-{}+ &   1 \ . & \maroonC {8}   &   7 \\
+{}+ &   1 \ . & \maroonC
+ {8}   &   7 \\
 \hline
     &   2 \ . &                         2   &   2
 \end{array}
@@ -630,7 +634,8 @@ $9{?}5 - 128 = 777$
 
 $
 \begin{array}{cccccccccccccc}
-    &  9    & \maroonC {0}    &   6 \\
+    &  9    & \maroonC
+ {0}    &   6 \\
 {}- &  1    &                          2   &   8 \\
 \hline
     &  7    &                          7   &   1
@@ -704,7 +709,8 @@ $13 \times 1{?}1 = 1703$
 $
 \begin{array}{ccccccccc}
        &        &                             1   &   3 \\
-\times &    1   &     \maroonC {3}   &   1 \\
+\times &    1   &     \maroonC
+ {3}   &   1 \\
 \hline
        &        &                             1   &   3 \\
        &    3   &                             9   &   0 \\
@@ -740,7 +746,8 @@ $1.1 \div 2 = 0.{?}5$
 <div class='workings'>
 <div class='working'>
 
-$1.1 \div 2 = 0. \maroonC {5} 5$
+$1.1 \div 2 = 0. \maroonC
+ {5} 5$
 
 </div>
 </div>
@@ -782,6 +789,7 @@ $25$ children were asked how many cousins they had.
 The results are shown in the bar chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -964,43 +972,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -1039,6 +1010,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1130,7 +1141,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-9 \maroonC {7} - 65 &= 32 \\\
+9 \maroonC
+ {7} - 65 &= 32 \\\
 \end {aligned}
 $
 
@@ -1166,7 +1178,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-39 + \maroonC {7} 8 + 50 &= 167 \\\
+39 + \maroonC
+ {7} 8 + 50 &= 167 \\\
 \end {aligned}
 $
 
@@ -1202,7 +1215,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-734 + (8 \times 2 \maroonC {7}) &= 950 \\\
+734 + (8 \times 2 \maroonC
+ {7}) &= 950 \\\
 \end {aligned}
 $
 
@@ -1249,6 +1263,7 @@ tsimpleword
 This is a sketch drawing of Kirin’s office, which needs new carpet.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1562,6 +1577,7 @@ The results are shown in the Venn diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1717,6 +1733,7 @@ $15$ had a brother, $12$ had a sister and $8$ had no brothers or sisters.
 Complete the Venn diagram below to show this information
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1902,6 +1919,7 @@ Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for 
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text {Tape left}   &= 5 \ \text {m} \ 35 \ \text {cm} - 243 \ \text{cm} \\\\
@@ -1954,6 +1972,7 @@ Sam is completing a table of values for the formula $2(n + 1)$.
 He has completed the first row of the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Complete the table with the two missing values.
 
@@ -2013,6 +2032,7 @@ The grid below is a magic square. Every row, column and diagonal must add to $1-
 What value must be placed in the shaded box?
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2490,6 +2510,7 @@ tstatistics
 The pie chart shows how $90$ Year $7$ pupils spent their time last night.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3154,6 +3175,7 @@ Finish shading the diagram, colouring *only two* more squares, so that the image
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3207,6 +3229,7 @@ In the grid below each number in the middle of a row or column is the average (m
 What value must be placed in the shaded box?
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

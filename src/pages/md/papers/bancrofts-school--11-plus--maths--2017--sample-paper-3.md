@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -976,6 +976,7 @@ In the boxes, write the numbers that their arrows are pointing to.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1015,6 +1016,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1057,6 +1059,7 @@ There is some liquid in the container.
 How many **more** millilitres must be added to fill it up to the $900 \ \text{ml}$ mark?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1468,6 +1471,7 @@ tsymmetry
 Write down the number of lines of symmetry (mirror lines) for each shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1973,6 +1977,7 @@ The area of the cross is $245 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2145,6 +2150,7 @@ Which one of the following ($A, B, C, D$ or $E$) could **not** be the resulting 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2199,6 +2205,7 @@ tnumber
 It takes $9 \ \text{litres}$ of paint to cover the surface of the cube on the left.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many litres of paint would it take to cover the surface of the shape on the right?
 
@@ -2519,6 +2526,7 @@ The bar chart shows the favourite cold drinks of the students in Class $6A$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2725,6 +2733,7 @@ The diagram shows the coordinates of three points $A, B$ and $C$.
 Shape $ABCD$ is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the coordinates of point D?
 
@@ -2982,6 +2991,7 @@ A wooden cube has edges $2 \ \text{cm}$ long.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3120,6 +3130,7 @@ What is the width of the path?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3174,6 +3185,7 @@ tdirection
 Look at the dial.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3772,9 +3784,11 @@ The diagram on the right is the net of a cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which one of the six cubes shown below could not be made from this net?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3817,6 +3831,7 @@ A double-decker bus has just ten seats.
 There are five seats in a line upstairs and five downstairs.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Dhanyal is sitting directly below Kim and in front of eight people.
 
@@ -4294,6 +4309,7 @@ Fill in the numbers in the three empty boxes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4335,6 +4351,7 @@ In the addition sum shown below, different shapes represent different digits.
 What digit does each shape represent?
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 

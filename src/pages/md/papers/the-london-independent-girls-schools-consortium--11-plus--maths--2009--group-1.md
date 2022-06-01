@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -195,7 +195,8 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -560,6 +561,7 @@ The diagram shows the distances between some cities.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how far was the Journey from Madrid to Paris?
 
 </div>
@@ -751,7 +753,9 @@ Complete the table of values for this number machine with the rule 'multiply by 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -783,7 +787,9 @@ What is the rule for this number machine? Write your answer inside the machine.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -928,6 +934,7 @@ $32$ students and $4$ members of staff from Encrypt School are going to a lectur
 
 ![missing image](/papers/missing_image.svg)
 
+
 Code-Breaking Lecture
 
 Ticket Prices
@@ -1010,6 +1017,7 @@ What temperature does the thermometer show?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1039,6 +1047,7 @@ TODOANSWER
 What temperature does this thermometer show?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1100,6 +1109,7 @@ todo
 A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree \text{F}$, is
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1307,6 +1317,7 @@ The graph shows how a freshly made cup of tea cools over time.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1468,7 +1479,8 @@ tinfer
 
 How many triangles are there in this diagram?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1514,6 +1526,7 @@ tsimpleword
 What is the area of this shape?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1563,6 +1576,7 @@ This is a loose sheet from a newspaper with $64$ pages. What is the missing page
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1609,6 +1623,7 @@ tinfer
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1636,6 +1651,7 @@ TODOANSWER
 Put a cross on the map where this signpost should go.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1811,6 +1827,7 @@ $72$ pupils were asked to choose their favourite type of film. The results are s
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1910,6 +1927,7 @@ What fraction of this diagram is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1953,7 +1971,8 @@ tgeometry
 
 Shade $\dfrac{3}{8}$ of this diagram.
 
-![missing image](/papers/missing_image.svg).         
+![missing image](/papers/missing_image.svg)
+.         
 
 </div>
 <div class='workings'>
@@ -1999,6 +2018,7 @@ tdirection
 Fred is facing south. He turns through $45 \degree$ in a clockwise direction.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2155,6 +2175,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2319,6 +2340,7 @@ $7 \ \text{pm} \quad (1,4)$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2396,7 +2418,10 @@ tgeometry
 
 Here are three patterns.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2425,6 +2450,7 @@ TODOANSWER
 Choose the next pattern in the sequence. Tick the correct box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2455,6 +2481,7 @@ TODOANSWER
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2507,6 +2534,7 @@ tareaperimeter
 Nine identical squares are glued together to form the figure.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The perimeter of the figure is $160\ \text{cm}$.
 
@@ -2690,6 +2718,7 @@ The ratio of ladies who lost gloves to the ladies who did not lose any gloves wa
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2798,6 +2827,7 @@ Dominic has half as many sweets as Hannah.
 Abdul has $3$ times as many sweets as Hannah.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many sweets does Abdul have?
 
@@ -3049,6 +3079,7 @@ The first four rows are shown below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Row 1                       1
 
 Row 2                      2      3
@@ -3168,6 +3199,7 @@ TODOANSWER
 Jessica works out the mean (average) of the numbers in each row.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the mean of the numbers in row $10$?
 

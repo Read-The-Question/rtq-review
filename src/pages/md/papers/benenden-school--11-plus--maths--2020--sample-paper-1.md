@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -897,6 +897,7 @@ TODOANSWER
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -934,6 +935,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -1217,6 +1219,7 @@ tdraw
 Label each arrow with the number it indicates on the scale:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1644,9 +1647,13 @@ tdraw
 Look at the diagrams below, consisting of dots and lines:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1815,7 +1822,9 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1987,7 +1996,9 @@ talgebra
 Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are **NOT DRAWN TO SCALE** :
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -2440,6 +2451,7 @@ Maisie makes $30$ small boxes of mixed sweets to sell at the school summer fair.
 Each box has $1$ Pineapple Jelly, $2$ Lemon Sours and $3$ Raspberry Creams.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -243,6 +243,7 @@ The graph below shows Claire's total score after each round of the game.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -479,15 +480,20 @@ Rup - one space to the right and one space up
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 These moves can be combined to reach different positions on a board. For example on a $3 x 3$ board, two Rowns would move the piece from the top left corner to the bottom right corner:
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 
 In parts (a) and (b), on the diagram alongside the question, show where the counter will be after the moves given. In each case the starting position is shown by the grey circle.
@@ -533,6 +539,7 @@ TODOANSWER
 a Rup followed by a Lup
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -580,6 +587,7 @@ TODOANSWER
 $2$ Lowns followed by a Lup
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -695,6 +703,7 @@ Lup
 List a sequence of **TWO** moves which would take you from the light counter to the dark counter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1736,6 +1745,7 @@ For example:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Blue Green
 
 because international rules state that the flag may not be all one colour and the rules also state that they are only allowed to pick from a certain number of colours.
@@ -1743,6 +1753,7 @@ because international rules state that the flag may not be all one colour and th
 The country always chooses what colour to put in the left section first. When calculating how many possible choices that they have for their flag; the following system is adopted. So with seven possible colours the choices would be
 
 ![missing table](/papers/missing_table.svg)
+
 
 Any of the $7$ colours
 Any of the $6$ remaining colours
@@ -1754,6 +1765,7 @@ If the country wants to make a flag with three colours, the rules state that the
 If there were $4$ choices of colour the calculation would be:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Any of the $4$ colours
 Any of the $3$ remaining colours
@@ -2073,17 +2085,21 @@ Here is a diagram of a rectangle with corners labelled ABCD.
 
 ![missing image](/papers/missing_image.svg)
 
+
 When the rectangle is reflected about the vertical line shown, the corners end up in the positions indicated on the picture below. **We will call this change** $\text{M} 1$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the original rectangle is reflected about the horizontal line shown, the corners end up in the positions on the picture underneath. **This change will be called** $\text{M} 2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the orginal rectangle is rotated through $180 \degree$ about its centre O then the corners end up in the positions on the picture below. **This change will be known as** $\text{R}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 $\text{M} 1, \text{M} 2$ and $\text{R}$ are known as transformations of the original rectangle
 
@@ -2265,6 +2281,7 @@ $
 Using your answers to parts (a) and (b) and any other diagrams you may wish to draw, **complete the table below**, showing how **the original rectangle** is changed when a pair of transformations are performed. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 where I indicates that a pair of transformations have taken you back to the original rectangle
 
@@ -2875,9 +2892,12 @@ The grids will be useful in answering the questions below.
 
 ![missing table](/papers/missing_table.svg)
 
-![missing table](/papers/missing_table.svg)
 
 ![missing table](/papers/missing_table.svg)
+
+
+![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

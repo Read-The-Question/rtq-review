@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -329,11 +329,16 @@ The next term is calculated by dividing the previous term by $10$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
 30000,  && 3000,  && 300,  && 30 && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -382,11 +387,16 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 2)} }
-&&  \footnotesize {\maroonC {(\times 2)} }
-&&  \footnotesize {\maroonC {(\times 2)} }
-&&  \footnotesize {\maroonC {(\times 2)} }
-&&  \footnotesize {\maroonC {(\times 2)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 2)} }
+&&  \footnotesize {\maroonC
+ {(\times 2)} }
+&&  \footnotesize {\maroonC
+ {(\times 2)} }
+&&  \footnotesize {\maroonC
+ {(\times 2)} }
+&&  \footnotesize {\maroonC
+ {(\times 2)} }  \\
 3, && 6, && 12, && 24 && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -435,13 +445,20 @@ The next term is calculated by adding the previous term to the current term. Hen
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+0)} }
-&&  \footnotesize {\maroonC {(+1)} }
-&&  \footnotesize {\maroonC {(+2)} }
-&&  \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+8)} }
-&&  \footnotesize {\maroonC {(+13)} }  \\
+&   \footnotesize {\maroonC
+ {(+0)} }
+&&  \footnotesize {\maroonC
+ {(+1)} }
+&&  \footnotesize {\maroonC
+ {(+2)} }
+&&  \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+8)} }
+&&  \footnotesize {\maroonC
+ {(+13)} }  \\
 1, && 1, && 2, && 3, && 5, && 8, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -491,12 +508,18 @@ It is a sequence of square numbers.
 
 $
 \begin{matrix}
-&  \footnotesize {\maroonC {(1^2)} }
-&  \footnotesize {\maroonC {(2^2)} }
-&  \footnotesize {\maroonC {(3^2)} }
-&  \footnotesize {\maroonC {(4^2)} }
-&  \footnotesize {\maroonC {(5^2)} }
-&  \footnotesize {\maroonC {(6^2)} }  \\
+&  \footnotesize {\maroonC
+ {(1^2)} }
+&  \footnotesize {\maroonC
+ {(2^2)} }
+&  \footnotesize {\maroonC
+ {(3^2)} }
+&  \footnotesize {\maroonC
+ {(4^2)} }
+&  \footnotesize {\maroonC
+ {(5^2)} }
+&  \footnotesize {\maroonC
+ {(6^2)} }  \\
 1, & 4, & 9, & 16, & \text{\textunderscore \textunderscore \textunderscore}, & \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -675,7 +698,8 @@ tmoney
 
 The line graph below can be used to change pounds sterling into Norwegian kroner . 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -852,7 +876,8 @@ Work out the area of the garden:
 
 How many sacks of peat does Gill need for the whole garden?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1006,6 +1031,7 @@ $\dfrac {1} {12}$
 What fraction in the diagram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1245,7 +1271,8 @@ tstatistics
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1501,6 +1528,7 @@ tstatistics
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pie chart represents the favourite takeaway foods of $180$ students. 
 
 </div>
@@ -1655,6 +1683,7 @@ How many of the $180$ students chose Pizza?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1709,7 +1738,8 @@ tmoney
 To encourage her to tidy her bedroom, Cathy is given $1 \text{p}$ on the first day, $2 \text{p}$ on the second day, $4 \text{p}$ on the third day and so on, doubling the amount each day. 
 How much has she been given after $8$ days?
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -1766,7 +1796,8 @@ The total of the opposite faces on a dice is always $7$.
 Jack places  three dice on a table as shown in the diagram. 
 What is the total score of the faces that Jack cannot see?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1818,7 +1849,8 @@ tareaperimeter
 
 Calculate the perimeter of this shape stating your units very carefully.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1877,7 +1909,8 @@ Starting from a point diametrically opposite Jack's starting point, Gill dances 
 
 How many times do they pass each other in the first minute?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1861,6 +1861,7 @@ The diagram shows an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1985,6 +1986,7 @@ tgraph
 Some children count the colours of $120$ cars in a car park.They then draw a pie chart to show their results.The pie chart is shown on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2117,6 +2119,7 @@ talgebra
 Find the value of $𝑥$ in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2291,6 +2294,7 @@ I have a painting in a frame. The frame is $75 \ \text{cm}$ wide and $65 \ \text
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2417,6 +2421,7 @@ tgraph
 In the diagram below, the point 𝑃 has coordinates $(1,3)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2860,6 +2865,7 @@ tgraph
 The bar graph below shows the number of pets in each house in a street.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

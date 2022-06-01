@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -206,20 +206,63 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} }
-&&  \footnotesize {\maroonC {(+4)} } \\
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} } \\
+3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}   &= 27 + 4 \\\\
+                               &= 31 \\\
+\text {Second missing number}  &= 31 + 4 \\\\
+                               &= 35
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} } \\
 3,  &&    7,  &&  11,  &&   15,  &&   19,   &&   23,  &&  27,  && \ldots,  && \ldots
 \end{matrix}
 $
@@ -309,6 +352,7 @@ $1983$ people buy tickets for a concert.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -392,6 +436,7 @@ $2000$
 Each concert ticket costs $\pounds 16$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -510,6 +555,7 @@ Last week he bought $56$ football cards.
 This week he bought $72$ football cards.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1031,6 +1077,7 @@ Belinda has $60$ coloured counters. One third of them are red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1186,6 +1233,7 @@ On the probability scale below, mark the following probabilities with the letter
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1250,6 +1298,7 @@ tareaperimeter
 Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1503,6 +1552,7 @@ Construct triangle $ADC$, in which angle $DAC = 44 \degree$ and $AD = 56 \ \text
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1671,6 +1721,7 @@ ttemperature
 This map shows the temperatures in four cities one morning in January.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1842,9 +1893,11 @@ Her parents want to rent a car.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cost to rent a car from *Rob's Rentals* is shown on the graph below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1875,6 +1928,7 @@ Use the graph to find the cost of renting a car from Rob's Rentals for $6$ days.
 Another company, *Autohire*, charges $\pounds 20$ for each day.    
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2064,6 +2118,7 @@ You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use this information to write:
 
 </div>
@@ -2180,6 +2235,7 @@ Their scores in the Mental Challenge are:
 $18 \quad 20 \quad 15 \quad 12 \quad 20$
 
 ![missing image](/papers/missing_image.svg)
+
 
 For these $5$ scores, work out:
 
@@ -2331,7 +2387,9 @@ Some of the information is covered by ink.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ children chose sport.
 
@@ -2507,7 +2565,9 @@ Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2625,6 +2685,7 @@ At the end of the term, a left-handed player from Team Beta moves into Team Alph
 Redraw the table to show the new teams.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2765,6 +2826,7 @@ This solid shape is made from identical cubes with $1 \ \text{cm}$ edges. There 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2879,6 +2941,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 A tetrahedron is made from four congruent equilateral triangles.
 
 In the space below, draw an accurate net for this tetrahedron. 
@@ -2886,6 +2949,7 @@ In the space below, draw an accurate net for this tetrahedron.
 The shaded face has already been drawn for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2952,6 +3016,7 @@ Here are some patterns made from tiles:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2989,6 +3054,7 @@ TODOANSWER
 Draw pattern 4 on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3029,6 +3095,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

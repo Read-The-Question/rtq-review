@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-g0"
 title: "Topic - Unitprompt - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,11 +58,13 @@ How many tiles will I need?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The wall measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin {aligned}
@@ -822,7 +824,8 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -880,7 +883,8 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin {aligned}
@@ -933,6 +937,7 @@ tunitprompt
 On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Distances between the village are shown by the arrows. 
 
@@ -1130,6 +1135,7 @@ tunitprompt
 Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
@@ -1387,7 +1393,8 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 Price of Cola $= \pounds 1.09$
 
@@ -1448,7 +1455,8 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
@@ -1523,6 +1531,7 @@ How many centimetres are there in five kilometres?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1558,6 +1567,7 @@ $500000 \ \text {cm}$
 How many times does two hundred go into one million?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2128,6 +2138,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2169,6 +2180,7 @@ $5 \ \text {g}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2209,6 +2221,7 @@ $230 \ \text{g}$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2273,6 +2286,7 @@ tunitprompt
 You are told that $1 \ \text{inch} = 2.5 \ \text{centimetres}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use this information to write:
 
@@ -2389,6 +2403,7 @@ tunitprompt
 Ten calculators have a total mass of $1500 \ \text{g}$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2606,7 +2621,8 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 To compare, let's convert all the units to $\text {km}$. 
 
@@ -2674,7 +2690,8 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
 
 Distance $= 3 \ \text{km}$
 
@@ -2763,7 +2780,8 @@ $1 \ \text{cm}$ on a map represents a distance of $2 \ \text{km}$ on the ground.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The distance is given in kilometres, but the answer has to be in metres.
+It is really important to use the right units in calculations and convert where required
+. The distance is given in kilometres, but the answer has to be in metres.
 
 $
 \begin{aligned}
@@ -2825,6 +2843,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 The wall measurement is given in feet while the tile measurement is given in inches.
 
 Let's convert the wall measurements into inches.
@@ -2962,7 +2981,8 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
 
 Let's convert time taken into hours.
 
@@ -3059,7 +3079,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -3135,7 +3156,8 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
 
@@ -3208,7 +3230,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 
@@ -3278,7 +3301,8 @@ of $15 \ \text{g}$ pieces.  How many pieces does he have?
 
 As per the question,
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -3338,7 +3362,8 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.
 
@@ -3401,7 +3426,8 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
 

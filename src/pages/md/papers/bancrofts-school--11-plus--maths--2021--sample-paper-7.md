@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -874,10 +874,12 @@ The mouse below been rotated and then reflected.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which of the following would show how the polecat would 
 look if it had been rotated and then reflected in the same way?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -933,6 +935,7 @@ tsymmetry
 How many lines of symmetry (mirror lines) does the shape below have?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1042,6 +1045,7 @@ The table below shows the results of a survey in which $60$ boys
 were asked what colour of dress girls should wear.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What percentage of boys thought *girls* should wear pink?
 
@@ -1479,6 +1483,7 @@ What are the missing values on each of these scales?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1506,6 +1511,7 @@ $4.5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1744,6 +1750,7 @@ Here are some patterns made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1784,6 +1791,7 @@ Complete the diagram for pattern $5$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1823,6 +1831,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1918,6 +1927,7 @@ A group of students were asked to name their favourite subject at school.
 The results of the survey are shown on the graph on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2123,6 +2133,7 @@ tgraph
 The graph below shows how Ben and Anne travelled to their Grandmother’s house one weekend.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2546,6 +2557,7 @@ Fill in the gaps in the calculations below (none of the gaps are zero):
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2721,6 +2733,7 @@ What are the co-ordinates of $A$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2778,6 +2791,7 @@ tinfer
 Which net cannot be folded to make a triangular prism?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2913,6 +2927,7 @@ tareaperimeter
 Calculate the area of the shape below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3493,6 +3508,7 @@ the perimeter of the original square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3803,6 +3819,7 @@ number each of the letters stands for in the calculation below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3900,6 +3917,7 @@ If the figure shown is folded to form a cube, then three faces meet at every ver
 
 ![missing image](/papers/missing_image.svg)
 
+
 The numbers on the three faces meeting at any vertex can be multiplied together.
 
 What is the largest such product for the vertices of this cube?
@@ -3942,7 +3960,8 @@ TODOANSWER
 
 A square floor is tiled with square tiles and there are $77$ tiles on the diagonals.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The diagram shows part of the floor. 
 

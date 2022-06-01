@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -295,17 +295,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-6)} } 
-&&  \footnotesize {\maroonC {(-6)} }  
-&&  \footnotesize {\maroonC {(-6)} }   
-&&  \footnotesize {\maroonC {(-6)} }   
-&&  \footnotesize {\maroonC {(-6)} }  \\
+&   \footnotesize {\maroonC
+ {(-6)} } 
+&&  \footnotesize {\maroonC
+ {(-6)} }  
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }  \\
+98,  &&  92,  &&  86,  &&   80,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 80 - 6 \\\\
+                                  &= 74 \\\\
+\text{Second missing number}      &= 74 - 6 \\\\
+                                  &= 68
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-6)} } 
+&&  \footnotesize {\maroonC
+ {(-6)} }  
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }  \\
 98,  &&  92,  &&  86,  &&   80,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -348,16 +382,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+1)} } 
-&&  \footnotesize {\maroonC {(+2)} }  
-&&  \footnotesize {\maroonC {(+3)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+6)} }  \\
+&   \footnotesize {\maroonC
+ {(+1)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
+1,  &&  2,  &&  4,  &&   7,  &&   11  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 11 + 5 \\\\
+                                  &= 16 \\\\
+\text{Second missing number}      &= 16 + 6 \\\\
+                                  &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+1)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
 1,  &&  2,  &&  4,  &&   7,  &&   11  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -768,6 +837,7 @@ He buys as many pineapples as he can with his $\pounds 10$ note.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -917,6 +987,7 @@ Shade in $\dfrac{3}{5}$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -956,6 +1027,7 @@ TODOANSWER
 Shade in $70 \%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1053,6 +1125,7 @@ On Christmas Eve, the temperature in Cold City was $-12 \degree \text{C}$.
 At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1210,6 +1283,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1247,6 +1321,7 @@ TODOANSWER
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1330,6 +1405,7 @@ TODOANSWER
 A different number machine produces the input and output table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the rule for this number machine?
 
@@ -1556,10 +1632,12 @@ Jasper is making fairy cakes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A recipe to make 24 fairy cakes requires the following
 ingredients: 
 
 ![missing table](/papers/missing_table.svg)
+
 
 $230 \ \text{grams}$ flour
 
@@ -1633,6 +1711,7 @@ Jasper decides to make $36$ fairy cakes.
 Work out the amount of each ingredient which Jasper needs.
 
 ![missing table](/papers/missing_table.svg)
+
 
 $\ \text{grams}$ flour
 
@@ -2057,6 +2136,7 @@ What mass is shown on the scale below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2096,6 +2176,7 @@ TODOANSWER
 On the scale below, draw an arrow to represent one tenth of $2 \ \text{kilograms}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2268,6 +2349,7 @@ She poured out some water and the diagram shows how much water is left in the ju
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much water has Kate poured out from the jug?
 
 </div>
@@ -2364,6 +2446,7 @@ Circle any shapes below which have only $1$ line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2403,6 +2486,7 @@ TODOANSWER
 Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2444,6 +2528,7 @@ Reflect the shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2483,6 +2568,7 @@ TODOANSWER
 Complete the diagram below so that the finished pattern has symmetry in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2541,6 +2627,7 @@ tsimpleword
 Below are some shapes drawn on a centimetre-squared grid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2744,6 +2831,7 @@ Point $A$ is plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Point $B$ has coordinates $(7, 8)$.
 
 </div>
@@ -2920,6 +3008,7 @@ Kate asked some people to tell her their favourite character in the Wizard of Oz
 Here is a pie chart showing her results:
 
 ![missing image](/papers/missing_image.svg)
+
  
 
 </div>
@@ -3075,6 +3164,7 @@ it is certain to land on $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3115,6 +3205,7 @@ there is an even chance of it landing on $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3154,6 +3245,7 @@ TODOANSWER
 it is twice as likely to land on $4$ as on $3$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3220,6 +3312,7 @@ Circle the diagram below which **cannot** be a net of this cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3277,6 +3370,7 @@ He uses some of his bricks to make this cuboid:
 
 ![missing image](/papers/missing_image.svg)
 
+
 From his remaining bricks, he uses some to make the largest cube that he can.
 
 How many bricks does he use to make the cube?
@@ -3331,10 +3425,12 @@ Vanessa is practising for her violin exam.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is a table showing the number of minutes which she 
 spent practising her violin on $5$ days last week.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3518,6 +3614,7 @@ Complete the table.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3633,6 +3730,7 @@ This is the start of a pattern of shapes:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3670,6 +3768,7 @@ TODOANSWER
 Circle the picture below which would be the $9 \text{th}$ shape in the pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3710,6 +3809,7 @@ TODOANSWER
 Circle the picture below which would be the $14 \text{th}$ shape in the pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3847,6 +3947,7 @@ talgebra
 When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4023,7 +4124,8 @@ The time in New York is $5 \ \text{hours}$ behind the time in London.
 
 The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4245,6 +4347,7 @@ of $3 \ \text{centimetres}$ all the way round the photograph.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What area of red card is showing?
 
 </div>
@@ -4252,6 +4355,7 @@ What area of red card is showing?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -4467,6 +4571,7 @@ tinfer
 On planet Dichotomy, there are two tribes, Honestians and Liarists.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Honestians always tell the truth.
 

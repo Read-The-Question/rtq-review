@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-blocked"
 title: "Topic - Algebra - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -76,7 +76,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -209,7 +211,9 @@ talgebra
 
 The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -293,6 +297,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -348,7 +353,8 @@ talgebra
 
 The perimeter of the rectangle below is $18 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -424,7 +430,8 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -457,7 +464,9 @@ A square with sides of length $3 \ \text{cm}$ is divided into three identically 
 These are then arranged as shown. What is the perimeter of the new shape?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -515,7 +524,9 @@ Shape $A$ and shape $B$ are each made from five identical squares. The **perimet
 $72 \ \text{cm}$. Work out the perimeter of shape $B$. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 - $30 \ \text{cm}$
 - $60 \ \text{cm}$
@@ -856,6 +867,7 @@ Find in terms of $x$ the perimeter of the following triangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -905,11 +917,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1015,7 +1029,9 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 As his hobby, Fred builds $3$-legged stools and $4$-legged tables. Last month he used $72$ legs and he built $3$ more stools than tables. How many stools and how many tables did he build ? 
 
@@ -1308,6 +1324,7 @@ how much money do they have altogether?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1394,7 +1411,8 @@ The sum of two whole numbers is 30 and their difference is 20
 
 What are the two numbers?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1519,6 +1537,7 @@ talgebra
 A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the size of the angle marked $x$. 
 
@@ -1742,6 +1761,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -1781,6 +1801,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1922,7 +1943,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 
@@ -2134,10 +2156,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize{\maroonC
+{(+a)}}  
+&&  \footnotesize{\maroonC
+{(+a)}} 
+&&  \footnotesize{\maroonC
+{(+a)}}   
+&&  \footnotesize{\maroonC
+{(+a)}} \\
 3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
 \end{matrix}
 $

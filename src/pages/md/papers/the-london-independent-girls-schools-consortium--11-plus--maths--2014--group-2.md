@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -500,6 +500,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -770,6 +771,7 @@ Shade $75\%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -821,6 +823,7 @@ ttemperature
 The thermometers below show the temperatures, in $\degree \text{C}$, inside a fridge and a freezer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1300,9 +1303,11 @@ The number machine below changes numbers according to the rule:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the input and output numbers for the machine.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1345,6 +1350,7 @@ There are two possible function machines which will give results shown below.
 Work out both possible answers.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1612,7 +1618,8 @@ What was the price of the **cheaper** book?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\pounds$.
 
 Let the cost of one book $= a$.
 
@@ -1727,16 +1734,45 @@ $5.4, \quad 5.8, \quad 6.2, \quad 6.6, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+0.4)} } 
-&&  \footnotesize {\maroonC {(+0.4)} }  
-&&  \footnotesize {\maroonC {(+0.4)} }   
-&&  \footnotesize {\maroonC {(+0.4)} }  \\
+&   \footnotesize {\maroonC
+ {(+0.4)} } 
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  
+&&  \footnotesize {\maroonC
+ {(+0.4)} }   
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  \\
+5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}        &= 6.6 + 0.4 \\\\
+                          &= 7.0
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+0.4)} } 
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  
+&&  \footnotesize {\maroonC
+ {(+0.4)} }   
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  \\
 5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
 \end{matrix}
 $
@@ -1774,14 +1810,37 @@ $1.3, \quad 1.23, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.07$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-0.07)} }   
-&&  \footnotesize {\maroonC {(-0.07)} }  \\
+&   \footnotesize {\maroonC
+ {(-0.07)} }   
+&&  \footnotesize {\maroonC
+ {(-0.07)} }  \\
+1.3,  &&    1.23, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}        &= 1.23 - 0.07 \\\\
+                          &= 1.16
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.07$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-0.07)} }   
+&&  \footnotesize {\maroonC
+ {(-0.07)} }  \\
 1.3,  &&    1.23, && \ldots
 \end{matrix}
 $
@@ -1826,18 +1885,53 @@ $\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)} } 
-&&  \footnotesize {\maroonC {(+4)} }  
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }  \\
+&   \footnotesize {\maroonC
+ {(+4)} } 
+&&  \footnotesize {\maroonC
+ {(+4)} }  
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
+\ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Seventh term in the sequence}        &= 18 + 4 + 4 \\\\
+                                           &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} } 
+&&  \footnotesize {\maroonC
+ {(+4)} }  
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
 \ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -1981,6 +2075,7 @@ Estimate, in centimetres, the length of the line below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2022,6 +2117,7 @@ The man in the diagram is 1.$8 \ \text{metres}$ tall.
 Use this fact to estimate the height of the tree.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2081,6 +2177,7 @@ Reflect the shape below in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2138,6 +2235,7 @@ tdraw
 Shapes $A, B, C$ and $D$ are drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2255,6 +2353,7 @@ On the grid below, draw a shape made up of $8$ little squares which has rotation
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2341,6 +2440,7 @@ Write the time her clock actually shows, using the $12$-hour clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2407,6 +2507,7 @@ $19{:}15$
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2534,6 +2635,7 @@ Ben asked people about their favourite type of cheese.
 The results of his survey are shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2750,6 +2852,7 @@ There are no hidden cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2825,9 +2928,13 @@ TODOANSWER
 The diagrams below show possible front and side views of the object.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the diagram which shows the:
 
@@ -2870,6 +2977,7 @@ TODOANSWER
 On the grid below, draw and shade the plan view of the object.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2931,6 +3039,7 @@ Each section on a spinner contains a number between $1$ and $6$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write a number in each section of the spinner so that:
 
 </div>
@@ -2970,6 +3079,7 @@ TODOANSWER
 the spinner is certain to land on a number less than $3$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3011,6 +3121,7 @@ the spinner is twice as likely to land on an even number as on the number $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3050,6 +3161,7 @@ TODOANSWER
 the spinner is equally likely to land on a square number, an even number or an odd number
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3107,6 +3219,7 @@ tstatistics
 The price of each type of dark chocolate is shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3317,6 +3430,7 @@ Points $A, B$ and $C$ have been plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3451,6 +3565,7 @@ Field crickets chirp according to the temperature of their surroundings.
 You can use the following rule to work out the temperature:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3624,6 +3739,7 @@ tclock
 Between $3 \ \text{a.m.}$ and $6 \ \text{a.m.}$ the hour hand on a clock moves through an angle of $90 \degree$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the angle which the hour hand on a clock move through between
 
@@ -3858,13 +3974,19 @@ In all of the diagrams, the symbols on either side of the scale are balanced.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
 
-Work out how many ![missing image](/papers/missing_image.svg) are equivalent to one ![missing image](/papers/missing_image.svg). 
+
+![missing image](/papers/missing_image.svg)
+
+
+Work out how many ![missing image](/papers/missing_image.svg)
+ are equivalent to one ![missing image](/papers/missing_image.svg)
+. 
 
 </div>
 <div class='workings'>
@@ -3927,11 +4049,13 @@ $3$ other people arrive who do not mind where they sit.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many different possible seating arrangements are there of the $6$ people?
 
 *You may find the boxes helpful*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4024,6 +4148,7 @@ The shape below is made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The perimeter of the shape is $100 \ \text{centimetres}$.
 
 Work out the area of the shape.
@@ -4067,6 +4192,7 @@ TODOANSWER
 Work out the area of the shape drawn on the centimetre-squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4125,6 +4251,7 @@ tinfer
 Circle the net which could make the cube shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4186,6 +4313,7 @@ Consecutive letters are not allowed to touch either at an edge or a corner.
 For example, $B$ cannot touch $C$ or $A$ at either an edge or a corner.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4362,6 +4490,7 @@ what is the value of $TABLE$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4422,6 +4551,7 @@ Behind the other door there is nothing.
 Each door has a notice. However, **only one notice is true**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Behind which door is $\pounds 1000$?
 

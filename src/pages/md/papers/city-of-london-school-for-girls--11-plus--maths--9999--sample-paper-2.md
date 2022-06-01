@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,10 +20,7 @@ date: 2022-06-01 14:18:26
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -75,10 +72,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -130,10 +124,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -185,10 +176,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -240,10 +228,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -251,7 +236,9 @@ todo
 
 Write down the temperatures shown by these thermometers
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -295,10 +282,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -463,10 +447,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -512,6 +493,7 @@ What type of angle is angle A?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -551,6 +533,7 @@ TODOANSWER
 What is the value of angle B?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -597,10 +580,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -650,10 +630,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -703,10 +680,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -750,6 +724,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -787,6 +762,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -833,10 +809,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -963,10 +936,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -974,7 +944,9 @@ todo
 
 Here are two shapes:
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1095,10 +1067,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1106,7 +1075,9 @@ todo
 
 Identify the following shapes from their nets
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1150,10 +1121,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1162,6 +1130,7 @@ todo
 Here are some numbers:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1358,10 +1327,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1413,10 +1379,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1468,10 +1431,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1521,10 +1481,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1689,10 +1646,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1819,10 +1773,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1872,10 +1823,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2006,10 +1954,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2018,6 +1963,7 @@ todo
 The shape below is made from two rectangles. Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2061,10 +2007,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2075,6 +2018,7 @@ Find the area of the triangle.
 ($1$ square is worth $1cm^2$).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2118,10 +2062,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2130,6 +2071,7 @@ todo
 Shade in **three squares** so that the following shape has exactly **one line of symmetry**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2173,10 +2115,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2185,6 +2124,7 @@ todo
 Reflect the shaded shape in the mirror line
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2228,10 +2168,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2295,10 +2232,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2472,10 +2406,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2606,10 +2537,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2776,10 +2704,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2788,6 +2713,7 @@ todo
 Here is a graph showing how many cakes the Maths department sell to raise money for charity each year.
 
 ![missing image](/papers/missing_image.svg)
+
 
 In 2012 The Maths department at CLSG forgot to ice their cakes and sold only three cakes!
 
@@ -2910,10 +2836,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3078,10 +3001,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3209,10 +3129,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3264,10 +3181,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3292,6 +3206,7 @@ E.g.
 $\boxed{Convert\:88\ \text{km}\:into\:miles}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 $88\ \text{km}$ is the same as $55\ \text{miles}$
 
@@ -3334,6 +3249,7 @@ Convert $56\ \text{kilometers}$ into $\text{miles}$ using the diagram below
 $\boxed{Convert\:56\ \text{km}\:into\:miles}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -3496,10 +3412,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3543,7 +3456,10 @@ TODOANSWER
 
 Draw all of the diagonals on each shape. The first one has been done for you.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3584,6 +3500,7 @@ TODOANSWER
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3668,10 +3585,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3679,7 +3593,8 @@ todo
 
 This pie chart represents $60$ pupils. What fraction of the pupils do swimming?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3723,10 +3638,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3848,6 +3760,7 @@ What are the coordinates of the fourth corner of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3893,10 +3806,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3906,11 +3816,16 @@ todo
 
 Sarah goes to the shops to buy some food. Here is her shopping list and the prices of the food in the shop.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 Some of the food is on special offer!
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4107,10 +4022,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4160,10 +4072,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4296,10 +4205,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4585,10 +4491,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4646,10 +4549,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4699,10 +4599,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4762,10 +4659,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4825,10 +4719,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -4838,7 +4729,9 @@ What is the largest number of $30\ \text{cm}$ by $10\ \text{cm}$ tiles can you f
 
 Breaking tiles and overlapping tiles is not allowed. 
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4882,10 +4775,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -5037,10 +4927,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -5048,11 +4935,21 @@ todo
 
 Each shape represents a number
 
-![missing image](/papers/missing_image.svg)  +  ![missing image](/papers/missing_image.svg) = ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  +  ![missing image](/papers/missing_image.svg)
+ = ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)  +  ![missing image](/papers/missing_image.svg) = ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)  +  ![missing image](/papers/missing_image.svg) + ![missing image](/papers/missing_image.svg) = ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  +  ![missing image](/papers/missing_image.svg)
+ = ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+  +  ![missing image](/papers/missing_image.svg)
+ + ![missing image](/papers/missing_image.svg)
+ = ![missing image](/papers/missing_image.svg)
+
 
 What is the value of the triangle?
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -151,6 +151,7 @@ Calculate the area of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $80 \ \text{cm}^2$
 - $106\ \text{cm}^2$   
 - $86 \ \text{cm}^2$
@@ -164,6 +165,7 @@ Calculate the area of the rectangle.
 As per the question,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -337,6 +339,7 @@ talgebra
 Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $126 \degree$
 - $46 \degree$
@@ -776,6 +779,7 @@ The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
 - $7.5 \ \text{cm}$
@@ -850,6 +854,7 @@ Convert $340 \ \text{millimetres}$ to metres.
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -1082,12 +1087,18 @@ The difference between the terms is decreasing by $7$. Hence, the sequence would
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-4)}} 
-&&  \footnotesize{\maroonC{(-4)}}
-&&  \footnotesize{\maroonC{(-4)}}  
-&&  \footnotesize{\maroonC{(-4)}}   
-&&  \footnotesize{\maroonC{(-4)}}   
-&&  \footnotesize{\maroonC{(-4)}}  \\
+&   \footnotesize{\maroonC
+{(-4)}} 
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
 13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
 \end{matrix}
 $
@@ -1258,6 +1269,7 @@ Pens cost $35 \text{p}$ each. How much money will a box of $25$ pens cost?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 As per the question,
 
 $
@@ -1365,7 +1377,8 @@ tgraph
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1644,7 +1657,8 @@ tsimpleword
 
 This is a plan of a house and its garden:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2295,7 +2309,8 @@ tsequence
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 This is a magic square.  
 
@@ -2440,6 +2455,7 @@ For this pattern:
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many matches will be in the $4 \text{th}$ shape?
 
 - $26$
@@ -2506,7 +2522,8 @@ tsequence
 </div>
 <div class='question question'>
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 For the above pattern, what is $x$ in this table.
 
@@ -2582,6 +2599,7 @@ On this journey Anthony walked a certain distance, and turned right.
 Each time he turned right he walked $2 \ \text{metres}$ less than he did the time before.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the last part of his journey before stopping he walked one metre. How far did he walk altogether?
 
@@ -2861,6 +2879,7 @@ A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used in making the bigger cube?
 
 - $21$
@@ -3110,6 +3129,7 @@ to form the square shape shown below (the diagram is not drawn to scale).
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:
 
 The perimeter of this outer square shape
@@ -3127,6 +3147,7 @@ The perimeter of this outer square shape
 As per the question,
 
 $\text{Perimeter} = 4 \times \text{side})$
+
 
 $
 \begin{aligned}
@@ -3239,6 +3260,7 @@ by travelling along lines.
 You may only travel in directions %waffles%
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many routes are there from $B$ to $C$?
 

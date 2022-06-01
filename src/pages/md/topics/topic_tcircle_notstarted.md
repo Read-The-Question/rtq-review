@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-notstarted"
 title: "Topic - Circle - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -24,6 +24,7 @@ tcircle
 The shape below is made up of square tiles. Which of tiles A, B, C, D or E could be removed so that the perimeter remained the same? Circle your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -119,6 +120,7 @@ Circle any shapes below which have only $1$ line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -158,6 +160,7 @@ TODOANSWER
 Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -199,6 +202,7 @@ Reflect the shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -238,6 +242,7 @@ TODOANSWER
 Complete the diagram below so that the finished pattern has symmetry in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -303,6 +308,7 @@ The face with a circle is exactly opposite the face with a star.
 Circle the diagram below which **cannot** be a net of this cube.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

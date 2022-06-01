@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -482,10 +482,14 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+4)}} \\
+&   \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}} \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
@@ -529,10 +533,14 @@ The difference between the terms is $5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}}
-&&  \footnotesize{\maroonC{(-5)}} \\
+&   \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}} \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
@@ -575,10 +583,14 @@ Let's find the difference between the consecutive terms of the sequence.
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+2)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+4)}}
-&&  \footnotesize{\maroonC{(+5)}} \\
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}} \\
 2,  &&    4,  &&  7,  &&   11 , && \ldots
 \end{matrix}
 $
@@ -732,6 +744,7 @@ One length of my local swimming pool is $25\, m$.
 
 How many lengths must I swim to cover a distance of $1.5\, km$? ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -828,7 +841,12 @@ tdraw
 Circle the shape that has a different area from the others.
 
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -879,6 +897,7 @@ tmoney
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 I have FIVE coins in my pocket. 
 
@@ -986,6 +1005,7 @@ Draw **ALL** the lines of symmetry on this shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1037,7 +1057,8 @@ tratio
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 Biscuits are sold in packets of $12$.
 
@@ -1094,6 +1115,7 @@ ttime
 My train was $17\, minutes$ late when it arrived at the station at 17·05.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What time was it due to arrive at the station?
 
@@ -1254,11 +1276,14 @@ tsimpleword
 
 The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 They are joined together to make a new shape. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of this new shape? 
 
@@ -1315,6 +1340,7 @@ What is the angle between the hands of this clock?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1367,6 +1393,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A is the point $(2, 2)$, B is the point $(8, 2)$ and C is the point $(5, 8)$.  D is the mid point of the line AB.
 
@@ -1464,6 +1491,7 @@ tmoney
 Alison went to the supermarket. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 She bought two cans of cola costing $53 \text{p}$$ each, three packets of crisps costing $27 \text{p}$$ each and a large bar of chocolate that costs $$\pounds 1.24$.
 
@@ -1692,6 +1720,7 @@ tmoney
 
 Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
 
+
 Children are admitted at half price.
 
 What would it cost for $2$ adults and a child to attend the same concert?
@@ -1767,6 +1796,7 @@ talgebra
 $\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
 
 ![missing image](/papers/missing_image.svg)
+
 
 how many are white chocolate?   
 
@@ -1876,6 +1906,7 @@ C.  More likely to land on a number that is not a prime number rather than a pri
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1928,6 +1959,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
 
@@ -2002,7 +2034,8 @@ tareaperimeter
 
 It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
 
-![missing image](/papers/missing_image.svg)                                                     
+![missing image](/papers/missing_image.svg)
+                                                     
 
 </div>
 <div class='workings'>
@@ -2064,6 +2097,7 @@ $4$ CDs and $2$ DVDs cost $$\pounds 46$.
 3 CDs and 2 DVDs cost $\pounds 39.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of 
 
@@ -2370,6 +2404,7 @@ tinfer
 Fill this square using the numbers $1,2,3,4$ and $5$ so that each of these numbers appears just once in each row, once in each column and once in each diagonal.
 
 ![missing image](/papers/missing_image.svg)
+
  
 </div>
 <div class='workings'>

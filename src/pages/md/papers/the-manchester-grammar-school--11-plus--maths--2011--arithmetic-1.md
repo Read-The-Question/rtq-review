@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -405,6 +405,7 @@ He then paints the shape he has made. What area is painted?
 
 ![missing image](/papers/missing_image.svg)
 
+
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with cubes drawn in IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
 As per the question, the seventh cube (the cube in the centre) has all of its faces covered.
@@ -475,7 +476,8 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
 
 Let's convert time taken into hours.
 
@@ -787,7 +789,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -1131,7 +1134,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}

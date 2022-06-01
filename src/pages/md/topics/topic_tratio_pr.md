@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-pr"
 title: "Topic - Ratio - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -29,7 +29,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -910,6 +911,7 @@ Pens cost $35 \text{p}$ each. How much money will a box of $25$ pens cost?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 As per the question,
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -275,17 +275,51 @@ $5, 11, 23, 47, \boxed{\phantom{11}}, \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} }
-&&  \footnotesize {\maroonC {(+12)} }
-&&  \footnotesize {\maroonC {(+24)} }
-&&  \footnotesize {\maroonC {(+48)} }
-&&  \footnotesize {\maroonC {(+96)} }  \\
+&   \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }
+&&  \footnotesize {\maroonC
+ {(+96)} }  \\
+5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}          &= 47 + 48 \\\\
+                             &= 95 \\\\
+\text{Second number}         &= 95 + 96 \\\\
+                             &= 191
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }
+&&  \footnotesize {\maroonC
+ {(+96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
 $
@@ -529,7 +563,8 @@ $
 
 Using the calculation above,
 
-$19 \times 3 \ \quad \boxed{\green{>}}  \quad  28 \times 2$
+$19 \times 3 \ \quad \boxed{\green
+{>}}  \quad  28 \times 2$
 
 </div>
 </div>
@@ -622,6 +657,7 @@ tpercentage
 Draw lines from the centre to help you shade $20\%$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -879,6 +915,7 @@ Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -920,6 +957,7 @@ Claire and Erin play a similar game.
 They record their results in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 
 Work out what Erin does to each number that Claire calls out.
@@ -1135,6 +1173,7 @@ The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1319,7 +1358,8 @@ Mrs King asked all the children in Year $6$ if they play tennis.
 
 This table shows some of the results.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1649,6 +1689,7 @@ In a magic square, the sum of the numbers in each row, each column and each diag
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write numbers in the pale grey squares to complete this magic square.
 
 </div>
@@ -1893,6 +1934,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2009,6 +2051,7 @@ What number is indicated by the arrow on the scale?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2060,6 +2103,7 @@ One side of the parallelogram, which is **not** a rectangle, is drawn for you.
 Complete the drawing of the parallelogram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2119,7 +2163,8 @@ Let's calculate the first value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {6}
 \end{aligned}
 $
@@ -2128,7 +2173,8 @@ Let's calculate the second value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
@@ -2180,6 +2226,7 @@ tsymmetry
 Reflect the shaded shape in the mirror line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2237,7 +2284,8 @@ tgraph
 
 In the long jump competition, children recorded their results in a bar chart:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2803,6 +2851,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2942,6 +2991,7 @@ tpercentage
 The diagram below shows information about the girls in Year $6$ who play in the hockey team and/or the netball team.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3152,6 +3202,7 @@ The diagram shows two squares. The larger square has perimeter $16 \ \text{cm}$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 What is the **area** of the smaller, white square?
 
 </div>
@@ -3214,6 +3265,7 @@ $10 \ \text{cm}$ due south of $A$.
 Below is an accurate diagram of Bertie’s route.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3354,6 +3406,7 @@ A matchbox measures $1 \ \text{cm}$ high, $3 \ \text{cm}$ wide and $5 \ \text{cm
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3483,6 +3536,7 @@ tgraph
 A rhombus has been drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The co-ordinates of three points are listed below.
 
@@ -3614,6 +3668,7 @@ Here is a pattern made with small equilateral triangles using centimetre dotted 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3651,6 +3706,7 @@ TODOANSWER
 Complete pattern $4$ on the isometric paper below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3691,6 +3747,7 @@ TODOANSWER
 Complete the table showing the number of lines, dots and small triangles in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4043,6 +4100,7 @@ In the tower of bricks below, the number on a brick is the **sum** of the number
 ![missing image](/papers/missing_image.svg)
 
 
+
 What number is on the top brick?
 
 </div>
@@ -4084,6 +4142,7 @@ TODOANSWER
 In the tower of bricks below, the number on a brick is the **product** of the two bricks supporting it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 What number is on the top brick?
@@ -4129,6 +4188,7 @@ In the tower of bricks below, the number on a brick is the product of the two br
 The number on the top brick is $72$ and the numbers on the bricks are all different whole numbers.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What number is on the middle brick in the bottom row?
 
@@ -4408,6 +4468,7 @@ Write a different number (choosing from $1$ to $9$) in each section of the spinn
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4450,6 +4511,7 @@ Write a different number (choosing from $1$ to $9$) in each section of the spinn
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4491,6 +4553,7 @@ When spinner $C$ is spun there is an equal chance of getting a cube number or a 
 Write a different number (choosing from $1$ to $8$) in each section of the spinner.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

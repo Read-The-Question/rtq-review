@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -445,6 +445,7 @@ How many matchsticks would she need to make a row of $7$ squares?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -561,6 +562,7 @@ Sahij has made a rectangular slab of flapjack: $20 \ \text{cm}$ by $40 \ \text{c
 He is not sure what size flapjacks made from it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1121,6 +1123,7 @@ Complete this subtraction pyramid, where number in the boxes  are the difference
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1176,6 +1179,7 @@ A cube has $8$ vertices (corners), $6$ faces and $12$ edges.
 How many vertices, faces and edges does the L-shape have?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2103,6 +2107,7 @@ How many blocks did he use?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2385,6 +2390,7 @@ He only ever walks north (up the map) or east (to the right of the map).
 How many different possible routes are there?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

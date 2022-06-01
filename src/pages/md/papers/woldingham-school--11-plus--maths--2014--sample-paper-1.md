@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -709,6 +709,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -765,6 +766,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 
@@ -1099,11 +1101,13 @@ Look at the triangle ABC, drawn on a square grid.
 
 
 
+
 Here are some statements about triangle ABC. 
 
 For each statement tick $(\checkmark )$ True or False.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The triangle is isosceles.
 
@@ -1171,6 +1175,7 @@ tinfer
 A bottle contains $250\,ml$ of cough mixture.
 
 ![missing image](/papers/missing_image.svg)
+
 
 **One adult** and **one child** need to take cough mixture **4 times a day** every day for **5 days**. 
 
@@ -1394,11 +1399,17 @@ Here is a shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I turn the shape through **45° clockwise**. 
 
 Tick $(\checkmark)$ the diagram that shows the shape **after** the turn.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1879,6 +1890,7 @@ Here are three numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show that the **mean** of these three numbers is **7**
 
 </div>
@@ -1929,6 +1941,7 @@ Write them on the cards below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1971,6 +1984,7 @@ Write them on the cards below.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2031,7 +2045,10 @@ tinfer
 
 These patterns are made with matchsticks.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 Every pattern is made with an odd number of matchsticks.
 
@@ -2526,11 +2543,15 @@ Here are five containers:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Water is poured at a constant rate into **three** of the containers. 
 
 The graphs show the **depth** of water as the containers fill up.
 
-![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 Fill in the gaps below to show which container matches each graph.
 

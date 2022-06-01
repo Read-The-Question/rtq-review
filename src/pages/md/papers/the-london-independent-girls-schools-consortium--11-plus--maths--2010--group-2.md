@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,10 +20,7 @@ date: 2022-06-01 14:18:26
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -75,10 +72,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -130,10 +124,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -183,10 +174,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -238,10 +226,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -293,10 +278,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -305,6 +287,7 @@ todo
 There is some coloured water in the jar.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How much  **more** water is needed to make $2 \ \text{litres}$?
 
@@ -350,10 +333,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -518,10 +498,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -532,6 +509,7 @@ Which of tiles $A, B, C, D$ or $E$ could be removed so that
 the perimeter remained the same? Circle your answer. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -575,10 +553,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -630,10 +605,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -686,10 +658,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -739,10 +708,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -798,10 +764,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -819,6 +782,7 @@ Of these, $42$ were Persians.
 Use this information to complete this table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -862,10 +826,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -919,10 +880,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -932,6 +890,7 @@ The pupils in a Mathematics class were asked which sport they enjoyed
 the most. The answers given are shown in the bar graph below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1053,10 +1012,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1108,10 +1064,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1122,10 +1075,12 @@ The **area** of the **small** shaded square is $1 \ \text{square centimetre}$.
 What is the **area** of the **larger** shaded square?
 
 ![missing image](/papers/missing_image.svg)
+
  
 In the grid below, draw a **square** with an **area** of $2 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1169,10 +1124,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1183,6 +1135,7 @@ by a school football team. They lost $25 \%$ of their games
 and won and drew an equal number of games.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many games were:
 
@@ -1305,10 +1258,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1362,10 +1312,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1374,6 +1321,7 @@ todo
 Mrs Jones prints books.
 
 ![missing image](/papers/missing_image.svg)
+
 
 **PRINT CHARGES**
 
@@ -1427,10 +1375,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1440,9 +1385,11 @@ This is a right angled triangular tile:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write how many of these tiles you can fit into each of the following shapes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1486,10 +1433,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1500,9 +1444,11 @@ the sides are the sum of the numbers at the ends.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the missing numbers for this triangle:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1546,10 +1492,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1676,10 +1619,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1731,10 +1671,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1787,10 +1724,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1799,6 +1733,7 @@ todo
 The diagram shows the number of paths from Queton to Toytown through Rowton or Seton.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many different ways are there of getting from 
 Queton to Toytown if you can only go from left to right?
@@ -1845,10 +1780,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -1857,6 +1789,7 @@ todo
 Here is a number pattern:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2092,10 +2025,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2195,10 +2125,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2258,10 +2185,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2315,10 +2239,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2369,10 +2290,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2427,10 +2345,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2441,6 +2356,7 @@ A wheel has $3$ different colours painted on its rim, red $(R)$, green $(G)$ and
 As it turns, a pattern is left on the ground.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The first mark is yellow, and the second mark is red, so the pattern left on the ground will be:
 
@@ -2613,10 +2529,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2627,6 +2540,7 @@ Some marbles are released through this network from $S$.
 At each of the junctions, half of the marbles flow in each direction.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2747,10 +2661,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2806,10 +2717,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2822,6 +2730,7 @@ Work out the perimeter of the following shape.
 The shape is **not** drawn accurately.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2865,10 +2774,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2923,10 +2829,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -2935,6 +2838,7 @@ todo
 Use each number from $1$ to $8$ once in the boxes to make all the calculations correct:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2978,10 +2882,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3124,10 +3025,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3138,6 +3036,7 @@ When you add up the value of all the symbols you get
 the total value for that row or column. Find the value of each symbol.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3181,10 +3080,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>
@@ -3193,6 +3089,7 @@ todo
 A square grid is separated into 16 small squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many ways can two squares be shaded so that the grid 
 has symmetry about the diagonal line $AC$ if
@@ -3315,6 +3212,7 @@ the two diagonal lines, $AC$ and $BD$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3360,10 +3258,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tduplicatepaper
 </li>
 </ul>
 </div>

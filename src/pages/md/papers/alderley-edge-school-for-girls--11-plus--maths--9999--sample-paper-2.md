@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1386,6 +1386,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 Let the height of the second triangle $= a$.
 
 As per the question,
@@ -1618,13 +1619,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1684,9 +1688,11 @@ The square grid shows a rectangle reflected in **two mirror lines**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the square grid below, show the triangle reflected in the two mirror lines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2067,11 +2073,13 @@ Here is a shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I turn the shape through $45 \degree$ **clockwise**.
 
 Tick $(\checkmark)$ the diagram that shows the shape **after** the turn. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2293,6 +2301,7 @@ tstatistics
 The table shows the avergae length of prega=nancy for different mammals.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Use the information to answer these questions.
 
@@ -2603,6 +2612,7 @@ For each shape on the left, draw a **rectangle** that has the same area.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2666,6 +2676,7 @@ Match each statement with the correct expression for the amount in pence.
 The first on is done for you.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2763,17 +2774,21 @@ The diagram shows information about this square labelled A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I fold square $A$ **in half** to make rectangle $B$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Then I fold rectangle $B$ **in half** to make square $C$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table below to show the area and perimeter of each shape.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2832,6 +2847,7 @@ tunitprompt
 Here are two containers and the amounts they hold
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which container holds the greater amounts?
 
@@ -3017,6 +3033,7 @@ She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 She puts one more box on top of the pile.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the height of the pile of **five** boxes.
 
@@ -3320,6 +3337,7 @@ Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3616,9 +3634,11 @@ The diagram shows a square with a **perimeter** of $12 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Six of these squares fit together to make a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the **area** of the rectanlge?
 
@@ -3675,6 +3695,7 @@ tpercentage
 The table shows whether pupils in a class walk to school.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4123,6 +4144,7 @@ Write an expression for the length of **one** of its sides.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4410,6 +4432,7 @@ $ABD$ is an **isosceles** triangle where $AB = AD$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles $x, y$ and $z$.
 
 Give reasons for your answers.
@@ -4473,6 +4496,7 @@ Kaylee has some $1 \ \text{cm}$ cubes.
 She makes a solid cube with side length $6 \ \text{cm}$ out of the cubes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Then she uses all these cubes to make some cubes with side length $2 \ \text{cm}$.
 
@@ -4566,6 +4590,7 @@ Bags $A$ and $B$ contain some counters.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bag A: $6y + 1$ counters
 
 Bage B: $4y + 7$ counters
@@ -4613,6 +4638,7 @@ TODOANSWER
 Bag $C$ contains more counters than bag $D$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Bag C: $4k$ counters
 

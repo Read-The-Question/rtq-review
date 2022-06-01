@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ad-g0"
 title: "Reviewer - Arun Dalakoti - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1781,6 +1781,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
 -  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
 -  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
@@ -1845,6 +1846,7 @@ tsimpleword
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded parallelogram?
 
@@ -1912,6 +1914,7 @@ talgebra
 Find the missing angles $a \degree$ and $b \degree$ :
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  $a = 48 \degree, \ b = 53 \degree$
 -  $a = 48 \degree, \ b = 63 \degree$
@@ -2415,6 +2418,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - P = $9 \ \text{cm}$, A = 14cm2
 %format% - P = $14 \ \text{cm}$, A = 18cm2
 %format% - P = $18 \ \text{cm}$, A = 14cm2
@@ -2477,6 +2481,7 @@ tsimpleword
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded parallelogram?
 
@@ -2544,6 +2549,7 @@ talgebra
 Find the missing angles a ̊and b ̊:
 
 ![missing image](/papers/missing_image.svg)
+
 
 %format% - a = 48o, b = 53o
 %format% - a = 48o, b = 63o
@@ -2795,6 +2801,7 @@ You can buy a new calculator for $\bold{\pounds 1.25}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
 
 How much did the same type of calculator cost in 1979?
@@ -2853,6 +2860,7 @@ tnoexplanation
 How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3220,7 +3228,8 @@ talgebra
 
 Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3274,6 +3283,7 @@ tareaperimeter
 A right angled triangle is shown below. It is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3708,6 +3718,7 @@ tnoexplanation
 What is the reading on the measuring cylinder
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4253,7 +4264,8 @@ $
     &       &                         5   &   6 \\
 {}+ &  9    &                         7   &   5 \\
 \hline
-  1 &  0    & \maroonC {3}   &   1
+  1 &  0    & \maroonC
+ {3}   &   1
 \end{array}
 $
 
@@ -4286,7 +4298,8 @@ $0.35 + 1.{?}7 = 2.22$
 $
 \begin{array}{cccccc}
     &   0 \ . &                         3   &   5 \\
-{}+ &   1 \ . & \maroonC {8}   &   7 \\
+{}+ &   1 \ . & \maroonC
+ {8}   &   7 \\
 \hline
     &   2 \ . &                         2   &   2
 \end{array}
@@ -4320,7 +4333,8 @@ $9{?}5 - 128 = 777$
 
 $
 \begin{array}{cccccccccccccc}
-    &  9    & \maroonC {0}    &   6 \\
+    &  9    & \maroonC
+ {0}    &   6 \\
 {}- &  1    &                          2   &   8 \\
 \hline
     &  7    &                          7   &   1
@@ -4394,7 +4408,8 @@ $13 \times 1{?}1 = 1703$
 $
 \begin{array}{ccccccccc}
        &        &                             1   &   3 \\
-\times &    1   &     \maroonC {3}   &   1 \\
+\times &    1   &     \maroonC
+ {3}   &   1 \\
 \hline
        &        &                             1   &   3 \\
        &    3   &                             9   &   0 \\
@@ -4430,7 +4445,8 @@ $1.1 \div 2 = 0.{?}5$
 <div class='workings'>
 <div class='working'>
 
-$1.1 \div 2 = 0. \maroonC {5} 5$
+$1.1 \div 2 = 0. \maroonC
+ {5} 5$
 
 </div>
 </div>
@@ -4506,7 +4522,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-9 \maroonC {7} - 65 &= 32 \\\
+9 \maroonC
+ {7} - 65 &= 32 \\\
 \end {aligned}
 $
 
@@ -4542,7 +4559,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-39 + \maroonC {7} 8 + 50 &= 167 \\\
+39 + \maroonC
+ {7} 8 + 50 &= 167 \\\
 \end {aligned}
 $
 
@@ -4578,7 +4596,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-734 + (8 \times 2 \maroonC {7}) &= 950 \\\
+734 + (8 \times 2 \maroonC
+ {7}) &= 950 \\\
 \end {aligned}
 $
 
@@ -4929,6 +4948,7 @@ Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for 
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required
+
 
 $
 \begin{aligned}
@@ -6154,7 +6174,8 @@ $
 
 Using the calculation above,
 
-$(7 \times 5) - 4 \ \quad \boxed{\green{>}}  \quad  7 \times (5 - 4)$
+$(7 \times 5) - 4 \ \quad \boxed{\green
+{>}}  \quad  7 \times (5 - 4)$
 
 </div>
 </div>
@@ -6204,7 +6225,8 @@ $
 
 Using the calculation above,
 
-$4 + 7 \times 5 \ \quad \boxed{\green{=}}  \quad  4 + (7 \times 5)$
+$4 + 7 \times 5 \ \quad \boxed{\green
+{=}}  \quad  4 + (7 \times 5)$
 
 </div>
 </div>
@@ -6255,7 +6277,8 @@ $
 
 Using the calculation above,
 
-$4 \times 5 + 7 \ \quad \boxed{\green{=}}  \quad  (5 + 4) \times (7 - 4)$
+$4 \times 5 + 7 \ \quad \boxed{\green
+{=}}  \quad  (5 + 4) \times (7 - 4)$
 
 </div>
 </div>
@@ -6298,6 +6321,7 @@ tnumber
 Ola is looking at the scale on a thermometer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6752,6 +6776,7 @@ ttime
 Petrov wants to "listen again" to several shows on the radio and is checking the list of the broadcast times.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7286,17 +7311,53 @@ $\ldots, \quad 7020, \quad 702, \quad \ldots, \quad 7.02, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
+\ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 7020 \times 10 \\\\
+                            &= 70200 \\\\
+\text{Second number}        &= 702 \div 10 \\\\
+                            &= 70.2 \\\\
+\text{Third number}         &= 7.02 \div 10 \\\\
+                            &= 0.702
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
 \ldots,  &&    7020,  &&  702,  &&   \ldots, && 7.02,  &&  \ldots
 \end{matrix}
 $
@@ -7340,15 +7401,43 @@ $\ldots, \quad 0.64, \quad 12.8, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 20)} }
-&&  \footnotesize {\maroonC {(\times 20)} }
-&&  \footnotesize {\maroonC {(\times 20)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }  \\
+\ldots,  &&    0.64,  &&  12.8,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 0.64 \div 20 \\\\
+                            &= 0.032 \\\\
+\text{Second number}        &= 12.8 \times 20 \\\\
+                            &= 256
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }
+&&  \footnotesize {\maroonC
+ {(\times 20)} }  \\
 \ldots,  &&    0.64,  &&  12.8,  &&  \ldots
 \end{matrix}
 $
@@ -7390,17 +7479,54 @@ $\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldot
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }
-&&  \footnotesize {\maroonC {(- \dfrac {1} {4})} }  \\
+&   \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }  \\
+\ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {3} {4} + \dfrac {1} {4} \\\\
+                            &= \dfrac {4} {4} \\\\
+                            &= 1 \\\\
+\text{Second number}        &= \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                            &= 0 \\\\
+\text{Third number}         &= 0 - \dfrac {1} {4} \\\\
+                            &= - \dfrac {1} {4}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {4})} }  \\
 \ldots,  &&    \dfrac {3} {4},  && \dfrac {1} {2},  &&   \dfrac {1} {4}, &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -7445,15 +7571,45 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }
-&&  \footnotesize {\maroonC {(+ \dfrac {1} {6})} }  \\
+&   \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }  \\
+\dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                            &= \dfrac {5} {6} \\\\
+\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
+                            &= 0
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }
+&&  \footnotesize {\maroonC
+ {(+ \dfrac {1} {6})} }  \\
 \dfrac {2} {3},  && \ldots,  &&   \ldots, &&  1 \dfrac {1} {6}
 \end{matrix}
 $
@@ -7497,16 +7653,48 @@ $18, \quad 6, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }
-&&  \footnotesize {\maroonC {(\div 3)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }  \\
+18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}         &= 2 \div 3 \\\\
+                            &= \dfrac {2} {3} \\\\
+\text{Second number}        &= \dfrac {2} {3} \div 3 \\\\
+                            &= \dfrac {2} {3} \times \dfrac {1} {3} \\\\
+                            &= \dfrac {2} {9}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }
+&&  \footnotesize {\maroonC
+ {(\div 3)} }  \\
 18,  &&    6,  &&    2,  &&   \ldots, &&  \ldots
 \end{matrix}
 $
@@ -7899,6 +8087,7 @@ He collected a number of different promises, from his family, on his sponsor for
 
 ![missing table](/papers/missing_table.svg)
 
+
 He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 
 </div>
@@ -8099,6 +8288,7 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8284,7 +8474,9 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
+57 &= \maroonC
+ {19} \times \maroonC
+ {3}
 \end{aligned}
 $
 
@@ -8316,7 +8508,9 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
+91 &= \maroonC
+ {13} \times \maroonC
+ {7}
 \end{aligned}
 $
 
@@ -9154,7 +9348,9 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+$\maroonC
+ {7 ^ 2} - \maroonC
+ {4 ^ 2} = 33$
 
 </div>
 </div>
@@ -9397,6 +9593,7 @@ tprobability
 This diagram shows the reults of a class survey concerning pets.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How many children have at least one pet?
 
@@ -9872,6 +10069,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with a $D$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $C$ on it?
@@ -9886,7 +10084,8 @@ Total cards with D left after one card is removed $4 - 1 = 3$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
                     &= \dfrac {4} {15}
 \end{aligned}
@@ -9977,6 +10176,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $E$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $F$ on it?
@@ -9991,7 +10191,8 @@ Total cards with D left after one card is removed $3 - 1 = 2$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
                     &= \dfrac {2} {15}
 \end{aligned}
@@ -10088,7 +10289,8 @@ What is the probability of picking a green counter?
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
                     &= \dfrac {7} {15}
 \end{aligned}
@@ -10181,6 +10383,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $F$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $E$ on it?
@@ -10195,7 +10398,8 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
@@ -11311,6 +11515,7 @@ tareaperimeter
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12295,7 +12500,8 @@ Calculate the missing angles.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -12334,7 +12540,8 @@ $91 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -12612,6 +12819,7 @@ The formula for the area of a circle is $A = \pi r^2$. For the following task us
 A circle of radius $10 \ \text{cm}$ is inscribed inside a square as shown. Find the area of the shaded region. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13210,6 +13418,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13241,6 +13450,7 @@ What is the area covered by Mr Green's lawn?
 <div class='working'>
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -13335,11 +13545,13 @@ How many paving stones are needed to pave the patio?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The patio measurements is given in metres while the paving stones measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -13635,7 +13847,8 @@ tareaperimeter
 
 Calculate the perimeter of this shape stating your units very carefully.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -19169,16 +19382,47 @@ $5, 8, 11, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 11 + 3 \\\\
+                               &= 14 \\\\
+\text{Second missing number}   &= 14 + 3 \\\\
+                               &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 5,  &&    8,  &&  11,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -19218,16 +19462,47 @@ $4, 8, 16, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 16 \times 2 \\\\
+                                &= 32 \\\\
+\text {Second missing number}   &= 32 \times 2 \\\\
+                                &= 64
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 4,  &&    8,  &&  16,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -19267,16 +19542,47 @@ $100, 90, 80, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-10$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}
-&&  \footnotesize{\maroonC{(-10)}}  \\
+&   \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}  \\
+100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {First missing number}    &= 80 - 10 \\\\
+                                &= 70 \\\\
+\text {Second missing number}   &= 70 - 10 \\\\
+                                &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-10$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}
+&&  \footnotesize{\maroonC
+{(-10)}}  \\
 100,  &&    90,  &&  80,  &&  \ldots,   &&  \ldots
 \end{matrix}
 $
@@ -20779,7 +21085,8 @@ tmoney
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -20884,6 +21191,7 @@ Write down the fraction shaded. Where possible give the fraction in its simplest
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20913,6 +21221,7 @@ $\dfrac{3}{4}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21478,6 +21787,7 @@ Find the area and perimeter of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21959,7 +22269,8 @@ $\pounds 1.28 + 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -22008,7 +22319,8 @@ $\pounds 1.28 - 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -22132,7 +22444,8 @@ Express $51 \ \text{km}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -22168,7 +22481,8 @@ Express $510 \ \text{cm}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -23450,6 +23764,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -24440,6 +24755,7 @@ She has $144$ British stamps and $68$ foreign stamps.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25253,6 +25569,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25316,6 +25633,7 @@ Alex puts his photographs in an album. $6$ photographs fit on each page.
 How many pages does he use?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26280,9 +26598,11 @@ ttemperature
 
 The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26992,7 +27312,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 
@@ -27466,6 +27787,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -27732,6 +28054,7 @@ ttemperature
 The thermometers below show the temperatures, in $\degree \text{C}$, inside a fridge and a freezer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28165,7 +28488,8 @@ What was the price of the **cheaper** book?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\pounds$.
 
 Let the cost of one book $= a$.
 
@@ -28280,16 +28604,45 @@ $5.4, \quad 5.8, \quad 6.2, \quad 6.6, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+0.4)} } 
-&&  \footnotesize {\maroonC {(+0.4)} }  
-&&  \footnotesize {\maroonC {(+0.4)} }   
-&&  \footnotesize {\maroonC {(+0.4)} }  \\
+&   \footnotesize {\maroonC
+ {(+0.4)} } 
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  
+&&  \footnotesize {\maroonC
+ {(+0.4)} }   
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  \\
+5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}        &= 6.6 + 0.4 \\\\
+                          &= 7.0
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+0.4)} } 
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  
+&&  \footnotesize {\maroonC
+ {(+0.4)} }   
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  \\
 5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
 \end{matrix}
 $
@@ -28327,14 +28680,37 @@ $1.3, \quad 1.23, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.07$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-0.07)} }   
-&&  \footnotesize {\maroonC {(-0.07)} }  \\
+&   \footnotesize {\maroonC
+ {(-0.07)} }   
+&&  \footnotesize {\maroonC
+ {(-0.07)} }  \\
+1.3,  &&    1.23, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}        &= 1.23 - 0.07 \\\\
+                          &= 1.16
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.07$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-0.07)} }   
+&&  \footnotesize {\maroonC
+ {(-0.07)} }  \\
 1.3,  &&    1.23, && \ldots
 \end{matrix}
 $
@@ -28379,18 +28755,53 @@ $\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)} } 
-&&  \footnotesize {\maroonC {(+4)} }  
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+4)} }  \\
+&   \footnotesize {\maroonC
+ {(+4)} } 
+&&  \footnotesize {\maroonC
+ {(+4)} }  
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
+\ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Seventh term in the sequence}        &= 18 + 4 + 4 \\\\
+                                           &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} } 
+&&  \footnotesize {\maroonC
+ {(+4)} }  
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
 \ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
 \end{matrix}
 $
@@ -28526,6 +28937,7 @@ Write the time her clock actually shows, using the $12$-hour clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -28592,6 +29004,7 @@ $19{:}15$
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -28716,6 +29129,7 @@ Field crickets chirp according to the temperature of their surroundings.
 You can use the following rule to work out the temperature:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -29270,6 +29684,7 @@ $0.7 \quad 0.04 \quad 1.006$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   7   &   0   &   0 \\
@@ -29320,16 +29735,45 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-7)} } 
-&&  \footnotesize {\maroonC {(-7)} }  
-&&  \footnotesize {\maroonC {(-7)} }   
-&&  \footnotesize {\maroonC {(-7)} }  \\
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+94,  &&    \ldots,  &&  80,  &&   73, && 66
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}        &= 94 - 7 \\\\
+                             &= 87
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
 94,  &&    \ldots,  &&  80,  &&   73, && 66
 \end{matrix}
 $
@@ -29798,7 +30242,9 @@ The prices for coffee beans and ground coffee are shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
 
@@ -29912,6 +30358,7 @@ What was the original mass of the chocolate bar?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29976,6 +30423,7 @@ Callum buys a new laptop costing $\pounds 572.50$
 He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$ equal monthly amounts.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How much is each monthly amount?
 
@@ -30235,6 +30683,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -30447,6 +30896,7 @@ What is the actual time on the clock?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -30493,7 +30943,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30566,6 +31018,7 @@ The diagram below is made from a number of equilateral triangles.
 How many equilateral triangles (of any size) can be found in the diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30999,17 +31452,51 @@ $5, 11, 23, 47, \boxed{\phantom{11}}, \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} }
-&&  \footnotesize {\maroonC {(+12)} }
-&&  \footnotesize {\maroonC {(+24)} }
-&&  \footnotesize {\maroonC {(+48)} }
-&&  \footnotesize {\maroonC {(+96)} }  \\
+&   \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }
+&&  \footnotesize {\maroonC
+ {(+96)} }  \\
+5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}          &= 47 + 48 \\\\
+                             &= 95 \\\\
+\text{Second number}         &= 95 + 96 \\\\
+                             &= 191
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }
+&&  \footnotesize {\maroonC
+ {(+96)} }  \\
 5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
 \end{matrix}
 $
@@ -31253,7 +31740,8 @@ $
 
 Using the calculation above,
 
-$19 \times 3 \ \quad \boxed{\green{>}}  \quad  28 \times 2$
+$19 \times 3 \ \quad \boxed{\green
+{>}}  \quad  28 \times 2$
 
 </div>
 </div>
@@ -31999,6 +32487,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32115,6 +32604,7 @@ What number is indicated by the arrow on the scale?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32163,7 +32653,8 @@ Let's calculate the first value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {6}
 \end{aligned}
 $
@@ -32172,7 +32663,8 @@ Let's calculate the second value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
@@ -32522,6 +33014,7 @@ Amira checks the time when she sets off on her journey to school in the morning.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32661,6 +33154,7 @@ tsimpleword
 All the measurements in the following diagram are given in centimetres
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -33261,7 +33755,27 @@ $2.3, \quad 3.4, \quad 4.7, \quad 6.2, \quad \ldots, \quad 9.8$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+1.1)}} 
+&&  \footnotesize {\maroonC {(+1.3)}}  
+&&  \footnotesize {\maroonC {(1.5)}}   
+&&  \footnotesize {\maroonC {(+1.7)}}  
+&&  \footnotesize {\maroonC {(+1.9)}} \\
+2.3,  &&    3.4,  &&    4.7,  &&   6.2,  &&   \ldots,  &&   9.8
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 6.2 + 1.7 \\\\
+                        &= 7.9
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -33534,6 +34048,7 @@ Add together $6.37, 10.04$ and $203$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -34158,11 +34673,14 @@ tsimpleword
 
 The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 They are joined together to make a new shape. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of this new shape? 
 
@@ -34218,6 +34736,7 @@ tmoney
 Alison went to the supermarket. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 She bought two cans of cola costing $53 \text{p}$$ each, three packets of crisps costing $27 \text{p}$$ each and a large bar of chocolate that costs $$\pounds 1.24$.
 
@@ -34281,6 +34800,7 @@ tmoney
 <div class='question question'>
 
 Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
 
 Children are admitted at half price.
 
@@ -34357,6 +34877,7 @@ talgebra
 $\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
 
 ![missing image](/papers/missing_image.svg)
+
 
 how many are white chocolate?   
 
@@ -34461,6 +34982,7 @@ tsimpleword
 
 ![missing image](/papers/missing_image.svg)
 
+
 A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
 
 What is the area of the pond?
@@ -34534,7 +35056,8 @@ tareaperimeter
 
 It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
 
-![missing image](/papers/missing_image.svg)                                                     
+![missing image](/papers/missing_image.svg)
+                                                     
 
 </div>
 <div class='workings'>
@@ -34904,6 +35427,7 @@ Find the total area of the shaded regions. *The diagram is not drawn accurately*
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -35144,6 +35668,7 @@ Calculate the value of angle $x$.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -35543,7 +36068,9 @@ How many small triangles would fit exactly into the larger rectangle?
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -35551,11 +36078,13 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
 
 Let's convert the rectangle measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -35845,6 +36374,7 @@ The rectangle and triangle below have the same height.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
 
 </div>
@@ -35984,6 +36514,7 @@ The diagram below represents a rectangular grass lawn surrounded by a gravel pat
 What is the cost of gravel required to cover the path?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -36379,6 +36910,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -36435,6 +36967,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 

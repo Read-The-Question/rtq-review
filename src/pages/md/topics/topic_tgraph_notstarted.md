@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-notstarted"
 title: "Topic - Graph - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,6 +57,7 @@ TODOANSWER
 Plot these points on the axes below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -190,6 +191,7 @@ Dillan wrote down how many pages he read over the past $5$ days.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the median of the number of pages which he read?
 
 </div>
@@ -231,6 +233,7 @@ TODOANSWER
 Some students compared the number of pets which they had. The results are displayed below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the range of the number of pets owned.
 
@@ -288,7 +291,9 @@ tgraph
 The pie charts show the results of a cycling test taken by all pupils in year $7$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -454,6 +459,7 @@ Plot these points on the axes below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -546,6 +552,7 @@ tgraph
 A survey was carried out to see what colour cars people owned. Here are the results:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -685,6 +692,7 @@ tinfer
 I put square tiles on a large grid so that the tiles touch at the corners. The diagram shows part of my diagonal pattern.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -842,6 +850,7 @@ I have $\bold{30}$ **tiles** to make a pattern on a grid. The pattern is a serie
 
 ![missing image](/papers/missing_image.svg)
 
+
 I have used some of the $30$ tiles to make my pattern.
 Do I have enough tiles to make the **next square**, of side length $4$?
 Show working to explain your answer.
@@ -903,6 +912,7 @@ She asked some students in year $9$ which types of film they liked best.
 She used the results to draw this pie chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1087,6 +1097,7 @@ tdraw
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1216,6 +1227,7 @@ tareaperimeter
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The point $A (4,1)$ has been marked.
 
@@ -1423,6 +1435,7 @@ tgraph
 This graph shows the progress of two cars in a race from Leeds to Blackpool and back again. Car $A$ is the bold line. Car $B$ is the dotted line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1742,7 +1755,8 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1873,6 +1887,7 @@ tareaperimeter
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The point $A (2,1)$ has been marked.
 
@@ -2080,6 +2095,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 This graph shows the depth of water in Grandma’s bath one evening. Label each section of the graph with one of the following letters. Some letters may appear more than once on your graph
 
 A - Both the hot and cold taps are running
@@ -2146,6 +2162,7 @@ Each year a school has a quiz between two teams, North and South.
 The diagram shows the results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2275,6 +2292,7 @@ tgraph
 The bar chart shows the numbers of patients (adults and children) seen by Dr Patel in June and July.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2482,6 +2500,7 @@ Write down the coordinates of point $A$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2574,6 +2593,7 @@ tgraph
 The bar chart shows the favourite cold drinks of the students in Class $6A$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2782,6 +2802,7 @@ Shape $ABCD$ is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What are the coordinates of point D?
 
 </div>
@@ -2821,6 +2842,176 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>43F84204-42F8-4724-B79B-7274620519B8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Maria and Kay ran a $1500 \ \text{metres}$ race.
+
+The graph shows information about the race.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For how many minutes was Kay in the lead?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+After how many metres were they level during the race?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who won the race?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>211A5FCF-4F61-45F5-A728-04F4F08A4EC3</p>
 </div>
 <div class='topics'>
@@ -2842,6 +3033,7 @@ The table below shows the results of a survey in which $60$ boys
 were asked what colour of dress girls should wear.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What percentage of boys thought *girls* should wear pink?
 
@@ -2897,6 +3089,7 @@ A group of students were asked to name their favourite subject at school.
 The results of the survey are shown on the graph on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3102,6 +3295,7 @@ tgraph
 The graph below shows how Ben and Anne travelled to their Grandmother’s house one weekend.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3397,6 +3591,7 @@ the perimeter of the original square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3567,6 +3762,7 @@ Plot point $E$ and write down its co-ordinates.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3621,6 +3817,7 @@ tgraph
 The graph below shows the number of buses passing the school each morning.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3868,11 +4065,15 @@ These patterns are from Islamic designs. Example
 
 ![missing image](/papers/missing_image.svg)
 
+
 Each pattern has one or more lines of symmetry.
 
 Draw all the lines of symmetry in each pattern.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3925,6 +4126,7 @@ tgraph
 The point $A$ has co-ordinates $(2,1)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the co-ordinates of $B$ and $C$?
 
@@ -3980,7 +4182,8 @@ tgraph
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4189,6 +4392,7 @@ One day, Postman Patrick recorded the number of houses which received no letters
 This bar chart shows the results:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4400,6 +4604,7 @@ The y-coordinates are negative at the bottom and poitive at the top.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4530,6 +4735,7 @@ tgraph
 The graph shows the average heights of young children.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4683,6 +4889,7 @@ This formula tells you how tall a boy is likely to be when he grows up.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
 
 What is the **greatest** height Marc is likely to be when he grows up? 
@@ -4780,6 +4987,7 @@ P is the **midpoint** of line AB.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What are the coordinates of point **P**?
 
 P is (....., .....)
@@ -4825,6 +5033,7 @@ Q is the **midpoint** of line MN.
 The coordinates of Q are $( 30, 50 )$
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the c-oordinates of points **M** and **N**? 
 
@@ -4872,6 +5081,138 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>04D4F515-2903-4E39-8006-27D56222DCEA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a bar chart.
+
+![missing image](/papers/missing_image.svg)
+
+
+The bar for strawberry is missing! Mr Gauss spent $\pounds 15$ on Strawberry ice cream. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw a bar to show how much Mr Gauss spent on Strawberry ice cream.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did Mr Gauss spend on Vanilla Ice Cream?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A17DBD1B-AF36-43CC-9F8D-8BBCF318210D</p>
 </div>
 <div class='topics'>
@@ -4888,6 +5229,7 @@ I asked $48$ year $7$ students what their favourite food was.
 The results are shown in this pie chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5062,6 +5404,7 @@ On the coordinate grid below each small square represents $1 \ \text{cm}$ by $1 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5231,6 +5574,7 @@ The results are shown in the bar chart.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5381,7 +5725,9 @@ The table and the bar chart have not been completed.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5626,6 +5972,7 @@ The diagram shows a grid with the co-ordinates marked for three points.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5752,6 +6099,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The graph shows the height of the tide, measured in metres, starting at noon.
 
@@ -5924,6 +6272,7 @@ The graph shows her distance from the bank at different times from the start.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6094,6 +6443,7 @@ The pie chart and table show the answere given by $80$ people to a survey about 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6263,6 +6613,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 The bar chart shows the number of animals on a farm.
 
 How many more sheep are there than pigs?
@@ -6316,6 +6667,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The chart shows the number of pupils choosing their favourite colours.
 
@@ -6379,6 +6731,7 @@ The ages of the members of a club are given on the histogram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many members were aged $25$ or older?
 
 </div>
@@ -6430,6 +6783,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The bar chart shows which pets children have.
 
@@ -6484,6 +6838,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The chart shows the number of pupils choosing their favourite colours.
 
@@ -6547,6 +6902,7 @@ The ages of the members of a club are given on the histogram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many members were aged $25$ or younger?
 
 </div>
@@ -6598,6 +6954,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the coordinates of the centre of the square?
 
@@ -6652,6 +7009,7 @@ tgraph
 The chart below shows the number of children in classes 5S and 5 \text{p}$ who live up to $\dfrac{1}{2}$ mile and more than $\dfrac{1}{2}$ mile from school.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more children in class 5 \text{p}$ than 5S live less than $\dfrac{1}{2}$ mile from school?
 
@@ -6711,6 +7069,7 @@ tangle
 
 ![missing table](/papers/missing_table.svg)
 
+
 A pie chart is drawn to show children’s favourite colour using the table above. What size angle would represent Red?
 
 </div>
@@ -6763,6 +7122,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 $180$ children were surveyed as to their favourite pastime. The results are in the pie chart above. How many children prefer computers?
 
 </div>
@@ -6814,6 +7174,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The bar chart shows which pets children have.
 
@@ -6868,6 +7229,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The chart shows the number of pupils choosing their favourite colours.
 
@@ -6931,6 +7293,7 @@ The ages of the members of a club are given on the histogram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many members were aged $25$ or older?
 
 </div>
@@ -6982,6 +7345,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 During which month are there the most birthdays?
 
@@ -7035,6 +7399,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which point has coordinates $(2, 1)$ ?
 
 </div>
@@ -7086,6 +7451,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 $40$ students were asked which was their favourite colour. How many students chose Yellow?
 
@@ -7142,6 +7508,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 What would be the coordinates of $D$ if the shape above was reflected in the y-axis?
 
 </div>
@@ -7195,6 +7562,7 @@ tgraph
 The pie chart below represents data collected in a survey by a PE teacher about the favourtie sports of a sample of school children.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7347,6 +7715,7 @@ tgeometry
 On the axes below, point $A$ has coordinates $(3,1)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7717,6 +8086,7 @@ Complete the table and bar chart for the students' findings.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7823,7 +8193,8 @@ tgeometry
 
 $A, B$ and $C$ are three points on a grid. $A$ is at $(5,2) B$ is at $(4,5)$ and $C$ is at $(3,0)$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8085,6 +8456,7 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8221,6 +8593,7 @@ $A$ has co-ordinates $(-2,4)$ and $B$ has co-ordinates $(-4,1)$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8350,7 +8723,8 @@ tgraph
 The pie chart below represents data collected in a survey of the favourite sports of a sample of school children. 
 Note that, between them, Rugby and Football were favourite of half of the children surveyed.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -8567,6 +8941,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8736,6 +9111,7 @@ Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling ea
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8882,6 +9258,7 @@ The table and bar chart below are to show the number of points scored by a rugby
 | Number of points scored |  25 |      |     |   9  | 23  | 30  |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9056,7 +9433,8 @@ tstatistics
 In a survey a group of children were asked how many siblings (i.e. brothers and sisters) they have. 
 No-one in the group had more than three siblings, and the results are shown in the pie chart below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9278,6 +9656,7 @@ $A, B$ and $C$ are $3$ points on a grid. $A$ is at $(5, 1), B$ is at $(1, 1)$ an
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9453,6 +9832,7 @@ $A, B$ and $C$ and $D$ are $4$ points on a grid. $A$ is at $(5, 1), B$ is at $(1
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9616,7 +9996,8 @@ tgraph
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9730,6 +10111,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 Point $D$ is the point midway between the points $C$ and $E$. Find the coordinates of the point $E$.
 
 </div>
@@ -9785,7 +10167,8 @@ tgraph
 
 The scatter plot shows the maths and science scores for $9$ pupils.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9962,7 +10345,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10248,6 +10632,7 @@ The graph below shows the times taken to walk around the school field by $5$ pup
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find:  
 
 </div>
@@ -10458,6 +10843,7 @@ mirror line, what would the new
 co-ordinate of the dot be?
 ![missing image](/papers/missing_image.svg)
 
+
 -  $(6,6)$
 -  $(7,6)$
 -  $(5,8)$
@@ -10512,6 +10898,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the axes shown $A$ is the point $(2,3)$.
 
@@ -10684,7 +11071,8 @@ Alex says "Most people prefer History"
 
 Do you agree? Explain your answer.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10865,7 +11253,8 @@ tstatistics
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -11070,7 +11459,8 @@ tgraph
 
 The bar chart shows the number of goals scored by entrants in a penalty competition.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -11354,6 +11744,7 @@ Name the quadrilateral $PQRS$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11419,6 +11810,7 @@ Complete the chart for the four missing children using the information below.
 - Steven is $20 \ \text{cm}$ taller than the shortest boy.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now answer the following questions.
 
@@ -11632,6 +12024,7 @@ The diagram shows part of my diagonal pattern.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11796,6 +12189,7 @@ Show working to explain your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11850,6 +12244,7 @@ tgraph
 The pie chart shows the favourite colour of some boys.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12138,6 +12533,7 @@ This temperature chart shows the temperature taken at $6\ \text{hour}$ intervals
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12252,6 +12648,7 @@ Show the time $1800\ \text{hours}$ in this clock face.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12316,6 +12713,7 @@ At different heights, the temperature is different.
 The graph shows information about temperatures in one month.
 
 ![missing image](/papers/missing_image.svg)
+
 
 For example:
 
@@ -12456,6 +12854,7 @@ tgraph
 The graph shows the straight line with equation $y = 3x - 4$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12629,6 +13028,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12758,6 +13158,7 @@ tgraph
 One afternoon Phil stood outside school counting the number of people in each passing car. The bar chart shows the results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12976,6 +13377,7 @@ Add an additional point to the diagram so that you form a parallelogram $ABCD$. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13027,6 +13429,7 @@ tgraph
 A class of pupils were surveyed to find out their favourite number. The results are shown in the bar chart below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13127,6 +13530,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13297,6 +13701,7 @@ tdraw
 Sarah sat by the river Thames and recorded the number of cyclists that passed by every minute. She plotted a bar chart of her results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13635,6 +14040,7 @@ The pupils in a Mathematics class were asked which sport they enjoyed the most. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13763,6 +14169,7 @@ tgraph
 The pie chart shows the results of the $96$ games played by a school football team. They lost $25\%$ of their games and won and drew an equal number of games.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many games were:
 
@@ -13897,6 +14304,7 @@ tgeometry
 Kyle has drawn a triangle ABC on this grid
 
 ![missing image](/papers/missing_image.svg)
+
 
 Holly has started to draw an identical triangle DEF.
 
@@ -14444,6 +14852,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pie chart above shows the result of a survey on the ways in which pupils travelled to school.
 
 </div>
@@ -14689,6 +15098,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the axes above the point A is $(2,1)$.
 
 </div>
@@ -14864,6 +15274,7 @@ George carries out a survey at school to find out how his school friends travel 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15038,6 +15449,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the graph paper above plot the points with coordinates and labels
 
@@ -15219,6 +15631,7 @@ An ice cream company recently carried out a survey on $120$ people to see which 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15303,6 +15716,7 @@ Draw a bar chart to represent these results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15384,6 +15798,7 @@ Using the first two columns of the table, draw a bar chart to represent these re
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15435,6 +15850,7 @@ tgraph
 Some children count the colours of $120$ cars in a car park.They then draw a pie chart to show their results.The pie chart is shown on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15564,6 +15980,7 @@ tgraph
 In the diagram below, the point 𝑃 has coordinates $(1,3)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15731,6 +16148,7 @@ tgraph
 The bar graph below shows the number of pets in each house in a street.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15900,7 +16318,8 @@ tgraph
 
 A class of $32$ students vote on their favourite colour. They then draw a pie chart to show their results. The pie chart is shown on the right. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -16030,6 +16449,7 @@ tgraph
 In the diagram below, the point A has coordinates $(2,4)$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -16198,6 +16618,7 @@ The bar graph below shows the number of cars in each household in a street.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -16365,6 +16786,7 @@ In the diagram below, the point 𝐵 has coordinates $(1,4)$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -16531,6 +16953,7 @@ tgraph
 The bar graph below shows the number of television sets in each house in a street.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -16888,7 +17311,8 @@ tsymmetry
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -17127,6 +17551,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17269,7 +17694,8 @@ tdraw
 <div class='question question'>
 
 Look at the shape on the grid below:
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -17387,6 +17813,7 @@ Now look at the diagram which shows the shape **reflected**. Put a cross on the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17426,6 +17853,7 @@ TODOANSWER
 Now look at the diagram which shows the shape **rotated** .Put a cross on the grid to show where B is rotated to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17484,7 +17912,8 @@ tstatistics
 In a survey, some football fans were asked “Who was England’s best player at the World Cup?”
 The results are shown in the chart below (with the club the player plays for in brackets).
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -17787,7 +18216,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -17991,6 +18421,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The pie chart shows the proportions of different colours of cars in a school carpark. there were $36$ black cars. How many blue cars were there?   
 
@@ -18337,7 +18768,8 @@ tgraph
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -18484,7 +18916,8 @@ tgraph
 
 Here is a coordinate grid.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -18732,6 +19165,7 @@ Write down the coordinates of a fourth point $D$ which makes the shape $ABCD$ a 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -18785,6 +19219,7 @@ The chart below shows the mileage between five places in North London. For examp
 Hampstead as $4 \ \text{miles}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Daisy lives in Hampstead and drives her son to school at Haberdashers' in the morning before continuing on to the office in Southgate. 
 She then visits her sister in Harpenden before driving home via Habs. How far does she travel altogether?
@@ -19220,6 +19655,7 @@ The y-coordinate of the centre of one of the squares in this sequence is $2177$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19276,6 +19712,7 @@ A group of people chose their preferred Olympic sport from a list of five: Athle
 The proportions choosing each sport are shown on the pie chart:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19623,6 +20060,7 @@ The scale on the right-hand side of the diagram is measured in millimetres.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19793,6 +20231,7 @@ tgraph
 The graph shows the total amount of rainfall accumulated during a particularly wet day in January $2014$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20041,6 +20480,7 @@ The price of each share on this date over the past $11$ years is shown in the ta
 
 ![missing table](/papers/missing_table.svg)
 
+
 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
 
 $\pounds 3 \pounds 4 \pounds 4.50 \pounds 5 \pounds 6 \pounds 4 \pounds 1 \pounds 1.50 \pounds 1.50 \pounds 4 \pounds 5$
@@ -20198,6 +20638,7 @@ Work out the years in which you could have bought shares and then sold them whic
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20254,6 +20695,7 @@ A group of $48$ children are asked to choose their favourite subject from a list
 The results are displayed on a pie chart:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20428,7 +20870,9 @@ An empty jug is filled with water at a constant rate. The graph shows how the he
 $t$, as the jug fills up. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 For each of the following jugs draw the graph which shows how the height of water varies with time.
 
@@ -20467,7 +20911,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20506,7 +20952,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20545,7 +20993,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20606,6 +21056,7 @@ Geoff counted the number of lorries he saw on his journey to school each day.
 The results for Monday, Tuesday, Wednesday and Thursday are shown in the pictogram. Monday
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20773,6 +21224,7 @@ tgraph
 Here is a map of Secret Island.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21030,6 +21482,7 @@ $(2, 2) \quad (6,2) \quad (4,4)$
 (The first one has already been done for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21367,6 +21820,7 @@ Here is a bar chart showing his results:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21483,6 +21937,7 @@ Use the bar chart to complete the frequency table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21578,6 +22033,7 @@ Below is a graph showing his height above sea level at different times
 during the day.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21803,6 +22259,7 @@ tgraph
 $3$ points have been plotted and Joined on the centimetre grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22057,7 +22514,9 @@ Mark  and Sarah each has a bag of coloured counters.
 These pie charts show the proportion of each colour in their bags.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22325,6 +22784,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22388,6 +22848,7 @@ On the centimetre squared grid below, draw a net for the box.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22442,6 +22903,7 @@ tgraph
 Here is a graph to convert between gallons and litres:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22709,6 +23171,7 @@ Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22933,7 +23396,9 @@ Some of the information is covered by ink.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ children chose sport.
 
@@ -23115,9 +23580,11 @@ He spins the spinner $60$ times and records the colour which the arrow points to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here are his results:
 
-![missing table](/papers/missing_table.svg).
+![missing table](/papers/missing_table.svg)
+.
 
 </div>
 <div class='workings'>
@@ -23194,6 +23661,7 @@ TODOANSWER
 Complete the bar chart to show his results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23301,6 +23769,7 @@ tgraph
 Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23564,7 +24033,9 @@ In the space below, draw an accurate net for this pyramid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23607,6 +24078,7 @@ This solid shape is made from $1 \ \text{cm}$ cubes.
 Calculate the volume of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23673,7 +24145,8 @@ tareaperimeter
 
 Shape $P$ is drawn on the centimetre-square grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -23851,7 +24324,8 @@ Sarah measured the temperature of a beaker of liquid every $10 \ \text{minutes}$
 
 She plotted her results on the graph below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -23979,6 +24453,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The graph shows the number of people living in Puddletown from $1950$ onwards.
 
@@ -24185,6 +24660,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 $ABCD$ is a kite.
 
 Write down the coordinates of vertex $D$.
@@ -24240,6 +24716,7 @@ tgraph
 This chart shows the times when $5$ children were visiting Chester Zoo one afternoon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24371,7 +24848,8 @@ ttemperature
 
 The graph below converts degrees Celsius to degrees Fahrenheit. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 Use the graph to complete the following sentences.
 
@@ -24507,10 +24985,12 @@ Here is a shaded rectangle on $x$ and $y$ axes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each of the co-ordinates (points on the graph) shown in the table below, 
 put a tick to show if it is inside or outside the shaded square. One has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24566,6 +25046,7 @@ tpercentage
 The pie chart shows the favourite colour of $180$ pupils in Highfield School.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24694,6 +25175,7 @@ This bar chart shows the number of pets owned by children in the Animal Club.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -24820,6 +25302,7 @@ tgraph
 The graph shows how a freshly made cup of tea cools over time.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24979,6 +25462,7 @@ $72$ pupils were asked to choose their favourite type of film. The results are s
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25114,6 +25598,7 @@ $7 \ \text{pm} \quad (1,4)$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25186,6 +25671,7 @@ tgraph
 The pie chart represents $64$ cars which passed a school in one hour.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25390,6 +25876,7 @@ Their target is $\pounds 50$ altogether.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25489,6 +25976,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25726,6 +26214,7 @@ The results are shown on the bar chart below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -25763,6 +26252,7 @@ TODOANSWER
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -25860,6 +26350,7 @@ The bar chart below shows some of her results.
 Everyone owns at least $1$ pair of shoes and no one owns more than $5$ pairs.
 
 ![missing image](/papers/missing_image.svg)
+
 
 $5$ students own $2$ pairs of shoes.
 
@@ -26020,6 +26511,7 @@ The pie chart below shows the results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26177,6 +26669,7 @@ Points $P$ and $Q$ have been plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26282,6 +26775,7 @@ The bar chart below shows their results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the information below to work out which child is represented by each letter.
 
 - Dolly came top in the Maths exam.
@@ -26329,7 +26823,8 @@ tgraph
 
 Point $A$ has been plotted on the coordinate grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -26505,6 +27000,7 @@ Sarah has almost completed the bar chart to show the number of pets owned by eac
 No one has more than $5$ pets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26700,6 +27196,7 @@ TODOANSWER
 
 The bar chart below shows the midday temperatures each day in London and Paris during the same week one spring.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26946,7 +27443,8 @@ tgraph
 
 The diagram below shows a map of a treasure island.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -27032,7 +27530,9 @@ Seema has found some clues which describe the position of some treasure.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27140,6 +27640,7 @@ Ben asked people about their favourite type of cheese.
 The results of his survey are shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27348,6 +27849,7 @@ Points $A, B$ and $C$ have been plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -27481,6 +27983,7 @@ The chart below shows the way Rebecca spends her $24$-hour day.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -27565,7 +28068,9 @@ Jamie provides the information below about the way his $24$-hour day is spent.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 Complete the chart to show how Jamie spends his $24$-hour day.
 
@@ -27613,6 +28118,7 @@ tgraph
 Points $A, B$ and $C$ have been plotted on the centimetre square co-ordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 There is a point, $D$, such that when $A, B, C$ and $D$ are joined in order, they form a parallelogram.
 
@@ -27742,6 +28248,7 @@ tgraph
 Point $K$ is plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27915,6 +28422,7 @@ She repeats this $240$ times, and draws a bar chart of her results, which is sho
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -28030,6 +28538,7 @@ Tick the relevant box in the table below to say who is most likely to win, or wh
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -28086,6 +28595,7 @@ The pictogram below shows the results of a survey into the numbers of woodlice f
 One symbol represents **two** woodlice.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -28243,6 +28753,7 @@ On the centimetre square co-ordinate grid below, plot and label the points $P(3,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $PQRS$ is a square.
 
 </div>
@@ -28354,7 +28865,8 @@ tgraph
 
 In the long jump competition, children recorded their results in a bar chart:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -28487,6 +28999,7 @@ A rhombus has been drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The co-ordinates of three points are listed below.
 
 $P(5, 3) \quad Q(5, 9) \quad R(4, 4)$
@@ -28546,6 +29059,7 @@ On the scatter graph below each cross shows a person's height and weight.
 For example the cross next to the letter $A$ shows that Andrew is $1.67 \ \text{m}$ tall and that his weight is $70 \ \text{kg}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28775,6 +29289,212 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>2D600744-CEE3-49E8-83D2-5E9FEFA0F368</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+The graph shows the number of pets owned by the children in a primary school class.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many girls own $2$ pets?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many more girls than boys are there in the class?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the children in the class have no pets?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many pets in total are owned by the boys?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>9EE40186-B13A-47E3-8C0F-173A981163C9</p>
 </div>
 <div class='topics'>
@@ -28787,6 +29507,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A point is described by its coordinates, eg point $B$ on the diagram has coordinates $(9,8)$. This is not the same as $(8,9)$. Point $A$ has coordinates $(0,0)$.
 
@@ -29060,6 +29781,7 @@ The graph below shows Claire's total score after each round of the game.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29286,6 +30008,7 @@ The graph below shows the cost of gas for the two different companies, so Andy c
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29491,6 +30214,7 @@ Sixty pupils each voted for their favourite game app. The pie chart below shows 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29658,6 +30382,7 @@ Three football teams, Aardvark Athletic, Buffalo Bears and Caribou Celtic, recor
 the 2016 - 17 season are shown on the graph below. Using the graph answer the questions which follow.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30318,9 +31043,11 @@ tgraph
 
 Brian has $7$ dominoes in a bag. He takes out one domino and finds the total of the two numbers. He then puts the domino back in the bag. His $7$ dominoes are shown below, together with a graph of his results after doing this experiment $100$ times.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30450,6 +31177,7 @@ tgraph
 Study the graph below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 The co-ordinates of $A, B$ and $C$ are: $A (3 , 1) ; B (6 , 2) ; C (12 , 4)$
 
@@ -30620,6 +31348,7 @@ tgraph
 Here is a straight-line graph.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30835,6 +31564,7 @@ Complete the following diagram so that the dotted line becomes an axis of symmet
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -30892,7 +31622,9 @@ tgraph
 Tosco and Sunbury are two supermarket chains. They each sell a variety of difference cheeses. The amounts of cheese sold in 1 week, by each supermarket, are shown in the pie charts below.
 
 
-![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -31531,6 +32263,7 @@ The diagram below shows the number of computers that members of a class had in t
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -31699,6 +32432,7 @@ tdraw
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -31830,11 +32564,15 @@ Here are five containers:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Water is poured at a constant rate into **three** of the containers. 
 
 The graphs show the **depth** of water as the containers fill up.
 
-![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 Fill in the gaps below to show which container matches each graph.
 

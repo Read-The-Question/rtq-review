@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -326,6 +326,7 @@ Which of these letters do not look the same when reflected in the mirror line sh
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -400,17 +401,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $+9$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+9)} } 
-&&  \footnotesize {\maroonC {(+9)} }  
-&&  \footnotesize {\maroonC {(+9)} }   
-&&  \footnotesize {\maroonC {(+9)} }   
-&&  \footnotesize {\maroonC {(+9)} } \\
+&   \footnotesize {\maroonC
+ {(+9)} } 
+&&  \footnotesize {\maroonC
+ {(+9)} }  
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} } \\
+15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 42 + 9 \\\\
+                                  &= 51 \\\\
+\text{Second missing number}      &= 51 + 9 \\\\
+                                  &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $+9$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+9)} } 
+&&  \footnotesize {\maroonC
+ {(+9)} }  
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} } \\
 15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -454,17 +489,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $+0.3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+0.3)} } 
-&&  \footnotesize {\maroonC {(+0.3)} }  
-&&  \footnotesize {\maroonC {(+0.3)} }   
-&&  \footnotesize {\maroonC {(+0.3)} }   
-&&  \footnotesize {\maroonC {(+0.3)} } \\
+&   \footnotesize {\maroonC
+ {(+0.3)} } 
+&&  \footnotesize {\maroonC
+ {(+0.3)} }  
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} } \\
+2.2,  &&  2.5,  &&  2.8,  &&  3.1,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3.1 + 0.3 \\\\
+                                  &= 3.4 \\\\
+\text{Second missing number}      &= 3.4 + 0.3 \\\\
+                                  &= 3.7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $+0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+0.3)} } 
+&&  \footnotesize {\maroonC
+ {(+0.3)} }  
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} } \\
 2.2,  &&  2.5,  &&  2.8,  &&  3.1,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -508,17 +577,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 3)} } 
-&&  \footnotesize {\maroonC {(\times 3)} }  
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} } \\
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
+\dfrac {1} {3},  &&  1,  &&  3,  &&  9,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9 \times 3 \\\\
+                                  &= 27 \\\\
+\text{Second missing number}      &= 27 \times 3 \\\\
+                                  &= 81
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
 \dfrac {1} {3},  &&  1,  &&  3,  &&  9,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -852,6 +955,7 @@ Circle the net which can be folded into a cube that looks different from the oth
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -906,6 +1010,7 @@ tnumber
 Disc $B$ turns twice when $A$ turns $5$ times. If disc $A$ turns $45$ times, how many times does disc $B$ turn?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1163,6 +1268,7 @@ Draw a line to show the level of the water in the new beaker.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1220,6 +1326,7 @@ What is the area of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1275,6 +1382,7 @@ talgebra
 <div class='question question'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 Brendan and Sophie got $\pounds 0.20$ change when they paid with $\pounds 5$ for some tomatoes, green peppers and cucumbers which they bought at a farm stand.
 
@@ -1339,6 +1447,7 @@ The following is a representation of a $3$-dimensional shape, made up of cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1376,6 +1485,7 @@ TODOANSWER
 Circle the shape that you would see if you were looking at it from A (from the front).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1417,6 +1527,7 @@ Circle the shape that you would see if you were looking at it from B, (from the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1456,6 +1567,7 @@ TODOANSWER
 Circle the shape that you would see if you were looking at it from C, (from above).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1518,6 +1630,7 @@ Three neighbouring families chose different holidays abroad this year.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the clues below to work out their house numbers, their chosen destinations and the months during which they were away.
 
 **The families:** Brown, Green, Smith
@@ -1536,6 +1649,7 @@ Clues:
 - The Greens live at No. $6$.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1704,6 +1818,7 @@ A child's mobile (not phone!) is suspended from a ceiling and has some weights s
 Fill in the weights that are missing.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1946,6 +2061,7 @@ tsimpleword
 
 ![missing image](/papers/missing_image.svg)
 
+
 Twelve rectangles, all the same size, are arranged to make a square, as shown in the diagram above.
 
 Calculate the area of one of the rectangles.
@@ -2002,6 +2118,7 @@ Fill in the missing digits in this multiplication:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2054,6 +2171,7 @@ tinfer
 Enter the numbers $2, 3, 4, 7, 8$ into the boxes on the shape according to the following rules:
 
 ![missing image](/papers/missing_image.svg)
+
 
 - All $3$ numbers in the triangle are even
 - The total of the 4 numbers on the square is $22$.
@@ -2356,6 +2474,7 @@ The second pattern has four small squares and is made from six lines.
 How many lines are needed to draw $64$ small squares?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2668,6 +2787,7 @@ How many dark chocolate toffees are there?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2732,6 +2852,7 @@ The girls that have met are:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Ella and Alison         Hiba and Justyna
 
 Dee and Fiona           Justyna and Gita 
@@ -2745,6 +2866,7 @@ Crystal and Ingrid         Dee and Hiba
 Ingrid and Dee           Crystal and Ella
 
 ![missing image](/papers/missing_image.svg)
+
 
 Put the first letter of the girl's name in the correct house.
 
@@ -2951,6 +3073,7 @@ What fraction of the outside is black?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3008,6 +3131,7 @@ The pictures show what Jane finds out.
 For example, picture (1) shows that the square is heavier than the circle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

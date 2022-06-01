@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-pr"
 title: "Topic - Time - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -765,6 +765,7 @@ The notice below shows part of a train timetable between $2$ towns, Taymar and R
 One of the times has been covered.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

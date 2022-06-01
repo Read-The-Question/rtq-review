@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -844,7 +844,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1079,17 +1080,49 @@ Write down the next two numbers in the following sequences?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{\dfrac{1}{2}}} 
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}   
-&&  \footnotesize{\maroonC{\dfrac{1}{2}}}  \\
+&   \footnotesize{\maroonC
+{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  \\
+8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= \dfrac{1}{2} \\\\
+\text{Second missing number}       &= \dfrac{1}{4} \\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{\dfrac{1}{2}}} 
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}   
+&&  \footnotesize{\maroonC
+{\dfrac{1}{2}}}  \\
 8,  &&    4,  &&  2,  &&   1, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1127,17 +1160,51 @@ $\dfrac{1}{2}, \dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-6)}} 
-&&  \footnotesize{\maroonC{(-6)}}  
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}   
-&&  \footnotesize{\maroonC{(-6)}}  \\
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 - 6 \\\\
+&= -1
+\text{Second missing number}       &= -1 -6 \\\\
+& -7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
 23,  &&    17,  &&  11,  &&   5, &&    \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1453,7 +1520,8 @@ Jennifer is assembling a wardrobe. The measurements for the 3 sections are given
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 As the answer is to be given in cm, let's convert all measurements into cms.
 
@@ -1983,6 +2051,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pie chart shows the proportions of different colours of cars in a school carpark. there were $36$ black cars. How many blue cars were there?   
 
 </div>
@@ -2188,7 +2257,8 @@ tsimpleword
 
 Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds. The remaining area, shown in grey in the picture below, is covered in grass.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

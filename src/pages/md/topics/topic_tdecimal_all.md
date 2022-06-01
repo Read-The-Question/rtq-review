@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -468,6 +468,7 @@ Here is a part of a number line. Write the two missing numbers in the boxes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -723,7 +724,8 @@ TODOANSWER
 
 These are actually lengths of eyelashes in cm.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the range of eyelash lengths?
 
@@ -1166,6 +1168,7 @@ Add $16.03$ and $9.48$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   1   &   6 \ .   &   0   &   3 \\
@@ -1282,6 +1285,7 @@ Find the difference between $8.38$ and $6.94$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   8 \ .   &   3   &   8 \\
@@ -1336,6 +1340,7 @@ $4.679 + 2.15 = {?}$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -1663,6 +1668,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1692,6 +1698,7 @@ $\dfrac {5} {16}$
 How much of this square is shaded? Write your answer as a **decimal**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2366,7 +2373,8 @@ Calculate
 
 **$28.3 - 1.64 + 0.57$** 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2644,6 +2652,7 @@ Write down the number that the arrow is pointing to on the scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2810,6 +2819,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -2864,6 +2874,7 @@ $0.7 \quad 0.04 \quad 1.006$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -3031,6 +3042,7 @@ Add together $6.37, 10.04$ and $203$.
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &       &      &    6 \ .  &    3  &    7 \\
@@ -3083,6 +3095,7 @@ Work out $3.19 - 1.72$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

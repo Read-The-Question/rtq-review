@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-g0"
 title: "Topic - Temperature - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -20,7 +20,8 @@ ttemperature
 
 The temperature, in $\degree \text{C}$, at midday at the theme park on $6$ winter days was recorded.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -529,6 +530,7 @@ A gardener measures the night time temperatures over two evenings and records th
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -948,7 +950,8 @@ ttemperature
 
 The table shows the average temperatures of some European cities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1115,7 +1118,9 @@ These thermometers show the temperatures inside and outside a window at $10 \ \t
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1330,6 +1335,7 @@ At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1440,9 +1446,11 @@ ttemperature
 
 The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1561,6 +1569,7 @@ ttemperature
 The thermometers below show the temperatures, in $\degree \text{C}$, inside a fridge and a freezer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1681,6 +1690,7 @@ Field crickets chirp according to the temperature of their surroundings.
 You can use the following rule to work out the temperature:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

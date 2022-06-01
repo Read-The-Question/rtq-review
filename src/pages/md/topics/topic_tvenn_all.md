@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvenn-all"
 title: "Topic - Venn - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ Clara did a survey amongst her $20$ friends.
 How many or her friends liked **blueberries and cherries**?
 
 ![missing image](/papers/missing_image.svg)
+
 
 (Use the Venn Diagram to help you.)
 
@@ -86,6 +87,7 @@ $1 \quad 2 \quad 4 \quad 12 \quad 36 \quad 48 \quad 49 \quad 50$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -145,6 +147,7 @@ Rahan did a survey amongst her $18$ friends.
 How many or her friends liked **football and cricket**?
 
 ![missing image](/papers/missing_image.svg)
+
 
 (Use the Venn Diagram to help you.)
 
@@ -373,6 +376,7 @@ The results are shown in the Venn diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -528,6 +532,7 @@ $15$ had a brother, $12$ had a sister and $8$ had no brothers or sisters.
 Complete the Venn diagram below to show this information
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -761,6 +766,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 John is dark haired, has brown eyes and wears glasses. In which section would you put his name?
 
 </div>
@@ -819,6 +825,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -873,6 +880,7 @@ tvenn
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 John is dark haired, has blue eyes and does not wear glasses. In which section would you put his name?
 
@@ -932,6 +940,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -986,6 +995,7 @@ tvenn
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 John is fair haired, has blue eyes and wears glasses. In which section would you put his name?
 
@@ -1045,6 +1055,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -1099,6 +1110,7 @@ tvenn
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many of the following numbers should go into the shaded region?
 
@@ -1169,7 +1181,8 @@ Circle $B$ needs to contain multiples $4$.
 
 You will need to put some numbers outside of the two circles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1231,6 +1244,7 @@ tgraph
 An ice cream company recently carried out a survey on $120$ people to see which of their flavours were most popular. The results are shown in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1315,6 +1329,7 @@ TODOANSWER
 Draw a bar chart to represent these results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1536,6 +1551,7 @@ Class Five conduct a traffic survey of the colours of $180$ cars.  They put thei
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1752,7 +1768,8 @@ tvenn
 The diagram below is a Venn Diagram. Amy needs to write some 
 numbers inside the circles. Any number written inside one circle is a factor of 12 and any number inside the other circle is a factor of 16. Two numbers have already been written in for you. Help Amy to complete the diagram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2063,6 +2080,7 @@ The land of Whasham consists of a rectangular lake with an island in the centre.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2339,6 +2357,7 @@ TODOANSWER
 Enter this information into the table below. Then complete the rest of the table.
 
 ![missing table](/papers/missing_table.svg)
+
 Boys Girls Total Left handed Right handed Total
 
 </div>
@@ -2584,6 +2603,7 @@ Here are his results in a Venn diagram:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the Venn diagram to write down
 
 </div>
@@ -2716,6 +2736,7 @@ $5 \quad 6 \quad 7 \quad 8$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2821,6 +2842,7 @@ tvenn
 Greta is sorting quadrilaterals using a Venn Diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Circle $F$ contains shapes with $4$ equal sides.
 
@@ -2957,6 +2979,7 @@ tvenn
 The Venn diagram below is being used for sorting even numbers from $2$ to $20$ inclusive.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

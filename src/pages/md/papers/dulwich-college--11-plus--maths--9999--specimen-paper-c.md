@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-c"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper C"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -253,11 +253,16 @@ The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+7)} }  \\
+&   \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }  \\
 18, && 25, && 32, && \text{\textunderscore \textunderscore \textunderscore }, && 46, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -308,11 +313,16 @@ The difference between the terms is $4.5$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4.5)} }
-&&  \footnotesize {\maroonC {(+4.5)} }
-&&  \footnotesize {\maroonC {(+4.5)} }
-&&  \footnotesize {\maroonC {(+4.5)} }
-&&  \footnotesize {\maroonC {(+4.5)} }  \\
+&   \footnotesize {\maroonC
+ {(+4.5)} }
+&&  \footnotesize {\maroonC
+ {(+4.5)} }
+&&  \footnotesize {\maroonC
+ {(+4.5)} }
+&&  \footnotesize {\maroonC
+ {(+4.5)} }
+&&  \footnotesize {\maroonC
+ {(+4.5)} }  \\
 5, && 9.5, && 14, && \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }, && 27.5
 \end{matrix}
 $
@@ -374,6 +384,7 @@ The grid below contains three points labelled $A, B$ and $C$.
 $A$ has co-ordinates $(-2,4)$ and $B$ has co-ordinates $(-4,1)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -583,6 +594,7 @@ Circle which of the four options below shows a correct **rotation** of the word:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -612,6 +624,7 @@ $\text {Option 1}$
 Circle which of the four options below shows a correct **reflection** of the word:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -657,7 +670,8 @@ tgraph
 The pie chart below represents data collected in a survey of the favourite sports of a sample of school children. 
 Note that, between them, Rugby and Football were favourite of half of the children surveyed.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1290,6 +1304,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1425,6 +1440,7 @@ tunitprompt
 Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
@@ -1993,10 +2009,14 @@ tgeometry
 
 Circle which of the following shapes has two both lines of symmetry and rotational symmetry of order $2$.
 
-![missing image](/papers/missing_image.svg) 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
+ 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2078,6 +2098,7 @@ Based on last year's results, the captain of the leading team has the honour of 
 team wear numbers $2$ to $9$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
 The third team gets allotted the race numbers $21$ to $29$, and so on.
@@ -2336,7 +2357,8 @@ in the circle.
 
 For example, $5 + 4 + 3 + 2 = 14$, so:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2375,8 +2397,11 @@ TODOANSWER
 Complete the three grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2417,6 +2442,7 @@ TODOANSWER
 Complete the network of grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2460,6 +2486,7 @@ and **the same number must not appear more than once**.
 Complete this final network below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

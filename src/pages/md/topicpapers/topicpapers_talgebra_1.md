@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -615,11 +615,15 @@ The large can weighs $425 \ \text{grams}$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 Work out the weight of one small can.
 
@@ -629,7 +633,8 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total weight into $\text{grams}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total weight into $\text{grams}$.
 
 $
 \begin{aligned}
@@ -763,7 +768,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -826,7 +832,8 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\text{pence}$.
 
 As per the question,
 
@@ -979,7 +986,8 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert the total amount into pence.
 
@@ -1096,7 +1104,8 @@ $
 \begin{aligned}
 a + b  \quad        &\ldots \quad   b - a \\\\
 5 + 10  \quad       &\ldots \quad   10 - 5 \\\\
-15  \quad           &\boxed{\green{>}} \quad  5
+15  \quad           &\boxed{\green
+{>}} \quad  5
 \end{aligned}
 $
 
@@ -1131,7 +1140,8 @@ $
 c + b \div a  \quad         &\ldots \quad  2(a - c) \\\\
 2 + 10 \div 5  \quad        &\ldots \quad  2(5 - 2) \\\\
 2 + 2  \quad                &\ldots \quad  2 \times 3 \\\\
-4  \quad                    &\boxed{\green{<}} \quad 6
+4  \quad                    &\boxed{\green
+{<}} \quad 6
 \end{aligned}
 $
 
@@ -1166,7 +1176,8 @@ $
 2a^2 \quad              &\ldots \quad  ab \\\\
 2 \times 5^2 \quad      &\ldots \quad  5 \times 10 \\\\
 2 \times 25 \quad       &\ldots \quad  5 \times 10 \\\\
-50 \quad                &\boxed{\green{=}} \quad  50
+50 \quad                &\boxed{\green
+{=}} \quad  50
 \end{aligned}
 $
 
@@ -1854,6 +1865,7 @@ Write an expression for the lengths of one of its sides.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2107,6 +2119,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 Let the height of the second triangle $= a$.
 
 As per the question,
@@ -2164,6 +2177,7 @@ She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 She puts one more box on top of the pile.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the height of the pile of **five** boxes.
 
@@ -2412,6 +2426,7 @@ Bags $A$ and $B$ contain some counters.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bag A: $6y + 1$ counters
 
 Bage B: $4y + 7$ counters
@@ -2459,6 +2474,7 @@ TODOANSWER
 Bag $C$ contains more counters than bag $D$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Bag C: $4k$ counters
 
@@ -3343,6 +3359,7 @@ Find the value of one club.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3565,6 +3582,7 @@ On Planet Cash, money is measured in Tinkles and Clinks. Here is an addition sum
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -3643,6 +3661,7 @@ Work out the answer to this subtraction.
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -3684,6 +3703,7 @@ TODOANSWER
 Work out the answer to this division.
 
 ![missing table](/papers/missing_table.svg)
+
 
 %waffles%
 
@@ -4365,6 +4385,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 %waffles%
 
 </div>
@@ -4404,6 +4425,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -4900,6 +4922,7 @@ The totals for each row and column are shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the value of each letter?
 
 </div>
@@ -5359,6 +5382,596 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>83454B20-311E-430C-9641-E9F905AD3D6D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I thought of a number, halved it and then subtracted $9$.
+
+I got an answer of $12$.
+
+What was my original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Fawzan went shopping with $\pounds 100$ in his wallet.
+
+He spent $10 \%$ of his money on a book and $20 \%$ of the rest on a DVD. How much money did he then have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Abdul is making some small snacks for a party.
+
+He cuts $1.2 \ \text{kg}$ of cheese into a number of $30 \ \text{g}$ pieces.
+
+How many pieces does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C942A2E9-4BD9-454B-B6DC-E415C263EBE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The sum of three consecutive whole numbers is $60$.
+
+What is the largest of the three numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest positive whole number that divides exactly by $1, 2, 3, 4$ and $5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C507590F-A02C-4460-82D7-E935ED9CB61C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+
+Given that $\spadesuit + \spadesuit = \spadesuit$
+
+and $\spadesuit + \spadesuit = \spadesuit$
+
+and $\spadesuit + \spadesuit + \spadesuit = \spadesuit$
+
+how many $\spadesuit$ are equal to $\spadesuit$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8D1CDA41-DB74-4547-8CE7-8DDF61396BB3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The symbol $*$ is used like this: 
+
+$a * b = 5 \text{ times } a, \text{ plus } b$.
+
+For example, $2 * 7 = (5 \times 2) + 7 = 17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $9 * 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What number does $m$ stand for, if $m * 6 = 41$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $n * 4 = 8 * n$, what number does $n$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2CB214EC-9120-43EE-B697-6647A243DF59</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that none of $A, B$ or $C$ is zero, work out what number each of the 
+letters stands for in these two calculations.
+
+%waffles%
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
@@ -5445,6 +6058,7 @@ Maisie makes $30$ small boxes of mixed sweets to sell at the school summer fair.
 Each box has $1$ Pineapple Jelly, $2$ Lemon Sours and $3$ Raspberry Creams.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6644,6 +7258,833 @@ TODOANSWER
 
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D4D1D51C-1F06-43FF-950D-550A86742B3A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1001 = 𝑎 \times 𝑏 \times 𝑐$, where $a, b$ and $c$ are prime numbers, with $c$ is bigger than $b$, and $b$ bigger than $a$.
+
+Find $a, b$ and $c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5272D153-9948-46E3-A26A-2E8549382984</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The symbol ⟴ has a special meaning in arithmetic. 
+
+$𝑎 ⟴ 𝑏$ means add $𝑎$ and $𝑏$ and then multiply by $𝑎$. 
+
+For example: 
+
+$4 ⟴ 2 = 4 \times (4 + 2)$ 
+
+$=4 \times 6$
+
+$= 24$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $4 ⟴ 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $4 ⟴ (3 ⟴ 2)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $𝑝$ such that $6 ⟴ 𝑝 = 78$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>589E6129-9398-4853-822E-7AA88B51F815</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Max has more than $4$ apples but fewer than $7$ apples. Alex has more than $5$ apples and fewer than $\text{eight}$ apples.
+
+How many apples do Max and Alex have *altogether*? Circle all the possible values
+
+$4\:\:\:  5\:\:\:  6\:\:\:  7\:\:\:  8\:\:\:  9\:\:\:  10\:\:\:  11\:\:\:  12\:\:\:  13\:\:\:  14\:\:\:  15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9DAE794C-CF08-4F74-8EFC-2D71F9F2C7E9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+B + A + T = $17$ 
+
+C + A + T = $25$
+
+C + O + A + T = $29$
+
+What is the value of B + O + A + T?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>525C894A-5EBF-4ED1-9A7A-B508E1FF1203</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On Planet Pythagoras, the people use a different money system to us.
+
+$\text{One pog}$ is worth $\text{four pings}$ 
+
+$\text{Three pings}$ are worth $\text{five paz}$
+
+Convert the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{3 pog =}$ _____ $\text{pings}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{40 paz}$ = ____________ $\text{pog}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+3 paz = ____________ pog
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EFDF0856-14CF-4CCE-B6CE-B34BCE47E81B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amy, Bella and Cara have $\text{twenty}$ sweets altogether.
+
+Amy says she has $\text{ten}$ of the sweets.
+
+Bella says that Cara has $\text{one}$ more sweet than Amy. 
+
+Cara says that she has the most sweets.
+
+Exactly one of them is lying.
+
+Who is lying? Explain briefly how you know.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9356CB69-3101-48BB-9772-81A96EA7C99B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The numbers in the following shapes must follow the rule:
+
+To find the number in the circle, multiply the number in the triangle by $3$, multiply the number in the square by $4$ and find the difference
+
+Example: 
+
+![missing image](/papers/missing_image.svg)
+
+
+Work out the missing values:
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D2AF72C3-8723-4256-9C01-0B551C174BFC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A theme park wants to make more money. The director thinks that if she **reduces the ticket price** by **one-third, the number of people** who come to the theme park will **double**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In 2016, the park made $\pounds 360$ from ticket sales. Tickets were $\pounds 4.50$.
+
+How much money does the director think the theme park will make in $2017$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In fact, the theme park makes $\pounds 390$. How many more people went to the theme park in 2017 compared to 2016?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>941578DA-B1BD-4419-B34C-A1C6ACD2F4E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an example of a function machine:
+
+![missing image](/papers/missing_image.svg)
+
+
+Rule: $\underline{Multiply\: by\: three,\: then\: subtract\: 2}$.
+
+Fill in the gaps in this new function machine:
+
+![missing image](/papers/missing_image.svg)
+
+
+Rule: .................................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -8973,7 +10414,8 @@ tareaperimeter
 
 The perimeter of this shape is $40 \ \text{units}$. The sides labelled $x$ are all the same length. Find the length of one of these sides.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9639,9 +11081,11 @@ $1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$
 
 ![missing image](/papers/missing_image.svg)
 
+
 $2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of:
 
@@ -10023,992 +11467,6 @@ $3$
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Theo thinks of a number and finds out  that three quarters of it is $24$.
-
-What was the number he first thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
-\dfrac {3} {4} \times a        &= 24 \\\\
-\dfrac {3a} {4}                &= 24 \\\\
-a                              &= 24 \times \dfrac {4} {3} \\\\
-a                              &= \dfrac{24 \times 4} {3} \\\\
-a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
-a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
-a                              &= 8 \times 4 \\\\
-a                              &= 32
-\end{aligned}
-$
-
-Theo was thinking of $32$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Brenda, and Brenda get three times as many as Clare. How many do they each get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sweets Clare get $= a$.
-
-As per the question,
-
-Number of sweets Brenda get $= 3a$.
-
-Number of sweets Amrit get $= 9a$.
-
-Total no. of sweets $= 13$
-
-$
-\begin{aligned}
-a + 3a + 9a     &= 13 \\\\
-4a + 9a         &= 13 \\\\
-13a             &= 13 \\\\
-a               &= \dfrac {13} {13} \\\\
-a               &= \dfrac {\cancel {13}} {\cancel {13}} \\\\
-a               &= 1
-\end{aligned}
-$
-
-Clare gets $1$ sweet.
-
-Brenda gets $3 \times 1 = 3$ sweets.
-
-Amrit gets $9 \times 1 = 9$ sweets.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-<div class='answer'>
-
-$3$
-
-</div>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>773EFA22-B82F-48ED-9E20-221064897434</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-trecipe
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A receipe of cake needs $200 \ \text{g}$ of flour.
-Issac has $250 \ \text{g}$ of flour.
-How many cakes could he make?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A8E9E000-1E86-461F-B304-C36B53D42D9F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob has $15$ more Match Dfex cards than Alan.
-
-Colin gives Bob $25$ cards. Bob now has $3$ times as many as Alan.
-
-How many has Alan got?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:36</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5583CF32-08CB-4315-9AF6-9E18FBD6DE18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Eve bought $4$ pencils and $5$ crayons.
-Each pencil cost $22 \text{p}$.
-She paid with a $\pounds 2$ coin and received $32 \text{p}$ change.
-How much did each crayon cost? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
-                                &= 88 \ \text {p} \\\\
-\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
-                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
-                                &= 200 - 120 \\\\
-                                &= 80 \ \text {p} \\\\
-\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
-                                &= \dfrac {16 \times 5} {5} \\\\
-                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
-                                &= 16 \ \text {p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \ \text {p}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0C9C5E51-2914-4F5F-AAE3-9A5B0089800D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bill and Ben are packing Easter eggs in crates. They have a total of $103$ Easter eggs to pack.
-
-After a while Bill has filled $5$ crates and has $12$ Easter eggs left over, and Ben has filled $3$ crates and has $19$ Easter eggs still to pack.
-
-How many Easter eggs fit in each crate? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>17493FB2-C20B-436C-BAB0-DB85EAA91408</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alana has to take $10 \ \text{millilitres}$ of medicine three times a day.
-How long would a $180 \ \text{millilitre}$ bottle last her? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
-                                        &= 30 \ \text {millilitres} \\\\
-\text {The bottle would last}           &= \dfrac {180} {30} \\\\
-                                        &= \dfrac {6 \times 30} {30} \\\\
-                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
-                                        &= 6
-\end{aligned}
-$
-
-The medicine will last for $6$ days.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A55AF66D-61BF-46A3-B8DA-C14286D8E6CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tomasc adds the same number to $23$ and to $8$ so that the first is then double the second. What was the number he used?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-$
-\begin{aligned}
-23 + a &= 2 \times (8 + a) \\\\
-23 + a &= 16 + 2a \\\\
-2a- a  &= 23 - 16 \\\\
-a      &= 7
-\end{aligned}
-$
-
-The number is $7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>FCC40EC8-3FDD-4BFA-B17E-BF9F97D55479</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jonathan thinks of a whole number, multiplies it by itself  and adds $9$. He says that the answer is $47$.
-Daisy think Jonathan has made a mistake. Do you agree? Explain your reasoning. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>6398C5BF-C910-451F-A847-5199C8321DD0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a Latin test, Suril got $6$ times as many marks as Krishan.
-Ashwini has twice as many as Krishan.
-
-Ashiwini got $30$ marks. How many marks did Suril get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Krishan got $x$ marks.
-
-As per the question,
-
-Suril got $6x$ marks.
-
-Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
-
-$
-\begin{aligned}
-2 \times x &= 30 \\\\
-x          &= \dfrac {30} {2} \\\\
-x          &= \dfrac {2 \times 15} {2} \\\\
-x          &= \dfrac {\cancel {2} \times 15} {\cancel {2}} \\\\
-x          &= 15
-\end{aligned}
-$
-
-Suril got $6 \times 15 = 90$ marks.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>49B435BA-0A4E-44F7-ACD3-758C97042BC8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Morose's team has lost $3$ times as many matches as they have won.
-
-They have not drawn any matches. They have played $24$ matches.
-
-How many matches they have won?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of matches they won $= a$
-
-As per the question,
-
-No. of matches they lost $= 3a$
-
-$
-\begin{aligned}
-a + 3a        &= 24 \\\\
-4a            &= 24 \\\\
-a             &= \dfrac {24} {4} \\\\
-a             &= \dfrac {6 \times 4} {4} \\\\
-a             &= \dfrac {6 \times \cancel {4}} {\cancel {4}} \\\\
-a             &= 6
-\end{aligned}
-$
-
-They won $6$ matches.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>D1DB4906-DD4F-4827-8996-34DDFC3849EE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a jar of sweets; after I have given each of the children in my class one sixteenth of sweets in the jar I have one quarter of the sweets left. How many children do I have in my class?
-
-- $4$
-- $9$
-- $16$
-- $12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sweets in the jar $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total number of children} \times (\dfrac {1} {16} \ \text {of} \ a)        &= a - (\dfrac {1} {4} \ \text {of} \ a) \\\\
-\text {Total number of children}                                                  &= (16 \times \dfrac {1}{a}) \times (a - (\dfrac {1} {4} \times a)) \\\\
-                                                                                  &= \dfrac {16} {a} \times (a - \dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4 \times a} {4 \times 1} - \dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a} {4} -\dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a - a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times \dfrac {3a} {4} \\\\
-                                                                                  &= \dfrac {16 \times 3a} {a \times 4} \\\\
-                                                                                  &= \dfrac {4 \times 4 \times 3a} {a \times 4} \\\\
-                                                                                  &= \dfrac {\cancel {4} \times 4 \times 3 \times \cancel {a}} {\cancel {a} \times \cancel {4}} \\\\
-                                                                                  &= 12
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>953489BB-9734-4F88-81E4-F8A134B98396</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Simplify if possible: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$a + 2a + 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= a + 2a + 4 \\\\
-&= 3a + 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3a + 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$4b - b + 5b$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4b - b  + 5b \\\\
-&= 8b
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8b$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2a + 2c + a + 4c$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2a + 2c + a + 4c \\\\
-&= 3a + 6c
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3a + 6c$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x \times 2x \times 4d$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= x \times 2x \times 4d \\\\
-&= 8 x ^2 d
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 x ^2 d$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$ab + 6b + 2ab$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= ab + 6b + 2ab \\\\
-&= 3ab + 6b \\\\
-&= 3b (a + 2)
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3b (a + 2)$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$-3c \times 5ct + 2c \times 6$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= -3c \times 5ct + 2c \times 6 \\\\
-&= -15 c^2 t + 12 c \\\\
-&= 3c (-5ct + 4c)
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3c (-5ct + 4c)$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>803720D5-F810-4180-9E12-79A58BB32B12</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Simplify the following: $3x + 7y - 6x + 23y$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3x + 7y - 6x +23y \\\\
-&= -3x + 30y
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-3x + 30y$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

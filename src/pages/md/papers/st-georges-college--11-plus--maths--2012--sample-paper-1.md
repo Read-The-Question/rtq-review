@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -337,7 +337,8 @@ $\pounds 1.28 + 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -386,7 +387,8 @@ $\pounds 1.28 - 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -510,7 +512,8 @@ Express $51 \ \text{km}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -546,7 +549,8 @@ Express $510 \ \text{cm}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -886,6 +890,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -1526,7 +1531,8 @@ Give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 NO of sheets per ream = $500$
 
@@ -1568,7 +1574,8 @@ Give your answer in kilograms
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -1774,18 +1781,55 @@ $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \qua
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}   
-&&  \footnotesize{\maroonC{(+3)}} 
-&&  \footnotesize{\maroonC{(+3)}}  
-&&  \footnotesize{\maroonC{(+3)}}  \\
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+7,  &&    10,  &&  \ldots,  &&   16, &&    19,  &&  \ldots,  && 25
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 + 3 \\\\
+                                &= 13 \\\\
+\text{Second missing number}       &= 19 + 3 \\\\
+                                &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
 7,  &&    10,  &&  \ldots,  &&   16, &&    19,  &&  \ldots,  && 25
 \end{matrix}
 $
@@ -1825,18 +1869,55 @@ $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}
-&&  \footnotesize{\maroonC{(\div 2)}}  \\
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+192,  &&    96,  &&  48,  &&  \ldots,  &&   12, &&   6,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 48 \div 2 \\\\
+                                &= 24 \\\\
+\text{Second missing number}       &= 6 \div 2 \\\\
+                                &= 3
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
 192,  &&    96,  &&  48,  &&  \ldots,  &&   12, &&   6,  &&  \ldots
 \end{matrix}
 $

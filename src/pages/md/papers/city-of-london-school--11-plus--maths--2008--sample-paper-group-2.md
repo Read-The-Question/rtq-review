@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -31,9 +31,16 @@ tnumber
 
 Look at these number cards.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the card that is 
 
@@ -254,6 +261,7 @@ The graph shows the average heights of young children.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -406,6 +414,7 @@ This formula tells you how tall a boy is likely to be when he grows up.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Marc's mother is $\bold{168\ \text{cm}}$ tall. His father is $\bold{194\ \text{cm}}$ tall.
 
 What is the **greatest** height Marc is likely to be when he grows up? 
@@ -503,6 +512,7 @@ P is the **midpoint** of line AB.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What are the coordinates of point **P**?
 
 P is (....., .....)
@@ -548,6 +558,7 @@ Q is the **midpoint** of line MN.
 The coordinates of Q are $( 30, 50 )$
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the c-oordinates of points **M** and **N**? 
 
@@ -729,13 +740,18 @@ The first one is done for you.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -914,6 +930,7 @@ You can buy a new calculator for $\bold{\pounds 1.25}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
 
 How much did the same type of calculator cost in 1979?
@@ -971,11 +988,16 @@ tinfer
 
 Here are some number cards:
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  
 
 You can use each card once to make the number $1735$, like this:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1089,25 +1111,33 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use some of the four number cards to make numbers that are **as close as possible** to the numbers written below. 
 
 Examples
 
 $\bold{80}$   ![missing image](/papers/missing_image.svg)
 
+
 $\bold{30}$   ![missing image](/papers/missing_image.svg)
+
 
 You must **not** use the same card more than once in each answer.
 
 $\bold{50}$    ![missing image](/papers/missing_image.svg)
 
+
 $\bold{60}$    ![missing image](/papers/missing_image.svg)
+
 
 $\bold{4000}$  ![missing image](/papers/missing_image.svg)
 
+
 $\bold{1500}$  ![missing image](/papers/missing_image.svg)
 
+
 $\bold{1600}$   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1207,6 +1237,7 @@ The diagram shows part of a number line.
 What number is the arrow pointing to? Write your answer in the box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1378,6 +1409,7 @@ Find the **surface area** of a cuboid which measures $2\ \text{cm}$ by $3\ \text
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1478,6 +1510,7 @@ Below is a map of the area surrounding City of London School drawn to a scale of
 $1\ \text{cm}$ : $125\ \text{metres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1611,6 +1644,7 @@ Reflect the word $\text{MATHEMATICS}$ in the given line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1732,6 +1766,7 @@ How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1778,7 +1813,8 @@ tsymmetry
 
 I have four identical square tiles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1817,6 +1853,7 @@ TODOANSWER
 Shade in the diagram below to show how the four tiles can fit together to make a pattern with $\bold{4\:\:lines\:\: of\:\: symmetry}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1858,6 +1895,7 @@ Now shade in the next diagram to show how the four tiles can fit together to mak
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1897,6 +1935,7 @@ TODOANSWER
 Show how the four tiles can fit together to make a pattern with $\bold{rotation\:\: symmetry\:\: of\:\: order\:\: 2}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2113,6 +2152,7 @@ Even though the method of cancelling shown below is incorrect, the student has g
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2166,7 +2206,8 @@ talgebra
 
 What is the size of the angle labelled $x$ in the diagram? The diagram is not drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

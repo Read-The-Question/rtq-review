@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -272,6 +272,7 @@ There is some coloured water in the jar.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much **more** water is needed to make $\bold{2 \ \text{litres}}$?
 
 </div>
@@ -349,16 +350,47 @@ $37\:\: 34\:\: 31\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} } \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} } \\
+37,  &&    34,  &&  31,   &&   \ldots,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 31 - 3 \\\\
+                                  &= 28 \\\\
+\text{Second missing number}      &= 28 - 3 \\\\
+                                  &= 25
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} } \\
 37,  &&    34,  &&  31,   &&   \ldots,   &&   \ldots
 \end{matrix}
 $
@@ -398,14 +430,43 @@ $0.8\:\: 0.4\:\: 0.2\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 2)} } 
-&&  \footnotesize {\maroonC {(\div 2)} }  
-&&  \footnotesize {\maroonC {(\div 2)} }   
-&&  \footnotesize {\maroonC {(\div 2)} } \\
+&   \footnotesize {\maroonC
+ {(\div 2)} } 
+&&  \footnotesize {\maroonC
+ {(\div 2)} }  
+&&  \footnotesize {\maroonC
+ {(\div 2)} }   
+&&  \footnotesize {\maroonC
+ {(\div 2)} } \\
+0.8,  &&    0.4,  &&  0.2,   &&   \ldots,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 0.2 \div 2 \\\\
+                                  &= 0.1 \\\\
+\text{Second missing number}      &= 0.1 \div 2 \\\\
+                                  &= 0.05
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\div 2)} } 
+&&  \footnotesize {\maroonC
+ {(\div 2)} }  
+&&  \footnotesize {\maroonC
+ {(\div 2)} }   
+&&  \footnotesize {\maroonC
+ {(\div 2)} } \\
 0.8,  &&    0.4,  &&  0.2,   &&   \ldots,   &&   \ldots
 \end{matrix}
 $
@@ -445,17 +506,51 @@ $1\:\: 3\:\: 9\:\: 27\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 3)} } 
-&&  \footnotesize {\maroonC {(\times 3)} }  
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} }
-&&  \footnotesize {\maroonC {(\times 3)} } \\
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
+1,  &&    3,  &&  9,  &&  27   &&   \ldots,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 27 \times 3 \\\\
+                                  &= 81 \\\\
+\text{Second missing number}      &= 81 \times 3 \\\\
+                                  &= 243
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
 1,  &&    3,  &&  9,  &&  27   &&   \ldots,   &&   \ldots
 \end{matrix}
 $
@@ -510,6 +605,7 @@ tcircle
 The shape below is made up of square tiles. Which of tiles A, B, C, D or E could be removed so that the perimeter remained the same? Circle your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -886,6 +982,7 @@ The pupils in a Mathematics class were asked which sport they enjoyed the most. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1075,9 +1172,11 @@ What is the **area** of the **larger** shaded square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 In the grid below, draw **a square** with an area of $\bold{2\;cm^2}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1130,6 +1229,7 @@ tgraph
 The pie chart shows the results of the $96$ games played by a school football team. They lost $25\%$ of their games and won and drew an equal number of games.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many games were:
 
@@ -1318,6 +1418,7 @@ Mrs Jones prints books.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
 
 How many **pages** are in his book?
@@ -1328,7 +1429,8 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pounds in pence.
 
 As per the question,
 
@@ -1385,9 +1487,12 @@ This is a right angled triangular tile:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write how many of these tils you can fit into each of the following shapes.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1446,9 +1551,11 @@ The numbers in the middle of the sides are the sum of the numbers at the ends.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the missing numbers for this triangle:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1737,6 +1844,7 @@ tdirection
 The diagram shows the number of paths from Queton to Toytown through Rowton or Seton.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many different ways are there of getting from Queton to Toytown if you can only go from left to right?
 
@@ -2054,9 +2162,11 @@ Here are some number cards:
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $3927$, like this:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use the four number cards to make numbers that are as close as possible to the numbers written below.
 
@@ -2064,13 +2174,17 @@ Example
 
 ![missing image](/papers/missing_image.svg)
 
+
 You must **not** use the same card more than once in each answer.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2351,6 +2465,7 @@ As it turns, a pattern is left on the ground.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The first mark is yellow, and the secind mark is red, so the pattern left on the ground will be:
 
 Y R G Y R ... 
@@ -2528,7 +2643,8 @@ Some marbles are released through this network from S.
 
 At each of the junctions, half of the marbles flow in each direction.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2725,6 +2841,7 @@ The shape is not drawn accurately.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2837,6 +2954,7 @@ tinfer
 Use each number from $1$ to $8$ once in the boxes to make all the calculations correct:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2967,7 +3085,11 @@ tinfer
 
 Each of the symbols has a different value associated with it. When you add up the value of all the symbols you get in the total value for that row or column. Find the value of each symbol.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3028,6 +3150,7 @@ A square grid is separated into $16$ small squares.
 How many ways can $\text{two squares}$ be shaded so that the gird has symmetry about the diagonal line AC if
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3143,9 +3266,15 @@ On the grids below, show all the ways exactly two squares can be shaded so that 
 
 (You may not need to use all the grids.)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

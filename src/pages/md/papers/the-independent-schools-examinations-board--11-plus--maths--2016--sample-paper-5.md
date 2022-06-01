@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -612,7 +612,9 @@ These thermometers show the temperatures inside and outside a window at $10 \ \t
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -899,7 +901,8 @@ tareaperimeter
 
 Shape $P$ is drawn on the centimetre-square grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1991,7 +1994,8 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 To compare, let's convert all the units to $\text {km}$. 
 
@@ -2091,6 +2095,7 @@ Draw accurately triangle $ABC$ where $AB =  5.5 \ \text{cm}, \text{angle} \ A = 
 *(Point $A$ is already drawn for you.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2339,6 +2344,7 @@ Shade $\dfrac{2}{3}$ of this rectangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2558,8 +2564,10 @@ Write your answer as a mixed number.
 
 *(You may use the diagrams to help you.)*
   
-![missing image](/papers/missing_image.svg)  
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+  
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2698,6 +2706,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -2737,6 +2746,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2795,7 +2805,8 @@ Sarah measured the temperature of a beaker of liquid every $10 \ \text{minutes}$
 
 She plotted her results on the graph below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2932,6 +2943,7 @@ Farmer Jack and Farmer Giles each have a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Farmer Jack’s field has an area of $24 \ \text{m}^2$.
 
 Its length is $8 \ \text{m}$. 
@@ -3042,6 +3054,7 @@ The width of Farmer Giles’ field is $4 \ \text{m}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the length of Farmer Giles’ field.
 
 </div>
@@ -3119,6 +3132,7 @@ Farmer Josephine also has a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 
 Farmer Josephine builds a fence along the perimeter of her field.
@@ -3172,7 +3186,9 @@ tratio
 Sanjay is making purple paint.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-trecipe-g0"
 title: "Topic - Recipe - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -102,7 +102,8 @@ Given that she had plenty of all the other ingredients, how many cupcakes can sh
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -165,6 +166,7 @@ $10$ twists of black pepper
 $80 \ \text{millilitres}$ olive oil
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

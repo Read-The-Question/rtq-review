@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -938,6 +938,7 @@ Draw the hour and minute hands on the clock below to show this time.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -996,6 +997,7 @@ $A(1,4), B(2,2)$ and $C(4,3)$
 Write down the coordinates of a fourth point $D$ which makes the shape $ABCD$ a square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1174,6 +1176,7 @@ The diagram below shows an ordinary die.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Consider the following events when a single die is rolled:
 
 A: "the score on the die is either a $5$ or a $6$" 
@@ -1205,7 +1208,8 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 \end{aligned}
 $
 
@@ -1474,6 +1478,7 @@ The total number of squares that you can see in the diagram is therefore $5$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each of the diagrams below fill in the spaces to work out the total number of squares that you can see. 
 
 </div>
@@ -1501,6 +1506,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are $\text{\textunderscore \textunderscore \textunderscore}$ $3$ by $3$ squares $\text{\textunderscore \textunderscore \textunderscore}$ 
 $2$ by $2$ squares $\text{\textunderscore \textunderscore \textunderscore}$ $1$ by $1$ squares so the total number of squares in a $3$ by $3$ 
@@ -1546,6 +1552,7 @@ square is $\underline {14}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are $\text{\textunderscore \textunderscore \textunderscore} 4$ by $4$ squares 
 $\text{\textunderscore \textunderscore \textunderscore} 3$ by $3$ squares $\text{\textunderscore \textunderscore \textunderscore} 2$ 
@@ -2674,6 +2681,7 @@ $2 \times 1320 + 780 + 2 \times 320 + 240 = \pounds 4300$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2905,6 +2913,7 @@ tinfer
 In the square below each letter stands for a different number.
 
 ![missing table](/papers/missing_table.svg)
+
 
 It is known that the four numbers in the second column add up to $78$, and the four numbers in the third column add up to $76$.
 

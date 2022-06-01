@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -298,6 +298,7 @@ tinfer
 Look at the following diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What fraction of the outer square is represented by
 
@@ -1012,6 +1013,7 @@ Look at the diagram below. The outer figure is $PQRS$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Using the letters marking each point or vertex, name each of the following: 
 
 </div>
@@ -1493,6 +1495,7 @@ Fill in the tally/frequency table below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1914,6 +1917,7 @@ Plot point $E$ and write down its co-ordinates.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2089,7 +2093,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -2221,7 +2227,9 @@ Part of a bus timetable is shown below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2521,6 +2529,7 @@ Calculate the total area **of the paths**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2757,6 +2766,7 @@ The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2816,6 +2826,7 @@ SUDOKU
 Complete the grid so that the numbers $1$ to $9$ occur (unrepeated) in every row, every column and every $3 \times 3$ square: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

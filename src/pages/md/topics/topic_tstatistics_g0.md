@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-g0"
 title: "Topic - Statistics - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -80,14 +80,22 @@ tstatistics
 
 Find the mean weight of the sharks below.
 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -519,6 +527,7 @@ $42 \text{p}, 38 \text{p}, 40 \text{p}$ and $36 \text{p}$.
 Calculate the mean price of a bottle of lemonade.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

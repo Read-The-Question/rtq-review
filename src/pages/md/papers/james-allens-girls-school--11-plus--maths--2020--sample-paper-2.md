@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -497,10 +497,14 @@ The difference between the terms is $11$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+11)} }
-&&  \footnotesize {\maroonC {(+11)} }
-&&  \footnotesize {\maroonC {(+11)} }
-&&  \footnotesize {\maroonC {(+11)} }  \\
+&   \footnotesize {\maroonC
+ {(+11)} }
+&&  \footnotesize {\maroonC
+ {(+11)} }
+&&  \footnotesize {\maroonC
+ {(+11)} }
+&&  \footnotesize {\maroonC
+ {(+11)} }  \\
 14, && 25, && 36, && 47, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -546,10 +550,14 @@ The next term we get by dividing previous term by $10$. Hence, the sequence woul
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }
-&&  \footnotesize {\maroonC {(\div 10)} }  \\
+&   \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }
+&&  \footnotesize {\maroonC
+ {(\div 10)} }  \\
 7000, && 700, && 70, && 7, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -595,10 +603,14 @@ The next term we get by Multiplying previous term by $3$ and by adding $1$. Henc
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC {(\times 3 + 1)} }
-&&  \footnotesize {\maroonC {(\times 3 + 1)} }  \\
+&   \footnotesize {\maroonC
+ {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC
+ {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC
+ {(\times 3 + 1)} }
+&&  \footnotesize {\maroonC
+ {(\times 3 + 1)} }  \\
 2, && 7, && 22, && 67, && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -644,10 +656,14 @@ The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-7)} }
-&&  \footnotesize {\maroonC {(-7)} }
-&&  \footnotesize {\maroonC {(-7)} }
-&&  \footnotesize {\maroonC {(-7)} }  \\
+&   \footnotesize {\maroonC
+ {(-7)} }
+&&  \footnotesize {\maroonC
+ {(-7)} }
+&&  \footnotesize {\maroonC
+ {(-7)} }
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
 23, && 16, && 9, && 2 , && \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -874,7 +890,8 @@ ttemperature
 
 Temperatures were taken on one day in each of five cities. The results are shown in the table.
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1210,7 +1227,8 @@ A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between t
 
 How long is the comb in centimetres?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1286,7 +1304,8 @@ tnumber
 
 Here is a list of the ingredients to make $15$ Chocolate Brownies.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1497,6 +1516,7 @@ How big is angle $x$ in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1536,6 +1556,7 @@ TODOANSWER
 What is the value of $x$ in this diagram? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1598,6 +1619,7 @@ In a survey, $1000$ people were asked if they owned a
 computer. The pictogram shows the results of the survey. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1775,7 +1797,8 @@ The top three rows are coloured as indicated.
 
 What colour must the bottom row be?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1965,7 +1988,8 @@ Sara catches the $19{:}25$ bus.
 
 What time does Sara arrive at the destination? 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

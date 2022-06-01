@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprobability-all"
 title: "Topic - Probability - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -138,6 +138,7 @@ If the probability of it raining tomorrow is $0.08$, what is the probability of 
 <div class='working'>
 
 Probabilities ALWAYS add up to 1.
+
 
 $
 \begin {aligned} 
@@ -293,10 +294,15 @@ tprobability
 The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 I am going to spin all the pointers.
 
@@ -446,13 +452,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -543,6 +552,7 @@ I am going to take a counter out of the bag at random.
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1383,6 +1393,7 @@ Fill in this tally chart and work out the frequencies (how many times she got ea
 
 ![missing table](/papers/missing_table.svg)
 
+
 Do you think the die was fair?
 
 Explain your answer:
@@ -1863,6 +1874,7 @@ This diagram shows the reults of a class survey concerning pets.
 
 ![missing table](/papers/missing_table.svg)
 
+
 How many children have at least one pet?
 
 </div>
@@ -2143,6 +2155,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with a $D$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $C$ on it?
@@ -2157,7 +2170,8 @@ Total cards with D left after one card is removed $4 - 1 = 3$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4} {1 + 2 + 4 + 3 + 3 + 2} \\\\
                     &= \dfrac {4} {15}
 \end{aligned}
@@ -2199,6 +2213,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $E$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $F$ on it?
@@ -2213,7 +2228,8 @@ Total cards with D left after one card is removed $3 - 1 = 2$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {2} {1 + 2 + 4 + 4 + 2 + 2} \\\\
                     &= \dfrac {2} {15}
 \end{aligned}
@@ -2261,7 +2277,8 @@ What is the probability of picking a green counter?
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {5 + 2 + 7 + 1} \\\\
                     &= \dfrac {7} {15}
 \end{aligned}
@@ -2303,6 +2320,7 @@ $16$ cards each have a letter on them. The chart below shows how many with each 
 
 ![missing image](/papers/missing_image.svg)
 
+
 I pick a card with an $F$ on it and don’t put it back.
 
 If I pick another card, what is the probability it will have a $E$ on it?
@@ -2317,7 +2335,8 @@ Total cards with D left after one card is removed $2 - 1 = 1$
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {3} {1 + 2 + 4 + 4 + 3 + 1} \\\\
                     &= \dfrac {3} {15} \\\\
                     &= \dfrac {3} {5 \times 3} \\\\
@@ -2525,6 +2544,7 @@ Complete the table and bar chart for the students' findings.
 | Number of flowsers |     |        |   72   |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2975,7 +2995,8 @@ I will pick out a green one?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {3} {2 + 3 + 4} \\\\
 &= \dfrac {3} {9} \\\\
 &= \dfrac {3} {3 \times 3} \\\\
@@ -3014,7 +3035,8 @@ I will pick a pencil that isn’t red?
 
 $
 \begin {aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {2 + 3} {2 + 3 + 4} \\\\
 &= \dfrac {5} {9}
 \end {aligned}
@@ -3061,7 +3083,8 @@ tprobability
 There are two Maths classes in Year $6$, one is called $6 \text{A}$ and the other $6 \text{B}$.
 The numbers of boys and girls in each class is shown in the table.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3387,6 +3410,7 @@ TODOANSWER
 Four identical rectangles are joined together to form a larger rectangle, as shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The area of the larger rectangle is $192 \ \text{cm}^2$
 Find the length of the side labelled $X$.
@@ -3737,6 +3761,7 @@ Here is an octagonal spinner:
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each statement put a tick $(\checkmark)$ if it is true or a cross $(\text{X})$ if it is false.
 
 $3$ is the most likely score $\text{\textunderscore \textunderscore \textunderscore}$
@@ -3794,6 +3819,7 @@ He wants the probability of getting a $1$ to be greater than the probability of 
 Enter the number(s) $1, 2, 3$ or $4$ into each of the eight sections of the spinner.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4016,6 +4042,7 @@ tprobability
 Fred has a bag of sweets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He is going to take a sweet from the bag at random.
 
@@ -4813,6 +4840,7 @@ The diagram shows $18$ shapes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5279,7 +5307,9 @@ tprobability
 
 Lee has two spinners 
              
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)              
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+              
 
 </div>
 <div class='workings'>
@@ -5570,6 +5600,7 @@ Total counters $= 24 + 15 + a$
 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
 
+
 $
 \begin{aligned}
 \text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
@@ -5618,7 +5649,8 @@ tcircleanswer
 </div>
 <div class='question question'>
 
-If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg) 
+If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg)
+ 
 a)  A score of $7$ 
 b)  A score of more than $10$
 c)  A score that is an even number.
@@ -5675,6 +5707,7 @@ As per the question,
 Total counters $= 32 + 14 + a$
 
 \text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
 
 $
 \begin{aligned}
@@ -5903,7 +5936,8 @@ a red smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {7} {18}
 \end{aligned}
@@ -5937,7 +5971,8 @@ a blue or pink smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {6} {18} \\\\
                     &= \dfrac {6} {6 \times 3} \\\\
@@ -5974,7 +6009,8 @@ not an orange smartie?
 
 $
 \begin{aligned}
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {7 + 4 + 2} {7 + 4 + 2 + 5} \\\\
                     &= \dfrac {13} {18}
 \end{aligned}
@@ -6363,6 +6399,7 @@ The diagram below shows an ordinary die.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Consider the following events when a single die is rolled:
 
 A: "the score on the die is either a $5$ or a $6$" 
@@ -6394,7 +6431,8 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 \end{aligned}
 $
 
@@ -6871,6 +6909,7 @@ Complete the table below to show all $24$ equally likely final scores.
 
 ![missing table](/papers/missing_table.svg)
 
+
 If he repeats this experiment lots and lots of times, what fraction of the total scores are:
 
 </div>
@@ -6948,7 +6987,9 @@ TODOANSWER
 $12$ or more?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7004,6 +7045,7 @@ tprobability
 Stuart has a dodgy dice. He rolls it $30$ times and records the results in a tally chart. Fill in the last column of the chart.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7393,7 +7435,9 @@ Mark  and Sarah each has a bag of coloured counters.
 These pie charts show the proportion of each colour in their bags.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7652,6 +7696,7 @@ Mr Prime has these numbered discs face down on a table:
 
 ![missing image](/papers/missing_image.svg)
 
+
 He turns one over at random.
 
 On the line below, mark the following probabilities with the letters shown:
@@ -7663,6 +7708,7 @@ On the line below, mark the following probabilities with the letters shown:
 - the number on his disc is a multiple of $12$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7708,6 +7754,7 @@ tprobability
 Belinda has $60$ coloured counters. One third of them are red.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7864,6 +7911,7 @@ On the probability scale below, mark the following probabilities with the letter
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7921,6 +7969,7 @@ On the line below, mark the following probabilities with the letters shown:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -   she gets an even number on the top face
 
 -    she gets a $6$ on the top face
@@ -7928,6 +7977,7 @@ On the line below, mark the following probabilities with the letters shown:
 -    she gets a number less than $7$ on the top face
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8366,6 +8416,7 @@ Bag $A$ and Bag $B$ contain black and white balls as shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bob is going to pick a ball at random for each bag.
 
 </div>
@@ -8424,6 +8475,7 @@ On the probability scale below, mark with an arrow the probability
 that the ball he picks from bag $B$ is white.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8510,6 +8562,7 @@ it is certain to land on $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8550,6 +8603,7 @@ there is an even chance of it landing on $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8589,6 +8643,7 @@ TODOANSWER
 it is twice as likely to land on $4$ as on $3$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8907,6 +8962,7 @@ tprobability
 
 ![missing image](/papers/missing_image.svg)
 
+
 Hayley has some fair six-sided dice.
 
 She chooses one die and rolls it.
@@ -9040,6 +9096,7 @@ Petra has a bag containing $24$ counters which are green, blue or red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 $50\%$ of the counters are green.
 
 There are twice as many blue counters as red counters in the bag.
@@ -9048,6 +9105,7 @@ There are twice as many blue counters as red counters in the bag.
 She picks one counter at random from the bag.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 From the probability scale shown, write down the letter which represents the probability that her counter is:
@@ -9179,11 +9237,13 @@ The diagram shows a spinner with the numbers $1$ to $20$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Vanessa spins the spinner.
 
 The spinner is equally likely to land on each section of the disc.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the likelihood scale above:
 
@@ -9348,7 +9408,8 @@ Let's calculate the first value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {6}
 \end{aligned}
 $
@@ -9357,7 +9418,8 @@ Let's calculate the second value.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac {1} {2} \\\\
                     &= \dfrac {1 \times 3} {2 \times 3} \\\\
                     &= \dfrac {3} {6}
@@ -9414,7 +9476,8 @@ Give your answer as a fraction.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
                     &= \dfrac { 11 } {  20 }
 \end{aligned}
@@ -9465,7 +9528,8 @@ $
                                                     &= 5 \\\\
 \text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
                                                     &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                                                     &= \dfrac { 5 + 7 } {  50 } \\\\
                                                     &= \dfrac { 12 } {  50 } \\\\
                                                     &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\
@@ -9517,7 +9581,8 @@ When she draws one disc out, what is the probability that the disc is **NOT** re
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 &= \dfrac {6 + 5} {6 + 5 + 9} \\\\
 &= \dfrac {11} {20}
 \end{aligned}
@@ -9558,6 +9623,7 @@ tprobability
 What is the probability of scoring a $6$ on this spinner?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9684,6 +9750,7 @@ TODOANSWER
 Bob says “$3$ has a less than even change of coming up”.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Is he right?
 
@@ -9955,6 +10022,7 @@ B.  Just as likely to land on a prime number as not a prime number?
 C.  More likely to land on a number that is not a prime number rather than a prime number?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

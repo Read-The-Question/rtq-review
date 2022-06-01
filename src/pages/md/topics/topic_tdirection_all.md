@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdirection-all"
 title: "Topic - Direction - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -24,6 +24,7 @@ tdirection
 Look at the dial.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -174,6 +175,58 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2435DACD-2A4E-4356-9B51-B7EB491D9F2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdirection
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chi is facing North East.
+
+In which direction will he be facing if he turns clockwise through $3$ right angles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -366,6 +419,7 @@ W for West, name the eight points on this compass. North (N) has been marked for
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -423,6 +477,7 @@ tdirection
 The diagram shows the number of paths from Queton to Toytown through Rowton or Seton.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many different ways are there of getting from Queton to Toytown if you can only go from left to right?
 
@@ -484,6 +539,7 @@ The shape is turned $270 \degree$ clockwise, and then $45 \degree$  anticlockwis
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -541,6 +597,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing North East. If you turn through $135 \degree$ clockwise, which way are you facing?  
 
@@ -602,6 +659,7 @@ Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Imagine you are facing South East. If you turn through $270^o$ clockwise, which way are you facing? 
 
 </div>
@@ -660,6 +718,7 @@ tdraw
 Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing west. If you turn through $270^o$ anticlockwise, which way are you then facing?
 
@@ -781,9 +840,13 @@ Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on t
 the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -978,6 +1041,7 @@ The streets of New York are arranged in a grid as shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 There are three direct ways of travelling from $A$ to $B$.
 
 Travel one block North followed by two blocks East
@@ -1164,6 +1228,7 @@ He has given him these instructions to help him find it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Adam has decided to draw an accurate map to help.
 
 </div>
@@ -1205,6 +1270,7 @@ Using a scale of $1 \ \text{millimetre}$ to represent $1 \ \text{metre}$, draw a
 You will need to use a protractor.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1417,6 +1483,7 @@ Fred is facing south. He turns through $45 \degree$ in a clockwise direction.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1582,6 +1649,7 @@ For example, there are three different possible footpaths between villages $Q$ a
 
 ![missing image](/papers/missing_image.svg)
 
+
 Jane wants to walk from village $A$ and $B$ without travelling through any village twice on her route.
 
 Work out how many different possible routes Jane could take?
@@ -1643,6 +1711,7 @@ tnumber
 The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1791,6 +1860,7 @@ Below is an accurate diagram of Bertie’s route.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1929,6 +1999,7 @@ tdirection
 The map below shows the streets in a part of Peterford with the houses of several people marked.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

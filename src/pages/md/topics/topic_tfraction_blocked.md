@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-blocked"
 title: "Topic - Fraction - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -122,6 +122,7 @@ $\dfrac {1} {12}$
 What fraction in the diagram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

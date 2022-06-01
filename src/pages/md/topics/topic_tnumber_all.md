@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,7 +60,8 @@ a       &= 17
 \end{aligned}
 $
 
-$60 - \underline{\green{17}} = 43$
+$60 - \underline{\green
+{17}} = 43$
 
 </div>
 </div>
@@ -100,7 +101,8 @@ a           &= 7
 \end{aligned}
 $
 
-$\underline{\green{7}} \times 40 = 280$
+$\underline{\green
+{7}} \times 40 = 280$
 
 
 </div>
@@ -139,7 +141,8 @@ a         &= 150
 \end{aligned}
 $
 
-$\underline{\green{150}} \div 30 = 5$
+$\underline{\green
+{150}} \div 30 = 5$
 
 </div>
 </div>
@@ -177,7 +180,8 @@ a      &= 7
 \end{aligned}
 $
 
-$-8 + \underline{\green{7}} = -1$
+$-8 + \underline{\green
+{7}} = -1$
 
 </div>
 </div>
@@ -246,7 +250,8 @@ $100 \times 2.8 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$100 \times 2.8 = \underline{\green{280}}$
+$100 \times 2.8 = \underline{\green
+{280}}$
 
 </div>
 </div>
@@ -725,7 +730,8 @@ $\ldots + 46 = 100$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{54}} + 46 = 100$
+$\underline{\green
+{54}} + 46 = 100$
 
 </div>
 </div>
@@ -753,7 +759,8 @@ $9 \times \ldots = 108$
 <div class='workings'>
 <div class='working'>
 
-$9 \times \underline{\green{12}} = 108$
+$9 \times \underline{\green
+{12}} = 108$
 
 </div>
 </div>
@@ -781,7 +788,8 @@ $\ldots \div 20 = 7$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{140}} \div 20 = 7$
+$\underline{\green
+{140}} \div 20 = 7$
 
 </div>
 </div>
@@ -809,7 +817,8 @@ $3 - \ldots = -8$
 <div class='workings'>
 <div class='working'>
 
-$3 - \underline{\green{11}} = -8$
+$3 - \underline{\green
+{11}} = -8$
 
 </div>
 </div>
@@ -881,7 +890,8 @@ $2.4 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$2.4 \times 100 = \underline{\green{240}}$
+$2.4 \times 100 = \underline{\green
+{240}}$
 
 </div>
 </div>
@@ -909,7 +919,8 @@ $8600 \div 10 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$8600 \div 10 = \underline{\green{860}}$
+$8600 \div 10 = \underline{\green
+{860}}$
 
 </div>
 </div>
@@ -937,7 +948,8 @@ $\ldots \times 30 = 600$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{20}} \times 30 = 600$
+$\underline{\green
+{20}} \times 30 = 600$
 
 </div>
 </div>
@@ -965,7 +977,8 @@ $80 \div 200 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$80 \div 200 = \underline{\green{0.4}}$
+$80 \div 200 = \underline{\green
+{0.4}}$
 
 </div>
 </div>
@@ -1037,7 +1050,8 @@ $0.609 \quad     0.069 \quad     0.63 \quad     0.063$
 <div class='workings'>
 <div class='working'>
 
-$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+$0.609 \quad     0.069 \quad     \boxed{\green
+{0.63}} \quad     0.063$
 
 </div>
 </div>
@@ -1065,7 +1079,8 @@ $-7.5 \quad    -1 \quad      -8 \quad     -1.5$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+$-7.5 \quad   \boxed{\green
+{-1}} \quad      -8 \quad     -1.5$
 
 </div>
 </div>
@@ -1100,7 +1115,8 @@ $
 \end{aligned}
 $
 
-$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+$0.09 \quad     39\% \quad    \boxed{\green
+{0.44}} \quad     \dfrac{2}{5}$
 
 </div>
 </div>
@@ -1521,7 +1537,8 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
-$94 - \underline{\green{29}} = 65$
+$94 - \underline{\green
+{29}} = 65$
 
 </div>
 </div>
@@ -1549,7 +1566,8 @@ $\ldots \times 40 = 360$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{9}} \times 40 = 360$
+$\underline{\green
+{9}} \times 40 = 360$
 
 </div>
 </div>
@@ -1577,7 +1595,8 @@ $\ldots \div 0.5 = 20$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{10}} \div 0.5 = 20$
+$\underline{\green
+{10}} \div 0.5 = 20$
 
 </div>
 </div>
@@ -1605,7 +1624,8 @@ $-35 + \ldots = -26$
 <div class='workings'>
 <div class='working'>
 
-$-35 + \underline{\green{9}} = -26$
+$-35 + \underline{\green
+{9}} = -26$
 
 </div>
 </div>
@@ -1653,7 +1673,9 @@ $44 \quad 91 \quad 350 \quad 789$
 <div class='workings'>
 <div class='working'>
 
-$44 \quad \boxed{\green{91}} \quad \boxed{\green{350}} \quad 789$
+$44 \quad \boxed{\green
+{91}} \quad \boxed{\green
+{350}} \quad 789$
 
 </div>
 </div>
@@ -1816,7 +1838,8 @@ $\ldots + 15 = 43$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{28}} + 15 = 43$
+$\underline{\green
+{28}} + 15 = 43$
 
 </div>
 </div>
@@ -1844,7 +1867,8 @@ $6 \times \ldots = 54$
 <div class='workings'>
 <div class='working'>
 
-$6 \times \underline{\green{9}} = 54$
+$6 \times \underline{\green
+{9}} = 54$
 
 </div>
 </div>
@@ -1872,7 +1896,8 @@ $\ldots - 23 = 57$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{80}} - 23 = 57$
+$\underline{\green
+{80}} - 23 = 57$
 
 </div>
 </div>
@@ -1900,7 +1925,8 @@ $64 \div \ldots = 8$
 <div class='workings'>
 <div class='working'>
 
-$64 \div \underline{\green{8}} = 8$
+$64 \div \underline{\green
+{8}} = 8$
 
 </div>
 </div>
@@ -2019,7 +2045,8 @@ $14 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$14 \times 100 = \underline{\green{1400}}$
+$14 \times 100 = \underline{\green
+{1400}}$
 
 </div>
 </div>
@@ -2047,7 +2074,8 @@ $864 \div 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$864 \div 100 = \underline{\green{8.64}}$
+$864 \div 100 = \underline{\green
+{8.64}}$
 
 </div>
 </div>
@@ -2075,7 +2103,8 @@ $\ldots \times 300 = 60$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{0.2}} \times 300 = 60$
+$\underline{\green
+{0.2}} \times 300 = 60$
 
 
 </div>
@@ -2122,6 +2151,7 @@ tnoexplanation
 Look at the numbers in the star.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2309,7 +2339,8 @@ $0.309 \quad 0.039 \quad 0.93 \quad 0.093$
 <div class='workings'>
 <div class='working'>
 
-$0.309 \quad  \boxed{\green{0.039}} \quad 0.93 \quad 0.093$
+$0.309 \quad  \boxed{\green
+{0.039}} \quad 0.93 \quad 0.093$
 
 </div>
 </div>
@@ -2337,7 +2368,8 @@ $-7.5 \quad -8 \quad 2 \quad 0$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad \boxed{\green{-8}} \quad 2 \quad 0$
+$-7.5 \quad \boxed{\green
+{-8}} \quad 2 \quad 0$
 
 </div>
 </div>
@@ -2367,7 +2399,8 @@ $\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad \dfrac{1}{8}$
 
 These are all unit fractions. The smallest unit fraction is the one which has the biggest denominator.
 
-$\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad  \boxed{\green{\dfrac{1}{8}}}$
+$\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad  \boxed{\green
+{\dfrac{1}{8}}}$
 
 </div>
 </div>
@@ -2399,8 +2432,10 @@ $
 \begin{aligned}
 &= 0.4 \quad 30 \% \quad 0.22 \quad \dfrac{1}{4} \\\\
 &= 0.4 \quad 0.3 \quad 0.22 \quad 0.25 \\\\
-&= 0.4 \quad 0.3 \quad  \boxed{\green{0.22}} \quad 0.25 \\\\
-&= 0.4 \quad 30 \% \quad \boxed{\green{0.22}} \quad \dfrac{1}{4}
+&= 0.4 \quad 0.3 \quad  \boxed{\green
+{0.22}} \quad 0.25 \\\\
+&= 0.4 \quad 30 \% \quad \boxed{\green
+{0.22}} \quad \dfrac{1}{4}
 \end {aligned}
 $
 
@@ -3448,13 +3483,16 @@ It is **certain** that you will get a number **less than 6**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **more likely** that you will get an **even** number than an **odd** number.
 
 ![missing image](/papers/missing_image.svg)
 
+
 It is **impossible** that you will get a multiple of **3**.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5070,6 +5108,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5107,6 +5146,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5204,6 +5244,7 @@ TODOANSWER
 Can you find numbers to replace $A, B$ and $C$ in this sum? ($A, B$ and $C$ are all different numbers)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5760,6 +5801,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5797,6 +5839,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5904,6 +5947,7 @@ The jug contains some orange squash.
 How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6753,6 +6797,7 @@ In the boxes, write the numbers that their arrows are pointing to.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6792,6 +6837,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6834,6 +6880,7 @@ There is some liquid in the container.
 How many **more** millilitres must be added to fill it up to the $900 \ \text{ml}$ mark?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6892,6 +6939,7 @@ tnumber
 It takes $9 \ \text{litres}$ of paint to cover the surface of the cube on the left.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many litres of paint would it take to cover the surface of the shape on the right?
 
@@ -7496,6 +7544,723 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>9DDC6BED-46F5-4D58-8398-4817F0CC7992</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the boxes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2018 - \boxed{\phantom{5555}} = 1989$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.5 \div \dfrac{1}{2} = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$18 + \boxed{\phantom{5555}} + 23 = 67$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{5555}} \times 5 \times 10 = 4500$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{4}$ of $36 = \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write in figures the number two million, two hundred and two $= \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6111C775-4A87-420C-8E16-F677E36D388B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Divide $(2018 - 20 + 18)$ by $8$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5076E85F-CDAE-4C5E-851D-F9C834A45C1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number (written in digits) is twenty **less** than twenty thousand?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5C40F174-3264-4060-8E9E-DE9D82B301EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given thaat $44 \times 382 = 16808$, use this information to work these out:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$16808 \div 382$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$88 \times 191$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1680.8 \div 44$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>90E2A5C8-884E-40C1-9D68-7DCB7181345F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which one of the following numbers is three **less** than a multiple of $5$ and three more than a multiple of $6$?
+
+- 12
+- 17
+- 21
+- 22
+- 27
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest four-digit positive whole number which has four different digits?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many odd three-digits numbers is it possible to make, using just the numbers $7, 8$ and $9$?
+
+(You are allowed to use each of the numbers more than once in a particular three-digit number.)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>6245D1C8-DAAF-4FB0-B3DD-FFA1E759A12F</p>
 </div>
 <div class='topics'>
@@ -7873,6 +8638,7 @@ number is taken away from the first to give a total.
 Each digit from $1$ to $6$ is used exactly once.
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -9098,6 +9864,7 @@ What are the missing values on each of these scales?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9125,6 +9892,7 @@ $4.5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10695,6 +11463,7 @@ Look at the following diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of the outer square is represented by
 
 </div>
@@ -11407,6 +12176,7 @@ The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11466,6 +12236,7 @@ SUDOKU
 Complete the grid so that the numbers $1$ to $9$ occur (unrepeated) in every row, every column and every $3 \times 3$ square: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12939,6 +13710,7 @@ How many triangles are there in this picture?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14039,9 +14811,16 @@ tnumber
 
 Look at these number cards.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the card that is 
 
@@ -14387,6 +15166,7 @@ You can buy a new calculator for $\bold{\pounds 1.25}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
 
 How much did the same type of calculator cost in 1979?
@@ -14444,11 +15224,16 @@ tinfer
 
 Here are some number cards:
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  
 
 You can use each card once to make the number $1735$, like this:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14562,25 +15347,33 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use some of the four number cards to make numbers that are **as close as possible** to the numbers written below. 
 
 Examples
 
 $\bold{80}$   ![missing image](/papers/missing_image.svg)
 
+
 $\bold{30}$   ![missing image](/papers/missing_image.svg)
+
 
 You must **not** use the same card more than once in each answer.
 
 $\bold{50}$    ![missing image](/papers/missing_image.svg)
 
+
 $\bold{60}$    ![missing image](/papers/missing_image.svg)
+
 
 $\bold{4000}$  ![missing image](/papers/missing_image.svg)
 
+
 $\bold{1500}$  ![missing image](/papers/missing_image.svg)
 
+
 $\bold{1600}$   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14680,6 +15473,7 @@ The diagram shows part of a number line.
 What number is the arrow pointing to? Write your answer in the box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14817,6 +15611,7 @@ tnoexplanation
 How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15433,6 +16228,66 @@ $27400, 169, 7, 5, 64, 0.8, 1634$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EBAA41D6-4D72-44C7-ACD8-7C23E483986D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The calculator display below shows $\dfrac{2}{9}$ as a decimal.
+
+Complete the empty box to show how the calculator would display the answer to $\dfrac{2}{900}$.
+
+$\underline{You\:\: do\:\: not\:\: need\:\: to\:\: write\:\: your\:\: digits\:\: in\:\: the\:\: same\:\: style}$, but you should use $104$ digits.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
@@ -15622,6 +16477,7 @@ What is the reading on the measuring cylinder
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15717,7 +16573,9 @@ Both of these nets fold to make a cube.
 
 Shade the square that will be opposite the black square when the net is folded into a cube.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15906,6 +16764,133 @@ $7$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>100EEEDE-29A3-402E-B249-3FBCFBCBA573</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Round $12.05$ to:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The nearest whole number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+To $1$ decimal place
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
@@ -16002,6 +16987,446 @@ $20000 \ \text{mm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5DA81E8F-CB8A-4D87-BB80-82B6B5D89B64</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are told that $82 \times 107 = 8774$
+
+Use this to work out the value of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8200 \times 107$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8774 \div 107$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8774 \div 41$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bus can seat $82$ people.
+
+$\bold{8770}$ people travel to a football match by bus. 
+
+How many buses are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the number from the following clues:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$81$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a whole number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is less than $100$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a square number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is one less than a multiple of $5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$16$ is a factor of this number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -16339,7 +17764,8 @@ $
     &       &                         5   &   6 \\
 {}+ &  9    &                         7   &   5 \\
 \hline
-  1 &  0    & \maroonC {3}   &   1
+  1 &  0    & \maroonC
+ {3}   &   1
 \end{array}
 $
 
@@ -16372,7 +17798,8 @@ $0.35 + 1.{?}7 = 2.22$
 $
 \begin{array}{cccccc}
     &   0 \ . &                         3   &   5 \\
-{}+ &   1 \ . & \maroonC {8}   &   7 \\
+{}+ &   1 \ . & \maroonC
+ {8}   &   7 \\
 \hline
     &   2 \ . &                         2   &   2
 \end{array}
@@ -16406,7 +17833,8 @@ $9{?}5 - 128 = 777$
 
 $
 \begin{array}{cccccccccccccc}
-    &  9    & \maroonC {0}    &   6 \\
+    &  9    & \maroonC
+ {0}    &   6 \\
 {}- &  1    &                          2   &   8 \\
 \hline
     &  7    &                          7   &   1
@@ -16480,7 +17908,8 @@ $13 \times 1{?}1 = 1703$
 $
 \begin{array}{ccccccccc}
        &        &                             1   &   3 \\
-\times &    1   &     \maroonC {3}   &   1 \\
+\times &    1   &     \maroonC
+ {3}   &   1 \\
 \hline
        &        &                             1   &   3 \\
        &    3   &                             9   &   0 \\
@@ -16516,7 +17945,8 @@ $1.1 \div 2 = 0.{?}5$
 <div class='workings'>
 <div class='working'>
 
-$1.1 \div 2 = 0. \maroonC {5} 5$
+$1.1 \div 2 = 0. \maroonC
+ {5} 5$
 
 </div>
 </div>
@@ -16592,7 +18022,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-9 \maroonC {7} - 65 &= 32 \\\
+9 \maroonC
+ {7} - 65 &= 32 \\\
 \end {aligned}
 $
 
@@ -16628,7 +18059,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-39 + \maroonC {7} 8 + 50 &= 167 \\\
+39 + \maroonC
+ {7} 8 + 50 &= 167 \\\
 \end {aligned}
 $
 
@@ -16664,7 +18096,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-734 + (8 \times 2 \maroonC {7}) &= 950 \\\
+734 + (8 \times 2 \maroonC
+ {7}) &= 950 \\\
 \end {aligned}
 $
 
@@ -16713,6 +18146,7 @@ The grid below is a magic square. Every row, column and diagonal must add to $1-
 What value must be placed in the shaded box?
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -17427,6 +18861,7 @@ Ola is looking at the scale on a thermometer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -17915,8 +19350,10 @@ For each part of this question, complete the calculation by inserting the correc
 $
 \begin{array}{cccccccccccccc}
     &    1  &                         3   &                       9 \\
-{}+ &    5  & \maroonC   1   &                       7 \\
-    &    6  &                         5   & \maroonC 6
+{}+ &    5  & \maroonC
+   1   &                       7 \\
+    &    6  &                         5   & \maroonC
+ 6
 \end{array}
 $
 
@@ -18083,6 +19520,7 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 In this magic square, each row, each column and each of the diagonals add to $15$.
 
 </div>
@@ -18123,6 +19561,7 @@ Insert the correct number in two empty positions to complete this magic square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -18162,6 +19601,7 @@ TODOANSWER
 Insert the correct number in the two **unshaded** positions to part complete this magic square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19202,9 +20642,11 @@ In the pyramid of bricks below the number on a brick equals the two numbers imme
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the numbers on the three bricks to complete this pyramid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19272,7 +20714,9 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+$\maroonC
+ {7 ^ 2} - \maroonC
+ {4 ^ 2} = 33$
 
 </div>
 </div>
@@ -20107,6 +21551,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -20166,7 +21611,8 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -20412,6 +21858,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -20472,7 +21919,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -20916,7 +22364,8 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
 
@@ -21211,6 +22660,7 @@ tvenn
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number is in the wrong place?
 
 </div>
@@ -21271,7 +22721,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
 
@@ -21565,6 +23016,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which arrow is pointing at $2375$?
 
@@ -21987,6 +23439,7 @@ team wear numbers $2$ to $9$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The captain of the next team in the rankings wears number $11$ and his team mates are given the race numbers from $12$ to $19$. 
 The third team gets allotted the race numbers $21$ to $29$, and so on.
 
@@ -22244,7 +23697,8 @@ in the circle.
 
 For example, $5 + 4 + 3 + 2 = 14$, so:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -22283,8 +23737,11 @@ TODOANSWER
 Complete the three grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22325,6 +23782,7 @@ TODOANSWER
 Complete the network of grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22368,6 +23826,7 @@ and **the same number must not appear more than once**.
 Complete this final network below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -22672,7 +24131,8 @@ $((3 - 7) - 4) = ((-4) - 4) = -8$
 Therefore,
 
 \begin{matrix}
-3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green
+{3 - (7 - 4)}} && ((3 - 7) - 4)
 \end{matrix}
 
 </div>
@@ -22828,7 +24288,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -22959,6 +24420,7 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23031,6 +24493,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23068,6 +24531,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23111,6 +24575,7 @@ TODOANSWER
 A tower with five rows is made and the bottom row is:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down the number which will appear at the top of the tower.
 
@@ -23516,6 +24981,7 @@ tnumber
 In a survey a group of children were asked how many films they had seen in the last week. No-one in the group had seen more than four films, and the results are shown in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25066,7 +26532,8 @@ Along any line drawn, the numbers in the two circles at the end of a line should
 
 Fill the remaining squares and circles with numbers obeying this rule. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -25380,6 +26847,7 @@ How much is triangle worth?
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  Can't tell
 -  $1$
 -  $2$
@@ -25450,8 +26918,11 @@ tnumber
 Here is a pattern made from grey and white tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 A shape in the pattern has $28$ grey tiles.
 
@@ -25522,6 +26993,7 @@ tnumber
 Here are $2$ number machines:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Both machines have the same input.
 Work out the input if both machines also have the same output.
@@ -26376,6 +27848,7 @@ and one number from each column.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I then multiply the three numbers together.
 
 What is the largest possible product?
@@ -26799,6 +28272,7 @@ tnumber
 On a very long straight road there are four villages: Allwood, Bentham, Corford and Dunbar, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The arrows show distances between villages.
 
@@ -27349,6 +28823,7 @@ On this journey Woody walked a certain distance, and turned right.
 Each time he turned right he walked $2 \ \text{metres}$ less than he did the time before.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the last part of his journey before stopping he walked one metre. How far did he walk altogether? 
 
@@ -28944,6 +30419,7 @@ Complete this subtraction pyramid, where number in the boxes  are the difference
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29791,6 +31267,7 @@ tnumber
 How many different ways can I travel from $P$ to $Q$? I can only travel on the lines shown and I must not go over any line more than once on a journey.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $2$
 - $3$
@@ -30881,20 +32358,63 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }  \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 - 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 7 - 3 \\\\
+                                  &= 4
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
 28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -31194,10 +32714,14 @@ joined to together.
 Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
 
 ![missing image](/papers/missing_image.svg)
+ 
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -31331,7 +32855,8 @@ A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between t
 
 How long is the comb in centimetres?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -31407,7 +32932,8 @@ tnumber
 
 Here is a list of the ingredients to make $15$ Chocolate Brownies.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -31586,6 +33112,7 @@ computer. The pictogram shows the results of the survey.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -31762,7 +33289,8 @@ The top three rows are coloured as indicated.
 
 What colour must the bottom row be?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -31869,7 +33397,8 @@ The total of the opposite faces on a dice is always $7$.
 Jack places  three dice on a table as shown in the diagram. 
 What is the total score of the faces that Jack cannot see?
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -32098,7 +33627,8 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -32626,7 +34156,8 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
@@ -33196,6 +34727,7 @@ Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write down any of these numbers which are:
 
 </div>
@@ -33366,6 +34898,7 @@ TODOWORKING
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -34149,6 +35682,7 @@ What number is $\dfrac{2}{5}$ of the way along the number line?
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show your working. 
 
 </div>
@@ -34227,6 +35761,7 @@ planks of wood.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much space should he leave between each of the planks of wood?
 
 Show your working. 
@@ -34290,6 +35825,7 @@ tnumber
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -34526,10 +36062,15 @@ Here are three numbers
 and two operations on five cards.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which of these gives the answer $15$?
 
@@ -36849,7 +38390,9 @@ TODOANSWER
 
 Copy and complete the diagrams below using the same rule and only positive numbers.
 
-![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -36890,6 +38433,7 @@ TODOANSWER
 If the same rules are used in the diagram below, what are the possible values for the number $x$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -36950,7 +38494,8 @@ tnoexplanation
 
 Which digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $1$ 
 
@@ -37280,7 +38825,8 @@ tnoexplanation
 
 What digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $8$ 
 
@@ -39784,7 +41330,13 @@ tnumber
 
 Look at these number cards.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -39824,7 +41376,9 @@ Choose two of the cards to give the **lowest possible answer**.
 
 Fill in the cards below and work out the answer.
 
-![missing image](/papers/missing_image.svg) x ![missing image](/papers/missing_image.svg) = .....
+![missing image](/papers/missing_image.svg)
+ x ![missing image](/papers/missing_image.svg)
+ = .....
 
 </div>
 <div class='workings'>
@@ -39864,7 +41418,9 @@ TODOANSWER
 
 Choose two of the cards to give the answer **100**
 
-![missing image](/papers/missing_image.svg) \div ![missing image](/papers/missing_image.svg) = 100
+![missing image](/papers/missing_image.svg)
+ \div ![missing image](/papers/missing_image.svg)
+ = 100
 
 </div>
 <div class='workings'>
@@ -40929,6 +42485,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 From the numbers in the ring write down all the
 
@@ -43642,6 +45199,7 @@ There is some coloured water in the jar.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much **more** water is needed to make $\bold{2 \ \text{litres}}$?
 
 </div>
@@ -43859,6 +45417,7 @@ tinfer
 Use each number from $1$ to $8$ once in the boxes to make all the calculations correct:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -49123,6 +50682,7 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -49752,7 +51312,12 @@ Now look at this second pattern
 
 SHAPE 1 2 3 4 5
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 TOTAL 1 3 6 10 15
 
@@ -53341,9 +54906,11 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $2538$ like this
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -53459,7 +55026,9 @@ Use some of the four number cards to make numbers as close as possible to the nu
 
 $60$.       ![missing image](/papers/missing_image.svg)
 
+
 $400$        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -53520,7 +55089,10 @@ tsequence
 
 A pattern is made using balls as shown here.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+
 
 Pattern1    Pattern 2    Pattern 3
 
@@ -55567,6 +57139,7 @@ tnumber
 The London Eye has $32$ passenger capsules, each of which can take up to $18$ people. What is the maximum number of passengers that can travel at any one time?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -61686,6 +63259,7 @@ tnumber
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagram shows a large cube that has been made by stacking smaller, $1 \ \text{cm}$ cubes together. 
 
 </div>
@@ -63271,6 +64845,7 @@ What are the missing numbers?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -63325,6 +64900,7 @@ tnumber
 In this fence the posts are all the same width as each other. The gaps are all the same width as each other, too.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How wide is each gap? 
 
@@ -63855,7 +65431,8 @@ Work out the answer to the following, giving your answer as a **decimal**.
 $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$  
         
 
-![missing image](/papers/missing_image.svg)    
+![missing image](/papers/missing_image.svg)
+    
 
 </div>
 <div class='workings'>
@@ -64120,7 +65697,8 @@ tnumber
 
 The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -64373,7 +65951,9 @@ In this multiplication each letter stands for a **different** digit. What digit 
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   
+
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -64851,7 +66431,8 @@ tnumber
 
 Fill  in the   missing  numbers  in this  division
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -65205,6 +66786,7 @@ A  factor   tree  can   be used  to write a  number   as the   product  of prime
 For   example
 
 ![missing image](/papers/missing_image.svg)
+
 
 So  **$90 = 2 \times 5 \times 3 \times 3$** 
 By drawing  a  factor   tree, or using any   other method   you   know, write **36** as the   product  of prime factors.
@@ -65632,6 +67214,7 @@ tinfer
 
 Here is the 65 times table:
 ![missing image](/papers/missing_image.svg)
+
 Use the table to answer the following questions 
 
 </div>
@@ -68717,7 +70300,8 @@ $\pounds 1.28 + 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -69772,10 +71356,14 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -69797,10 +71385,14 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -69965,6 +71557,7 @@ tinfer
 The numbers $1$ to $500$ are arranged in order in a table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Only rows $1, 2, 3$ and $4$ are shown, but there are **many more rows**.
 
@@ -70674,6 +72267,7 @@ Find the sum of the faces that border with the marked corner:
 
 ![missing image](/papers/missing_image.svg)
 
+
 For example, the sum of the faces $= 3 + 5 + 9 = 17$.
 
 </div>
@@ -70714,7 +72308,9 @@ Find the sum of the faces that border with the marked corner for the following:
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -70799,6 +72395,7 @@ Write down **all possibilities** for the sum of the missing faces that border wi
 **You MUST show your working**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -71430,6 +73027,7 @@ Fill in the table below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -71832,7 +73430,8 @@ Tick whether the following statements are true or false.
 
 The first has been done for you.
 
-![missing table](/papers/missing_table.svg)    
+![missing table](/papers/missing_table.svg)
+    
 
 </div>
 <div class='workings'>
@@ -71876,6 +73475,7 @@ leaves a remainder of $2$.
 Work out the remainders for the following questions:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -72130,6 +73730,7 @@ tnumber
 The table shows the distances in miles between some towns in the West country.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -72750,13 +74351,18 @@ tnumber
 Here are two views of the same cube:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which of the views below show the same cube as in $A$ and $B$?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -73224,6 +74830,7 @@ $12 \ \text{m} + 37 \ \text{cm}$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -73260,6 +74867,7 @@ $6.3 \ \text{km} - 140 \ \text{m}$
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -73525,7 +75133,8 @@ tnumber
 
 Here is a recipe to make $6$ pancakes.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -74743,6 +76352,7 @@ Which letter is on the face opposite $M$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $I$ 
 - $P$ 
 - $K$ 
@@ -74798,6 +76408,7 @@ tnumber
 How many of the six faces of a dice (shown below) have fewer than three lines of symmetry?
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $2$
 - $3$
@@ -75637,6 +77248,7 @@ A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used in making the bigger cube?
 
 - $21$
@@ -75887,6 +77499,7 @@ by travelling along lines.
 You may only travel in directions %waffles%
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many routes are there from $B$ to $C$?
 
@@ -78159,6 +79772,7 @@ Write down the number that the arrow is pointing to on the scale below:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -78308,6 +79922,7 @@ For each of the number machines below write down the letter:
 
 ![missing table](/papers/missing_table.svg)
 
+
 A if the answer is always even
 
 B if the answer is always odd
@@ -78350,6 +79965,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -78387,6 +80003,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -78578,6 +80195,7 @@ tnumber
 In the square below, every row, column and diagonal adds up to $15$. What number must be put into the square labelled $A$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -78823,6 +80441,7 @@ Winston watched the race but forgot to write down the positions of the runners. 
 -  $10 \text{th}$ A number which is greater than $10$
 
 ![missing table](/papers/missing_table.svg)
+
 
 Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
 
@@ -80129,6 +81748,7 @@ She has $144$ British stamps and $68$ foreign stamps.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -81191,6 +82811,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -81254,6 +82875,7 @@ Alex puts his photographs in an album. $6$ photographs fit on each page.
 How many pages does he use?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -81601,6 +83223,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -81642,6 +83265,7 @@ $5 \ \text {g}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -81682,6 +83306,7 @@ $230 \ \text{g}$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -81776,6 +83401,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -81803,6 +83429,7 @@ The number machine below changes numbers according to the rule **multiply by $2$
 Write the missing Input and output numbers for this machine.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -81923,6 +83550,7 @@ $1983$ people buy tickets for a concert.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -82006,6 +83634,7 @@ $2000$
 Each concert ticket costs $\pounds 16$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -82124,6 +83753,7 @@ Last week he bought $56$ football cards.
 This week he bought $72$ football cards.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -82645,6 +84275,7 @@ Belinda has $60$ coloured counters. One third of them are red.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -82799,6 +84430,7 @@ On the probability scale below, mark the following probabilities with the letter
 -   the probability that the counter is **not** blue
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -83102,6 +84734,7 @@ Ten calculators have a total mass of $1500 \ \text{g}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -83155,6 +84788,7 @@ tunit
 Sophie's grandmother has given her the family recipe to make a tray of $12$ scones.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -83628,6 +85262,7 @@ For example, in this number square each side adds to $12$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -83667,6 +85302,7 @@ In this number triangle, the numbers $1, 2, 3, 4, 5$ and $6$ are used once each.
 Complete the triangle so that the numbers along each side add up to $9$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -83709,6 +85345,7 @@ In this number pentagon, the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$ are us
 Complete the pentagon so that the numbers along each side add up to $14$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -86009,6 +87646,7 @@ Complete the table giving fractions in their simplest form.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -86114,7 +87752,8 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -86166,7 +87805,8 @@ $\boxed { \phantom{20} } - 8 = 4 \times 3$
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$\boxed { \green
+{20} } - 8 = 4 \times 3$
 
 </div>
 </div>
@@ -86207,6 +87847,7 @@ Fill in the gaps
 addition  subtraction  multiplication
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -86369,7 +88010,9 @@ This tower is made of small cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 If the tower is taken apart and rebuilt into the big cube shown below, how many small cubes are left over?
 
@@ -86514,6 +88157,7 @@ tnoexplanation
 Hui Ling measures her pencil before she sharpens it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the length of the pencil?
 
@@ -86858,6 +88502,7 @@ Write down how many cubes and triangular blocks are used to make the ship shown 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -86918,6 +88563,7 @@ is the equals button.
 The other working buttons are:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Buttons can be used as many times as you like.
 
@@ -87102,7 +88748,8 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -87286,7 +88933,9 @@ Complete the table of values for this number machine with the rule 'multiply by 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -87318,7 +88967,9 @@ What is the rule for this number machine? Write your answer inside the machine.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -87414,6 +89065,7 @@ Which of these letters do not look the same when reflected in the mirror line sh
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -87508,6 +89160,7 @@ tnumber
 Disc $B$ turns twice when $A$ turns $5$ times. If disc $A$ turns $45$ times, how many times does disc $B$ turn?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -88286,6 +89939,7 @@ Look at the scales:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -88372,6 +90026,7 @@ Fatima is $14 \ \text{cm}$ taller than Anne.
 Show Fatima’s height on the ruler in the same way.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -89245,6 +90900,7 @@ identical shapes have the same operation.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The same function machine has been used below. 
 Work out the missing input or output in each case shown.
 
@@ -89273,6 +90929,7 @@ Work out the missing input or output in each case shown.
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -89311,6 +90968,7 @@ $9, \ 18, \ 10, \ 5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -89433,7 +91091,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 $48$ cats eat $12$ cans of food in $3$ days. 
 
@@ -89556,10 +91215,12 @@ tnoexplanation
 
 ![missing table](/papers/missing_table.svg)
 
+
 A piece of paper with letters written on it is folded in half, so that the 
 letters $A, B, C, D, E, F, G, H$ are on the top.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now the letter $M$ is under the letter $A$.
 
@@ -89618,10 +91279,12 @@ $\text{O}$
 The paper is folded again so that $A, B, E$ and $F$ are on top.
 
 ![missing image](/papers/missing_image.svg)
+
   
 Under $A$ are the letter $M, P$ and $D$ in that order. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 Working from top to bottom:
 
@@ -89656,6 +91319,7 @@ $\text{N, \ O, \ C}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 After another fold, which letters are under $B$? 
 Write the letters in order from top to bottom.
@@ -89708,6 +91372,7 @@ Pia has three cards. Card $A$ tells her to
 multiply by $5$, card $B$ tells her to add $3$ and Card $C$ tells her to divide by $2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Pia arranges her cards in the order $A \ B \ C$ and starts with the number $3$. Her answer is $9$.
 
@@ -90445,9 +92110,11 @@ Machine $A$ multiples by $3$, then adds $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Machine $B$ multiples by $5$, then adds $3$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -90893,6 +92560,7 @@ Shade in $\dfrac{3}{5}$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -90932,6 +92600,7 @@ TODOANSWER
 Shade in $70 \%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -91072,6 +92741,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -91109,6 +92779,7 @@ TODOANSWER
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -91193,6 +92864,7 @@ A different number machine produces the input and output table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 What is the rule for this number machine?
 
 </div>
@@ -91253,10 +92925,12 @@ Jasper is making fairy cakes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A recipe to make 24 fairy cakes requires the following
 ingredients: 
 
 ![missing table](/papers/missing_table.svg)
+
 
 $230 \ \text{grams}$ flour
 
@@ -91330,6 +93004,7 @@ Jasper decides to make $36$ fairy cakes.
 Work out the amount of each ingredient which Jasper needs.
 
 ![missing table](/papers/missing_table.svg)
+
 
 $\ \text{grams}$ flour
 
@@ -91754,6 +93429,7 @@ What mass is shown on the scale below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -91793,6 +93469,7 @@ TODOANSWER
 On the scale below, draw an arrow to represent one tenth of $2 \ \text{kilograms}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -91965,6 +93642,7 @@ She poured out some water and the diagram shows how much water is left in the ju
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much water has Kate poured out from the jug?
 
 </div>
@@ -92029,6 +93707,7 @@ Circle the diagram below which **cannot** be a net of this cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -92086,6 +93765,7 @@ He uses some of his bricks to make this cuboid:
 
 ![missing image](/papers/missing_image.svg)
 
+
 From his remaining bricks, he uses some to make the largest cube that he can.
 
 How many bricks does he use to make the cube?
@@ -92142,6 +93822,7 @@ talgebra
 When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -92599,6 +94280,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -92845,6 +94527,7 @@ $10$ twists of black pepper
 $80 \ \text{millilitres}$ olive oil
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -93820,6 +95503,7 @@ How many marbles does each girl have at the end of three round?
 
 ![missing table](/papers/missing_table.svg)
 
+
 name       number of marbles
 Thomasina
 Dixie
@@ -93920,6 +95604,7 @@ TODOANSWER
 Complete the table to show all of the possible different types of tiles.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -94041,6 +95726,7 @@ Below are three of her tiles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
 
 Describe a tile which differs from the small white triangle in $1$ way.
@@ -94147,11 +95833,15 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fill in the dotted line to complete the following diagrams:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -94566,9 +96256,11 @@ Sally has the number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Sally’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -94600,11 +96292,13 @@ Imogen has a different number machine which produced the following table of inpu
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately, the labels have fallen off Imogen’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -94657,11 +96351,13 @@ Charlotte has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed together to form a number.
 
 For example, using just $4$ cards, the smallest $4$-digit number which can be made is $3457$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -95342,9 +97038,11 @@ The number machine below changes numbers according to the rule:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the input and output numbers for the machine.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -95387,6 +97085,7 @@ There are two possible function machines which will give results shown below.
 Work out both possible answers.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -95777,11 +97476,13 @@ Sam has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed together to form different numbers.
 
 For example, using just five of the cards, the largest $5$-digit number that can be made is $87652$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -96142,9 +97843,11 @@ A number machine has produced the following table of input and output numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -96711,9 +98414,11 @@ Amy has the two-stage number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Amy’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -96755,11 +98460,13 @@ Hannah has a different number machine which has produced the following table of 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately the labels have fallen off Hannah’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -97080,6 +98787,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -97385,6 +99093,7 @@ tnumber
 The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -97772,6 +99481,7 @@ The two-stage number machine below changes numbers according to the rule:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -97799,6 +99509,7 @@ TODOANSWER
 Work out the output when the input is $13$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -97829,6 +99540,7 @@ TODOANSWER
 Work out the input when the output is $120$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -97864,6 +99576,7 @@ There are two possible function machines that will give the results shown below.
 Work out the rules for the two possible machines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -97913,11 +99626,13 @@ Jasmine has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed side by side to form different numbers.
 
 For example, using four of the cards, the largest $4$-digit even number that can be made is $9854$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -98268,6 +99983,7 @@ tnumber
 Tick the correct box for each statement:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -98798,6 +100514,7 @@ The information on a pack of ‘*Salmon pasta*’ is shown in the table.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -98982,7 +100699,8 @@ Mrs King asked all the children in Year $6$ if they play tennis.
 
 This table shows some of the results.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -99314,6 +101032,7 @@ tnoexplanation
 What number is indicated by the arrow on the scale?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -99650,6 +101369,7 @@ In the tower of bricks below, the number on a brick is the **sum** of the number
 ![missing image](/papers/missing_image.svg)
 
 
+
 What number is on the top brick?
 
 </div>
@@ -99691,6 +101411,7 @@ TODOANSWER
 In the tower of bricks below, the number on a brick is the **product** of the two bricks supporting it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 What number is on the top brick?
@@ -99736,6 +101457,7 @@ In the tower of bricks below, the number on a brick is the product of the two br
 The number on the top brick is $72$ and the numbers on the bricks are all different whole numbers.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What number is on the middle brick in the bottom row?
 
@@ -100695,6 +102417,247 @@ $-108$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1BA32A39-3DF3-41AF-A06A-CFDAD220B1D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a number which has exactly three factors, including $1$ and itself.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the smallest multiple of $17$ which is greater than $200$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a prime number between $90$ and $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction which is between $\dfrac{1}{3}$ and $\dfrac{1}{2}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a number whose square is between $400$ and $450$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -102127,7 +104090,8 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.
 
@@ -105979,6 +107943,7 @@ What fraction of the shape shown has been shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -106508,13 +108473,17 @@ tinfer
 </div>
 <div class='question question'>
 
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg)
+ 
 
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+$3$ ![missing image](/papers/missing_image.svg)
+ $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
 
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+$3$ ![missing image](/papers/missing_image.svg)
+  $4$ = $3 + 4 + (3 \times 4) = 19$
 
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+And similarly, $2$ ![missing image](/papers/missing_image.svg)
+  $6 = 2 + 6 + (2 \times 6) = 20$ 
 
 Find the values of
 
@@ -106542,7 +108511,8 @@ Find the values of
 </div>
 <div class='question subquestion'>
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$
 
 </div>
 <div class='workings'>
@@ -106550,7 +108520,8 @@ $5$ ![missing image](/papers/missing_image.svg)  $7$
 
 As per the question,
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$ = $5 + 7 + (5 \times 7) = 47$
 
 </div>
 </div>
@@ -106572,7 +108543,8 @@ $47$
 </div>
 <div class='question subquestion'>
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$
 
 </div>
 <div class='workings'>
@@ -106580,7 +108552,8 @@ $0$ ![missing image](/papers/missing_image.svg)  $9$
 
 As per the question,
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$ = $0 + 9 + (0 \times 9) = 9$
 
 </div>
 </div>
@@ -106602,7 +108575,8 @@ $9$
 </div>
 <div class='question subquestion'>
 
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+If $χ$ ![missing image](/papers/missing_image.svg)
+  $2 + 23$ find the value of $χ$
 
 </div>
 <div class='workings'>
@@ -106612,7 +108586,8 @@ As per the question,
 
 $
 \begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ ![missing image](/papers/missing_image.svg)
+  2            &= 23 \\\\
 χ + 2 + (χ \times 2)    &= 23 \\\\
 χ + 2 + 2χ              &= 23 \\\\
 3χ + 2                  &= 23 \\\\
@@ -111156,6 +113131,7 @@ tnumber
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -112244,6 +114220,7 @@ Here are three numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show that the **mean** of these three numbers is **7**
 
 </div>
@@ -112294,6 +114271,7 @@ Write them on the cards below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -112336,6 +114314,7 @@ Write them on the cards below.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

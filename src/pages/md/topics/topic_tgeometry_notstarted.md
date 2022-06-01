@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-notstarted"
 title: "Topic - Geometry - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ tgeometry
 The diagram shows a pentagonal based prism.
 
 ![missing image](/papers/missing_image.svg)
+
 
 State the number of
 
@@ -115,6 +116,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which 3D shape is this the net of?
 
@@ -214,6 +216,7 @@ Draw the reflection of the shape below in the given line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -259,7 +262,9 @@ Add some extra faces to this diagram to make it the net of a right angled triang
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -305,9 +310,13 @@ tgeometry
 Three of these shapes have an even number of vertices. Which one does not?
 
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -422,7 +431,9 @@ Which of shapes $A, B, C$ and $D$ is most similar to shapes $1$ and $2$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -487,6 +498,7 @@ For each shape on the left, draw a **rectangle** that has the same area.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -547,6 +559,7 @@ She makes a solid cube with side length $6 \ \text{cm}$ out of the cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Then she uses all these cubes to make some cubes with side length $2 \ \text{cm}$.
 
 How many of these $2 \ \text{cm}$ cubes can Kaylee make?
@@ -606,6 +619,7 @@ The total length of the edges of a cube is $240 \ \text{cm}$. What is the length
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -663,9 +677,11 @@ When she looks at it from the front, this is what she sees:
 
 ![missing image](/papers/missing_image.svg)
 
+
 When she looks down at it from above, this is what she sees:
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the mathematical name for Kate's $3$-D object?
 
@@ -760,6 +776,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -881,6 +898,7 @@ down at the cylinder from above, in the direction of arrow $Z$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1001,6 +1019,7 @@ Which one of the following ($A, B, C, D$ or $E$) could **not** be the resulting 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1112,6 +1131,7 @@ tgeometry
 A wooden cube has edges $2 \ \text{cm}$ long.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1228,6 +1248,320 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>ADAF00B9-1086-4F89-8082-E1D61B9BC3EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the name of the special quadrilateral that has $4$ lines of symmetry (or 'mirror lines')?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4FB1D7BF-3C08-4A1D-BD2C-F4A81A703C74</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows the coordinates of three points $A, B$ and $C$.
+
+Shape $ABCD$ is a kite.
+
+![missing image](/papers/missing_image.svg)
+
+
+What are the coordinated of point $D$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CB41B652-2CFE-448F-BD12-99C5A676AA91</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the answers to the calculations (Hint: there is a quick way!)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$(49 \times 37018) + (51 \times 37018)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$(26 \times 37018) - (25 \times 37018)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many triangles are there in this diagram?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>5FDC87AE-AF7B-43D0-A460-E2DC711354F5</p>
 </div>
 <div class='topics'>
@@ -1247,6 +1581,7 @@ Three identical rectangles are drawn.
 What are the co-ordinates of $A$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1305,6 +1640,7 @@ tinfer
 Which net cannot be folded to make a triangular prism?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1400,6 +1736,7 @@ If the figure shown is folded to form a cube, then three faces meet at every ver
 
 ![missing image](/papers/missing_image.svg)
 
+
 The numbers on the three faces meeting at any vertex can be multiplied together.
 
 What is the largest such product for the vertices of this cube?
@@ -1442,7 +1779,8 @@ TODOANSWER
 
 A square floor is tiled with square tiles and there are $77$ tiles on the diagonals.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The diagram shows part of the floor. 
 
@@ -1505,6 +1843,7 @@ tgeometry
 Look at the diagram below. The outer figure is $PQRS$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Using the letters marking each point or vertex, name each of the following: 
 
@@ -1756,6 +2095,7 @@ The y-coordinates are negative at the bottom and poitive at the top.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1863,6 +2203,61 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AF8CE75F-A213-4B4F-9D8F-54D84E1C08B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the mathematical name for each of these 2D shapes:
+
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2103,6 +2498,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows a cube with edges that are **each** $10 \ \text{cm}$ long.
 
@@ -2562,6 +2958,7 @@ On the axes below, point $A$ has coordinates $(3,1)$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2774,7 +3171,8 @@ tgeometry
 
 $A, B$ and $C$ are three points on a grid. $A$ is at $(5,2) B$ is at $(4,5)$ and $C$ is at $(3,0)$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3031,6 +3429,7 @@ $A$ has co-ordinates $(-2,4)$ and $B$ has co-ordinates $(-4,1)$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3191,10 +3590,14 @@ tgeometry
 
 Circle which of the following shapes has two both lines of symmetry and rotational symmetry of order $2$.
 
-![missing image](/papers/missing_image.svg) 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
+ 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3307,6 +3710,7 @@ TODOANSWER
 Mark the points $A(2, 0), B(2, 0)$ and $C(0, 3)$ on the axes below, labelling each point clearly.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3447,6 +3851,7 @@ tgeometry
 $A, B$ and $C$ are $3$ points on a grid. $A$ is at $(5, 1), B$ is at $(1, 1)$ and $C$ is at $(3, 5)$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3623,6 +4028,7 @@ $A, B$ and $C$ and $D$ are $4$ points on a grid. $A$ is at $(5, 1), B$ is at $(1
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3797,6 +4203,7 @@ Work out the total length of all of the lines used to draw the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3855,10 +4262,12 @@ The diagram below shows $4$ triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pieces can be put together to form geometric shapes. The cards can be turned upside down or rotated if necessary. 
 On the grid below the $4$ pieces have been put together to make a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below draw a diagram to show how all $4$ pieces of card could be put
 together to form the named shape.
@@ -3901,6 +4310,7 @@ A rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3940,6 +4350,7 @@ TODOANSWER
 A parallelogram that is not a rectangle
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4001,6 +4412,7 @@ tsequence
 A set of solid towers are made by adding layers as shown below. The shape is solid inside with no missing blocks.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4211,7 +4623,8 @@ tinfer
 
 A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{cm}$ as shown.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4426,7 +4839,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4712,6 +5126,7 @@ How many triangles of any
 size are there in this diagram?
 ![missing image](/papers/missing_image.svg)
 
+
 - $8$
 - $10$
 - $12$
@@ -4773,7 +5188,8 @@ tgeometry
 
 Draw the shape whose sides are twice as big as the one shown in the space in the grid below it.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4830,6 +5246,7 @@ A cube has $8$ vertices (corners), $6$ faces and $12$ edges.
 How many vertices, faces and edges does the L-shape have?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4889,6 +5306,7 @@ How many vertices, faces and edges does the small piece he cut off have?
 How many vertices, faces and edges does the big piece left have? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4950,6 +5368,7 @@ There are $4$ black squares.  How many black squares would there be in a $7$ by 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5009,6 +5428,7 @@ Theo has a parallelogram and with one straight cut makes two pieces which he put
 Show a cut he could make to do this on the diagram. In the space below show how  the two pieces can then fit together to make a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5138,6 +5558,7 @@ TODOANSWER
 Name the quadrilateral $PQRS$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5271,6 +5692,7 @@ In the diagram $AB$ is a straight line.
 Calculate the value of angle $a \degree$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5519,6 +5941,7 @@ tgeometry
 
 ![missing image](/papers/missing_image.svg)
 
+
 The $2$ by $3$ rectangle above contains eight squares: six 1 by 1 squares and two $2\times2$ squares.
 
 </div>
@@ -5558,6 +5981,7 @@ TODOANSWER
 How many squares are in this $4$ by $5$ rectangle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5697,6 +6121,7 @@ Write down the names of the four shapes in this diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Shape 1 is a____________________ 
 
 Shape 2 is a____________________
@@ -5781,6 +6206,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5818,6 +6244,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5861,6 +6288,7 @@ TODOANSWER
 Complete the shaded shape on the diagram below to make the dotted line a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5923,6 +6351,7 @@ tangle
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6100,6 +6529,7 @@ The squared paper shows the nets of cuboid A and cuboid B.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6239,6 +6669,7 @@ The shapes in this question are drawn on square grids.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6315,6 +6746,7 @@ On the grid below, draw a **parallelogram** that has the same area as the triang
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6354,6 +6786,7 @@ TODOANSWER
 What is the area of this trapezium?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6415,16 +6848,24 @@ tgeometry
 For each shape draw a rectangle that has the same area as the shape on the left. The first one is done for you.
 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
 ![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6554,9 +6995,11 @@ A cube has shaded triangles on three of its faces.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is the net of the cube. Draw in the two missing shaded triangles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6612,6 +7055,7 @@ tgeometry
 Kyle has drawn a triangle ABC on this grid
 
 ![missing image](/papers/missing_image.svg)
+
 
 Holly has started to draw an identical triangle DEF.
 
@@ -6730,9 +7174,13 @@ Below are four diagrams.
 
 Circle each diagram that is the net of a cube.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   
+
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -6833,6 +7281,7 @@ $B$ is at $(0, 5)$
 $C$ is at $(-2, 0)$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6969,7 +7418,9 @@ tgeometry
 
 Fill in the table below with the information requested.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 |                              | CUBE  | PYRAMID   |
 |:--------------------------   |:----: |:-------:  |
@@ -7029,6 +7480,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the graph paper above plot the points with coordinates and labels
 
@@ -7204,7 +7656,9 @@ Name the shapes below
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7264,6 +7718,7 @@ A $7 \times 7 \times 7$ cube is painted, and then cut into $1 \times 1 \times 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7322,6 +7777,7 @@ The shape is turned $270 \degree$ clockwise, and then $45 \degree$  anticlockwis
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7378,9 +7834,13 @@ A square piece of paper is folded exactly in half and then in half again.
 Which of the following could not be the resulting shape?
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 </div>
 
@@ -7419,7 +7879,8 @@ tdraw
 
 The equilateral triangle ADF is split into four equally sized smaller equilateral triangles.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -7448,6 +7909,7 @@ The equilateral triangle ADF is split into four equally sized smaller equilatera
 Two of the four small triangles are to be painted black and the other two are to be painted white .In how many different ways can this be done?
 
 ![missing image](/papers/missing_image.svg)
+
 
 Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page **and** without going over the same line twice. He begins at A and then travels to B.
 
@@ -7533,7 +7995,8 @@ tdraw
 <div class='question question'>
 
 Look at the shape on the grid below:
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7651,6 +8114,7 @@ Now look at the diagram which shows the shape **reflected**. Put a cross on the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7690,6 +8154,7 @@ TODOANSWER
 Now look at the diagram which shows the shape **rotated** .Put a cross on the grid to show where B is rotated to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7920,15 +8385,20 @@ My youngest brother Joshua likes to play with bricks. One day he makes the follo
 
 ![missing image](/papers/missing_image.svg)
 
+
 If you look at this three-dimensional object from the three different directions indicated above, the shape looks like:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 The next day Joshua makes a different shape using six bricks:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Draw the three views of this new shape below. The diagrams do not have to be to scale. A rough free-hand sketch is all that is required.
 
@@ -8046,6 +8516,7 @@ The total number of squares that you can see in the diagram is therefore $5$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each of the diagrams below fill in the spaces to work out the total number of squares that you can see. 
 
 </div>
@@ -8073,6 +8544,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are $\text{\textunderscore \textunderscore \textunderscore}$ $3$ by $3$ squares $\text{\textunderscore \textunderscore \textunderscore}$ 
 $2$ by $2$ squares $\text{\textunderscore \textunderscore \textunderscore}$ $1$ by $1$ squares so the total number of squares in a $3$ by $3$ 
@@ -8118,6 +8590,7 @@ square is $\underline {14}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are $\text{\textunderscore \textunderscore \textunderscore} 4$ by $4$ squares 
 $\text{\textunderscore \textunderscore \textunderscore} 3$ by $3$ squares $\text{\textunderscore \textunderscore \textunderscore} 2$ 
@@ -8254,6 +8727,7 @@ To make this look even more interesting he decides to rotate this painting throu
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8313,11 +8787,17 @@ Isolde enjoys making cubes. She first draws out shapes on pieces of cardboard an
 The diagrams below show six attempts. Unfortunately only five of these actually work. Cross out the shape which is impossible.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8586,6 +9066,7 @@ Mr T has designed the kitchen tile shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show what this tile will look like after it has been turned through ninety degrees anticlockwise.
 
 </div>
@@ -8645,6 +9126,7 @@ lengths, $5 \ \text{cm}, 12 \ \text{cm}$ and $13 \ \text{cm}$.
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8683,6 +9165,7 @@ Complete the table to show the area of each square and hence write down a simple
 $A, B$ and $C$.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -8723,6 +9206,7 @@ TODOANSWER
 Assuming that this connection works for all right-angled triangles, work out the length of square $C$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8784,8 +9268,11 @@ tsymmetry
 How many lines of symmetry, if any, does each of these shapes have?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8845,9 +9332,11 @@ A tessellation is a pattern of tiles that fit together perfectly with no gaps or
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw six more kites on the dotty paper below to show how they tessellate.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8914,16 +9403,24 @@ On the other hand, triangles $A$ and $C$ are not similar because the width of $C
 is only twice that of $A$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which two rectangles in the list below are similar? 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8979,11 +9476,17 @@ tgeometry
 Write the words, square, rectangle, parallelogram, trapezium, kite and rhombus in the spaces below.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9193,8 +9696,11 @@ tgeometry
 What is the name of each of these three regular polygons?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9290,6 +9796,7 @@ What is the area of this triangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9329,6 +9836,7 @@ TODOANSWER
 What is the area of this triangle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -9436,6 +9944,7 @@ This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9504,6 +10013,7 @@ Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo 
 (The point $A$ is already drawn for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9695,6 +10205,7 @@ $
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9831,6 +10342,7 @@ Draw accurately triangle $ABC$ where $AB =  5.5 \ \text{cm}, \text{angle} \ A = 
 *(Point $A$ is already drawn for you.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9970,6 +10482,7 @@ Two of the shapes below fit together to make a square. Which are they?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10030,6 +10543,7 @@ You may use a ruler.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10085,6 +10599,7 @@ List the letters in the word
 
 ![missing image](/papers/missing_image.svg)
 
+
 which have exactly one line of symmetry?
 
 </div>
@@ -10132,6 +10647,7 @@ How many squares are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10177,6 +10693,7 @@ Each cross is a corner of a shape. Join the correct corners to make a square and
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10220,7 +10737,9 @@ tgeometry
 
 Work out the area of the shape below and in the empty grid draw a square with the same area.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10270,9 +10789,11 @@ In these diagrams, the positions of the dots and crosses are changing:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which of the diagrams below is the next in the sequence?
  
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10318,6 +10839,7 @@ tgeometry
 Write down the letters of the two shapes which will fold to make a cube.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10367,7 +10889,9 @@ This tower is made of small cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 If the tower is taken apart and rebuilt into the big cube shown below, how many small cubes are left over?
 
@@ -10415,6 +10939,7 @@ tgeometry
 Which two shapes can be fitted together to make the larger shape?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10473,6 +10998,7 @@ tnumber
 Write down how many cubes and triangular blocks are used to make the ship shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10615,7 +11141,8 @@ tinfer
 
 How many triangles are there in this diagram?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10660,7 +11187,8 @@ tgeometry
 
 Shade $\dfrac{3}{8}$ of this diagram.
 
-![missing image](/papers/missing_image.svg).         
+![missing image](/papers/missing_image.svg)
+.         
 
 </div>
 <div class='workings'>
@@ -10708,7 +11236,10 @@ tgeometry
 
 Here are three patterns.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10737,6 +11268,7 @@ TODOANSWER
 Choose the next pattern in the sequence. Tick the correct box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10767,6 +11299,7 @@ TODOANSWER
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10816,6 +11349,7 @@ The following is a representation of a $3$-dimensional shape, made up of cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10853,6 +11387,7 @@ TODOANSWER
 Circle the shape that you would see if you were looking at it from A (from the front).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10894,6 +11429,7 @@ Circle the shape that you would see if you were looking at it from B, (from the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10933,6 +11469,7 @@ TODOANSWER
 Circle the shape that you would see if you were looking at it from C, (from above).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11018,6 +11555,7 @@ Which of these shapes has 2 lines of symmetry? Circle the letter.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11047,6 +11585,7 @@ TODOANSWER
 The diagram shows part of a shape which has the $2$ lines of symmetry shown. Complete the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11095,6 +11634,7 @@ tgeometry
 This is a net of a cube.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11259,6 +11799,7 @@ Draw in all lines of symmetry on the shapes below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11305,6 +11846,7 @@ Circle the one which will **not** fold up to make a cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11350,6 +11892,7 @@ Shade the least number of squares required to make the dotted line shown a line 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11392,6 +11935,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11522,6 +12066,7 @@ tgeometry
 A child has made a series of towers, first three are shown below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11681,13 +12226,16 @@ The object below is made up of $5$ identical blocks.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The view in the direction of arrow $B$ is shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw the views that are seen in the direction of arrows $A$ and $C$ using the grids below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11740,6 +12288,7 @@ Fill in all the missing numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11785,6 +12334,7 @@ Reflect each shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11829,6 +12379,7 @@ tgeometry
 Shape $T$ is drawn on centimetre-squared paper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11886,6 +12437,7 @@ On the centimetre squared grid below, draw a rectangle which has the same area a
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11933,6 +12485,7 @@ tgeometry
 Points $A, B, C$ and $D$ have been joined to form the shape $ABCD$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12098,6 +12651,7 @@ Complete the net.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12143,9 +12697,11 @@ This shape is made from $6$ cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagrams show possible side, plan and front views of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the diagram which shows
 
@@ -12202,11 +12758,13 @@ and a square on its bottom face.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On each of the other faces there is an arrow, pointing towards the top face.
 
 Circle the net below which will make the cube described above.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12291,6 +12849,7 @@ TODOANSWER
 Shape $S$ is drawn on the centimetre- squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12409,6 +12968,7 @@ On the centimetred-square grid below, draw a triangle with are $21 \ \text{cm}^2
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12473,6 +13033,7 @@ The diagram below shows $4$ right-angled triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 These pieces of card can be put together to form geometrical shapes.
 
 The pieces of card could be turned upside down or rotated if necessary.
@@ -12480,6 +13041,7 @@ The pieces of card could be turned upside down or rotated if necessary.
 On the grid below, $4$ pieces have been put together to form a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below, draw a diagram to show all $4$ pieces of card could be put together to form:
 
@@ -12521,6 +13083,7 @@ a rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12560,6 +13123,7 @@ TODOANSWER
 a trapezium with one line of symmetry
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12601,6 +13165,7 @@ a parallelogram
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12640,6 +13205,7 @@ TODOANSWER
 a kite
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12699,6 +13265,7 @@ The model shown below is made from $3$ identical cuboids.
 
 ![missing image](/papers/missing_image.svg)
 
+
 From which direction, $A, B, C,$ and $D$, are the following views taken?
 
 </div>
@@ -12737,6 +13304,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12774,6 +13342,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12862,6 +13431,7 @@ Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12892,6 +13462,7 @@ Reflect the word $SOW$ in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12921,6 +13492,7 @@ TODOANSWER
 How many millilitres of liquid are in this container?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12973,6 +13545,7 @@ Write the numbers from $1$ to $6$ on the net below, so that when it is folded to
 
 ![missing image](/papers/missing_image.svg)
 
+
 The numbers $3$ and $4$ have already been placed for you.
 
 </div>
@@ -13019,6 +13592,7 @@ tgeometry
 The shaded square below has an area of $8 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the grid above, shade:
 
@@ -13154,6 +13728,7 @@ tinfer
 The diagram below shows a pattern of numbers.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13302,6 +13877,7 @@ Use this information to complete the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13354,6 +13930,7 @@ This object is made from cubes.
 There are no hidden cubes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13430,9 +14007,13 @@ TODOANSWER
 The diagrams below show possible front and side views of the object.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the diagram which shows the:
 
@@ -13475,6 +14056,7 @@ TODOANSWER
 On the grid below, draw and shade the plan view of the object.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13537,6 +14119,7 @@ What percentage of the shape below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13581,7 +14164,9 @@ tgeometry
 Reflect each shape in the dashed line shown.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13630,6 +14215,7 @@ tareaperimeter
 Shapes $A, B, C, D$ and $E$ are drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13743,6 +14329,7 @@ On the grid below, draw a quadrilateral with an area of $10$ squares which has e
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13795,6 +14382,7 @@ Quinn drew a regular pentagon and ruled in all of its diagonals.
 ![missing image](/papers/missing_image.svg)
 
 
+
 He discovered that a regular pentagon has $5$ diagonals.
 
 </div>
@@ -13825,6 +14413,7 @@ How many diagonals has a regular heptagon ($7$ sides)?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13854,6 +14443,7 @@ TODOANSWER
 How many diagonals has a regular dodecagon ($12$ sides)?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13909,6 +14499,7 @@ On the centimetre square grid below, draw a hexagon with area $12 \ \text{cm}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13962,7 +14553,8 @@ tgeometry
 
 Reflect the shape in the mirror line.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14009,6 +14601,7 @@ Shade in four squares, so that the finished shape has exactly two lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14054,6 +14647,7 @@ Fred fits together two triangles to form a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14082,9 +14676,11 @@ On the grid below, show how Fred can fit together the same two triangles to make
 
 ![missing image](/papers/missing_image.svg)
 
+
 Fran fits together two isosceles triangles to make a parallelogram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14115,6 +14711,7 @@ TODOANSWER
 On the grid below, show how Fran can fit together the same two isosceles triangles to make a rhombus.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14170,6 +14767,7 @@ One side of the parallelogram, which is **not** a rectangle, is drawn for you.
 Complete the drawing of the parallelogram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14228,7 +14826,12 @@ tdraw
 Circle the shape that has a different area from the others.
 
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14282,6 +14885,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A is the point $(2, 2)$, B is the point $(8, 2)$ and C is the point $(5, 8)$.  D is the mid point of the line AB.
 
@@ -14458,6 +15062,7 @@ Name the quadrilateral $PQRS$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14521,11 +15126,13 @@ Look at the triangle ABC, drawn on a square grid.
 
 
 
+
 Here are some statements about triangle ABC. 
 
 For each statement tick $(\checkmark )$ True or False.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The triangle is isosceles.
 
@@ -14594,11 +15201,17 @@ Here is a shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I turn the shape through **45° clockwise**. 
 
 Tick $(\checkmark)$ the diagram that shows the shape **after** the turn.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

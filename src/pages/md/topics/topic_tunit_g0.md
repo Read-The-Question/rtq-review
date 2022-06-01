@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g0"
 title: "Topic - Unit - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -77,6 +77,7 @@ The jug contains some orange squash.
 How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -291,6 +292,7 @@ Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for 
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required
+
 
 $
 \begin{aligned}
@@ -1213,7 +1215,8 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -1812,7 +1815,8 @@ Express $51 \ \text{km}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -1848,7 +1852,8 @@ Express $510 \ \text{cm}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -2026,7 +2031,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 

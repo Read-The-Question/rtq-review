@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-blocked"
 title: "Owner - Uday Pandey - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -416,7 +416,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -547,6 +549,7 @@ ttime
 The lengths of four of the Henry Potter films are as follows:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
 
@@ -1293,7 +1296,9 @@ talgebra
 
 The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -1376,6 +1381,7 @@ tvolume
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram above is not drawn to scale. 
 
@@ -1765,6 +1771,7 @@ Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, t
 
 ![missing image](/papers/missing_image.svg)
 
+
 He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
 
 </div>
@@ -2017,7 +2024,8 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -2167,6 +2175,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
@@ -2448,6 +2457,7 @@ Circle which of the four options below shows a correct **rotation** of the word:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2477,6 +2487,7 @@ $\text {option 4}$
 Circle which of the four options below shows a correct **reflection** of the word:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2825,7 +2836,8 @@ talgebra
 
 The perimeter of the rectangle below is $18 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2901,7 +2913,8 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -2934,7 +2947,9 @@ A square with sides of length $3 \ \text{cm}$ is divided into three identically 
 These are then arranged as shown. What is the perimeter of the new shape?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3220,7 +3235,9 @@ Shape $A$ and shape $B$ are each made from five identical squares. The **perimet
 $72 \ \text{cm}$. Work out the perimeter of shape $B$. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 - $30 \ \text{cm}$
 - $60 \ \text{cm}$
@@ -3399,9 +3416,13 @@ tangle
 In the diagrams below, which angle is the biggest? The diagrams are not drawn to scale.
  
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
 
 - $a$
 - $b$
@@ -3606,17 +3627,51 @@ $16 \quad 13 \quad 10 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}
-&&  \footnotesize{\maroonC{(-3)}}  \\
+&   \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 7 - 3 \\\\
+                                &= 4 \\\\
+\text{Second Missing number}    &= 4 - 3 \\\\
+                                &= 1
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
 16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
 \end{matrix}
 $
@@ -3656,15 +3711,47 @@ $1 \quad 4 \quad 9 \quad 16 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+3)} }
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+7)} }
-&&  \footnotesize {\maroonC {(+9)} }
-&&  \footnotesize {\maroonC {(+11)} } \\
+&   \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+9)} }
+&&  \footnotesize {\maroonC
+ {(+11)} } \\
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 + 9 \\\\
+                                  &= 25 \\\\
+\text{Second missing number}      &= 25 + 11 \\\\
+                                  &= 36
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+9)} }
+&&  \footnotesize {\maroonC
+ {(+11)} } \\
 1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -3773,7 +3860,8 @@ tareaperimeter
 
 Find the area and perimeter.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3834,7 +3922,8 @@ tareaperimeter
 
 Find the area and perimeter.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4090,6 +4179,7 @@ What fraction in the diagram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4208,6 +4298,7 @@ tsimpleword
 The diagram shows four identical white rectangles around a shaded square. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded square?
 
@@ -4445,6 +4536,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
@@ -5111,6 +5203,7 @@ Find in terms of $x$ the perimeter of the following triangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5315,11 +5408,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5425,7 +5520,9 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 As his hobby, Fred builds $3$-legged stools and $4$-legged tables. Last month he used $72$ legs and he built $3$ more stools than tables. How many stools and how many tables did he build ? 
 
@@ -7180,6 +7277,7 @@ how much money do they have altogether?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7266,7 +7364,8 @@ The sum of two whole numbers is 30 and their difference is 20
 
 What are the two numbers?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7349,6 +7448,7 @@ tsimpleword
 Find  the   area  of this  shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7767,7 +7867,36 @@ $1 \,\,\, 7 \,\,\,  13 \,\,\,  20 \,\,\,   27$     ...     ...
 <div class='working'>
 
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{ \red{ (+6) } } 
+&&  \footnotesize{ \red{ (+6) } }  
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }  \\
+1,  &&    7,  &&  13,  &&   20,  &&   27  && \ldots && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 27 + 6 \\\\
+                              &= 33
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 33 + 6 \\\\
+                              &= 39
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
@@ -9104,6 +9233,7 @@ Find the perimeter of the compound shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $92 \ \text{cm}$
 - $52 \ \text{cm}$
 - $36 \ \text{cm}$
@@ -9175,6 +9305,7 @@ Which letter is on the face opposite $M$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $I$ 
 - $P$ 
 - $K$ 
@@ -9224,7 +9355,8 @@ tsequence
 </div>
 <div class='question question'>
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 For the above pattern, what is $x$ in this table.
 
@@ -9300,6 +9432,7 @@ On this journey Anthony walked a certain distance, and turned right.
 Each time he turned right he walked $2 \ \text{metres}$ less than he did the time before.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the last part of his journey before stopping he walked one metre. How far did he walk altogether?
 
@@ -9444,6 +9577,7 @@ A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the size of the angle marked $x$. 
 
 </div>
@@ -9566,6 +9700,7 @@ tsimpleword
 Here are three squares that overlap.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The non-overlapping parts of the squares have a total area of $90 \ \text{cm}^{2}$.
 
@@ -9856,6 +9991,7 @@ ttime
 The timetable below shows the morning train times between St Albans and City Thameslink via St Pancras International.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10753,6 +10889,7 @@ Katherine has ten coins in a bag.
 She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10937,6 +11074,7 @@ with $C$ the probability that the coin is worth less than $\pounds 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10985,6 +11123,7 @@ Mr Prime has these numbered discs face down on a table:
 
 ![missing image](/papers/missing_image.svg)
 
+
 He turns one over at random.
 
 On the line below, mark the following probabilities with the letters shown:
@@ -10996,6 +11135,7 @@ On the line below, mark the following probabilities with the letters shown:
 - the number on his disc is a multiple of $12$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11068,6 +11208,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -11107,6 +11248,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11349,6 +11491,7 @@ TODOANSWER
 
 ![missing table](/papers/missing_table.svg)
 
+
 The mass of a table-tennis ball   $2.5 \text{g}   \quad 30 \text{g}   \quad 0.7 \ \text{kg}$
 
 </div>
@@ -11379,6 +11522,7 @@ $30 \text{g}$
 
 ![missing table](/papers/missing_table.svg)
 
+
 The amount of water in a full kettle   $10 \ \text{l} \quad  2 \ \text{l}  \quad 400 \ \text{ml}$
 
 </div>
@@ -11408,6 +11552,7 @@ $2\text{l}$
 <div class='question subquestion'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 The diameter of a CD    $120 \ \text{mm}  \quad  50 \ \text{cm} \quad  50 \ \text{mm}$
 
@@ -11460,10 +11605,12 @@ tnoexplanation
 
 ![missing table](/papers/missing_table.svg)
 
+
 A piece of paper with letters written on it is folded in half, so that the 
 letters $A, B, C, D, E, F, G, H$ are on the top.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now the letter $M$ is under the letter $A$.
 
@@ -11522,10 +11669,12 @@ $\text{O}$
 The paper is folded again so that $A, B, E$ and $F$ are on top.
 
 ![missing image](/papers/missing_image.svg)
+
   
 Under $A$ are the letter $M, P$ and $D$ in that order. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 Working from top to bottom:
 
@@ -11560,6 +11709,7 @@ $\text{N, \ O, \ C}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 After another fold, which letters are under $B$? 
 Write the letters in order from top to bottom.
@@ -12009,6 +12159,7 @@ Shape $D$ is drawn on centimetre-squared paper below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12092,6 +12243,7 @@ $17 \text{cm}$
 Draw a rectangle which has the same area as shape $D$ on the centimetre-squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12282,10 +12434,7 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tdivision
 </li>
 </ul>
 </div>
@@ -12319,6 +12468,7 @@ Write numbers in the boxes to make this division correct
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12348,6 +12498,7 @@ TODOANSWER
 Write numbers in the boxes to make this subtraction correct
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12419,7 +12570,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 
@@ -12892,10 +13044,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize{\maroonC
+{(+a)}}  
+&&  \footnotesize{\maroonC
+{(+a)}} 
+&&  \footnotesize{\maroonC
+{(+a)}}   
+&&  \footnotesize{\maroonC
+{(+a)}} \\
 3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
 \end{matrix}
 $
@@ -13552,10 +13708,14 @@ The difference between the terms is $8$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-8)}} 
-&&  \footnotesize{\maroonC{(-8)}}  
-&&  \footnotesize{\maroonC{(-8)}}   
-&&  \footnotesize{\maroonC{(-8)}} \\
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}} \\
 50,  &&    42,  &&  34,  &&   \box,  &&   18 \ldots
 \end{matrix}
 $
@@ -13599,10 +13759,14 @@ The difference between the terms is $0.002$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.002)}} 
-&&  \footnotesize{\maroonC{(+0.002)}}  
-&&  \footnotesize{\maroonC{(+0.002)}}
-&&  \footnotesize{\maroonC{(+0.002)}} \\
+&   \footnotesize{\maroonC
+{(+0.002)}} 
+&&  \footnotesize{\maroonC
+{(+0.002)}}  
+&&  \footnotesize{\maroonC
+{(+0.002)}}
+&&  \footnotesize{\maroonC
+{(+0.002)}} \\
 2.302,  &&    2.304,  &&  2.306,  &&   2.308 &&   \box \ldots
 \end{matrix}
 $
@@ -13644,11 +13808,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+(6 \times 1))}}
-&&  \footnotesize{\maroonC{(+(6 \times 2))}}
-&&  \footnotesize{\maroonC{(+(6 \times 3))}}
-&&  \footnotesize{\maroonC{(+(6 \times 4))}}
-&&  \footnotesize{\maroonC{(+(6 \times 5))}} \\
+&   \footnotesize{\maroonC
+{(+(6 \times 1))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 2))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 3))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 4))}}
+&&  \footnotesize{\maroonC
+{(+(6 \times 5))}} \\
 4,  &&    7,  &&  13,  &&   25,  &&   49 &&  \box \ldots
 \end{matrix}
 $
@@ -13691,11 +13860,16 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(-19)}}
-&&  \footnotesize{\maroonC{(-17)}}
-&&  \footnotesize{\maroonC{(-15)}}
-&&  \footnotesize{\maroonC{(-13)}}
-&&  \footnotesize{\maroonC{(-11)}} \\
+&   \footnotesize{\maroonC
+{(-19)}}
+&&  \footnotesize{\maroonC
+{(-17)}}
+&&  \footnotesize{\maroonC
+{(-15)}}
+&&  \footnotesize{\maroonC
+{(-13)}}
+&&  \footnotesize{\maroonC
+{(-11)}} \\
 100,  &&    81,  &&  64,  &&   49,  &&   36 &&  \box \ldots
 \end{matrix}
 $
@@ -13737,10 +13911,14 @@ Let's find the difference between the consecutive terms of the sequence.
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}}
-&&  \footnotesize{\maroonC{(\times 2)}} \\
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}} \\
 \box,  &&    3.5,  &&  7,  &&   14,  &&   28 \ldots
 \end{matrix}
 $
@@ -14003,6 +14181,7 @@ What fraction of the whole square below is the shaded area?
 
 O is the centre of the square and M is the midpoint of AB.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

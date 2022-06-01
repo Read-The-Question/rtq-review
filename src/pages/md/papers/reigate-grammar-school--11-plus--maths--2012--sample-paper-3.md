@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1732,6 +1732,7 @@ tfraction
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of this flag is shaded?How many more rectangles need to be shaded to fill $\dfrac{2}{3}$ of the flag?
 
 </div>
@@ -2438,7 +2439,9 @@ Name the shapes below
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2500,6 +2503,7 @@ tgraph
 An ice cream company recently carried out a survey on $120$ people to see which of their flavours were most popular. The results are shown in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2584,6 +2588,7 @@ TODOANSWER
 Draw a bar chart to represent these results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3039,9 +3044,11 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $1735$ like this
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the biggest number you can make with the four cards?...................
 
@@ -3120,10 +3127,13 @@ TODOANSWER
 Use some of the four number cards to make numbers as close as possible to the numbers given below
 
 $50$     ![missing image](/papers/missing_image.svg)
+
  
 $60$      ![missing image](/papers/missing_image.svg)
 
+
 $4000$   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3182,6 +3192,7 @@ tinfer
 These shapes can be folded to form cubical dice
 
 ![missing image](/papers/missing_image.svg)
+
 
 Opposite faces of a dice always add up to $47$.
 
@@ -3254,9 +3265,11 @@ Six people can sit around a table as shown
 
 ![missing image](/papers/missing_image.svg)
 
+
 Ten people can sit around two tables as shown
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

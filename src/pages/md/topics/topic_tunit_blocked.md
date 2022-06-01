@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-blocked"
 title: "Topic - Unit - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -209,7 +209,8 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}

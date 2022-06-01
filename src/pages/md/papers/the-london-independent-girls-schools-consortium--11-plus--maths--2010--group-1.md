@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -371,16 +371,45 @@ $5.5, \quad  5.8, \quad  6.1, \quad  6.4, \quad  \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.3)}} 
-&&  \footnotesize{\maroonC{(+0.3)}}  
-&&  \footnotesize{\maroonC{(+0.3)}}   
-&&  \footnotesize{\maroonC{(+0.3)}}  \\
+&   \footnotesize{\maroonC
+{(+0.3)}} 
+&&  \footnotesize{\maroonC
+{(+0.3)}}  
+&&  \footnotesize{\maroonC
+{(+0.3)}}   
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 6.4 + 0.3 \\\\
+                        &= 6.7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}} 
+&&  \footnotesize{\maroonC
+{(+0.3)}}  
+&&  \footnotesize{\maroonC
+{(+0.3)}}   
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
 5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -418,16 +447,45 @@ $3, \quad  6, \quad  12, \quad  24, \quad  \text{\textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 24 \times 2 \\\\
+                        &= 48
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -1041,6 +1099,7 @@ To make $4$ bird tables he needs:
 
 ![missing image](/papers/missing_image.svg)
 
+
 $16 \ \text{metres}$ of wood
 
 $4$ wooden trays
@@ -1212,6 +1271,7 @@ there in the box at the start?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1354,6 +1414,7 @@ ttime
 
 ![missing image](/papers/missing_image.svg)
 
+
 Clock $A$ is $12 \ \text{minutes}$ fast.
 
 
@@ -1404,6 +1465,7 @@ Nimita wants to hang some balloons for her birthday party.
 Each balloon needs $35 \ \text{cm}$ of string attached to it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1531,6 +1593,7 @@ How many minutes does he take in total?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1631,6 +1694,7 @@ TODOANSWER
 
 ![missing table](/papers/missing_table.svg)
 
+
 The mass of a table-tennis ball   $2.5 \text{g}   \quad 30 \text{g}   \quad 0.7 \ \text{kg}$
 
 </div>
@@ -1661,6 +1725,7 @@ $30 \text{g}$
 
 ![missing table](/papers/missing_table.svg)
 
+
 The amount of water in a full kettle   $10 \ \text{l} \quad  2 \ \text{l}  \quad 400 \ \text{ml}$
 
 </div>
@@ -1690,6 +1755,7 @@ $2\text{l}$
 <div class='question subquestion'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 The diameter of a CD    $120 \ \text{mm}  \quad  50 \ \text{cm} \quad  50 \ \text{mm}$
 
@@ -1764,6 +1830,7 @@ What percentage of the circle is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1794,6 +1861,7 @@ What fraction of the shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1823,6 +1891,7 @@ TODOANSWER
 Shade $25 \%$ of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1898,6 +1967,7 @@ Which of these shapes has 2 lines of symmetry? Circle the letter.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1927,6 +1997,7 @@ TODOANSWER
 The diagram shows part of a shape which has the $2$ lines of symmetry shown. Complete the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1972,6 +2043,7 @@ tgraph
 The pie chart represents $64$ cars which passed a school in one hour.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2075,6 +2147,7 @@ A small **square** patio is built on a rectangular lawn
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2176,6 +2249,7 @@ tsimpleword
 The diagrams are drawn in cm squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2279,6 +2353,7 @@ Look at the scales:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2366,6 +2441,7 @@ Show Fatima’s height on the ruler in the same way.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2414,13 +2490,16 @@ Sheri wants to fit the small shape into the rectangle without leaving any gaps.
 
 ![missing image](/papers/missing_image.svg)
 
+
 She uses exactly $4$ of the small shapes as shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show how she can fit exactly $4$ of the small shapes into this shape without leaving any gaps.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2466,6 +2545,7 @@ talgebra
 The shape is made from a square and an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram not drawn to scale.
 
@@ -2515,6 +2595,7 @@ tvolume
 Small cubes like the one shown are put into the larger box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2618,6 +2699,7 @@ This solid is made of centimetre cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2674,6 +2756,7 @@ If it is taken apart and rebuilt into the cube below, how many centimetre cubes 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2721,6 +2804,7 @@ tgeometry
 This is a net of a cube.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3078,6 +3162,7 @@ How many games did the teams play in total?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3122,7 +3207,9 @@ The table shows how many eggs her chickens laid on each weekday last week.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 The mean number of eggs laid from Monday to Friday last week was $6$.
 
@@ -3227,6 +3314,7 @@ She can buy three pencils and a ruler for $50 \text{p}$ or two pencils and two r
 How much does each pencil cost her?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3349,6 +3437,7 @@ Altogether Alice, Becky and Charlie have saved $\pounds 26.50$.
 How much has Alice saved?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3610,6 +3699,7 @@ TODOANSWER
 How many bushes would be needed to feed $36$ ladybirds for $2 \ \text{hours}$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3917,6 +4007,7 @@ In a magic square, the total for each row, column and diagonal is the same.
 The diagram below shows part of a magic square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 What is the value of $m$?

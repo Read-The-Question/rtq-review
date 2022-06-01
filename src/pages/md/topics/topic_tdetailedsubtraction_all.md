@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-all"
 title: "Topic - Detailedsubtraction - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -694,6 +694,7 @@ Find the difference between $8.38$ and $6.94$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   8 \ .   &   3   &   8 \\
@@ -1083,6 +1084,7 @@ tdetailedsubtraction
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the values of $P, Q, R, S$ and $T$. 
 
@@ -4274,6 +4276,7 @@ Work out $3.19 - 1.72$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

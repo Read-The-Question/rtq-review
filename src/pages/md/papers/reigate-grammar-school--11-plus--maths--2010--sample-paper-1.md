@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1633,6 +1633,7 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2251,6 +2252,7 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2415,6 +2417,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The pie chart above shows the result of a survey on the ways in which pupils travelled to school.
 
@@ -2949,6 +2952,7 @@ tgraph
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the axes above the point A is $(2,1)$.
 
 </div>
@@ -3292,7 +3296,12 @@ Now look at this second pattern
 
 SHAPE 1 2 3 4 5
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 TOTAL 1 3 6 10 15
 
@@ -3436,11 +3445,13 @@ Tom’s machine adds $4$ to any number put into it and then multiplies the resul
 
 ![missing image](/papers/missing_image.svg)
 
+
 When he puts $2$ in, out comes $30$
 
 Fill in the missing numbers for Tom’s machine
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3479,6 +3490,7 @@ TODOANSWER
 Sarah’s machine multiplies by $5$ and then adds $4$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-g0"
 title: "Topic - Areaperimeter - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,7 +22,9 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This triangle and rectangle have the same area. Find the height of the triangle.
 
@@ -32,7 +34,9 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the question,
 
@@ -121,11 +125,13 @@ How many tiles will I need?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The wall measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin {aligned}
@@ -221,6 +227,7 @@ tareaperimeter
 Find the perimeter of the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -344,6 +351,7 @@ What is the maximum number of stickers I can fit on the wall?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -550,6 +558,7 @@ Calculate the area of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -666,6 +675,7 @@ Calculate the size of the area left when a square side length $2 \ \text{metres}
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -760,6 +770,7 @@ tsimpleword
 The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -916,6 +927,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
 -  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
 -  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
@@ -981,6 +993,7 @@ The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded parallelogram?
 
 -  $21 \ \text{cm}^2$ 
@@ -1045,6 +1058,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - P = $9 \ \text{cm}$, A = 14cm2
 %format% - P = $14 \ \text{cm}$, A = 18cm2
 %format% - P = $18 \ \text{cm}$, A = 14cm2
@@ -1107,6 +1121,7 @@ tsimpleword
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded parallelogram?
 
@@ -1171,6 +1186,7 @@ tareaperimeter
 A right angled triangle is shown below. It is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1358,6 +1374,7 @@ The diagram shows a field viewed from above. All dimensions are given in metres.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A mouse walks all the way around the edge of this field. How far does the mouse walk in metres?
 
 </div>
@@ -1410,6 +1427,7 @@ tareaperimeter
 **For questions $\bold{12, 13}$ and $\bold{14}$, use this diagram.**
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the perimeter of this triangle
 
@@ -1466,6 +1484,7 @@ Estimate the area of this triangle
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -1571,6 +1590,7 @@ How many slabs will he need?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of slabs}  &= \dfrac {\text{Area of the garden}} {\text{Area of a slab}} \\\\
@@ -1618,6 +1638,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of the shape above?
 
@@ -1674,6 +1695,7 @@ tunitprompt
 Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
@@ -1870,6 +1892,7 @@ Note: all angles are right angles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1941,7 +1964,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2071,7 +2095,8 @@ Work out the area and perimeter of this shape.
 
 Note: all angles are right angles but the diagram has not been drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2152,6 +2177,7 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2203,6 +2229,7 @@ tsimpleword
 Four rectangles each of length $27 \ \text{cm}$ and width $13 \ \text{cm}$ are arranged to form the square shape shown below (the diagram is not drawn to scale)
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find: 
 
@@ -2491,6 +2518,7 @@ This shape is made up of $3$ identical rectangles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the perimeter of the shape?
 
 -  $50 \ \text{m}$
@@ -2560,6 +2588,7 @@ talgebra
 When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 ![missing image](/papers/missing_image.svg)
 
+
 - $12$
 - $12.5$
 - $13$
@@ -2619,7 +2648,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2689,6 +2719,7 @@ Neither diagram is drawn to scale.
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -2862,6 +2893,7 @@ tareaperimeter
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2912,6 +2944,7 @@ The formula for the area of a circle is $A = \pi r^2$. For the following task us
 A circle of radius $10 \ \text{cm}$ is inscribed inside a square as shown. Find the area of the shaded region. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3046,6 +3079,7 @@ Mr Green's garden is a mixture of lawn, patio and flower beds. A plan of the gar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3077,6 +3111,7 @@ What is the area covered by Mr Green's lawn?
 <div class='working'>
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -3171,11 +3206,13 @@ How many paving stones are needed to pave the patio?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The patio measurements is given in metres while the paving stones measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -3284,7 +3321,8 @@ tareaperimeter
 
 Calculate the perimeter of this shape stating your units very carefully.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -3339,7 +3377,8 @@ tareaperimeter
 
 What is the area of this shape?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3348,6 +3387,7 @@ What is the area of this shape?
 We can divide the shape into $2$ rectangle as per the diagram shown below.
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -3402,6 +3442,7 @@ What is the perimeter of the cross shape tile?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3436,6 +3477,7 @@ $24 \ \text{cm}$
 Robert puts three tiles together to make the shape below. What is the perimeter of his shape?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3525,6 +3567,7 @@ tareaperimeter
 Find the perimeter of this rectangle:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3638,7 +3681,8 @@ tsimpleword
 
 What is the area of the shaded diamond below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$34\ \ \text{cm}$^2$ 
 
@@ -3707,6 +3751,7 @@ What is the area of the shape below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3759,7 +3804,8 @@ tsimpleword
 
 What is the area of the shaded shape below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$41\ \ \text{cm}$^2$ 
 
@@ -3778,6 +3824,7 @@ E: $\text{More information needed}$
 We can divide the shape into 2 rectangle as per the diagram shown below.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -3825,7 +3872,8 @@ tsimpleword
 
 What is the area of the shaded triangle below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $42 \ cm^2$ 
 
@@ -3842,6 +3890,7 @@ E: $17.5 \ cm^2$
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 $
 \begin{aligned}
@@ -3895,6 +3944,7 @@ tsimpleword
 Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked A. How far does he have to walk? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3978,6 +4028,7 @@ Let the side of the square $=a$
 
 $\text{Perimeter} = 4 \times \text{side})$
 
+
 $
 \begin{aligned}
 20                 &= 4 \times \text {a} \\\\
@@ -4015,6 +4066,7 @@ Calculate the $\text{AREA}$ of the square.
 <div class='working'>
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 $
 \begin{aligned}
@@ -4065,6 +4117,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Not drawn accurately
 
 </div>
@@ -4101,6 +4154,7 @@ What is the **side length** of this square?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 As per the diagram,
 
 $
@@ -4111,6 +4165,7 @@ $
 $
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 Let the side of square $= s$
 
@@ -4153,6 +4208,7 @@ What is the **side length** of this square?
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 As per the diagram,
 
@@ -4219,6 +4275,7 @@ Find the perimeter and area of this shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4284,6 +4341,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The above diagram shows a solid box.
 
@@ -4402,6 +4460,7 @@ A right-angled triangle has the dimensions as shown. What is the area of the **u
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4460,6 +4519,7 @@ The diagram shows a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The length of the rectangle is $2n + 1$. 
 
 The width of the rectangle is $3n - 9$. 
@@ -4471,6 +4531,7 @@ Write down an expression for the perimeter of the rectangle. **Fully simplify yo
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 $
 \begin{aligned}
@@ -4876,6 +4937,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4946,7 +5008,8 @@ Let the length of each side of the individual square (in m) $= a$
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
+\text{Area} &= \text{side} \times \text{side}
+ \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
 a                                               &= 2 \text{m}
@@ -5170,6 +5233,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5177,6 +5241,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -5513,6 +5578,7 @@ Find the area and perimeter of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5573,6 +5639,7 @@ Find the area of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5630,7 +5697,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5747,7 +5815,8 @@ tsimpleword
 
 The following grid is made of $1 \ \text{cm}$ squares. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5784,6 +5853,7 @@ As per the question,
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -5881,6 +5951,7 @@ Calculate the area of the trapezium.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $50 \ \text{cm}^{2}$
 - $44 \ \text{cm}^{2}$
 - $40 \ \text{cm}^{2}$
@@ -5945,6 +6016,7 @@ Four strips of paper are stuck on a table as shown. Each one is a rectangle that
 
 ![missing image](/papers/missing_image.svg)
 
+
 What area of the table is covered? 
 
 </div>
@@ -6005,6 +6077,7 @@ talgebra
 Farmer Jack and Farmer Giles each have a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Farmer Jack’s field has an area of $24 \ \text{m}^2$.
 
@@ -6116,6 +6189,7 @@ The width of Farmer Giles’ field is $4 \ \text{m}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the length of Farmer Giles’ field.
 
 </div>
@@ -6193,6 +6267,7 @@ Farmer Josephine also has a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 
 Farmer Josephine builds a fence along the perimeter of her field.
@@ -6246,6 +6321,7 @@ talgebra
 This shape is made from $9$ identical squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The area of the shape is $144 \ \text{cm}^2$
 
@@ -6318,6 +6394,7 @@ What is the area of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6382,6 +6459,7 @@ It is made from square tiles.
 Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6452,6 +6530,7 @@ area of $58$ square centimetres. How long are the sides of the square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6513,6 +6592,7 @@ of $3 \ \text{centimetres}$ all the way round the photograph.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What area of red card is showing?
 
 </div>
@@ -6520,6 +6600,7 @@ What area of red card is showing?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -6577,6 +6658,7 @@ tcircle
 The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6786,7 +6868,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6852,11 +6936,13 @@ What fraction of the area of the triangle has been shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with answer triangles drawn in IMAGE_PLACEHOLDER_ENDS **
 
@@ -6913,6 +6999,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 The wall measurement is given in feet while the tile measurement is given in inches.
 
 Let's convert the wall measurements into inches.
@@ -6972,6 +7059,7 @@ together to make the letter $F$, which he then
 paints. What area is covered with paint?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7039,6 +7127,7 @@ He then paints the shape he has made. What area is painted?
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with cubes drawn in IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -7121,7 +7210,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -7242,6 +7332,7 @@ tsimpleword
 All the measurements in the following diagram are given in centimetres
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7534,6 +7625,7 @@ In the following diagram the two shaded rectangles have equal areas. What is the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7692,6 +7784,7 @@ In the picture below is the net of a cube. What would be the total surface area 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7756,9 +7849,11 @@ Here is a rectangular tile.
 
 A pattern is made using $4$ of these tiles.
 
-![missing image](/papers/missing_image.svg)     Not to scale 
+![missing image](/papers/missing_image.svg)
+     Not to scale 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7874,11 +7969,14 @@ tsimpleword
 
 The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 They are joined together to make a new shape. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of this new shape? 
 
@@ -7935,6 +8033,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
 
@@ -8009,7 +8108,8 @@ tareaperimeter
 
 It costs $\pounds 400$ to carpet a room measuring $2\, metres$ by $3\, metres$. How much would it costto carpet another room measuring $4\, metres$ by $6\, metres$ with the same carpet? 
 
-![missing image](/papers/missing_image.svg)                                                     
+![missing image](/papers/missing_image.svg)
+                                                     
 
 </div>
 <div class='workings'>
@@ -8074,6 +8174,7 @@ Find the total area of the shaded regions. *The diagram is not drawn accurately*
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8133,7 +8234,9 @@ How many small triangles would fit exactly into the larger rectangle?
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8141,11 +8244,13 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
 
 Let's convert the rectangle measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -8198,6 +8303,7 @@ talgebra
 The rectangle and triangle below have the same height.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
 
@@ -8276,6 +8382,7 @@ The diagram below represents a rectangular grass lawn surrounded by a gravel pat
 What is the cost of gravel required to cover the path?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

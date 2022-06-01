@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,6 +67,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 During which month are there the most birthdays?
 
@@ -164,6 +165,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which point has coordinates $(2, 1)$ ?
 
@@ -310,6 +312,7 @@ tfraction
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of the shape is shaded?
 
 </div>
@@ -407,6 +410,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the sum of the angles in the shape above?
 
 </div>
@@ -469,7 +473,8 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -573,16 +578,45 @@ $47, 40, 33, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-7)} } 
-&&  \footnotesize {\maroonC {(-7)} }  
-&&  \footnotesize {\maroonC {(-7)} }   
-&&  \footnotesize {\maroonC {(-7)} }  \\
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+47,  &&    40,  &&  33,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}                 &= 26 - 7 \\\\
+                                   &= 19
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
 \end{matrix}
 $
@@ -672,6 +706,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 $40$ students were asked which was their favourite colour. How many students chose Yellow?
 
@@ -913,6 +948,7 @@ tstatistics
 
 ![missing table](/papers/missing_table.svg)
 
+
 The table shows midday temperatures. What is the average midday temperature?
 
 </div>
@@ -1122,6 +1158,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What would be the coordinates of $D$ if the shape above was reflected in the y-axis?
 
@@ -1335,6 +1372,7 @@ tvolume
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the volume of the box above?
 
 </div>
@@ -1457,6 +1495,7 @@ $4.679 + 2.15 = {?}$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
         &   4 \ .   &   6   &   7   &   9 \\
@@ -1502,6 +1541,7 @@ tvenn
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many of the following numbers should go into the shaded region?
 
@@ -1562,6 +1602,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which arrow is pointing at $2375$?
 
@@ -1702,7 +1743,8 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -1806,6 +1848,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is shaded area?
 
@@ -1914,6 +1957,7 @@ How many slabs will he need?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -2174,6 +2218,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of the shape above?
 

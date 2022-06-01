@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -306,6 +306,7 @@ How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -397,6 +398,7 @@ In the boxes, write the numbers that their arrows are pointing to.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -436,6 +438,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -478,6 +481,7 @@ There is some liquid in the container.
 How many **more** millilitres must be added to fill it up to the $900 \ \text{ml}$ mark?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -934,6 +938,7 @@ Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for 
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text {Tape left}   &= 5 \ \text {m} \ 35 \ \text {cm} - 243 \ \text{cm} \\\\
@@ -1214,7 +1219,8 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -2241,7 +2247,8 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -2290,6 +2297,7 @@ tunit
 Measure this line to the nearest millimetre.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3850,7 +3858,8 @@ Express $51 \ \text{km}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -3886,7 +3895,8 @@ Express $510 \ \text{cm}$ in metres
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -3966,7 +3976,8 @@ Give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 NO of sheets per ream = $500$
 
@@ -4008,7 +4019,8 @@ Give your answer in kilograms
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -4073,6 +4085,7 @@ Convert $5300 \ \text{grams}$ to kilograms.
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text{One gram} &= \dfrac{1}{1000} \\\\
@@ -4136,6 +4149,7 @@ Convert $340 \ \text{millimetres}$ to metres.
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 &=  340 \ \text{millimetres} \\\\
@@ -4193,6 +4207,7 @@ tunit
 Sophie's grandmother has given her the family recipe to make a tray of $12$ scones.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4574,7 +4589,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 
@@ -4633,6 +4649,7 @@ tunit
 An ant is travelling along the straight line AC as shown below. The distance from A to B is four times as far as the distance from B to C. The distance from A to C is $80\,cm$. [diagram not drawn to scale]
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -394,6 +394,7 @@ $0.7 \quad 0.04 \quad 1.006$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   7   &   0   &   0 \\
@@ -444,16 +445,45 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-7)} } 
-&&  \footnotesize {\maroonC {(-7)} }  
-&&  \footnotesize {\maroonC {(-7)} }   
-&&  \footnotesize {\maroonC {(-7)} }  \\
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+94,  &&    \ldots,  &&  80,  &&   73, && 66
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}        &= 94 - 7 \\\\
+                             &= 87
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
 94,  &&    \ldots,  &&  80,  &&   73, && 66
 \end{matrix}
 $
@@ -638,6 +668,7 @@ Shade $40\%$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -677,6 +708,7 @@ TODOANSWER
 What fraction of the large square below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1100,9 +1132,11 @@ Amy has the two-stage number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Amy’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1144,11 +1178,13 @@ Hannah has a different number machine which has produced the following table of 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately the labels have fallen off Hannah’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1257,7 +1293,9 @@ The prices for coffee beans and ground coffee are shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
 
@@ -1370,6 +1408,7 @@ $60 \ \text{grams}$ of chocolate remained.
 What was the original mass of the chocolate bar?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1492,6 +1531,7 @@ Callum buys a new laptop costing $\pounds 572.50$
 He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$ equal monthly amounts.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How much is each monthly amount?
 
@@ -1748,7 +1788,9 @@ tsymmetry
 Draw all of the lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1809,6 +1851,7 @@ This scale shows the mass of a letter.
 The numbers around the outside are in grams (g), and the numbers inside the circle represent ounces (oz).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2026,6 +2069,7 @@ On the centimetre square grid below, draw a hexagon with area $12 \ \text{cm}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2080,6 +2124,7 @@ ttable
 Below is part of a train timetable:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2218,6 +2263,7 @@ tgraph
 Point $K$ is plotted on the coordinate grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2393,13 +2439,16 @@ A cube has $6$ faces, $12$ edges and $8$ vertices.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The shape below has been made by joining two square-based pyramids to a cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table to show the number of faces, edges and vertices of the shape shown.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2453,6 +2502,7 @@ Di rolls three dice and adds the numbers showing on the top faces.
 She repeats this $240$ times, and draws a bar chart of her results, which is shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2569,6 +2619,7 @@ Tick the relevant box in the table below to say who is most likely to win, or wh
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2629,6 +2680,7 @@ What is the actual time on the clock?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2675,7 +2727,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2901,6 +2955,7 @@ Her results are shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Jane says “The mode is $12$”.
 
 Annabel says “The mode is $4$”.
@@ -2967,6 +3022,7 @@ The first one has already been done for you.
 ![missing table](/papers/missing_table.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3025,6 +3081,7 @@ One rectangle measures $5 \ \text{cm}$ by $4 \ \text{cm}$.
 The other measures $8 \ \text{cm}$ by $6 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the section shaded black is $15 \ \text{cm}^2$, work out the area of the section shaded grey.
 
@@ -3219,6 +3276,7 @@ How many equilateral triangles (of any size) can be found in the diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3267,6 +3325,7 @@ The numbers, in order of increasing size, are:
 $2 \quad 5 \quad 6 \quad 10 \quad 12 \quad 23$
 
 ![missing image](/papers/missing_image.svg)
+
 
 Use the clues below to work out which number is on which card.
 
@@ -3333,6 +3392,7 @@ Some of the small cubes touch other cubes on exactly $3$ faces,
 some touch on exactly 4 faces, some touch on exactly $5$ faces, and some touch on all $6$ faces.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3705,6 +3765,7 @@ tnumber
 The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

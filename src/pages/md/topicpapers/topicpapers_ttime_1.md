@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -265,7 +265,8 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
 \begin {aligned}
@@ -895,6 +896,217 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freya puts a casserole in the oven at $11.40 \ \text{am}$.
+
+It needs $1 \ \text{hour}$ and $45 \ \text{minutes}$ to cook.
+
+At what time will it be cooked?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes are there from $11.11$ util $23.23$ on the same day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Archie is $20$ years, $20$ months, $20$ weeks and $20$ days old.
+
+What age will he be on his next birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Gemma had a baby born on $1 \text{st}$ February $2017$.
+
+On what date will the baby be $400$ days old?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>725486A7-3062-47A5-9B6E-60454F2B945C</p>
@@ -962,7 +1174,9 @@ Part of a bus timetable is shown below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1257,6 +1471,7 @@ The lengths of four of the Henry Potter films are as follows:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
 
 Henry Potter and the Pizza of Azkaban   $158 \ \text{minutes}$
@@ -1318,7 +1533,8 @@ when she thought it was quarter to nine on the same morning (!).
 
 How many minutes was she really out for?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1532,6 +1748,7 @@ Petrov wants to "listen again" to several shows on the radio and is checking the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1731,6 +1948,7 @@ ttime
 **For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
 
 ![missing table](/papers/missing_table.svg)
+
 
 For how many hours is it open each week?
 
@@ -2432,6 +2650,7 @@ For example, the display below represents the time $05{:}26$ since:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2469,6 +2688,7 @@ TODOANSWER
 Write down the time in ($24-\text{hour}$ format) represented by the display:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2510,6 +2730,7 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2549,7 +2770,9 @@ TODOANSWER
 Calculate how long it is between the times displayed on watch A and watch B below:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3633,6 +3856,7 @@ Here is a part of a railway timetable.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3807,6 +4031,7 @@ ttime
 Here is part of a railway timetable
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4116,6 +4341,7 @@ tnoexplanation
 **For Questions** $\bold{12-15}$, **use the clock below**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One **afternoon**, Eadie looks at the clock.
 Write the time in $12 \ \text{hour}$ clock
@@ -4680,7 +4906,8 @@ ttable
 
 The diagram below shows part of a train timetable:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5201,7 +5428,8 @@ ttable
 
 The table shows part of the railway timetable from Edinburgh to St Andrews. Some trains stop at every station and others are express trains. All stopping trains take the same time between each station as each other.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6657,6 +6885,7 @@ It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie ch
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7187,7 +7416,8 @@ tdraw
 
 Draw hands so that the clock below shows a time of $16.30$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7319,6 +7549,7 @@ An aeroplane leaves Heathrow at $$21{:}26$$ and arrives at Atlanta at $$10{:}45$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7348,6 +7579,7 @@ $12 {:} 19$
 In fact, the times were given  as local times. The time in Atlanta is five hours behind U.K. time. What is the actual length of the journey?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7622,6 +7854,7 @@ My clock shows the following time. Both hours and minutes are multiples of 3, as
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7677,6 +7910,7 @@ $ 12:06 $
 Later, my clock shows
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7769,7 +8003,8 @@ ttime
 
 Look at the bus timetable below. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8570,6 +8805,7 @@ ttime
 The timetable below shows some train times from Birmingham to York.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9675,64 +9911,6 @@ $86{,}400$
 
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I left home for school at $7.22 \ \text{am}$ and arrived at $8.16 \ \text{am}$. How long 
-did it take me to get to school?
-
-- $58 \ \text{mins}$
-- $1 \ \text{hour}$ and $4 \ \text{mins}$
-- $1 \ \text{hour}$ and $6 \ \text{mins}$
-- $38 \ \text{mins}$
-- $54 \ \text{mins}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{ I left home for school at}   &= 7.22 \ \text{am} \\\\
-\text{ I arrived at}   &= 8.16 \ \text{am} \\\\
-\text{So, the time gap between left home for school and arrived at school } \\\\
-&= 8.16 \ \text{am} - 7.22 \ \text{am} \\\\
-&= 54 \ \text{mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>E</p>
-</div>
-<div class='answer'>
-
-$54 \ \text{mins}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

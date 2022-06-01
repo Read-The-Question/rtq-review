@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -665,10 +665,14 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -690,10 +694,14 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -742,13 +750,20 @@ Each number in the sequence is double the previous number. Hence the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}}
-&&  \footnotesize {\maroonC{(\times 2)}} \\
+&   \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}} \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
@@ -1293,6 +1308,7 @@ Which hexagon do I shade for my final pattern to have exactly $2$ lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1352,6 +1368,7 @@ The numbers on the right hand side represent the total of each row, and the numb
 the totals of each column. Which numbers should replace each of the letters?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2100,10 +2117,15 @@ Four of the five jigsaw pieces shown below fit together to make a square.
 Which one of these diagrams does not fit?
 
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2166,6 +2188,7 @@ tinfer
 The numbers $1$ to $500$ are arranged in order in a table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Only rows $1, 2, 3$ and $4$ are shown, but there are **many more rows**.
 
@@ -2875,6 +2898,7 @@ Find the sum of the faces that border with the marked corner:
 
 ![missing image](/papers/missing_image.svg)
 
+
 For example, the sum of the faces $= 3 + 5 + 9 = 17$.
 
 </div>
@@ -2915,7 +2939,9 @@ Find the sum of the faces that border with the marked corner for the following:
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3000,6 +3026,7 @@ Write down **all possibilities** for the sum of the missing faces that border wi
 **You MUST show your working**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

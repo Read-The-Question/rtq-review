@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-pr"
 title: "Topic - Draw - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -90,6 +90,7 @@ The diagram shows part of a regular shape along with its two lines of symmetry. 
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  a trapezium
 -  a rhombus
 -  an octagon
@@ -144,6 +145,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing North East. If you turn through $135 \degree$ clockwise, which way are you facing?  
 
@@ -204,6 +206,7 @@ tdirection
 Complete the diagram to show the 8 points of the compass. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Imagine you are facing South East. If you turn through $270^o$ clockwise, which way are you facing? 
 

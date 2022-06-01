@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic B"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -271,6 +271,7 @@ A group of children are cutting squares off one corner of rectangular sheets of 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -439,6 +440,7 @@ tgraph
 Sixty pupils each voted for their favourite game app. The pie chart below shows how they voted.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -611,6 +613,7 @@ In the MGS running competition, runners are placed in five heats and their time 
 The results in the heats were as follows, the times are all in minutes and seconds
 
 ![missing table](/papers/missing_table.svg)
+
 
 In the final **Rusholme Rally** race, the winner of each heat is given a $20 \ \text{second}$ handicap, 
 the second place runner is given a $10 \ \text{second}$ handicap and any runner with a time faster than two minutes is given an **extra** $5 \ \text{second}$ 
@@ -787,6 +790,7 @@ Howard discovers a method to find the heights of buildings. He measures the dist
 Then he measures the angle to the horizontal when he looks up at the top of the building, as shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Using that angle, he then finds the quantity called the **tannangle** from the table below:
 

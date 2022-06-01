@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1706,6 +1706,7 @@ Duncan decide to stop by for a meal on their way home from work one day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1934,15 +1935,20 @@ My youngest brother Joshua likes to play with bricks. One day he makes the follo
 
 ![missing image](/papers/missing_image.svg)
 
+
 If you look at this three-dimensional object from the three different directions indicated above, the shape looks like:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 The next day Joshua makes a different shape using six bricks:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Draw the three views of this new shape below. The diagrams do not have to be to scale. A rough free-hand sketch is all that is required.
 
@@ -1998,6 +2004,7 @@ ttime
 The timetable below shows the morning train times between St Albans and City Thameslink via St Pancras International.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2518,6 +2525,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2658,6 +2666,7 @@ What is the least number of **additional** minutes that she will take to cycle t
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2746,7 +2755,9 @@ tinfer
 A person's Body Mass Index $(BMI$) is worked out by dividing their weight (in kilograms) by the square of their height (in metres). A person is then classified as "underweight", "normal", "overweight" or "obese" according to the following table:
 
 ![missing table](/papers/missing_table.svg)
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 For example, Jill weighs $72 \ \text{kg}$ and is $1.82 \ \text{m}$ tall. Her body mass index is worked out as follows:
 
@@ -2995,9 +3006,13 @@ Four friends, Archibald, Bertram, Camilla and Daphne go on holiday together on t
 the hotel they sit down to dinner at a square table shown below. Archibald insists that he sits facing South so that he can have a clear view of the Mediterranean Sea, whilst Bertram and Camilla decide to sit next to each other. Show the four possible seating arrangements on the diagrams below. The first one has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

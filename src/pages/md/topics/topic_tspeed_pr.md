@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-pr"
 title: "Topic - Speed - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ tspeed
 Look at the pictogram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more km did Baldwin run compared to Jeff? 
 
@@ -274,6 +275,7 @@ tspeed
 The diagram shows the distances between some cities.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how far was the Journey from Madrid to Paris?
 

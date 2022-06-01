@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -34,6 +34,7 @@ talgebra
 Calculate the missing angle in this isosceles triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -93,7 +94,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the value of the missing angle?
 
@@ -153,6 +155,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 Estimate the size of angle $r$.
 
 </div>
@@ -209,11 +212,13 @@ Work out the angle marked ?.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -285,6 +290,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -398,9 +404,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -625,6 +634,7 @@ $ABD$ is an **isosceles** triangle where $AB = AD$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles $x, y$ and $z$.
 
 Give reasons for your answers.
@@ -788,6 +798,58 @@ $48 \degree$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>7D88A99B-2884-41F7-AFBF-593C0094BC10</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A right angled triangle has an angle of $55 \degree$.
+
+What is the size of the smallest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>BB039FA3-8209-4CF6-9799-A0C653637CC6</p>
 </div>
 <div class='topics'>
@@ -805,7 +867,9 @@ talgebra
 Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are **NOT DRAWN TO SCALE** :
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -863,7 +927,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -998,6 +1064,7 @@ Find the sizes of angles $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1077,6 +1144,7 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1128,6 +1196,7 @@ tangle
 The diagram shows a protractor being used to measure the angle between two lines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The lines are labelled **Line $1$** and **Line $2$**.
 
@@ -1184,6 +1253,7 @@ talgebra
 (The drawing is NOT to scale)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1317,6 +1387,7 @@ Find the missing angles $a \degree$ and $b \degree$ :
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  $a = 48 \degree, \ b = 53 \degree$
 -  $a = 48 \degree, \ b = 63 \degree$
 -  $a = 58 \degree, \ b = 53 \degree$
@@ -1387,6 +1458,7 @@ Find the missing angles a ̊and b ̊:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - a = 48o, b = 53o
 %format% - a = 48o, b = 63o
 %format% - a = 58o, b = 53o
@@ -1455,7 +1527,8 @@ talgebra
 
 What is the size of the angle labelled $x$ in the diagram? The diagram is not drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1510,7 +1583,8 @@ talgebra
 
 Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1548,6 +1622,136 @@ $62 \degree$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the size of angle $‘𝑎’$ in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Would you describe $100\degree$? Acute, obtuse or reflex?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
@@ -1567,6 +1771,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 
@@ -1626,6 +1831,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
@@ -1734,6 +1940,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
@@ -1897,6 +2104,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -2005,6 +2213,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the sum of the angles in the shape above?
 
 </div>
@@ -2061,6 +2270,7 @@ talgebra
 The diagram shows a triangle and a line. The two angles marked $y \degree$ are equal.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2191,6 +2401,7 @@ Work out the value of $x$ from the diagram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2234,7 +2445,8 @@ talgebra
 
 The diagram shows a triangle and a line. The two angles marked $y\degree$ are equal.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2358,6 +2570,7 @@ talgebra
 In this diagram what is the value of $x$?
 ![missing image](/papers/missing_image.svg)
 
+
 - $36$
 - $64$
 - $100$
@@ -2424,9 +2637,13 @@ tangle
 In the diagrams below, which angle is the biggest? The diagrams are not drawn to scale.
  
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
  ![missing image](/papers/missing_image.svg)
+
 
 - $a$
 - $b$
@@ -2537,7 +2754,8 @@ Calculate the missing angles.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2576,7 +2794,8 @@ $91 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2673,6 +2892,7 @@ How big is angle $x$ in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2712,6 +2932,7 @@ TODOANSWER
 What is the value of $x$ in this diagram? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2769,7 +2990,8 @@ talgebra
 
 Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2871,6 +3093,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2908,6 +3131,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2991,6 +3215,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3030,6 +3255,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3073,6 +3299,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3159,6 +3386,7 @@ Calculate the size of the missing angles
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3197,6 +3425,7 @@ $84 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -3239,6 +3468,7 @@ $118 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3279,6 +3509,7 @@ $57 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3317,6 +3548,7 @@ $79 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -3405,6 +3637,7 @@ Complete the statement below with the letter A or B.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The acute angle is _______________
 
 The obtuse angle is ______________
@@ -3486,6 +3719,7 @@ testimate
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows an angle A.
 
@@ -3621,6 +3855,7 @@ ABCD is a **parallelogram**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles *h* and *j*. 
 
 Give reasons for your answers.
@@ -3680,7 +3915,9 @@ Find the missing angles (diagrams not to scale):
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3772,6 +4009,7 @@ Find the angles marked in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3826,7 +4064,9 @@ talgebra
 Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3870,6 +4110,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4080,6 +4321,7 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4128,6 +4370,7 @@ $47 \degree, \ 123 \degree$
 Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4413,6 +4656,7 @@ Find the value of $𝑥$ in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4468,6 +4712,7 @@ Find the value of $𝑥$ in the quadrilateral shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4522,6 +4767,7 @@ talgebra
 Calculate the value of 𝑥 in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4633,6 +4879,7 @@ Look at the triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the value of $a$ and $b$.
 
 </div>
@@ -4715,6 +4962,7 @@ talgebra
 Find the size of the angles marked with the letters $a$ and $b$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4802,6 +5050,7 @@ Calculate the value of $x$ in each of the diagrams below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4841,6 +5090,7 @@ $30 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4904,7 +5154,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -5043,6 +5294,7 @@ In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5111,7 +5363,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
 
@@ -5231,7 +5484,8 @@ talgebra
 
 The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5349,6 +5603,7 @@ What is the size of the largest angle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5451,6 +5706,7 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5502,6 +5758,7 @@ The   angles   round a  point add   up to **$360^\degree$**
 In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5558,7 +5815,8 @@ talgebra
 
 Look at these angles:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5656,7 +5914,8 @@ Calculate the angles marked with letters on the following diagrams.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -5690,7 +5949,8 @@ $45 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -5725,7 +5985,8 @@ $96 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -5793,6 +6054,7 @@ Find the missing angle, $x$:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5846,7 +6108,8 @@ talgebra
 
 Find the size of angle $x$:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5909,6 +6172,7 @@ talgebra
 Calculate the angle marked with the letter $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $70 \degree$
 - $85 \degree$
@@ -6042,6 +6306,7 @@ Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $126 \degree$
 - $46 \degree$
 - $316 \degree$
@@ -6105,6 +6370,7 @@ talgebra
 A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the size of the angle marked $x$. 
 
@@ -6177,6 +6443,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 All measurements on the diagram are in centimetres. 
 
 </div>
@@ -6242,6 +6509,7 @@ $5$
 Here is a triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of the angle marked $y$.
 
@@ -6309,8 +6577,11 @@ the angles in a triangle add up to $180 \degree$
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6461,6 +6732,7 @@ Construct triangle $ADC$, in which angle $DAC = 44 \degree$ and $AD = 56 \ \text
 *(Use the dashed line $AC$ as the base of your triangle.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6660,6 +6932,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -6699,6 +6972,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6757,6 +7031,7 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6813,6 +7088,7 @@ Work out the value of the angle labelled $x$ in the diagram below.
 The diagram is not drawn to scale.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6867,6 +7143,7 @@ talgebra
 The shape is made from a square and an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Diagram not drawn to scale.
 
@@ -6992,6 +7269,7 @@ For example,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned} 
 a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
@@ -7028,6 +7306,7 @@ $
 Find $a$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7070,6 +7349,7 @@ Find $b$
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7115,6 +7395,7 @@ $130 \degree$
 Find $c$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7603,6 +7884,7 @@ Calculate each of the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7670,6 +7952,7 @@ talgebra
 What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7744,6 +8027,7 @@ Find the value of $χ$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7808,6 +8092,7 @@ Calculate the missing angle in the triangle shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7861,6 +8146,7 @@ tangle
 In the triangle below measure the side AB and the angle A
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7918,6 +8204,7 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 *The diagram is not drawn accurately*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7994,6 +8281,7 @@ tangle
 The diagram below shows parts of two identical $n$ -sided regular polygons *ABCD...and ABPQ*...with the side AB common to both polygons. The sides DC and QP , when extended, meet at O with angle $C\hat{O}P = x$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8207,6 +8495,7 @@ Calculate the value of angle $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8266,6 +8555,7 @@ The triangle in the diagram below is isosceles.
 Calculate angle **$x$**
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

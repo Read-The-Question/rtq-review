@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -274,7 +274,29 @@ $15, \quad 21, \quad 27, \quad 33, \quad 39, \quad \boxed{\phantom{39}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $\times{+6}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }  \\
+15,  &&    21,  &&  27,  &&   33,  &&    39  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number}   &= 39 + 6 \\\\
+                         &= 45
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
 
 The difference between the terms is $\times{+6}$. Hence, the sequence would be:
 
@@ -975,6 +997,7 @@ A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the size of the angle marked $x$. 
 
 </div>
@@ -1098,6 +1121,7 @@ Here are three squares that overlap.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The non-overlapping parts of the squares have a total area of $90 \ \text{cm}^{2}$.
 
 The areas of overlapping parts are $2 \ \text{cm}^{2}$, 
@@ -1161,6 +1185,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
 
@@ -1661,6 +1686,7 @@ On the grid, shade in one more square so that the completed shape has one line o
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1700,6 +1726,7 @@ TODOANSWER
 On the grid below, shade in three more squares so that the completed shape has a rotational symmetry of order $2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1760,6 +1787,7 @@ The table gives information about these activities.
  
 ![missing table](/papers/missing_table.svg)
 
+
 Tom wants to do all $4$ activities.
 
 He arrives at the theme park at $10 \ 20$ 
@@ -1768,7 +1796,8 @@ He needs to leave the theme park by $14 \ 30$.
 
 Plan a schedule for Tom's visit to the theme park so he can do all $4$ activities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1826,7 +1855,8 @@ tdraw
 
 Here is a parallelogram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1904,6 +1934,7 @@ Here is a shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw all the lines of symmetry on this shape.
 
 </div>
@@ -1965,7 +1996,8 @@ tgraph
 
 Here is a coordinate grid.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2101,6 +2133,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 All measurements on the diagram are in centimetres. 
 
 </div>
@@ -2166,6 +2199,7 @@ $5$
 Here is a triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of the angle marked $y$.
 
@@ -2297,6 +2331,7 @@ $4 \ \text {cm}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 A carton measures $200 \ \text{cm}$ by $100 \ \text{cm}$ by $100 \ \text{cm}$.
 
 The carton is to be completely filled with boxes.
@@ -2366,7 +2401,8 @@ tsequence
 
 Here are some patterns made up of dots.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2443,6 +2479,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2539,6 +2576,7 @@ tsimpleword
 Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What area of the table is covered? 
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -474,6 +474,7 @@ In the diagram below, triangle ABC is isosceles with AB = BC  ; triangle ABD is 
 $x$ = ABC in degrees. Use algebra to calculate the size of angle $𝑥$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1035,6 +1036,7 @@ todo
 Four identical circles of radii $6\, cm$ touch as shown in the figure: their centres form a square.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

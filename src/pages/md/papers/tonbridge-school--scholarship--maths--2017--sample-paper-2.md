@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -300,6 +300,7 @@ Making your method clear, find the total shaded area in the figure.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -354,6 +355,7 @@ todo
 A solid pyramid has a $5\, cm$ by $\,$8 \ \text{cm}$$ rectangular base *ABCD* with the dimensions shown in the diagram. The vertex (top point) of the pyramid, *V* , is directly above the centre of the base with $VA = VB = VC = VD = 7\,cm$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -524,6 +526,7 @@ todo
 In the diagram below, *ABCD* are four successive vertices of a regular polygon. *BPQC* is a square and angle $C\hat{D}Q$ is $x$ degrees.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -696,6 +699,7 @@ todo
 This question is about triangles with a fixed area of $6\, cm^2$ . If the base of the triangle has length $x\, cm$, the height $y\, cm$ of the largest square that fits inside the triangle as shown in the diagram is given by the formula $y =\frac{12x}{x^2+12}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

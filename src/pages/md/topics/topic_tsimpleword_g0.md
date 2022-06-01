@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-g0"
 title: "Topic - Simpleword - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -237,6 +237,7 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -379,11 +380,13 @@ How many tiles will I need?
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The wall measurement is given in metres while the tile measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin {aligned}
@@ -548,6 +551,7 @@ What is the maximum number of stickers I can fit on the wall?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
@@ -599,6 +603,7 @@ tpercentage
 At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What *percentage* of the teachers travel by car?
 
@@ -1013,6 +1018,7 @@ Calculate the size of the area left when a square side length $2 \ \text{metres}
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1270,6 +1276,7 @@ The diagram shows a T shape. The diagram is not accurately drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1428,6 +1435,7 @@ The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded parallelogram?
 
 -  $21 \ \text{cm}^2$ 
@@ -1494,6 +1502,7 @@ tsimpleword
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded parallelogram?
 
@@ -1677,6 +1686,7 @@ tsimpleword
 The diagram shows a field viewed from above. All dimensions are given in metres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 A mouse walks all the way around the edge of this field. How far does the mouse walk in metres?
 
@@ -2500,6 +2510,7 @@ How many slabs will he need?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of slabs}  &= \dfrac {\text{Area of the garden}} {\text{Area of a slab}} \\\\
@@ -2547,6 +2558,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of the shape above?
 
@@ -2605,6 +2617,7 @@ Work out the area and perimeter of this shape.
 Note: all angles are right angles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2679,7 +2692,8 @@ Work out the area and perimeter of this shape.
 
 Note: all angles are right angles but the diagram has not been drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2819,6 +2833,7 @@ Work out the perimeter of this shape.
 Note: all angles are right angles but the diagram has not been drawn to scale. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2998,6 +3013,7 @@ Four rectangles each of length $27 \ \text{cm}$ and width $13 \ \text{cm}$ are a
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find: 
 
 </div>
@@ -3122,6 +3138,7 @@ This shape is made up of $3$ identical rectangles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the perimeter of the shape?
 
 -  $50 \ \text{m}$
@@ -3188,7 +3205,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3258,6 +3276,7 @@ Neither diagram is drawn to scale.
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -3555,6 +3574,7 @@ What is the perimeter of the cross shape tile?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3589,6 +3609,7 @@ $24 \ \text{cm}$
 Robert puts three tiles together to make the shape below. What is the perimeter of his shape?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3680,7 +3701,8 @@ tsimpleword
 
 What is the area of the shaded diamond below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$34\ \ \text{cm}$^2$ 
 
@@ -3749,6 +3771,7 @@ What is the area of the shape below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3801,7 +3824,8 @@ tsimpleword
 
 What is the area of the shaded shape below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$41\ \ \text{cm}$^2$ 
 
@@ -3820,6 +3844,7 @@ E: $\text{More information needed}$
 We can divide the shape into 2 rectangle as per the diagram shown below.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -3867,7 +3892,8 @@ tsimpleword
 
 What is the area of the shaded triangle below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $42 \ cm^2$ 
 
@@ -3884,6 +3910,7 @@ E: $17.5 \ cm^2$
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 $
 \begin{aligned}
@@ -3937,6 +3964,7 @@ tsimpleword
 Sid the spider goes for a walk around the whole perimeter of the shape below, starting at the point marked A. How far does he have to walk? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4041,6 +4069,7 @@ Find the perimeter and area of this shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4106,6 +4135,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The above diagram shows a solid box.
 
@@ -4489,6 +4519,7 @@ tsimpleword
 A right-angled triangle has the dimensions as shown. What is the area of the **unshaded** region?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5541,6 +5572,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5548,6 +5580,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 We know,
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
+
 
 As per the diagram,
 
@@ -6212,6 +6245,7 @@ Find the area and perimeter of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6271,6 +6305,7 @@ tsimpleword
 Find the area of this shape. Give the units with your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6402,7 +6437,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6573,7 +6609,8 @@ tsimpleword
 
 The following grid is made of $1 \ \text{cm}$ squares. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6610,6 +6647,7 @@ As per the question,
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -6707,6 +6745,7 @@ Calculate the area of the trapezium.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $50 \ \text{cm}^{2}$
 - $44 \ \text{cm}^{2}$
 - $40 \ \text{cm}^{2}$
@@ -6770,6 +6809,7 @@ tsimpleword
 Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What area of the table is covered? 
 
@@ -7224,6 +7264,7 @@ of $3 \ \text{centimetres}$ all the way round the photograph.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What area of red card is showing?
 
 </div>
@@ -7231,6 +7272,7 @@ What area of red card is showing?
 <div class='working'>
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}
@@ -7683,6 +7725,7 @@ paints. What area is covered with paint?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7750,6 +7793,7 @@ He then paints the shape he has made. What area is painted?
 
 ![missing image](/papers/missing_image.svg)
 
+
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with cubes drawn in IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
 As per the question, the seventh cube (the cube in the centre) has all of its faces covered.
@@ -7812,6 +7856,7 @@ tsimpleword
 All the measurements in the following diagram are given in centimetres
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7942,9 +7987,11 @@ Here is a rectangular tile.
 
 A pattern is made using $4$ of these tiles.
 
-![missing image](/papers/missing_image.svg)     Not to scale 
+![missing image](/papers/missing_image.svg)
+     Not to scale 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8181,11 +8228,14 @@ tsimpleword
 
 The dimensions of a rectangle and triangle are given. The diagrams are not drawn accurately.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 They are joined together to make a new shape. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of this new shape? 
 
@@ -8242,6 +8292,7 @@ tmoney
 <div class='question question'>
 
 Concert tickets for $4$ adults cost a total of $\pounds 62.         ![missing image](/papers/missing_image.svg)
+
 
 Children are admitted at half price.
 
@@ -8320,6 +8371,7 @@ tsimpleword
 
 ![missing image](/papers/missing_image.svg)
 
+
 A path of width $1.5\, m$ is built around the outside of a pond. The dimensions of the path are shown.
 
 What is the area of the pond?
@@ -8395,6 +8447,7 @@ Find the total area of the shaded regions. *The diagram is not drawn accurately*
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8454,7 +8507,9 @@ How many small triangles would fit exactly into the larger rectangle?
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8462,11 +8517,13 @@ $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
 
 Let's convert the rectangle measurements into $\text{cm}$.
 
 $\text{Area} = \text{length} \times \text{width}$
+
 
 $
 \begin{aligned}

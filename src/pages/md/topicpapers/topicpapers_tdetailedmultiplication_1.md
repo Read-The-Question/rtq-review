@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2641,6 +2641,7 @@ The two-digit by two-digit multiplication below has lots of gaps, but most of th
 (not by guesswork). Which digit must go in the position of the $*$ ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5284,6 +5285,7 @@ tdetailedmultiplication
 Fill in the missing digits in this multiplication:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

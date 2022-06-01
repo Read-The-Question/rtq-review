@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttemperature-all"
 title: "Topic - Temperature - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -20,7 +20,8 @@ ttemperature
 
 The temperature, in $\degree \text{C}$, at midday at the theme park on $6$ winter days was recorded.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -295,6 +296,7 @@ Fill in the gaps in the table.
 The first row is done for you.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -582,6 +584,229 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A786B168-A7D5-48AE-9E5B-0BAFEF84A731</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The thermometers below show the temperature recorded at midday yesterday and midnight last night.
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the temperature midday yesterday in $\degree{F}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the temperature midnight last night in $\degree{C}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What was the difference in temperature between midday yesterday and midnight last night in $\degree{C}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6698C0E8-8C91-401E-A164-C22C25F5E9F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The temperature in Inverness is $12\ \text{degrees}$ lower than the temperature in London. 
+
+The temperature in London is $5\ \text{degrees}$.
+
+What is the temperature in Inverness? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806</p>
@@ -644,7 +869,8 @@ Here is a map of the British Isles.
 
 The temperatures in some places, one night last winter are shown on the map.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -809,7 +1035,8 @@ ttemperature
 
 Temperatures were taken on one day in each of five cities. The results are shown in the table.
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1105,6 +1332,7 @@ At different heights, the temperature is different.
 The graph shows information about temperatures in one month.
 
 ![missing image](/papers/missing_image.svg)
+
 
 For example:
 
@@ -1604,6 +1832,7 @@ A gardener measures the night time temperatures over two evenings and records th
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1922,9 +2151,11 @@ ttemperature
 
 ![missing image](/papers/missing_image.svg)
 
+
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2027,9 +2258,11 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 The diagrams show two thermometers. One of the thermometers shows a temperature of $52 \degree \text{F}$. 
 
@@ -2186,7 +2419,8 @@ ttemperature
 
 The table shows the average temperatures of some European cities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2352,6 +2586,7 @@ ttemperature
 This map shows the temperatures in four cities one morning in January.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2524,6 +2759,7 @@ The table below shows the maximum temperatures in New York City last year.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2685,7 +2921,9 @@ These thermometers show the temperatures inside and outside a window at $10 \ \t
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2807,7 +3045,8 @@ Sarah measured the temperature of a beaker of liquid every $10 \ \text{minutes}$
 
 She plotted her results on the graph below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2988,7 +3227,8 @@ ttemperature
 
 The graph below converts degrees Celsius to degrees Fahrenheit. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 Use the graph to complete the following sentences.
 
@@ -3150,6 +3390,7 @@ What temperature does the thermometer show?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3179,6 +3420,7 @@ TODOANSWER
 What temperature does this thermometer show?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3240,6 +3482,7 @@ todo
 A flow chart for converting $\degree \text{C}$ into degrees Fahrenheit, $\degree \text{F}$, is
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3388,6 +3631,7 @@ Here are two thermometer readings taken at the same time on Monday and Tuesday.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3513,6 +3757,7 @@ Write down the temperature shown on this thermometer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3591,6 +3836,7 @@ On Christmas Eve, the temperature in Cold City was $-12 \degree \text{C}$.
 At the same time, the temperature in Tropical Town was $20 \degree \text{C}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3820,9 +4066,11 @@ ttemperature
 
 The thermometres below show the tempratures inside and outside a window at midday, one day in winter. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3940,9 +4188,11 @@ ttemperature
 
 The table below shows the temperatures in three towns on Monday.
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4072,6 +4322,7 @@ TODOANSWER
 
 The bar chart below shows the midday temperatures each day in London and Paris during the same week one spring.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4320,6 +4571,7 @@ The thermometers below show the temperatures, in $\degree \text{C}$, inside a fr
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4439,6 +4691,7 @@ Field crickets chirp according to the temperature of their surroundings.
 You can use the following rule to work out the temperature:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4614,6 +4867,7 @@ The temperature in Minnesota on Monday morning was $-4 \degree \text{C}$.
 On Tuesday morning, the temperature was $6 \ \text{degrees}$ colder.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

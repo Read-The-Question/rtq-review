@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-notstarted"
 title: "Topic - Detailedsubtraction - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -23,6 +23,7 @@ tdetailedsubtraction
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the values of $P, Q, R, S$ and $T$. 
 

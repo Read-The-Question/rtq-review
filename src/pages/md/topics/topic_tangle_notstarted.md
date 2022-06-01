@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-notstarted"
 title: "Topic - Angle - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ Look at triangle $ABC$.
 $ABD$ is an **isosceles** triangle where $AB = AD$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the sizes of angles $x, y$ and $z$.
 
@@ -127,6 +128,58 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>7D88A99B-2884-41F7-AFBF-593C0094BC10</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A right angled triangle has an angle of $55 \degree$.
+
+What is the size of the smallest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A1648258-BCE0-4F45-917A-44E8174AAC05</p>
 </div>
 <div class='topics'>
@@ -184,6 +237,7 @@ TODOANSWER
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -221,6 +275,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -280,7 +335,9 @@ talgebra
 Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are **NOT DRAWN TO SCALE** :
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -339,6 +396,7 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -393,6 +451,7 @@ talgebra
 (The drawing is NOT to scale)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -524,7 +583,8 @@ talgebra
 
 What is the size of the angle labelled $x$ in the diagram? The diagram is not drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -563,6 +623,136 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the size of angle $‘𝑎’$ in the diagram below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Would you describe $100\degree$? Acute, obtuse or reflex?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>2BA835E1-7D92-469E-B7C7-5E510FB29702</p>
 </div>
 <div class='topics'>
@@ -580,6 +770,7 @@ tangle
 The pie chart and table show the answere given by $80$ people to a survey about their favourite Summer Sports Event of $2016$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -753,6 +944,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -811,6 +1003,7 @@ tangle
 
 ![missing table](/papers/missing_table.svg)
 
+
 A pie chart is drawn to show children’s favourite colour using the table above. What size angle would represent Red?
 
 </div>
@@ -866,6 +1059,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -920,6 +1114,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the sum of the angles in the shape above?
 
@@ -977,6 +1172,7 @@ talgebra
 Work out the value of $x$ from the diagram below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1059,6 +1255,7 @@ How big is angle $x$ in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1098,6 +1295,7 @@ TODOANSWER
 What is the value of $x$ in this diagram? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1188,6 +1386,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1225,6 +1424,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1281,6 +1481,7 @@ testimate
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows an angle A.
 
@@ -1419,6 +1620,7 @@ tangle
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1590,6 +1792,7 @@ ABCD is a **parallelogram**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles *h* and *j*. 
 
 Give reasons for your answers.
@@ -1649,6 +1852,7 @@ Find the angles marked in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1703,7 +1907,9 @@ talgebra
 Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1753,6 +1959,7 @@ Work out the perimeter of the following shape.
 The shape is not drawn accurately.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1864,6 +2071,7 @@ What is the size of the largest angle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1945,8 +2153,11 @@ the angles in a triangle add up to $180 \degree$
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2069,6 +2280,7 @@ This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2137,6 +2349,7 @@ Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo 
 (The point $A$ is already drawn for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2311,6 +2524,7 @@ Construct triangle $ADC$, in which angle $DAC = 44 \degree$ and $AD = 56 \ \text
 *(Use the dashed line $AC$ as the base of your triangle.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2538,6 +2752,7 @@ $
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2634,6 +2849,7 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2690,6 +2906,7 @@ Work out the value of the angle labelled $x$ in the diagram below.
 The diagram is not drawn to scale.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2745,6 +2962,7 @@ The shape is made from a square and an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Diagram not drawn to scale.
 
 What is the size of the reflex angle marked $p \degree$?
@@ -2793,6 +3011,7 @@ talgebra
 Find the value of $χ$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2855,6 +3074,7 @@ In the triangle below measure the side AB and the angle A
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2911,6 +3131,7 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 *The diagram is not drawn accurately*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2987,6 +3208,7 @@ tangle
 The diagram below shows parts of two identical $n$ -sided regular polygons *ABCD...and ABPQ*...with the side AB common to both polygons. The sides DC and QP , when extended, meet at O with angle $C\hat{O}P = x$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3198,6 +3420,7 @@ The triangle in the diagram below is isosceles.
 Calculate angle **$x$**
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

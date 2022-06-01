@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -423,6 +423,7 @@ Write down the number that the arrow is pointing to on the scale below:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -635,6 +636,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -731,6 +733,7 @@ For each of the number machines below write down the letter:
 
 ![missing table](/papers/missing_table.svg)
 
+
 A if the answer is always even
 
 B if the answer is always odd
@@ -773,6 +776,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -810,6 +814,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1044,6 +1049,7 @@ The proportions choosing each sport are shown on the pie chart:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1179,6 +1185,7 @@ tnumber
 In the square below, every row, column and diagonal adds up to $15$. What number must be put into the square labelled $A$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1898,6 +1905,7 @@ My lawnmower can cut strips $50 \ \text{cm}$ wide and I always mow the lawn by w
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2286,8 +2294,11 @@ the angles in a triangle add up to $180 \degree$
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2518,6 +2529,7 @@ The land of Whasham consists of a rectangular lake with an island in the centre.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2693,6 +2705,7 @@ tpermutation
 The streets of New York are arranged in a grid as shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 There are three direct ways of travelling from $A$ to $B$.
 
@@ -2893,6 +2906,7 @@ Winston watched the race but forgot to write down the positions of the runners. 
 -  $10 \text{th}$ A number which is greater than $10$
 
 ![missing table](/papers/missing_table.svg)
+
 
 Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
 

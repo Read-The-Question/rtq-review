@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,10 +20,7 @@ date: 2022-06-01 14:18:26
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tratio
 </li>
 </ul>
 </div>
@@ -88,10 +85,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tdivision
 </li>
 </ul>
 </div>
@@ -125,6 +119,7 @@ Write numbers in the boxes to make this division correct
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -154,6 +149,7 @@ TODOANSWER
 Write numbers in the boxes to make this subtraction correct
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -200,10 +196,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tclock
 </li>
 </ul>
 </div>
@@ -461,6 +454,7 @@ For example,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned} 
 a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
@@ -497,6 +491,7 @@ $
 Find $a$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -539,6 +534,7 @@ Find $b$
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -584,6 +580,7 @@ $130 \degree$
 Find $c$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -644,10 +641,7 @@ $45 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -659,9 +653,11 @@ For example, if we start with
 
 ![missing image](/papers/missing_image.svg)
 
+
 we end up with
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -700,6 +696,7 @@ TODOANSWER
 Fill in the remaining numbers on the bricks.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -741,6 +738,7 @@ Fill in the numbers on the bottom row.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -780,6 +778,7 @@ TODOANSWER
 $a$ and $b$ are whole numbers, neither of which is $1$. Find the values of $a$ and $b$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -826,10 +825,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsymmetry
 </li>
 </ul>
 </div>
@@ -839,13 +835,18 @@ Draw in all the axes of symmetry in these shapes. If any shape has no axes of sy
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -889,10 +890,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -1133,16 +1131,14 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgraph
 </li>
 </ul>
 </div>
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The graph shows the number of pets owned by the children in a primary school class.
 
@@ -1341,10 +1337,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tmoney
 </li>
 </ul>
 </div>
@@ -1739,10 +1732,10 @@ $4108$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+ttime
 </li>
 <li>
-todo
+ttable
 </li>
 </ul>
 </div>
@@ -2033,10 +2026,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -2412,10 +2402,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1195,7 +1195,8 @@ tgeometry
 
 Here are some 2D shapes. Write the name of each shape underneath it.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1245,6 +1246,7 @@ Complete the diagram to show the 8 points of the compass.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Imagine you are facing west. If you turn through $270^o$ anticlockwise, which way are you then facing?
 
 </div>
@@ -1288,6 +1290,7 @@ tgraph
 A number of Year $7$ pupils were asked to choose a favourite subject from a list of seven subjects. The number choosing each subject is shown in the chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1574,7 +1577,9 @@ Answer the questions on the next page using the grids.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

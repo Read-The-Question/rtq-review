@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -582,6 +582,7 @@ tareaperimeter
 
 ![missing image](/papers/missing_image.svg)
 
+
 Calculate the perimeter of this triangle
 
 </div>
@@ -637,6 +638,7 @@ Estimate the area of this triangle
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -745,7 +747,8 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.  The weight measurements are given in both kilograms and grams.
+It is really important to use the right units in calculations and convert where required
+.  The weight measurements are given in both kilograms and grams.
 
 $
 \begin{aligned}
@@ -940,6 +943,7 @@ This diagram shows the reults of a class survey concerning pets.
 
 ![missing table](/papers/missing_table.svg)
 
+
 How many children have at least one pet?
 
 </div>
@@ -1093,17 +1097,49 @@ What is the next number in the pattern?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)}} 
-&&  \footnotesize {\maroonC {(+4)}}  
-&&  \footnotesize {\maroonC {(+4)}}   
-&&  \footnotesize {\maroonC {(+4)}}   
-&&  \footnotesize {\maroonC {(+4)}}  \\
+&   \footnotesize {\maroonC
+ {(+4)}} 
+&&  \footnotesize {\maroonC
+ {(+4)}}  
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}  \\
+3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number in the pattern}   &= 19 + 4 \\\\
+                                    &= 23
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)}} 
+&&  \footnotesize {\maroonC
+ {(+4)}}  
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
 \end{matrix}
 $
@@ -1250,6 +1286,7 @@ ttime
 **For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
 
 ![missing table](/papers/missing_table.svg)
+
 
 For how many hours is it open each week?
 
@@ -1631,6 +1668,7 @@ tnoexplanation
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the exact name of this polygon?
 
 </div>
@@ -1820,6 +1858,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the order of rotational symmetry ofthis shape?
 
 </div>
@@ -1929,6 +1968,7 @@ ttable
 This diagram illustrates a survey into theme park rides.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many people favoured "the Spaceship"?
 

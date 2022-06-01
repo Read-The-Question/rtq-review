@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-all"
 title: "Topic - Trialerror - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -542,7 +542,8 @@ The top three rows are coloured as indicated.
 
 What colour must the bottom row be?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

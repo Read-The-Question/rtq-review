@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -211,6 +211,7 @@ have a number displayed on it.
 Some are already done.
 
 ![missing image](/papers/missing_image.svg)
+
 
 For each block above the bottom
 row, the number on it is the sum of
@@ -454,6 +455,7 @@ talgebra
 In this diagram what is the value of $x$?
 ![missing image](/papers/missing_image.svg)
 
+
 - $36$
 - $64$
 - $100$
@@ -523,6 +525,7 @@ tgeometry
 How many triangles of any 
 size are there in this diagram?
 ![missing image](/papers/missing_image.svg)
+
 
 - $8$
 - $10$
@@ -937,15 +940,24 @@ What is the $10 \text{th}$ number in the sequence?
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{()}}  
-&&  \footnotesize{\maroonC{(+2)}} 
-&&  \footnotesize{\maroonC{(+5)}}   
-&&  \footnotesize{\maroonC{(+10)}}
-&&  \footnotesize{\maroonC{(+20)}}
-&&  \footnotesize{\maroonC{(+40)}}
-&&  \footnotesize{\maroonC{(+80)}}
-&&  \footnotesize{\maroonC{(+160)}}
-&&  \footnotesize{\maroonC{(+320)}}
+&   \footnotesize{\maroonC
+{()}}  
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+10)}}
+&&  \footnotesize{\maroonC
+{(+20)}}
+&&  \footnotesize{\maroonC
+{(+40)}}
+&&  \footnotesize{\maroonC
+{(+80)}}
+&&  \footnotesize{\maroonC
+{(+160)}}
+&&  \footnotesize{\maroonC
+{(+320)}}
 2,  &&    3,  &&  5,  &&   10,  &&   20   &&   40   &&   80   &&   160   &&   320   &&   640 \ldots
 \end{matrix}
 $
@@ -994,6 +1006,7 @@ tareaperimeter
 Which of the following calculation is 
 correct for the **area** of shape?
 ![missing image](/papers/missing_image.svg)
+
 
 - $10 \times 6 + 5 \times 4$
 - $10 \times 5 + 9 \times 6$
@@ -1053,6 +1066,7 @@ talgebra
 
 When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 ![missing image](/papers/missing_image.svg)
+
 
 - $12$
 - $12.5$
@@ -1188,10 +1202,15 @@ Which image completes the symmetric figure
 using the dashed line of symmetry?
 ![missing image](/papers/missing_image.svg)
 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
+
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
 
 
 </div>
@@ -1250,6 +1269,7 @@ square, including one number from each row
 and one number from each column.
 
 ![missing image](/papers/missing_image.svg)
+
 
 I then multiply the three numbers together.
 
@@ -1380,6 +1400,7 @@ numbers in each of the four lines is the same.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which number should be replace $*$?
 
 
@@ -1435,6 +1456,7 @@ tinfer
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 In this word sum - each letter represents a different digit.
 What digit does each letter represent? 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-pr"
 title: "Topic - Number - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,7 +53,8 @@ $\ldots + 46 = 100$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{54}} + 46 = 100$
+$\underline{\green
+{54}} + 46 = 100$
 
 </div>
 </div>
@@ -81,7 +82,8 @@ $9 \times \ldots = 108$
 <div class='workings'>
 <div class='working'>
 
-$9 \times \underline{\green{12}} = 108$
+$9 \times \underline{\green
+{12}} = 108$
 
 </div>
 </div>
@@ -109,7 +111,8 @@ $\ldots \div 20 = 7$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{140}} \div 20 = 7$
+$\underline{\green
+{140}} \div 20 = 7$
 
 </div>
 </div>
@@ -137,7 +140,8 @@ $3 - \ldots = -8$
 <div class='workings'>
 <div class='working'>
 
-$3 - \underline{\green{11}} = -8$
+$3 - \underline{\green
+{11}} = -8$
 
 </div>
 </div>
@@ -209,7 +213,8 @@ $2.4 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$2.4 \times 100 = \underline{\green{240}}$
+$2.4 \times 100 = \underline{\green
+{240}}$
 
 </div>
 </div>
@@ -237,7 +242,8 @@ $8600 \div 10 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$8600 \div 10 = \underline{\green{860}}$
+$8600 \div 10 = \underline{\green
+{860}}$
 
 </div>
 </div>
@@ -265,7 +271,8 @@ $\ldots \times 30 = 600$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{20}} \times 30 = 600$
+$\underline{\green
+{20}} \times 30 = 600$
 
 </div>
 </div>
@@ -293,7 +300,8 @@ $80 \div 200 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$80 \div 200 = \underline{\green{0.4}}$
+$80 \div 200 = \underline{\green
+{0.4}}$
 
 </div>
 </div>
@@ -365,7 +373,8 @@ $0.609 \quad     0.069 \quad     0.63 \quad     0.063$
 <div class='workings'>
 <div class='working'>
 
-$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+$0.609 \quad     0.069 \quad     \boxed{\green
+{0.63}} \quad     0.063$
 
 </div>
 </div>
@@ -393,7 +402,8 @@ $-7.5 \quad    -1 \quad      -8 \quad     -1.5$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+$-7.5 \quad   \boxed{\green
+{-1}} \quad      -8 \quad     -1.5$
 
 </div>
 </div>
@@ -428,7 +438,8 @@ $
 \end{aligned}
 $
 
-$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+$0.09 \quad     39\% \quad    \boxed{\green
+{0.44}} \quad     \dfrac{2}{5}$
 
 </div>
 </div>
@@ -1128,6 +1139,7 @@ TODOWORKING
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -6374,10 +6386,14 @@ Let take the amount $= a$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}}
-&&  \footnotesize {\maroonC{(+a)}} \\
+&   \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}}
+&&  \footnotesize {\maroonC
+{(+a)}} \\
 2,  &&    \ldots ,  &&  \ldots ,  &&   \ldots ,  &&   18
 \end{matrix}
 $
@@ -6399,10 +6415,14 @@ Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}}
-&&  \footnotesize {\maroonC{(+4)}} \\
+&   \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}}
+&&  \footnotesize {\maroonC
+{(+4)}} \\
 2,  &&    \underline {6} ,  &&  \underline {10} ,  &&  \underline {14} ,  &&   18
 \end{matrix}
 $
@@ -6985,7 +7005,8 @@ tnumber
 
 Here is a recipe to make $6$ pancakes.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8510,6 +8531,7 @@ A cube with sides $3 \ \text{cm}$ is made from smaller cubes of side $1 \ \text{
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used in making the bigger cube?
 
 - $21$
@@ -8761,6 +8783,7 @@ You may only travel in directions %waffles%
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many routes are there from $B$ to $C$?
 
 - $4$ 
@@ -8933,7 +8956,8 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -9100,7 +9124,8 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -10478,11 +10503,13 @@ Jasmine has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed side by side to form different numbers.
 
 For example, using four of the cards, the largest $4$-digit even number that can be made is $9854$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

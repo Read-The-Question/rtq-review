@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-testimate-notstarted"
 title: "Topic - Estimate - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -275,6 +275,7 @@ testimate
 Estimate the angle drawn below and then also measure it accurately with your proctractor.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -785,6 +786,7 @@ This is a drawing of a boy in his bedroom.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1038,6 +1040,7 @@ testimate
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows an angle A.
 
@@ -1695,6 +1698,7 @@ Draw lines on the diagram to match each object with its correct length.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Width of Wembley Stadium pitch
 $300 \ \text{mm}$
 Height of an average man
@@ -1762,6 +1766,7 @@ testimate
 Draw lines to link each object to its correct height.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Oak Tree $0.324 \ \text{km}$
 Eiffel Tower $1.41 \ \text{m}$
@@ -2089,6 +2094,7 @@ The diagram below shows $2$ pieces of uncooked spaghetti.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the length of piece $A$ is $5$ units, estimate the length of $B$.
 
 </div>
@@ -2148,6 +2154,7 @@ testimate
 Morag has a pet mouse, Squeak, shown in the life-size picture below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2353,6 +2360,7 @@ Estimate, in centimetres, the length of the line below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2394,6 +2402,7 @@ The man in the diagram is 1.$8 \ \text{metres}$ tall.
 Use this fact to estimate the height of the tree.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2453,6 +2462,7 @@ What is the length of the pencil?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2510,6 +2520,7 @@ $10 \ \text{cm}$ due south of $A$.
 Below is an accurate diagram of Bertie’s route.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2649,7 +2660,9 @@ tgraph
 Tosco and Sunbury are two supermarket chains. They each sell a variety of difference cheeses. The amounts of cheese sold in 1 week, by each supermarket, are shown in the pie charts below.
 
 
-![missing image](/papers/missing_image.svg)        ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

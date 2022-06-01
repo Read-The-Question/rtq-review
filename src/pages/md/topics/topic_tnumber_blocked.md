@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-blocked"
 title: "Topic - Number - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2124,6 +2124,7 @@ Which letter is on the face opposite $M$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $I$ 
 - $P$ 
 - $K$ 
@@ -2930,10 +2931,12 @@ tnoexplanation
 
 ![missing table](/papers/missing_table.svg)
 
+
 A piece of paper with letters written on it is folded in half, so that the 
 letters $A, B, C, D, E, F, G, H$ are on the top.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Now the letter $M$ is under the letter $A$.
 
@@ -2992,10 +2995,12 @@ $\text{O}$
 The paper is folded again so that $A, B, E$ and $F$ are on top.
 
 ![missing image](/papers/missing_image.svg)
+
   
 Under $A$ are the letter $M, P$ and $D$ in that order. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 Working from top to bottom:
 
@@ -3030,6 +3035,7 @@ $\text{N, \ O, \ C}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 After another fold, which letters are under $B$? 
 Write the letters in order from top to bottom.

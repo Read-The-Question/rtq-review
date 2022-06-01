@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -688,6 +688,7 @@ Shade in one square to this pattern to give it one line of symmetry and draw on 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1010,6 +1011,7 @@ Each square is one square unit. What is the area of the shaded triangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1121,6 +1123,7 @@ A $7 \times 7 \times 7$ cube is painted, and then cut into $1 \times 1 \times 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1178,6 +1181,7 @@ tdirection
 The shape is turned $270 \degree$ clockwise, and then $45 \degree$  anticlockwise. Find the new position of point $A$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1420,9 +1424,11 @@ Which two shapes have the same area?
 
 ![missing image](/papers/missing_image.svg)
 
+
 This may be helpful:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $\text{Area of a trapezium} = \dfrac {1} {2} (a + b) h$
 

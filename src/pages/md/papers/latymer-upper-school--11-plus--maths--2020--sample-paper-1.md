@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -398,7 +398,8 @@ tnoexplanation
 
 Which digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $1$ 
 
@@ -712,7 +713,8 @@ tsimpleword
 
 What is the perimeter of the shape below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $36\ \text{cm}$ 
 
@@ -784,7 +786,8 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pence into pounds.
 
 $
 \begin{aligned}
@@ -1109,7 +1112,8 @@ tsimpleword
 
 What is the area of the shaded diamond below? **[Diagram not to scale]**
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $$34\ \ \text{cm}$^2$ 
 
@@ -1332,18 +1336,55 @@ $28,\ 25,\ 22,\    13,\ 10.$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }  \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+28,  &&  25,  &&  22,  &&  \ldots,  &&  \ldots,  &&  13,  &&  10
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 22 - 3 \\\\
+                                  &= 19 \\\\
+\text{Second missing number}      &= 19 - 3 \\\\
+                                  &= 16
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
 28,  &&  25,  &&  22,  &&  \ldots,  &&  \ldots,  &&  13,  &&  10
 \end{matrix}
 $
@@ -1383,17 +1424,55 @@ $3,\ 4,\ 6,\ 9,\ 13,  31$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+1)} } 
-&&  \footnotesize {\maroonC {(+2)} }  
-&&  \footnotesize {\maroonC {(+3)} }   
-&&  \footnotesize {\maroonC {(+4)} }   
-&&  \footnotesize {\maroonC {(+5)} }
-&&  \footnotesize {\maroonC {(+6)} }
-&&  \footnotesize {\maroonC {(+7)} } \\
+&   \footnotesize {\maroonC
+ {(+1)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+7)} } \\
+3,  &&  4,  &&  6,  &&  9,  &&  13,  &&  \ldots,  &&  \ldots,  &&  31
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 13 + 5 \\\\
+                                  &= 18 \\\\
+\text{Second missing number}      &= 18 + 6 \\\\
+                                  &= 24
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+1)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+7)} } \\
 3,  &&  4,  &&  6,  &&  9,  &&  13,  &&  \ldots,  &&  \ldots,  &&  31
 \end{matrix}
 $
@@ -1427,18 +1506,55 @@ $5,\ -10,\ 20,  -160,\ 320$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {\times (-2)} } 
-&&  \footnotesize {\maroonC {\times (-2)} }  
-&&  \footnotesize {\maroonC {\times (-2)} }   
-&&  \footnotesize {\maroonC {\times (-2)} }   
-&&  \footnotesize {\maroonC {\times (-2)} }
-&&  \footnotesize {\maroonC {\times (-2)} } \\
+&   \footnotesize {\maroonC
+ {\times (-2)} } 
+&&  \footnotesize {\maroonC
+ {\times (-2)} }  
+&&  \footnotesize {\maroonC
+ {\times (-2)} }   
+&&  \footnotesize {\maroonC
+ {\times (-2)} }   
+&&  \footnotesize {\maroonC
+ {\times (-2)} }
+&&  \footnotesize {\maroonC
+ {\times (-2)} } \\
+5,  &&  -10,  &&  20,  &&  \ldots,  &&  \ldots,  &&  -160,  &&  -320
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 20 \times (-2) \\\\
+                                  &= -40 \\\\
+\text{Second missing number}      &= -40 \times (-2) \\\\
+                                  &= 80
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {\times (-2)} } 
+&&  \footnotesize {\maroonC
+ {\times (-2)} }  
+&&  \footnotesize {\maroonC
+ {\times (-2)} }   
+&&  \footnotesize {\maroonC
+ {\times (-2)} }   
+&&  \footnotesize {\maroonC
+ {\times (-2)} }
+&&  \footnotesize {\maroonC
+ {\times (-2)} } \\
 5,  &&  -10,  &&  20,  &&  \ldots,  &&  \ldots,  &&  -160,  &&  -320
 \end{matrix}
 $
@@ -1943,7 +2059,8 @@ ttable
 
 The diagram below shows part of a train timetable:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2282,6 +2399,7 @@ What is the area of the shape below?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2542,7 +2660,9 @@ TODOANSWER
 
 Complete the diagrams below using the same rule.
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2587,6 +2707,7 @@ $\bull$ *A* and *B* are positive, whole numbers
 $\bull$ *A* is bigger than *B*
  
 ![missing image](/papers/missing_image.svg)
+
 
 What are the possible values of *A* and *B*?
 

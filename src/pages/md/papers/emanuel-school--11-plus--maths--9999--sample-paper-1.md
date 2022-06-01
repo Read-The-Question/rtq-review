@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1035,6 +1035,7 @@ On a very long straight road there are four villages: Allwood, Bentham, Corford 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The arrows show distances between villages.
 
 Find the distances from
@@ -1147,6 +1148,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the axes shown $A$ is the point $(2,3)$.
 
@@ -1326,6 +1328,7 @@ in metres             2610        2579        2592        2164
 -->
 
 ![missing table](/papers/missing_table.svg)
+
 
 The table above shows some information about four African countries.
 
@@ -1805,7 +1808,8 @@ tfraction
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1905,7 +1909,8 @@ tsimpleword
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1975,6 +1980,7 @@ Neither diagram is drawn to scale.
 <div class='working'>
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -2079,6 +2085,7 @@ tinfer
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The pie chart shows the activities of a group of children on a Saturday morning. 
 $8$ children went to the Library.
@@ -2600,7 +2607,8 @@ tgeometry
 
 How many different sized acute angles are there in the diagram below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2995,6 +3003,7 @@ Each time he turned right he walked $2 \ \text{metres}$ less than he did the tim
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the last part of his journey before stopping he walked one metre. How far did he walk altogether? 
 
 </div>
@@ -3052,6 +3061,7 @@ tinfer
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Draw out a $3$ by $3$ grid like that shown.
 
@@ -3392,9 +3402,11 @@ $1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$
 
 ![missing image](/papers/missing_image.svg)
 
+
 $2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of:
 

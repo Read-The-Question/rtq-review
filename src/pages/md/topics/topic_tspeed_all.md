@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ tspeed
 Look at the pictogram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more km did Baldwin run compared to Jeff? 
 
@@ -150,7 +151,8 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
 \begin {aligned}
@@ -676,6 +678,7 @@ Fahad travels directly from $A$ to $C$ at $60 \ \text{km/hr}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1131,6 +1134,7 @@ $1\ \text{cm}$ : $125\ \text{metres}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1298,6 +1302,64 @@ $45 \ \text {m.p.h}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>5612B8B3-1CD7-4B9F-A4AF-FC459A544D71</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a sponsored walk: Adam took $4\ \text{hours}$, $39\ \text{minutes}$; 
+
+Billy took $274\ \text{minutes}$ and Charlie took $4\dfrac{3}{5}\ \text{hours}$.
+
+Who was the quickest and who was the slowest?
+
+Quickest ........................................
+
+Slowest........................................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>34226098-78EE-409D-BF39-0A19ED65F3BB</p>
 </div>
 <div class='topics'>
@@ -1320,6 +1382,7 @@ Each section of the route is either motorway (labelled $M$), main road (labelled
 The length of each section of the route is also stated.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Peter expects to travel at $90 \ \text{km/h}$ on the motorway, $60 \ \text{km/h}$ on the main road and $45 \ \text{km/h}$ 
 on the minor road.
@@ -1803,6 +1866,7 @@ tunitprompt
 On a long straight country road, there are four villages: Josham, Keston, Langham and Moreton, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Distances between the village are shown by the arrows. 
 
@@ -2291,6 +2355,7 @@ tspeed
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calum and his friend cycle from $A$ to $C$, passing through $B$.
 
@@ -4592,6 +4657,7 @@ Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortes
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4732,6 +4798,7 @@ What is the least number of **additional** minutes that she will take to cycle t
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4824,6 +4891,7 @@ The chart below shows the mileage between five places in North London. For examp
 Hampstead as $4 \ \text{miles}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Daisy lives in Hampstead and drives her son to school at Haberdashers' in the morning before continuing on to the office in Southgate. 
 She then visits her sister in Harpenden before driving home via Habs. How far does she travel altogether?
@@ -5164,6 +5232,7 @@ The diagram shows the distances between some cities.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the total distance travelled from Lisbon to Munich is $2730 \ \text{km}$, how far was the Journey from Madrid to Paris?
 
 </div>
@@ -5283,7 +5352,8 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
 
 Distance $= 3 \ \text{km}$
 
@@ -5544,7 +5614,8 @@ Stephen does the same journey at a speed of $30 \ \text{kilometres per hour}$. H
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
+It is really important to use the right units in calculations and convert where required
+. The time taken by Neil is given in minutes while the speed is in  kilometres per hour.
 
 Let's convert time taken into hours.
 
@@ -6134,6 +6205,7 @@ In a school athletics triathlon, children score points for their performances in
 
 ![missing table](/papers/missing_table.svg)
 
+
 So if Richard ran the $100 \ \text{m}$ in $13.0 \ \text{secs}$ he would earn $100$ points, he would earn a further 
 $80$ points for putting the shot $8.6 \ \text{m}$ and $70$ points for a long jump of $2.7 \ \text{m}$ making a total of 
 $250$ points scored for his performance in the three events.
@@ -6703,6 +6775,7 @@ tspeed
 One length of my local swimming pool is $25\, m$.
 
 How many lengths must I swim to cover a distance of $1.5\, km$? ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

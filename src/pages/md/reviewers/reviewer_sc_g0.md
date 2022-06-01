@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-g0"
 title: "Reviewer - Sahil Choudhary - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -270,7 +270,8 @@ a       &= 17
 \end{aligned}
 $
 
-$60 - \underline{\green{17}} = 43$
+$60 - \underline{\green
+{17}} = 43$
 
 </div>
 </div>
@@ -310,7 +311,8 @@ a           &= 7
 \end{aligned}
 $
 
-$\underline{\green{7}} \times 40 = 280$
+$\underline{\green
+{7}} \times 40 = 280$
 
 
 </div>
@@ -349,7 +351,8 @@ a         &= 150
 \end{aligned}
 $
 
-$\underline{\green{150}} \div 30 = 5$
+$\underline{\green
+{150}} \div 30 = 5$
 
 </div>
 </div>
@@ -387,7 +390,8 @@ a      &= 7
 \end{aligned}
 $
 
-$-8 + \underline{\green{7}} = -1$
+$-8 + \underline{\green
+{7}} = -1$
 
 </div>
 </div>
@@ -456,7 +460,8 @@ $100 \times 2.8 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$100 \times 2.8 = \underline{\green{280}}$
+$100 \times 2.8 = \underline{\green
+{280}}$
 
 </div>
 </div>
@@ -623,6 +628,7 @@ He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does h
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -677,6 +683,7 @@ talgebra
 Calculate the missing angle in this isosceles triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1573,7 +1580,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the value of the missing angle?
 

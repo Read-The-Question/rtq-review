@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g0"
 title: "Topic - Factor - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -540,7 +540,9 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
+57 &= \maroonC
+ {19} \times \maroonC
+ {3}
 \end{aligned}
 $
 
@@ -572,7 +574,9 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
+91 &= \maroonC
+ {13} \times \maroonC
+ {7}
 \end{aligned}
 $
 
@@ -831,8 +835,11 @@ Therefore,
 
 $
 \begin{matrix}
-\boxed{\green{16}} & 4 & \boxed{\green{24}} & 6 \\\\
-2                                   & 1 & \boxed{\green{8}}  & 30 \\\\
+\boxed{\green
+{16}} & 4 & \boxed{\green
+{24}} & 6 \\\\
+2                                   & 1 & \boxed{\green
+{8}}  & 30 \\\\
 \end{matrix}
 $
 
@@ -888,8 +895,11 @@ All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75,
 
 $
 \begin{matrix}
-100                                   & \quad \boxed{\green {30}} & \quad 7  & \quad 11 \\\\
-\boxed{\green {10}}  & \quad \boxed{\green {3}}  & \quad 8  & \quad 45
+100                                   & \quad \boxed{\green
+ {30}} & \quad 7  & \quad 11 \\\\
+\boxed{\green
+ {10}}  & \quad \boxed{\green
+ {3}}  & \quad 8  & \quad 45
 \end{matrix}
 $
 
@@ -1336,6 +1346,7 @@ tnoexplanation
 Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down any of these numbers which are:
 

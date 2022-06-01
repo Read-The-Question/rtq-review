@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-1"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -359,6 +359,7 @@ Calculate the value of angle $a \degree$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -604,6 +605,7 @@ tgraph
 The pie chart shows the favourite colour of some boys.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

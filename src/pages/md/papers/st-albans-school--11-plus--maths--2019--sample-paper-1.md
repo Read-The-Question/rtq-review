@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -568,6 +568,7 @@ How many centimetres are there in five kilometres?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -603,6 +604,7 @@ $500000 \ \text {cm}$
 How many times does two hundred go into one million?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -706,7 +708,8 @@ tinfer
 
 In this number pyramid, the number in each block is found by adding together the numbers in the two blocks immediately below. Fill in the missing numbers.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -914,7 +917,8 @@ Calculate
 
 **$28.3 - 1.64 + 0.57$** 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -965,7 +969,8 @@ Work out the answer to the following, giving your answer as a **decimal**.
 $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$  
         
 
-![missing image](/papers/missing_image.svg)    
+![missing image](/papers/missing_image.svg)
+    
 
 </div>
 <div class='workings'>
@@ -1195,6 +1200,7 @@ An aeroplane leaves Heathrow at $$21{:}26$$ and arrives at Atlanta at $$10{:}45$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1224,6 +1230,7 @@ $12 {:} 19$
 In fact, the times were given  as local times. The time in Atlanta is five hours behind U.K. time. What is the actual length of the journey?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1286,6 +1293,7 @@ One cube has each of its faces covered by one face of an identical cube, making 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The total volume of the solid is $56\,cm^3$.
 
 </div>
@@ -1315,6 +1323,7 @@ The total volume of the solid is $56\,cm^3$.
 Find the width of one cube, in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1357,6 +1366,7 @@ $2 \text {cm}$
 Find the total surface of the solid, in $cm^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1454,7 +1464,8 @@ tfraction
 
 What fraction of this shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1503,6 +1514,7 @@ tdraw
 A factor tree can be used to write any number as a product of prime factors.
 
 ![missing image](/papers/missing_image.svg)
+
 
 We can say that 
 
@@ -1629,6 +1641,7 @@ Find Gemma's number, showing your working clearly.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1694,7 +1707,8 @@ tdraw
 
 The equilateral triangle ADF is split into four equally sized smaller equilateral triangles.
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -1723,6 +1737,7 @@ The equilateral triangle ADF is split into four equally sized smaller equilatera
 Two of the four small triangles are to be painted black and the other two are to be painted white .In how many different ways can this be done?
 
 ![missing image](/papers/missing_image.svg)
+
 
 Ben thinks that he can draw a copy of the of triangles without taking his pencil off the page **and** without going over the same line twice. He begins at A and then travels to B.
 
@@ -1801,7 +1816,8 @@ John buys some horses from Paul and then 3 more horses than paul.
 
 How many did John buy?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1854,6 +1870,7 @@ What is
 **$\dfrac {1} {3}$  of $\dfrac {1} {4}$ of $\dfrac {1} {5}$ of 360 ?**
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1978,13 +1995,20 @@ Each number in the sequence is half of the number before. Hence, the sequence wo
 
 $
 \begin{matrix}
-&   \footnotesize{ \maroonC{ (\div 2) } } 
-&&  \footnotesize{ \maroonC{ (\div 2) } }  
-&&  \footnotesize{ \maroonC{ (\div 2) } }   
-&&  \footnotesize{ \maroonC{ (\div 2) } }   
-&&  \footnotesize{ \maroonC{ (\div 2) } } 
-&&  \footnotesize{ \maroonC{ (\div 2) } } 
-&&  \footnotesize{ \maroonC{ (\div 2) } }  \\
+&   \footnotesize{ \maroonC
+{ (\div 2) } } 
+&&  \footnotesize{ \maroonC
+{ (\div 2) } }  
+&&  \footnotesize{ \maroonC
+{ (\div 2) } }   
+&&  \footnotesize{ \maroonC
+{ (\div 2) } }   
+&&  \footnotesize{ \maroonC
+{ (\div 2) } } 
+&&  \footnotesize{ \maroonC
+{ (\div 2) } } 
+&&  \footnotesize{ \maroonC
+{ (\div 2) } }  \\
 \dots,  &&    \dots,  &&  \dots,  &&   12,  &&   6,   &&  3,  && \ldots  && \ldots 
 \end{matrix}
 $
@@ -2061,7 +2085,8 @@ There are twenty four $\pounds 1$ coins, seven $\pounds 2$ coins , six $\pounds 
 
 How much money is there in total?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2099,6 +2124,7 @@ I exchange all of the money for as many $\pounds 20$ notes as possible.
 How many $\pounds 20$ notes do I have now?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2161,6 +2187,7 @@ Two of the angles in a quardilateral are right angles. one of the others is five
 What is the size of the largest angle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2234,7 +2261,8 @@ tnumber
 
 The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2288,6 +2316,7 @@ If Martha spends $\pounds 15$ and Sally spends $\pounds 20$, then Martha has twi
 how much money do they have altogether?  
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2375,7 +2404,8 @@ The sum of two whole numbers is 30 and their difference is 20
 
 What are the two numbers?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2634,7 +2664,9 @@ In this multiplication each letter stands for a **different** digit. What digit 
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   
+
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -2821,7 +2853,8 @@ tinfer
 
 What is the **smallest** number of full boxes required to pack **exactly** 2019 'Yummy' bars?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

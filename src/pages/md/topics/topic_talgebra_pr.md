@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -25,6 +25,7 @@ Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Perimeter $= 36 \ \text{millimetres}$
 
 Find the value of $t$.
@@ -35,7 +36,8 @@ Find the value of $t$.
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
@@ -215,11 +217,15 @@ The large can weighs $425 \ \text{grams}$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 Work out the weight of one small can.
 
@@ -229,7 +235,8 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total weight into $\text{grams}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total weight into $\text{grams}$.
 
 $
 \begin{aligned}
@@ -357,6 +364,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 Estimate the size of angle $r$.
 
 </div>
@@ -417,7 +425,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -474,6 +483,7 @@ You may use the grid to help you.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -509,7 +519,8 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 4 \ \text{cm}$ 
 
@@ -566,7 +577,8 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\text{pence}$.
 
 As per the question,
 
@@ -662,6 +674,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -669,6 +682,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -733,9 +747,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -955,6 +972,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 Let the height of the second triangle $= a$.
 
 As per the question,
@@ -1169,6 +1187,7 @@ Find the sizes of angles $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1292,6 +1311,7 @@ talgebra
 If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of the whole shape? The diagram is not drawn to scale.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1525,6 +1545,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 
@@ -1927,6 +1948,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1966,6 +1988,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2009,6 +2032,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2223,6 +2247,7 @@ Calculate the size of the missing angles
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2261,6 +2286,7 @@ $84 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -2303,6 +2329,7 @@ $118 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2343,6 +2370,7 @@ $57 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2381,6 +2409,7 @@ $79 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -2759,6 +2788,7 @@ value of $x$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2926,6 +2956,7 @@ As per the question,
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 \text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
@@ -2995,6 +3026,7 @@ tgeometry
 Calculate the total length marked with $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3226,6 +3258,7 @@ As per question,
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 10a + 50a         &= 900 \text{p} \\\\
@@ -3272,7 +3305,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3574,7 +3608,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -3778,6 +3813,7 @@ In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3877,6 +3913,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3917,6 +3954,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3955,6 +3993,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4051,6 +4090,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4090,6 +4130,7 @@ $62 \ \text{cm}$
 The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4146,6 +4187,7 @@ Find the *area* of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4188,6 +4230,7 @@ $154 \ \text{cm}^2$
 The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5997,7 +6040,8 @@ Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 A quick check shows that $6$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 The two numbers which Winston thinks $= 6,14$
 
@@ -6086,6 +6130,7 @@ talgebra
 Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
+
 
 Area = $49 \ \text{cm}^{2}$
 
@@ -6419,6 +6464,7 @@ Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $126 \degree$
 - $46 \degree$
 - $316 \degree$
@@ -6546,6 +6592,7 @@ talgebra
 The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
@@ -6802,6 +6849,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 All measurements on the diagram are in centimetres. 
 
 </div>
@@ -6867,6 +6915,7 @@ $5$
 Here is a triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of the angle marked $y$.
 
@@ -7339,6 +7388,7 @@ How much more does an apple cost than an orange?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7471,6 +7521,7 @@ talgebra
 A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
@@ -7733,7 +7784,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7899,6 +7951,7 @@ For example,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned} 
 a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
@@ -7935,6 +7988,7 @@ $
 Find $a$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7977,6 +8031,7 @@ Find $b$
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8022,6 +8077,7 @@ $130 \degree$
 Find $c$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8106,6 +8162,7 @@ Length of the rectangle $= a$
 Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
 
 Let's equate the perimeter to the length and width we get,
 
@@ -8578,6 +8635,7 @@ talgebra
 Calculate the missing angle in the triangle shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

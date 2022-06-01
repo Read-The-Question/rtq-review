@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-all"
 title: "Topic - Detailedaddition - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -480,6 +480,7 @@ Add $16.03$ and $9.48$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   1   &   6 \ .   &   0   &   3 \\
@@ -534,6 +535,7 @@ $4.679 + 2.15 = {?}$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -3230,6 +3232,7 @@ For this pattern:
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many matches will be in the $4 \text{th}$ shape?
 
 - $26$
@@ -4142,6 +4145,7 @@ in the diagram on the left. Complete the diagram on the right.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4580,6 +4584,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -4728,6 +4733,7 @@ $0.7 \quad 0.04 \quad 1.006$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -5158,6 +5164,7 @@ Add together $6.37, 10.04$ and $203$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

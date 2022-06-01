@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g0"
 title: "Topic - Number - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,7 +60,8 @@ a       &= 17
 \end{aligned}
 $
 
-$60 - \underline{\green{17}} = 43$
+$60 - \underline{\green
+{17}} = 43$
 
 </div>
 </div>
@@ -100,7 +101,8 @@ a           &= 7
 \end{aligned}
 $
 
-$\underline{\green{7}} \times 40 = 280$
+$\underline{\green
+{7}} \times 40 = 280$
 
 
 </div>
@@ -139,7 +141,8 @@ a         &= 150
 \end{aligned}
 $
 
-$\underline{\green{150}} \div 30 = 5$
+$\underline{\green
+{150}} \div 30 = 5$
 
 </div>
 </div>
@@ -177,7 +180,8 @@ a      &= 7
 \end{aligned}
 $
 
-$-8 + \underline{\green{7}} = -1$
+$-8 + \underline{\green
+{7}} = -1$
 
 </div>
 </div>
@@ -246,7 +250,8 @@ $100 \times 2.8 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$100 \times 2.8 = \underline{\green{280}}$
+$100 \times 2.8 = \underline{\green
+{280}}$
 
 </div>
 </div>
@@ -892,7 +897,8 @@ $94 - \ldots = 65$
 <div class='workings'>
 <div class='working'>
 
-$94 - \underline{\green{29}} = 65$
+$94 - \underline{\green
+{29}} = 65$
 
 </div>
 </div>
@@ -920,7 +926,8 @@ $\ldots \times 40 = 360$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{9}} \times 40 = 360$
+$\underline{\green
+{9}} \times 40 = 360$
 
 </div>
 </div>
@@ -948,7 +955,8 @@ $\ldots \div 0.5 = 20$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{10}} \div 0.5 = 20$
+$\underline{\green
+{10}} \div 0.5 = 20$
 
 </div>
 </div>
@@ -976,7 +984,8 @@ $-35 + \ldots = -26$
 <div class='workings'>
 <div class='working'>
 
-$-35 + \underline{\green{9}} = -26$
+$-35 + \underline{\green
+{9}} = -26$
 
 </div>
 </div>
@@ -1024,7 +1033,9 @@ $44 \quad 91 \quad 350 \quad 789$
 <div class='workings'>
 <div class='working'>
 
-$44 \quad \boxed{\green{91}} \quad \boxed{\green{350}} \quad 789$
+$44 \quad \boxed{\green
+{91}} \quad \boxed{\green
+{350}} \quad 789$
 
 </div>
 </div>
@@ -1187,7 +1198,8 @@ $\ldots + 15 = 43$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{28}} + 15 = 43$
+$\underline{\green
+{28}} + 15 = 43$
 
 </div>
 </div>
@@ -1215,7 +1227,8 @@ $6 \times \ldots = 54$
 <div class='workings'>
 <div class='working'>
 
-$6 \times \underline{\green{9}} = 54$
+$6 \times \underline{\green
+{9}} = 54$
 
 </div>
 </div>
@@ -1243,7 +1256,8 @@ $\ldots - 23 = 57$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{80}} - 23 = 57$
+$\underline{\green
+{80}} - 23 = 57$
 
 </div>
 </div>
@@ -1271,7 +1285,8 @@ $64 \div \ldots = 8$
 <div class='workings'>
 <div class='working'>
 
-$64 \div \underline{\green{8}} = 8$
+$64 \div \underline{\green
+{8}} = 8$
 
 </div>
 </div>
@@ -1390,7 +1405,8 @@ $14 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$14 \times 100 = \underline{\green{1400}}$
+$14 \times 100 = \underline{\green
+{1400}}$
 
 </div>
 </div>
@@ -1418,7 +1434,8 @@ $864 \div 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$864 \div 100 = \underline{\green{8.64}}$
+$864 \div 100 = \underline{\green
+{8.64}}$
 
 </div>
 </div>
@@ -1446,7 +1463,8 @@ $\ldots \times 300 = 60$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{0.2}} \times 300 = 60$
+$\underline{\green
+{0.2}} \times 300 = 60$
 
 
 </div>
@@ -1493,6 +1511,7 @@ tnoexplanation
 Look at the numbers in the star.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1680,7 +1699,8 @@ $0.309 \quad 0.039 \quad 0.93 \quad 0.093$
 <div class='workings'>
 <div class='working'>
 
-$0.309 \quad  \boxed{\green{0.039}} \quad 0.93 \quad 0.093$
+$0.309 \quad  \boxed{\green
+{0.039}} \quad 0.93 \quad 0.093$
 
 </div>
 </div>
@@ -1708,7 +1728,8 @@ $-7.5 \quad -8 \quad 2 \quad 0$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad \boxed{\green{-8}} \quad 2 \quad 0$
+$-7.5 \quad \boxed{\green
+{-8}} \quad 2 \quad 0$
 
 </div>
 </div>
@@ -1738,7 +1759,8 @@ $\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad \dfrac{1}{8}$
 
 These are all unit fractions. The smallest unit fraction is the one which has the biggest denominator.
 
-$\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad  \boxed{\green{\dfrac{1}{8}}}$
+$\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad  \boxed{\green
+{\dfrac{1}{8}}}$
 
 </div>
 </div>
@@ -1770,8 +1792,10 @@ $
 \begin{aligned}
 &= 0.4 \quad 30 \% \quad 0.22 \quad \dfrac{1}{4} \\\\
 &= 0.4 \quad 0.3 \quad 0.22 \quad 0.25 \\\\
-&= 0.4 \quad 0.3 \quad  \boxed{\green{0.22}} \quad 0.25 \\\\
-&= 0.4 \quad 30 \% \quad \boxed{\green{0.22}} \quad \dfrac{1}{4}
+&= 0.4 \quad 0.3 \quad  \boxed{\green
+{0.22}} \quad 0.25 \\\\
+&= 0.4 \quad 30 \% \quad \boxed{\green
+{0.22}} \quad \dfrac{1}{4}
 \end {aligned}
 $
 
@@ -2810,6 +2834,7 @@ How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3403,6 +3428,7 @@ What are the missing values on each of these scales?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3430,6 +3456,7 @@ $4.5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5953,6 +5980,7 @@ You can buy a new calculator for $\bold{\pounds 1.25}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
 
 How much did the same type of calculator cost in 1979?
@@ -6011,6 +6039,7 @@ tnoexplanation
 How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6277,6 +6306,7 @@ tnoexplanation
 What is the reading on the measuring cylinder
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6938,7 +6968,8 @@ $
     &       &                         5   &   6 \\
 {}+ &  9    &                         7   &   5 \\
 \hline
-  1 &  0    & \maroonC {3}   &   1
+  1 &  0    & \maroonC
+ {3}   &   1
 \end{array}
 $
 
@@ -6971,7 +7002,8 @@ $0.35 + 1.{?}7 = 2.22$
 $
 \begin{array}{cccccc}
     &   0 \ . &                         3   &   5 \\
-{}+ &   1 \ . & \maroonC {8}   &   7 \\
+{}+ &   1 \ . & \maroonC
+ {8}   &   7 \\
 \hline
     &   2 \ . &                         2   &   2
 \end{array}
@@ -7005,7 +7037,8 @@ $9{?}5 - 128 = 777$
 
 $
 \begin{array}{cccccccccccccc}
-    &  9    & \maroonC {0}    &   6 \\
+    &  9    & \maroonC
+ {0}    &   6 \\
 {}- &  1    &                          2   &   8 \\
 \hline
     &  7    &                          7   &   1
@@ -7079,7 +7112,8 @@ $13 \times 1{?}1 = 1703$
 $
 \begin{array}{ccccccccc}
        &        &                             1   &   3 \\
-\times &    1   &     \maroonC {3}   &   1 \\
+\times &    1   &     \maroonC
+ {3}   &   1 \\
 \hline
        &        &                             1   &   3 \\
        &    3   &                             9   &   0 \\
@@ -7115,7 +7149,8 @@ $1.1 \div 2 = 0.{?}5$
 <div class='workings'>
 <div class='working'>
 
-$1.1 \div 2 = 0. \maroonC {5} 5$
+$1.1 \div 2 = 0. \maroonC
+ {5} 5$
 
 </div>
 </div>
@@ -7191,7 +7226,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-9 \maroonC {7} - 65 &= 32 \\\
+9 \maroonC
+ {7} - 65 &= 32 \\\
 \end {aligned}
 $
 
@@ -7227,7 +7263,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-39 + \maroonC {7} 8 + 50 &= 167 \\\
+39 + \maroonC
+ {7} 8 + 50 &= 167 \\\
 \end {aligned}
 $
 
@@ -7263,7 +7300,8 @@ Which digit needs to be replaced with a $\bold{7}$?
 
 $
 \begin {aligned}
-734 + (8 \times 2 \maroonC {7}) &= 950 \\\
+734 + (8 \times 2 \maroonC
+ {7}) &= 950 \\\
 \end {aligned}
 $
 
@@ -7968,6 +8006,7 @@ tnumber
 Ola is looking at the scale on a thermometer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9418,7 +9457,9 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+$\maroonC
+ {7 ^ 2} - \maroonC
+ {4 ^ 2} = 33$
 
 </div>
 </div>
@@ -10111,7 +10152,8 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -10359,7 +10401,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -10803,7 +10846,8 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
 
@@ -11047,7 +11091,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
 
@@ -11341,6 +11386,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which arrow is pointing at $2375$?
 
@@ -11925,7 +11971,8 @@ $((3 - 7) - 4) = ((-4) - 4) = -8$
 Therefore,
 
 \begin{matrix}
-3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green{3 - (7 - 4)}} && ((3 - 7) - 4)
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green
+{3 - (7 - 4)}} && ((3 - 7) - 4)
 \end{matrix}
 
 </div>
@@ -12081,7 +12128,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -13119,6 +13167,7 @@ How much is triangle worth?
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  Can't tell
 -  $1$
 -  $2$
@@ -13189,8 +13238,11 @@ tnumber
 Here is a pattern made from grey and white tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 A shape in the pattern has $28$ grey tiles.
 
@@ -13261,6 +13313,7 @@ tnumber
 Here are $2$ number machines:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Both machines have the same input.
 Work out the input if both machines also have the same output.
@@ -14226,6 +14279,7 @@ tnumber
 On a very long straight road there are four villages: Allwood, Bentham, Corford and Dunbar, which are shown in the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The arrows show distances between villages.
 
@@ -16043,6 +16097,7 @@ How many different ways can I travel from $P$ to $Q$? I can only travel on the l
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $2$
 - $3$
 - $4$
@@ -16639,20 +16694,63 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-3)} } 
-&&  \footnotesize {\maroonC {(-3)} }  
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }   
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }
-&&  \footnotesize {\maroonC {(-3)} }  \\
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
+28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 - 3 \\\\
+                                  &= 7 \\\\
+\text{Second missing number}      &= 7 - 3 \\\\
+                                  &= 4
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-3)} } 
+&&  \footnotesize {\maroonC
+ {(-3)} }  
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }
+&&  \footnotesize {\maroonC
+ {(-3)} }  \\
 28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -17004,7 +17102,8 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -17320,7 +17419,8 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the masses into $\text{g}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
 
 $
 \begin{aligned}
@@ -17890,6 +17990,7 @@ Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write down any of these numbers which are:
 
 </div>
@@ -18368,6 +18469,7 @@ What number is $\dfrac{2}{5}$ of the way along the number line?
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show your working. 
 
 </div>
@@ -18446,6 +18548,7 @@ planks of wood.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much space should he leave between each of the planks of wood?
 
 Show your working. 
@@ -18509,6 +18612,7 @@ tnumber
 In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -18689,10 +18793,15 @@ Here are three numbers
 and two operations on five cards.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which of these gives the answer $15$?
 
@@ -19987,7 +20096,8 @@ tnoexplanation
 
 Which digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $1$ 
 
@@ -20317,7 +20427,8 @@ tnoexplanation
 
 What digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $8$ 
 
@@ -22457,6 +22568,7 @@ tnoexplanation
 
 ![missing image](/papers/missing_image.svg)
 
+
 From the numbers in the ring write down all the
 
 </div>
@@ -24279,6 +24391,7 @@ tnumber
 There is some coloured water in the jar.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How much **more** water is needed to make $\bold{2 \ \text{litres}}$?
 
@@ -29768,9 +29881,11 @@ Here are some number cards
 
 ![missing image](/papers/missing_image.svg)
 
+
 You can use each card once to make the number $2538$ like this
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -29886,7 +30001,9 @@ Use some of the four number cards to make numbers as close as possible to the nu
 
 $60$.       ![missing image](/papers/missing_image.svg)
 
+
 $400$        ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -31682,6 +31799,7 @@ tnumber
 The London Eye has $32$ passenger capsules, each of which can take up to $18$ people. What is the maximum number of passengers that can travel at any one time?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -34915,6 +35033,7 @@ In this fence the posts are all the same width as each other. The gaps are all t
 
 ![missing image](/papers/missing_image.svg)
 
+
 How wide is each gap? 
 
 </div>
@@ -35310,7 +35429,8 @@ Work out the answer to the following, giving your answer as a **decimal**.
 $8 + \dfrac {7} {10}  +  \dfrac {91} {100}$  
         
 
-![missing image](/papers/missing_image.svg)    
+![missing image](/papers/missing_image.svg)
+    
 
 </div>
 <div class='workings'>
@@ -35515,7 +35635,8 @@ tnumber
 
 The front row of a theatre has 48 seats and each other row has four more seats than the row in front. There are 80 seats in the last row. How many seats are there **altogether** in the theatre?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -36319,6 +36440,7 @@ tinfer
 
 Here is the 65 times table:
 ![missing image](/papers/missing_image.svg)
+
 Use the table to answer the following questions 
 
 </div>
@@ -37334,7 +37456,8 @@ $\pounds 1.28 + 57 \text{p}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{array}{cccccccccccccc}
@@ -37835,6 +37958,7 @@ $12 \ \text{m} + 37 \ \text{cm}$
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 &= 12 \ \text{m} + 37 \ \text{cm} \\\\
@@ -37871,6 +37995,7 @@ $6.3 \ \text{km} - 140 \ \text{m}$
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -39496,6 +39621,7 @@ Write down the number that the arrow is pointing to on the scale below:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -40076,6 +40202,7 @@ Pat collects stamps.
 She has $144$ British stamps and $68$ foreign stamps.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -40915,6 +41042,7 @@ He takes $86$ photographs on Monday and $58$ photographs on Tuesday
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -40978,6 +41106,7 @@ Alex puts his photographs in an album. $6$ photographs fit on each page.
 How many pages does he use?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -41325,6 +41454,7 @@ Write down, in grams, the masses represented by the arrows on these scales.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -41366,6 +41496,7 @@ $5 \ \text {g}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -41406,6 +41537,7 @@ $230 \ \text{g}$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -41474,6 +41606,7 @@ Last week he bought $56$ football cards.
 This week he bought $72$ football cards.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -42050,6 +42183,7 @@ What is the value of the $9$ in $9080$? Write your answer in words.
 Ten calculators have a total mass of $1500 \ \text{g}$. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43376,7 +43510,8 @@ $\boxed { \phantom{20} } - 8 = 4 \times 3$
 <div class='workings'>
 <div class='working'>
 
-$\boxed { \green{20} } - 8 = 4 \times 3$
+$\boxed { \green
+{20} } - 8 = 4 \times 3$
 
 </div>
 </div>
@@ -43513,6 +43648,7 @@ tnoexplanation
 Hui Ling measures her pencil before she sharpens it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the length of the pencil?
 
@@ -44004,6 +44140,7 @@ Which of these letters do not look the same when reflected in the mirror line sh
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -44098,6 +44235,7 @@ tnumber
 Disc $B$ turns twice when $A$ turns $5$ times. If disc $A$ turns $45$ times, how many times does disc $B$ turn?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -45131,6 +45269,7 @@ identical shapes have the same operation.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The same function machine has been used below. 
 Work out the missing input or output in each case shown.
 
@@ -45159,6 +45298,7 @@ Work out the missing input or output in each case shown.
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -45197,6 +45337,7 @@ $9, \ 18, \ 10, \ 5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -45863,10 +46004,12 @@ Jasper is making fairy cakes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 A recipe to make 24 fairy cakes requires the following
 ingredients: 
 
 ![missing table](/papers/missing_table.svg)
+
 
 $230 \ \text{grams}$ flour
 
@@ -45940,6 +46083,7 @@ Jasper decides to make $36$ fairy cakes.
 Work out the amount of each ingredient which Jasper needs.
 
 ![missing table](/papers/missing_table.svg)
+
 
 $\ \text{grams}$ flour
 
@@ -46438,6 +46582,7 @@ She poured out some water and the diagram shows how much water is left in the ju
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much water has Kate poured out from the jug?
 
 </div>
@@ -46497,6 +46642,7 @@ He uses some of his bricks to make this cuboid:
 
 ![missing image](/papers/missing_image.svg)
 
+
 From his remaining bricks, he uses some to make the largest cube that he can.
 
 How many bricks does he use to make the cube?
@@ -46553,6 +46699,7 @@ talgebra
 When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -46736,6 +46883,7 @@ The number machine below changes numbers according to the rule
 **divide by $4$ then add $6$**
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -46983,6 +47131,7 @@ $10$ twists of black pepper
 $80 \ \text{millilitres}$ olive oil
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -48783,6 +48932,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -49624,6 +49774,7 @@ tnoexplanation
 What number is indicated by the arrow on the scale?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -51025,7 +51176,8 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The three lengths are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.
 

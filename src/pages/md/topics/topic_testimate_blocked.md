@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-testimate-blocked"
 title: "Topic - Estimate - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ On this journey Anthony walked a certain distance, and turned right.
 Each time he turned right he walked $2 \ \text{metres}$ less than he did the time before.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On the last part of his journey before stopping he walked one metre. How far did he walk altogether?
 
@@ -179,6 +180,7 @@ TODOANSWER
 
 ![missing table](/papers/missing_table.svg)
 
+
 The mass of a table-tennis ball   $2.5 \text{g}   \quad 30 \text{g}   \quad 0.7 \ \text{kg}$
 
 </div>
@@ -209,6 +211,7 @@ $30 \text{g}$
 
 ![missing table](/papers/missing_table.svg)
 
+
 The amount of water in a full kettle   $10 \ \text{l} \quad  2 \ \text{l}  \quad 400 \ \text{ml}$
 
 </div>
@@ -238,6 +241,7 @@ $2\text{l}$
 <div class='question subquestion'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 The diameter of a CD    $120 \ \text{mm}  \quad  50 \ \text{cm} \quad  50 \ \text{mm}$
 

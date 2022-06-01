@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -491,16 +491,45 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.2)}} 
-&&  \footnotesize{\maroonC{(+0.2)}}  
-&&  \footnotesize{\maroonC{(+0.2)}}   
-&&  \footnotesize{\maroonC{(+0.2)}}  \\
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
+\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 20.0 - 0.2 \\\\
+                        &= 19.8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
 \boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
@@ -814,6 +843,7 @@ Write down the temperature shown on this thermometer.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1043,9 +1073,11 @@ Machine $A$ multiples by $3$, then adds $5$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Machine $B$ multiples by $5$, then adds $3$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1271,6 +1303,7 @@ Mrs. Smith is making $20$ portions of cheesy pasta.
 Complete the list below to show the amount of each ingredient which Mrs. Smith needs.
 
 ![missing table](/papers/missing_table.svg)
+
 
 grams pasta
 
@@ -1680,6 +1713,7 @@ Reflect each shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1750,6 +1784,7 @@ TODOANSWER
 Use the ruler below to mark out the length of this pencil in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1885,6 +1920,7 @@ Shape $T$ is drawn on centimetre-squared paper.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1941,6 +1977,7 @@ On the centimetre squared grid below, draw a rectangle which has the same area a
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1988,6 +2025,7 @@ tgeometry
 Points $A, B, C$ and $D$ have been joined to form the shape $ABCD$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2149,6 +2187,7 @@ The bar chart below shows some of her results.
 Everyone owns at least $1$ pair of shoes and no one owns more than $5$ pairs.
 
 ![missing image](/papers/missing_image.svg)
+
 
 $5$ students own $2$ pairs of shoes.
 
@@ -2314,6 +2353,7 @@ Complete the net.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2359,7 +2399,8 @@ Jiggy Score has made $4$ full size copies of this triangle:
 
 He puts his $4$ triangles together to make the shape shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2511,6 +2552,7 @@ Bag $A$ and Bag $B$ contain black and white balls as shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bob is going to pick a ball at random for each bag.
 
 </div>
@@ -2570,6 +2612,7 @@ that the ball he picks from bag $B$ is white.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2618,9 +2661,11 @@ This shape is made from $6$ cubes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagrams show possible side, plan and front views of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write the letter of the diagram which shows
 
@@ -2670,6 +2715,7 @@ Tom downloads $3$ music tracks.
 The length of each track is shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 track     length
 
@@ -2784,6 +2830,7 @@ Here is the start of a pattern made from dots and lines.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2839,6 +2886,7 @@ TODOANSWER
 Complete the table showing the number of dots and lines in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 pattern number   $1$    $2$    $3$    $4$
 number of dots   $2$    $3$
@@ -2985,6 +3033,7 @@ In total, $38$ of the members do not play a stringed instrument.
 Use this information to complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3211,9 +3260,13 @@ Write a number from $1$ to $8$ in each box below so that
 - each number is used only once
 - consecutive numbers, such as $3$ and $4$, are not in the boxes which touch
 
-For example ![missing image](/papers/missing_image.svg), ![missing image](/papers/missing_image.svg) and ![missing image](/papers/missing_image.svg) are not allowed.
+For example ![missing image](/papers/missing_image.svg)
+, ![missing image](/papers/missing_image.svg)
+ and ![missing image](/papers/missing_image.svg)
+ are not allowed.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3260,10 +3313,12 @@ Katie has been asked to count all of the triangles in the square below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 She realizes there is a triangle on each side
 and that there are larger triangles at each corner.
 
 ![missing image](/papers/missing_image.svg)
+
 
 In total there are $8$ triangles inside the square.
 
@@ -3271,10 +3326,12 @@ How many triangles are there in total inside this pentagon?
 
 ![missing image](/papers/missing_image.svg)
 
+
 *You may use the small pentagons to help you record the 
 different type of triangles you find.*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3500,6 +3557,7 @@ talgebra
 Charlie enjoys eating Nickel bars.
 
 ![missing image](/papers/missing_image.svg)
+
 
 His local store has a special promotion on Nickel bars.
 

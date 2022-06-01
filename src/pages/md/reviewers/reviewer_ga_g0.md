@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ga-g0"
 title: "Reviewer - Gifty Abhishek - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,7 +22,9 @@ The original price of a bicycle is $\pounds 260$. Which of these is the better d
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 Show workings. 
 
@@ -119,7 +121,8 @@ $0.022 \quad \ldots  \quad 0.2$
 <div class='workings'>
 <div class='working'>
 
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+$0.022 \quad \boxed{\green
+{<}}  \quad 0.2$
 
 </div>
 </div>
@@ -175,7 +178,8 @@ $
 
 Using the calculation above,
 
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+$15\%$ of $\pounds 300\  \quad \boxed{\green
+{<}}  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
@@ -231,7 +235,8 @@ $
 
 Using the calculation above,
 
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green
+{=}}  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>
@@ -506,6 +511,7 @@ The diagram below shows an ordinary die.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Consider the following events when a single die is rolled:
 
 A: "the score on the die is either a $5$ or a $6$" 
@@ -537,7 +543,8 @@ Let's check the probability of outcomes of Events A, B C and D step by step and 
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
 \end{aligned}
 $
 
@@ -631,6 +638,7 @@ ttime
 For breakfast I eat a slice of buttered toast and a cup of coffee. The time taken to complete these activities is as follows:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Brown toast in toaster $3 \ \text{minutes}$ 
 Butter the toast $1 \ \text{minute}$ 
@@ -1251,16 +1259,45 @@ $5.5, \quad  5.8, \quad  6.1, \quad  6.4, \quad  \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.3)}} 
-&&  \footnotesize{\maroonC{(+0.3)}}  
-&&  \footnotesize{\maroonC{(+0.3)}}   
-&&  \footnotesize{\maroonC{(+0.3)}}  \\
+&   \footnotesize{\maroonC
+{(+0.3)}} 
+&&  \footnotesize{\maroonC
+{(+0.3)}}  
+&&  \footnotesize{\maroonC
+{(+0.3)}}   
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 6.4 + 0.3 \\\\
+                        &= 6.7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}} 
+&&  \footnotesize{\maroonC
+{(+0.3)}}  
+&&  \footnotesize{\maroonC
+{(+0.3)}}   
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
 5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -1298,16 +1335,45 @@ $3, \quad  6, \quad  12, \quad  24, \quad  \text{\textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 2)}} 
-&&  \footnotesize{\maroonC{(\times 2)}}  
-&&  \footnotesize{\maroonC{(\times 2)}}   
-&&  \footnotesize{\maroonC{(\times 2)}}  \\
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 24 \times 2 \\\\
+                        &= 48
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
 3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
 \end{matrix}
 $
@@ -1956,7 +2022,8 @@ Give your answer as a fraction.
 
 $
 \begin{aligned} 
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                     &= \dfrac { 6 +  5 } {  6 + 5 + 9 } \\\\
                     &= \dfrac { 11 } {  20 }
 \end{aligned}
@@ -2007,7 +2074,8 @@ $
                                                     &= 5 \\\\
 \text{Count of multiples of } 4 \text{ in blue}     &= 4, 8, 12, 16, 20, 24, 28 \\\\
                                                     &= 7 \\\\
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} } \\\\
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+ \\\\
                                                     &= \dfrac { 5 + 7 } {  50 } \\\\
                                                     &= \dfrac { 12 } {  50 } \\\\
                                                     &= \dfrac { 2 \times 6 } {  2 \times 25 } \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -492,7 +492,8 @@ tdraw
 
 Draw hands so that the clock below shows a time of $16.30$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -545,9 +546,11 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 The diagrams show two thermometers. One of the thermometers shows a temperature of $52 \degree \text{F}$. 
 
@@ -1020,6 +1023,7 @@ Shade exactly three squares so that the shape has reflection symmetry about any 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1301,7 +1305,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
 
@@ -1423,6 +1428,7 @@ tnumber
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows a large cube that has been made by stacking smaller, $1 \ \text{cm}$ cubes together. 
 
@@ -1686,7 +1692,8 @@ talgebra
 
 The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1745,7 +1752,8 @@ tsymmetry
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

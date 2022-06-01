@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-blocked"
 title: "Topic - Symmetry - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,7 @@ Circle which of the four options below shows a correct **rotation** of the word:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -80,6 +81,7 @@ $\text {option 4}$
 Circle which of the four options below shows a correct **reflection** of the word:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

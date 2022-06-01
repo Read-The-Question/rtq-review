@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -500,6 +500,7 @@ Bob says “$3$ has a less than even change of coming up”.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Is he right?
 
 </div>
@@ -611,11 +612,14 @@ tsimpleword
 
 Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
 
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
 
 He uses them to make this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of Bob’s shape?
 
@@ -1039,6 +1043,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1347,6 +1352,7 @@ What is the size of the angle marked $χ$ in the diagram below? [diagram not dra
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1434,10 +1440,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize{\maroonC
+{(+a)}}  
+&&  \footnotesize{\maroonC
+{(+a)}} 
+&&  \footnotesize{\maroonC
+{(+a)}}   
+&&  \footnotesize{\maroonC
+{(+a)}} \\
 3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
 \end{matrix}
 $
@@ -2328,11 +2338,15 @@ tinfer
 
 In the diagram below, routes may only be made between dots by travelling along lines.
 
-You may only travel in directions   ![missing image](/papers/missing_image.svg) or  ![missing image](/papers/missing_image.svg) or ![missing image](/papers/missing_image.svg)
+You may only travel in directions   ![missing image](/papers/missing_image.svg)
+ or  ![missing image](/papers/missing_image.svg)
+ or ![missing image](/papers/missing_image.svg)
+
 
 So there are three routes from A to B.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

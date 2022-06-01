@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-1"
 title: "TopicPaper - Order - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -123,7 +123,8 @@ $0.022 \quad \ldots  \quad 0.2$
 <div class='workings'>
 <div class='working'>
 
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
+$0.022 \quad \boxed{\green
+{<}}  \quad 0.2$
 
 </div>
 </div>
@@ -179,7 +180,8 @@ $
 
 Using the calculation above,
 
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
+$15\%$ of $\pounds 300\  \quad \boxed{\green
+{<}}  \quad  20\%$ of $\pounds 240$
 
 </div>
 </div>
@@ -235,7 +237,8 @@ $
 
 Using the calculation above,
 
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
+$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green
+{=}}  \quad 25\%$ of $\pounds 64$
 
 </div>
 </div>
@@ -1432,6 +1435,58 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>788320ED-59E3-4C5B-AA2C-9F6759BB1531</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the following numbers in order from smallest to largest:
+
+$\dfrac{3}{5}\:\:\:  0.58\:\:\: \dfrac{5}{8}\:\:\:  62\%  0.508$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>1858C278-6BA1-4C5E-A7A4-D09F4BAF1636</p>
@@ -2181,7 +2236,8 @@ $
 
 Using this we get,
 
-$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green {\dfrac {7} {10}} }$
+$\dfrac{6} {9} \qquad \dfrac{2} {3} \qquad \dfrac{18} {27} \qquad \boxed{ \green
+ {\dfrac {7} {10}} }$
 
 </div>
 </div>
@@ -5893,7 +5949,8 @@ $27.8 \ \text{km} \quad 2.087 \ \text{km} \quad 2778 \ \text{m} \quad 2.708 \ \t
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 To compare, let's convert all the units to $\text {km}$. 
 
@@ -6426,16 +6483,45 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $0.2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+0.2)}} 
-&&  \footnotesize{\maroonC{(+0.2)}}  
-&&  \footnotesize{\maroonC{(+0.2)}}   
-&&  \footnotesize{\maroonC{(+0.2)}}  \\
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
+\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 20.0 - 0.2 \\\\
+                        &= 19.8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
 \boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
 \end{matrix}
 $
@@ -7046,6 +7132,7 @@ torder
 Frank chooses **two different** numbers from the bubble shown below, and divides one number by the other.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

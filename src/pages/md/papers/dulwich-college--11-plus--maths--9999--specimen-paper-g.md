@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -251,11 +251,16 @@ The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+7)} } 
-&&  \footnotesize {\maroonC {(+7)} }  
-&&  \footnotesize {\maroonC {(+7)} }   
-&&  \footnotesize {\maroonC {(+7)} }   
-&&  \footnotesize {\maroonC {(+7)} }  \\
+&   \footnotesize {\maroonC
+ {(+7)} } 
+&&  \footnotesize {\maroonC
+ {(+7)} }  
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }  \\
 15 , && 22 , && 29 , && \text{\textunderscore \textunderscore \textunderscore } , && 43 , && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -306,10 +311,14 @@ The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-4)} } 
-&&  \footnotesize {\maroonC {(-4)} }  
-&&  \footnotesize {\maroonC {(-4)} }   
-&&  \footnotesize {\maroonC {(-4)} }  \\
+&   \footnotesize {\maroonC
+ {(-4)} } 
+&&  \footnotesize {\maroonC
+ {(-4)} }  
+&&  \footnotesize {\maroonC
+ {(-4)} }   
+&&  \footnotesize {\maroonC
+ {(-4)} }  \\
 9 , && 5 , && 1 , && \text{\textunderscore \textunderscore \textunderscore } , && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -360,11 +369,16 @@ The next term is calculated by dividing the previous term by $-2$. Hence, the se
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\div (-2))} } 
-&&  \footnotesize {\maroonC {(\div (-2))} }  
-&&  \footnotesize {\maroonC {(\div (-2))} }   
-&&  \footnotesize {\maroonC {(\div (-2))} }    
-&&  \footnotesize {\maroonC {(\div (-2))} }  \\
+&   \footnotesize {\maroonC
+ {(\div (-2))} } 
+&&  \footnotesize {\maroonC
+ {(\div (-2))} }  
+&&  \footnotesize {\maroonC
+ {(\div (-2))} }   
+&&  \footnotesize {\maroonC
+ {(\div (-2))} }    
+&&  \footnotesize {\maroonC
+ {(\div (-2))} }  \\
 96 , && -48 , && 24 , && -12 , && \text{\textunderscore \textunderscore \textunderscore } , && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -575,7 +589,8 @@ talgebra
 
 The perimeter of the rectangle below is $18 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -651,7 +666,8 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -684,7 +700,9 @@ A square with sides of length $3 \ \text{cm}$ is divided into three identically 
 These are then arranged as shown. What is the perimeter of the new shape?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -745,10 +763,12 @@ The diagram below shows $4$ triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pieces can be put together to form geometric shapes. The cards can be turned upside down or rotated if necessary. 
 On the grid below the $4$ pieces have been put together to make a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below draw a diagram to show how all $4$ pieces of card could be put
 together to form the named shape.
@@ -791,6 +811,7 @@ A rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -830,6 +851,7 @@ TODOANSWER
 A parallelogram that is not a rectangle
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1620,7 +1642,8 @@ talgebra
 
 The diagram shows a triangle and a line. The two angles marked $y\degree$ are equal.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1746,7 +1769,8 @@ tdraw
 
 Draw the reflection of each shape in the mirror line as shown.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1796,7 +1820,8 @@ tgraph
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1910,6 +1935,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 Point $D$ is the point midway between the points $C$ and $E$. Find the coordinates of the point $E$.
 
 </div>
@@ -1972,6 +1998,7 @@ tsequence
 A set of solid towers are made by adding layers as shown below. The shape is solid inside with no missing blocks.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2191,7 +2218,8 @@ Circle $B$ needs to contain multiples $4$.
 
 You will need to put some numbers outside of the two circles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2243,7 +2271,8 @@ tgraph
 
 The scatter plot shows the maths and science scores for $9$ pupils.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2573,6 +2602,7 @@ The diagram shows a design formed by drawing six lines in a regular hexagon. The
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2680,7 +2710,8 @@ tareaperimeter
 
 The perimeter of this shape is $40 \ \text{units}$. The sides labelled $x$ are all the same length. Find the length of one of these sides.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2965,7 +2996,8 @@ tsymmetry
 
 Sarah has designed a tile for her new kitchen as shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3004,6 +3036,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3047,8 +3080,11 @@ half a turn.
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3254,6 +3290,7 @@ In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the values of $P, Q, R, S$ and $T$. 
 
 </div>
@@ -3361,6 +3398,7 @@ tspeed
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calum and his friend cycle from $A$ to $C$, passing through $B$.
 

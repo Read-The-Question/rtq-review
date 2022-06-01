@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -464,18 +464,55 @@ $2 \quad 8 \quad 14 \quad 20     \quad 32$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $+6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+6)} } 
-&&  \footnotesize {\maroonC {(+6)} }  
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }   
-&&  \footnotesize {\maroonC {(+6)} }
-&&  \footnotesize {\maroonC {(+6)} }  \\
+&   \footnotesize {\maroonC
+ {(+6)} } 
+&&  \footnotesize {\maroonC
+ {(+6)} }  
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
+2,  &&  8,  &&  14,  &&  20  &&  \ldots,  &&  32  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 20 + 6 \\\\
+                                  &= 26 \\\\
+\text{Second missing number}      &= 32 + 6 \\\\
+                                  &= 38
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $+6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+6)} } 
+&&  \footnotesize {\maroonC
+ {(+6)} }  
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }   
+&&  \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
 2,  &&  8,  &&  14,  &&  20  &&  \ldots,  &&  32  &&  \ldots
 \end{matrix}
 $
@@ -522,17 +559,51 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(\times 3)} } 
-&&  \footnotesize {\maroonC {(\times 3)} }  
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} }   
-&&  \footnotesize {\maroonC {(\times 3)} } \\
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
+\ldots,  &&  3,  &&  9,  &&  27  &&  \ldots,  &&  243
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3 \div 3 \\\\
+                                  &= 1 \\\\
+\text{Second missing number}      &= 27 \times 3 \\\\
+                                  &= 81
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
 \ldots,  &&  3,  &&  9,  &&  27  &&  \ldots,  &&  243
 \end{matrix}
 $
@@ -579,15 +650,52 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(- 2 \dfrac {1} {2})} } 
-&&  \footnotesize {\maroonC {(- \dfrac {1} {2})} }  
-&&  \footnotesize {\maroonC {(- 2 \dfrac {1} {2})} }   
-&&  \footnotesize {\maroonC {(- \dfrac {1} {2})} }   
-&&  \footnotesize {\maroonC {(- 2 \dfrac {1} {2})} } \\
+&   \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} } 
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {2})} }  
+&&  \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} }   
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {2})} }   
+&&  \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} } \\
+8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots  &&  2,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 - 2 \dfrac {1} {2} \\\\
+                                  &= 5 - \dfrac {5} {2} \\\\
+                                  &= \dfrac {5 \times 2} {1 \times 2} - \dfrac {5} {2} \\\\
+                                  &= \dfrac {10} {2} - \dfrac {5} {2} \\\\
+                                  &= \dfrac {10 - 5} {2} \\\\
+                                  &= \dfrac {}
+                                  &=  \\\\
+\text{Second missing number}      &= 27 \times 3 \\\\
+                                  &= 81
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} } 
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {2})} }  
+&&  \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} }   
+&&  \footnotesize {\maroonC
+ {(- \dfrac {1} {2})} }   
+&&  \footnotesize {\maroonC
+ {(- 2 \dfrac {1} {2})} } \\
 8,  &&  6 \dfrac {1} {2},  &&  5,  &&  \ldots  &&  2,  &&  \ldots
 \end{matrix}
 $
@@ -644,6 +752,7 @@ tfraction
 What fraction of the parallelogram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -978,6 +1087,7 @@ Shade the diagram so that the dotted line is line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1210,6 +1320,7 @@ Hui Ling measures her pencil before she sharpens it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the length of the pencil?
 
 </div>
@@ -1358,6 +1469,7 @@ tgeometry
 Which two shapes can be fitted together to make the larger shape?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1922,6 +2034,7 @@ The numbers are displayed as shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the time when the glow from the clock is least?    
 
 What is the time when the glow from the clock is greatest?
@@ -2034,6 +2147,7 @@ tnumber
 Write down how many cubes and triangular blocks are used to make the ship shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2159,6 +2273,7 @@ This shape is made from $9$ identical squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of the shape is $144 \ \text{cm}^2$
 
 What is the perimeter of the shape?
@@ -2228,6 +2343,7 @@ Look carefully at this example to see how the $4$ numbers in the corners of the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned}
 &3 × 6 -4 × 2 \\
@@ -2274,7 +2390,9 @@ TODOANSWER
 
 Find the missing numbers in each of the following.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2315,7 +2433,9 @@ TODOANSWER
 In each of these squares the $2$ missing numbers are the same.
 Fill in the missing numbers.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2357,6 +2477,7 @@ None of the missing numbers in this square is the same.
 Fill in $4$ numbers which would work.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2565,6 +2686,7 @@ is the equals button.
 The other working buttons are:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Buttons can be used as many times as you like.
 
@@ -2881,6 +3003,7 @@ On ordinary dice the number of spots on opposite faces add up to $7$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2959,9 +3082,11 @@ For example in this case she can see $15$ spots.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many spots can she see in the cases below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3001,7 +3126,9 @@ TODOANSWER
 
 Rajni tries arranging $2$ dice on the table. What is the smallest number of spots she can see if she arranged them:
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

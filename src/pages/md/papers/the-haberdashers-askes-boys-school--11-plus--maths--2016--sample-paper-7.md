@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -404,6 +404,7 @@ tpercentage
 Shade $15\%$ of this shape
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -936,6 +937,7 @@ Draw lines to link each object to its correct height.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Oak Tree $0.324 \ \text{km}$
 Eiffel Tower $1.41 \ \text{m}$
 Can of soda Car $2390 \ \text{cm}$ 
@@ -1127,11 +1129,17 @@ tgeometry
 Write the words, square, rectangle, parallelogram, trapezium, kite and rhombus in the spaces below.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1340,6 +1348,7 @@ A group of $48$ children are asked to choose their favourite subject from a list
 The results are displayed on a pie chart:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1824,6 +1833,7 @@ The distance between consecutive marks shown on the diagram is $25 \ \text{metre
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1994,6 +2004,7 @@ tdraw
 Write down the time shown on this clock.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2270,7 +2281,9 @@ An empty jug is filled with water at a constant rate. The graph shows how the he
 $t$, as the jug fills up. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 For each of the following jugs draw the graph which shows how the height of water varies with time.
 
@@ -2309,7 +2322,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2348,7 +2363,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2387,7 +2404,9 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2454,7 +2473,9 @@ Draw a possible right-angled triangle, $E$, which corresponds to the remaining b
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2516,6 +2537,7 @@ Work out the total number of possible routes to go:
 -  from $A$ to $E$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2754,6 +2776,7 @@ Sleepy earns seven-eighths of Sneezy's salary.
 Complete the table below to work out how much Snow White earns in a day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Bashful Doc Dopey Grumpy Happy Sleepy Sneezy Snow White Gold Galleons Snow White
 

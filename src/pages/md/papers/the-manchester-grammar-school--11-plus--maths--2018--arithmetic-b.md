@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -312,6 +312,7 @@ Note that there are other players playing in the tournament whose results are no
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -371,11 +372,15 @@ tareaperimeter
 
 A sequence of rectangles is drawn and the first three rectangles are as follows, with their length and width shown in each case.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 The perimeters and areas of each rectangle are noted in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -763,7 +768,9 @@ Ger puts a cube against the floor and the walls in the corner of his room, as in
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -940,6 +947,7 @@ tspeed
 In a school athletics triathlon, children score points for their performances in three events, running $100 \ \text{m}$, Long Jump and Shot Putt (throwing) according to the following table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 So if Richard ran the $100 \ \text{m}$ in $13.0 \ \text{secs}$ he would earn $100$ points, he would earn a further 
 $80$ points for putting the shot $8.6 \ \text{m}$ and $70$ points for a long jump of $2.7 \ \text{m}$ making a total of 
@@ -1231,6 +1239,7 @@ Three football teams, Aardvark Athletic, Buffalo Bears and Caribou Celtic, recor
 the 2016 - 17 season are shown on the graph below. Using the graph answer the questions which follow.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1707,6 +1716,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagram above shows a plan of the front window in a house which has to be made and fitted as **three separate** window units. 
 The middle section of the window is $2.2 \ \text{m}$ wide and the side sections are each $0.5 \ \text{m}$ wide. 
 The whole front window is $1.5 \ \text{m}$ high.
@@ -1994,6 +2004,7 @@ There are four times as many men as women, twice as many men as boys and three t
 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

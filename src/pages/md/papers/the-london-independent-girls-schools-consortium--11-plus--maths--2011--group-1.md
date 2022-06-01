@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -679,6 +679,7 @@ How much does she have to pay?
 
 ![missing table](/papers/missing_table.svg)
 
+
 Car Park Charges
 
 **Time**              **Charge**
@@ -737,6 +738,7 @@ trecipe
 The amount of each ingredient needed to  make $8$ cakes is given in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 **ingredients**   **$8$ cakes**          **$12$ cakes**
 
@@ -832,6 +834,7 @@ talgebra
 $3$ apples and $1$ orange cost $50 \text{p}$. $1$ apple and $3$ oranges cost $62 \text{p}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1416,6 +1419,7 @@ Their target is $\pounds 50$ altogether.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1619,6 +1623,7 @@ Below is a shape made of six identical triangles arranged around a square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1781,6 +1786,7 @@ Draw in all lines of symmetry on the shapes below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1827,6 +1833,7 @@ Circle the one which will **not** fold up to make a cube.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1871,6 +1878,7 @@ tgeometry
 Shade the least number of squares required to make the dotted line shown a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1940,6 +1948,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1969,6 +1978,7 @@ TODOANSWER
 Shade two-fifths of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2017,6 +2027,7 @@ talgebra
 The perimeter of this square is $36 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2116,6 +2127,7 @@ ttemperature
 Here are two thermometer readings taken at the same time on Monday and Tuesday.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2220,6 +2232,7 @@ of $1 \ \text{cm}$ would it take to fill the shape below with no overlapping?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2262,6 +2275,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2392,6 +2406,7 @@ tgeometry
 A child has made a series of towers, first three are shown below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2551,13 +2566,16 @@ The object below is made up of $5$ identical blocks.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The view in the direction of arrow $B$ is shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw the views that are seen in the direction of arrows $A$ and $C$ using the grids below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2709,6 +2727,7 @@ Fill in all the missing numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2755,6 +2774,7 @@ number in the square in between them. A completed example is given
 in the diagram on the left. Complete the diagram on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

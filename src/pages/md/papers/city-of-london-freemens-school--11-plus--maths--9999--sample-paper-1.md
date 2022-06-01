@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -431,9 +431,12 @@ $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC{(+8)}}  
-&&  \footnotesize{\maroonC{(+8)}}   
-&&  \footnotesize{\maroonC{(+8)}} \\
+&&  \footnotesize{\maroonC
+{(+8)}}  
+&&  \footnotesize{\maroonC
+{(+8)}}   
+&&  \footnotesize{\maroonC
+{(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
 \end{matrix}
 $
@@ -876,6 +879,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  P = $9 \ \text{cm}, \ A = 14 \ \text{cm}^2$
 -  P = $14 \ \text{cm}, \ A = 18 \ \text{cm}^2$
 -  P = $18 \ \text{cm}, \ A = 14 \ \text{cm}^2$
@@ -945,6 +949,7 @@ The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded parallelogram?
 
 -  $21 \ \text{cm}^2$ 
@@ -1013,6 +1018,7 @@ The table below shows the coins that were collected from the machine in one day.
 
 ![missing table](/papers/missing_table.svg)
 
+
 How many cans of lemonade were sold that day?
 
 -   $\pounds 20.85$ 
@@ -1074,6 +1080,7 @@ talgebra
 Find the missing angles $a \degree$ and $b \degree$ :
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  $a = 48 \degree, \ b = 53 \degree$
 -  $a = 48 \degree, \ b = 63 \degree$

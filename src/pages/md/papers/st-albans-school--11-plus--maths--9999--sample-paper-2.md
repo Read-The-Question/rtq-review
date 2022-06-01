@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -674,7 +674,8 @@ tnumber
 
 Fill  in the   missing  numbers  in this  division
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1347,6 +1348,7 @@ Find  the   area  of this  shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1592,6 +1594,7 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1643,6 +1646,7 @@ The   angles   round a  point add   up to **$360^\degree$**
 In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1701,6 +1705,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1899,6 +1904,7 @@ A  factor   tree  can   be used  to write a  number   as the   product  of prime
 For   example
 
 ![missing image](/papers/missing_image.svg)
+
 
 So  **$90 = 2 \times 5 \times 3 \times 3$** 
 By drawing  a  factor   tree, or using any   other method   you   know, write **36** as the   product  of prime factors.
@@ -2300,6 +2306,7 @@ tinfer
 Inside   the   large square   (of   “size 16”)  a  smaller  square   of “size 9” is shown shaded. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

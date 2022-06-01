@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -34,6 +34,7 @@ Pat collects stamps.
 She has $144$ British stamps and $68$ foreign stamps.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -763,6 +764,7 @@ Here are his results in a Venn diagram:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the Venn diagram to write down
 
 </div>
@@ -938,6 +940,7 @@ $(2, 2) \quad (6,2) \quad (4,4)$
 (The first one has already been done for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1267,6 +1270,7 @@ Here are their results:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1460,6 +1464,7 @@ Here is a bar chart showing his results:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1576,6 +1581,7 @@ Use the bar chart to complete the frequency table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1672,6 +1678,7 @@ Katherine has ten coins in a bag.
 
 She has one $50 \ \text{pence}$ coin, two $20 \ \text{pence}$ coins, one $5 \ \text{pence}$ coin and the rest are $2 \ \text{pence}$ coins.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1857,6 +1864,7 @@ with $C$ the probability that the coin is worth less than $\pounds 1$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1917,6 +1925,7 @@ $100 \ \text{grams}$ of flour
 $3$ tablespoons of syrup
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2107,6 +2116,7 @@ Below is a graph showing his height above sea level at different times
 during the day.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2329,6 +2339,7 @@ He has given him these instructions to help him find it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Adam has decided to draw an accurate map to help.
 
 </div>
@@ -2370,6 +2381,7 @@ Using a scale of $1 \ \text{millimetre}$ to represent $1 \ \text{metre}$, draw a
 You will need to use a protractor.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2805,9 +2817,11 @@ To save money, he decides to build it against his barn, so that he only needs to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is the first plan:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2929,6 +2943,7 @@ Here is his new plan
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the length of his new pen.
 
 </div>
@@ -2970,6 +2985,7 @@ TODOANSWER
 Farmer Fred decides that he would like to build a square pen with his $15 \ \text{metres}$ of fence as shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 How long should each side be?
 
@@ -3067,6 +3083,7 @@ Look carefully at these number patterns:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3104,6 +3121,7 @@ TODOANSWER
 Complete rows $5$ and $6$ of this pattern:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3145,6 +3163,7 @@ Complete row $10$ of this pattern:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3184,6 +3203,7 @@ TODOANSWER
 Complete the non-shaded parts of these rows:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

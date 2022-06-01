@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ Hasan wakes up at the time shown below.
 He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does he have until his training starts?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -312,7 +313,8 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
 \begin {aligned}
@@ -942,6 +944,217 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B88B1815-76F6-4987-A529-A31EC2A3A231</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Freya puts a casserole in the oven at $11.40 \ \text{am}$.
+
+It needs $1 \ \text{hour}$ and $45 \ \text{minutes}$ to cook.
+
+At what time will it be cooked?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes are there from $11.11$ util $23.23$ on the same day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Archie is $20$ years, $20$ months, $20$ weeks and $20$ days old.
+
+What age will he be on his next birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Gemma had a baby born on $1 \text{st}$ February $2017$.
+
+On what date will the baby be $400$ days old?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>725486A7-3062-47A5-9B6E-60454F2B945C</p>
@@ -1009,7 +1222,9 @@ Part of a bus timetable is shown below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1304,6 +1519,7 @@ The lengths of four of the Henry Potter films are as follows:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Henry Potter and the Philosopher’s Loan  $143 \ \text{minutes}$
 
 Henry Potter and the Pizza of Azkaban   $158 \ \text{minutes}$
@@ -1365,7 +1581,8 @@ when she thought it was quarter to nine on the same morning (!).
 
 How many minutes was she really out for?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1579,6 +1796,7 @@ Petrov wants to "listen again" to several shows on the radio and is checking the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1778,6 +1996,7 @@ ttime
 **For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
 
 ![missing table](/papers/missing_table.svg)
+
 
 For how many hours is it open each week?
 
@@ -2479,6 +2698,7 @@ For example, the display below represents the time $05{:}26$ since:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2516,6 +2736,7 @@ TODOANSWER
 Write down the time in ($24-\text{hour}$ format) represented by the display:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2557,6 +2778,7 @@ Mark the grid below to show the time "a quarter to ten in the evening"
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2596,7 +2818,9 @@ TODOANSWER
 Calculate how long it is between the times displayed on watch A and watch B below:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2664,7 +2888,8 @@ tsimpleword
 The diagram shows a plan of the rectangular garden of local celebrity Louis Cowell-Cole, 
 with an L-shaped fish pond in the middle. The dimensions of the garden and the pond are shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2862,6 +3087,7 @@ the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The d
 corner of the garden.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate how many bushes are required to complete this in total.
 
@@ -4011,6 +4237,7 @@ Here is a part of a railway timetable.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4185,6 +4412,7 @@ ttime
 Here is part of a railway timetable
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4494,6 +4722,7 @@ tnoexplanation
 **For Questions** $\bold{12-15}$, **use the clock below**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One **afternoon**, Eadie looks at the clock.
 Write the time in $12 \ \text{hour}$ clock
@@ -5058,7 +5287,8 @@ ttable
 
 The diagram below shows part of a train timetable:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5579,7 +5809,8 @@ ttable
 
 The table shows part of the railway timetable from Edinburgh to St Andrews. Some trains stop at every station and others are express trains. All stopping trains take the same time between each station as each other.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7035,6 +7266,7 @@ It takes Karen $40 \ \text{minutes}$ to get to school in the morning. The pie ch
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7565,7 +7797,8 @@ tdraw
 
 Draw hands so that the clock below shows a time of $16.30$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7750,6 +7983,7 @@ An aeroplane leaves Heathrow at $$21{:}26$$ and arrives at Atlanta at $$10{:}45$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7779,6 +8013,7 @@ $12 {:} 19$
 In fact, the times were given  as local times. The time in Atlanta is five hours behind U.K. time. What is the actual length of the journey?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8013,6 +8248,7 @@ My clock shows the following time. Both hours and minutes are multiples of 3, as
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8068,6 +8304,7 @@ $ 12:06 $
 Later, my clock shows
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8160,7 +8397,8 @@ ttime
 
 Look at the bus timetable below. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8961,6 +9199,7 @@ ttime
 The timetable below shows some train times from Birmingham to York.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10314,6 +10553,7 @@ The table gives information about these activities.
  
 ![missing table](/papers/missing_table.svg)
 
+
 Tom wants to do all $4$ activities.
 
 He arrives at the theme park at $10 \ 20$ 
@@ -10322,7 +10562,8 @@ He needs to leave the theme park by $14 \ 30$.
 
 Plan a schedule for Tom's visit to the theme park so he can do all $4$ activities.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10548,6 +10789,7 @@ ttime
 The timetable below shows the morning train times between St Albans and City Thameslink via St Pancras International.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10863,6 +11105,7 @@ Draw the hour and minute hands on the clock below to show this time.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10985,6 +11228,7 @@ For breakfast I eat a slice of buttered toast and a cup of coffee. The time take
 
 ![missing table](/papers/missing_table.svg)
 
+
 Brown toast in toaster $3 \ \text{minutes}$ 
 Butter the toast $1 \ \text{minute}$ 
 Make coffee in machine $2 \ \text{minutes}$
@@ -11100,6 +11344,7 @@ tdraw
 Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11433,6 +11678,7 @@ TODOANSWER
 Geoff arrives at the dock at Giessbach at $08{:}00$. Work out the earliest time that he can get to Grutschalp. Put the departure and arrival times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach $08{:}00$ Interlaken Lauterbrunnen Grutschalp
 
 </div>
@@ -11474,6 +11720,7 @@ TODOANSWER
 Tom travels from Giessbach to Grutschalp arriving at Grutschalp at $15{:}10$. Work out the latest time that he might have left Giessbach. Put the arrival and departure times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach Interlaken Lauterbrunnen Grutschalp $15{:}10$
 
 </div>
@@ -11587,6 +11834,7 @@ tdraw
 Write down the time shown on this clock.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11722,6 +11970,7 @@ Draw the hour and minute hands on this clock to show the time $22{:}30$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the reflex angle between the two hands on this clock?
 
 </div>
@@ -11779,7 +12028,9 @@ Here is a portion of the Monday to Friday bus timetable for the $724$ bus betwee
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 
 
@@ -12381,6 +12632,7 @@ The numbers are displayed as shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the time when the glow from the clock is least?    
 
 What is the time when the glow from the clock is greatest?
@@ -12579,6 +12831,7 @@ ttime
 
 ![missing image](/papers/missing_image.svg)
 
+
 Clock $A$ is $12 \ \text{minutes}$ fast.
 
 
@@ -12630,6 +12883,7 @@ She collects the car at $2.15 \ \text{pm}$.
 How much does she have to pay?
 
 ![missing table](/papers/missing_table.svg)
+
 
 Car Park Charges
 
@@ -12897,6 +13151,7 @@ The timetable below shows information about the overnight train from London to S
 
 ![missing table](/papers/missing_table.svg)
 
+
 How long does the train take
 
 </div>
@@ -13001,6 +13256,7 @@ In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13047,6 +13303,7 @@ Belinda has a digital alarm clock.
 The numbers on the clock are displayed as:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Belinda's digital clock shows the time $01{:}10$
 
@@ -13128,6 +13385,7 @@ TODOANSWER
 Use the ruler below to mark out the length of this pencil in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13314,7 +13572,8 @@ The time in New York is $5 \ \text{hours}$ behind the time in London.
 
 The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -13467,6 +13726,7 @@ The notice below shows part of a train timetable between $2$ towns, Taymar and R
 One of the times has been covered.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -13630,6 +13890,7 @@ On their sports day, five girls took part in the $400 \ \text{metres}$ race.
 Their times were recorded in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 name        time taken
 Angie      1 min 18 secs
@@ -13888,6 +14149,7 @@ Write the time her clock actually shows, using the $12$-hour clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13954,6 +14216,7 @@ $19{:}15$
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -14242,6 +14505,7 @@ Below is part of a train timetable:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14384,6 +14648,7 @@ This clock has been reflected in a mirror.
 What is the actual time on the clock?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14529,6 +14794,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14585,6 +14851,7 @@ ttime
 Amira checks the time when she sets off on her journey to school in the morning.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14702,6 +14969,300 @@ $8{:}08 \ \text {a.m.}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>69F6CE4E-3035-4AF3-9690-A0A605D7DB3C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows part of the railway timetable for trains from Andforth to Ermston. 
+
+Some trains stop at stations between, and others are express trains. 
+
+All stopping trains take the same time between stations as each other.
+
+|          | Express   | Stopping   | Express   | Stopping   | Express   | Stopping |
+|----------|:---------:|------------|-----------|------------|-----------|----------|
+| Andforth | $13{:}18$ | $13{:}43$  | $14{:}24$ | $14{:}41$  | $15{:}20$ | $15{:}34$|
+| Bowlton  |           | $14{:}06$  |           | $15{:}04$  |           |          |
+| Cheeble  |           | $14{:}18$  |           | $15{:}16$  |           |          |
+| Delf     |           | $14{:}23$  |           | $15{:}21$  |           |          |
+| Ermston  | $14{:}02$ | $14{:}38$  | $15{:}08$ | $15{:}36$  | $16{:}04$ |          |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes does it take to travel from Andforth to Cheeble?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the times in the table for the stopping train which leaves Andforth at $15{:}34$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much longer does the stopping train take than the express for the journey from Andforth to Ermston?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+David lives in Bowlton and he wants to travel to Delf. He misses the $14{:}06$ train by $10 \ \text{minutes}$. How long will he have to wait for the next train?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The stopping trains travel at an average speed of $36 \ \text{miles per hour}$ for the whole journey. Work out the distance from Andforth to Ermston?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the average speed of the express trains in miles per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -15254,6 +15815,7 @@ ttime
 My train was $17\, minutes$ late when it arrived at the station at 17·05.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What time was it due to arrive at the station?
 

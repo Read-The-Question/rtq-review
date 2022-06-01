@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -518,6 +518,7 @@ On the scatter graph below each cross shows a person's height and weight.
 For example the cross next to the letter $A$ shows that Andrew is $1.67 \ \text{m}$ tall and that his weight is $70 \ \text{kg}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1239,6 +1240,7 @@ The frame is $10 \ \text{cm}$ wide.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the area of glass that is needed. 
 
 </div>
@@ -1297,6 +1299,7 @@ In a certain game, a counter can move **either** one square vertically and then 
 For example if the counter starts on square $A$ in the diagram below, after one move it can be at $B$, or at $C$, or at various other squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 In the diagram below,
 
@@ -1375,6 +1378,7 @@ TODOANSWER
 Place an **O** in **every** square that the counter could possibly be after it had made **two moves** starting from $S$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

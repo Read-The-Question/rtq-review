@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -913,6 +913,7 @@ talgebra
 This design has one large square and two identical small squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the length of a side of the large square.
 

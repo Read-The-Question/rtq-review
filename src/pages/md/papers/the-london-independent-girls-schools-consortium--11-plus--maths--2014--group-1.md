@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -837,9 +837,11 @@ ttemperature
 
 The table below shows the temperatures in three towns on Monday.
 
-![missing table](/papers/missing_table.svg)  
+![missing table](/papers/missing_table.svg)
+  
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -942,6 +944,7 @@ Shade $\dfrac{3}{7}$ of the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1013,9 +1016,11 @@ Sally has the number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Sally’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1047,11 +1052,13 @@ Imogen has a different number machine which produced the following table of inpu
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately, the labels have fallen off Imogen’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1104,11 +1111,13 @@ Charlotte has the six number cards shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cards can be placed together to form a number.
 
 For example, using just $4$ cards, the smallest $4$-digit number which can be made is $3457$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1320,7 +1329,8 @@ tratio
 
 Helen’s recipe for $12$ waffles needs the following ingredients:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1458,6 +1468,7 @@ tratio
 Jasper the horse eats three quarters of a bale of hay every day.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1747,6 +1758,7 @@ Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1777,6 +1789,7 @@ Reflect the word $SOW$ in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1806,6 +1819,7 @@ TODOANSWER
 How many millilitres of liquid are in this container?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1854,6 +1868,7 @@ tareaperimeter
 Shape $D$ is drawn on centimetre-squared paper below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1939,6 +1954,7 @@ Draw a rectangle which has the same area as shape $D$ on the centimetre-squared 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2011,6 +2027,7 @@ TODOANSWER
 
 The bar chart below shows the midday temperatures each day in London and Paris during the same week one spring.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2265,6 +2282,7 @@ Write the numbers from $1$ to $6$ on the net below, so that when it is folded to
 
 ![missing image](/papers/missing_image.svg)
 
+
 The numbers $3$ and $4$ have already been placed for you.
 
 </div>
@@ -2307,7 +2325,8 @@ tgraph
 
 The diagram below shows a map of a treasure island.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2393,7 +2412,9 @@ Seema has found some clues which describe the position of some treasure.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2494,6 +2515,7 @@ tprobability
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Hayley has some fair six-sided dice.
 
@@ -2635,6 +2657,7 @@ She has already filled in one shape.
 
 
 
+
 Write the following $5$ shapes in the correct boxes in the table:
 
 </div>
@@ -2728,6 +2751,7 @@ A running track has a perimeter of $400 \ \text{metres}$.
 Roger trains every morning by running around the running track until he has run a distance of $6 \ \text{kilometres}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2868,6 +2892,7 @@ Here is a pattern made with circles and lines:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2895,6 +2920,7 @@ TODOANSWER
 Complete pattern $4$ in the space below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2925,6 +2951,7 @@ TODOANSWER
 Complete the table showing the number of circles and lines in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3088,6 +3115,7 @@ The shaded square below has an area of $8 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the grid above, shade:
 
 </div>
@@ -3222,6 +3250,7 @@ testimate
 Morag has a pet mouse, Squeak, shown in the life-size picture below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3394,6 +3423,7 @@ The diagram below shows a pattern of numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3541,6 +3571,7 @@ Use this information to complete the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3617,6 +3648,7 @@ An orange and a pear cost $64 \ \text{pence}$.
 How much more does an apple cost than an orange?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3749,7 +3781,9 @@ tinfer
 
 Janice realises that there are many times when, if you look at a digital clock upside down, the display will show the same time.
 
-For example, ![missing image](/papers/missing_image.svg) upside down is ![missing image](/papers/missing_image.svg)
+For example, ![missing image](/papers/missing_image.svg)
+ upside down is ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -3758,6 +3792,7 @@ List all of the times, using the $24$-hour clock, which show the same time when 
 *The numbers below may help*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3809,6 +3844,7 @@ If possible, Miss Drew must give each child his or her first choice but, if this
 The table below shows each child’s first and second choices.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Work out who should play each character so that as many children as possible are pleased.
 

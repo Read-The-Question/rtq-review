@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,6 +57,7 @@ Write down the names of the following shapes:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -85,6 +86,7 @@ $\text {Quadrilateral}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -112,6 +114,7 @@ $\text {Equilateral triangle}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -255,17 +258,49 @@ $7, \quad 9, \quad 11, \quad 13, \quad 15,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+2)} } 
-&&  \footnotesize {\maroonC {(+2)} }  
-&&  \footnotesize {\maroonC {(+2)} }   
-&&  \footnotesize {\maroonC {(+2)} }   
-&&  \footnotesize {\maroonC {(+2)} } \\
+&   \footnotesize {\maroonC
+ {(+2)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} } \\
+7,  &&    9,  &&  11,  &&   13,  &&   15  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 15 + 2 \\\\
+                       &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+2)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} } \\
 7,  &&    9,  &&  11,  &&   13,  &&   15  &&   \ldots
 \end{matrix}
 $
@@ -303,16 +338,45 @@ $-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-4)} } 
-&&  \footnotesize {\maroonC {(-4)} }  
-&&  \footnotesize {\maroonC {(-4)} }   
-&&  \footnotesize {\maroonC {(-4)} } \\
+&   \footnotesize {\maroonC
+ {(-4)} } 
+&&  \footnotesize {\maroonC
+ {(-4)} }  
+&&  \footnotesize {\maroonC
+ {(-4)} }   
+&&  \footnotesize {\maroonC
+ {(-4)} } \\
+-1,  &&    -5,  &&  -9,  &&   -13,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= -13 - 4 \\\\
+                       &= -17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-4)} } 
+&&  \footnotesize {\maroonC
+ {(-4)} }  
+&&  \footnotesize {\maroonC
+ {(-4)} }   
+&&  \footnotesize {\maroonC
+ {(-4)} } \\
 -1,  &&    -5,  &&  -9,  &&   -13,   &&   \ldots
 \end{matrix}
 $
@@ -350,15 +414,45 @@ $1, \quad 8, \quad 27, \quad 64,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 $
 \begin{matrix}
-\footnotesize {\maroonC {(2 ^ 3)} } 
-&&  \footnotesize {\maroonC {(2 ^ 3)} } 
-&&  \footnotesize {\maroonC {(3 ^ 3)} }  
-&&  \footnotesize {\maroonC {(4 ^ 3)} }   
-&&  \footnotesize {\maroonC {(5 ^ 3)} } \\
+\footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(3 ^ 3)} }  
+&&  \footnotesize {\maroonC
+ {(4 ^ 3)} }   
+&&  \footnotesize {\maroonC
+ {(5 ^ 3)} } \\
+1,  &&    8,  &&  27,  &&   64,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 5 ^ 3 \\\\
+                       &= 125
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+\footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(3 ^ 3)} }  
+&&  \footnotesize {\maroonC
+ {(4 ^ 3)} }   
+&&  \footnotesize {\maroonC
+ {(5 ^ 3)} } \\
 1,  &&    8,  &&  27,  &&   64,   &&   \ldots
 \end{matrix}
 $
@@ -949,6 +1043,7 @@ tgraph
 A class of pupils were surveyed to find out their favourite number. The results are shown in the bar chart below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1556,6 +1651,7 @@ A right-angled triangle has the dimensions as shown. What is the area of the **u
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1879,6 +1975,7 @@ The diagram shows a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The length of the rectangle is $2n + 1$. 
 
 The width of the rectangle is $3n - 9$. 
@@ -1890,6 +1987,7 @@ Write down an expression for the perimeter of the rectangle. **Fully simplify yo
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 $
 \begin{aligned}
@@ -1935,6 +2033,7 @@ talgebra
 Year $8$ were asked to choose their favourite colour. The pie chart below shows the results of this survey.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If $30$ pupils chose red: 
 
@@ -2514,6 +2613,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2693,6 +2793,7 @@ tprobability
 The diagram shows $18$ shapes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2915,6 +3016,7 @@ tdraw
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3360,9 +3462,11 @@ A cube has shaded triangles on three of its faces.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is the net of the cube. Draw in the two missing shaded triangles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3423,6 +3527,7 @@ This grid is made of hexagons.
 Draw the reflection of the shaded shape on the grid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

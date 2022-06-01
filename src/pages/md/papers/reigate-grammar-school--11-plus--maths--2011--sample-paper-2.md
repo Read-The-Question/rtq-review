@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1580,6 +1580,7 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1634,6 +1635,7 @@ tdraw
 Shade in two fifths of the flag below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2029,7 +2031,9 @@ tgeometry
 
 Fill in the table below with the information requested.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 |                              | CUBE  | PYRAMID   |
 |:--------------------------   |:----: |:-------:  |
@@ -2328,6 +2332,7 @@ tgraph
 George carries out a survey at school to find out how his school friends travel to school. He represents this data on the bar chart shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2786,6 +2791,7 @@ tgeometry
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the graph paper above plot the points with coordinates and labels
 
 $A=(0,2)\;B=(1,5)\; C=(4,4)\; D=(3,1)\; E=(2,2)\; F=(1,1)\; and\; G=(5,3)$
@@ -3139,7 +3145,9 @@ tgeometry
 
 Name the two shapes shown below
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3187,10 +3195,12 @@ Tom has a number machine which multiplies by $5$ and then adds $6$
 When he puts $3$ in the answer comes out as $21$
 
 ![missing image](/papers/missing_image.svg)
+
  
 Sarah then changes the boxes around so that when she puts in $3$ her answer is $45$
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 They both put the same number into their machines.
 
@@ -3331,6 +3341,7 @@ tsequence
 The number pattern below is known as Pascal’s Triangle. Each number is the sum of the two numbers directly above it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Complete the table below
 

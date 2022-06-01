@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -428,18 +428,55 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(0 + 1)} }
-&&  \footnotesize {\maroonC {(1 + 1)} }
-&&  \footnotesize {\maroonC {(1 + 2)} }
-&&  \footnotesize {\maroonC {(2 + 3)} }
-&&  \footnotesize {\maroonC {(3 + 5)} }
-&&  \footnotesize {\maroonC {(5 + 8)} }  \\
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3 + 5 \\\\
+                                  &= 8 \\\\
+\text {Second missing number}     &= 5 + 8 \\\\
+                                  &= 13
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }  \\
 1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
 \end{matrix}
 $
@@ -725,9 +762,13 @@ tgeometry
 Three of these shapes have an even number of vertices. Which one does not?
 
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -789,6 +830,7 @@ tdraw
 The diagram shows part of a regular shape along with its two lines of symmetry. The whole shape is:
 
 ![missing image](/papers/missing_image.svg)
+
 
 -  a trapezium
 -  a rhombus
@@ -1239,7 +1281,9 @@ Which of shapes $A, B, C$ and $D$ is most similar to shapes $1$ and $2$?
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1296,6 +1340,7 @@ How many squares are in this picture?
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  $2$
 -  $3$
 -  $4$
@@ -1351,7 +1396,9 @@ Work out the codes for pictures $1, 2$ and $4$ and then decide which of boxes $A
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2145,6 +2192,7 @@ The first row is done for you.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2515,6 +2563,7 @@ I put square tiles on a large grid so that the tiles touch at the corners. The d
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2671,6 +2720,7 @@ I have $\bold{30}$ **tiles** to make a pattern on a grid. The pattern is a serie
 
 ![missing image](/papers/missing_image.svg)
 
+
 I have used some of the $30$ tiles to make my pattern.
 Do I have enough tiles to make the **next square**, of side length $4$?
 Show working to explain your answer.
@@ -2769,6 +2819,7 @@ The **perimeter** of a regular hexagon is $\bold{42a + 18}$.
 Write an expression for the lengths of one of its sides.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2869,6 +2920,7 @@ Here is a triangular prism.
 Write down the number of:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2998,9 +3050,11 @@ Here is a design for a kitchen tile.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show what it would look like when turned through $90 \degree$ anticlockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3057,9 +3111,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3230,6 +3287,7 @@ $1 \ \text{cm} \times 1 \ \text{cm}$ square hole pushed right through the centre
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used to make this shape?
 
 </div>
@@ -3283,10 +3341,15 @@ tprobability
 The diagram shows five fair spinners with grey and white sectors. Each spinner is divided into equal sectors.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 I am going to spin all the pointers.
 
@@ -3424,6 +3487,7 @@ She asked some students in year $9$ which types of film they liked best.
 She used the results to draw this pie chart.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

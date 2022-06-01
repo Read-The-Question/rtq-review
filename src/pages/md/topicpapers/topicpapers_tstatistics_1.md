@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-1"
 title: "TopicPaper - Statistics - 1"
-date: 2022-06-01 14:28:35
+date: 2022-06-01 18:01:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -71,6 +71,7 @@ Dillan wrote down how many pages he read over the past $5$ days.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the median of the number of pages which he read?
 
 </div>
@@ -112,6 +113,7 @@ TODOANSWER
 Some students compared the number of pets which they had. The results are displayed below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the range of the number of pets owned.
 
@@ -228,14 +230,22 @@ tstatistics
 
 Find the mean weight of the sharks below.
 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -449,6 +459,7 @@ tstatistics
 The table shows the avergae length of prega=nancy for different mammals.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Use the information to answer these questions.
 
@@ -1227,6 +1238,7 @@ Fill in the tally/frequency table below:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1956,6 +1968,179 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A2E06BF9-FB6E-490C-BADD-12FD72AFA16D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a table showing how many minutes four children took to get to school last week
+
+|           | Maxine     |  Ava     | Ellie     | Sara         |
+|:---------    |:--------    |:----    |:-------    |:------    |
+| Monday    |  $23$      | $14$     | $12$      | $19$         |
+| Tuesday   | $24$       | $17$     | $15$      | $25$         |
+| Wednesday | $31$       | $11$     | $18$      | $41$         |
+| Thursday  | $26$       | $16$     | $12$      | $22$         |
+| Friday    | $19$       | $16$     | $16$      | $23$         |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who took over $40\ \text{minutes}$ to get to school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which person has the shortest journey to school on any day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Thursday, what is the range of the times?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
@@ -2020,6 +2205,7 @@ tstatistics
 The pie chart shows how $90$ Year $7$ pupils spent their time last night.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2281,6 +2467,7 @@ What value must be placed in the shaded box?
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2332,6 +2519,7 @@ tstatistics
 Lily is planning an activity weekend with her youth club. She has asked $60$ members of the club what they would prefer to do.
 
 ![missing image](/papers/missing_image.svg)
+
 
 In each part of this question, indicate whether the statement about the pie chart is true or false.
 
@@ -2579,6 +2767,7 @@ Valeri asks twenty friends the same question as Petra.
 She records their answers in a table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the total amount of TV watched by Valeri's $20$ friends?
 
@@ -2895,6 +3084,7 @@ tstatistics
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which day has the median temperature?
 
 </div>
@@ -2946,6 +3136,7 @@ tstatistics
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the range of the shoe sizes?
 
@@ -3159,6 +3350,7 @@ tstatistics
 <div class='question question'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 The table shows midday temperatures. What is the average midday temperature?
 
@@ -3410,6 +3602,7 @@ The pie chart below represents data collected in a survey of the summer holiday 
 Half of the children went to Europe or the USA.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4567,6 +4760,7 @@ tstatistics
 
 ![missing image](/papers/missing_image.svg)
 
+
 The pie chart represents the favourite takeaway foods of $180$ students. 
 
 </div>
@@ -4721,6 +4915,7 @@ How many of the $180$ students chose Pizza?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4818,7 +5013,8 @@ tstatistics
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The pie chart shows the flavour of ice cream preferred by the $120$ students taking school lunch.
 
@@ -5117,6 +5313,7 @@ tstatistics
 The bar chart shows the results os a survey on the amount of pocket money given to $24$ children.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5417,7 +5614,10 @@ TODOANSWER
 
 Look at these three numbers.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 Show that the **mean** of the three numbers is $\bold{\text{10}}$.
 
@@ -5465,7 +5665,11 @@ What could the four numbers be?
 
 Give an example.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7666,6 +7870,7 @@ Here are their results:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8146,9 +8351,11 @@ Her parents want to rent a car.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The cost to rent a car from *Rob's Rentals* is shown on the graph below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8179,6 +8386,7 @@ Use the graph to find the cost of renting a car from Rob's Rentals for $6$ days.
 Another company, *Autohire*, charges $\pounds 20$ for each day.    
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8369,6 +8577,7 @@ $18 \quad 20 \quad 15 \quad 12 \quad 20$
 
 ![missing image](/papers/missing_image.svg)
 
+
 For these $5$ scores, work out:
 
 </div>
@@ -8508,6 +8717,7 @@ ttemperature
 The table below shows the maximum temperatures in New York City last year.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -8703,6 +8913,7 @@ Calculate the mean price of a bottle of lemonade.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8843,7 +9054,9 @@ The table shows how many eggs her chickens laid on each weekday last week.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 The mean number of eggs laid from Monday to Friday last week was $6$.
 
@@ -8891,6 +9104,7 @@ Tom downloads $3$ music tracks.
 The length of each track is shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 track     length
 
@@ -9000,6 +9214,7 @@ tstatistics
 The price of each type of dark chocolate is shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9210,9 +9425,11 @@ Yoshi is making origami models.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The time taken to make each model is shown below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9500,6 +9717,7 @@ Jane has recorded the shoe size of every girl in her class.
 Her results are shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Jane says “The mode is $12$”.
 
@@ -10318,6 +10536,7 @@ The pictogram shows the amount of money $5$ churches gave to a local charity.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10822,6 +11041,7 @@ Here are three numbers.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Show that the **mean** of these three numbers is **7**
 
 </div>
@@ -10872,6 +11092,7 @@ Write them on the cards below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10914,6 +11135,7 @@ Write them on the cards below.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

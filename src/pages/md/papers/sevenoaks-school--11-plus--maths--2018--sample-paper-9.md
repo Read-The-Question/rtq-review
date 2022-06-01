@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -767,10 +767,7 @@ $2, 3, 11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tratio
 </li>
 </ul>
 </div>
@@ -1073,7 +1070,8 @@ $
 
 Using the simplification above,
 
-$\dfrac {6} {10} \quad \boxed{\green{<}}  \quad  \dfrac {3} {4}$
+$\dfrac {6} {10} \quad \boxed{\green
+{<}}  \quad  \dfrac {3} {4}$
 
 </div>
 </div>
@@ -1121,7 +1119,8 @@ $
 
 Using the simplification above,
 
-$\dfrac {8} {7} \quad \boxed{\green{>}}  \quad  \dfrac {11} {13}$
+$\dfrac {8} {7} \quad \boxed{\green
+{>}}  \quad  \dfrac {11} {13}$
 
 </div>
 </div>
@@ -1401,7 +1400,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -1537,6 +1537,7 @@ Calculate the perimeter of this rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1585,6 +1586,7 @@ tareaperimeter
 Calculate the area of this right-angled triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1706,6 +1708,7 @@ In how many ways can you join the two shapes shown below to make a figure with o
  
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1750,6 +1753,7 @@ tinfer
 The numbers $1$ to $12$ are to be placed such that the sum of the four numbers in each of the six rows in the diagram below is the same. Which letter will be replaced with the number $7$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

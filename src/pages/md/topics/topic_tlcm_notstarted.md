@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-notstarted"
 title: "Topic - Lcm - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -682,6 +682,66 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>42A023B5-3C67-4C83-9439-341ADE408EE2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four bells ring at intervals of $2, 8, 7$ and $11\ \text{seconds}$.
+
+If they are all rung at the same time, how many seconds will pass before they all ring at the same time again?
+
+You should show some justification for your answer. 
+
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>20A4B918-2E06-4B52-A48E-BA949CCDF0FE</p>
 </div>
 <div class='topics'>
@@ -1267,6 +1327,7 @@ A  factor   tree  can   be used  to write a  number   as the   product  of prime
 For   example
 
 ![missing image](/papers/missing_image.svg)
+
 
 So  **$90 = 2 \times 5 \times 3 \times 3$** 
 By drawing  a  factor   tree, or using any   other method   you   know, write **36** as the   product  of prime factors.

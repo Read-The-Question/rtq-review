@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvenn-g0"
 title: "Topic - Venn - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1766,7 +1766,8 @@ tdraw
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1901,6 +1902,7 @@ In this addition sum, A and B stand for digits.
  
 ![missing image](/papers/missing_image.svg)
 
+
 Find the values of A and B. 
 
 </div>
@@ -1961,7 +1963,9 @@ The scales show how much water is stored in tanks A and B
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2348,7 +2352,8 @@ tsequence
 
 Here is a sequence of patterns.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2599,6 +2604,7 @@ What are the missing numbers?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2708,7 +2714,8 @@ tsymmetry
 
 Shade the smallest number of squares so that the two dotted lines become lines of symmetry (mirror lines) of the completed diagram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2766,7 +2773,8 @@ tsymmetry
 
 Reflect the shape in the dotted line.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2822,6 +2830,7 @@ tnumber
 In this fence the posts are all the same width as each other. The gaps are all the same width as each other, too.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How wide is each gap? 
 
@@ -3177,9 +3186,11 @@ Here is a balanced mobile
 
 ![missing image](/papers/missing_image.svg)
 
+
 Put numbers in the circles to make this one balance.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3411,15 +3422,19 @@ tinfer
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg) 
+
+![missing image](/papers/missing_image.svg)
+ 
 
 Find
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3533,7 +3548,8 @@ tvenn
 The diagram below is a Venn Diagram. Amy needs to write some 
 numbers inside the circles. Any number written inside one circle is a factor of 12 and any number inside the other circle is a factor of 16. Two numbers have already been written in for you. Help Amy to complete the diagram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3626,6 +3642,7 @@ TODOANSWER
 What is the only other possible order?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

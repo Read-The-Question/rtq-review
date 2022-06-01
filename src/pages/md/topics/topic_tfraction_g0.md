@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g0"
 title: "Topic - Fraction - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1887,6 +1887,7 @@ tfraction
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of the shape is shaded?
 
 </div>
@@ -3451,6 +3452,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3480,6 +3482,7 @@ $\dfrac {5} {16}$
 How much of this square is shaded? Write your answer as a **decimal**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3815,6 +3818,7 @@ tfraction
 In a magazine there are three adverts on the same page.
 
 ![missing image](/papers/missing_image.svg)
+
 
 **In total**, what **fraction** of the page do three adverts use?
 
@@ -4428,6 +4432,7 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4532,6 +4537,7 @@ tfraction
 What fraction of this flag has been shaded? Give the fraction as simply as possible.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4753,6 +4759,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What fraction of this flag is shaded?How many more rectangles need to be shaded to fill $\dfrac{2}{3}$ of the flag?
 
@@ -5031,6 +5038,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7763,7 +7771,8 @@ tfraction
 
 What fraction of this shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7808,6 +7817,7 @@ What is
 **$\dfrac {1} {3}$  of $\dfrac {1} {4}$ of $\dfrac {1} {5}$ of 360 ?**
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8060,6 +8070,7 @@ Write down the fraction shaded. Where possible give the fraction in its simplest
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8089,6 +8100,7 @@ $\dfrac{3}{4}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8343,6 +8355,7 @@ tfraction
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
 
@@ -8843,8 +8856,10 @@ Write your answer as a mixed number.
 
 *(You may use the diagrams to help you.)*
   
-![missing image](/papers/missing_image.svg)  
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+  
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -9074,6 +9089,7 @@ What fraction of the parallelogram below is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9224,7 +9240,8 @@ tnoexplanation
 
 What fraction of the shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>

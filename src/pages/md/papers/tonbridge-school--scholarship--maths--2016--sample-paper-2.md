@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -201,6 +201,7 @@ The figure below shows a big equilateral triangle of side-length $12\, cm$ made 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -255,6 +256,7 @@ todo
 The figure shows a regular hexagon of side-length $6\, cm$ with centre *O* coinciding with the centre of the circle. The radius of the circle is $14\, cm$. The sides of the hexagon are extended to form six regions identical to the shaded region.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -596,6 +598,7 @@ In the diagram below, *ABCD* are four successive sides of a regular polygon with
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -765,6 +768,7 @@ todo
 In the figure, the length y of the dog-leg path across the square of side-length $2$ from A to B is given by the formula $y=\sqrt{1+x^2}+\sqrt{5-4x+x^2}$ where x is the distance shown. (For some values of $𝑥$ the path will go outside the square.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

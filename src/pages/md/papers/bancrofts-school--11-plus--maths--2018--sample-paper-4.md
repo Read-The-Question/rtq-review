@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -22,10 +22,7 @@ date: 2022-06-01 14:18:26
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -351,10 +348,7 @@ $6084$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -454,10 +448,7 @@ $34306$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -507,10 +498,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -685,10 +673,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -817,10 +802,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgeometry
 </li>
 </ul>
 </div>
@@ -870,10 +852,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tangle
 </li>
 </ul>
 </div>
@@ -925,10 +904,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tfraction
 </li>
 </ul>
 </div>
@@ -1134,10 +1110,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1221,6 +1194,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 In the diagram, the small squares are all the same size.
 
 What fraction of the large square is shaded?
@@ -1270,10 +1244,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tmoney
 </li>
 </ul>
 </div>
@@ -1449,10 +1420,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsequence
 </li>
 </ul>
 </div>
@@ -1579,10 +1547,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsequence
 </li>
 </ul>
 </div>
@@ -1635,10 +1600,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsequence
 </li>
 </ul>
 </div>
@@ -1769,10 +1731,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsequence
 </li>
 </ul>
 </div>
@@ -1827,10 +1786,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+ttime
 </li>
 </ul>
 </div>
@@ -2041,10 +1997,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -2096,10 +2049,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -2153,10 +2103,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tdirection
 </li>
 </ul>
 </div>
@@ -2208,10 +2155,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tmoney
 </li>
 </ul>
 </div>
@@ -2385,10 +2329,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tvolume
 </li>
 </ul>
 </div>
@@ -2517,10 +2458,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -2532,9 +2470,11 @@ When piece $A$ is turned over, which one of the shapes below shows its **black**
 
 ![missing image](/papers/missing_image.svg)
 
+
 Put a ring around the correct answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2578,10 +2518,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgraph
 </li>
 </ul>
 </div>
@@ -2592,6 +2529,7 @@ Maria and Kay ran a $1500 \ \text{metres}$ race.
 The graph shows information about the race.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2750,10 +2688,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgeometry
 </li>
 </ul>
 </div>
@@ -2764,6 +2699,7 @@ The diagram shows the coordinates of three points $A, B$ and $C$.
 Shape $ABCD$ is a kite.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What are the coordinated of point $D$?
 
@@ -2809,10 +2745,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -2870,10 +2803,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tratio
 </li>
 </ul>
 </div>
@@ -2925,10 +2855,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -2941,6 +2868,7 @@ Three attempts have been made and are shown below, with the number of discs that
 What is the correct order for the three coloured discs?
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2984,10 +2912,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -3152,10 +3077,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnet
 </li>
 </ul>
 </div>
@@ -3166,6 +3088,7 @@ The diagram shows a pentagonal prism.
 Write the letter of the one shape below that is a net for the pentagonal prism.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3213,10 +3136,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3273,10 +3193,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tnumber
 </li>
 </ul>
 </div>
@@ -3449,10 +3366,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3634,10 +3548,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -3806,10 +3717,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tinfer
 </li>
 </ul>
 </div>
@@ -3868,10 +3776,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tgeometry
 </li>
 </ul>
 </div>
@@ -4032,6 +3937,7 @@ How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4077,10 +3983,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+talgebra
 </li>
 </ul>
 </div>
@@ -4093,7 +3996,9 @@ letters stands for in these two calculations.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

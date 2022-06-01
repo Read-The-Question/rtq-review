@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -927,6 +927,7 @@ How much is triangle worth?
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  Can't tell
 -  $1$
 -  $2$
@@ -997,8 +998,11 @@ tnumber
 Here is a pattern made from grey and white tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 A shape in the pattern has $28$ grey tiles.
 
@@ -1069,6 +1073,7 @@ tsimpleword
 This shape is made up of $3$ identical rectangles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of the shape?
 
@@ -1141,12 +1146,17 @@ three identical copies of one of the smaller
 shapes below, without gaps or overlaps.
 ![missing image](/papers/missing_image.svg)
 
+
 Which smaller shape was used?
 
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 -  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1200,6 +1210,7 @@ If triangle $A$ is reflected in the
 mirror line, what would the new
 co-ordinate of the dot be?
 ![missing image](/papers/missing_image.svg)
+
 
 -  $(6,6)$
 -  $(7,6)$
@@ -1260,6 +1271,7 @@ tnumber
 Here are $2$ number machines:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Both machines have the same input.
 Work out the input if both machines also have the same output.

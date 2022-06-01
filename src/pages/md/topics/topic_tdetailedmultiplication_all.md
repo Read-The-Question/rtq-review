@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-all"
 title: "Topic - Detailedmultiplication - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2786,6 +2786,7 @@ The two-digit by two-digit multiplication below has lots of gaps, but most of th
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5539,6 +5540,7 @@ tdetailedmultiplication
 Fill in the missing digits in this multiplication:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

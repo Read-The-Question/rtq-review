@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-g0"
 title: "Topic - Decimal - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -474,6 +474,7 @@ Add $16.03$ and $9.48$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   1   &   6 \ .   &   0   &   3 \\
@@ -590,6 +591,7 @@ Find the difference between $8.38$ and $6.94$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   8 \ .   &   3   &   8 \\
@@ -644,6 +646,7 @@ $4.679 + 2.15 = {?}$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -971,6 +974,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1000,6 +1004,7 @@ $\dfrac {5} {16}$
 How much of this square is shaded? Write your answer as a **decimal**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1674,7 +1679,8 @@ Calculate
 
 **$28.3 - 1.64 + 0.57$** 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1839,6 +1845,7 @@ $0.04 \quad 0.6 \quad 0.16$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &   0 \ .   &   0   &   4 \\
@@ -1893,6 +1900,7 @@ $0.7 \quad 0.04 \quad 1.006$
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2060,6 +2068,7 @@ Add together $6.37, 10.04$ and $203$.
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
     &       &      &    6 \ .  &    3  &    7 \\
@@ -2112,6 +2121,7 @@ Work out $3.19 - 1.72$.
 <div class='working'>
 
 Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

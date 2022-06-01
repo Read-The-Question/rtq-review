@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-notstarted"
 title: "Topic - Profit - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -873,6 +873,7 @@ including a rover theme park ticket for everyone, would be:
 $2 \times 1320 + 780 + 2 \times 320 + 240 = \pounds 4300$
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

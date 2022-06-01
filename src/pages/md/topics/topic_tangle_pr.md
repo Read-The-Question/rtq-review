@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-pr"
 title: "Topic - Angle - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,6 +22,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Estimate the size of angle $r$.
 
@@ -79,9 +80,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -248,6 +252,7 @@ Find the sizes of angles $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -326,6 +331,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 
@@ -412,6 +418,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -451,6 +458,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -494,6 +502,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -580,6 +589,7 @@ Calculate the size of the missing angles
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -618,6 +628,7 @@ $84 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -660,6 +671,7 @@ $118 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -700,6 +712,7 @@ $57 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -738,6 +751,7 @@ $79 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -852,7 +866,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -990,6 +1005,7 @@ talgebra
 In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1130,6 +1146,7 @@ Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $126 \degree$
 - $46 \degree$
 - $316 \degree$
@@ -1193,6 +1210,7 @@ talgebra
 Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 All measurements on the diagram are in centimetres. 
 
@@ -1260,6 +1278,7 @@ Here is a triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of the angle marked $y$.
 
 </div>
@@ -1323,6 +1342,7 @@ For example,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned} 
 a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
@@ -1359,6 +1379,7 @@ $
 Find $a$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1401,6 +1422,7 @@ Find $b$
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1446,6 +1468,7 @@ $130 \degree$
 Find $c$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1518,6 +1541,7 @@ talgebra
 Calculate the missing angle in the triangle shown below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

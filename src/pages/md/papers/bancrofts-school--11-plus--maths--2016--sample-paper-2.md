@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -891,6 +891,7 @@ Write down the decimal number that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -930,6 +931,7 @@ TODOANSWER
 Write down (in simplest form) the fraction that the arrow is pointing to:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1006,6 +1008,7 @@ TODOANSWER
 The jug contains water up to the level shown in the diagram. How many millilitres (ml) of water are in the jug?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1750,6 +1753,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 %waffles%
 
 </div>
@@ -1789,6 +1793,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -1850,6 +1855,7 @@ Harry travels from $A$ to $B$ to $C$ at $100 \ \text{km/hr}$.
 Fahad travels directly from $A$ to $C$ at $60 \ \text{km/hr}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1984,6 +1990,7 @@ Here are four hexagons $(A, B, C, D)$ drawn on squared paper.
 Write down the number of lines of symmetry for each hexagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2171,6 +2178,7 @@ Only three of the nets shown below can be used to make a cube.
 Write the letters $(A, B, C, D, E)$ of the nets which do NOT make a cube.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2612,6 +2620,7 @@ The bar chart shows the numbers of patients (adults and children) seen by Dr Pat
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2817,6 +2826,7 @@ TODOANSWER
 Write down the coordinates of point $A$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3247,6 +3257,7 @@ with the sum of the numbers in the two rectangles just below it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What number should replace $x$?
 
 </div>
@@ -3309,6 +3320,7 @@ What is the area of the black region?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3364,9 +3376,11 @@ Erin builds the four $3$-D models $A, B, C$ and $D$ shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 She turns each model around into positions $1, 2, 3$ and $4$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 Match each model $A, B, C, D$ with its new position $1, 2, 3, 4$.
 
@@ -3431,6 +3445,7 @@ tsequence
 Here is a sequence of shapes made with grey and white tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4249,6 +4264,7 @@ measures $1 \ \text{cm}$ by $1 \ \text{cm}$ by $1 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the total surface area of the whole pyramid (including its base)?
 
 </div>
@@ -4385,6 +4401,7 @@ Each letter stands for a different number.
 The totals for each row and column are shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the value of each letter?
 

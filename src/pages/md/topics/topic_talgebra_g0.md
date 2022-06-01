@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g0"
 title: "Topic - Algebra - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,6 +70,7 @@ talgebra
 Calculate the missing angle in this isosceles triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -532,7 +533,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the value of the missing angle?
 
@@ -658,7 +660,8 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert the total amount into pence.
 
@@ -801,7 +804,9 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This triangle and rectangle have the same area. Find the height of the triangle.
 
@@ -811,7 +816,9 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the question,
 
@@ -896,7 +903,8 @@ $
 \begin{aligned}
 a + b  \quad        &\ldots \quad   b - a \\\\
 5 + 10  \quad       &\ldots \quad   10 - 5 \\\\
-15  \quad           &\boxed{\green{>}} \quad  5
+15  \quad           &\boxed{\green
+{>}} \quad  5
 \end{aligned}
 $
 
@@ -931,7 +939,8 @@ $
 c + b \div a  \quad         &\ldots \quad  2(a - c) \\\\
 2 + 10 \div 5  \quad        &\ldots \quad  2(5 - 2) \\\\
 2 + 2  \quad                &\ldots \quad  2 \times 3 \\\\
-4  \quad                    &\boxed{\green{<}} \quad 6
+4  \quad                    &\boxed{\green
+{<}} \quad 6
 \end{aligned}
 $
 
@@ -966,7 +975,8 @@ $
 2a^2 \quad              &\ldots \quad  ab \\\\
 2 \times 5^2 \quad      &\ldots \quad  5 \times 10 \\\\
 2 \times 25 \quad       &\ldots \quad  5 \times 10 \\\\
-50 \quad                &\boxed{\green{=}} \quad  50
+50 \quad                &\boxed{\green
+{=}} \quad  50
 \end{aligned}
 $
 
@@ -1012,11 +1022,13 @@ Work out the angle marked ?.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -1441,6 +1453,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3045,6 +3058,7 @@ Find the missing angles $a \degree$ and $b \degree$ :
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  $a = 48 \degree, \ b = 53 \degree$
 -  $a = 48 \degree, \ b = 63 \degree$
 -  $a = 58 \degree, \ b = 53 \degree$
@@ -3115,6 +3129,7 @@ Find the missing angles a ̊and b ̊:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - a = 48o, b = 53o
 %format% - a = 48o, b = 63o
 %format% - a = 58o, b = 53o
@@ -3183,7 +3198,8 @@ talgebra
 
 Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5196,6 +5212,7 @@ Arafin has four rectangular tiles which he arranges as shown below, leaving a sq
 
 ![missing image](/papers/missing_image.svg)
 
+
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
 </div>
@@ -5521,6 +5538,7 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5651,7 +5669,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5776,7 +5795,8 @@ talgebra
 
 The diagram shows a triangle and a line. The two angles marked $y\degree$ are equal.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6419,6 +6439,7 @@ talgebra
 In this diagram what is the value of $x$?
 ![missing image](/papers/missing_image.svg)
 
+
 - $36$
 - $64$
 - $100$
@@ -6487,6 +6508,7 @@ talgebra
 
 When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 ![missing image](/papers/missing_image.svg)
+
 
 - $12$
 - $12.5$
@@ -6761,9 +6783,11 @@ $1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$
 
 ![missing image](/papers/missing_image.svg)
 
+
 $2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of:
 
@@ -7243,6 +7267,7 @@ Naheeda uses $10$ matchsticks to make a row of $3$ squares.
 How many matchsticks would she need to make a row of $7$ squares?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8201,7 +8226,8 @@ Calculate the missing angles.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8240,7 +8266,8 @@ $91 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8842,7 +8869,8 @@ talgebra
 
 Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -11014,6 +11042,7 @@ Let the side of the square $=a$
 
 $\text{Perimeter} = 4 \times \text{side})$
 
+
 $
 \begin{aligned}
 20                 &= 4 \times \text {a} \\\\
@@ -11051,6 +11080,7 @@ Calculate the $\text{AREA}$ of the square.
 <div class='working'>
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 $
 \begin{aligned}
@@ -11912,6 +11942,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Not drawn accurately
 
 </div>
@@ -11948,6 +11979,7 @@ What is the **side length** of this square?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 As per the diagram,
 
 $
@@ -11958,6 +11990,7 @@ $
 $
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 Let the side of square $= s$
 
@@ -12000,6 +12033,7 @@ What is the **side length** of this square?
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 As per the diagram,
 
@@ -12240,7 +12274,9 @@ Find the missing angles (diagrams not to scale):
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13367,6 +13403,7 @@ The diagram shows a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The length of the rectangle is $2n + 1$. 
 
 The width of the rectangle is $3n - 9$. 
@@ -13378,6 +13415,7 @@ Write down an expression for the perimeter of the rectangle. **Fully simplify yo
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 $
 \begin{aligned}
@@ -13624,6 +13662,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13933,6 +13972,7 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13981,6 +14021,7 @@ $47 \degree, \ 123 \degree$
 Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14461,6 +14502,7 @@ Mrs Jones prints books.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
 
 How many **pages** are in his book?
@@ -14471,7 +14513,8 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pounds in pence.
 
 As per the question,
 
@@ -19122,6 +19165,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19192,7 +19236,8 @@ Let the length of each side of the individual square (in m) $= a$
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
+\text{Area} &= \text{side} \times \text{side}
+ \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
 a                                               &= 2 \text{m}
@@ -19462,6 +19507,7 @@ The diagram shows an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19589,6 +19635,7 @@ talgebra
 Find the value of $𝑥$ in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -19827,6 +19874,7 @@ The diagram shows a regular pentagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -19957,6 +20005,7 @@ Find the value of $𝑥$ in the quadrilateral shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20078,6 +20127,7 @@ talgebra
 Calculate the value of 𝑥 in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20649,6 +20699,7 @@ talgebra
 Look at the triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the value of $a$ and $b$.
 
@@ -21470,6 +21521,7 @@ Find the size of the angles marked with the letters $a$ and $b$ .
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21755,6 +21807,7 @@ Calculate the value of $x$ in each of the diagrams below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21794,6 +21847,7 @@ $30 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -23188,7 +23242,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
 
@@ -23308,7 +23363,8 @@ talgebra
 
 The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -23555,6 +23611,7 @@ Find Gemma's number, showing your working clearly.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23615,7 +23672,8 @@ John buys some horses from Paul and then 3 more horses than paul.
 
 How many did John buy?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -23826,6 +23884,7 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -23877,6 +23936,7 @@ The   angles   round a  point add   up to **$360^\degree$**
 In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -24056,7 +24116,8 @@ talgebra
 
 Look at these angles:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -24234,7 +24295,8 @@ Calculate the angles marked with letters on the following diagrams.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -24268,7 +24330,8 @@ $45 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -24303,7 +24366,8 @@ $96 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -24624,6 +24688,7 @@ Find the missing angle, $x$:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -24677,7 +24742,8 @@ talgebra
 
 Find the size of angle $x$:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -24935,6 +25001,7 @@ talgebra
 Calculate the angle marked with the letter $x$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $70 \degree$
 - $85 \degree$
@@ -25591,6 +25658,7 @@ Farmer Jack and Farmer Giles each have a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Farmer Jack’s field has an area of $24 \ \text{m}^2$.
 
 Its length is $8 \ \text{m}$. 
@@ -25701,6 +25769,7 @@ The width of Farmer Giles’ field is $4 \ \text{m}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the length of Farmer Giles’ field.
 
 </div>
@@ -25777,6 +25846,7 @@ $24 \ \text {m} ^ 2$
 Farmer Josephine also has a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 
@@ -26141,6 +26211,7 @@ talgebra
 This shape is made from $9$ identical squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The area of the shape is $144 \ \text{cm}^2$
 
@@ -26515,6 +26586,7 @@ What is the area of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26750,6 +26822,7 @@ Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26819,6 +26892,7 @@ area of $58$ square centimetres. How long are the sides of the square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26878,6 +26952,7 @@ cost of each triangle.
 What is the cost of a heart?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27077,6 +27152,7 @@ He buys as many pineapples as he can with his $\pounds 10$ note.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -27253,6 +27329,7 @@ talgebra
 When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27491,7 +27568,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 
@@ -27671,7 +27749,8 @@ What was the price of the **cheaper** book?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\pounds$.
 
 Let the cost of one book $= a$.
 
@@ -27853,7 +27932,9 @@ The prices for coffee beans and ground coffee are shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
 
@@ -27967,6 +28048,7 @@ What was the original mass of the chocolate bar?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -28032,6 +28114,7 @@ He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much is each monthly amount?
 
 </div>
@@ -28087,7 +28170,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28861,7 +28946,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -29154,7 +29240,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -29599,7 +29686,8 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
 
@@ -29667,6 +29755,7 @@ What is its length if the volume of a cuboid is given by length x width x height
 Let the length of the second cuboid (in $\text{cm}$) $= l$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
 
 As per the question, the two weights have the same volume. Using that we get,
 
@@ -29809,7 +29898,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 
@@ -30885,6 +30975,7 @@ In the following diagram the two shaded rectangles have equal areas. What is the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -31848,6 +31939,7 @@ In the picture below is the net of a cube. What would be the total surface area 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -31920,7 +32012,8 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
 
@@ -32059,6 +32152,7 @@ This box will have a height of $10 \ \text{cm}$ and a square base. What will be 
 Let the length of the base (in $\text{cm}$) $= a$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
 
 As per the question, the two boxes have the same volume. Using that we get,
 
@@ -32281,6 +32375,7 @@ Calculate each of the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32374,7 +32469,8 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green{39}} - 18 = 43$
+$93 - \underline{\green
+{39}} - 18 = 43$
 
 </div>
 </div>
@@ -32575,6 +32671,7 @@ What is the size of the angle marked $χ$ in the diagram below? [diagram not dra
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -32718,10 +32815,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}} \\
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}} \\
 1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
 \end{matrix}
 $
@@ -33016,6 +33117,7 @@ talgebra
 $\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
 
 ![missing image](/papers/missing_image.svg)
+
 
 how many are white chocolate?   
 
@@ -33361,6 +33463,7 @@ Calculate the value of angle $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -33418,6 +33521,7 @@ talgebra
 The rectangle and triangle below have the same height.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
 
@@ -33720,6 +33824,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -33776,6 +33881,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g0"
 title: "Topic - Time - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ Hasan wakes up at the time shown below.
 He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does he have until his training starts?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -312,7 +313,8 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. The time is calculated in minutes, but the final speed has to be in miles per hour.
+It is really important to use the right units in calculations and convert where required
+. The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
 \begin {aligned}
@@ -801,6 +803,7 @@ Petrov wants to "listen again" to several shows on the radio and is checking the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1000,6 +1003,7 @@ ttime
 **For question $\bold{25}$ and $\bold{26}$ use the information provided in this box.**
 
 ![missing table](/papers/missing_table.svg)
+
 
 For how many hours is it open each week?
 
@@ -2471,6 +2475,7 @@ tnoexplanation
 **For Questions** $\bold{12-15}$, **use the clock below**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One **afternoon**, Eadie looks at the clock.
 Write the time in $12 \ \text{hour}$ clock
@@ -4423,6 +4428,7 @@ For breakfast I eat a slice of buttered toast and a cup of coffee. The time take
 
 ![missing table](/papers/missing_table.svg)
 
+
 Brown toast in toaster $3 \ \text{minutes}$ 
 Butter the toast $1 \ \text{minute}$ 
 Make coffee in machine $2 \ \text{minutes}$
@@ -4849,6 +4855,7 @@ The numbers are displayed as shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the time when the glow from the clock is least?    
 
 What is the time when the glow from the clock is greatest?
@@ -4944,6 +4951,7 @@ ttime
 The timetable below shows information about the overnight train from London to Scotland.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How long does the train take
 
@@ -5049,6 +5057,7 @@ In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5095,6 +5104,7 @@ Belinda has a digital alarm clock.
 The numbers on the clock are displayed as:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Belinda's digital clock shows the time $01{:}10$
 
@@ -5202,7 +5212,8 @@ The time in New York is $5 \ \text{hours}$ behind the time in London.
 
 The time in Addis Ababa is $2 \ \text{hours}$ ahead of the time in London.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5385,6 +5396,7 @@ Write the time her clock actually shows, using the $12$-hour clock.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5451,6 +5463,7 @@ $19{:}15$
 Three friends started a sponsored silence at exactly $15{:}00$ and, one by one, burst out in giggles at the times shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -5629,6 +5642,7 @@ What is the actual time on the clock?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5723,6 +5737,7 @@ Which bus takes the shortest time from Elgin to Inverness and by how many minute
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5779,6 +5794,7 @@ ttime
 Amira checks the time when she sets off on her journey to school in the morning.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

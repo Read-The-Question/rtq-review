@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1282,6 +1282,7 @@ tsimpleword
 The diagram shows the plan of a garden with the lengths marked in metres.$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1590,6 +1591,7 @@ Complete the diagram so that it has reflective symmetry in the dotted lines.
 
 ![missing image](/papers/missing_image.svg)
 
+
 line of symmetry
 
 </div>
@@ -1649,6 +1651,7 @@ Calculate the value of angle $x$.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1783,6 +1786,7 @@ Name the quadrilateral $PQRS$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1837,6 +1841,7 @@ tgraph
 The diagram below shows the number of computers that members of a class had in their homes. For example, $10$ children had one computer at home
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2007,6 +2012,7 @@ tinfer
 Here are two spinners, A and B. Each one is a regular octågon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 For each statement say whether it is true or false.
 

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-g0"
 title: "Topic - Permutation - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -442,9 +442,12 @@ Two crosses can be put in three squares in three different ways, as follows.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 In how many different ways can you put three crosses in five squares?
 

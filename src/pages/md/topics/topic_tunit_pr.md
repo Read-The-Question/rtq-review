@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-pr"
 title: "Topic - Unit - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -370,7 +370,8 @@ Give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 NO of sheets per ream = $500$
 
@@ -412,7 +413,8 @@ Give your answer in kilograms
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -477,6 +479,7 @@ Convert $5300 \ \text{grams}$ to kilograms.
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text{One gram} &= \dfrac{1}{1000} \\\\
@@ -539,6 +542,7 @@ Convert $340 \ \text{millimetres}$ to metres.
 <div class='working'>
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}

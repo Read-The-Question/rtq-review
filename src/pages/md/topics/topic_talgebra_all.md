@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,6 +70,7 @@ talgebra
 Calculate the missing angle in this isosceles triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -348,6 +349,7 @@ Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Perimeter $= 36 \ \text{millimetres}$
 
 Find the value of $t$.
@@ -358,7 +360,8 @@ Find the value of $t$.
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
@@ -724,7 +727,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 What is the value of the missing angle?
 
@@ -784,11 +788,15 @@ The large can weighs $425 \ \text{grams}$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 Work out the weight of one small can.
 
@@ -798,7 +806,8 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total weight into $\text{grams}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total weight into $\text{grams}$.
 
 $
 \begin{aligned}
@@ -926,6 +935,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 Estimate the size of angle $r$.
 
 </div>
@@ -986,7 +996,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -1043,6 +1054,7 @@ You may use the grid to help you.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1078,7 +1090,8 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 4 \ \text{cm}$ 
 
@@ -1135,7 +1148,8 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\text{pence}$.
 
 As per the question,
 
@@ -1288,7 +1302,8 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert the total amount into pence.
 
@@ -1431,7 +1446,9 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This triangle and rectangle have the same area. Find the height of the triangle.
 
@@ -1441,7 +1458,9 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 
 $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the question,
 
@@ -1526,7 +1545,8 @@ $
 \begin{aligned}
 a + b  \quad        &\ldots \quad   b - a \\\\
 5 + 10  \quad       &\ldots \quad   10 - 5 \\\\
-15  \quad           &\boxed{\green{>}} \quad  5
+15  \quad           &\boxed{\green
+{>}} \quad  5
 \end{aligned}
 $
 
@@ -1561,7 +1581,8 @@ $
 c + b \div a  \quad         &\ldots \quad  2(a - c) \\\\
 2 + 10 \div 5  \quad        &\ldots \quad  2(5 - 2) \\\\
 2 + 2  \quad                &\ldots \quad  2 \times 3 \\\\
-4  \quad                    &\boxed{\green{<}} \quad 6
+4  \quad                    &\boxed{\green
+{<}} \quad 6
 \end{aligned}
 $
 
@@ -1596,7 +1617,8 @@ $
 2a^2 \quad              &\ldots \quad  ab \\\\
 2 \times 5^2 \quad      &\ldots \quad  5 \times 10 \\\\
 2 \times 25 \quad       &\ldots \quad  5 \times 10 \\\\
-50 \quad                &\boxed{\green{=}} \quad  50
+50 \quad                &\boxed{\green
+{=}} \quad  50
 \end{aligned}
 $
 
@@ -1642,11 +1664,13 @@ Work out the angle marked ?.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
 
@@ -1938,6 +1962,7 @@ How many posts will he need?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1945,6 +1970,7 @@ How many posts will he need?
 Let's the side of the square garden (in $\text{m}$) $= s$
 
 $\text{Area of square} = \text{side} \times \text{side}$
+
 
 As per the question,
 
@@ -2149,6 +2175,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2551,6 +2578,7 @@ Write an expression for the lengths of one of its sides.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2649,9 +2677,12 @@ Calculate the missing angles $p, q$ and $r$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3094,6 +3125,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 
 $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
+
 Let the height of the second triangle $= a$.
 
 As per the question,
@@ -3151,6 +3183,7 @@ She uses four of the boxes to make a pile with a height of $72 \ \text{cm}$.
 She puts one more box on top of the pile.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the height of the pile of **five** boxes.
 
@@ -3366,9 +3399,11 @@ The diagram shows a square with a **perimeter** of $12 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Six of these squares fit together to make a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the **area** of the rectanlge?
 
@@ -3466,6 +3501,7 @@ The **perimeter** of a regular hexagon is $42a + 18$.
 Write an expression for the length of **one** of its sides.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3609,6 +3645,7 @@ $ABD$ is an **isosceles** triangle where $AB = AD$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles $x, y$ and $z$.
 
 Give reasons for your answers.
@@ -3701,6 +3738,7 @@ Bags $A$ and $B$ contain some counters.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Bag A: $6y + 1$ counters
 
 Bage B: $4y + 7$ counters
@@ -3748,6 +3786,7 @@ TODOANSWER
 Bag $C$ contains more counters than bag $D$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Bag C: $4k$ counters
 
@@ -4963,6 +5002,7 @@ Find the value of one club.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5241,6 +5281,7 @@ On Planet Cash, money is measured in Tinkles and Clinks. Here is an addition sum
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -5319,6 +5360,7 @@ Work out the answer to this subtraction.
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -5360,6 +5402,7 @@ TODOANSWER
 Work out the answer to this division.
 
 ![missing table](/papers/missing_table.svg)
+
 
 %waffles%
 
@@ -6041,6 +6084,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 %waffles%
 
 </div>
@@ -6080,6 +6124,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 %waffles%
 
@@ -6706,6 +6751,7 @@ The totals for each row and column are shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the value of each letter?
 
 </div>
@@ -7187,6 +7233,7 @@ The area of the cross is $245 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7362,6 +7409,7 @@ What is the width of the path?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7505,6 +7553,596 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>83454B20-311E-430C-9641-E9F905AD3D6D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I thought of a number, halved it and then subtracted $9$.
+
+I got an answer of $12$.
+
+What was my original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Fawzan went shopping with $\pounds 100$ in his wallet.
+
+He spent $10 \%$ of his money on a book and $20 \%$ of the rest on a DVD. How much money did he then have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Abdul is making some small snacks for a party.
+
+He cuts $1.2 \ \text{kg}$ of cheese into a number of $30 \ \text{g}$ pieces.
+
+How many pieces does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C942A2E9-4BD9-454B-B6DC-E415C263EBE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The sum of three consecutive whole numbers is $60$.
+
+What is the largest of the three numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the smallest positive whole number that divides exactly by $1, 2, 3, 4$ and $5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C507590F-A02C-4460-82D7-E935ED9CB61C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+
+Given that $\spadesuit + \spadesuit = \spadesuit$
+
+and $\spadesuit + \spadesuit = \spadesuit$
+
+and $\spadesuit + \spadesuit + \spadesuit = \spadesuit$
+
+how many $\spadesuit$ are equal to $\spadesuit$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8D1CDA41-DB74-4547-8CE7-8DDF61396BB3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The symbol $*$ is used like this: 
+
+$a * b = 5 \text{ times } a, \text{ plus } b$.
+
+For example, $2 * 7 = (5 \times 2) + 7 = 17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $9 * 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What number does $m$ stand for, if $m * 6 = 41$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $n * 4 = 8 * n$, what number does $n$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2CB214EC-9120-43EE-B697-6647A243DF59</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that none of $A, B$ or $C$ is zero, work out what number each of the 
+letters stands for in these two calculations.
+
+%waffles%
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -8077,6 +8715,7 @@ TODOANSWER
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8114,6 +8753,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -8173,7 +8813,9 @@ talgebra
 Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are **NOT DRAWN TO SCALE** :
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -8244,6 +8886,7 @@ Maisie makes $30$ small boxes of mixed sweets to sell at the school summer fair.
 Each box has $1$ Pineapple Jelly, $2$ Lemon Sours and $3$ Raspberry Creams.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8605,7 +9248,9 @@ talgebra
 Find the size, in degrees, of the angles labelled $a$ to $f$ in the diagrams below, which are NOT DRAWN TO SCALE:
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 
 
@@ -8743,6 +9388,7 @@ The shaded **rectangle** has area $12 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8780,6 +9426,7 @@ TODOANSWER
 On this grid draw a different a **different rectangle** with area $12 \ \text{cm}^2$ (rotations are not allowed).
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8928,6 +9575,7 @@ talgebra
 Find the sizes of angles $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9532,6 +10180,7 @@ If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9810,6 +10459,7 @@ talgebra
 (The drawing is NOT to scale)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10119,6 +10769,7 @@ Find the missing angles $a \degree$ and $b \degree$ :
 
 ![missing image](/papers/missing_image.svg)
 
+
 -  $a = 48 \degree, \ b = 53 \degree$
 -  $a = 48 \degree, \ b = 63 \degree$
 -  $a = 58 \degree, \ b = 53 \degree$
@@ -10189,6 +10840,7 @@ Find the missing angles a ̊and b ̊:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - a = 48o, b = 53o
 %format% - a = 48o, b = 63o
 %format% - a = 58o, b = 53o
@@ -10257,7 +10909,8 @@ talgebra
 
 What is the size of the angle labelled $x$ in the diagram? The diagram is not drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10312,7 +10965,9 @@ talgebra
 
 The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -10396,7 +11051,8 @@ talgebra
 
 Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -10430,6 +11086,343 @@ $62 \degree$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D4D1D51C-1F06-43FF-950D-550A86742B3A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$1001 = 𝑎 \times 𝑏 \times 𝑐$, where $a, b$ and $c$ are prime numbers, with $c$ is bigger than $b$, and $b$ bigger than $a$.
+
+Find $a, b$ and $c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5272D153-9948-46E3-A26A-2E8549382984</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The symbol ⟴ has a special meaning in arithmetic. 
+
+$𝑎 ⟴ 𝑏$ means add $𝑎$ and $𝑏$ and then multiply by $𝑎$. 
+
+For example: 
+
+$4 ⟴ 2 = 4 \times (4 + 2)$ 
+
+$=4 \times 6$
+
+$= 24$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $4 ⟴ 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $4 ⟴ (3 ⟴ 2)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $𝑝$ such that $6 ⟴ 𝑝 = 78$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>589E6129-9398-4853-822E-7AA88B51F815</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Max has more than $4$ apples but fewer than $7$ apples. Alex has more than $5$ apples and fewer than $\text{eight}$ apples.
+
+How many apples do Max and Alex have *altogether*? Circle all the possible values
+
+$4\:\:\:  5\:\:\:  6\:\:\:  7\:\:\:  8\:\:\:  9\:\:\:  10\:\:\:  11\:\:\:  12\:\:\:  13\:\:\:  14\:\:\:  15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9DAE794C-CF08-4F74-8EFC-2D71F9F2C7E9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+B + A + T = $17$ 
+
+C + A + T = $25$
+
+C + O + A + T = $29$
+
+What is the value of B + O + A + T?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -10495,6 +11488,496 @@ $55 \text{ cm}^2$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>525C894A-5EBF-4ED1-9A7A-B508E1FF1203</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On Planet Pythagoras, the people use a different money system to us.
+
+$\text{One pog}$ is worth $\text{four pings}$ 
+
+$\text{Three pings}$ are worth $\text{five paz}$
+
+Convert the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{3 pog =}$ _____ $\text{pings}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{40 paz}$ = ____________ $\text{pog}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+3 paz = ____________ pog
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EFDF0856-14CF-4CCE-B6CE-B34BCE47E81B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amy, Bella and Cara have $\text{twenty}$ sweets altogether.
+
+Amy says she has $\text{ten}$ of the sweets.
+
+Bella says that Cara has $\text{one}$ more sweet than Amy. 
+
+Cara says that she has the most sweets.
+
+Exactly one of them is lying.
+
+Who is lying? Explain briefly how you know.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9356CB69-3101-48BB-9772-81A96EA7C99B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The numbers in the following shapes must follow the rule:
+
+To find the number in the circle, multiply the number in the triangle by $3$, multiply the number in the square by $4$ and find the difference
+
+Example: 
+
+![missing image](/papers/missing_image.svg)
+
+
+Work out the missing values:
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D2AF72C3-8723-4256-9C01-0B551C174BFC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A theme park wants to make more money. The director thinks that if she **reduces the ticket price** by **one-third, the number of people** who come to the theme park will **double**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In 2016, the park made $\pounds 360$ from ticket sales. Tickets were $\pounds 4.50$.
+
+How much money does the director think the theme park will make in $2017$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In fact, the theme park makes $\pounds 390$. How many more people went to the theme park in 2017 compared to 2016?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>941578DA-B1BD-4419-B34C-A1C6ACD2F4E8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an example of a function machine:
+
+![missing image](/papers/missing_image.svg)
+
+
+Rule: $\underline{Multiply\: by\: three,\: then\: subtract\: 2}$.
+
+Fill in the gaps in this new function machine:
+
+![missing image](/papers/missing_image.svg)
+
+
+Rule: .................................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -10694,6 +12177,7 @@ talgebra
 Look at the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of angle $k$.
 
@@ -11781,6 +13265,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -12169,6 +13654,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
 </div>
@@ -12556,6 +14042,7 @@ A square has the same area as the rectangle below. What is the length of its sid
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12771,6 +14258,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ABCDEF is a regular hexagon. What is the size of angle $x$?
 
@@ -13098,6 +14586,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the sum of the angles in the shape above?
 
 </div>
@@ -13388,6 +14877,7 @@ tunitprompt
 Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The hole in the middle has an area of $400 \ \text{cm}^2$
 
@@ -13714,6 +15204,7 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13844,7 +15335,8 @@ tnumber
 
 A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -14504,6 +15996,7 @@ Work out the value of $x$ from the diagram below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -14927,9 +16420,12 @@ Along any line drawn, the numbers in the two circles at the end of a line should
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -14984,7 +16480,8 @@ talgebra
 
 The perimeter of the rectangle below is $18 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -15060,7 +16557,8 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -15093,7 +16591,9 @@ A square with sides of length $3 \ \text{cm}$ is divided into three identically 
 These are then arranged as shown. What is the perimeter of the new shape?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -15149,7 +16649,8 @@ talgebra
 
 The diagram shows a triangle and a line. The two angles marked $y\degree$ are equal.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -15272,7 +16773,8 @@ tareaperimeter
 
 The perimeter of this shape is $40 \ \text{units}$. The sides labelled $x$ are all the same length. Find the length of one of these sides.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -15900,6 +17402,7 @@ talgebra
 In this diagram what is the value of $x$?
 ![missing image](/papers/missing_image.svg)
 
+
 - $36$
 - $64$
 - $100$
@@ -15968,6 +17471,7 @@ talgebra
 
 When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 ![missing image](/papers/missing_image.svg)
+
 
 - $12$
 - $12.5$
@@ -16344,9 +17848,11 @@ $1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$
 
 ![missing image](/papers/missing_image.svg)
 
+
 $2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of:
 
@@ -16944,6 +18450,7 @@ Naheeda uses $10$ matchsticks to make a row of $3$ squares.
 How many matchsticks would she need to make a row of $7$ squares?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -17755,7 +19262,9 @@ Shape $A$ and shape $B$ are each made from five identical squares. The **perimet
 $72 \ \text{cm}$. Work out the perimeter of shape $B$. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 - $30 \ \text{cm}$
 - $60 \ \text{cm}$
@@ -18309,7 +19818,8 @@ Calculate the missing angles.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -18348,7 +19858,8 @@ $91 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -19543,6 +21054,7 @@ is shaded.
 
 ![missing image](/papers/missing_image.svg)
 
+
 With scissors, I cut off and remove a third of rectangle $B$. What fraction of the remaining shape is now shaded?
 
 </div>
@@ -20031,10 +21543,14 @@ joined to together.
 Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
 
 ![missing image](/papers/missing_image.svg)
+ 
+
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20445,6 +21961,7 @@ How big is angle $x$ in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20484,6 +22001,7 @@ TODOANSWER
 What is the value of $x$ in this diagram? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -20858,7 +22376,8 @@ talgebra
 
 Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -20953,6 +22472,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -20992,6 +22512,7 @@ $46 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21035,6 +22556,7 @@ $65 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -21418,7 +22940,8 @@ ttable
 
 One way to make a magic square is to substitute numbers into this algebra grid.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -21460,6 +22983,7 @@ $a = 10,  \quad b = 3,  \quad c = 5$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -21500,9 +23024,11 @@ Here is the algebra grid again.
 
 ![missing table](/papers/missing_table.svg)
 
+
 I use different values for $a, b$ and $c$ to complete the magic square.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What values for $a, b$ and $c$ did I use?
 
@@ -22346,6 +23872,7 @@ Calculate the size of the missing angles
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22384,6 +23911,7 @@ $84 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -22426,6 +23954,7 @@ $118 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22466,6 +23995,7 @@ $57 \degree$
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -22504,6 +24034,7 @@ $79 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 </div>
@@ -24570,6 +26101,7 @@ Let the side of the square $=a$
 
 $\text{Perimeter} = 4 \times \text{side})$
 
+
 $
 \begin{aligned}
 20                 &= 4 \times \text {a} \\\\
@@ -24607,6 +26139,7 @@ Calculate the $\text{AREA}$ of the square.
 <div class='working'>
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 $
 \begin{aligned}
@@ -25468,6 +27001,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Not drawn accurately
 
 </div>
@@ -25504,6 +27038,7 @@ What is the **side length** of this square?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 As per the diagram,
 
 $
@@ -25514,6 +27049,7 @@ $
 $
 
 $\text{Area} = \text{side} \times \text{side}$
+
 
 Let the side of square $= s$
 
@@ -25556,6 +27092,7 @@ What is the **side length** of this square?
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 As per the diagram,
 
@@ -25621,6 +27158,7 @@ tgraph
 The graph shows the straight line with equation $y = 3x - 4$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -25970,6 +27508,7 @@ buy a cup of coffee.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -26071,6 +27610,7 @@ ABCD is a **parallelogram**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the sizes of angles *h* and *j*. 
 
 Give reasons for your answers.
@@ -26130,7 +27670,9 @@ Find the missing angles (diagrams not to scale):
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26218,7 +27760,9 @@ talgebra
 James was given $\pounds 15$ to buy supplies for the university year. He chose to spend it on pens and pencils
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -26993,6 +28537,7 @@ Find the angles marked in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -27098,6 +28643,7 @@ talgebra
 The diagram below (not to scale) shows a cuboid.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -27933,7 +29479,9 @@ talgebra
 Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28151,6 +29699,7 @@ The diagram shows a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The length of the rectangle is $2n + 1$. 
 
 The width of the rectangle is $3n - 9$. 
@@ -28162,6 +29711,7 @@ Write down an expression for the perimeter of the rectangle. **Fully simplify yo
 <div class='working'>
 
 \text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
 
 $
 \begin{aligned}
@@ -28207,6 +29757,7 @@ talgebra
 Year $8$ were asked to choose their favourite colour. The pie chart below shows the results of this survey.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If $30$ pupils chose red: 
 
@@ -28539,6 +30090,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -28945,6 +30497,7 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -28993,6 +30546,7 @@ $47 \degree, \ 123 \degree$
 Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -29665,6 +31219,7 @@ Find in terms of $x$ the perimeter of the following triangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -29838,7 +31393,9 @@ $20 \ \text{minutes}$ per hour. How long will it be in hours before both clocks 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30000,6 +31557,7 @@ Mrs Jones prints books.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
 
 How many **pages** are in his book?
@@ -30010,7 +31568,8 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
-It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pounds in pence.
 
 As per the question,
 
@@ -30382,11 +31941,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -30492,7 +32053,9 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 As his hobby, Fred builds $3$-legged stools and $4$-legged tables. Last month he used $72$ legs and he built $3$ more stools than tables. How many stools and how many tables did he build ? 
 
@@ -35494,6 +37057,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -35564,7 +37128,8 @@ Let the length of each side of the individual square (in m) $= a$
 
 $
 \begin{aligned}
-\text{Area} &= \text{side} \times \text{side} \\\\
+\text{Area} &= \text{side} \times \text{side}
+ \\\\
 a \times a                                      &= 4 \text{m}^{2} \\\\
 a^{2}                                           &= 2^{2} \\\\
 a                                               &= 2 \text{m}
@@ -35834,6 +37399,7 @@ The diagram shows an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -35961,6 +37527,7 @@ talgebra
 Find the value of $𝑥$ in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -36199,6 +37766,7 @@ The diagram shows a regular pentagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -36328,6 +37896,7 @@ talgebra
 Find the value of $𝑥$ in the quadrilateral shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -36478,6 +38047,7 @@ value of $x$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -36573,6 +38143,7 @@ talgebra
 Calculate the value of 𝑥 in the triangle shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -37025,7 +38596,8 @@ Who pays the most and by how much ? Show all of your working clearly.
 
 
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -37081,7 +38653,8 @@ A group visited the theme park and were charged $\pounds105.00$. How many adults
 
 Show all of your working clearly. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -37135,7 +38708,9 @@ Mr Green is organising a school trip. In Year 5 there are $53$ pupils and in Yea
 
 Mr Green has two options:
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 Help Mr Green find the best deal. Show your workings & give your choice 
 
@@ -37199,6 +38774,7 @@ Lollipops are sold in packs of $8$ and cost $\pounds4$ per pack.
 Toys are sold in packs of $9$ and cost $\pounds10$ per pack.
 
 ![missing image](/papers/missing_image.svg)
+
 
 As a special new year offer, all prices are reduced by one quarter.
 
@@ -37503,6 +39079,7 @@ Six cubes each have a **surface area** of **$24\, cm^2$**. They are joined toget
 
 ![missing image](/papers/missing_image.svg)
 
+
 What could the **surface area** of this cuboid be? 
 
 There are two different answers. Write them both.
@@ -37561,6 +39138,7 @@ talgebra
 Look at the triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Work out the value of $a$ and $b$.
 
@@ -37648,9 +39226,11 @@ Here are the rules for an algebra grid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use these rules to complete the algebra grids below. Write your expressions as simply as possible.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -37967,6 +39547,7 @@ talgebra
 This design has one large square and two identical small squares.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Calculate the length of a side of the large square.
 
@@ -38922,9 +40503,11 @@ Which two shapes have the same area?
 
 ![missing image](/papers/missing_image.svg)
 
+
 This may be helpful:
 
 ![missing image](/papers/missing_image.svg)
+
 
 $\text{Area of a trapezium} = \dfrac {1} {2} (a + b) h$
 
@@ -38989,6 +40572,7 @@ the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
 As per the question, 
 
 It is really important to use the right units in calculations and convert where required.
+
 
 $
 \begin{aligned}
@@ -39060,6 +40644,7 @@ Calculate the total length marked with $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -39094,6 +40679,155 @@ $20 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C2271CA0-2CDF-403C-907E-FD4591945D01</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the sum below the letters $J, M$ and $C$ represent three different non-zero digits.
+
+What is the value of $J + M + C$?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+<div class='working'>
+
+
+JJ, MM, CC are all multiples of $11$
+
+If you add 3 2.digit numbers as in question then the highest number achieved is 
+
+$
+\begin{array}{cccccccccccccc}
+       &    & 9     & 9  \\
+       &    & 8     & 8  \\
+{}+    &    & 7     & 7 \\
+\hline
+       & 2  & 6     & 4
+\end{array}
+$
+
+So, the largest value of $J$ can be $2$ or smallest value $1$
+
+Now let's consider the Units places.
+
+$J + M + C = C$, i.e. $J+M$ must add to $10$, then only $J+M+C$ will result in $C$ at untis place. 
+
+Now refer to the Tens places, which has $1$ as carry over from sum of units places and $J + M = 10$ or $J + M$ will have $0$ in unit place.
+
+$
+\begin{aligned}
+1 + J + M + C &= M \\
+1 + 0 + C &= M \\
+1 + C = M
+\end{aligned}
+$
+
+To summarise the assumptions above: 
+
+$
+\begin{aligned}
+J = 1 \text {\ or,} \\
+J = 2 \\
+J + M & = 10 \\
+1 + C = M
+\end{aligned}
+$
+
+Now let's substitute our assumptions
+
+Assumption J = 1
+
+$
+\begin{aligned}
+J + M &= 10 \\
+1 + M &= 10 \\
+    M &= 10 - 1  \\
+      &= 9 \\
+C + 1 &= M\\
+C &= 9 -1 \\
+  &= 8
+\end{aligned}
+$
+
+If J is $1$, M is $9$ and C is $8$
+
+$
+\begin{array}{cccccccccccccc}
+       &    & 1     & 1  \\
+       &    & 9     & 9  \\
+{}+    &    & 8     & 8 \\
+\hline
+       & 1  & 9     & 8
+\end{array}
+$
+
+Assumption J = 2
+
+$
+\begin{aligned}
+J + M &= 10 \\
+2 + M &= 10 \\
+    M &= 10 - 2  \\
+      &= 8 \\
+C + 1 &= M\\
+    C &= 8 -1 \\
+      &= 7
+\end{aligned}
+$
+
+If J is $2$, M is $8$ and C is $7$
+
+$
+\begin{array}{cccccccccccccc}
+       &    & 2     & 2  \\
+       &    & 8     & 8  \\
+{}+    &    & 7     & 7 \\
+\hline
+       & 2  & 8     & 7
+\end{array}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -39290,6 +41024,7 @@ As per question,
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 10a + 50a         &= 900 \text{p} \\\\
@@ -39336,7 +41071,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -39521,6 +41257,7 @@ talgebra
 Find the size of the angles marked with the letters $a$ and $b$ .
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -39978,6 +41715,7 @@ Calculate the value of $x$ in each of the diagrams below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -40017,6 +41755,7 @@ $30 \degree$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -40125,7 +41864,8 @@ talgebra
 
 The picture shows a tipper truck.
 
-![missing image](/papers/missing_image.svg)`
+![missing image](/papers/missing_image.svg)
+`
 
 </div>
 <div class='workings'>
@@ -40328,6 +42068,7 @@ talgebra
 In the diagram below (not to scale), find the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -41017,6 +42758,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -41057,6 +42799,7 @@ Find the area of the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -41095,6 +42838,7 @@ $96 \ \text{cm}^2$
 A square has a perimeter of $36 \ \text{cm}$. Find its area.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -42087,6 +43831,7 @@ Find the perimeter (the total length around the outside of the shape) of the rec
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -42126,6 +43871,7 @@ $62 \ \text{cm}$
 The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -42182,6 +43928,7 @@ Find the *area* of the shape below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -42224,6 +43971,7 @@ $154 \ \text{cm}^2$
 The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43047,7 +44795,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
 
@@ -43167,7 +44916,8 @@ talgebra
 
 The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -43279,6 +45029,7 @@ talgebra
 In this addition sum, A and B stand for digits.
  
 ![missing image](/papers/missing_image.svg)
+
 
 Find the values of A and B. 
 
@@ -43513,6 +45264,7 @@ One cube has each of its faces covered by one face of an identical cube, making 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The total volume of the solid is $56\,cm^3$.
 
 </div>
@@ -43542,6 +45294,7 @@ The total volume of the solid is $56\,cm^3$.
 Find the width of one cube, in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43584,6 +45337,7 @@ $2 \text {cm}$
 Find the total surface of the solid, in $cm^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43705,6 +45459,7 @@ Find Gemma's number, showing your working clearly.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -43765,7 +45520,8 @@ John buys some horses from Paul and then 3 more horses than paul.
 
 How many did John buy?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -43821,6 +45577,7 @@ Two of the angles in a quardilateral are right angles. one of the others is five
 What is the size of the largest angle?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43898,6 +45655,7 @@ If Martha spends $\pounds 15$ and Sally spends $\pounds 20$, then Martha has twi
 how much money do they have altogether?  
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -43985,7 +45743,8 @@ The sum of two whole numbers is 30 and their difference is 20
 
 What are the two numbers?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -44199,6 +45958,7 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -44250,6 +46010,7 @@ The   angles   round a  point add   up to **$360^\degree$**
 In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -44497,7 +46258,8 @@ talgebra
 
 Look at these angles:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -45803,7 +47565,8 @@ Calculate the angles marked with letters on the following diagrams.
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -45837,7 +47600,8 @@ $45 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -45872,7 +47636,8 @@ $96 \degree$
 </div>
 <div class='question subquestion'>
 
-![missing image](/papers/missing_image.svg)   
+![missing image](/papers/missing_image.svg)
+   
 
 </div>
 <div class='workings'>
@@ -46607,6 +48372,7 @@ The numbers on the right hand side represent the total of each row, and the numb
 the totals of each column. Which numbers should replace each of the letters?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -47365,7 +49131,8 @@ Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 A quick check shows that $6$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 The two numbers which Winston thinks $= 6,14$
 
@@ -47670,6 +49437,7 @@ Benjamin walks dogs to earn some money. The formula below can be used to work ou
 
 ![missing image](/papers/missing_image.svg)
 
+
 Benjamin worked all day on Monday. He walked $13$ dogs before lunch and $15$ dogs afterwards.
 
 Work out Benjamin's pay on Monday.
@@ -47768,6 +49536,113 @@ $24 \ \text{coins}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>53B0545C-061A-4FE7-98B5-F192C205B547</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the following statements are true, how many  $\sum \text{s}$ are there in a $\bigoplus$?
+
+$\sum + \sum = \Psi$
+
+$\Psi + \Psi + \sum =$
+
+$+ \Psi = \bigoplus$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FACDA5A3-66B3-4121-8147-80B028E0DB77</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A box of biscuits contains $36$ biscuits. $20$ biscuits have foil wrappers. $15$ are chocolate biscuits with foil wrappers. 
+If $9$ are not chocolate and do not have a foil wrapper, then how many chocolate biscuits are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>EFC35732-7F0C-4816-85A6-D476D88749D2</p>
 </div>
 <div class='topics'>
@@ -47785,6 +49660,7 @@ talgebra
 Work out the missing length.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -47824,6 +49700,1146 @@ $10 \ \text{cm}$
 </div>
 </div>
 
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5448A2CD-DE13-426E-AC63-AAF7A36B1147</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this number tower the value in each block is the sum of the two below it. What is the value of block $T$?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EDEF5A82-6192-42E5-BB42-49F061E0B422</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jenny passes $40$ electricity poles along the straight road from school to her home.
+
+The distance between every $2$ poles is $30 \ \text{metres}$.
+
+If her school is exactly half way between $2$ poles and her home is also exactly halfway between $2$ poles, then
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+(a) Find the distance from her school to her home in $km$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+(b) If she walks at a speed of $8 \ \text{km/h}$, how long does it take her to get to school from home?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3FF7EB88-C199-4CD3-9420-59508D757C05</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mila adds odd numbers together and writes down her results as follows:
+
+$
+\begin{aligned}
+1 &= 1 = 1^2\\
+1 + 3 &= 4 = 2^2\\ 
+1 + 3 + 5 &= 9 = 3^2
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write down the next three lines of this pattern:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the seqyence,
+
+Next sequence would be
+
+$1 + 3 + 5 + 7  = 16 = 3^2$
+
+$1 + 3 + 5 + 7 + 9 = 25 = 5^2$
+
+$1 + 3 + 5 + 7 + 9 + 11 = 36 = 6^2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 + 3 + 5 + 7  = 16 = 3^2$
+
+$1 + 3 + 5 + 7 + 9 = 25 = 5^2$
+
+$1 + 3 + 5 + 7 + 9 + 11 = 36 = 6^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Using this pattern, write down the line which contains $169$ at the centre.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$169 = 13 \times 13 = 13^2$
+
+The line that contains $169$
+
+$1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 = 169 = 13^2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 = 169 = 13^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mila then adds different odd numbers and puts her results in a table again: 
+
+$
+\begin{aligned}
+1 = 1 &= 1^3\\
+3 + 5 = 8 &= 2^3\\ 
+7 + 9 + 11 = 27 &= 3^3
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write down the next three lines of this pattern:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13 + 15 + 17 + 19 = 64 = 4^3$
+
+$21 + 23 + 25 + 27 + 29 = 125 = 5^3$
+
+$31 + 33 + 35 + 37 + 39 + 41 = 216 = 6^3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 + 15 + 17 + 19 = 64 = 4^3$
+
+$21 + 23 + 25 + 27 + 29 = 125 = 5^3$
+
+$31 + 33 + 35 + 37 + 39 + 41 = 216 = 6^3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Using this pattern, **how many** numbers do you need to add together to get: 
+
+$\ldots = 1000 = \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1000 = 10^3$
+
+$10$ numbers are needed to be added.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+c. Using your answers from parts a. and b. find three numbers $A, B$ and $C$ such that
+
+$
+\begin{aligned}
+A - B &= C\\ \text{and}\\
+A^2 - B^2 &= C^3
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$A - B = C$
+
+$A^2 - B^2 = C^3$
+
+$
+\begin{aligned}
+A^2 - B^2           &= C^3 \\\
+(A + B)(A - B)      &= C^3 \\\\
+(A + B) \times C    &= C^3 \\\\
+(A + B)             &= \dfrac{C^3}{C} \\\\
+A + B               &= C^2 \\\\
+3 + 1               &= 2^2 \\\\
+\end{aligned}
+$
+
+A,B and C would be $3,1 \ \text{and} \ 2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3,1 \ \text{and} \ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2DB6771E-16E1-4C53-9AF0-70DAB9540FC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The symbol $\Phi$ represents a mathematical rule. 
+
+The rule for $\Phi$ is "add the two numbers and then multiply their sum by the second number".
+
+For example, $2  \ \Phi \ 3 = (2 + 3) \times 3 = 5 \times 3 = 15$
+
+Work out: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2  \ \Phi \ 6 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2} \Phi 3 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{4} \Phi \dfrac{1}{2} =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $6  \ \Phi \ m = 91$, what positive number must $m$ be? Show all your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $p  \ \Phi \ p = 72$, what number must $p$ be? Show all your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain why $x  \ \Phi \ y$ is not the same as $y  \ \Phi \ x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>01AF2191-BF2A-4490-8FC3-7F0158A834D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tilly decides to count using a clock. 
+
+She starts counting from $1$ in the normal way, so:
+
+$1, 2, 3, 4 \ldots$
+
+But when she gets to $12$, the count goes back to $1$, so she counts: $\ldots 8, 9, 10, 11, 12, 1, 2, 3 \ldots$
+
+So, for example, using this method of counting, $4 + 9 = 1$ and $10 + 5 = 3$. Similarly, $3 \times 5 = 3$ and $2 \times 13 = 2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using this counting method, complete the following: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$3 + 4 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$7 + 8 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$9 + 11 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$7 \times 8 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$9 \times 11 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using this counting method, can you find two different positive numbers $n$ and $m$ such that $n^2 = m^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using this method, can you find two different numbers $p$ and $q$ such that $p^3 = q^3$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -48098,6 +51114,7 @@ Find the missing angle, $x$:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -48151,7 +51168,8 @@ talgebra
 
 Find the size of angle $x$:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -48410,6 +51428,7 @@ Calculate the angle marked with the letter $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $70 \degree$
 - $85 \degree$
 - $90 \degree$
@@ -48474,6 +51493,7 @@ talgebra
 Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
+
 
 Area = $49 \ \text{cm}^{2}$
 
@@ -48918,13 +51938,15 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A train display shows letters by lighting cells in a grid, such as the letter ‘o’ shown. 
 A letter is made **bold** by also lighting any unlit cell immediately to the 
 right of one in the normal letter. How many cells are lit in a **bold** ‘o’?
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $22$
 - $24$
@@ -49109,6 +52131,7 @@ Calculate the angle marked with the letter $a$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $126 \degree$
 - $46 \degree$
 - $316 \degree$
@@ -49236,6 +52259,7 @@ talgebra
 The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base.
 
 ![missing image](/papers/missing_image.svg)
+
 
 - $9.5 \ \text{cm}$
 - $8.5 \ \text{cm}$
@@ -49549,6 +52573,7 @@ A square and an equilateral triangle are shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the size of the angle marked $x$. 
 
 </div>
@@ -49620,6 +52645,7 @@ Here is a rectangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 All measurements on the diagram are in centimetres. 
 
 </div>
@@ -49685,6 +52711,7 @@ $5$
 Here is a triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the size of the angle marked $y$.
 
@@ -50393,6 +53420,7 @@ $2 \times 1320 + 780 + 2 \times 320 + 240 = \pounds 4300$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -50805,8 +53833,11 @@ the angles in a triangle add up to $180 \degree$
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -51694,6 +54725,7 @@ The distance between consecutive marks shown on the diagram is $25 \ \text{metre
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -51871,6 +54903,7 @@ Sleepy earns seven-eighths of Sneezy's salary.
 Complete the table below to work out how much Snow White earns in a day.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Bashful Doc Dopey Grumpy Happy Sleepy Sneezy Snow White Gold Galleons Snow White
 
@@ -52565,11 +55598,15 @@ The area of a rectangle can be found using the formula below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of each of these rectangles is $24  \ \text{m}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -52608,6 +55645,7 @@ TODOANSWER
 Complete the table below for each rectangle.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -52732,6 +55770,7 @@ Jake hangs a peg basket on a washing line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Find the size of one of the shaded angles in the diagram above, if both are the same size.
 
 </div>
@@ -52771,6 +55810,7 @@ The diagram below shows two straight lines.
 Find the sizes of the angles marked $a, b$ and $c$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -52831,6 +55871,7 @@ talgebra
 Farmer Jack and Farmer Giles each have a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Farmer Jack’s field has an area of $24 \ \text{m}^2$.
 
@@ -52942,6 +55983,7 @@ The width of Farmer Giles’ field is $4 \ \text{m}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Work out the length of Farmer Giles’ field.
 
 </div>
@@ -53018,6 +56060,7 @@ $24 \ \text {m} ^ 2$
 Farmer Josephine also has a rectangular field.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
 
@@ -53462,6 +56505,7 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -53573,6 +56617,7 @@ A farmer wants to put a fence along one edge of his field,
 which is $480 \ \text{m}$ long. Every $4 \ \text{m}$, a post is needed to hold the rails up. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many posts does he need?
 
@@ -53768,6 +56813,7 @@ Work out the value of the angle labelled $x$ in the diagram below.
 
 The diagram is not drawn to scale.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -54187,6 +57233,7 @@ The area of this rectangle is $24 \ \text{cm}^2$. What is its perimeter in cm?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -54402,6 +57449,7 @@ He then eats another and then shares the rest out equally between himself and De
 He eats one more and gives the last one to Sean.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -54643,6 +57691,7 @@ This shape is made from $9$ identical squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of the shape is $144 \ \text{cm}^2$
 
 What is the perimeter of the shape?
@@ -54879,6 +57928,7 @@ This is a loose sheet from a newspaper with $64$ pages. What is the missing page
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -55022,6 +58072,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -55155,6 +58206,7 @@ tareaperimeter
 Nine identical squares are glued together to form the figure.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The perimeter of the figure is $160\ \text{cm}$.
 
@@ -55339,6 +58391,7 @@ Dominic has half as many sweets as Hannah.
 Abdul has $3$ times as many sweets as Hannah.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many sweets does Abdul have?
 
@@ -55761,6 +58814,7 @@ What is the area of the rectangle?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -55816,6 +58870,7 @@ talgebra
 <div class='question question'>
 
 ![missing table](/papers/missing_table.svg)
+
 
 Brendan and Sophie got $\pounds 0.20$ change when they paid with $\pounds 5$ for some tomatoes, green peppers and cucumbers which they bought at a farm stand.
 
@@ -56227,6 +59282,7 @@ there in the box at the start?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -56272,6 +59328,7 @@ Nimita wants to hang some balloons for her birthday party.
 Each balloon needs $35 \ \text{cm}$ of string attached to it.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56399,6 +59456,7 @@ How many minutes does he take in total?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -56475,6 +59533,7 @@ The shape is made from a square and an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Diagram not drawn to scale.
 
 What is the size of the reflex angle marked $p \degree$?
@@ -56530,6 +59589,7 @@ How many games did the teams play in total?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -56578,6 +59638,7 @@ She can buy three pencils and a ruler for $50 \text{p}$ or two pencils and two r
 How much does each pencil cost her?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56630,6 +59691,7 @@ Altogether Alice, Becky and Charlie have saved $\pounds 26.50$.
 How much has Alice saved?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56793,6 +59855,7 @@ talgebra
 $3$ apples and $1$ orange cost $50 \text{p}$. $1$ apple and $3$ oranges cost $62 \text{p}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -56968,6 +60031,7 @@ talgebra
 The perimeter of this square is $36 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -57425,6 +60489,7 @@ Find the perimeter of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -57492,7 +60557,8 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 $48$ cats eat $12$ cans of food in $3$ days. 
 
@@ -57563,6 +60629,7 @@ area of $58$ square centimetres. How long are the sides of the square?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -57629,9 +60696,11 @@ After $4$ bends she has used  $15 \ \text{cm}$ of wire.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 How much wire will she have used after $6$ bends?
  
@@ -57692,6 +60761,7 @@ cost of each triangle.
 What is the cost of a heart?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -58101,6 +61171,7 @@ Charlie enjoys eating Nickel bars.
 
 ![missing image](/papers/missing_image.svg)
 
+
 His local store has a special promotion on Nickel bars.
 
 Charlie can exchange $3$ empty Nickel bar wrappers for a new Nickel bar.
@@ -58207,6 +61278,7 @@ James has a $\pounds 10$ note.
 He buys as many pineapples as he can with his $\pounds 10$ note.   
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -58384,6 +61456,7 @@ talgebra
 When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -58680,6 +61753,7 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 At SuperMart, a packet of jam tarts costs $\pounds 1.20$.
 
 This week, there is a special offer:
@@ -58739,6 +61813,7 @@ Tilly and Tally have a large tub of $1$-centimetre cubes.
 Tilly uses some of the cubes to make the cuboid shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -58853,6 +61928,7 @@ $1$ bag of potatoes
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use this information to work out the mass of the bag of potatoes.
 
 Give your answer in grams.
@@ -58906,6 +61982,7 @@ $6$ cubes have been joined together to make the shape below.
 The area of each face of the cubes is $1 \ \text{cm}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 If the shape is dipped into a large pot of paint, what is the total 
 area which will be covered in paint?
@@ -59102,7 +62179,8 @@ What is the largest number of cups which Mel could completely fill?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\text {ml}$.
 
 As per the question,
 
@@ -59164,6 +62242,7 @@ The length of the rectangle is three times the width of the rectangle.
 Work out the length of the rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -59313,6 +62392,7 @@ An orange and a pear cost $64 \ \text{pence}$.
 How much more does an apple cost than an orange?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -59570,7 +62650,8 @@ What was the price of the **cheaper** book?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the units into $\pounds$.
 
 Let the cost of one book $= a$.
 
@@ -59736,6 +62817,7 @@ The shape below is made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The perimeter of the shape is $100 \ \text{centimetres}$.
 
 Work out the area of the shape.
@@ -59779,6 +62861,7 @@ TODOANSWER
 Work out the area of the shape drawn on the centimetre-squared grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -59896,6 +62979,7 @@ She paid for these with a $\pounds 10$ note, and received $\pounds 4.36$ change.
 Given that the sandwich cost $\pounds 3.85$, how much did the muffin cost?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -60050,6 +63134,7 @@ How much does David save by buying $1 \ \text{kilogram}$ of coffee in $100 \ \te
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -60094,6 +63179,7 @@ talgebra
 A square and equilateral triangle have the same perimeter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that the area of the square is $36 \ \text{cm}^2$, work out the length of one side of the equilateral triangle.
 
@@ -60265,7 +63351,9 @@ The prices for coffee beans and ground coffee are shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
 
@@ -60379,6 +63467,7 @@ What was the original mass of the chocolate bar?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -60444,6 +63533,7 @@ He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much is each monthly amount?
 
 </div>
@@ -60499,7 +63589,9 @@ In the diagrams below, the perimeter of the square is equal to the perimeter of 
 Work out the length of the side marked $d$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -60993,7 +64085,8 @@ tsimpleword
 
 Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -61187,6 +64280,7 @@ A start has been made for you.
 *You may not need all of the lines in the table*.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -61615,6 +64709,7 @@ talgebra
 The diagram shows two squares. The larger square has perimeter $16 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 
 What is the **area** of the smaller, white square?
@@ -63102,7 +66197,8 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 $
 \begin{aligned}
@@ -63395,7 +66491,8 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -63461,6 +66558,7 @@ For example,
 
 ![missing image](/papers/missing_image.svg)
 
+
 $
 \begin{aligned} 
 a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
@@ -63497,6 +66595,7 @@ $
 Find $a$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -63539,6 +66638,7 @@ Find $b$
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -63584,6 +66684,7 @@ $130 \degree$
 Find $c$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -64040,7 +67141,8 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+It is really important to use the right units in calculations and convert where required
+. The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
 
@@ -64237,6 +67339,7 @@ Let the length of the second cuboid (in $\text{cm}$) $= l$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
+
 As per the question, the two weights have the same volume. Using that we get,
 
 $
@@ -64378,7 +67481,8 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
 
 As per the question,
 
@@ -66652,6 +69756,7 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
+
 Let's equate the perimeter to the length and width we get,
 
 $
@@ -66725,7 +69830,8 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
+It is really important to use the right units in calculations and convert where required
+. Let's convert both the costs into pence.
 
 As per the question,
 
@@ -67045,6 +70151,7 @@ talgebra
 A group of children are cutting squares off one corner of rectangular sheets of paper, as shown in the diagram.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -67414,6 +70521,7 @@ tareaperimeter
 In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -68348,7 +71456,8 @@ Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
 
 A quick check shows that $5$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 5 \ \text{cm}$ 
 
@@ -68887,11 +71996,15 @@ tareaperimeter
 
 A sequence of rectangles is drawn and the first three rectangles are as follows, with their length and width shown in each case.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 The perimeters and areas of each rectangle are noted in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -69279,7 +72392,9 @@ Ger puts a cube against the floor and the walls in the corner of his room, as in
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -69606,6 +72721,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 The diagram above shows a plan of the front window in a house which has to be made and fitted as **three separate** window units. 
 The middle section of the window is $2.2 \ \text{m}$ wide and the side sections are each $0.5 \ \text{m}$ wide. 
 The whole front window is $1.5 \ \text{m}$ high.
@@ -69673,6 +72789,7 @@ There are four times as many men as women, twice as many men as boys and three t
 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -70144,6 +73261,7 @@ In the picture below is the net of a cube. What would be the total surface area 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -70216,7 +73334,8 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
 
@@ -70356,6 +73475,7 @@ Let the length of the base (in $\text{cm}$) $= a$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
+
 As per the question, the two boxes have the same volume. Using that we get,
 
 $
@@ -70388,6 +73508,145 @@ $8 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>10B05544-761B-457F-96DF-14CD6C641037</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chen writes down a two digit number. He finds that if he swaps the digits of the number round, the new number he creates is three more than one third of the original number.
+
+What was the **original** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+original no. = a number between $11$ and $99$ ($2$ digits)
+
+original no.  $>$ new number
+
+the original no., the new number and $\dfrac {1}{3}$
+are all multiples of $3$
+
+
+</div>
+<div class='working'>
+
+Trial and error method
+
+$12$ is the smallest $2$ digit number which is a multiple of $3$
+
+certain combinations can be ruled out as the reverse is not near to $\dfrac {1}{3}$ of the original number
+
+possible combinations:
+
+$
+\begin{aligned}
+\quad \cancel{12-21}, \ 15-51, \ \cancel{18-81},\\\\ 
+\cancel{24-42},\ 27-72, \ \cancel{36-63},\\\\
+\cancel{39-93}, \ \cancel{45-54}, \ \cancel{48-84}\\\\
+\end{aligned}
+$
+
+Let's try combination $1$ : $15$ and $51$ 
+
+original number = $51$
+
+$
+\begin{aligned}
+\dfrac {51}{3}  &= 17\\
+17 + 3          &= 20 \text{ (wrong)}\\
+\end{aligned}
+$
+
+Let's try combination $2$ : $27$ and $72$ 
+
+original number = $72$
+So reverse no. is,
+
+$
+\begin{aligned}
+&=\dfrac {72}{3}+3\\
+&= 27\\
+\end{aligned}
+$
+
+$27$ and 472$ is the right combination. So $72$ is the original number.
+
+</div>
+<div class='working'>
+
+Let the two digit number be $xy$
+
+$x$ in the tenth place and $y$ in the unit place.
+
+The original no. $= 10x + y$
+
+The swapped no.  $= 10y + x$
+
+As per the question, the new number is $3$ more than $\dfrac {1}{3}$ of the original number. 
+
+The swapped no. $= 3 + \dfrac {(10y + x)}{3}$
+
+i.e.  $= 10y + x = 3 + \dfrac {(10y + x)}{3}$
+
+Let's solve
+
+$
+\begin{aligned}
+3 + \dfrac{(10x + y)}{3} &= 10y + x \\\\
+\dfrac{9 + (10x + y)}{3} &= 10y + x \\\\
+           9 + (10x + y) &= (10y + x) \times 3 \\
+             9 + 10x + y &= 30y + 3x \\
+    9 + 10x + y -30y -3x &= 0 \\
+            9 + 7x - 29y &= 0 \\
+                 7x -29y &= -9 \\
+\end{aligned}
+$
+
+
+The values $x$ and $y$ are between $0$ to $9$
+
+On substituting the only possibility that matches
+
+$
+\begin{aligned}
+ x &= 7 \\
+ y &= 2 \\
+-9 &= (7 \times 7) - (29 \times 2)  \\
+-9 &= 49 - 58 \\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -70955,6 +74214,7 @@ Calculate each of the angles marked $x$ and $y$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -71048,7 +74308,8 @@ $93 - \Box - \boxed{18} = 36$
 <div class='workings'>
 <div class='working'>
 
-$93 - \underline{\green{39}} - 18 = 43$
+$93 - \underline{\green
+{39}} - 18 = 43$
 
 </div>
 </div>
@@ -71252,6 +74513,7 @@ talgebra
 Find the missing numbers so that the answer is always $56$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -71770,6 +75032,7 @@ An ant is travelling along the straight line AC as shown below. The distance fro
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -71909,6 +75172,7 @@ What is the size of the angle marked $χ$ in the diagram below? [diagram not dra
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -71996,10 +75260,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(+a)}}  
-&&  \footnotesize{\maroonC{(+a)}} 
-&&  \footnotesize{\maroonC{(+a)}}   
-&&  \footnotesize{\maroonC{(+a)}} \\
+&   \footnotesize{\maroonC
+{(+a)}}  
+&&  \footnotesize{\maroonC
+{(+a)}} 
+&&  \footnotesize{\maroonC
+{(+a)}}   
+&&  \footnotesize{\maroonC
+{(+a)}} \\
 3,  &&    3 + a,  &&  3 + 2a,  &&   3 + 3a,  &&   31 \ldots
 \end{matrix}
 $
@@ -72122,6 +75390,7 @@ Find the value of $χ$ in the diagram below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -72188,13 +75457,17 @@ tinfer
 </div>
 <div class='question question'>
 
-On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg) 
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg)
+ 
 
-$3$ ![missing image](/papers/missing_image.svg) $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+$3$ ![missing image](/papers/missing_image.svg)
+ $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
 
-$3$ ![missing image](/papers/missing_image.svg)  $4$ = $3 + 4 + (3 \times 4) = 19$
+$3$ ![missing image](/papers/missing_image.svg)
+  $4$ = $3 + 4 + (3 \times 4) = 19$
 
-And similarly, $2$ ![missing image](/papers/missing_image.svg)  $6 = 2 + 6 + (2 \times 6) = 20$ 
+And similarly, $2$ ![missing image](/papers/missing_image.svg)
+  $6 = 2 + 6 + (2 \times 6) = 20$ 
 
 Find the values of
 
@@ -72222,7 +75495,8 @@ Find the values of
 </div>
 <div class='question subquestion'>
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$
 
 </div>
 <div class='workings'>
@@ -72230,7 +75504,8 @@ $5$ ![missing image](/papers/missing_image.svg)  $7$
 
 As per the question,
 
-$5$ ![missing image](/papers/missing_image.svg)  $7$ = $5 + 7 + (5 \times 7) = 47$
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$ = $5 + 7 + (5 \times 7) = 47$
 
 </div>
 </div>
@@ -72252,7 +75527,8 @@ $47$
 </div>
 <div class='question subquestion'>
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$
 
 </div>
 <div class='workings'>
@@ -72260,7 +75536,8 @@ $0$ ![missing image](/papers/missing_image.svg)  $9$
 
 As per the question,
 
-$0$ ![missing image](/papers/missing_image.svg)  $9$ = $0 + 9 + (0 \times 9) = 9$
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$ = $0 + 9 + (0 \times 9) = 9$
 
 </div>
 </div>
@@ -72282,7 +75559,8 @@ $9$
 </div>
 <div class='question subquestion'>
 
-If $χ$ ![missing image](/papers/missing_image.svg)  $2 + 23$ find the value of $χ$
+If $χ$ ![missing image](/papers/missing_image.svg)
+  $2 + 23$ find the value of $χ$
 
 </div>
 <div class='workings'>
@@ -72292,7 +75570,8 @@ As per the question,
 
 $
 \begin{aligned}
-χ ![missing image](/papers/missing_image.svg)  2            &= 23 \\\\
+χ ![missing image](/papers/missing_image.svg)
+  2            &= 23 \\\\
 χ + 2 + (χ \times 2)    &= 23 \\\\
 χ + 2 + 2χ              &= 23 \\\\
 3χ + 2                  &= 23 \\\\
@@ -72398,6 +75677,7 @@ Calculate the missing angle in the triangle shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -72474,10 +75754,14 @@ As per the question, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}}
-&&  \footnotesize{\maroonC{(\times 3)}} \\
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}} \\
 1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
 \end{matrix}
 $
@@ -72885,6 +76169,7 @@ $\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$
 
 ![missing image](/papers/missing_image.svg)
 
+
 how many are white chocolate?   
 
 </div>
@@ -72987,6 +76272,7 @@ $4$ CDs and $2$ DVDs cost $$\pounds 46$.
 3 CDs and 2 DVDs cost $\pounds 39.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Find the cost of 
 
@@ -73665,6 +76951,7 @@ In the diagram below the straight lines ABG and DEF are parallel. Lines CB and E
 *The diagram is not drawn accurately*.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -74364,6 +77651,7 @@ Calculate the value of angle $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -74732,6 +78020,7 @@ The rectangle and triangle below have the same height.
 
 ![missing image](/papers/missing_image.svg)
 
+
 If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
 
 </div>
@@ -74812,6 +78101,7 @@ The triangle in the diagram below is isosceles.
 Calculate angle **$x$**
 $\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -75392,6 +78682,7 @@ Three gear wheels turn one another. $X$ has $8$ teeth, $Y$ has $12$ teeth and $Z
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -75478,6 +78769,7 @@ He gets **$\pounds 1.20** change.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How much does **one** apple cost?
 
 </div>
@@ -75534,6 +78826,7 @@ Raj has a **$\pounds 1** coin.
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the greatest number of oranges Raj can buy with $\pounds 1?
 

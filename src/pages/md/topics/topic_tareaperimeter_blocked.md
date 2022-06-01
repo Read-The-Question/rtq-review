@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-blocked"
 title: "Topic - Areaperimeter - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -76,7 +76,9 @@ talgebra
 
 The diagram below shows a rectangle and a square. The diagrams are **not** drawn to scale.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 If they have equal perimeters, what is the difference in their area? 
 
@@ -164,6 +166,7 @@ tsimpleword
 Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, to cover a rectangular worktop in his greenhouse.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
 
@@ -362,7 +365,8 @@ talgebra
 
 The perimeter of the rectangle below is $18 \ \text{cm}$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -438,7 +442,8 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 $
 \begin{aligned}
@@ -471,7 +476,9 @@ A square with sides of length $3 \ \text{cm}$ is divided into three identically 
 These are then arranged as shown. What is the perimeter of the new shape?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -529,7 +536,9 @@ Shape $A$ and shape $B$ are each made from five identical squares. The **perimet
 $72 \ \text{cm}$. Work out the perimeter of shape $B$. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 - $30 \ \text{cm}$
 - $60 \ \text{cm}$
@@ -593,7 +602,8 @@ tareaperimeter
 
 Find the area and perimeter.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -654,7 +664,8 @@ tareaperimeter
 
 Find the area and perimeter.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -812,6 +823,7 @@ The diagram shows four identical white rectangles around a shaded square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded square?
 
 </div>
@@ -865,6 +877,7 @@ Find in terms of $x$ the perimeter of the following triangle:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -914,11 +927,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1004,6 +1019,7 @@ tsimpleword
 Find  the   area  of this  shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1097,6 +1113,7 @@ Find the perimeter of the compound shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $92 \ \text{cm}$
 - $52 \ \text{cm}$
 - $36 \ \text{cm}$
@@ -1167,6 +1184,7 @@ Here are three squares that overlap.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The non-overlapping parts of the squares have a total area of $90 \ \text{cm}^{2}$.
 
 The areas of overlapping parts are $2 \ \text{cm}^{2}$, 
@@ -1235,6 +1253,7 @@ tareaperimeter
 Shape $D$ is drawn on centimetre-squared paper below. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1320,6 +1339,7 @@ Draw a rectangle which has the same area as shape $D$ on the centimetre-squared 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1365,6 +1385,7 @@ What fraction of the whole square below is the shaded area?
 
 O is the centre of the square and M is the midpoint of AB.
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

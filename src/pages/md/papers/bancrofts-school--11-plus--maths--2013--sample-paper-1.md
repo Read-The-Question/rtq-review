@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -776,6 +776,7 @@ Here is a part of a number line. Write the two missing numbers in the boxes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -838,6 +839,7 @@ How much water must be added to make $500 \ \text{millilitres}$ of drink?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -889,6 +891,7 @@ tpercentage
 At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What *percentage* of the teachers travel by car?
 
@@ -1121,6 +1124,7 @@ Write the letters of the two shapes which have a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1160,6 +1164,7 @@ TODOANSWER
 How many lines of symmetry does the shape on the left have?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1201,6 +1206,7 @@ If you looked in a mirror at an accurate clock at $1{:}30 \ \text{pm}$,
 which one of the following (A, B, C, D or E) would you see?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1650,6 +1656,7 @@ The diagram shows the results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1782,6 +1789,7 @@ The total length of the edges of a cube is $240 \ \text{cm}$. What is the length
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1838,6 +1846,7 @@ The diagram shows a shape made from ten square tiles.
 Which labelled tile ($A, B, C, D$ or $E$) could be removed without changing the perimeter of the shape? 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2066,6 +2075,7 @@ Fill in the missing numbers in this magic square.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2107,6 +2117,7 @@ Find the value of $\spadesuit$ in this magic square.
 (You do *not* need to complete the whole magic square.)
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2368,9 +2379,11 @@ When she looks at it from the front, this is what she sees:
 
 ![missing image](/papers/missing_image.svg)
 
+
 When she looks down at it from above, this is what she sees:
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the mathematical name for Kate's $3$-D object?
 
@@ -2467,6 +2480,7 @@ Which edge meets the edge $BC$ when the net is folded to form the cube?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2508,6 +2522,7 @@ Which of the following are possible nets for a cube?
 (Write 'yes' or 'no' in each of the spaces provided.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2865,6 +2880,7 @@ Find the value of one club.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2981,6 +2997,7 @@ The pyramid was made by using cubes as building blocks.
 How many blocks did it take to make the pyramid?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3209,6 +3226,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3328,6 +3346,7 @@ Which view ($P, Q$ or $R$) can I get by looking
 down at the cylinder from above, in the direction of arrow $Z$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3861,6 +3880,7 @@ On Planet Cash, money is measured in Tinkles and Clinks. Here is an addition sum
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -3939,6 +3959,7 @@ Work out the answer to this subtraction.
 
 ![missing table](/papers/missing_table.svg)
 
+
 %waffles%
 
 </div>
@@ -3980,6 +4001,7 @@ TODOANSWER
 Work out the answer to this division.
 
 ![missing table](/papers/missing_table.svg)
+
 
 %waffles%
 
@@ -4041,6 +4063,7 @@ A sequence of **solid towers** is built from cubes, as shown below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4078,6 +4101,7 @@ TODOANSWER
 Complete the table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4216,6 +4240,7 @@ Here is some information about Sports Day:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4253,6 +4278,7 @@ TODOANSWER
 Use the information to complete the following table to show each result: 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>

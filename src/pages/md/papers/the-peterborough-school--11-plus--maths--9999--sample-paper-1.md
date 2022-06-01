@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -500,6 +500,7 @@ What fraction of this shape is shaded?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -539,6 +540,7 @@ TODOANSWER
 Shade $\frac {2} {3}$ of this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -594,6 +596,7 @@ tangle
 In the triangle below measure the side AB and the angle A
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1050,6 +1053,7 @@ Draw a rectangle on the grid with the same area as the shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1184,6 +1188,7 @@ TODOANSWER
 Draw in the lines of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1780,6 +1785,7 @@ The pictogram shows the amount of money $5$ churches gave to a local charity.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2180,6 +2186,7 @@ Princess Rose of Ruritania is getting married in July. The Lord Chancellor has t
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2472,6 +2479,7 @@ tdirection
 The map below shows the streets in a part of Peterford with the houses of several people marked.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

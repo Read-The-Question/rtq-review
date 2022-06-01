@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttable-all"
 title: "Topic - Table - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -79,6 +79,7 @@ ttable
 The chart below shows the technology subjects studies by a group of students.
 
 ![missing table](/papers/missing_table.svg)
+
 
 Complete the chart above 
 
@@ -291,17 +292,21 @@ The diagram shows information about this square labelled A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I fold square $A$ **in half** to make rectangle $B$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Then I fold rectangle $B$ **in half** to make square $C$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table below to show the area and perimeter of each shape.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -358,7 +363,9 @@ Farmer Giles has two legs and each of his cows have four legs. In the picture be
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 Hillary is trying to find a formula that links the Number of Cows, $C$, to the number of Legs, $L$. 
 Fill in the gaps to help her: 
@@ -414,12 +421,16 @@ ttable
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 This picture shows people sitting around tables made of smaller square tables. Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 Adam is trying to find a formula that links the Table number, $T$, to the number of People, $P$. Fill in the gaps to help him:
 
@@ -481,6 +492,7 @@ Here is some information about Sports Day:
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -518,6 +530,7 @@ TODOANSWER
 Use the information to complete the following table to show each result: 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -657,6 +670,7 @@ were asked what colour of dress girls should wear.
 
 ![missing table](/papers/missing_table.svg)
 
+
 What percentage of boys thought *girls* should wear pink?
 
 </div>
@@ -719,6 +733,7 @@ Here are some patterns made from squares.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -759,6 +774,7 @@ Complete the diagram for pattern $5$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -798,6 +814,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -892,7 +909,8 @@ The table shows part of a multiplication grid.
 
 Fill in the missing numbers.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1011,6 +1029,7 @@ He has completed the first row of the table.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Complete the table with the two missing values.
 
 </div>
@@ -1073,7 +1092,9 @@ The table and the bar chart have not been completed.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1321,6 +1342,7 @@ This diagram illustrates a survey into theme park rides.
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many people favoured "the Spaceship"?
 
 </div>
@@ -1539,6 +1561,7 @@ Complete the table and bar chart for the students' findings.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1647,6 +1670,7 @@ The table and bar chart below shows the number of cars sold by a car showroom ea
 | Number of cars sold |  3  |   5  |     |   1  |  4  |  7  |     |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1789,6 +1813,7 @@ The table and bar chart below shows the number of burgers sold by a cafe each da
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1926,7 +1951,8 @@ in the circle.
 
 For example, $5 + 4 + 3 + 2 = 14$, so:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1965,8 +1991,11 @@ TODOANSWER
 Complete the three grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2007,6 +2036,7 @@ TODOANSWER
 Complete the network of grids below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2050,6 +2080,7 @@ and **the same number must not appear more than once**.
 Complete this final network below with the correct number into each of the relevant squares or circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2121,6 +2152,7 @@ The table and bar chart below are to show the number of points scored by a rugby
 | Number of points scored |  25 |      |     |   9  | 23  | 30  |
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2297,6 +2329,7 @@ For example:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2369,6 +2402,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2406,6 +2440,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2449,6 +2484,7 @@ TODOANSWER
 A tower with five rows is made and the bottom row is:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Write down the number which will appear at the top of the tower.
 
@@ -2512,7 +2548,8 @@ tstatistics
 In a survey a group of children were asked how many siblings (i.e. brothers and sisters) they have. 
 No-one in the group had more than three siblings, and the results are shown in the pie chart below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2797,9 +2834,12 @@ Along any line drawn, the numbers in the two circles at the end of a line should
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2859,7 +2899,8 @@ Along any line drawn, the numbers in the two circles at the end of a line should
 
 Fill the remaining squares and circles with numbers obeying this rule. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2922,6 +2963,7 @@ in metres             2610        2579        2592        2164
 -->
 
 ![missing table](/papers/missing_table.svg)
+
 
 The table above shows some information about four African countries.
 
@@ -3277,7 +3319,8 @@ ttable
 
 Complete the following table
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3335,7 +3378,8 @@ tinfer
 
 Alan is making squares out of matchsticks 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3374,6 +3418,7 @@ TODOANSWER
 Fill in the table 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3474,6 +3519,7 @@ In a survey, $1000$ people were asked if they owned a
 computer. The pictogram shows the results of the survey. 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3651,6 +3697,7 @@ A number of shapes have been made with matches. For this pattern:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3726,6 +3773,7 @@ TODOANSWER
 Complete the table below, to show how many matches there are
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -3821,7 +3869,8 @@ ttable
 
 One way to make a magic square is to substitute numbers into this algebra grid.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3863,6 +3912,7 @@ $a = 10,  \quad b = 3,  \quad c = 5$
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3903,9 +3953,11 @@ Here is the algebra grid again.
 
 ![missing table](/papers/missing_table.svg)
 
+
 I use different values for $a, b$ and $c$ to complete the magic square.
 
 ![missing table](/papers/missing_table.svg)
+
 
 What values for $a, b$ and $c$ did I use?
 
@@ -4008,7 +4060,9 @@ TODOANSWER
 
 Copy and complete the diagrams below using the same rule and only positive numbers.
 
-![missing image](/papers/missing_image.svg)          ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+          ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4049,6 +4103,7 @@ TODOANSWER
 If the same rules are used in the diagram below, what are the possible values for the number $x$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4106,7 +4161,8 @@ ttable
 
 The diagram below shows part of a train timetable:
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4317,6 +4373,7 @@ I have six identical beads which I want to put into three piles. Each pile must 
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4358,6 +4415,7 @@ List all the ways of placing eight beads into four piles, with at least one bead
 One possible answer is given to you.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -4419,6 +4477,7 @@ ttable
 NOT TO SCALE
 
 ![missing image](/papers/missing_image.svg)
+
 
 This diagram shows a flag.
 
@@ -4506,6 +4565,7 @@ List the possible pairs of colours of the two parts of the flag.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4571,7 +4631,9 @@ The percentage bar charts show three pupils’ results.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4709,7 +4771,8 @@ ttable
 
 The table shows part of the railway timetable from Edinburgh to St Andrews. Some trains stop at every station and others are express trains. All stopping trains take the same time between each station as each other.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5466,6 +5529,7 @@ Use each number from $1$ to $8$ once in the boxes to make all the calculations c
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5522,7 +5586,9 @@ tgeometry
 
 Fill in the table below with the information requested.
 
-![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 |                              | CUBE  | PYRAMID   |
 |:--------------------------   |:----: |:-------:  |
@@ -5587,6 +5653,7 @@ tgraph
 George carries out a survey at school to find out how his school friends travel to school. He represents this data on the bar chart shown below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5952,6 +6019,7 @@ The number pattern below is known as Pascal’s Triangle. Each number is the sum
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table below
 
 | ROW                 | TOTAL                 |                       |
@@ -6044,6 +6112,7 @@ Using the first two columns of the table, draw a bar chart to represent these re
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6104,7 +6173,10 @@ tsequence
 
 A pattern is made using balls as shown here.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+
 
 Pattern1    Pattern 2    Pattern 3
 
@@ -6400,13 +6472,16 @@ The diagram shows information about this square labelled A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I fold square A **in half** to make rectangle B.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Then I fold rectangle B **in half** to make square C.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Complete the table below to show the area and perimeter of each shape.
 
@@ -6456,9 +6531,11 @@ I start again with square A.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Then I fold it **in half** to make triangle D.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the **area** of triangle D?
 
@@ -6952,7 +7029,8 @@ tsequence
 
 Here are some patterns made up of dots.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7029,6 +7107,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7131,6 +7210,7 @@ Use the information below to fill in the table:
 
 ![missing table](/papers/missing_table.svg)
 
+
 Position $1 \text{st}$ $2 \text{nd}$ $3 \text{rd}$ $4 \text{th}$ $5 \text{th}$ $6 \text{th}$ $7 \text{th}$ Child
 
 * There are no tied positions  
@@ -7197,6 +7277,7 @@ tnumber
 In the square below, every row, column and diagonal adds up to $15$. What number must be put into the square labelled $A$?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7272,6 +7353,7 @@ Winston watched the race but forgot to write down the positions of the runners. 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
 
 </div>
@@ -7332,9 +7414,11 @@ Amar makes patterns out of sticks:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw Pattern $4$ and complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7393,6 +7477,7 @@ ttable
 Complete the multiplication table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -7495,6 +7580,7 @@ TODOANSWER
 Geoff arrives at the dock at Giessbach at $08{:}00$. Work out the earliest time that he can get to Grutschalp. Put the departure and arrival times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach $08{:}00$ Interlaken Lauterbrunnen Grutschalp
 
 </div>
@@ -7536,6 +7622,7 @@ TODOANSWER
 Tom travels from Giessbach to Grutschalp arriving at Grutschalp at $15{:}10$. Work out the latest time that he might have left Giessbach. Put the arrival and departure times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach Interlaken Lauterbrunnen Grutschalp $15{:}10$
 
 </div>
@@ -7635,6 +7722,7 @@ TODOANSWER
 Enter this information into the table below. Then complete the rest of the table.
 
 ![missing table](/papers/missing_table.svg)
+
 Boys Girls Total Left handed Right handed Total
 
 </div>
@@ -7733,7 +7821,9 @@ Here is a portion of the Monday to Friday bus timetable for the $724$ bus betwee
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 
 
@@ -8037,6 +8127,7 @@ Complete the table below. The first two rows have been completed for you.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8121,6 +8212,7 @@ Circle "NO" for each of the following prime numbers that cannot be expressed as 
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8186,6 +8278,7 @@ Robert asked all the children in his school on which day of the week they were b
 Here is a bar chart showing his results:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8303,6 +8396,7 @@ Use the bar chart to complete the frequency table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8402,7 +8496,9 @@ This pictogram shows how many people were treated for sports Injuries at a clini
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8694,6 +8790,7 @@ For example $-3$ means that the dog lost $3 \ \text{kilograms}$ in weight.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8835,7 +8932,9 @@ Some of the information is covered by ink.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ children chose sport.
 
@@ -9011,7 +9110,9 @@ Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9130,6 +9231,7 @@ Redraw the table to show the new teams.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9237,6 +9339,7 @@ Here are some patterns made from tiles:
 ![missing image](/papers/missing_image.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9274,6 +9377,7 @@ TODOANSWER
 Draw pattern 4 on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9314,6 +9418,7 @@ TODOANSWER
 Complete the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9538,9 +9643,11 @@ He spins the spinner $60$ times and records the colour which the arrow points to
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here are his results:
 
-![missing table](/papers/missing_table.svg).
+![missing table](/papers/missing_table.svg)
+.
 
 </div>
 <div class='workings'>
@@ -9617,6 +9724,7 @@ TODOANSWER
 Complete the bar chart to show his results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9712,6 +9820,7 @@ ttable
 There are two maths classes in Year $8$, called $6A$ and $6B$.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -9908,11 +10017,15 @@ The area of a rectangle can be found using the formula below:
 
 ![missing image](/papers/missing_image.svg)
 
+
 The area of each of these rectangles is $24  \ \text{m}^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9951,6 +10064,7 @@ TODOANSWER
 Complete the table below for each rectangle.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10048,6 +10162,7 @@ Give the fractions in their simplest form.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10103,10 +10218,12 @@ Here is a shaded rectangle on $x$ and $y$ axes.
 
 ![missing image](/papers/missing_image.svg)
 
+
 For each of the co-ordinates (points on the graph) shown in the table below, 
 put a tick to show if it is inside or outside the shaded square. One has been done for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10171,9 +10288,11 @@ that every row and column has an even number of bottles; $0, 2, 4$ and $6$ are e
 
 ![missing image](/papers/missing_image.svg)
 
+
 Put your answer in the crate drawn below
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10230,6 +10349,7 @@ Here is part of a train timetable for trains running between Hereford and Shrews
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10285,6 +10405,7 @@ TODOANSWER
 The return journey starts at $1950$ from Shrewsbury. If each part of the journey (including the wait at Ludlow) takes the same time as in the morning, complete the timetable for the return journey.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10363,7 +10484,9 @@ Complete the table of values for this number machine with the rule 'multiply by 
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10395,7 +10518,9 @@ What is the rule for this number machine? Write your answer inside the machine.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10448,6 +10573,7 @@ Three neighbouring families chose different holidays abroad this year.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Use the clues below to work out their house numbers, their chosen destinations and the months during which they were away.
 
 **The families:** Brown, Green, Smith
@@ -10466,6 +10592,7 @@ Clues:
 - The Greens live at No. $6$.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10638,6 +10765,7 @@ The results are shown on the bar chart below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10675,6 +10803,7 @@ TODOANSWER
 Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10779,9 +10908,11 @@ After $4$ bends she has used  $15 \ \text{cm}$ of wire.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table
 
 ![missing table](/papers/missing_table.svg)
+
 
 How much wire will she have used after $6$ bends?
  
@@ -10849,6 +10980,7 @@ In total, $38$ of the members do not play a stringed instrument.
 Use this information to complete the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -10936,6 +11068,7 @@ The number machine below changes numbers according to the rule
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10973,6 +11106,7 @@ TODOANSWER
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -11057,6 +11191,7 @@ A different number machine produces the input and output table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 What is the rule for this number machine?
 
 </div>
@@ -11117,10 +11252,12 @@ Vanessa is practising for her violin exam.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Here is a table showing the number of minutes which she 
 spent practising her violin on $5$ days last week.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -11304,6 +11441,7 @@ Complete the table.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11367,6 +11505,7 @@ In total $40$ people cannot drive.
 Fill in the table below to show this information.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -11446,9 +11585,11 @@ The number machine below adds $3$ to the input number and then multiplies by $2$
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the input and output table for this machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -11489,6 +11630,7 @@ TODOANSWER
 A different number machine produces the input and output table below 
 
 ![missing table](/papers/missing_table.svg)
+
 
 What is the rule of this number machine?
 
@@ -11552,9 +11694,11 @@ When it is born, the Joak has one head with a bristle, and one body segment with
 
 ![missing image](/papers/missing_image.svg)
 
+
 At the start of each year, Joak grows one more identical body segment so that at the start of the second year it looks like this: 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -11631,6 +11775,7 @@ TODOANSWER
 Complete the table below:
 
 ![missing table](/papers/missing_table.svg)
+
 
 start of year     number of segments    number of bristles
  1 (when born)           1                     5
@@ -11777,6 +11922,7 @@ Work out which number each symbol represents.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -11872,6 +12018,7 @@ TODOANSWER
 Complete the table to show all of the possible different types of tiles.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -11993,6 +12140,7 @@ Below are three of her tiles.
 
 ![missing image](/papers/missing_image.svg)
 
+
 The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
 
 Describe a tile which differs from the small white triangle in $1$ way.
@@ -12097,6 +12245,7 @@ She has already filled in one shape.
 
 
 
+
 Write the following $5$ shapes in the correct boxes in the table:
 
 </div>
@@ -12180,9 +12329,11 @@ Amy has the two-stage number machine shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Complete the table of input and output numbers for Amy’s machine.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -12224,11 +12375,13 @@ Hannah has a different number machine which has produced the following table of 
 
 ![missing table](/papers/missing_table.svg)
 
+
 Unfortunately the labels have fallen off Hannah’s machine.
 
 Write suitable labels on the diagram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -12287,6 +12440,7 @@ ttable
 Below is part of a train timetable:
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -12586,6 +12740,7 @@ Her results are shown in the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 Jane says “The mode is $12$”.
 
 Annabel says “The mode is $4$”.
@@ -12652,6 +12807,7 @@ The first one has already been done for you.
 ![missing table](/papers/missing_table.svg)
 
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12703,6 +12859,7 @@ ttable
 James missed the $4.20 \ \text{p.m.}$ train by three minutes.
 
 ![missing table](/papers/missing_table.svg)
+
 
 How long must he wait to catch the 5.02 p.m. train?
 
@@ -12792,6 +12949,7 @@ Complete the table below.
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -12833,6 +12991,7 @@ Claire and Erin play a similar game.
 They record their results in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 
 
 Work out what Erin does to each number that Claire calls out.
@@ -12895,7 +13054,8 @@ Mrs King asked all the children in Year $6$ if they play tennis.
 
 This table shows some of the results.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -13070,6 +13230,7 @@ Here is a pattern made with small equilateral triangles using centimetre dotted 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -13107,6 +13268,7 @@ TODOANSWER
 Complete pattern $4$ on the isometric paper below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -13147,6 +13309,7 @@ TODOANSWER
 Complete the table showing the number of lines, dots and small triangles in each pattern.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -13293,6 +13456,300 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>69F6CE4E-3035-4AF3-9690-A0A605D7DB3C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows part of the railway timetable for trains from Andforth to Ermston. 
+
+Some trains stop at stations between, and others are express trains. 
+
+All stopping trains take the same time between stations as each other.
+
+|          | Express   | Stopping   | Express   | Stopping   | Express   | Stopping |
+|----------|:---------:|------------|-----------|------------|-----------|----------|
+| Andforth | $13{:}18$ | $13{:}43$  | $14{:}24$ | $14{:}41$  | $15{:}20$ | $15{:}34$|
+| Bowlton  |           | $14{:}06$  |           | $15{:}04$  |           |          |
+| Cheeble  |           | $14{:}18$  |           | $15{:}16$  |           |          |
+| Delf     |           | $14{:}23$  |           | $15{:}21$  |           |          |
+| Ermston  | $14{:}02$ | $14{:}38$  | $15{:}08$ | $15{:}36$  | $16{:}04$ |          |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes does it take to travel from Andforth to Cheeble?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the times in the table for the stopping train which leaves Andforth at $15{:}34$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much longer does the stopping train take than the express for the journey from Andforth to Ermston?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+David lives in Bowlton and he wants to travel to Delf. He misses the $14{:}06$ train by $10 \ \text{minutes}$. How long will he have to wait for the next train?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The stopping trains travel at an average speed of $36 \ \text{miles per hour}$ for the whole journey. Work out the distance from Andforth to Ermston?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the average speed of the express trains in miles per hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -13955,9 +14412,12 @@ The grids will be useful in answering the questions below.
 
 ![missing table](/papers/missing_table.svg)
 
-![missing table](/papers/missing_table.svg)
 
 ![missing table](/papers/missing_table.svg)
+
+
+![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -14896,6 +15356,7 @@ The results in the heats were as follows, the times are all in minutes and secon
 
 ![missing table](/papers/missing_table.svg)
 
+
 In the final **Rusholme Rally** race, the winner of each heat is given a $20 \ \text{second}$ handicap, 
 the second place runner is given a $10 \ \text{second}$ handicap and any runner with a time faster than two minutes is given an **extra** $5 \ \text{second}$ 
 handicap. This means that in the final **Rusholme Rally** race, runners with no handicap set off when the start is signalled. 
@@ -15721,6 +16182,7 @@ Note that there are other players playing in the tournament whose results are no
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -15778,6 +16240,7 @@ tspeed
 In a school athletics triathlon, children score points for their performances in three events, running $100 \ \text{m}$, Long Jump and Shot Putt (throwing) according to the following table:
 
 ![missing table](/papers/missing_table.svg)
+
 
 So if Richard ran the $100 \ \text{m}$ in $13.0 \ \text{secs}$ he would earn $100$ points, he would earn a further 
 $80$ points for putting the shot $8.6 \ \text{m}$ and $70$ points for a long jump of $2.7 \ \text{m}$ making a total of 
@@ -16076,6 +16539,7 @@ There are four times as many men as women, twice as many men as boys and three t
 
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -17285,6 +17749,7 @@ tinfer
 Princess Rose of Ruritania is getting married in July. The Lord Chancellor has to organise the wedding procession which will consist of cars and police motorcycles. The diagrams below show overhead views of one car and motorcycles and of two cars and motorcycles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

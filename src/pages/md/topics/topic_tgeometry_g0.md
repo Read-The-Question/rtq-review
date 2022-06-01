@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g0"
 title: "Topic - Geometry - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,7 @@ Which $3 \text{D}$ shape does the net below make?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -87,7 +88,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 8 \times 6 \times 4 \\\\
                 &= 192 \ \text{cm}^{3}
 \end{aligned}
@@ -122,6 +124,7 @@ Label both vertices with $*$.
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with sides marked IMAGE_PLACEHOLDER_ENDS **
 
@@ -167,11 +170,13 @@ Here is a shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 I turn the shape through $45 \degree$ **clockwise**.
 
 Tick $(\checkmark)$ the diagram that shows the shape **after** the turn. 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -223,6 +228,7 @@ tnoexplanation
 **For question $\bold{32}$ to $\bold{35}$ consider this drawing of a regular polygon.**
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the exact name of this polygon?
 
@@ -338,6 +344,7 @@ are in the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -383,6 +390,7 @@ The diagram is now squashed to make the top angle $90\degree$, turning all the t
 Calculate how many acute angles there are in the diagram now.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -442,7 +450,8 @@ tgeometry
 
 How many different sized acute angles are there in the diagram below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -491,6 +500,7 @@ tgeometry
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -533,6 +543,7 @@ tgeometry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -578,6 +589,7 @@ tgeometry
 How many triangles can you find in the diagram below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -648,6 +660,7 @@ Write down the names of the following shapes:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -676,6 +689,7 @@ $\text {Quadrilateral}$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -703,6 +717,7 @@ $\text {Equilateral triangle}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -750,7 +765,9 @@ tgeometry
 
 Name the two shapes shown below
 
-![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -821,6 +838,7 @@ Name the shapes below
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -848,6 +866,7 @@ Hexagon
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -899,6 +918,7 @@ tgeometry
 The diagram shows an equilateral triangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1033,6 +1053,7 @@ tcircle
 The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1245,6 +1266,7 @@ The diagram below is made from a number of equilateral triangles.
 How many equilateral triangles (of any size) can be found in the diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

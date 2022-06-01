@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g0"
 title: "Reviewer - Uday Pandey - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2259,6 +2259,7 @@ tareaperimeter
 
 ![missing image](/papers/missing_image.svg)
 
+
 Calculate the perimeter of this triangle
 
 </div>
@@ -2454,17 +2455,49 @@ What is the next number in the pattern?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(+4)}} 
-&&  \footnotesize {\maroonC {(+4)}}  
-&&  \footnotesize {\maroonC {(+4)}}   
-&&  \footnotesize {\maroonC {(+4)}}   
-&&  \footnotesize {\maroonC {(+4)}}  \\
+&   \footnotesize {\maroonC
+ {(+4)}} 
+&&  \footnotesize {\maroonC
+ {(+4)}}  
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}  \\
+3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number in the pattern}   &= 19 + 4 \\\\
+                                    &= 23
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)}} 
+&&  \footnotesize {\maroonC
+ {(+4)}}  
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}   
+&&  \footnotesize {\maroonC
+ {(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
 \end{matrix}
 $
@@ -2629,6 +2662,7 @@ tnoexplanation
 **For question $\bold{32}$ to $\bold{35}$ consider this drawing of a regular polygon.**
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the exact name of this polygon?
 
@@ -3301,16 +3335,47 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $123$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-123)} } 
-&&  \footnotesize {\maroonC {(-123)} }  
-&&  \footnotesize {\maroonC {(-123)} }   
-&&  \footnotesize {\maroonC {(-123)} }  \\
+&   \footnotesize {\maroonC
+ {(-123)} } 
+&&  \footnotesize {\maroonC
+ {(-123)} }  
+&&  \footnotesize {\maroonC
+ {(-123)} }   
+&&  \footnotesize {\maroonC
+ {(-123)} }  \\
+951,  &&    828,  &&  705,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fourth number}        &= 705 - 123 \\\\
+                            &= 582 \\\\
+\text{Fifth number}         &= 582 - 123 \\\\
+                            &= 459
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $123$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-123)} } 
+&&  \footnotesize {\maroonC
+ {(-123)} }  
+&&  \footnotesize {\maroonC
+ {(-123)} }   
+&&  \footnotesize {\maroonC
+ {(-123)} }  \\
 951,  &&    828,  &&  705,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -3464,7 +3529,8 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -3982,7 +4048,8 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -4306,16 +4373,47 @@ $991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $127$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-127)} } 
-&&  \footnotesize {\maroonC {(-127)} }  
-&&  \footnotesize {\maroonC {(-127)} }   
-&&  \footnotesize {\maroonC {(-127)} }  \\
+&   \footnotesize {\maroonC
+ {(-127)} } 
+&&  \footnotesize {\maroonC
+ {(-127)} }  
+&&  \footnotesize {\maroonC
+ {(-127)} }   
+&&  \footnotesize {\maroonC
+ {(-127)} }  \\
+991,  &&    864,  &&  737,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fourth number}        &= 737 - 127 \\\\
+                            &= 610 \\\\
+\text{Fifth number}         &= 610 - 127 \\\\
+                            &= 483
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $127$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-127)} } 
+&&  \footnotesize {\maroonC
+ {(-127)} }  
+&&  \footnotesize {\maroonC
+ {(-127)} }   
+&&  \footnotesize {\maroonC
+ {(-127)} }  \\
 991,  &&    864,  &&  737,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -4469,7 +4567,8 @@ I buy $11$ chocolate bars costing $27 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -4836,7 +4935,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
 
@@ -5790,7 +5890,8 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
 
@@ -6101,16 +6202,47 @@ $871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $77$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-77)} } 
-&&  \footnotesize {\maroonC {(-77)} }  
-&&  \footnotesize {\maroonC {(-77)} }   
-&&  \footnotesize {\maroonC {(-77)} }  \\
+&   \footnotesize {\maroonC
+ {(-77)} } 
+&&  \footnotesize {\maroonC
+ {(-77)} }  
+&&  \footnotesize {\maroonC
+ {(-77)} }   
+&&  \footnotesize {\maroonC
+ {(-77)} }  \\
+871,  &&    794,  &&   717,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fourth number}        &= 717 - 77 \\\\
+                            &= 640 \\\\
+\text{Fifth number}         &= 640 - 77 \\\\
+                            &= 563
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $77$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-77)} } 
+&&  \footnotesize {\maroonC
+ {(-77)} }  
+&&  \footnotesize {\maroonC
+ {(-77)} }   
+&&  \footnotesize {\maroonC
+ {(-77)} }  \\
 871,  &&    794,  &&   717,  &&   \ldots && \ldots
 \end{matrix}
 $
@@ -6519,7 +6651,8 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
 
@@ -6705,6 +6838,7 @@ tfraction
 
 ![missing image](/papers/missing_image.svg)
 
+
 What fraction of the shape is shaded?
 
 </div>
@@ -6757,7 +6891,8 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. 
+It is really important to use the right units in calculations and convert where required
+. 
 
 $
 \begin{aligned}
@@ -6861,16 +6996,45 @@ $47, 40, 33, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize {\maroonC {(-7)} } 
-&&  \footnotesize {\maroonC {(-7)} }  
-&&  \footnotesize {\maroonC {(-7)} }   
-&&  \footnotesize {\maroonC {(-7)} }  \\
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+47,  &&    40,  &&  33,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}                 &= 26 - 7 \\\\
+                                   &= 19
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
 \end{matrix}
 $
@@ -7311,6 +7475,7 @@ $4.679 + 2.15 = {?}$
 
 Remember to line up the decimal points.
 
+
 $
 \begin{array}{cccccccccccccc}
         &   4 \ .   &   6   &   7   &   9 \\
@@ -7359,6 +7524,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which arrow is pointing at $2375$?
 
@@ -7499,7 +7665,8 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\pounds$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\pounds$.
 
 As per the question,
 
@@ -7612,6 +7779,7 @@ How many slabs will he need?
 
 $\text{Area} = \text{length} \times \text{width}$
 
+
 $
 \begin{aligned}
 \text{Number of slabs}  &= \dfrac {\text{Area of the garden}} {\text{Area of a slab}} \\\\
@@ -7709,6 +7877,7 @@ tsimpleword
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the perimeter of the shape above?
 
@@ -7923,7 +8092,8 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+It is really important to use the right units in calculations and convert where required
+.
 
 $
 \begin{aligned}
@@ -8025,7 +8195,8 @@ talgebra
 
 Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8561,6 +8732,7 @@ tnumber
 There is some coloured water in the jar.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How much **more** water is needed to make $\bold{2 \ \text{litres}}$?
 

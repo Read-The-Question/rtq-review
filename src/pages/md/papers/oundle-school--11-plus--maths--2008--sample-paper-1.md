@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -525,17 +525,51 @@ $4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $+6$. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC { (+6)} }
-&   \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} }
-&&  \footnotesize{\maroonC { (+6)} } \\
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&   \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} } \\
+4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 22 + 6 \\\\
+                                &= 28 \\\\
+\text{Second Missing number}    &= 28 + 6 \\\\
+                                &= 34
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $+6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&   \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} }
+&&  \footnotesize{\maroonC
+ { (+6)} } \\
 4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -579,11 +613,16 @@ The next term is calculated by multiplying the previous term by $\times 3$. Henc
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC { (\times 3) } }  
-&   \footnotesize{\maroonC { (\times 3) } } 
-&&  \footnotesize{\maroonC { (\times 3) } } 
-&&  \footnotesize{\maroonC { (\times 3) } } 
-&&  \footnotesize{\maroonC { (\times 3) } } \\
+&&  \footnotesize{\maroonC
+ { (\times 3) } }  
+&   \footnotesize{\maroonC
+ { (\times 3) } } 
+&&  \footnotesize{\maroonC
+ { (\times 3) } } 
+&&  \footnotesize{\maroonC
+ { (\times 3) } } 
+&&  \footnotesize{\maroonC
+ { (\times 3) } } \\
 1,  &&    3,  &&  9,  &&   27,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -623,16 +662,49 @@ $12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
 
 The difference between the terms is $-5$. Hence, the sequence would be:
 $
 \begin{matrix}
-&   \footnotesize{\maroonC { (-5) } }  
-&&  \footnotesize{\maroonC { (-5) } } 
-&&  \footnotesize{\maroonC { (-5) } } 
-&&  \footnotesize{\maroonC { (-5) } }  
-&&  \footnotesize{\maroonC { (-5) } } \\
+&   \footnotesize{\maroonC
+ { (-5) } }  
+&&  \footnotesize{\maroonC
+ { (-5) } } 
+&&  \footnotesize{\maroonC
+ { (-5) } } 
+&&  \footnotesize{\maroonC
+ { (-5) } }  
+&&  \footnotesize{\maroonC
+ { (-5) } } \\
+12,  &&    7,  &&  2,  &&  - 3,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= - 3 - 5 \\\\
+                                &= - 8 \\\\
+\text{Second Missing number}    &= - 8 - 5 \\\\
+                                &= - 13
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $-5$. Hence, the sequence would be:
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+ { (-5) } }  
+&&  \footnotesize{\maroonC
+ { (-5) } } 
+&&  \footnotesize{\maroonC
+ { (-5) } } 
+&&  \footnotesize{\maroonC
+ { (-5) } }  
+&&  \footnotesize{\maroonC
+ { (-5) } } \\
 12,  &&    7,  &&  2,  &&  - 3,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -676,13 +748,20 @@ The next term is calculated by adding the previous two terms. Hence, the sequenc
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC { (+ 0) } }  
-&&  \footnotesize{\maroonC { (+ 1) } } 
-&&  \footnotesize{\maroonC { (+ 1) } } 
-&&  \footnotesize{\maroonC { (+ 2) } }  
-&&  \footnotesize{\maroonC { (+ 3) } }
-&&  \footnotesize{\maroonC { (+ 5) } }
-&&  \footnotesize{\maroonC { (+ 8) } } \\
+&   \footnotesize{\maroonC
+ { (+ 0) } }  
+&&  \footnotesize{\maroonC
+ { (+ 1) } } 
+&&  \footnotesize{\maroonC
+ { (+ 1) } } 
+&&  \footnotesize{\maroonC
+ { (+ 2) } }  
+&&  \footnotesize{\maroonC
+ { (+ 3) } }
+&&  \footnotesize{\maroonC
+ { (+ 5) } }
+&&  \footnotesize{\maroonC
+ { (+ 8) } } \\
 1,  &&    1,  &&  2,  &&  3, && 5   &&  8,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $
@@ -1263,11 +1342,13 @@ talgebra
 
 ![missing image](/papers/missing_image.svg)
 
+
 $36 \ \text{cm}$
 
 A piece of wire $36 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area (in square centimetres) ?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1468,7 +1549,9 @@ talgebra
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 As his hobby, Fred builds $3$-legged stools and $4$-legged tables. Last month he used $72$ legs and he built $3$ more stools than tables. How many stools and how many tables did he build ? 
 
@@ -1640,6 +1723,7 @@ tinfer
 On this diagram, the start position is the letter $S$ on the left, and the finish position is the letter the $S$ on the right. You have to move from letter to letter, and you may only move along the lines. Following these rules, how many different routes can you find which spell out the word $SQUARES$ ?  
 
 ![missing image](/papers/missing_image.svg)
+
 
 (You may use the back of this sheet if you need extra space, but remember there is probably a quick, clever way of doing it rather than trying to write out all the possible routes!) 
 

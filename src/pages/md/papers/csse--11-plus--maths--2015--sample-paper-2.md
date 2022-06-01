@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -665,7 +665,9 @@ The table and the bar chart have not been completed.
 
 ![missing table](/papers/missing_table.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1161,7 +1163,8 @@ $
 
 Using the calculation above,
 
-$(7 \times 5) - 4 \ \quad \boxed{\green{>}}  \quad  7 \times (5 - 4)$
+$(7 \times 5) - 4 \ \quad \boxed{\green
+{>}}  \quad  7 \times (5 - 4)$
 
 </div>
 </div>
@@ -1211,7 +1214,8 @@ $
 
 Using the calculation above,
 
-$4 + 7 \times 5 \ \quad \boxed{\green{=}}  \quad  4 + (7 \times 5)$
+$4 + 7 \times 5 \ \quad \boxed{\green
+{=}}  \quad  4 + (7 \times 5)$
 
 </div>
 </div>
@@ -1262,7 +1266,8 @@ $
 
 Using the calculation above,
 
-$4 \times 5 + 7 \ \quad \boxed{\green{=}}  \quad  (5 + 4) \times (7 - 4)$
+$4 \times 5 + 7 \ \quad \boxed{\green
+{=}}  \quad  (5 + 4) \times (7 - 4)$
 
 </div>
 </div>
@@ -1308,6 +1313,7 @@ tsymmetry
 The grid shows a variety of shapes: each labelled with a letter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1423,6 +1429,7 @@ The grid shows a different set of shapes: each labelled with a letter.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which shape has been rotated to create shape $X$?
 
 </div>
@@ -1520,6 +1527,7 @@ tnumber
 Ola is looking at the scale on a thermometer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1809,6 +1817,7 @@ Dicky is making a cube from a net. One face is shaded black, one is shaded grey 
 
 ![missing image](/papers/missing_image.svg)
 
+
 In each part of the question below mark the square on the net that needs to be shaded black *to make the same cube as Dicky's*.
 
 </div>
@@ -1847,43 +1856,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -1922,6 +1894,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2158,6 +2170,7 @@ tstatistics
 Lily is planning an activity weekend with her youth club. She has asked $60$ members of the club what they would prefer to do.
 
 ![missing image](/papers/missing_image.svg)
+
 
 In each part of this question, indicate whether the statement about the pie chart is true or false.
 
@@ -2496,6 +2509,7 @@ ttime
 Petrov wants to "listen again" to several shows on the radio and is checking the list of the broadcast times.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2999,6 +3013,7 @@ tgraph
 The diagram shows a grid with the co-ordinates marked for three points.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

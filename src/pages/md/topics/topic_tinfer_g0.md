@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-g0"
 title: "Topic - Infer - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -879,6 +879,7 @@ I have a painting in a frame. The frame is $75 \ \text{cm}$ wide and $65 \ \text
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1111,6 +1112,7 @@ tinfer
 
 Here is the 65 times table:
 ![missing image](/papers/missing_image.svg)
+
 Use the table to answer the following questions 
 
 </div>
@@ -1272,6 +1274,7 @@ In the following pattern, you can only move from a letter to a
 letter immediately below it but slightly to the side in the next line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One route from $L$ to $W$ is $LMOSW$.
 
@@ -2296,9 +2299,12 @@ Two crosses can be put in three squares in three different ways, as follows.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 In how many different ways can you put three crosses in five squares?
 

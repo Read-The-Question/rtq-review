@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -820,6 +820,7 @@ In the figure below, *ABD* and *BEC* are both right-angled triangles and the mar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -951,6 +952,7 @@ todo
 The quadrilateral in the figure has two opposite right angles with side-lengths (in cm) denoted by $a,b,c,d$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1364,7 +1366,9 @@ todo
 
 The left-hand figure below is made up two semi-circular arcs of radii $5\, cm$ and $10\, cm$ together with two straight line segments. The right hand figure is made up of a large rectangle measuring $2x\, cm$ by $4x\, cm$ with a smaller one measuring $x\,cm$ by $2x\, cm$ removed from it.
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

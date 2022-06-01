@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1892,6 +1892,7 @@ Matthew buys $2$ sandwiches and a cookie with a $\pounds 5$ note.
 How much change does he receive?
 
 ![missing table](/papers/missing_table.svg)
+
                    
 <!--
 Price List
@@ -2097,6 +2098,7 @@ An orange and a pear cost $64 \ \text{pence}$.
 How much more does an apple cost than an orange?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

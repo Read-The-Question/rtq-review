@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -536,6 +536,7 @@ If $a = 120, c = 169$ find $b$ and $d$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -762,6 +763,7 @@ In the figure below, the marked lengths $AB,AC,BC,CD$ are all equal.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -932,6 +934,7 @@ The figure below shows the cross-section of a sphere of radius $3\, cm$ with the
 is given by the formula $y=\frac{\pi\,x(108-x^2)}{12}$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1214,6 +1217,7 @@ TODOANSWER
 Find the diameter of the circles.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The rest of this question concerns the region enclosed by the outer solid line round the edge of the diagram.
 

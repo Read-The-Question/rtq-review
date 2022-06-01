@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g0"
 title: "Topic - Noexplanation - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -73,6 +73,7 @@ tnoexplanation
 Look at the numbers in the star.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -527,6 +528,7 @@ What are the missing values on each of these scales?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -554,6 +556,7 @@ $4.5$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1501,6 +1504,7 @@ How many triangles are there in this diagram?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1548,6 +1552,7 @@ tnoexplanation
 What is the reading on the measuring cylinder
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1675,7 +1680,9 @@ $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-57 &= \maroonC {19} \times \maroonC {3}
+57 &= \maroonC
+ {19} \times \maroonC
+ {3}
 \end{aligned}
 $
 
@@ -1707,7 +1714,9 @@ $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
 
 $
 \begin{aligned}
-91 &= \maroonC {13} \times \maroonC {7}
+91 &= \maroonC
+ {13} \times \maroonC
+ {7}
 \end{aligned}
 $
 
@@ -1764,7 +1773,9 @@ $\boxed{\phantom{1}} \ ^2 - \boxed{\phantom{1}} \ ^2 = 33$
 <div class='workings'>
 <div class='working'>
 
-$\maroonC {7 ^ 2} - \maroonC {4 ^ 2} = 33$
+$\maroonC
+ {7 ^ 2} - \maroonC
+ {4 ^ 2} = 33$
 
 </div>
 </div>
@@ -1952,6 +1963,7 @@ tnoexplanation
 **For question $\bold{32}$ to $\bold{35}$ consider this drawing of a regular polygon.**
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the exact name of this polygon?
 
@@ -2745,6 +2757,7 @@ tnoexplanation
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which arrow is pointing at $2375$?
 
 </div>
@@ -3255,6 +3268,7 @@ Look at the numbers in the cloud:
 
 ![missing image](/papers/missing_image.svg)
 
+
 Write down any of these numbers which are:
 
 </div>
@@ -3469,6 +3483,7 @@ tnoexplanation
 **For Questions** $\bold{12-15}$, **use the clock below**.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One **afternoon**, Eadie looks at the clock.
 Write the time in $12 \ \text{hour}$ clock
@@ -3801,7 +3816,8 @@ tnoexplanation
 
 Which digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $1$ 
 
@@ -3869,7 +3885,8 @@ tnoexplanation
 
 What digit should replace the * below?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 A: $8$ 
 
@@ -4767,6 +4784,7 @@ tnoexplanation
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 From the numbers in the ring write down all the
 
@@ -6768,6 +6786,7 @@ Write down the fraction shaded. Where possible give the fraction in its simplest
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6797,6 +6816,7 @@ $\dfrac{3}{4}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8106,6 +8126,7 @@ Hui Ling measures her pencil before she sharpens it.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the length of the pencil?
 
 </div>
@@ -8300,6 +8321,7 @@ The numbers glow in the dark.
 The numbers are displayed as shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the time when the glow from the clock is least?    
 
@@ -8651,6 +8673,7 @@ How many lines are needed to draw $64$ small squares?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8740,7 +8763,8 @@ tnoexplanation
 
 What fraction of the shape is shaded?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8794,6 +8818,7 @@ In a $24 \ \text{hour}$ day, what are the two possible times of day shown by the
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8840,6 +8865,7 @@ Belinda has a digital alarm clock.
 The numbers on the clock are displayed as:
 
 ![missing image](/papers/missing_image.svg)
+
 
 Belinda's digital clock shows the time $01{:}10$
 
@@ -9200,6 +9226,7 @@ In the following pattern, you can only move from a letter to a
 letter immediately below it but slightly to the side in the next line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 One route from $L$ to $W$ is $LMOSW$.
 
@@ -9888,6 +9915,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9998,6 +10026,7 @@ What is the actual time on the clock?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10047,6 +10076,7 @@ The diagram below is made from a number of equilateral triangles.
 How many equilateral triangles (of any size) can be found in the diagram?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10291,6 +10321,7 @@ tnoexplanation
 What number is indicated by the arrow on the scale?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

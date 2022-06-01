@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-notstarted"
 title: "Topic - Detailedaddition - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -26,6 +26,7 @@ number in the square in between them. A completed example is given
 in the diagram on the left. Complete the diagram on the right.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

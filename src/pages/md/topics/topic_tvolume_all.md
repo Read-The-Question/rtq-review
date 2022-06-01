@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-all"
 title: "Topic - Volume - All"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,7 @@ Which $3 \text{D}$ shape does the net below make?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -87,7 +88,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 8 \times 6 \times 4 \\\\
                 &= 192 \ \text{cm}^{3}
 \end{aligned}
@@ -122,6 +124,7 @@ Label both vertices with $*$.
 <div class='working'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 ** IMAGE_PLACEHOLDER_STARTS Add an image with sides marked IMAGE_PLACEHOLDER_ENDS **
 
@@ -171,6 +174,7 @@ $1 \ \text{cm} \times 1 \ \text{cm}$ square hole pushed right through the centre
 
 ![missing image](/papers/missing_image.svg)
 
+
 How many small cubes are used to make this shape?
 
 </div>
@@ -201,6 +205,135 @@ TODOANSWER
 
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>ACBAF178-BDF9-4247-936C-A5729B32A986</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cube has each of its faces covered by one face of an identical cube, making the solid shape shown.
+
+The volume of the solid shape is $875 \ \text{cm}^3$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the volume of one of the cubes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the length of one side of a cube?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -287,6 +420,7 @@ How many of the small cubes can be fully fitted into the larger cuboid?
 All measurements are in centimetres.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -378,6 +512,7 @@ TODOANSWER
 Find the **surface area** of a cuboid which measures $2\ \text{cm}$ by $3\ \text{cm}$ by $7\ \text{cm}$. Include the units in your answer.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -472,6 +607,7 @@ tvolume
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram above is not drawn to scale. 
 
@@ -574,6 +710,62 @@ $130 \text{ cm}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>A0766DE9-1D5E-461E-A564-4BC6C96FAF4C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the largest number of $15\ \text{cm}$ by $30\ \text{cm}$ by $20\ \text{cm}$ shoe boxes that can fit in a $1\ \text{m}$ \times $3\ \text{m}$ \times $2\ \text{m}$ crate?
+
+Be careful - you can’t chop up the shoe boxes!
+
+![missing image](/papers/missing_image.svg)
+       ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>D1F6CD5F-2133-44D0-B392-978884312CFB</p>
 </div>
 <div class='topics'>
@@ -645,6 +837,7 @@ tvolume
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the volume of the box above?
 
@@ -821,6 +1014,7 @@ Find the volume of this shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -912,7 +1106,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Volume} &= \text{length} \times \text{width} \times \text{height} \\\\
+\text{Volume} &= \text{length} \times \text{width} \times \text{height}
+ \\\\
                 &= 5 \ \text{cm} \times 20 \ \text{cm} \times 10 \ \text{cm} \\\\
                 &= 1000 \ \text{cm}^{3}
 \end{aligned}
@@ -998,6 +1193,7 @@ tvolume
 Jelly beans are sold in boxes which are cuboids measuring $10\ \text{cm}$ by $3\ \text{cm}$ by $12\ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1123,6 +1319,7 @@ tgeometry
 The squared paper shows the nets of cuboid A and cuboid B.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1314,6 +1511,7 @@ If five grey cubes are removed from each face of the larger cube, what is the to
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1367,7 +1565,8 @@ tvolume
 
 How many cubes would you need to build the following cuboid?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1494,6 +1693,7 @@ How many blocks of ice--cream can he put into the cool box?
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
+
 As per the question,
 
 $
@@ -1610,6 +1810,7 @@ $150, 200\text{cm}^3$
 How many $2 \times 2 \times 2 \ \text{cm}$ cubes can you fit into the box below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1789,6 +1990,7 @@ A model house is made by sticking a triangular prism on top of a rectangular blo
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1842,7 +2044,9 @@ tvolume
 
 This cube and cuboid have the same volume.
 
-![missing image](/papers/missing_image.svg)             ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+             ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1968,6 +2172,7 @@ tnumber
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 The diagram shows a large cube that has been made by stacking smaller, $1 \ \text{cm}$ cubes together. 
 
@@ -2185,6 +2390,7 @@ One cube has each of its faces covered by one face of an identical cube, making 
 
 ![missing image](/papers/missing_image.svg)
 
+
 The total volume of the solid is $56\,cm^3$.
 
 </div>
@@ -2214,6 +2420,7 @@ The total volume of the solid is $56\,cm^3$.
 Find the width of one cube, in cm.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2256,6 +2463,7 @@ $2 \text {cm}$
 Find the total surface of the solid, in $cm^2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2470,6 +2678,7 @@ measurements are in cm.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the maximum number of bricks which can be fitted into the packing case?
 
 </div>
@@ -2526,9 +2735,11 @@ tvolume
 
 ![missing image](/papers/missing_image.svg)
 
+
 Blocks of this shape are packed into the container on the right. What is the greatest number of blocks that can be placed inside the container?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2614,6 +2825,7 @@ tvolume
 What is the difference in volumes of the two boxes?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2793,6 +3005,7 @@ $4 \ \text {cm}$
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A carton measures $200 \ \text{cm}$ by $100 \ \text{cm}$ by $100 \ \text{cm}$.
 
@@ -3078,6 +3291,7 @@ Work out the volume of the box and state the units.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3236,6 +3450,7 @@ This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3298,6 +3513,7 @@ On the centimetre squared grid below, draw a net for the box.
 *(The shaded face has already been drawn for you.)*
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3395,6 +3611,7 @@ TODOANSWER
 This solid shape is made from identical cubes with $1 \ \text{cm}$ edges. There are no hidden cubes.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3510,6 +3727,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 A tetrahedron is made from four congruent equilateral triangles.
 
 In the space below, draw an accurate net for this tetrahedron. 
@@ -3517,6 +3735,7 @@ In the space below, draw an accurate net for this tetrahedron.
 The shaded face has already been drawn for you.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3624,7 +3843,9 @@ In the space below, draw an accurate net for this pyramid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3667,6 +3888,7 @@ This solid shape is made from $1 \ \text{cm}$ cubes.
 Calculate the volume of the shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3725,6 +3947,7 @@ tvolume
 Small cubes like the one shown are put into the larger box.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3832,6 +4055,7 @@ and each box fits exactly inside each other, with the
 tops level. The dimensions of the largest box are $14 \times 14 \times 13$
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4008,6 +4232,7 @@ Tilly uses some of the cubes to make the cuboid shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4110,7 +4335,8 @@ tvolume
 
 Cube $A$ has a volume of $8 \ \text{cm}^3$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 
 Another cube, $B$, has edges which are twice the length of the edges of cube $A$.
@@ -4164,6 +4390,7 @@ tsimpleword
 A matchbox measures $1 \ \text{cm}$ high, $3 \ \text{cm}$ wide and $5 \ \text{cm}$ long.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4421,6 +4648,7 @@ What is its length if the volume of a cuboid is given by length x width x height
 Let the length of the second cuboid (in $\text{cm}$) $= l$
 
 $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
 
 As per the question, the two weights have the same volume. Using that we get,
 
@@ -4864,7 +5092,8 @@ tvolume
 
 A model tower block is made from centimetre cubes as shown below:
 
-![missing image](/papers/missing_image.svg)       It is $5\,cm$ by $3\,cm$ by $2\,cm$
+![missing image](/papers/missing_image.svg)
+       It is $5\,cm$ by $3\,cm$ by $2\,cm$
 
 </div>
 <div class='workings'>
@@ -5153,6 +5382,7 @@ tvolume
 
 The diagram represents a carton of orange juice in the shape of a cuboid. The carton is full. 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

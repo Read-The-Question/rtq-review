@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-g0"
 title: "Topic - Detailedmultiplication - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -4720,6 +4720,7 @@ tdetailedmultiplication
 Fill in the missing digits in this multiplication:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -28,7 +28,10 @@ tmoney
 
 Look at the menu below:
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -363,7 +366,8 @@ tvolume
 
 How many cubes would you need to build the following cuboid?
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -724,7 +728,10 @@ TODOANSWER
 
 Draw in any lines of symmetry that the shapes have.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1493,9 +1500,11 @@ ttemperature
 
 ![missing image](/papers/missing_image.svg)
 
+
 In New York it is $23\degree\text{C}$ and in Moscow it is $–5\degree\text{C}$. What is the temperature difference?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1888,6 +1897,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1962,6 +1972,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1999,6 +2010,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2228,6 +2240,7 @@ tsymmetry
 Draw the lines of symmetry on the shape below : 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2903,7 +2916,8 @@ Who pays the most and by how much ? Show all of your working clearly.
 
 
 
-![missing image](/papers/missing_image.svg)  
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -2959,7 +2973,8 @@ A group visited the theme park and were charged $\pounds105.00$. How many adults
 
 Show all of your working clearly. 
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3013,7 +3028,9 @@ Mr Green is organising a school trip. In Year 5 there are $53$ pupils and in Yea
 
 Mr Green has two options:
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+
 
 Help Mr Green find the best deal. Show your workings & give your choice 
 
@@ -3078,6 +3095,7 @@ Toys are sold in packs of $9$ and cost $\pounds10$ per pack.
 
 ![missing image](/papers/missing_image.svg)
 
+
 As a special new year offer, all prices are reduced by one quarter.
 
 How many packs of each item will she need to buy and what will be her total cost? Show all your working clearly. 
@@ -3132,7 +3150,10 @@ tareaperimeter
 
 Mrs Suzie needs to cover a floor measuring $3\ \text{m}$ by $2\ \text{m}$. There are three possible options:
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)    ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
 
 Which option is the cheapest? Show all your workings & explain clearly. 
 

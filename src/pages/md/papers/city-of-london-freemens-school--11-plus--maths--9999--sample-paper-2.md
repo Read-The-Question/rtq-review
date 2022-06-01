@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -436,9 +436,12 @@ Describe how you completed the problem:
 
 $
 \begin{matrix}
-&&  \footnotesize{\maroonC{(+8)}}  
-&&  \footnotesize{\maroonC{(+8)}}    
-&&  \footnotesize{\maroonC{(+8)}} \\
+&&  \footnotesize{\maroonC
+{(+8)}}  
+&&  \footnotesize{\maroonC
+{(+8)}}    
+&&  \footnotesize{\maroonC
+{(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
 \end{matrix}
 $
@@ -829,6 +832,7 @@ Work out the perimeter and area of the following shape:
 
 ![missing image](/papers/missing_image.svg)
 
+
 %format% - P = $9 \ \text{cm}$, A = 14cm2
 %format% - P = $14 \ \text{cm}$, A = 18cm2
 %format% - P = $18 \ \text{cm}$, A = 14cm2
@@ -895,6 +899,7 @@ tsimpleword
 The diagram below shows a shaded parallelogram drawn inside a rectangle.
 
 ![missing image](/papers/missing_image.svg)
+
 
 What is the area of the shaded parallelogram?
 
@@ -963,6 +968,7 @@ A can of lemonade from a vending machine costs 65 \text{p}$. The table below sho
 
 ![missing table](/papers/missing_table.svg)
 
+
 How many cans of lemonade were sold that day?
 
 - $\pounds 20.85 
@@ -1024,6 +1030,7 @@ talgebra
 Find the missing angles a ̊and b ̊:
 
 ![missing image](/papers/missing_image.svg)
+
 
 %format% - a = 48o, b = 53o
 %format% - a = 48o, b = 63o

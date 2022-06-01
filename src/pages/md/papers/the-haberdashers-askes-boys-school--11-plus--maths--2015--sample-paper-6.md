@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -521,6 +521,7 @@ Write down the number that the arrow is pointing to on the scale.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -630,8 +631,11 @@ tsymmetry
 How many lines of symmetry, if any, does each of these shapes have?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -948,9 +952,11 @@ A tessellation is a pattern of tiles that fit together perfectly with no gaps or
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw six more kites on the dotty paper below to show how they tessellate.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1003,6 +1009,7 @@ tgraph
 The graph shows the total amount of rainfall accumulated during a particularly wet day in January $2014$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1246,6 +1253,7 @@ tprobability
 Stuart has a dodgy dice. He rolls it $30$ times and records the results in a tally chart. Fill in the last column of the chart.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1519,16 +1527,24 @@ On the other hand, triangles $A$ and $C$ are not similar because the width of $C
 is only twice that of $A$.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 Which two rectangles in the list below are similar? 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1585,6 +1601,7 @@ The corners of this rectangular sheet of cardboard are cut out and the sheet is 
 Work out the volume of the box and state the units.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1643,6 +1660,7 @@ ttable
 Complete the multiplication table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -1758,6 +1776,7 @@ It is possible buy and sell shares in a firm on the $1 \text{st}$ January each y
 The price of each share on this date over the past $11$ years is shown in the table.
 
 ![missing table](/papers/missing_table.svg)
+
 
 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
 
@@ -1915,6 +1934,7 @@ TODOANSWER
 Work out the years in which you could have bought shares and then sold them which would have made the greatest profit and greatest loss.
 
 ![missing table](/papers/missing_table.svg)
+
 
 </div>
 <div class='workings'>
@@ -2402,6 +2422,7 @@ TODOANSWER
 Geoff arrives at the dock at Giessbach at $08{:}00$. Work out the earliest time that he can get to Grutschalp. Put the departure and arrival times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach $08{:}00$ Interlaken Lauterbrunnen Grutschalp
 
 </div>
@@ -2443,6 +2464,7 @@ TODOANSWER
 Tom travels from Giessbach to Grutschalp arriving at Grutschalp at $15{:}10$. Work out the latest time that he might have left Giessbach. Put the arrival and departure times of each stage of his journey in the table below.
 
 ![missing table](/papers/missing_table.svg)
+
 Arrive Depart Giessbach Interlaken Lauterbrunnen Grutschalp $15{:}10$
 
 </div>
@@ -2508,6 +2530,7 @@ In the interest of marital harmony each husband must sit next to his wife.
 The tickets are for seats, $A1, A2, A3$ and $A4$ shown on the plan below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2628,6 +2651,7 @@ Mr Green buys tickets for seats $A1, A2, A3, A4, B1$ and $B2$. Assuming that the
 sit still apply, work out the number of ways in which Mr Green can allocate the tickets.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

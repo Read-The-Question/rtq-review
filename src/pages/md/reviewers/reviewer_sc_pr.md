@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-pr"
 title: "Reviewer - Sahil Choudhary - PR"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ tspeed
 Look at the pictogram below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 How many more km did Baldwin run compared to Jeff? 
 
@@ -145,6 +146,7 @@ Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Perimeter $= 36 \ \text{millimetres}$
 
 Find the value of $t$.
@@ -155,7 +157,8 @@ Find the value of $t$.
 
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\
@@ -232,7 +235,8 @@ $\ldots + 46 = 100$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{54}} + 46 = 100$
+$\underline{\green
+{54}} + 46 = 100$
 
 </div>
 </div>
@@ -260,7 +264,8 @@ $9 \times \ldots = 108$
 <div class='workings'>
 <div class='working'>
 
-$9 \times \underline{\green{12}} = 108$
+$9 \times \underline{\green
+{12}} = 108$
 
 </div>
 </div>
@@ -288,7 +293,8 @@ $\ldots \div 20 = 7$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{140}} \div 20 = 7$
+$\underline{\green
+{140}} \div 20 = 7$
 
 </div>
 </div>
@@ -316,7 +322,8 @@ $3 - \ldots = -8$
 <div class='workings'>
 <div class='working'>
 
-$3 - \underline{\green{11}} = -8$
+$3 - \underline{\green
+{11}} = -8$
 
 </div>
 </div>
@@ -388,7 +395,8 @@ $2.4 \times 100 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$2.4 \times 100 = \underline{\green{240}}$
+$2.4 \times 100 = \underline{\green
+{240}}$
 
 </div>
 </div>
@@ -416,7 +424,8 @@ $8600 \div 10 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$8600 \div 10 = \underline{\green{860}}$
+$8600 \div 10 = \underline{\green
+{860}}$
 
 </div>
 </div>
@@ -444,7 +453,8 @@ $\ldots \times 30 = 600$
 <div class='workings'>
 <div class='working'>
 
-$\underline{\green{20}} \times 30 = 600$
+$\underline{\green
+{20}} \times 30 = 600$
 
 </div>
 </div>
@@ -472,7 +482,8 @@ $80 \div 200 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$80 \div 200 = \underline{\green{0.4}}$
+$80 \div 200 = \underline{\green
+{0.4}}$
 
 </div>
 </div>
@@ -647,11 +658,15 @@ The large can weighs $425 \ \text{grams}$.
 
 ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
 
 Work out the weight of one small can.
 
@@ -661,7 +676,8 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total weight into $\text{grams}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total weight into $\text{grams}$.
 
 $
 \begin{aligned}
@@ -819,7 +835,8 @@ $0.609 \quad     0.069 \quad     0.63 \quad     0.063$
 <div class='workings'>
 <div class='working'>
 
-$0.609 \quad     0.069 \quad     \boxed{\green{0.63}} \quad     0.063$
+$0.609 \quad     0.069 \quad     \boxed{\green
+{0.63}} \quad     0.063$
 
 </div>
 </div>
@@ -847,7 +864,8 @@ $-7.5 \quad    -1 \quad      -8 \quad     -1.5$
 <div class='workings'>
 <div class='working'>
 
-$-7.5 \quad   \boxed{\green{-1}} \quad      -8 \quad     -1.5$
+$-7.5 \quad   \boxed{\green
+{-1}} \quad      -8 \quad     -1.5$
 
 </div>
 </div>
@@ -882,7 +900,8 @@ $
 \end{aligned}
 $
 
-$0.09 \quad     39\% \quad    \boxed{\green{0.44}} \quad     \dfrac{2}{5}$
+$0.09 \quad     39\% \quad    \boxed{\green
+{0.44}} \quad     \dfrac{2}{5}$
 
 </div>
 </div>
@@ -985,6 +1004,7 @@ talgebra
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Estimate the size of angle $r$.
 
@@ -1166,7 +1186,8 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required. Let's convert the total water into $\text{ml}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total water into $\text{ml}$.
 
 $
 \begin{aligned}
@@ -1223,6 +1244,7 @@ You may use the grid to help you.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1258,7 +1280,8 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
 
 Width of the rectangle $= 4 \ \text{cm}$ 
 
@@ -1315,7 +1338,8 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required. Let's convert all the costs into $\text{pence}$.
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the costs into $\text{pence}$.
 
 As per the question,
 
@@ -1403,9 +1427,13 @@ Three shops advertise the same luxury chair.
 Each shop has a special offer. 
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 At which shop is the price of the two chairs the cheapest? 
 
@@ -2525,6 +2553,7 @@ As per the question,
 
 It is really important to use the right units in calculations and convert where required.
 
+
 $
 \begin{aligned}
 \text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
@@ -2579,10 +2608,7 @@ $\pounds 2.65$ and $\pounds 2.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-todo
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2713,6 +2739,7 @@ Calculate the total length marked with $x$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2822,6 +2849,7 @@ In the diagram the small squares are all the same size. What fraction of the lar
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2891,9 +2919,11 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$    \\\\
+$\text{Area} = \text{length} \times \text{width}$
+    \\\\
 
-It is really important to use the right units in calculations and convert where required.    \\\\
+It is really important to use the right units in calculations and convert where required.
+    \\\\
 
 $
 \begin{aligned}
@@ -3171,6 +3201,7 @@ Matthew buys $2$ sandwiches and a cookie with a $\pounds 5$ note.
 How much change does he receive?
 
 ![missing table](/papers/missing_table.svg)
+
                    
 <!--
 Price List
@@ -3410,6 +3441,7 @@ What is the difference in volumes of the two boxes?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3516,7 +3548,8 @@ tnumber
 
 Here is a recipe to make $6$ pancakes.
 
-![missing table](/papers/missing_table.svg) 
+![missing table](/papers/missing_table.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4195,6 +4228,7 @@ Find the perimeter of this square.
         
 ![missing image](/papers/missing_image.svg)
 
+
 Area = $49 \ \text{cm}^{2}$
 
 - $49 \ \text{cm}$
@@ -4399,6 +4433,7 @@ Convert $5300 \ \text{grams}$ to kilograms.
 
 It is really important to use the right units in calculations and convert where required
 
+
 $
 \begin{aligned}
 \text{One gram} &= \dfrac{1}{1000} \\\\
@@ -4467,11 +4502,16 @@ Hence, the sequence would be
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC{(- \dfrac{1}{3})}} 
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}  
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}   
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}   
-&&  \footnotesize{\maroonC{(- \dfrac{1}{3})}}  \\
+&   \footnotesize{\maroonC
+{(- \dfrac{1}{3})}} 
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}  
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}   
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}   
+&&  \footnotesize{\maroonC
+{(- \dfrac{1}{3})}}  \\
 243,  &&    -81,  &&  27,  &&   -9,  &&   \ldots && \ldots
 \end{matrix}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-blocked"
 title: "Topic - Simpleword - Blocked"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -202,6 +202,7 @@ tsimpleword
 Jon is using square ceramic tils, each $20 \ \text{cm} \times 20 \ \text{cm}$, to cover a rectangular worktop in his greenhouse.
 
 ![missing image](/papers/missing_image.svg)
+
 
 He can fit exactly $6$ tiles along the shorter edge of the worktop and $15$ along the length.
 
@@ -551,6 +552,7 @@ The diagram shows four identical white rectangles around a shaded square.
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the area of the shaded square?
 
 </div>
@@ -632,6 +634,7 @@ tunitprompt
 A glass holds $\bold{225\ \text{ml}}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
 
@@ -1090,6 +1093,7 @@ Find  the   area  of this  shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1182,6 +1186,7 @@ Find the perimeter of the compound shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 - $92 \ \text{cm}$
 - $52 \ \text{cm}$
 - $36 \ \text{cm}$
@@ -1251,6 +1256,7 @@ tsimpleword
 Here are three squares that overlap.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The non-overlapping parts of the squares have a total area of $90 \ \text{cm}^{2}$.
 

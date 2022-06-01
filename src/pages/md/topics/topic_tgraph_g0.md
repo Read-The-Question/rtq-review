@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-g0"
 title: "Topic - Graph - G0"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -21,6 +21,7 @@ tgraph
 Students at Arlington Secondary School were polled regarding their favourite drinks.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Given that there are $600$ students at the school, how many more preferred root beer than lemonade?
 
@@ -78,6 +79,7 @@ tgraph
 Students in 6C were asked about their favourite sports. The results are displayed in the pie chart below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 $36$ students chose hockey.
 
@@ -151,6 +153,7 @@ tgraph
 Each pupil in a class were asked their favourite colour. The bar graph shows these results.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-notstarted"
 title: "Topic - Symmetry - Not Started"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <ul class='question default-decimal'>
 <li>
@@ -28,9 +28,11 @@ The square grid shows a rectangle reflected in **two mirror lines**.
 
 ![missing image](/papers/missing_image.svg)
 
+
 On the square grid below, show the triangle reflected in the two mirror lines.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -124,43 +126,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -200,6 +165,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -237,6 +203,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -333,43 +339,6 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -409,6 +378,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -446,6 +416,46 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -543,6 +553,7 @@ Write the letters of the two shapes which have a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -582,6 +593,7 @@ TODOANSWER
 How many lines of symmetry does the shape on the left have?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -623,6 +635,7 @@ If you looked in a mirror at an accurate clock at $1{:}30 \ \text{pm}$,
 which one of the following (A, B, C, D or E) would you see?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -684,6 +697,7 @@ Write down the number of lines of symmetry for each hexagon.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -738,6 +752,7 @@ tsymmetry
 Write down the number of lines of symmetry (mirror lines) for each shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -797,10 +812,12 @@ The mouse below been rotated and then reflected.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which of the following would show how the polecat would 
 look if it had been rotated and then reflected in the same way?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -857,6 +874,7 @@ How many lines of symmetry (mirror lines) does the shape below have?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -912,11 +930,15 @@ These patterns are from Islamic designs. Example
 
 ![missing image](/papers/missing_image.svg)
 
+
 Each pattern has one or more lines of symmetry.
 
 Draw all the lines of symmetry in each pattern.
 
-![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg) ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1010,6 +1032,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1047,6 +1070,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1109,6 +1133,7 @@ Reflect the shapes in the grids below so tht the marked lines are lines of symme
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1167,6 +1192,7 @@ Shade three more squares so that the dotted line is a line of symmetry (mirror l
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1223,7 +1249,8 @@ tsymmetry
 
 I have four identical square tiles.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -1262,6 +1289,7 @@ TODOANSWER
 Shade in the diagram below to show how the four tiles can fit together to make a pattern with $\bold{4\:\:lines\:\: of\:\: symmetry}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1303,6 +1331,7 @@ Now shade in the next diagram to show how the four tiles can fit together to mak
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -1342,6 +1371,7 @@ TODOANSWER
 Show how the four tiles can fit together to make a pattern with $\bold{rotation\:\: symmetry\:\: of\:\: order\:\: 2}$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1383,6 +1413,112 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>88784DF1-855E-47AE-A6EF-82FC23ADD1C9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Reflect the letters in the mirror line below. Three letters have been done for you.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>794A5992-423B-4DEA-9BC8-CADF21664EFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Reflect the grey shape in the dashed mirror line.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>6CE97368-18FB-44FB-B1E4-D30B5F984D3A</p>
 </div>
 <div class='topics'>
@@ -1403,6 +1539,7 @@ tsymmetry
 Finish shading the diagram, colouring *only two* more squares, so that the image has one **vertical** line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1461,6 +1598,7 @@ tsymmetry
 The grid shows a variety of shapes: each labelled with a letter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1575,6 +1713,7 @@ TODOANSWER
 The grid shows a different set of shapes: each labelled with a letter.
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which shape has been rotated to create shape $X$?
 
@@ -1782,6 +1921,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 What is the order of rotational symmetry ofthis shape?
 
 </div>
@@ -1890,6 +2030,7 @@ tsymmetry
 
 ![missing image](/papers/missing_image.svg)
 
+
 Which shape has exactly $2$ lines of reflective symmetry and also rotational symmetry?
 
 </div>
@@ -1944,6 +2085,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which shape has no lines of reflective symmetry?
 
@@ -2002,6 +2144,7 @@ Which shape has exactly two lines of symmetry?
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2054,6 +2197,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 Which shape has $3$ of reflective symmetry?
 
@@ -2109,6 +2253,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 What would be the coordinates of $D$ if the shape above was reflected in the y-axis?
 
@@ -2169,6 +2314,7 @@ tsymmetry
 Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2265,6 +2411,7 @@ on the diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2304,6 +2451,7 @@ TODOANSWER
 Now shade two sections in the second line grid so that the overall shape has an order of rotational symmetry of two.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2367,7 +2515,8 @@ tgeometry
 
 $A, B$ and $C$ are three points on a grid. $A$ is at $(5,2) B$ is at $(4,5)$ and $C$ is at $(3,0)$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -2648,6 +2797,7 @@ Circle which of the four options below shows a correct **rotation** of the word:
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -2677,6 +2827,7 @@ $\text {Option 1}$
 Circle which of the four options below shows a correct **reflection** of the word:
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2753,10 +2904,14 @@ tgeometry
 
 Circle which of the following shapes has two both lines of symmetry and rotational symmetry of order $2$.
 
-![missing image](/papers/missing_image.svg) 
 ![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg) 
+ 
 ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+ 
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -2875,6 +3030,7 @@ TODOANSWER
 Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3056,6 +3212,7 @@ Draw the reflection of this triangle in the mirror line shown.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -3191,7 +3348,8 @@ tdraw
 
 Rotate the triangle through $180\degree$ about the point marked $A$.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3249,7 +3407,8 @@ tdraw
 
 Draw the reflection of each shape in the mirror line as shown.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3310,7 +3469,8 @@ tsymmetry
 
 Sarah has designed a tile for her new kitchen as shown below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3349,6 +3509,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3392,8 +3553,11 @@ half a turn.
 Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -3458,7 +3622,8 @@ tareaperimeter
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3744,10 +3909,15 @@ Which image completes the symmetric figure
 using the dashed line of symmetry?
 ![missing image](/papers/missing_image.svg)
 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
-- ![missing image](/papers/missing_image.svg) 
+
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
+- ![missing image](/papers/missing_image.svg)
+ 
 
 
 </div>
@@ -3806,7 +3976,8 @@ tsymmetry
 
 Reflect these shapes in the mirror lines.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -3987,7 +4158,9 @@ tdraw
 
 Draw an extra line to give each shape below one line of symmetry.
 
-![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -4086,6 +4259,7 @@ Write down the names of the four shapes in this diagram.
 
 ![missing image](/papers/missing_image.svg)
 
+
 Shape 1 is a____________________ 
 
 Shape 2 is a____________________
@@ -4170,6 +4344,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4207,6 +4382,7 @@ TODOANSWER
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4250,6 +4426,7 @@ TODOANSWER
 Complete the shaded shape on the diagram below to make the dotted line a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4312,6 +4489,7 @@ The dotted line is a line of symmetry of a shape, which is partly drawn. On the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4364,6 +4542,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4495,7 +4674,9 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4634,6 +4815,7 @@ Draw the reflection of the shaded shape on the grid.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4725,6 +4907,7 @@ Draw all of the lines of symmetry on the following shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4764,6 +4947,7 @@ TODOANSWER
 How many lines of symmetry has the shape below?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -4861,6 +5045,7 @@ On the grid below draw the reflection of the shape shown in the mirror line $AB$
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -4920,6 +5105,7 @@ A square grid is separated into $16$ small squares.
 How many ways can $\text{two squares}$ be shaded so that the gird has symmetry about the diagonal line AC if
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5035,9 +5221,15 @@ On the grids below, show all the ways exactly two squares can be shaded so that 
 
 (You may not need to use all the grids.)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
 
-![missing image](/papers/missing_image.svg)   ![missing image](/papers/missing_image.svg)  ![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5101,7 +5293,8 @@ On the diagram below, shade some white squares until the shape has
 - no lines of symmetry
 - rotational symmetry of order $2$
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5462,7 +5655,10 @@ TODOANSWER
 
 Draw in any lines of symmetry that the shapes have.
 
-![missing image](/papers/missing_image.svg)     ![missing image](/papers/missing_image.svg)      ![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -5525,6 +5721,7 @@ Draw the lines of symmetry on the shape below :
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5583,6 +5780,7 @@ Shade in one square to this pattern to give it one line of symmetry and draw on 
 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5742,6 +5940,7 @@ In how many ways can you join the two shapes shown below to make a figure with o
  
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5822,7 +6021,9 @@ TODOANSWER
 Draw all the lines of symmetry on each of these shapes.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5863,7 +6064,9 @@ TODOANSWER
 State the order of rotational symmetry of each of these shapes.
 
 - ![missing image](/papers/missing_image.svg)
+
 - ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -5923,6 +6126,7 @@ Shade exactly three squares so that the shape has reflection symmetry about any 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -5974,7 +6178,8 @@ tsymmetry
 </div>
 <div class='question question'>
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6155,7 +6360,8 @@ tsymmetry
 
 Shade the smallest number of squares so that the two dotted lines become lines of symmetry (mirror lines) of the completed diagram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6213,7 +6419,8 @@ tsymmetry
 
 Reflect the shape in the dotted line.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6270,6 +6477,7 @@ tsymmetry
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6413,7 +6621,8 @@ tdraw
 <div class='question question'>
 
 Look at the shape on the grid below:
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -6531,6 +6740,7 @@ Now look at the diagram which shows the shape **reflected**. Put a cross on the 
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6570,6 +6780,7 @@ TODOANSWER
 Now look at the diagram which shows the shape **rotated** .Put a cross on the grid to show where B is rotated to.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6666,6 +6877,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6703,6 +6915,7 @@ TODOANSWER
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6762,6 +6975,7 @@ In the diagram below, we want to complete the pattern of $3$ shaded and $4$ unsh
 Which hexagon do I shade for my final pattern to have exactly $2$ lines of symmetry?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -6916,6 +7130,7 @@ On the grid, shade in one more square so that the completed shape has one line o
 
 ![missing table](/papers/missing_table.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -6955,6 +7170,7 @@ TODOANSWER
 On the grid below, shade in three more squares so that the completed shape has a rotational symmetry of order $2$.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7015,7 +7231,8 @@ tdraw
 
 Here is a parallelogram.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -7093,6 +7310,7 @@ Here is a shape
 
 ![missing image](/papers/missing_image.svg)
 
+
 Draw all the lines of symmetry on this shape.
 
 </div>
@@ -7155,8 +7373,11 @@ tsymmetry
 How many lines of symmetry, if any, does each of these shapes have?
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7261,6 +7482,7 @@ $(2, 2) \quad (6,2) \quad (4,4)$
 (The first one has already been done for you.)
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -7592,6 +7814,7 @@ tsymmetry
 $3$ lines of symmetry have been drawn on this equilateral triangle, dividing it Into sections. One section has been shaded.
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -7755,6 +7978,7 @@ tgraph
 $3$ points have been plotted and Joined on the centimetre grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8017,6 +8241,7 @@ Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8240,6 +8465,7 @@ Shapes $A$ and $D$ are drawn on the centimetre-square grid below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8461,7 +8687,8 @@ tareaperimeter
 
 Shape $P$ is drawn on the centimetre-square grid below.
 
-![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+ 
 
 </div>
 <div class='workings'>
@@ -8644,6 +8871,7 @@ Draw in the remainder of the shape.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8701,6 +8929,7 @@ Put a tick next to each shape if the line drawn on it is a line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8738,6 +8967,105 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>31CF13C3-E473-4571-A175-50D8AB2E4A75</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Draw the reflection of each shape in the given line.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>E3F9CC9C-3F60-4BFA-A9FB-0C67928F93A4</p>
 </div>
 <div class='topics'>
@@ -8758,6 +9086,7 @@ tsymmetry
 Shade the diagram so that the dotted line is line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8853,6 +9182,7 @@ Circle any shapes below which have only $1$ line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8892,6 +9222,7 @@ TODOANSWER
 Draw all the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -8933,6 +9264,7 @@ Reflect the shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -8972,6 +9304,7 @@ TODOANSWER
 Complete the diagram below so that the finished pattern has symmetry in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9060,6 +9393,7 @@ Draw all lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9089,6 +9423,7 @@ TODOANSWER
 Reflect the shaded shape in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9121,6 +9456,7 @@ This clock has been reflected in a mirror.
 What time is it?
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9209,6 +9545,7 @@ Draw all of the lines of symmetry on the shape below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9249,6 +9586,7 @@ Reflect the shape below in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9288,6 +9626,7 @@ TODOANSWER
 Add **one** square to the picture drawn on the dotten grid below, so that the finished shape has exactly one line of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9350,6 +9689,7 @@ Billy has designed the tile shown below.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9387,6 +9727,7 @@ TODOANSWER
 Complete the grid below to show the tile if it is rotated through a quarter turn clockwise.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9429,6 +9770,7 @@ Billy decides to reflect the tile in the dashed line shown below, and then rotat
 Draw the resulting tile in the grid below. You may complete the middle tile if you wish.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9494,6 +9836,7 @@ The diagram below shows $4$ right-angled triangular pieces of card.
 
 ![missing image](/papers/missing_image.svg)
 
+
 These pieces of card can be put together to form geometrical shapes.
 
 The pieces of card could be turned upside down or rotated if necessary.
@@ -9501,6 +9844,7 @@ The pieces of card could be turned upside down or rotated if necessary.
 On the grid below, $4$ pieces have been put together to form a pentagon.
 
 ![missing image](/papers/missing_image.svg)
+
 
 On each grid below, draw a diagram to show all $4$ pieces of card could be put together to form:
 
@@ -9542,6 +9886,7 @@ a rectangle
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9581,6 +9926,7 @@ TODOANSWER
 a trapezium with one line of symmetry
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9622,6 +9968,7 @@ a parallelogram
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9661,6 +10008,7 @@ TODOANSWER
 a kite
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9720,6 +10068,7 @@ Reflect the shape below in the dashed line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9777,6 +10126,7 @@ tdraw
 Shapes $A, B, C$ and $D$ are drawn on the grid below.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -9894,6 +10244,7 @@ On the grid below, draw a shape made up of $8$ little squares which has rotation
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -9954,7 +10305,9 @@ tsymmetry
 Draw all of the lines of symmetry on each shape below.
 
 ![missing image](/papers/missing_image.svg)
+
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10014,6 +10367,7 @@ Reflect the shaded shape in the mirror line.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10051,6 +10405,71 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>0F83B378-870A-46A5-BBA2-DB87BF64CCC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Draw in all the axes of symmetry in these shapes. If any shape has no axes of symmetry, write NONE inside the shape.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>BCE84410-3874-4D26-A465-0BA080414253</p>
 </div>
 <div class='topics'>
@@ -10071,6 +10490,7 @@ tsymmetry
 Complete the following diagram so that the dotted line becomes an axis of symmetry.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10204,6 +10624,7 @@ Draw in the lines of symmetry.
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -10264,6 +10685,7 @@ tsymmetry
 Draw **ALL** the lines of symmetry on this shape.
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -10494,6 +10916,7 @@ Complete the diagram so that it has reflective symmetry in the dotted lines.
 
 ![missing image](/papers/missing_image.svg)
 
+
 line of symmetry
 
 </div>
@@ -10553,7 +10976,12 @@ tsymmetry
 Draw $\underbar{all}$ the lines of symmetry on the shapes below:
 
 
-![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg) $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
+![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+ $\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:
 
 $Square$\:\:\:\:\:\:\:\:$Isosceles$\:\:\:\:\:\:\:\:$Triangle$\:\:\:\:\:\:\:\:$Regular$\:\:\:\:\:\:\:\:$Pentagon
 
@@ -10617,11 +11045,13 @@ Look at the triangle ABC, drawn on a square grid.
 
 
 
+
 Here are some statements about triangle ABC. 
 
 For each statement tick $(\checkmark )$ True or False.
 
 ![missing image](/papers/missing_image.svg)
+
 
 The triangle is isosceles.
 

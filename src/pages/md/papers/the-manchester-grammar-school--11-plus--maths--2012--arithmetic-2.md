@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-06-01 14:18:26
+date: 2022-06-01 17:49:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -32,6 +32,7 @@ tsimpleword
 All the measurements in the following diagram are given in centimetres
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -343,11 +344,14 @@ Cheadle Construction uses metal beams, like the one below, in buildings to suppo
 
 ![missing image](/papers/missing_image.svg)
 
+
 The beams can be placed in one of two ways so the end of the beam is in either Position $1$ or Position $2$.
 
 ![missing image](/papers/missing_image.svg)
 
+
 ![missing image](/papers/missing_image.svg)
+
 
 The height and width of a beam (in cms) determines the size of the greatest load (in kgs) the beam can support, according to the following formula
 
@@ -558,16 +562,25 @@ The Code Club at Bletchley Park School were taking a break from their normal act
 
 |     Code    |            for the picture of            |
 |-------------|------------------------------------------|
-|   ![missing image](/papers/missing_image.svg)   |                 a circle                 |
-|   ![missing image](/papers/missing_image.svg)   |         a circle inside a circle         |
-| and ![missing image](/papers/missing_image.svg) | a circle inside a circle inside a circle |
+|   ![missing image](/papers/missing_image.svg)
+   |                 a circle                 |
+|   ![missing image](/papers/missing_image.svg)
+   |         a circle inside a circle         |
+| and ![missing image](/papers/missing_image.svg)
+ | a circle inside a circle inside a circle |
 
 and so on.
 
-|  So | ![missing image](/papers/missing_image.svg) | is | ![missing image](/papers/missing_image.svg) |
+|  So | ![missing image](/papers/missing_image.svg)
+ | is | ![missing image](/papers/missing_image.svg)
+ |
 |:---:|:-------:|----|---------|
-| and | ![missing image](/papers/missing_image.svg) | is | ![missing image](/papers/missing_image.svg) |
-| and | ![missing image](/papers/missing_image.svg) | is | ![missing image](/papers/missing_image.svg) |
+| and | ![missing image](/papers/missing_image.svg)
+ | is | ![missing image](/papers/missing_image.svg)
+ |
+| and | ![missing image](/papers/missing_image.svg)
+ | is | ![missing image](/papers/missing_image.svg)
+ |
 
 </div>
 <div class='workings'>
@@ -631,6 +644,7 @@ TODOANSWER
 
 ![missing image](/papers/missing_image.svg)
 
+
 </div>
 <div class='workings'>
 <div class='working'>
@@ -658,6 +672,7 @@ $| \ \ |(|) \ |(|)$
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -691,6 +706,7 @@ $|(| |) \ |(|(|))$
 Draw the picture for the following code 
 
 ![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
@@ -1980,6 +1996,7 @@ The distance all the way round the outside of my bicycle wheel is known as the c
 
 ![missing image](/papers/missing_image.svg)
 
+
 So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
 
 Using this approximation that $\bold { \textbf{Circumference} = 3 \times \textbf{diameter} }$
@@ -2702,6 +2719,7 @@ tgraph
 <div class='question question'>
 
 ![missing image](/papers/missing_image.svg)
+
 
 A point is described by its coordinates, eg point $B$ on the diagram has coordinates $(9,8)$. This is not the same as $(8,9)$. Point $A$ has coordinates $(0,0)$.
 

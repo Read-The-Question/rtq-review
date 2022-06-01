@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-06-01 14:01:56
+date: 2022-06-01 14:18:26
 ---
 <div class='paper'>
 <div class='meta'>

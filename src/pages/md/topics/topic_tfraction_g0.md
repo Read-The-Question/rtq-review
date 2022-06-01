@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g0"
 title: "Topic - Fraction - G0"
-date: 2022-06-01 14:01:56
+date: 2022-06-01 14:18:26
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1089,10 +1089,10 @@ $29, 31, 37$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tfraction
 </li>
 <li>
 tcircle
@@ -1758,9 +1758,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>

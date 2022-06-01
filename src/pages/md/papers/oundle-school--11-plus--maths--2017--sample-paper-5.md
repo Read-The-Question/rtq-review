@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -975,10 +975,7 @@ $\dfrac {2} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>

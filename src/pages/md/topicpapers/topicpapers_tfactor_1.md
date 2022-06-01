@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfactor-1"
 title: "TopicPaper - Factor - 1"
-date: 2022-06-01 11:48:35
+date: 2022-06-01 14:16:24
 ---
 <div class='paper'>
 <div class='meta'>

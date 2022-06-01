@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -20,13 +20,7 @@ date: 2022-06-01 11:39:10
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1269,7 +1263,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage

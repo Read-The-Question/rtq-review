@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g0"
 title: "Topic - Fraction - G0"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -811,6 +811,67 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 
 <div class='papername'>
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5A9496E7-B32E-4AE6-87D8-FC2CF250E29B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tfraction
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
+
+$10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
+&= \dfrac {100} {8} \\\\
+&= \dfrac {25 \times 4} {2 \times 4} \\\\
+&= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
+&= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
+&= 12.5 \%
+\end {aligned}
+$
+
+The best answer is $= 12 \%$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

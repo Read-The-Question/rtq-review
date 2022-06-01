@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-2"
 title: "TopicPaper - Algebra - 2"
-date: 2022-06-01 11:48:35
+date: 2022-06-01 14:16:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,117 @@ date: 2022-06-01 11:48:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4F836F04-C354-45B9-A5A9-1A6EAED7234D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve these equations to find $x$: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x - 5 = 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x - 5               &= 17 \\\\
+x                   &= 17 + 5 \\\\
+x                   &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {x} {2} + 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{x} {2} + 3               &= 12 \\\\
+\dfrac{x} {2}                   &= 12 -3  \\\\
+\dfrac{x} {2}                   &= 9 \\\\
+x                               &= 9 \times 2 \\\\
+x                               &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
@@ -3356,6 +3467,75 @@ $14$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$60\%$ of a number is $240$. What is the number? 
+
+A: $60$ 
+
+B: $144$ 
+
+C: $240$ 
+
+D: $300$ 
+
+E: $400$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+60 \% \ \text {of} \ a               &=  240 \\\\
+\dfrac {60} {100} \times a           &=  240 \\\\
+a                                    &=  240 \times \dfrac {100} {60} \\\\
+a                                    &=  \dfrac {240 \times 100} {60} \\\\
+a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
+a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
+a                                    &=  4 \times 100 \\\\
+a                                    &=  400
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$400$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -8133,6 +8313,58 @@ $240 \ \text{g}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9C476DF3-1D21-4622-8A07-7B3EB467FF54</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ball is dropped and bounces up to a height that is $75\%$ of the height from which it was dropped. 
+It then bounces again to a height that is $75\%$ of the previous height and so on. How many bounces does it make 
+before it bounces to a height that is less than $25\%$ of the original height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:35</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>9534D4D0-5ABE-4A31-B52C-8A1B05281589</p>
@@ -10210,6 +10442,62 @@ $a=12 b=0,a=3 b=12$
 
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2017--sample-paper-5:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A large sack holds $20\%$ more potatoes than a small sack. If one large sack and one small sack together contain $77$ potatoes, how many potatoes does each sack hold?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the potatoes in small sack $= x$
+
+$
+\begin{aligned}
+\text{Potatoes in large sack}                       &= x + 20 \% \times x \\\\
+x + 20 \% \times x + x                              &= 77 \\\\
+2x + \dfrac{20x}{100}                               &= 77 \\\\
+\dfrac {2x \times 100 + 20x} {100}                  &= 77 \\\\
+\dfrac{200x + 20x}{100}                             &= 77 \\\\
+\dfrac{220x}{100}                                   &= 77 \\\\
+x                                                   &= \dfrac{77 \times 100}{220} \\\\
+x                                                   &= \dfrac{7 \times \cancel{11} \times \cancel{2}\times 5 \cancel{0}} {\cancel{2} \times \cancel{11} \cancel{0}} \\\\
+x                                                   &= 35 \\\\
+\text{Potatoes in large sack}                       &= 77 - 35 \\\\
+                                                    &= 42
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35,42$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -13195,384 +13483,6 @@ $4 \ \text{and} \ 7$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>F144AB4B-7F3C-4D5C-A3B8-FD43E18D9B4E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I think of a number, double it and take away $5$. The answer is $13$. What was my number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number that I think of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-2a - 5                                                       &= 13 \\\\
-2a                                                           &= 13 + 5 \\\\
-2a                                                           &= 18 \\\\
-a                                                            &= \dfrac {18} {2} \\\\
-a                                                            &= \dfrac {9 \times 2} {2} \\\\
-a                                                            &= \dfrac {9 \times \cancel{2}} {\cancel{2}} \\\\
-a                                                            &= 9
-\end{aligned}
-$
-
-The number I thought of $= 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I think of another number, take away $5$ and then double it. My answer is again $16$. What was my number this time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the other number I think of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-2(a - 5)                                                     &= 16 \\\\
-2a - 10                                                      &= 16 \\\\
-2a                                                           &= 16 + 10 \\\\
-2a                                                           &= 26 \\\\
-a                                                            &= \dfrac {26} {2} \\\\
-a                                                            &= \dfrac {13 \times 2} {2} \\\\
-a                                                            &= \dfrac {13 \times \cancel{2}} {\cancel{2}} \\\\
-a                                                            &= 13
-\end{aligned}
-$
-
-The other number I thought of $= 13$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Finally I think of another number, multiply it by itself and take away $5$. My answer is $31$. What was the number I thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the final number I think of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a^{2} - 5                                                &= 31 \\\\
-a^{2}                                                    &= 31 + 5 \\\\
-a^{2}                                                    &= 36 \\\\
-a^{2}                                                    &= 6 \times 6 \\\\
-a^{2}                                                    &= 6^{2} \\\\
-a                                                        &= 6
-\end{aligned}
-$
-
-The final number I thought of $= 6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>D8DDAA97-5C24-49AD-AD19-FECB4EA32A69</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Three quarters of a local tennis club are girls. There are $20$ boys in the club. How many girls are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of children $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
-a                                                        &= \dfrac {3a} {4} + 20 \\\\
-a - \dfrac {3a} {4}                                      &= 20 \\\\
-\dfrac {a \times 4} {1 \times 4} - \dfrac {3a} {4}       &= 20 \\\\
-\dfrac {4a -3a} {4}                                      &= 20 \\\\
-4a -3a                                                   &= 20 \times 4 \\\\
-a                                                        &= 80
-\end{aligned}
-$
-
-The total number of children in the club $= 80$
-
-Let's find how many girls are in the club.
-
-$
-\begin{aligned}
-\text{Total girls}                                       &= \text{Total children} - \text{Total boys} \\\\
-                                                         &= 80 - 20 \\\\
-                                                         &= 60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:43</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find two numbers that have a difference of $8$ and added upto $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first number $= a$
-
-Let the second number $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-a - b                    &= 8 \\\\
-a + b                    &= 18
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Add the second equation to the first to reduce it to one variable.
-
-$
-\begin{aligned}
-a - b + (a - b)          &= 8 + 18 \\\\
-a - b + a + b            &= 26 \\\\
-2a                       &= 26 \\\\
-a                        &= \dfrac {26} {2} \\\\
-a                        &= \dfrac {2 \times 13} {2} \\\\
-a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
-a                        &= 13
-\end{aligned}
-$
-
-Let's substitute the value of $a$ in one of the equations.
-
-$
-\begin{aligned} 
-a + b                    &= 18 \\\\
-13 + b                   &= 18 \\\\
-b                        &= 18 - 13 \\\\
-b                        &= 5
-\end{aligned}
-$
-
-Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \ \text{and} \ 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of chocolate in the bar $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
-a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
-a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
-a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
-\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
-\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
-\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
-\dfrac {a} {6}                                                                                              &= 100 \\\\
-a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600 \text{g}
-\end{aligned}
-$
-
-The bar was having $600$ \text{g} chocolates originally.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$600 \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:44</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

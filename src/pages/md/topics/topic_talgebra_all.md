@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5802,6 +5802,56 @@ TODOANSWER
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2E6BAFD0-6BF4-4F43-9ADB-5353D4C15BDC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$40 \%$ of the children on a school trip are boys and there are $72$ girls. How many children are on the trip?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
@@ -14204,90 +14254,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bottle contains $150 \ \text{ml}$ of juice. 
-Alex drinks $50\%$ more than Jane and these two friends finish the bottle between them. Calculate how much Alex drinks.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Jane drinks $x \ \text{ml}$.
-
-As per the question,
-
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
-$
-\begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
-&= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Alex $= 90 \ \text {ml}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \ \text {ml}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -22878,6 +22844,75 @@ $14$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$60\%$ of a number is $240$. What is the number? 
+
+A: $60$ 
+
+B: $144$ 
+
+C: $240$ 
+
+D: $300$ 
+
+E: $400$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+60 \% \ \text {of} \ a               &=  240 \\\\
+\dfrac {60} {100} \times a           &=  240 \\\\
+a                                    &=  240 \times \dfrac {100} {60} \\\\
+a                                    &=  \dfrac {240 \times 100} {60} \\\\
+a                                    &=  \dfrac {60 \times 4 \times 100} {60} \\\\
+a                                    &=  \dfrac {\cancel {60} \times 4 \times 100} {\cancel {60}} \\\\
+a                                    &=  4 \times 100 \\\\
+a                                    &=  400
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$400$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>140F0395-4212-4458-B2B7-7AF063D4D08B</p>
 </div>
 <div class='topics'>
@@ -28812,6 +28847,58 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9C476DF3-1D21-4622-8A07-7B3EB467FF54</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ball is dropped and bounces up to a height that is $75\%$ of the height from which it was dropped. 
+It then bounces again to a height that is $75\%$ of the previous height and so on. How many bounces does it make 
+before it bounces to a height that is less than $25\%$ of the original height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
@@ -31575,6 +31662,62 @@ $
 <div class='answer'>
 
 $a=12 b=0,a=3 b=12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A large sack holds $20\%$ more potatoes than a small sack. If one large sack and one small sack together contain $77$ potatoes, how many potatoes does each sack hold?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the potatoes in small sack $= x$
+
+$
+\begin{aligned}
+\text{Potatoes in large sack}                       &= x + 20 \% \times x \\\\
+x + 20 \% \times x + x                              &= 77 \\\\
+2x + \dfrac{20x}{100}                               &= 77 \\\\
+\dfrac {2x \times 100 + 20x} {100}                  &= 77 \\\\
+\dfrac{200x + 20x}{100}                             &= 77 \\\\
+\dfrac{220x}{100}                                   &= 77 \\\\
+x                                                   &= \dfrac{77 \times 100}{220} \\\\
+x                                                   &= \dfrac{7 \times \cancel{11} \times \cancel{2}\times 5 \cancel{0}} {\cancel{2} \times \cancel{11} \cancel{0}} \\\\
+x                                                   &= 35 \\\\
+\text{Potatoes in large sack}                       &= 77 - 35 \\\\
+                                                    &= 42
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35,42$
 
 </div>
 </div>

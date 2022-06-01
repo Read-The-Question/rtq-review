@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1035,10 +1035,7 @@ Smallest $= 0.65$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 </ul>
 </div>

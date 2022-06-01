@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-06-01 11:48:35
+date: 2022-06-01 14:16:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,388 @@ date: 2022-06-01 11:48:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>86EA6C0D-C573-4605-9199-8B1C70D747A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mayur is making vegetable soup.
+
+$\dfrac{1}{3}$ of the soup is made from carrots
+
+$\dfrac{1}{2}$ is made from lentils
+
+$\dfrac{1}{12}$ is made from parsnips
+
+The rest is made from tomatoes.
+
+If he makes $600 \ \text{g}$ of soup in total,
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much carrot does he need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much tomato does he need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2294EA9D-2E83-4996-BA7A-789DAF3604B5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3 \ x$’s balance with $10 \ y$’s. 
+
+If one $x$ weighs $1.5 \ \text{g}$, how much does one $y$ weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7FF1BAEB-BDAB-4CEE-9553-05641321E1F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jack has thought of two numbers.
+
+When he multiplies them together he gets $96$.
+
+When he takes one number away from the other, he gets $4$.
+
+What are the two numbers? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1DBEA292-BB97-4A3B-B433-7AC9B18147AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rose is making a lemon cake. Part of the recipe for the cake mix is below.
+
+$\dfrac{1}{4}$ of the cake mix is sugar
+
+$\dfrac{1}{2}$ of the cake mix is flour
+
+$\dfrac{1}{12}$ of the cake mix is lemons
+
+The rest of the cake mix is made from other ingredients.
+
+If there are $900 \ \text{grams}$ of cake mix
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams of sugar are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams of ingredients other than lemons, flour and sugar are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -10427,495 +10809,6 @@ $\pounds 144$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the calories provided by the cake (in calories) $= c$
-
-Let the calories provided by the biscuit (in calories) $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-c + 2b      &= 450 \\\\
-2c + 3b     &= 800         
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? 
-
-If we look at the question again, we only need the 
-calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
-
-Multiply the first equation by $2$.
-
-$
-\begin{aligned}
-c + 2b                          &= 450 \\\\
-2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
-2c + 4b                         &= 900
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
-2c + 4b                 &= 900 \\\\
-2c + 3b                 &= 800    \\\\
-2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
-2c + 4b - 2c - 3b       &= 100 \\\\
-b                       &= 100  \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the biscuit $= 100  \ \text {calories}$
-
-</div>
-<div class='working'>
-
-What if we eliminate $b$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-The LCM of $2$ and $3$ is $6$.
-Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
-
-$
-\begin{aligned} 
-c + 2b                          &= 450 \\\\
-2c + 3b                         &= 800  \\\\   
-3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
-2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
-3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned}
-3c + 6b                 &= 1350 \\\\
-4c + 6b                 &= 1600  \\\\ 
-4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
-4c + 6b - 3c - 6b       &= 250  \\\\ 
-c                       &= 250 \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the cake $= 250 \ \text {calories}$. 
-
-Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
-
-$
-\begin{aligned} 
-c + 2b                          &= 450 \\\\
-250 + 2b                        &= 450 \\\\
-2b                              &= 450 - 250 \\\\
-2b                              &= 200 \\\\
-b                               &= \dfrac{200}{2} \\\\
-b                               &=  100  \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the biscuit $= 100  \ \text {calories}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$100  \ \text {calories}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a bag of money to take to the bank I have only $5 \text{p}$, $10 \text{p}$ and $20 \text{p}$ coins.
-
-I have twice as many $20 \text{p}$ coins as $10 \text{p}$ coins and half as many $5 \text{p}$ coins as $10 \text{p}$ coins.
-
-If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of $5 \text{p}$ coins $= a$. Then,
-
-Number of $10 \text{p}$ coins $= 2a$
-
-Number of $20 \text{p}$ coins $= 4a$
-
-It is really important to convert into the right units. 
-The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
-
-As per the question,
-
-$
-\begin{aligned}  
-5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
-5a + 20a + 80a                              &= 15.75 \times 100 \ \text {p} \\\\
-5a + 20a + 80a                              &= 1575 \\\\
-105a                                        &= 1575 \\\\
-a                                           &= \dfrac {1575} {105} \\\\
-a                                           &= \dfrac {21 \times 5 \times 15} {21 \times 5} \\\\
-a                                           &= \dfrac {\cancel{21} \times \cancel{5} \times 15} {\cancel{21} \times \cancel{5}} \\\\
-a                                           &= 15
-\end{aligned}
-$
-
-Number of $5 \ \text{p}$ coins $= 15$
-
-Let's find the number of $20 \ \text{p}$ coins.
-
-$
-\begin {aligned}
-20 \ \text{p} \text{ coins}   &= 4a \\\\
-                              &= 4 \times 15 \\\\
-                              &= 60
-\end {aligned}
-$
-
-Number of $20 \ \text{p}$ coins $= 60$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C3BE9AFF-3897-4101-88BA-E1C514952C0C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alison buys $6$ cups of coffee which cost $\pounds 2.20$ each, $4$ glasses of juice which cost $\pounds 1.15$ each 
-and some packets of crisps which cost $55 \text{p}$ each. She pays by giving the member of staff $\pounds 25$ and receives $\pounds 2.80$ in change.
-
-Using this information, complete the bill below by filling in the five spaces
-
-| $6$ cups of coffee costing $\pounds 2.20$ each         | $\pounds$ |
-|--------------------------------------------------------|-----------|
-| $4$ glasses of juice costing $\pounds 1.15$ each       | $\pounds$ |
-| $\ldots$ packets of crisps costing $55 \text{p}$ each  | $\pounds$ |
-| Total                                                  | $\pounds$ |
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>4CED6511-C49B-4229-A375-35FEA63D3656</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $2^4 \times 3^1 = 2 \times 2 \times 2 \times 2 \times 3 = 48$
-
-and $2^0 \times 3^2 = 3 \times 3 = 9$
-
-Using this method to set out your work, or otherwise.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $2^2 \times 3^3$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **largest** value of $b$ for which $2^0 \times 3^b$ is **less** than $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the **smallest** value of $c$ for which $2^c \times 3^1$ is **greater** than $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the values of $d$ and $e$ for which $2^d \times 3^e = 144$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

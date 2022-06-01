@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-wf-all"
 title: "Owner - Waffles Woof - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5567,7 +5567,7 @@ $0.22$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -8000,9 +8000,6 @@ $\pounds 16$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -8549,9 +8546,6 @@ D
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -10158,10 +10152,10 @@ $360 \ \text{ml}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -14002,9 +13996,6 @@ $1,6,21,20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -16217,10 +16208,10 @@ $29, 31, 37$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tfraction
 </li>
 <li>
 tcircle
@@ -16491,9 +16482,6 @@ $17.28$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -19089,13 +19077,7 @@ $112$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -20552,9 +20534,6 @@ $\dfrac {61} {36}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -23640,13 +23619,10 @@ $20$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -29213,10 +29189,7 @@ $1, 2, 3, 4, 6, 9, 12, 18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -29268,7 +29241,7 @@ $22$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -30621,7 +30594,7 @@ $\dfrac {4}{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -31868,7 +31841,7 @@ $\dfrac {4}{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -34201,7 +34174,7 @@ $\dfrac {4}{5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -40448,13 +40421,7 @@ $\dfrac {15} {26}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-talgebra
+tpercentage
 </li>
 </ul>
 </div>
@@ -47765,9 +47732,6 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -49755,9 +49719,6 @@ $0.45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -58103,9 +58064,6 @@ $18738$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -64229,9 +64187,6 @@ $0.35$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -64951,10 +64906,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+talgebra
 </li>
 </ul>
 </div>
@@ -77023,9 +76975,6 @@ $3 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -78025,10 +77974,10 @@ $240 \ \text{g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -81070,10 +81019,7 @@ $600000$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -81341,9 +81287,6 @@ $1012$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -81708,10 +81651,7 @@ $(8 \times 5) - (6 \times 1 + 4) = 10$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tprofit
 </li>
 </ul>
 </div>
@@ -83931,10 +83871,7 @@ $16.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -84703,10 +84640,7 @@ $a=12 b=0,a=3 b=12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>
@@ -86348,10 +86282,7 @@ $-16.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -90571,9 +90502,6 @@ $20\% , \quad \dfrac {1} {6} , \quad 0.15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -92164,9 +92092,6 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -94000,10 +93925,7 @@ Smallest $= 0.65$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tnumber
 </li>
 </ul>
 </div>
@@ -104884,10 +104806,10 @@ $1.6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -105529,13 +105451,7 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -106461,10 +106377,10 @@ $\pounds 1193.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -107780,7 +107696,7 @@ $\dfrac {7} {8} \ \text{km}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -109745,7 +109661,7 @@ $75$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -115984,9 +115900,6 @@ $4.23$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -117919,10 +117832,10 @@ $18, 36, 54, 72$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -119541,7 +119454,7 @@ $73 \degree, 107 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -134255,10 +134168,7 @@ $\dfrac {8} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tsimpleword
 </li>
 </ul>
 </div>
@@ -134689,10 +134599,7 @@ $1 \dfrac {1} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tsimpleword
 </li>
 </ul>
 </div>

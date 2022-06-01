@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircle-all"
 title: "Topic - Circle - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -137,10 +137,10 @@ $\text {One-quarter}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tfraction
 </li>
 <li>
 tcircle

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6069,179 +6069,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>2D402EA9-9B17-4E94-8001-97F18857753C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$20 \%$ of a number is $3.2$. What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate the value of $135 \div (1 + 3 + 5)$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Hasan correctly worked out that $3 \times 31 \times 73 = 6789$.
-
-What is the value of $6789 \div 31$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>FCE7C38F-A082-42E3-8CCA-672D8C2FC7E1</p>
 </div>
 <div class='topics'>
@@ -7007,179 +6834,6 @@ There is some liquid in the container.
 How many **more** millilitres must be added to fill it up to the $900 \ \text{ml}$ mark?
 
 ![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D5441D3A-F2C9-4D1D-A031-F889DD99692B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $50 \%$ of $20 \%$ of $6000$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $20172017 \div 2017$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jen correctly worked out that $2793 \div 49 = 57$. 
-
-What is the value of $(49 \times 57) + 7$?
 
 </div>
 <div class='workings'>
@@ -17737,207 +17391,6 @@ $
 <div class='answer'>
 
 $0.88$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the following statements.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$25\%$ of $48 = {?}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25 \% \ \text {of} \ 48 \\\\
-&= \dfrac {25} {100} \times 48 \\\\
-&= \dfrac {25 \times 48} {100} \\\\
-&= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-&= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
-&= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$25\%$ of ${?} = 48$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-25 \% \ \text{of} \ a       &= 48 \\\\
-\dfrac {25} {100} \times a  &= 48 \\\\
-a                           &= 48 \times \dfrac {100} {25} \\\\
-a                           &= \dfrac {48 \times 100} {25} \\\\
-a                           &= \dfrac {48 \times 4 \times 25} {25} \\\\
-a                           &= \dfrac {48 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
-a                           &= 48 \times 4 \\\\
-a                           &= 192
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$192$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Identify the two **square** numbers that add up to $74$.
-
-${?} + {?} = 74$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 49 + 25 \\\\
-&= 74
-\end{aligned}
-$
-
-Two square numbers that add up to $74$ are $49$ and $25$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49, 25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Identify the two **prime** numbers that add up to 13
-
-${?} + {?} = 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 11 + 2 \\\\
-&= 13
-\end{aligned}
-$
-
-The two prime numbers that up to $13$ are $11$ and $2$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 2$
 
 </div>
 </div>
@@ -34749,125 +34202,6 @@ $- 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1B759771-8179-43E5-8CD6-F153CDBB82C1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Look at this information about recycling:
-
-$25$ large plastic bottles can be recycled to make $1$ fleece jacket.
-
-Write the missing number in this sentence.
-
-$200$ large plastic bottles can be recycled to make 
-$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}$ fleece jackets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a survey, **$9$ out of $10$** people said they would like to recycle more.
-
-What percentage of people said they would like to recycle more?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {9} {10} \times 100 \\\\
-&= \dfrac {9 \times 100} {10} \\\\
-&= \dfrac {9 \times 10 \cancel {0}} {1\cancel {0}} \\\\
-&= 90 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
@@ -40428,143 +39762,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A glass holds $\bold{225\ \text{ml}}$.
-
-![missing image](/papers/missing_image.svg)
-
-An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
-
-How many glasses is that? 
-
-Show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of glasses $=g$
-
-$
-\begin{aligned}
-225 \text{ml} \times \text {g}  &= 1.8 \text{litres} \\\\
-225 \text{ml} \times \text {g}  &= 1.8 \times 1000 \text{ml} \\\\
-225 \text{ml} \times \text {g}  &= 1800 \text{ml} \\\\
-\text {g}                       &= \dfrac {1800} {225} \\\\
-\text {g}                       &= \dfrac {225 \times 8} {225} \\\\
-\text {g}                       &= \dfrac {\cancel {225} \times 8} {\cancel {225}} \\\\
-\text {g}                       &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-An adult weighs $\bold{80\ \text{kg}}$.
-
-$\bold{60\%}$ of his total mass is water.
-
-What is the mass of this water?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 60 \% \ \text{of total mass} \\\\
-&= 60 \% \times 80 \\\\
-&= \dfrac {60} {100} \times 80 \\\\
-&= \dfrac {60 \times 80} {100} \\\\
-&= \dfrac {6 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 6 \times 8 \\\\
-&= 48 \text { kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \text { kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -51696,6 +50893,197 @@ Smallest $= 0.65$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B6B641C8-8381-4DA6-B4A8-82780B3E86ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $10\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {10} {100} \times 600 \\\\
+&= \dfrac {10 \times 600} {100} \\\\
+&= \dfrac {10 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
+&= 10 \times 6 \\\\
+&= \pounds 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $5\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {5} {100} \times 600 \\\\
+&= \dfrac {5 \times 600} {100} \\\\
+&= \dfrac {5 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
+&= 5 \times 6 \\\\
+&= \pounds 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $2\:\:1\diagup2\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using above answer,
+
+$
+\begin{aligned}
+&= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {5\%} {2} \times 600 \\\\
+&= \dfrac {5\% \times 600} {2} \\\\
+&= \dfrac {30} {2} \\\\
+&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
+&= \pounds 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using above answer,
+
+$
+\begin{aligned}
+&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
+&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
+&= 60 + 30 + 15 \\\\
+&= \pounds 105
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 105$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>5533A075-BAD7-4675-83E0-25352274D043</p>
@@ -57701,13 +57089,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -58996,169 +58378,6 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are packaged in boxes of twelve.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many boxes can be filled?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-12 \ \text {eggs}   &= 1 \ \text {box} \\\\
-1 \ \text {egg}     &= \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
-389 \ \text {eggs}  &= 389 \times \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
-                    &= 389 \times \dfrac {1} {12} \\\\
-                    &= \dfrac {389} {12} \\\\
-                    &= 32 \dfrac {5} {12}
-\end {aligned}
-$
-
-$32$ boxes can be filled.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text {boxes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many eggs are left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Number of Left over eggs}    &= \text {Total number of eggs} - \text {Total eggs in boxes} \\\\
-                                    &= 389 - (32 \times 12) \\\\
-                                    &= 389 - 384 \\\\
-                                    &= 5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The family keep eight of the filled boxes to give to friends. The rest are sold in the farm shop.
-
-What percentage of the filled boxes are sold in the farm shop?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Percentage of filled boxes sold in the farm shop}     &= \dfrac {32 - 8} {32} \ \text {of} \ 100 \\\\
-                                                             &= \dfrac {24} {32} \times 100 \\\\
-                                                             &= \dfrac {24 \times 100} {32} \\\\
-                                                             &= \dfrac {3 \times 8 \times 4 \times 25} {\cancel {8} \times \cancel {4}} \\\\
-                                                             &= \dfrac {3 \times \cancel {8} \times \cancel {4} \times 25} {8 \times 4} \\\\
-                                                             &= 3 \times 25 \\\\
-                                                             &= 75 \%
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>9059ED0D-559C-4990-8449-866D2BE0C151</p>
@@ -59617,141 +58836,6 @@ $
 <div class='answer'>
 
 $26$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A concert hall has $128$ rows of $35$ seats.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many seats are there in the concert hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin {aligned}
-\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
-                     &= 128 \times 35
-\end {aligned}
-$
-
-\begin {array}{cccccccccccccc}
-       &        &    1    &     2     &    8 \\
-       & \times &         &     3     &    5 \\
-\hline
-       &        &    6    &     4     &    0 \\
-       &    3   &    8    &     4     &    0 \\
-\hline
-       &    4   &    4    &     8     &    0
-\end {array}
-$
-
-Total number of seats in the concert hall $= 4480$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4480$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the concert hall is $75\%$ full, how many seats are **empty**? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
-
-Using this we get,
-
-$
-\begin {aligned}
-\text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
-                     &= \dfrac {25} {100} \times 4480 \\\\
-                     &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
-                     &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
-                     &= 1120
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1120$
 
 </div>
 </div>

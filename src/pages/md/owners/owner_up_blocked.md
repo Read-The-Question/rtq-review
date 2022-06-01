@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-blocked"
 title: "Owner - Uday Pandey - Blocked"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -749,10 +749,7 @@ $73188$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1531,9 +1528,6 @@ $146$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -3483,9 +3477,6 @@ $a = 68 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -4413,13 +4404,13 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 <li>
 tpercentage
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -6824,13 +6815,7 @@ $\dfrac {1} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>

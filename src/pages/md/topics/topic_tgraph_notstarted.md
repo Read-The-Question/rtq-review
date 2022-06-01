@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-notstarted"
 title: "Topic - Graph - Not Started"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10714,70 +10714,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>AD6895B3-4E61-4AAF-9E1F-1987110B5F92</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The pie chart shows the proportions of different drinks chosen from a machine in one day.
-There were $15$ cartons of pineapple juice taken. How many cartons of orange juice were taken? 
-
-![missing image](/papers/missing_image.svg)
-
-- $33$
-- $35$
-- $45$
-- $120$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

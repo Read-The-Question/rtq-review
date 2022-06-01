@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-06-01 11:48:35
+date: 2022-06-01 14:16:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,102 @@ date: 2022-06-01 11:48:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>450FEC63-5580-47DE-83CB-40719744776C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Zain wants to buy two chairs.
+ 
+Three shops advertise the same luxury chair.
+Each shop has a special offer. 
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+At which shop is the price of the two chairs the cheapest? 
+
+You **must** show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the cheapest price of $2$ chairs from each shop.
+
+**Shop A**
+
+If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
+                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
+                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
+                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
+                                                &= 600 + 70 \times 6 \\\\
+                                                &= 600 + 420 \\\\
+                                                &= \pounds 1020
+\end{aligned}
+$
+
+**Shop B**
+
+If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
+                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
+                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
+                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
+                                                &= 550 + 4 \times 110 \\\\
+                                                &= 550 + 440 \\\\
+                                                &= \pounds 990
+\end{aligned}
+$
+
+**Shop C**
+
+$
+\begin{aligned}
+\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
+\end{aligned}
+$
+
+Using the calculation above,
+
+Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Shop C} = \pounds 820$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -1046,6 +1142,55 @@ $\pounds 450$
 
 <div class='papername'>
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does it cost now? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15} {100} \times 18.60 \% \\\\
+&= \dfrac {15 \times 18.60} {100} \\\\
+&= \dfrac {279} {100} \\\\
+&= 2.79 \\\\
+&= 18.60 - 2.79 \\\\
+&= 15.81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15.81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

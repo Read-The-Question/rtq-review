@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-blocked"
 title: "Topic - Unitprompt - Blocked"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -262,6 +262,143 @@ $3.6 \ \text {m} ^ 2$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A glass holds $\bold{225\ \text{ml}}$.
+
+![missing image](/papers/missing_image.svg)
+
+An adult needs about $\bold{1.8\ \text{litres}}$ of water each day to stay healthy.
+
+How many glasses is that? 
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of glasses $=g$
+
+$
+\begin{aligned}
+225 \text{ml} \times \text {g}  &= 1.8 \text{litres} \\\\
+225 \text{ml} \times \text {g}  &= 1.8 \times 1000 \text{ml} \\\\
+225 \text{ml} \times \text {g}  &= 1800 \text{ml} \\\\
+\text {g}                       &= \dfrac {1800} {225} \\\\
+\text {g}                       &= \dfrac {225 \times 8} {225} \\\\
+\text {g}                       &= \dfrac {\cancel {225} \times 8} {\cancel {225}} \\\\
+\text {g}                       &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+An adult weighs $\bold{80\ \text{kg}}$.
+
+$\bold{60\%}$ of his total mass is water.
+
+What is the mass of this water?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 60 \% \ \text{of total mass} \\\\
+&= 60 \% \times 80 \\\\
+&= \dfrac {60} {100} \times 80 \\\\
+&= \dfrac {60 \times 80} {100} \\\\
+&= \dfrac {6 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 6 \times 8 \\\\
+&= 48 \text { kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \text { kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-all"
 title: "Owner - Uday Pandey - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -15802,13 +15802,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
-</li>
-<li>
-tnumber
+tpercentage
 </li>
 </ul>
 </div>
@@ -15975,10 +15972,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>
@@ -19902,13 +19896,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -43707,10 +43698,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -60285,9 +60273,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -93006,13 +92991,7 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tgraph
+tratio
 </li>
 </ul>
 </div>
@@ -93204,9 +93183,6 @@ $a = 68 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -103229,13 +103205,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
+tratio
 </li>
 </ul>
 </div>
@@ -116850,12 +116820,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -117175,13 +117139,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 <li>
 tpercentage
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -125054,10 +125018,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+talgebra
 </li>
 </ul>
 </div>
@@ -147522,10 +147483,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -148826,10 +148784,10 @@ $12 \text{ litres}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -153711,13 +153669,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>
@@ -160880,9 +160832,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
 </li>
 </ul>
@@ -166995,10 +166944,10 @@ $5, 10, 9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>
@@ -213802,10 +213751,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tsimpleword
 </li>
 </ul>
 </div>

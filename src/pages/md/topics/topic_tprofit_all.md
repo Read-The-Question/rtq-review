@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-all"
 title: "Topic - Profit - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-06-01 11:39:10
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>
@@ -1138,6 +1132,55 @@ $\pounds 450$
 
 <div class='papername'>
 <p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A book usually costs $\pounds 18.60$ but it is reduced by $15\%$.How much does it cost now? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15} {100} \times 18.60 \% \\\\
+&= \dfrac {15 \times 18.60} {100} \\\\
+&= \dfrac {279} {100} \\\\
+&= 2.79 \\\\
+&= 18.60 - 2.79 \\\\
+&= 15.81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15.81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-blocked"
 title: "Topic - Algebra - Blocked"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>

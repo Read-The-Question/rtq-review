@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-pr"
 title: "Owner - Naman Pant - PR"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1141,13 +1141,10 @@ $\dfrac {3} {8}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
-</li>
-<li>
-testimate
+tpercentage
 </li>
 </ul>
 </div>
@@ -2824,10 +2821,10 @@ $30 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
-tpercentageadvance
+tpercentage
 </li>
 </ul>
 </div>

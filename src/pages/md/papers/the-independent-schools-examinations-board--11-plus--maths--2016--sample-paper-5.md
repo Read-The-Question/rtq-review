@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1727,10 +1727,7 @@ $\dfrac {8} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2606,10 +2603,7 @@ $1 \dfrac {1} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpercentageadvance
+tsimpleword
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-g0"
 title: "Topic - Simpleword - G0"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -465,6 +465,65 @@ $150$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>21061717-7F10-4202-99C6-956CC29AFFC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Freya scored $16$ out of $20$ in her spelling test. Hannah scored $85 \%$ in her spelling test.
+
+Who did better? You must explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the percentage score for both.
+
+$
+\begin {aligned}
+\text {Freya's score}      &= \dfrac {16} {20} \times 100 \\\\
+                           &= \dfrac {16 \times 100} {20} \\\\
+                           &= \dfrac {16 \times 5 \times 20} {20} \\\\
+                           &= \dfrac {16 \times 5 \times \cancel{20}} {\cancel{20}} \\\\
+                           &= 16 \times 5 \\\\
+                           &= 80 \% \\\\
+\text {Hannah's score}     &= 85 \%
+\end {aligned}
+$
+
+From the calculation above, Hannah did better than Freya.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Hannah}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
 </div>
 <div class='topics'>
@@ -514,6 +573,65 @@ $44$
 
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6D3071DE-0CCA-4999-A569-D3A93983E3C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At Redville Primary School, $16$ of the teachers travel to work by car, $6$ travel by bus and the other $3$ walk. 
+
+![missing table](/papers/missing_table.svg)
+
+What *percentage* of the teachers travel by car?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{% of teacher travel by car}                &= \dfrac {\text{Teacher who travel by car}} {\text{Total teachers}} \times 100 \\\\
+                                                 &= \dfrac {16} {16 + 6 + 3} \times 100 \\\\
+                                                 &= \dfrac {16 \times 100} {25} \\\\
+                                                 &= \dfrac {16 \times 4 \times 25} {25} \\\\
+                                                 &= \dfrac {16 \times 4 \times \cancel{25}} {\cancel{25}} \\\\
+                                                 &= 16 \times 4 \\\\
+                                                 &= 64 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1070,6 +1188,67 @@ $\pounds 29.95$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>5A9496E7-B32E-4AE6-87D8-FC2CF250E29B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tfraction
+</li>
+<li>
+tcircle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The fraction **one eighth** is roughly the same as one of these percentages. Put a ring around the best one.
+
+$10 \%  \quad 12 \%  \quad 14 \%  \quad 16 \%  \quad 18 \%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {1} {8} \ \text {of} \ 100 \\\\
+&= \dfrac {1} {8} \times 100 \\\\
+&= \dfrac {100} {8} \\\\
+&= \dfrac {25 \times 4} {2 \times 4} \\\\
+&= \dfrac {25 \times \cancel {4}} {2 \times \cancel {4}} \\\\
+&= \dfrac {25} {2} \\\\
+&= 12 \dfrac {1} {2} \\\\
+&= 12.5 \%
+\end {aligned}
+$
+
+The best answer is $= 12 \%$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
 </div>
 <div class='topics'>
@@ -1365,6 +1544,61 @@ $28 cm ^ 2$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
+
+Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
+
+There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
+
+So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
+
+$
+\begin{aligned}
+\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
+                    &= \dfrac {90 \times 100} {100} \\\\
+                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
+                    &= 90 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>1DD19E4B-1DD0-4211-AE00-61C2A0DBD9FE</p>
 </div>
 <div class='topics'>
@@ -1482,6 +1716,308 @@ $460 \ \text {m}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the following statements.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$25\%$ of $48 = {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 25 \% \ \text {of} \ 48 \\\\
+&= \dfrac {25} {100} \times 48 \\\\
+&= \dfrac {25 \times 48} {100} \\\\
+&= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
+&= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
+&= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$25\%$ of ${?} = 48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+25 \% \ \text{of} \ a       &= 48 \\\\
+\dfrac {25} {100} \times a  &= 48 \\\\
+a                           &= 48 \times \dfrac {100} {25} \\\\
+a                           &= \dfrac {48 \times 100} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times 25} {25} \\\\
+a                           &= \dfrac {48 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
+a                           &= 48 \times 4 \\\\
+a                           &= 192
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$192$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Identify the two **square** numbers that add up to $74$.
+
+${?} + {?} = 74$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 49 + 25 \\\\
+&= 74
+\end{aligned}
+$
+
+Two square numbers that add up to $74$ are $49$ and $25$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$49, 25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Identify the two **prime** numbers that add up to 13
+
+${?} + {?} = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 11 + 2 \\\\
+&= 13
+\end{aligned}
+$
+
+The two prime numbers that up to $13$ are $11$ and $2$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, 2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C9858780-383A-4690-AC16-06948BA34755</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One day in January only $55\%$ of a class of $40$ chidren were present at school.
+
+How many pupils were present?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of children present}    &= 55 \% \ \text{of} \ 40 \\\\
+                                     &= \dfrac {55} {100} \times 40 \\\\
+                                     &= \dfrac {55 \times 40} {100} \\\\
+                                     &= \dfrac {5 \times 11 \times 2 \times 20} {5 \times 20} \\\\
+                                     &= \dfrac {\cancel {5} \times 11 \times 2 \times \cancel {20} } {\cancel{5} \times \cancel {20}} \\\\
+                                     &= 11 \times 2 \\\\
+                                     &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8B94F863-C793-41C7-B877-AEAA83C69F16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The following day $24$ pupils were present, out of $40$. Write this as a percentage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage of children present}   &= \dfrac {24} {40} \times 100 \\\\
+                                        &= \dfrac {24 \times 100} {40} \\\\
+                                        &= \dfrac {8 \times 3 \times 20 \times 5} {8 \times 5} \\\\
+                                        &= \dfrac {\cancel {8} \times 3 \times 20 \times \cancel {5} } {\cancel {8} \times \cancel {5} } \\\\
+                                        &= 3 \times 20 \\\\
+                                        &= 60 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>63C986B2-7366-43DB-9578-126EFF77F687</p>
 </div>
 <div class='topics'>
@@ -1531,6 +2067,59 @@ $60$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>C9499207-115B-4305-B2DE-454D607FFECD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$8\%$ of children wear glasses. If there are $1150$ children at a school, how many wear glasses?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Children that wear glasses}   &= 8 \% \ \text{of} \ 1150 \\\\
+                                    &= \dfrac {8} {100} \times 1150 \\\\
+                                    &= \dfrac {8 \times 1150} {100} \\\\
+                                    &= \dfrac {4 \times 2 \times 2 \times 23 \times 25} {4 \times 25} \\\\
+                                    &= \dfrac {\cancel {4} \times 2 \times 2 \times 23 \times \cancel {25} } {\cancel{4} \times \cancel {25}} \\\\
+                                    &= 4 \times 23 \\\\
+                                    &= 92
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$92$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>61A02A7F-E5B3-44BF-9AF9-02A8E1910C57</p>
 </div>
 <div class='topics'>
@@ -1565,6 +2154,59 @@ $
 <div class='answer'>
 
 $27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FE3D8B71-446E-46D9-BCFD-F08E70304636</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6\%$ of children wear glasses. If there are $1450$ children at a school, how many wear glasses?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Children that wear glasses}   &= 6 \% \ \text{of} \ 1450 \\\\
+                                    &= \dfrac {6} {100} \times 1450 \\\\
+                                    &= \dfrac {6 \times 1450} {100} \\\\
+                                    &= \dfrac {2 \times 3 \times 2 \times 29 \times 25} {2 \times 2 \times 25} \\\\
+                                    &= \dfrac {\cancel {2} \times 3 \times \cancel {2} \times 29 \times \cancel {25} } {\cancel{2} \times \cancel{2} \times \cancel {25}} \\\\
+                                    &= 3 \times 29 \\\\
+                                    &= 87
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$87$
 
 </div>
 </div>
@@ -1712,6 +2354,59 @@ $
 <div class='answer'>
 
 $35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>227E8AEF-0B10-412A-8725-7A4D3CA82AE9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6 \%$ of children wear glasses. If there are $1450$ children at a school, how many wear glasses?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Children that wear glasses}   &= 6 \% \ \text{of} \ 1450 \\\\
+                                    &= \dfrac {6} {100} \times 1450 \\\\
+                                    &= \dfrac {6 \times 1450} {100} \\\\
+                                    &= \dfrac {2 \times 3 \times 2 \times 29 \times 25} {2 \times 2 \times 25} \\\\
+                                    &= \dfrac {\cancel {2} \times 3 \times \cancel {2} \times 29 \times \cancel {25} } {\cancel{2} \times \cancel{2} \times \cancel {25}} \\\\
+                                    &= 3 \times 29 \\\\
+                                    &= 87
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$87$
 
 </div>
 </div>
@@ -3835,6 +4530,70 @@ $3 \ \text {cm} ^ 2$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>AA8ED085-BF3B-4E90-AC3B-C92BC01655FF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bag contains $49$ red balls and $1$ blue ball. How many red balls should be removed for the bag to contain $90\%$ red balls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of red balls removed $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {49 - b} {50 - b}                                             &= \dfrac {90} {100} \\\\
+49 - b                                                               &= \dfrac {90} {100} \times (50 - b) \\\\
+49 - b                                                               &= \dfrac {90} {100} \times 50 - \dfrac {90} {100} \times b \\\\
+49 - b                                                               &= \dfrac {45 \times 2 \times 50} {50 \times 2} - \dfrac {90 b} {100} \\\\
+49 - b                                                               &= \dfrac {45 \times \cancel {2} \times \cancel {50}} {\cancel {50} \times \cancel {2}} - \dfrac {90 b} {100} \\\\
+49 - b                                                               &= 45 - \dfrac {90 b} {100} \\\\
+-b + \dfrac {90 b} {100}                                             &= 45 - 49 \\\\
+-\dfrac {b \times 100} {1 \times 100} + \dfrac {90 b} {100}          &= -4 \\\\
+-\dfrac {100 b + 90 b} {100}                                         &= -4 \\\\
+-\dfrac {10 b} {100}                                                 &= -4 \\\\
+\cancel {-} \dfrac {1 \cancel {0} b} {10 \cancel {0}}                &= \cancel {-} 4 \\\\
+\dfrac {b} {10}                                                      &= 4 \\\\
+b                                                                    &= 4 \times 10 \\\\
+b                                                                    &= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>16D089A8-F897-466C-A647-02A29D9F4503</p>
 </div>
 <div class='topics'>
@@ -3937,6 +4696,55 @@ $36$
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>55EE8A7B-471C-4247-BC0B-6023B61F7656</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $120$ boys and $80$ girls at a small primary school. During the holidays, $50\%$ of the boys and $60\%$ of the girls saw the latest Harry Potter movie. How many pupils in total from the primary school saw the movie ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {50} {100} \times {120} + \dfrac {60} {100} \times {80} \\\\
+&= \dfrac {50 \times 120} {100} + \dfrac {60 \times 80} {100} \\\\
+&= \dfrac {5 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} + \dfrac {6 \cancel 0 \times 8 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+&= 5 \times 12 + 6 \times 8 \\\\
+&= 60 + 48 \\\\
+&= 128
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$128$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4778,6 +5586,349 @@ $76 \text{m}^{2}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>6D64BD13-96F2-4FFB-B6AA-B83638EF2A64</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sunflower is one hundred and fifty centimetres tall.
+
+How tall will it be if its height increases by ten per cent?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ of the orginal price.
+
+Using this we get
+
+$
+\begin{aligned}
+\text{New Height}  &= 150  + 110 \% \text { of} \ 150 \\\\
+                   &= 150 + \dfrac {110} {100} \times 150 \\\\
+                   &= 150 + \dfrac {110 \times 150} {100} \\\\
+                   &= 150 + \dfrac {11 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                   &= 150 + 11 \times 15 \\\\
+                   &= 150 + 165 \\\\
+                   &= 315 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$315 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ABB3027C-A3A6-4680-A41E-B49861EF0A45</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I got $30 \%$ on a $10$-problem test, $70 \%$ on a $20$-problem test and $80 \%$ on a $30$-problem test.
+
+If the three tests are combined into one $60$-problem test, what percentage is my overall score?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
+                                 &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {70 \times 20} {100} + \dfrac {80 \times 30} {100} \\\\
+                                 &= \dfrac {10 \times 10} {100} + \dfrac {14 \times 5 \times 20} {20 \times 5} + \dfrac {20 \times 4 \times 6 \times 5} {20 \times 5} \\\\
+                                 &= \dfrac {1 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} + \dfrac {14 \times \cancel {5} \times \cancel {20}} {\cancel {20} \times \cancel {5}} + \dfrac {\cancel {20} \times 4 \times 6 \times \cancel {5}} {\cancel {20} \times \cancel {5}} \\\\
+                                 &= 1 + 14 + 6 \times 4 \\\\
+                                 &= 15 + 24 \\\\ 
+                                 &= 39 \\\\
+\text {Overall percentage}       &= \dfrac {39} {60} \times 100 \\\\
+                                 &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
+                                 &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
+                                 &= 13 \times 5 \\\\
+                                 &= 65 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33898C6C-BC5D-41EC-8049-B334ED8C6544</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a class of $40$ pupils, $14$ failed the physical fitness test. What percentage of the class failed the test?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage of Pupil (Failed PI test)}      &= \dfrac {\text{No. of pupil (Failed PI test)}} {\text{Total pupil}} \times \text{Percentage} \\\\
+                                                 &= \dfrac{14}{40} \times 100 \% \\\\ 
+                                                 &= \dfrac{14 \times 100}{40} \\\\
+                                                 &= \dfrac{7 \times 2 \times 20 \times 5}{2 \times 20} \\\\
+                                                 &= \dfrac{7 \times \cancel {2} \times \cancel {20} \times 5}{ \cancel {2} \times \cancel {20} } \\\\
+                                                 &= 7 \times 5 \\\\
+                                                 &= 35 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9E6D5208-4E0F-419C-BB64-315F2E4817E5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mark has $400$ football stickers. He sticks $70 \%$ into his football sticker book, swaps $25 \%$ with his friend Peter and gives the rest away. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage does he give away?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Percentage of stickers given away = 100 - stickers pasted - stickers swapped
+
+$
+\begin{aligned}
+&= 100 - 70 - 25 \\\\
+&= 100 - 95 \\\\
+&= 5 \%
+\end{aligned}
+$
+
+Percentage of stickers Mark gives away $= 5 \%$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many does he stick in his book?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total stickers $= 400$
+
+As per the question, Mark sticks 70 \% of his stickers in his book. 
+
+$
+\begin{aligned}
+&= 70 \% \ \text{of} \ 400 \\\\
+&= \dfrac {70} {100} \times 400 \\\\
+&= \dfrac {70 \times 400} {100} \\\\
+&= \dfrac {70 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
+&= 70 \times 4 \\\\
+&= 280
+\end{aligned}
+$
+
+Number of stickers he sticks in his book $= 280$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$280$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many does he give away?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total stickers $= 400$
+
+Mark gives away $5 \%$ of his stickers.
+
+$
+\begin{aligned}
+&= 5 \% \ \text{of} \ 400 \\\\
+&= \dfrac {5}{100} \times 400 \\\\
+&= \dfrac {5 \times 400} {100} \\\\
+&= \dfrac {5 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
+&= 5 \times 4 \\\\
+&= 20
+\end{aligned}
+$
+
+Number of stickers he gives away $= 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
 </div>
 <div class='topics'>
@@ -4824,6 +5975,216 @@ $\dfrac {1} {3}$
 
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a giant tube of Fruit Pastilles, 20% are orange. If the tube has a total of 85 sweets, how many are **not** orange? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Not orange}  &= 85- 20\% \times 85 \\\\
+                    &= 85 - \dfrac {20} {100} \times 85 \\\\
+                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
+                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
+                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
+                    &= 85 - 17 \\\\
+                    &= 68
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$68$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EB3F1B83-16B7-4CB0-98B2-F96141CC8059</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10\%$ of $\pounds 83$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \% \text { of } \pounds 83 \\\\
+&= \dfrac {10} {100} \times 83 \\\\
+&= \dfrac {10 \times 83} {100} \\\\
+&= \dfrac {1 \cancel {0} \times 83} {10 \cancel {0}} \\\\
+&= \dfrac {83} {10} \\\\
+&= \pounds 8.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds{8.3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$75\%$ of $44\ \text{kg}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 75 \% \text { of } 44 \text {kg} \\\\
+&= \dfrac {75} {100} \times 44 \\\\
+&= \dfrac {75 \times 44} {100} \\\\
+&= \dfrac {5 \times 3 \times 5 \times 2 \times 2 \times 11} {2 \times 5 \times 2 \times 5} \\\\
+&= \dfrac {\cancel {5} \times 3 \times \cancel {5} \times \cancel {2} \times \cancel {2} \times 11} {\cancel {2} \times \cancel {5} \times \cancel {2} \times \cancel {5}} \\\\
+&= 11 \times 3 \\\\
+&= 33 \text {kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33 \text {kg}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Increase $\pounds 120$ by $30\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 120 \times (1 + \dfrac {30} {100}) \\\\
+&= 120 \times (\dfrac {100 + 30} {100}) \\\\
+&= 120 \times (\dfrac {130} {100}) \\\\
+&= \dfrac {120 \times 130} {100} \\\\
+&= \dfrac {12 \cancel {0} \times 13 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 12 \times 13 \\\\
+&= 156
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$156$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -5625,6 +6986,113 @@ $\pounds 92320$
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sunflower is $150 \ \text{cm}$ tall.
+
+How tall will it be if its height increases by $10\%$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Height after an increase of 10\%}       &= 150 + 10 \% \ \text {of} \ 150 \\\\
+                                               &= 150 + \dfrac {10} {100} \times 150 \\\\
+                                               &= 150 + \dfrac {10 \times 150} {100} \\\\
+                                               &= 150 + \dfrac {1 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                                               &= 150 + 15 \\\\
+                                               &= 165
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$165$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of $24$ pens, one eighth are green, $25\%$ are red and the rest are blue.
+
+What fraction of the pens is blue? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
+                                       &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
+                                       &= 24 - (\dfrac {24} {8} + \dfrac {25 \times 24} {100}) \\\\
+                                       &= 24 - (\dfrac {8 \times 3} {8} + \dfrac {25 \times 4 \times 6} {25 \times 4}) \\\\
+                                       &= 24 - (\dfrac {\cancel {8} \times 3} {\cancel {8}} + \dfrac {\cancel {25} \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}}) \\\\
+                                       &= 24 - (3 + 6) \\\\
+                                       &= 24 - 9 \\\\
+                                       &= 15 \\\\
+\text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
+                                       &= \dfrac {\cancel {3} \times 5} {\cancel {3} \times 8} \\\\
+                                       &= \dfrac {5} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

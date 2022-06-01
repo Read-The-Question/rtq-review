@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tprofit-pr"
 title: "Topic - Profit - PR"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-06-01 11:39:10
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprofit
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>

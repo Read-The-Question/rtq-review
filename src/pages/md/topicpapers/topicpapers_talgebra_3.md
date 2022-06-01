@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-3"
 title: "TopicPaper - Algebra - 3"
-date: 2022-06-01 11:48:35
+date: 2022-06-01 14:16:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,384 @@ date: 2022-06-01 11:48:35
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F144AB4B-7F3C-4D5C-A3B8-FD43E18D9B4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, double it and take away $5$. The answer is $13$. What was my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2a - 5                                                       &= 13 \\\\
+2a                                                           &= 13 + 5 \\\\
+2a                                                           &= 18 \\\\
+a                                                            &= \dfrac {18} {2} \\\\
+a                                                            &= \dfrac {9 \times 2} {2} \\\\
+a                                                            &= \dfrac {9 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                            &= 9
+\end{aligned}
+$
+
+The number I thought of $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of another number, take away $5$ and then double it. My answer is again $16$. What was my number this time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2(a - 5)                                                     &= 16 \\\\
+2a - 10                                                      &= 16 \\\\
+2a                                                           &= 16 + 10 \\\\
+2a                                                           &= 26 \\\\
+a                                                            &= \dfrac {26} {2} \\\\
+a                                                            &= \dfrac {13 \times 2} {2} \\\\
+a                                                            &= \dfrac {13 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                            &= 13
+\end{aligned}
+$
+
+The other number I thought of $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally I think of another number, multiply it by itself and take away $5$. My answer is $31$. What was the number I thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the final number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a^{2} - 5                                                &= 31 \\\\
+a^{2}                                                    &= 31 + 5 \\\\
+a^{2}                                                    &= 36 \\\\
+a^{2}                                                    &= 6 \times 6 \\\\
+a^{2}                                                    &= 6^{2} \\\\
+a                                                        &= 6
+\end{aligned}
+$
+
+The final number I thought of $= 6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D8DDAA97-5C24-49AD-AD19-FECB4EA32A69</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three quarters of a local tennis club are girls. There are $20$ boys in the club. How many girls are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of children $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
+a                                                        &= \dfrac {3a} {4} + 20 \\\\
+a - \dfrac {3a} {4}                                      &= 20 \\\\
+\dfrac {a \times 4} {1 \times 4} - \dfrac {3a} {4}       &= 20 \\\\
+\dfrac {4a -3a} {4}                                      &= 20 \\\\
+4a -3a                                                   &= 20 \times 4 \\\\
+a                                                        &= 80
+\end{aligned}
+$
+
+The total number of children in the club $= 80$
+
+Let's find how many girls are in the club.
+
+$
+\begin{aligned}
+\text{Total girls}                                       &= \text{Total children} - \text{Total boys} \\\\
+                                                         &= 80 - 20 \\\\
+                                                         &= 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:43</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find two numbers that have a difference of $8$ and added upto $18$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a - b                    &= 8 \\\\
+a + b                    &= 18
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Add the second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a - b + (a - b)          &= 8 + 18 \\\\
+a - b + a + b            &= 26 \\\\
+2a                       &= 26 \\\\
+a                        &= \dfrac {26} {2} \\\\
+a                        &= \dfrac {2 \times 13} {2} \\\\
+a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+a                        &= 13
+\end{aligned}
+$
+
+Let's substitute the value of $a$ in one of the equations.
+
+$
+\begin{aligned} 
+a + b                    &= 18 \\\\
+13 + b                   &= 18 \\\\
+b                        &= 18 - 13 \\\\
+b                        &= 5
+\end{aligned}
+$
+
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \ \text{and} \ 5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of chocolate in the bar $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
+a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
+a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
+a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
+\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
+\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
+\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
+\dfrac {a} {6}                                                                                              &= 100 \\\\
+a                                                                                                           &= 100 \times 6 \\\\
+a                                                                                                           &= 600 \text{g}
+\end{aligned}
+$
+
+The bar was having $600$ \text{g} chocolates originally.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:44</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -10797,388 +11175,6 @@ $7$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>86EA6C0D-C573-4605-9199-8B1C70D747A7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mayur is making vegetable soup.
-
-$\dfrac{1}{3}$ of the soup is made from carrots
-
-$\dfrac{1}{2}$ is made from lentils
-
-$\dfrac{1}{12}$ is made from parsnips
-
-The rest is made from tomatoes.
-
-If he makes $600 \ \text{g}$ of soup in total,
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much carrot does he need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much tomato does he need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>2294EA9D-2E83-4996-BA7A-789DAF3604B5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$3 \ x$’s balance with $10 \ y$’s. 
-
-If one $x$ weighs $1.5 \ \text{g}$, how much does one $y$ weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>7FF1BAEB-BDAB-4CEE-9553-05641321E1F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jack has thought of two numbers.
-
-When he multiplies them together he gets $96$.
-
-When he takes one number away from the other, he gets $4$.
-
-What are the two numbers? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1DBEA292-BB97-4A3B-B433-7AC9B18147AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rose is making a lemon cake. Part of the recipe for the cake mix is below.
-
-$\dfrac{1}{4}$ of the cake mix is sugar
-
-$\dfrac{1}{2}$ of the cake mix is flour
-
-$\dfrac{1}{12}$ of the cake mix is lemons
-
-The rest of the cake mix is made from other ingredients.
-
-If there are $900 \ \text{grams}$ of cake mix
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many grams of sugar are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many grams of ingredients other than lemons, flour and sugar are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1081,67 +1081,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>48DCE66E-535F-44BE-BA9D-246D028EA4F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What percentage of the integers $1 - 100$ inclusive are not a multiple of $10$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's write down all the multiples of $10$ between $1$ and $100$ inclusive.
-
-Multiples of $10 = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100$.
-
-There are total $10$ numbers between $1$ and $100$ inclusive that are multiples of $10$.
-
-So numbers that are not multiples of $10 = 100 - 10 = 90$. Using this we get,
-
-$
-\begin{aligned}
-\text {Percentage}  &= \dfrac {90} {100} \times 100 \\\\
-                    &= \dfrac {90 \times 100} {100} \\\\
-                    &= \dfrac {90 \times \cancel {100} } {\cancel {100} } \\\\
-                    &= 90 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

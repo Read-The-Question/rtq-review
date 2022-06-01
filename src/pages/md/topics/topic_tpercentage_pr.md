@@ -1,167 +1,9 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>450FEC63-5580-47DE-83CB-40719744776C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Zain wants to buy two chairs.
- 
-Three shops advertise the same luxury chair.
-Each shop has a special offer. 
-
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-![missing image](/papers/missing_image.svg)
-
-At which shop is the price of the two chairs the cheapest? 
-
-You **must** show your working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the cheapest price of $2$ chairs from each shop.
-
-**Shop A**
-
-If the price is reduced by $30 \%$, then the sale price will be $100 - 30 = 70 \%$ of the original price. Using that, we get
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop A}     &= 600 + 70\% \times 600 \\\\
-                                                &= 600 + \dfrac{70}{100} \times 600 \\\\
-                                                &= 600 + \dfrac{70 \times 600}{100} \\\\
-                                                &= 600 + \dfrac{70 \times 6\cancel{0}\cancel{0}}{1\cancel{0}\cancel{0}} \\\\
-                                                &= 600 + 70 \times 6 \\\\
-                                                &= 600 + 420 \\\\
-                                                &= \pounds 1020
-\end{aligned}
-$
-
-**Shop B**
-
-If the price is reduced by $\dfrac{1}{5}$, then the sale price will be $1 - \dfrac{1}{5} = \dfrac{4}{5}$ of the original price. Using that, we get
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop B}     &= 550 + \dfrac{4}{5} \times 550 \\\\
-                                                &= 550 + \dfrac{4 \times 550}{5} \\\\
-                                                &= 550 + \dfrac{4 \times 5 \times 110}{5} \\\\
-                                                &= 550 + \dfrac{4 \times \cancel{5} \times 110}{\cancel{5}} \\\\
-                                                &= 550 + 4 \times 110 \\\\
-                                                &= 550 + 440 \\\\
-                                                &= \pounds 990
-\end{aligned}
-$
-
-**Shop C**
-
-$
-\begin{aligned}
-\text{Cost of } 2 \text{ chairs from Shop C}     &= \pounds 820
-\end{aligned}
-$
-
-Using the calculation above,
-
-Shop where the price is the cheapest $= \text{Shop C} = \pounds 820$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Shop C} = \pounds 820$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A cafe sold $40$ sandwiches on Monday.
-$45 \%$ of the sandwiches were vegetarian. How many vegetarian sandwiches did the cafe sell?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {No. of veg. sandwiches sold}     &= 45 \% \ \text {of} \ \text {total sandwiches} \\\\
-                                        &= \dfrac {45} {100} \times 40 \\\\
-                                        &= \dfrac {45 \times 40} {100} \\\\
-                                        &= \dfrac {9 \times 5 \times 20 \times 2} {20 \times 5} \\\\
-                                        &= \dfrac {9 \times \cancel {5} \times \cancel {20} \times 2} {\cancel {20} \times \cancel {5}} \\\\
-                                        &= 9 \times 2 \\\\
-                                        &= 18
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
@@ -170,7 +12,7 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tpercentage
@@ -213,141 +55,6 @@ $\pounds 40.8$
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A concert hall has $128$ rows of $35$ seats.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many seats are there in the concert hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin {aligned}
-\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
-                     &= 128 \times 35
-\end {aligned}
-$
-
-\begin {array}{cccccccccccccc}
-       &        &    1    &     2     &    8 \\
-       & \times &         &     3     &    5 \\
-\hline
-       &        &    6    &     4     &    0 \\
-       &    3   &    8    &     4     &    0 \\
-\hline
-       &    4   &    4    &     8     &    0
-\end {array}
-$
-
-Total number of seats in the concert hall $= 4480$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4480$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the concert hall is $75\%$ full, how many seats are **empty**? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
-
-Using this we get,
-
-$
-\begin {aligned}
-\text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
-                     &= \dfrac {25} {100} \times 4480 \\\\
-                     &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
-                     &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
-                     &= 1120
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1120$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
@@ -503,6 +210,62 @@ $\dfrac {3} {8}$
 <li>
 <div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
+<p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a tin of Roses, $8\%$ are “Purple Ones” (hazelnut &caramel). If the tin has a total of 250 chocolates, how many are **not** Purple Ones?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to the question,
+
+$
+\begin{aligned}
+\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
+                    &=  250 - 8 \% \times 250 \\\\
+                    &=  250 - \dfrac {8} {100} \times 250 \\\\
+                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
+                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
+                    &=  250 - 2 \times 10 \\\\
+                    &=  250 - 20 \\\\
+                    &=  230
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$230$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
 <p>B434CCB5-281D-460F-B6D5-BD15AA6F27E7</p>
 </div>
 <div class='topics'>
@@ -635,6 +398,63 @@ $30 \%$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>9F713E0D-70F0-4FA4-ABD0-C1978385B4BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a tin of Quality Street, $12\%$ are Coffee Crèmes. If the tin has a total of 250 chocolates, how many are **not** Coffee Crèmes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to the question,
+
+$
+\begin{aligned}
+\text{Not Coffee Crèmes,} &= Total Coffee Crèmes - Coffee Crèmes \\\\
+                          &= 250 - 12 \% \text{of} 250 \\\\
+                          &= 250 - \dfrac {12 \times 250} {100} \\\\
+                          &= 250 - \dfrac {12 \times 25 \cancel{0} } {10\cancel {0} } \\\\
+                          &= 250 - \dfrac {12 \times 5 \times \cancel {5} } {\cancel {5} \times 2} \\\\
+                          &= 250 - \dfrac {6 \times \cancel {2} \time 5} {\cancel {2} } \\\\
+                          &= 250 - 6 \times 5 \\\\
+                          &= 250 - 30 \\\\
+                          &= 220
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$220$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>

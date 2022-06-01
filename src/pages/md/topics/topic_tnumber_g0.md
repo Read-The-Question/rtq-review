@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-g0"
 title: "Topic - Number - G0"
-date: 2022-06-01 11:39:10
+date: 2022-06-01 14:01:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -7933,207 +7933,6 @@ $
 <div class='answer'>
 
 $0.88$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2C69A2DB-FAE8-49AE-9C4F-07E1193FCE09</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the following statements.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$25\%$ of $48 = {?}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25 \% \ \text {of} \ 48 \\\\
-&= \dfrac {25} {100} \times 48 \\\\
-&= \dfrac {25 \times 48} {100} \\\\
-&= \dfrac {25 \times 4 \times 12} {25 \times 4} \\\\
-&= \dfrac {\cancel {25} \times \cancel {4} \times 12} {\cancel {25} \times \cancel {4}} \\\\
-&= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$25\%$ of ${?} = 48$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-25 \% \ \text{of} \ a       &= 48 \\\\
-\dfrac {25} {100} \times a  &= 48 \\\\
-a                           &= 48 \times \dfrac {100} {25} \\\\
-a                           &= \dfrac {48 \times 100} {25} \\\\
-a                           &= \dfrac {48 \times 4 \times 25} {25} \\\\
-a                           &= \dfrac {48 \times 4 \times \cancel {25}} {\cancel {25}} \\\\
-a                           &= 48 \times 4 \\\\
-a                           &= 192
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$192$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Identify the two **square** numbers that add up to $74$.
-
-${?} + {?} = 74$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 49 + 25 \\\\
-&= 74
-\end{aligned}
-$
-
-Two square numbers that add up to $74$ are $49$ and $25$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49, 25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Identify the two **prime** numbers that add up to 13
-
-${?} + {?} = 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 11 + 2 \\\\
-&= 13
-\end{aligned}
-$
-
-The two prime numbers that up to $13$ are $11$ and $2$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 2$
 
 </div>
 </div>
@@ -28625,6 +28424,197 @@ Smallest $= 0.65$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>B6B641C8-8381-4DA6-B4A8-82780B3E86ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $10\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {10} {100} \times 600 \\\\
+&= \dfrac {10 \times 600} {100} \\\\
+&= \dfrac {10 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
+&= 10 \times 6 \\\\
+&= \pounds 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $5\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {5} {100} \times 600 \\\\
+&= \dfrac {5 \times 600} {100} \\\\
+&= \dfrac {5 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
+&= 5 \times 6 \\\\
+&= \pounds 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $2\:\:1\diagup2\%$ of $\pounds 600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using above answer,
+
+$
+\begin{aligned}
+&= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
+&= \dfrac {5\%} {2} \times 600 \\\\
+&= \dfrac {5\% \times 600} {2} \\\\
+&= \dfrac {30} {2} \\\\
+&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
+&= \pounds 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using above answer,
+
+$
+\begin{aligned}
+&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
+&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
+&= 60 + 30 + 15 \\\\
+&= \pounds 105
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 105$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>C5B51626-C8B8-4D6E-9DF1-29BB79106574</p>
 </div>
 <div class='topics'>
@@ -32381,13 +32371,7 @@ $402$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-tpercentage
 </li>
 </ul>
 </div>

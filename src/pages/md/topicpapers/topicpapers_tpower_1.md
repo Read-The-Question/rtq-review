@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpower-1"
 title: "TopicPaper - Power"
-date: 2022-06-01 11:19:28
+date: 2022-06-01 11:34:17
 ---
 <div class='paper'>
 <div class='meta'>

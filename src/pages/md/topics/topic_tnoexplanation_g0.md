@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g0"
 title: "Topic - Noexplanation - G0"
-date: 2022-06-01 11:08:34
+date: 2022-06-01 11:25:14
 ---
 <ul class='question default-decimal'>
 <li>

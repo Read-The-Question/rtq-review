@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-1"
 title: "TopicPaper - Statistics"
-date: 2022-06-01 11:19:28
+date: 2022-06-01 11:34:17
 ---
 <div class='paper'>
 <div class='meta'>

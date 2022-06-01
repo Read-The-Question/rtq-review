@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-pr"
 title: "Reviewer - Uday Pandey - PR"
-date: 2022-06-01 11:08:34
+date: 2022-06-01 11:25:14
 ---
 <ul class='question default-decimal'>
 <li>

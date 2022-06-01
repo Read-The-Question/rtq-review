@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-notstarted"
 title: "Topic - Symmetry - Not Started"
-date: 2022-06-01 11:08:34
+date: 2022-06-01 11:25:14
 ---
 <ul class='question default-decimal'>
 <li>

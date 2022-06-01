@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-na-all"
 title: "Owner - Naman Pant - All"
-date: 2022-06-01 11:25:14
+date: 2022-06-01 11:39:10
 ---
 <ul class='question default-decimal'>
 <li>

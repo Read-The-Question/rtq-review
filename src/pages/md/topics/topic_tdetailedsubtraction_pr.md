@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-pr"
 title: "Topic - Detailedsubtraction - PR"
-date: 2022-06-01 11:25:14
+date: 2022-06-01 11:39:10
 ---
 <ul class='question default-decimal'>
 <li>

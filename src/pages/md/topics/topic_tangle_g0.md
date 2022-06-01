@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-g0"
 title: "Topic - Angle - G0"
-date: 2022-06-01 11:25:14
+date: 2022-06-01 11:39:10
 ---
 <ul class='question default-decimal'>
 <li>

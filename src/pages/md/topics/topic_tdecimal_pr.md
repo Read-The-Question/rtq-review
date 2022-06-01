@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-pr"
 title: "Topic - Decimal - PR"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -326,7 +326,8 @@ $0.4 \quad 0.07 \quad 0.03$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimals.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

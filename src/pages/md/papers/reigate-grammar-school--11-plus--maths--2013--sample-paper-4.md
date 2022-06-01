@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -375,7 +375,8 @@ $20.30 + 0.07 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -427,7 +428,8 @@ $20.30 + 0.7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -479,7 +481,8 @@ $20.30 + 7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

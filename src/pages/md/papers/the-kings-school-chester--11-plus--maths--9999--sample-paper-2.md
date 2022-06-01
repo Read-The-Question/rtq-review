@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2033,9 +2033,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tgraph
-</li>
 <li>
 ttemperature
 </li>

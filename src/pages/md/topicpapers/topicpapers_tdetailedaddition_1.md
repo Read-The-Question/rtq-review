@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-1"
 title: "TopicPaper - Detailedaddition - 1"
-date: 2022-06-01 18:01:08
+date: 2022-06-01 19:04:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1215,9 +1215,6 @@ $994$
 <li>
 tdetailedaddition
 </li>
-<li>
-tdetailedsubtraction
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2066,7 +2063,8 @@ $32.01 + 0.09 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2118,7 +2116,8 @@ $32.01 + 0.9 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2170,7 +2169,8 @@ $32.01 + 9 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2266,7 +2266,8 @@ $20.11 + 0.09 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2315,7 +2316,8 @@ $20.11 + 0.9 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2364,7 +2366,8 @@ $20.11 + 9 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2470,7 +2473,8 @@ $20.02 + 0.07 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2522,7 +2526,8 @@ $20.02 + 0.7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2574,7 +2579,8 @@ $20.02 + 7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2680,7 +2686,8 @@ $20.30 + 0.07 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2732,7 +2739,8 @@ $20.30 + 0.7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2784,7 +2792,8 @@ $20.30 + 7 =$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -3029,7 +3038,8 @@ Add 19.3 + 0.84
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -4218,7 +4228,8 @@ $0.4 \quad 0.07 \quad 0.03$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimals.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-notstarted"
 title: "Owner - Uday Pandey - Not Started"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -205919,9 +205919,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tgraph
-</li>
 <li>
 ttemperature
 </li>

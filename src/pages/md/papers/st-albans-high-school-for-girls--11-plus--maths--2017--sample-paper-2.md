@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -129,7 +129,8 @@ Add 19.3 + 0.84
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -384,7 +384,8 @@ $0.4 \quad 0.07 \quad 0.03$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimals.
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

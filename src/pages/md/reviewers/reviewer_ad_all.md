@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ad-all"
 title: "Reviewer - Arun Dalakoti - All"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10838,9 +10838,6 @@ $2$
 <ul>
 <li>
 tdetailedaddition
-</li>
-<li>
-tdetailedsubtraction
 </li>
 </ul>
 </div>

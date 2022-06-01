@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-up-all"
 title: "Owner - Uday Pandey - All"
-date: 2022-06-01 17:49:57
+date: 2022-06-01 18:54:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -217308,9 +217308,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tgraph
-</li>
 <li>
 ttemperature
 </li>

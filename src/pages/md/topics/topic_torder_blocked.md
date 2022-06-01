@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-torder-blocked"
 title: "Topic - Order - Blocked"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ad_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9</p>
 </div>
@@ -44,12 +44,12 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>DBECDDB1-535A-40FF-A1A8-ACD4A67D5EC9</p>
 </div>
@@ -185,12 +185,69 @@ $-13$
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ad_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is smallest? Circle your answer
+
+- $\dfrac{(2+3)}{(4+6)}$
+- $\dfrac{(2\div3)}{(4\div6)}$
+- $\dfrac{23}{46}$
+- $\dfrac{(2-3)}{(4-6)}$
+- $\dfrac{(2\times3)}{(4\times6)}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{(2+3)}{(4+6)}                                        &= \dfrac{5}{11} \\\\
+\dfrac{(2\div3)}{(4\div6)}                                  &= 1 \\\\
+\dfrac{23}{46}                                              &= \dfrac{1}{2} \\\
+\dfrac{(2-3)}{(4-6)}                                        &= \dfrac{-1}{-2} \\\\
+\dfrac{(2\times3)}{(4\times6)}                              &= \dfrac{6}{24} \\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{5}{11}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>44A7CEDA-D2B0-4146-96A4-531150F642F1</p>
 </div>
@@ -243,7 +300,7 @@ $\boxed {\dfrac {5} {6}} \quad \boxed {\dfrac {4} {5}} \quad \boxed {70\%} \quad
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

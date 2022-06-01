@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-05-31 16:01:00
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>4CF06226-1747-426B-BA82-C10BCDC5B86E</p>
 </div>
@@ -196,12 +196,12 @@ $402$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
 </div>
@@ -242,12 +242,12 @@ $\pounds 16$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
 </div>
@@ -396,7 +396,7 @@ $4$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -454,7 +454,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
 </div>
@@ -503,7 +503,7 @@ $17$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -514,9 +514,6 @@ $17$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -671,7 +668,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>FEDF1274-F3D1-48A8-9364-946A301048E2</p>
 </div>
@@ -720,20 +717,17 @@ $22$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -838,7 +832,7 @@ $15$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -849,9 +843,6 @@ $15$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -910,9 +901,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
@@ -963,7 +951,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>A357F3C3-8EC2-4FD2-89FD-77A288594B29</p>
 </div>
@@ -1157,7 +1145,7 @@ $12 \text{ litres}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1403,7 +1391,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
 </div>
@@ -1459,7 +1447,7 @@ $\dfrac {1} {12}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

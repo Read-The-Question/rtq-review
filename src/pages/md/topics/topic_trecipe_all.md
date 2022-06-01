@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-trecipe-all"
 title: "Topic - Recipe - All"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>067FA9A5-42F4-4630-88CD-EE3F0CAD525B</p>
 </div>
@@ -130,12 +130,12 @@ $60$ cupcakes
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>B0D2C24D-CECA-4883-9C19-47AB0354D274</p>
 </div>
@@ -188,7 +188,7 @@ $225 \ \text{g flour}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -299,6 +299,220 @@ TODOANSWER
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5726C3F5-B8F4-4E0B-8C4F-00B818DD5396</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A recipe for a pudding for $6$ people requires the ingredients listed in the box on the right.
+
+![missing image](/papers/missing_image.svg)
+
+I want to adapt this recipe to make a similar pudding to serve $8$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For $8$ people I would need $\text{\textunderscore \textunderscore \textunderscore }$ eggs and $\text{\textunderscore \textunderscore \textunderscore }$ ml of milk.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If instead I wanted to make the pudding for $9$ people then …
+
+For 9 people I would need $\text{\textunderscore \textunderscore \textunderscore }$g of sultanas and $\text{\textunderscore \textunderscore \textunderscore }$g of butter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Later, I find the recipe for the same pudding in a recipe book, but this version calls for $5$ eggs.
+
+How many people is this $5$ egg version intended to serve? It serves $\text{\textunderscore \textunderscore \textunderscore }$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the $5$ egg version, you would need to use $\text{\textunderscore \textunderscore \textunderscore }$g of flour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -462,6 +676,206 @@ $28$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C32DD935-2232-41D0-95F2-831726C34B8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are the ingredients needed to make a tray of $20$ flapjacks:
+
+$200 \ \text{grams}$ of margarine
+
+$250 \ \text{grams}$ of oats
+
+$200 \ \text{grams}$ of sugar
+
+$100 \ \text{grams}$ of flour
+
+$3$ tablespoons of syrup
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write out the ingredients you would need to make $10$ flapjacks.
+
+$\ldots$ grams of margarine
+
+$\ldots$ grams of oats
+
+$\ldots$ grams of sugar grams of flour
+
+$\ldots$ tablespoons of syrup 
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+$100 \ \text{grams}$ of margarine
+
+$150 \ \text{grams}$ of oats
+
+$100 \ \text{grams}$ of sugar
+
+$50 \ \text{grams}$ of flour
+
+$66.66$ tablespoons of syrup
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+$100 \ \text{grams}$ of margarine
+
+$150 \ \text{grams}$ of oats
+
+$100 \ \text{grams}$ of sugar
+
+$50 \ \text{grams}$ of flour
+
+$66.66$ tablespoons of syrup
+$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Kelly needs to make $50$ flapjacks for a party. 
+How much flour does she need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+According to question,
+
+20 flapjacks need $=100gm$
+
+1 flapjack need
+
+$
+\begin{aligned}
+&= \dfrac {100} {20} \\\\
+&= 5
+\end{aligned}
+$
+
+50 flapjacks will need, 
+
+\begin{aligned}
+&= 5 \times 50 \\\\
+&= 250 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$250 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+To make healthier flapjacks, you can use $\dfrac{3}{4}$ of the recommended amount of sugar.
+
+How much sugar would you use to make $20$ of these healthier flapjacks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \times 200 \\\\
+&= \dfrac {3 \times 4 \times 50} {4} \\\\
+&= \dfrac {3 \times \cancel4 \times 50} {\cancel4} \\\\
+&= 150 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -761,7 +1175,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>DF1F8D35-24B7-47A1-AE66-E60F99803BCA</p>
 </div>
@@ -960,7 +1374,7 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

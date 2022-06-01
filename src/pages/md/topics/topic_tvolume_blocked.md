@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tvolume-blocked"
 title: "Topic - Volume - Blocked"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>88578F99-F6DE-4070-9731-34BD962C4B0A</p>
 </div>
@@ -117,12 +117,12 @@ $130 \text{ cm}$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>BD685B1C-24D9-4333-832A-AC45353FEB89</p>
 </div>
@@ -178,12 +178,12 @@ $\dfrac {1} {12}$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>1492EF2C-7CE8-40A6-8461-43DC10B50E61</p>
 </div>
@@ -226,7 +226,7 @@ $0.25 \text{ liters}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tvolume-notstarted"
 title: "Topic - Volume - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -187,9 +187,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>
@@ -737,6 +734,247 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>76119116-2D56-4485-9318-0825AD6466FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the volume of big box  be V ,
+
+$
+\begin{aligned}
+V &= 6\text{cm} \times 10 \text{cm} \times 20 \text{cm} \\\\
+V &= 1200 \text{cm}^3
+\end{aligned}
+$
+
+Let the volume of small box be v,
+
+$
+\begin{aligned}
+V &= 2\text{cm} \times 2 \text{cm} \times 2 \text{cm} \\\\
+V &= 8 \text{cm}^3
+\end{aligned}
+$
+
+Let the number of small boxes fit into big box be N,
+
+$
+\begin{aligned}
+N &= \dfrac {V} {v} \\\\
+N &= \dfrac {1200} {8} \\\\
+N &= \dfrac {8 \times 150 } {8} \\\\\
+N &= \dfrac {\cancel {8} \times 150 } {\cancel {8} } \\\\\
+N &= 150
+\end{aligned}
+$
+
+$
+\begin{aligned}
+&= 1200 - 1 \ \text{litre} \\\\\
+&= 1200\text{cm}^3 - 1000 \text{cm}^3 \\\\
+&= 200 \text{cm}^3 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150, 200\text{cm}^3$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many $2 \times 2 \times 2 \ \text{cm}$ cubes can you fit into the box below?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much space is left if you pour half a litre of water into the box ($1 \ \text{litre}$ of water has a volume of $1000 \ \text{cm}^3$)?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>04DE9CD4-9DBE-46AD-B14F-B7A255ECDF40</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A drink contains lime, orange and apple juices in the ratio $2:7:6$. Find the volume of orange juice contained in $300 \ \text{ml}$ of the drink.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\def\arraystretch{1.5}
+   \begin{array}{cccccccccccccc}
+   \text{Lime} \ &+& \text{Orange} \ &+ & \text{Apples} &= 330\text {ml}  \\ 
+           2   \ &+& \  7          \ &+ &        6    &= 15 \\
+ \end{array}
+$
+
+Let's take the quantity of each juice as $x$
+
+So,
+
+$
+\begin{aligned}
+2x + 7x + 6x &= 300 \\
+         15x &= 300 \\
+           x &= \dfrac {300}{15} \\\\
+           x &= \dfrac {20 \times 15}{15} \\\\
+           x &= \dfrac {20 \times \cancel {15}}{\cancel {15}} \\\\
+           x &= 20 \ \text {ml}
+\end{aligned}
+$
+
+Let's find the volume of Oragne juice.
+
+Orange juice 
+
+
+$
+\begin{aligned}
+7x &= 7 \times 20 \text { ml} \\\\
+   &= 140 \text { ml}
+\end{aligned}
+$
+
+Orange juice $= 140 \text { ml}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \text { ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>159F7FF8-2EDF-4182-ADFD-95F6291506A6</p>
 </div>
 <div class='topics'>
@@ -1006,13 +1244,202 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>19D1A71C-91C4-4B84-AFB5-93282AFDD08B</p>
+<p>031D794E-5978-4206-9059-995FC698CDE6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tvolume
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One cube has each of its faces covered by one face of an identical cube, making a solid as shown.
+
+![missing image](/papers/missing_image.svg)
+
+The total volume of the solid is $56\,cm^3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the width of one cube, in cm.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Total volume of the solid $= 56 \text {cm}^3$ 
+
+volume of one cube $=8 \text{cm}^3 $ 
+
+So,width of one cube is,
+$
+\begin{aligned}
+&= \sqrt{8} \\\\
+&= 2 \\\\
+&= 2 \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the total surface of the solid, in $cm^2$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total surface area of one cube $=24 \text {cm}^2}
+
+So, Total surface of the solid is,
+$
+\begin{aligned}
+&= 24 \times 6 \\\\
+&= 144 \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$144 \text {cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1F50F7CD-F3E8-44BF-B1E4-AF4F6393A329</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tunassigned
 </li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+Blocks of this shape are packed into the container on the right. What is the greatest number of blocks that can be placed inside the container?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of blocks}         &= \dfrac{\text{Volume of container}}{\text{Volume of block}} \\\\
+                                &= \dfrac{6 \times 2 \times 2}{1 \times 1 \times 1 + (\dfrac{1}{2} \times 1 \times 1)} \\\\
+                                &= \dfrac{6 \times 2 \times 2}{1 + \dfrac{1}{2}} \\\\
+                                &= \dfrac{24}{\dfrac{3}{2}} \\\\
+                                &= \dfrac{24 \times 2}{3} \\\\
+                                &= \dfrac{3 \times 8 \times 2}{3} \\\\
+                                &= \dfrac{\cancel{3} \times 8 \times 2}{\cancel{3}} \\\\
+                                &= 8 \times 2 \\\\
+\text{Number of blocks}         &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>19D1A71C-91C4-4B84-AFB5-93282AFDD08B</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tgraph
 </li>
@@ -1323,6 +1750,133 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4C113131-6866-426B-80E4-A39452BFF12D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+<li>
+tdraw
+</li>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This small box measures $2 \ \text{cm}$ by $2 \ \text{cm}$ by $3 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the volume of the box.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Volume} &= 2 \times 2 \times 3 \\\\
+               &= 12 \ \text {cm^3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \ \text {cm^3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On the centimetre squared grid below, draw a net for the box.
+
+*(The shaded face has already been drawn for you.)*
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2142,13 +2696,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
 tvolume
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2772,6 +3326,177 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8FE71FBE-741B-44E7-B00C-6618D7E244F9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+[In this question you will need to use the formulae $S = 4\pi\,r^2$ and $V=\frac{4} {3}\pi\,r^3$ for the surface area and volume of a sphere of radius $r$ .]
+
+A cube has total surface area $150\, cm^2$.
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the radius of the sphere with the same surface area as the cube.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the radius of the sphere with the same volume as the cube.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the radius of the sphere if both the sphere and the cube have the same ratio of surface area to volume.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

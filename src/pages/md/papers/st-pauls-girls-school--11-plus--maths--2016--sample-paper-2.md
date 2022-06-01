@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -143,7 +143,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
@@ -194,7 +194,7 @@ $\boxed{7} \boxed{4} +  \boxed{1}\boxed{8}\boxed{6} = \boxed{2} \boxed{5} \boxed
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -263,9 +263,6 @@ $740$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdivision
 </li>
 </ul>
@@ -309,7 +306,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>7B4003E7-EBF5-425C-9D44-B0E047531A36</p>
 </div>
@@ -351,7 +348,7 @@ $5.5$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -467,7 +464,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>FB54FC28-0CE7-4805-A51B-22A1806749EC</p>
 </div>
@@ -524,7 +521,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -536,10 +533,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttime
+talgebra
 </li>
 </ul>
 </div>
@@ -764,7 +758,7 @@ $315, 240$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
 </div>
@@ -815,7 +809,7 @@ $8{:}45 \ \text{am}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1139,7 +1133,7 @@ $\pounds 7.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>8D859487-1917-4AF8-9CAA-CC95403EF019</p>
 </div>
@@ -1188,7 +1182,7 @@ $45, 53$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1254,7 +1248,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_amber question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>E04A5D82-8409-45E4-B659-1A199BE3C232</p>
 </div>
@@ -1317,7 +1311,7 @@ $42 \ \text{coins}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_amber</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1468,9 +1462,6 @@ $9$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -1651,20 +1642,14 @@ $480$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_amber question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfraction
+talgebra
 </li>
 </ul>
 </div>
@@ -1808,20 +1793,17 @@ $10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_amber</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_amber question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>D29FD65A-D00C-4231-B577-33E395594EC4</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -1930,7 +1912,7 @@ $16 \ \text{hours}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_amber</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1942,10 +1924,10 @@ $16 \ \text{hours}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tgraph
 </li>
 <li>
-tgraph
+tgeometry
 </li>
 </ul>
 </div>
@@ -3066,13 +3048,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tsequence
+tinfer
 </li>
 </ul>
 </div>

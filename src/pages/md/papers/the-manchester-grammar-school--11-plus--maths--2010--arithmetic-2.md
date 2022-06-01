@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 2"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -506,9 +506,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -1227,10 +1224,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1943,9 +1940,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>

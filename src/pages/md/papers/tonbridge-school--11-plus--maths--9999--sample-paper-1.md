@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -19,9 +19,6 @@ date: 2022-05-31 16:01:00
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -390,7 +387,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>797265A3-3EB8-4AF0-8240-9F976351007A</p>
 </div>
@@ -498,7 +495,7 @@ $12$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -823,9 +820,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -1212,15 +1206,12 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>353BB995-A155-4687-A64F-8268496F03B4</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -1401,7 +1392,7 @@ $2\dfrac{2} {3}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1844,7 +1835,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>B8A38FB1-A956-4BBA-84F5-7EE08A153405</p>
 </div>
@@ -1935,12 +1926,12 @@ $87.5 \%$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>17360B83-7524-4915-9C57-EA134B592244</p>
 </div>
@@ -2016,7 +2007,7 @@ $22 \degree$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2517,17 +2508,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>857C8851-DFFE-4176-BC5A-986FC02066A9</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2571,7 +2562,7 @@ $24.9 \ \text{cm}^2$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

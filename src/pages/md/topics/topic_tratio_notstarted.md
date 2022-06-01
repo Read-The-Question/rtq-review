@@ -1,9 +1,124 @@
 ---
 slug: "topics/topic-tratio-notstarted"
 title: "Topic - Ratio - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EEF2F155-9C19-4621-BD3B-08F9D2DA9ACD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quarter of the pupils in a class are girls. The rest are boys. What is the ratio of girls to boys?
+
+-  $1:1$
+-  $1:2$
+-  $1:3$ 
+-  $1:4$ 
+-  $1:5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of pupils in a class $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Ratio of girls to boys} &= \dfrac {a/4} {a} \\\\
+                               7= \dfrac {a} {4} \times \dfrac {1} {a} \\\\
+                               7= \dfrac {\cancel {a} } {4} \times \dfrac {1} {\cancel{a}} \\\\
+                               &= \dfrac {1} {4} \\\\
+                               &= 1 : 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1:4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -354,6 +469,213 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>EF5A83F9-F6E5-4862-BFED-FB9BA8A7B6BB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gru and his minions have had a very busy Christmas period delivering presents on behalf of Santa. 
+In order to speed things along he uses his minions to deliver the presents. 
+Each minion can deliver $7$ presents in an hour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many presents can one minion deliver in $3 \ \text{hours}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many presents can four minions deliver in one hour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Dave the minion has been given $161$ presents. How long would it take him to deliver these?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At $1 \ \text{am}$ on Christmas day there is still a total of $1820$ presents to deliver. 
+Gru has been given $5 \ \text{hours}$ to complete the deliveries. 
+How many minions is he going to need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
 </div>
 <div class='topics'>
@@ -487,6 +809,390 @@ TODOANSWER
 
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A6B4F4AC-4EE1-4587-AD76-5C3E4463BBC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is $6 \ \text{g}$ of sugar in every $10 \ \text{g}$ of jam. How much sugar is in $500 \ \text{g}$ of jam?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+10 \ \text{g jam}                &: 6 \ \text{g sugar} \\\\
+10 \times 50 \ \text{g jam}      &: 6 \times 50 \ \text{g sugar} \\\\
+500 \ \text{g jam}               &: 300 \ \text{g sugar}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$300 \ \text{g sugar}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>95A29F98-6981-4767-85E8-E530C0390FC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$5 \ \text{gallons} = 22.82 \ \text{litres}$
+
+Which is nearest to $1 \ \text{gallon}$?
+
+$4.528 \quad 4.448 \quad 4.645 \quad 4.565 \quad 4.504$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
+\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
+1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
+\end{aligned}
+$
+
+It is nearest to $4.565$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.565$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>59660B71-3F8C-4A1A-A1EF-EA9884A61222</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$48$ pencils cost $\pounds 11.04$.  What is the cost of each pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+48 \ \text{pencils}                 &: \pounds 11.04 \\\\
+\dfrac {48} {48} \ \text{pencils}   &: \pounds \dfrac {11.04} {48} \\\\
+1 \ \text{pencil}                   &: \pounds 0.23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.23$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FAB1BF10-B312-46AB-82B1-C43A782E14E0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chocolate bars are packed in boxes of $24$. A shop buys $16$ boxes.
+
+How many chocolate bars are in $16$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, chocolate bar in a box $= 24$. So,
+
+$
+\begin{aligned}
+\text{chocolate bar in 14 boxes} &= 24 \times 16 \\\\
+                                 &= 384
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternatively, we can solve this using ratios. 
+
+$
+\begin{aligned}
+1 \ \text {Box}               &: 24 \ \text {chocolates} \\\\
+1 \times 14 \ \text {Boxes}   &: 24 \times 14 \ \text {chocolates} \\\\
+14 \ \text {Boxes}            &: 384 \ \text {chocolates}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$384$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>17EC1357-010B-4821-8678-B795316E1CC5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is $5.5\ \text{g}$ of sugar in every $10\ \text{g}$ of jam. How much sugar is in $600\ \text{g}$ of jam?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+10 \ \text{g jam}                &: 5.5 \ \text{g sugar} \\\\
+10 \times 60 \ \text{g jam}      &: 5.5 \times 60 \ \text{g sugar} \\\\
+600 \ \text{g jam}               &: 330 \ \text{g sugar}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$330 \ \text{g sugar}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2C9211D3-A247-46E1-91A0-D9C1942E6873</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$5 \ \text{gallons} = 22.82 \ \text{litres}$
+
+Which is nearest to $1 \ \text{gallon}$?
+
+$4.528 \quad 4.448 \quad 4.645 \quad 4.565 \quad 4.504$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
+\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
+1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
+\end{aligned}
+$
+
+It is nearest to $4.565$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.565$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>937AFC65-5B92-4FBB-AEEE-672986561D07</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$36$ pencils cost $\pounds 7.92$.  What is the cost of each pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+36 \ \text{pencils}                 &: \pounds 7.92 \\\\
+\dfrac {36} {36} \ \text{pencils}   &: \pounds \dfrac {7.92} {36} \\\\
+1 \ \text{pencil}                   &: \pounds 0.22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -659,6 +1365,65 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>00895CB9-6B0A-48EF-85AC-BE14B2DC56DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$5 \ \text{gallons} = 22.82 \ \text{litres}$
+
+Which is nearest to $1 \ \text{gallon}$?
+
+$4.528 \quad  4.448 \quad   4.645 \quad  4.565 \quad  4.504$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
+\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
+1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
+\end{aligned}
+$
+
+It is nearest to $4.565$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.565$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA</p>
 </div>
 <div class='topics'>
@@ -703,6 +1468,224 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D4DD20A6-5A96-44D2-BD6F-40B33B94EA63</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One pint is $568\ \text{ml}$. How many $\text{ml}$ is half a pint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+1 \ \text{pint}                    &: 568 \ \text{ml} \\\\
+\text{half pint}                   &: \dfrac {568} {2} \ \text{ml} \\\\
+\dfrac {1} {2} \ \text{pint}       &: \dfrac {568} {2} \ \text{ml} \\\\
+\dfrac {1} {2} \ \text{pint}       &: 284 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$284 \ \text{ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gym membership costs $\pounds 16$ a month. How much will it cost for a year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+1 \ \text{month}                  &: \pounds 16 \\\\
+1 \times 12 \ \text{months}       &: \pounds 16 \times 12 \\\\
+1 \ \text{year}                   &: \pounds 192
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 192$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B0D2C24D-CECA-4883-9C19-47AB0354D274</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+<li>
+trecipe
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A recipe for $4$ people needs $150 \ \text{g}$ of flour. How much flour would you need to make the same recipe for $6$ people?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+4 \ \text{people}                                                       &: 150 \ \text{g flour} \\\\
+4 \times \dfrac {3} {2} \ \text{people}                                 &: 150 \times \dfrac {3} {2} \ \text{g flour} \\\\
+\dfrac {4 \times 3} {2} \ \text{people}                                 &: \dfrac {150 \times 3} {2} \ \text{g flour} \\\\
+\dfrac {2 \times 2 \times 3} {2} \ \text{people}                        &: \dfrac {2 \times 75 \times 3} {2} \ \text{g flour} \\\\
+\dfrac {\cancel {2} \times 2 \times 3} {\cancel {2}} \ \text{people}    &: \dfrac {\cancel {2} \times 75 \times 3} {\cancel {2}} \ \text{g flour} \\\\
+3 \times 2 \ \text{people}                                              &: 75 \times 3 \ \text{g flour} \\\\
+6 \ \text{people}                                                       &: 225 \ \text{g flour} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$225 \ \text{g flour}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A prime number has exactly $2$ factors: itself and $1$.
+
+The numbers from $1$ to $20$ inclusive are written on $20$ cards. Write down the **proportion** of all the cards that have a 
+prime number written on them, giving your answer as a decimal.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Prime numbers between $1$ to $20$ $= $8$
+
+Total numbers $= $20
+$
+\begin{aligned}
+\text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
+                                                             &= \dfrac {8} {20} \\\\
+                                                             &= \dfrac {8 \times 5} {20 \times 5} \\\\
+                                                             &= \dfrac {40} {100} \\\\
+                                                             &= 0 {.} 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -837,13 +1820,7 @@ $7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -1120,6 +2097,60 @@ TODOANSWER
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>86C26B56-435E-4C7D-A434-75EA2A3565D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alan and Bob can paint a room in $4 \ \text{hours}$.
+
+Bob would take $6 \ \text{hours}$ on his own.
+
+How long would Alan take on his own? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1725,6 +2756,60 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>2287967E-4500-459C-959D-1FB4C7C5EC7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cheese costs $\pounds 5.40$ per kg. Jessica buys $0.6\ \text{kg}$ of cheese. How much does Jessica pay? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+             1 \ \text {kg} &: \pounds 5.40 \\\\
+  1 \times 0.6 \ \text {kg} &: \pounds 5.40 \times 0.6 \\\\
+           0.6 \ \text {kg} &: \pounds 3.24 \\\\
+\end{aligned}
+$
+
+cost of $0.6$ kg cheese $= \pounds 3.24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
 <div class='topics'>
@@ -1896,6 +2981,220 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>5726C3F5-B8F4-4E0B-8C4F-00B818DD5396</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A recipe for a pudding for $6$ people requires the ingredients listed in the box on the right.
+
+![missing image](/papers/missing_image.svg)
+
+I want to adapt this recipe to make a similar pudding to serve $8$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+For $8$ people I would need $\text{\textunderscore \textunderscore \textunderscore }$ eggs and $\text{\textunderscore \textunderscore \textunderscore }$ ml of milk.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If instead I wanted to make the pudding for $9$ people then …
+
+For 9 people I would need $\text{\textunderscore \textunderscore \textunderscore }$g of sultanas and $\text{\textunderscore \textunderscore \textunderscore }$g of butter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Later, I find the recipe for the same pudding in a recipe book, but this version calls for $5$ eggs.
+
+How many people is this $5$ egg version intended to serve? It serves $\text{\textunderscore \textunderscore \textunderscore }$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the $5$ egg version, you would need to use $\text{\textunderscore \textunderscore \textunderscore }$g of flour.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C43EC3F6-97AA-4A64-8ED6-E478405FF933</p>
 </div>
 <div class='topics'>
@@ -1959,47 +3258,31 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>5BB64843-2C66-475E-8A4F-DB15C73D0E22</p>
+<p>847ECFA2-1EEA-49D7-9918-8A8651C83F4C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty% 
+Curtain material costs $\pounds4.25 \ \text{per}\ \text{metre}$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2012,30 +3295,25 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-Mr Sahota is cycling around a track at a constant speed. He completes $5$ laps every $4\ \text{minutes}$. How long will it take him to complete $8$ laps? Give your answer in $\text{minutes}$ and $\text{seconds}$.
+How much will it cost to buy $10\ \text{metres}$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {Cost of 10 metres} &= 4.25 \times 10 \\\\
+                          &= \pounds 42.5
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\pounds 42.5$
 
 </div>
 </div>
@@ -2050,30 +3328,28 @@ TODOANSWER
 </div>
 <div class='question subquestion'>
 
-Mr Aldham is also cycling around the track at a constant speed. He completes $5$ laps every $6\ \text{minutes}$. How long is it between the first time that Mr Sahota overtakes Mr Aldham and the second time that Mr Sahota overtakes Mr Aldham?
+Mrs Brown buys a length of this material and pays $\pounds17$. 
+
+How many metres does she buy?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {She buys} &= \dfrac {17} {4.25} \\\\
+                        &= \dfrac {4 \times \cancel {4.25}} {\cancel {4.25}} \\\\
+                        &= 4 \text{metres}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$4 \text{metres}$
 
 </div>
 </div>
@@ -2082,7 +3358,7 @@ TODOANSWER
 </li>
 </ul>
 <div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2723,6 +3999,209 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+In order to save time banks weigh bags of coins instead of counting them. The masses in grams of some coins are shown above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If a bag of $2 \ \text{pence}$ coins weighs $350 \ \text{g}$, how many coins are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {350} {7} \\\\
+                       &= \dfrac {50 \times 7} {7} \\\\
+                       &= \dfrac {50 \times \cancel {7}} {\cancel {7}} \\\\
+                       &= 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much are $500 \ \text{g}$ of $20 \ \text{pence}$ coins worth?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {500} {5} \\\\
+                       &= \dfrac {5 \times 100} {5} \\\\
+                       &= \dfrac {\cancel {5} \times 100} {\cancel {5}} \\\\
+                       &= 100
+\end{aligned}
+$
+
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+\text{Worth} &= 100 \times 20 \\\\
+             &= 2000 \text{p} \\\\
+             &= \pounds \dfrac {2000} {100} \\\\
+             &= \pounds \dfrac {20 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+             &= \pounds 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams would $\pounds 10$ worth of $50 \ \text{pence}$ coins weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\pounds 1 = 100 \text{p}$
+
+$
+\begin{aligned}
+\text{Number of coins} &= \dfrac {10 \times 100} {50} \\\\
+                       &= \dfrac {5 \times 2 \times 100} {5 \times 10} \\\\
+                       &= \dfrac {\cancel {5} \times 2 \times 10 \cancel {0}} {\cancel {5} \times 1 \cancel {0}} \\\\
+                       &= 20
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total weight} &= 20 \times 13.4 \\\\
+                    &= 268 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$268 \ \text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bag contains a mixture of $2 \ \text{pence}$ and $1 \ \text{pence}$ coins. It is worth $\pounds 2$. What does it weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>1A426F4F-4B59-4DF9-A794-DCC831294DCC</p>
 </div>
 <div class='topics'>
@@ -2844,6 +4323,61 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five bags of apples cost $\pounds 3.25$.
+
+How much would $\text{seven}$ bags of apples cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of 5 bags} &= \pounds 3.25\\\\
+\text {Cost of 1 bag}  &= \dfrac {3.25} {5} \\\\
+                       &= \dfrac {0.65 \times 5} {5} \\\\
+                       &= \dfrac {0.65 \times \cancel {5}} {\cancel {5}} \\\\
+                       &= \pounds 0.65 \\\\
+\text {Cost of 7 bags} &= 0.65 \times 7 \\\\
+                       &= \pounds 4.55
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.55$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3143,13 +4677,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 tratio
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -3189,6 +4723,697 @@ $98$
 
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F4C49E6C-6442-483E-A6A8-7B917E8F9472</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a class the ratio of boys to girls is 3 : 5.
+
+If there are $6$ less boys than girls, how any pupils are in the class in total? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{let the number of boys = x, and number of girls=y}
+y                                                               &= \dfrac{5x}{3} \\\\
+x + 6                                                           &= y \\\\
+x + 6                                                           &= \dfrac{5x}{3} \\\\
+x - \dfrac{5x}{3}                                               &= -6 \\\\
+\dfrac{3x - 5x}{3}                                              &= -6 \\\\
+\dfrac{-2x}{3}                                                  &= \dfrac{-6 \times 3}{-2} \\\\ 
+x                                                               &= 9
+
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F4EA0A59-8C6E-47D9-8760-31CB473DCE39</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bella makes purple paint by mixing blue paint and red paint in the ratio of $4:3$. How much blue paint is needed to make $21$ litres of purple paint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+The blue and red paint are in ratio $4:3$. 
+
+Let the amount of blue paint and red paint be a , b litres respectively,
+
+First lets write b in terms of a,
+
+$
+\begin{aligned}
+\dfrac{a}{b}             &= \dfrac{4}{3} \\\\
+\dfrac{b}{a}             &= \dfrac{3}{4} \\\\
+b                        &= a\dfrac{3}{4} \\\\
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                    &= 21 \\\\
+a + a \dfrac {3} {4}     &= 21 \\\\
+ \dfrac {4a + 3a}  {4}   &= 21 \\\\
+4a + 3a                  &= 21 \times 4 \\\\
+7a                       &= 21 \times 4 \\\\
+a                        &= \dfrac {21 \times 4} {7} \\\\
+a                        &= \dfrac {7 \times 3 \times 4} {7} \\\\
+a                        &= \dfrac {\cancel {7} \times 3 \times 4} {\cancel {7}} \\\\
+a                        &= 12 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A357F3C3-8EC2-4FD2-89FD-77A288594B29</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Maya wants to make some purple paint. She knows that she can make purple by mixing red and blue paint in the ratio $4:5$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She has $12 \ \text{litres}$ of red paint. How much blue paint will she need? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let The amount of blue paint $= a$,
+
+The amount of red paint $= b$,
+
+
+As per the question,
+
+$
+\begin{aligned}
+12:b            &= 4 : 5 \\\\
+\dfrac {12} {b} &= \dfrac {4} {5} \\\\
+\dfrac {b} {12} &= \dfrac {5} {4} \\\\
+b               &= 12 \times \dfrac {5} {4} \\\\
+b               &= 4 \times 3 \dfrac {5} {4} \\\\
+b               &= \cancel {4} \times 3 \dfrac {5} {\cancel {4} } \\\\
+b               &= 3 \times 5 \\\\
+b               &= 15 \ \text{litres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \text{ litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much purple paint will that make? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total purple paint} &= a + b \\\\
+                          &= 12 + 15 \\\\
+                          &= 27 \text{ litres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \text{ litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Eliot needs $36 \ \text{litres}$ of purple paint. How much red paint will he need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the amount of red paint $= a$
+
+The amount of blue paint $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b = 36 \ \text{(equation 1)}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+a : b          &= 4 : 5 \\\\
+\dfrac {a} {b} &= \dfrac {4} {5} \\\\
+\dfrac {b} {a} &= \dfrac {5} {4} \\\\
+b              &= a\dfrac {5} {4} 
+\end{aligned}
+$
+
+Substuting b in equation 1
+
+$
+\begin{aligned}
+a + b                &= 36 \\\\
+a + a \dfrac {5} {4} &= 36 \\\\
+\dfrac {4a + 5a} {4} &= 36 \\\\
+\dfrac {9a} {4}      &= 36 \\\\
+9a                   &= 36 \times 4 \\\\
+a                    &= \dfrac {36 \times 4} {9} \\\\
+a                    &= \dfrac 9 \times 3 \times 4} {9} \\\\
+a                    &= \dfrac \cancel {9} \times 3 \times 4} {\cancel{9} } \\\\
+a                    &= 3 \times 4 \\\\
+a                    &= 12 \text{ litres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{ litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>174ABCE6-0882-4AC7-91BE-F385F7D1F968</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+*Purple Fire* paint is made by mixing red and blue paint in the ratio $3:1$. If I want to make $1 \ \text{litre}$ of *Purple Fire* paint, how much red paint do I need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+For every 1 portion of blue paint, 3 portions of red paint needs to be mixed to make *Purple Fire* paint 
+
+Total Portions $= 3 + 1 = 4$
+
+Ratio of red and blue paint in *Purple Fire* paint is 
+
+$
+\begin{aligned}
+Red &: Blue \\
+  3 &: 1 \\\\
+\text {or,}\\\\
+Red  &= \dfrac {3} {4} \\\\
+Blue &= \dfrac {1} {4}\\\\
+\end{aligned}
+$
+
+Total *Purple Fire* paint needed is $1 \text{ litre}$
+
+Total Portions 
+
+= $4$ 
+
+= $1 \text{ litre}$ or $1000 \text{ ml}$
+
+Red  $= \dfrac {3} {4}$
+
+Red  $\dfrac {3} {4}$ i.e. $3$ Portions of the $1000 \text{ ml}$ is red paint.
+
+Let's find how much is that 
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \times 1000 \text{ ml} \\\\
+&= \dfrac {3} {4} \times 250 \times 4 \text{ ml} \\\\
+&= \dfrac {3} {\cancel{4}} \times 250 \times \cancel{4} \text{ ml} \\\\
+&= 3 \times 250 \text{ ml}  \\\\
+&= 750 \text{ ml}
+\end{aligned}
+$
+
+$750 \text{ ml}$ of red paint is needed to make $1 \text{ litre}$ of *Purple Fire*
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$750 \text{ ml}$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>215B4AA2-1A07-4570-82AF-18FA5525BD3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$17$ tickets cost $\pounds 21.25$. They all cost the same.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the cost of one ticket.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Cost of one ticket $= \dfrac {21.25} {17}
+
+Dividing by decimals is same as dividing by two whole numbers. Ensure to place the decimal point exactly at the same place as it is at the dividend.
+
+$
+\begin{array}{l}
+\phantom{\ 0)0 \ 0\ \ }{\ \ \ 1 \ . \ 2 \ 5}\\
+\phantom{\ 00}{17}\
+\overline{\smash{)} 2 \ 1 \ . \ 2 \ 5 }\ \\\
+\phantom{0)}  \ \          - \underline{1 \ 7 \ \ \  \ \ }\\
+\phantom{{00\ 0 \ \ 0 }}              \ \  \ 4 \ \ \ 2 \\\
+\phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
+\phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
+\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
+\end{array}
+$
+
+Cost of one tickets $= \pounds 1.25$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.25$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the cost of seven tickets.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Cost of seven tickets = cost of one ticket $\times 7$
+
+
+Multiplying with decimal points is same as multiplying with two whole numbers. Add up the number of digits after the decimal points int the question and ensure to place the decimal point in the answer going from right to left.
+
+$\pounds 1.25 \times 7$
+
+$
+\begin{array}{cccccccccccccc}
+           &1     & 2     & 5  \\
+{}\times   &      &      & 7   \\
+\hline 
+           &8     &7      &5   \\
+\end{array}
+$
+
+Let's put the decimal points. The question has two numbers after the decimal point. So in the answer put the decimal point going right to left after two digits.
+
+$\pounds 1.25 \times 7 = \pounds 8.75$
+
+Cost of seven tickets is $\pounds 8.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.75$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>04DE9CD4-9DBE-46AD-B14F-B7A255ECDF40</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A drink contains lime, orange and apple juices in the ratio $2:7:6$. Find the volume of orange juice contained in $300 \ \text{ml}$ of the drink.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\def\arraystretch{1.5}
+   \begin{array}{cccccccccccccc}
+   \text{Lime} \ &+& \text{Orange} \ &+ & \text{Apples} &= 330\text {ml}  \\ 
+           2   \ &+& \  7          \ &+ &        6    &= 15 \\
+ \end{array}
+$
+
+Let's take the quantity of each juice as $x$
+
+So,
+
+$
+\begin{aligned}
+2x + 7x + 6x &= 300 \\
+         15x &= 300 \\
+           x &= \dfrac {300}{15} \\\\
+           x &= \dfrac {20 \times 15}{15} \\\\
+           x &= \dfrac {20 \times \cancel {15}}{\cancel {15}} \\\\
+           x &= 20 \ \text {ml}
+\end{aligned}
+$
+
+Let's find the volume of Oragne juice.
+
+Orange juice 
+
+
+$
+\begin{aligned}
+7x &= 7 \times 20 \text { ml} \\\\
+   &= 140 \text { ml}
+\end{aligned}
+$
+
+Orange juice $= 140 \text { ml}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \text { ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>954B239D-561E-432E-8792-5E69FD530CC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tratio
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square is divided into three congruent rectangles. The middle rectangle is removed and replaced on the side of the original square to form an octagon as shown. 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg) 
+
+
+What is the ratio of the perimeter of the square to the perimeter of the octagon?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3836,6 +6061,226 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>B8B2E49B-8011-42BF-B6B2-E0E65544BF52</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes $5$ teachers $9 \ \text{hours}$ to mark a set of examination papers. 
+How long would it take for $12$ teachers to mark the same set of examination papers?
+
+- $3.75 \ \text{hours}$
+- $3.5 \ \text{hours}$
+- $21.6 \ \text{hours}$
+- $20.5 \ \text{hours}$
+- $4 \ \text{hours}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5 \ \text{teachers takes} \ 9 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{then} \ 1 \ \text{teachers takes} \  1.8 \ \text{hrs} \text{ to mark a set of exams papers.} \\\\
+\text{Now,} &=12 \times 1.8 \\\\
+&= 21.6 \ \text{hrs} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$21.6 \ \text{hrs}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2E210E66-DA3C-41A7-AEFA-6EE0F1A7883F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $750 \ \text{grams}$ of pasta cost $90 \text{p}$ find the cost of $1 \ \text{kilogram}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to convert into the right units.
+
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+As per the question,
+
+$
+\begin{aligned}
+    750                                   & : 90 \text{p}                                                                     \\\\
+    \dfrac {750}{750}                     & : \dfrac {90}{750}                                                                \\\\
+    \dfrac {\cancel {750}}{\cancel {750}} & : \dfrac {9 \cancel 0}{75 \cancel 0}                                              \\\\
+    1                                     & : \dfrac {9}{75}                                                                  \\\\
+    1  \times 1000                        & : \dfrac {9}{75} \times 1000                                                      \\\\
+    1000                                  & : \dfrac {9 \times 1000}{75}                                                      \\\\
+    1000                                  & : \dfrac {3 \times 3 \times 25 \times 40} {3 \times 25}                           \\\\
+    1000                                  & : \dfrac {\cancel 3 \times \cancel {25} \times 40}{\cancel 3 \times \cancel {25}} \\\\
+    1000                                  & : 3 \times 40                                                                     \\\\
+    1000                                  & : 120 \text{p}                                                                    \\\\
+    1000 \ \text {gram}                   & : \pounds 1.20                                                                    
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+<div class='working'>
+
+
+It is really important to convert into the right units.
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+    750 \text{g}    & : 1000 \text{g}    \\\\
+    75 \text{g}     & : 100 \text{g}     \\\\
+    \dfrac {75}{25} & : \dfrac {100}{25} \\\\
+    3               & : 4                
+\end{aligned}
+$
+
+Let's take the cost of $1 \ \text{kg}$ = $a$ 
+
+$
+\begin{aligned}
+    \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
+    \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>898D6F7E-99FF-4F84-8A70-E702FD934F2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $9$ bananas cost $\pounds 1.23$ find the cost of $12$ bananas.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+    9  \ \text{ bananas}          & : \pounds 1.23                                      \\\\
+    9  \ \text{ bananas}          & : 123 \ \text{pence}                                \\\\
+    \dfrac {9}{9}                 & : \dfrac {123}{9}                                   \\\\
+    \dfrac {\cancel 9}{\cancel 9} & : \dfrac {3 \times 41}{3 \times 3}                  \\\\
+    1 \ \text{ banana}            & : \dfrac {\cancel 3 \times 41}{\cancel 3 \times 3}  \\\\
+    1 \ \text{ banana}            & : \dfrac {41}{3}                                    \\\\
+    1 \times 12                   & : \dfrac {41 \times 12}{3}                          \\\\
+    12 \ \text{ bananas}          & : \dfrac {41 \times 3 \times 4 }{3}                 \\\\
+    12 \ \text{ bananas}          & : \dfrac {41 \times \cancel 3 \times 4 }{\cancel 3} \\\\
+    12 \ \text{ bananas}          & : 41 \times 4                                       \\\\
+    12 \ \text{ bananas}          & : 164 \ \text{pence}                                \\\\  
+    12 \ \text{ bananas}          & : \pounds 1.64                                      \\\\                   
+\end{aligned}
+$
+
+$12$ bananas would cost $= \pounds 1.64$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>97436615-6898-4B56-86C1-EED30973F623</p>
 </div>
 <div class='topics'>
@@ -3881,6 +6326,225 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9777149C-D9F9-44DB-9A03-FA447A5348FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $7$ tennis lessons cost $\pounds 167.65$ what is the cost of $1$ lesson?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question
+
+$
+\begin{aligned}
+\text{Cost of 1 lesson} &= \dfrac {167.65} {7} \\\\
+                        &= \dfrac {23.95 \times 7} {7} \\\\
+                        &= \dfrac {23.95 \times \cancel {7} } {\cancel {7} } \\\\
+                        &= \pounds 23.95
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds23.95$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DB8426F8-1FC9-4F04-9127-D813A4C5A351</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My friend George is really good at maths so I decide to ask him some tricky questions to see if I can catch him out. Needless to say he got all three questions right! Write George's answers in the spaces provided.
+
+George's Quiz
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If it takes $90 \ \text{minutes}$ for two identical towels to dry on a washing line, how long would three of these towels have taken to dry?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the winter, I try and climb up an icy slope starting at the bottom. Each time 
+I make a move I find that I go up four metres but then slide back down two metres. 
+How many moves do I need to get to the top which is $8 \ \text{metres}$ up the slope from the bottom?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of mould growing on my bathroom wall doubles every day. After $13$ days the area covered is $2880 \ \text{cm}^2$. 
+After how days did the area first exceed $300 \ \text{cm}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4084,12 +6748,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -4203,6 +6861,569 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C32DD935-2232-41D0-95F2-831726C34B8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are the ingredients needed to make a tray of $20$ flapjacks:
+
+$200 \ \text{grams}$ of margarine
+
+$250 \ \text{grams}$ of oats
+
+$200 \ \text{grams}$ of sugar
+
+$100 \ \text{grams}$ of flour
+
+$3$ tablespoons of syrup
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write out the ingredients you would need to make $10$ flapjacks.
+
+$\ldots$ grams of margarine
+
+$\ldots$ grams of oats
+
+$\ldots$ grams of sugar grams of flour
+
+$\ldots$ tablespoons of syrup 
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+$100 \ \text{grams}$ of margarine
+
+$150 \ \text{grams}$ of oats
+
+$100 \ \text{grams}$ of sugar
+
+$50 \ \text{grams}$ of flour
+
+$66.66$ tablespoons of syrup
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+$100 \ \text{grams}$ of margarine
+
+$150 \ \text{grams}$ of oats
+
+$100 \ \text{grams}$ of sugar
+
+$50 \ \text{grams}$ of flour
+
+$66.66$ tablespoons of syrup
+$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Kelly needs to make $50$ flapjacks for a party. 
+How much flour does she need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+According to question,
+
+20 flapjacks need $=100gm$
+
+1 flapjack need
+
+$
+\begin{aligned}
+&= \dfrac {100} {20} \\\\
+&= 5
+\end{aligned}
+$
+
+50 flapjacks will need, 
+
+\begin{aligned}
+&= 5 \times 50 \\\\
+&= 250 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$250 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+To make healthier flapjacks, you can use $\dfrac{3}{4}$ of the recommended amount of sugar.
+
+How much sugar would you use to make $20$ of these healthier flapjacks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \times 200 \\\\
+&= \dfrac {3 \times 4 \times 50} {4} \\\\
+&= \dfrac {3 \times \cancel4 \times 50} {\cancel4} \\\\
+&= 150 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>EA7910A9-327F-4001-9B86-BF3FFC2C2306</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tratio
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie's grandmother has given her the family recipe to make a tray of $12$ scones.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much flour will she need to make $24$ scones?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to question ,
+
+flour needed for 12 scones  $=2cups$
+
+flour needed for 1 scones
+
+$
+\begin{aligned}
+&= \dfrac{2}{12} \\\\
+&= \dfrac{1}{6}
+\end{aligned}
+$
+
+flour needed for 24 scones
+
+$
+&= \dfrac{1}{6} \times 24 \\\\
+&= 4
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4cups$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much salt will she need to make $60$ scones?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to question ,
+
+salt needed for 12 scones  $=\dfrac{1}{2} teaspoon salts$
+
+flour needed for 1 scones
+
+$
+\begin{aligned}
+&= \dfrac{1}{2\times 12} \\\\
+&= \dfrac{1}{24}
+\end{aligned}
+$
+
+flour needed for 60 scones
+
+$
+&= \dfrac{1}{24} \times 60 \\\\
+&= \dfrac{5}{2} \\\\
+&= 2.5 teaspoon
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.5 teaspoon$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sophie has only half a litre of milk.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write half a litre in millilitres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$500 ml$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500 ml$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+What is the maximum number of trays of scones which she can make?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DE639F1C-5F52-4C93-BFFF-448E2E9A1515</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sanjay is making purple paint.
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If he uses $6 \ \text{litres}$ of red paint, how much blue paint should he use? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9 \ \text {litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much blue paint is needed to make $35 \ \text{litres}$ of purple paint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$23.33 \ \text {litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23.33 \ \text {litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4595,13 +7816,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -6361,6 +9576,238 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>85996BB9-38D6-49C8-BE67-8D9631433764</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A tea leaf weighs $0.008 \ \text{grams}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What would be the mass of $1000$ tea leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Mass of 1000 tea leaves}  &= \text {Mass of one tea leaf} \times 1000 \\\\
+                                 &= 0.008 \ \text {grams} \times 1000 \\\\
+                                 &= 8 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tea leaves would you expect there to be in a $1 \ \text{kg}$ pack of tea?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A tea bag contains $250$ tea leaves.
+
+The tissue covering weighs $0.5 \ \text{g}$.
+
+How many tea bags will there be in a $250 \text{g}$ packet of tea bags?
+
+(The $250 \text{g}$ includes the mass of the bags and not just the tea leaves.)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Mass of 1 tea bag}                              &= \text {Mass of 250 tea leaves} + \text {Mass of tissue} \\\\
+                                                       &= 250 \times 0.008 \ \text {grams} + 0.5 \ \text {grams} \\\\
+                                                       &= 250 \times \dfrac {0.008 \times 1000} {1 \times 1000} + 0.5 \\\\
+                                                       &= 250 \times \dfrac {8} {1000} + 0.5 \\\\
+                                                       &= \dfrac {8 \times 250} {1000} + 0.5 \\\\
+                                                       &= \dfrac {2 \times 4 \times 25 \times 10} {25 \times 4 \times 10} + 0.5 \\\\
+                                                       &= \dfrac {2 \times \cancel {4} \times \cancel {25} \times \cancel {10}} {\cancel {25} \times \cancel {4} \times \cancel {10}} + 0.5 \\\\
+                                                       &= 2 + 0.5 \\\\
+                                                       &= 2.5 \ \text {grams} \\\\
+\text {Number of tea bags in 250 grams packet of bag}  &= \dfrac {\text {Total Mass of packet}} {\text {Mass of one tea bag}} \\\\
+                                                       &= \dfrac {250 \ \text {grams}} {2.5 \ \text {grams}} \\\\
+                                                       &= \dfrac {25 \times 10 \times 10} {2.5 \times 10} \\\\
+                                                       &= \dfrac {25 \times 100} {25} \\\\
+                                                       &= \dfrac {\cancel {25} \times 100} {\cancel {25}} \\\\
+                                                       &= 100 \ \text {bags}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \ \text {bags}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8F20C671-EFDE-4929-8A63-E6C396CD2106</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tlcm
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A red light flashes four times a minute and a green light flashes six times a minute. If both lights start flashing at the same instant, how many times do they flash at the same instant in one hour including the first and the last time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the interval at which green and red light flashes.
+
+$
+\begin{aligned}
+4 \text{ red flashes }  &: 1 \ \text{minute} \\\\
+4 \text{ red flashes }  &: 60 \ \text{seconds} \\\\
+1 \text{ red flash }    &: \dfrac {60}{4} \ \text{seconds} \\\\
+1 \text{ red flash }    &: 15 \ \text{seconds} \\\\
+6 \text{ green flashes }    &: 1 \ \text{minute} \\\\
+6 \text{ green flashes }    &: 60 \ \text{seconds} \\\\
+1 \text{ green flash }      &: \dfrac {60}{6} \ \text{seconds} \\\\
+1 \text{ green flash }      &: 10 \ \text{seconds}
+\end{aligned}
+$
+
+
+The interval at the which both the light will flash together will be the LCM of their respective intervals.
+LCM of $10 \ \text{and} \ 15 = 30$.
+
+Both the lights will flash together every $30$ seconds i.e. $2$ times every minute.
+
+Now let's find the number of times they flash together in $1$ hour (including the start and then end time)
+
+$
+\begin{aligned}
+&= 2 \times 60 + 1 \\\\
+&= 120 + 1 \\\\
+&= 121
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$121$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>E96F9980-E746-44A5-BF5E-740293EF65A9</p>
 </div>
 <div class='topics'>
@@ -6719,6 +10166,182 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>FF5C2EF2-F081-47E2-A6EF-2FD0FBAECCD2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Petrol costs $\pounds 1.12$ per litre. If there are $4.5 \ \text{litres}$ in a gallon, what would the cost of a gallon of petrol be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratio.
+
+$4.5 \ \text{litres} = 1 \ \text{gallon}$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \ \text{litre}            &: \pounds 1.12 \\\\
+4.5 \times 1 \ \text{litre} &: 4.5 \times \pounds 1.12 \\\\
+4.5 \ \text{litre}          &: \pounds 5.04 \\\\
+1 \ \text{gallon}           &: \pounds 5.04
+\end{aligned}
+$
+
+Cost of a gallon of petrol $= \pounds 5.04$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.04$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Susan is making a necklace of beads, using red and yellow beads in the ratio 2 : 3. She has $56$ red beads altogether.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many yellow beads will she need:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Ratio of red beads and yellow beads = 2 : 3.
+
+She has 56 red beads altogether. i.e.,
+
+$
+\begin{aligned}
+2 \ \text{red beads} : 3 \ \text{yellow beads} \\\\
+2 \times 28 \ \text{red beads} : 3 \times 28 \ \text{yellow beads} \\\\
+56 \ \text{red beads} : 84 \ \text{yellow beads}
+\end{aligned}
+$
+
+Number of yellow beads required = $84 \ \text{beads}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84 \ \text{beads}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many beads will she use altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total number of beads = Number of red beads + Number of yellow beads
+
+$
+\begin{aligned}
+&= 56 + 84 \\\\
+&= 140 \ \text{beads}
+\end{aligned}
+$
+
+Total number of beads = $140 \ \text{beads}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \ \text{beads}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A272142D-A294-48CF-AB64-9FFEA9730C13</p>
 </div>
 <div class='topics'>
@@ -6885,9 +10508,6 @@ $13 \text{packets}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>

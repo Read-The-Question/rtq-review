@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-notstarted"
 title: "Topic - Money - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,6 +51,60 @@ TODOANSWER
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -984,6 +1038,187 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>4E57F639-F608-4331-AA87-22415889E213</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+TJ is sorting out prices for the snack shop at school, he has a box of $15$ chocolate bars. He bought the while box for 
+$\pounds 4.05$. He plans to sell the bars for $35 \text{p}$ each.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much money will TJ recieve if he sells all 15 bars at 35 \text{p}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {TJ will recieve}     &= 15 \times 35 \ \text {p} - \pounds 4.05 \\\\
+                            &= 15 \times \pounds \dfrac {35} {100} - \pounds 4.05 \\\\
+                            &= 15 \times 0.35 - 4.05 \\\\
+                            &= 5.25 - 4.05 \\\\
+                            &= \pounds 1.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much did TJ pay each bar when he bought the box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {TJ paid}     &= 4.05 \div 15 \\\\
+                    &= \dfrac {4.05} {15} \\\\
+                    &= \pounds 0.27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+TJ also has two types of cereal snacks: raisin bars and nut bars. Each raisin bar is $12 \text{p}$ 
+more to buy than a nut bar. Nine raisin bars and twelve nut bars cost $\pounds 5.28$.
+
+How much more do nine raisin bars cost than nine nut bars?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does a raisin bar cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>663C1132-5F90-4917-8CA7-E8A79A1E5E32</p>
 </div>
 <div class='topics'>
@@ -1172,6 +1407,57 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>59660B71-3F8C-4A1A-A1EF-EA9884A61222</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$48$ pencils cost $\pounds 11.04$.  What is the cost of each pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+48 \ \text{pencils}                 &: \pounds 11.04 \\\\
+\dfrac {48} {48} \ \text{pencils}   &: \pounds \dfrac {11.04} {48} \\\\
+1 \ \text{pencil}                   &: \pounds 0.23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.23$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C9EF22E6-F0B3-4950-BEA5-4EE8AD12F591</p>
 </div>
 <div class='topics'>
@@ -1323,6 +1609,324 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3CCF8DB4-38EC-47A3-B1E8-BAC6A3745EE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gym membership costs $\pounds 16$ a month. How much will it cost for a year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+1 \ \text{month}                  &: \pounds 16 \\\\
+1 \times 12 \ \text{months}       &: \pounds 16 \times 12 \\\\
+1 \ \text{year}                   &: \pounds 192
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 192$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5743D96D-D40B-4E87-8774-99FCA17BCEB5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tmoney
+</li>
+<li>
+ttime
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a plan of the rectangular garden of local celebrity Louis Cowell-Cole, 
+with an L-shaped fish pond in the middle. The dimensions of the garden and the pond are shown below.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the fish pond.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the lawn.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Each paving slab is a square with sides $1 \ \text{metre}$.
+
+Work out how many paving slabs are needed to complete this path.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis hires a builder to lay the path. The builder charges $\pounds 8$ per hour basic labour for the job, and then $\pounds 1.50$ per slab he lays.
+
+If he takes $3 \dfrac{1}{2}$ hours to finish the job, work out his overall fee.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
+the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+corner of the garden.
+
+![missing image](/papers/missing_image.svg)
+
+Calculate how many bushes are required to complete this in total.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1804,6 +2408,60 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2287967E-4500-459C-959D-1FB4C7C5EC7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Cheese costs $\pounds 5.40$ per kg. Jessica buys $0.6\ \text{kg}$ of cheese. How much does Jessica pay? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+             1 \ \text {kg} &: \pounds 5.40 \\\\
+  1 \times 0.6 \ \text {kg} &: \pounds 5.40 \times 0.6 \\\\
+           0.6 \ \text {kg} &: \pounds 3.24 \\\\
+\end{aligned}
+$
+
+cost of $0.6$ kg cheese $= \pounds 3.24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2312,6 +2970,73 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>978FDDC5-6123-4E2E-8C74-EBC87A1F718D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy $3$ chocolate bars for $65\ \text{pence}$ each and $5$ bags of crisps for $55 \ \text{p}$ each. How much change do I get from a $\pounds5$ note?
+
+A: $30\text{p}$
+
+B: $35\text{p}$
+
+C: $40\text{p}$
+
+D: $45\text{p}$
+
+E: $50\text{p}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+ \text {Cost of three choclate bars} &= 1.95 \text{ pounds} \\\\
+ \text {Cost of five bags of crisps} &= 2.75 \text { pounds} \\\\
+  \text {Total savings} &= 5.00 {}- 1.95 {}- 2.75 \\\\
+   \text {Total savings} &=  0.3
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+0.3 pounds
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>F0D6AE04-27B8-45AD-B4A3-B669BF97A8B0</p>
 </div>
 <div class='topics'>
@@ -2561,6 +3286,361 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>75CD6A49-4737-4E11-80CD-36DE5CEA30CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$38 + 624 + 170$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       &   3   &   8 \\
+    &   6   &   2   &   4 \\
+{}+ &   1   &   7   &   0 \\
+\hline
+    &   8   &   3   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$832$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$361 - 89$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin{array}{cccccccccccccc}
+    &   3   &   6   &   1 \\
+{}- &       &   8   &   9 \\
+\hline
+    &   2   &   7   &   2
+\end{array}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$272$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\pounds17.23 + \pounds6.58 + 75\text{p}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$279 \times 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+       &   2   &   7   &   9 \\
+\times &       &       &   6 \\
+\hline
+   1   &   6   &   7   &   4
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$85 \div 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FC723669-28F5-4DD7-8D03-9D1BA3DA811D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Exercise books come in packs of $25$. The school needs $480$ exercise books.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin{aligned}
+
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many packs must be bought?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Each pack costs $\pounds6$.
+
+Work out the total cost of the exercise books.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>2D772BAD-6C2A-4EF1-8CE1-848D6AD5038E</p>
 </div>
 <div class='topics'>
@@ -2697,6 +3777,382 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>F7A5AEC7-5BE3-4E03-8394-515786CF09D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pencils are bought in two ways, either $15\text{p}$ each or $\pounds{3.12}$ for a box of $24$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does it cost for $7$ pencils bought individually?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost for 7 pencils} &= 7 \times 15 \\\\
+                          &= 105 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If I buy $4$ boxes of $24$ pencils, how much change should I receive if I pay with a $\pounds20$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Change received} &= 20 - 4 \times 3.12 \\\\
+                       &= 20 - 12.48 \\\\
+                       &= \pounds 7.52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7.52$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much is saved by buying a box of $24$ rather than buying $24$ pencils individually?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money saved} &= \pounds 3.12 - 24 \times 15 \text{p} \\\\
+                   &= \pounds 3.12 - 360 \text{p} \\\\
+                   &= \pounds 3.12 - \pounds \dfrac {360} {100} \\\\
+                   &= \pounds 3.12 - \pounds 3.6 \\\\
+                   &= \pounds 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A school requires enough pencils so that each of its $340$ pupils can have a pencil each. How many boxes of $24$ pencils should the school buy, and how many spare pencils will this leave?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4D36DDE1-18A4-4F91-A9F3-7CB993E6A6E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mark has a market stall.
+He sells apples at $56 \text{p}$ for each kilogram.
+
+Bianca buys $4 \ \text{kilograms}$ of apples.
+She pays for her apples with a $\pounds 5$ note.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change should she get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change she should get} &= \pounds 5 - 4 \times 56 \text{p} \\\\
+                              &= \pounds 5 - 224 \text{p} \\\\
+                              &= \pounds 5 - \pounds 2.24 \\\\
+                              &= \pounds 2.76
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.76$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark bought $25$ melons for his stall. 
+He paid $\pounds 16$ for $25$each melons.
+
+Work out the price Mark paid for each melon, in pence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since we know,
+
+\pounds 1 = 100 \text { p}
+
+$
+\begin{aligned}
+&= \pounds 16 \times 100 \\\\
+&= 1600 \text { p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1600 \text { p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Five of the melons were bad. Mark sold the other $20$ for $120 \text{p}$ each.
+
+Work out the total amount for which Mark sold the melons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 20 \times 120 \text { p} \\\\
+&= 2400 \text { p} \\\\
+&= \pounds 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out what profit Mark made in selling the melons, giving your answer as a fraction of the cost of buying the melons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Profit} &= 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>D8CD86EC-CEA6-473B-8C9B-8CCE13207DB6</p>
 </div>
 <div class='topics'>
@@ -2742,6 +4198,61 @@ TODOANSWER
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five bags of apples cost $\pounds 3.25$.
+
+How much would $\text{seven}$ bags of apples cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of 5 bags} &= \pounds 3.25\\\\
+\text {Cost of 1 bag}  &= \dfrac {3.25} {5} \\\\
+                       &= \dfrac {0.65 \times 5} {5} \\\\
+                       &= \dfrac {0.65 \times \cancel {5}} {\cancel {5}} \\\\
+                       &= \pounds 0.65 \\\\
+\text {Cost of 7 bags} &= 0.65 \times 7 \\\\
+                       &= \pounds 4.55
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.55$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3423,6 +4934,277 @@ TODOANSWER
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look carefully at the following five supermarket offers:
+
+A Buy one get one free.
+B Buy one get the second for half price.
+C Buy two get one free.
+D Buy four and pay only for three.
+E One-third off all prices.
+
+Two pairs of these offers actually give the same value for money. Write down the letters representing both of these pairs in the spaces below:
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money, and
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's take the original price $=a$
+
+Now let's find the number of items one gets in each of the offer and the money one has to pay for it.
+
+**Offer A : Buy one get one free.** 
+
+Items $=2$ 
+
+  Pay $=a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}   \\\\
+    2                             & : a             \\\\
+    \dfrac {2}{2}                 & : \dfrac {a}{2} \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {a}{2} \\\\
+    1                             & : \dfrac {a}{2} 
+\end{aligned}
+$
+
+**Offer B : Buy one get the second for half price.** 
+
+Items $=2$ 
+
+  Pay $=a + \dfrac{a}{2}$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}                                    \\\\
+    2                             & : a + \dfrac {a}{2}                               \\\\
+    2                             & : \dfrac {a}{1} + \dfrac {a}{2}                   \\\\
+    2                             & : \dfrac {a \times 2}{1 \times 2} + \dfrac {a}{2} \\\\
+    2 \times \dfrac{1}{2}         & : \dfrac {2a  + a} {2} \times  \dfrac{1}{2}       \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {3a} {4}                                 \\\\
+    1                             & : \dfrac {3a}{4}                                  
+\end{aligned}
+$
+
+
+**Offer C : Buy two get one free.** 
+
+Items $=3$ 
+
+  Pay $=2a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}       \\\\
+    3                             & : 2a                \\\\
+    \dfrac {3}{3}                 & : \dfrac {2a}{3}    \\\\
+    \dfrac {\cancel 3}{\cancel 3} & : \dfrac {2a}{3}    \\\\
+    1                             & : \dfrac {2a}{3} 
+\end{aligned}
+$
+
+
+**Offer D : Buy four and pay only for three.** 
+
+Items $=4$ 
+
+  Pay $=3a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}     \\\\
+    4                             & : 3a              \\\\
+    \dfrac {4}{4}                 & : \dfrac {3a} {4} \\\\    
+    \dfrac {\cancel 4}{\cancel 4} & : \dfrac {3a} {4} \\\\
+    1                             & : \dfrac {3a}{4}  
+\end{aligned}
+$
+
+
+**Offer E : One-third off all prices** 
+
+Items $=1$ 
+
+  Pay $=a - \dfrac {1}{3}$
+
+
+$
+\begin{aligned} 
+    \text{Item} & : \text{Price}                                    \\\\
+    1           & : a - \dfrac {1}{3}                               \\\\
+    1           & : \dfrac {a}{1} - \dfrac {1}{3}                   \\\\
+    1           & : \dfrac {a \times 3}{1 \times 3} - \dfrac {1}{3} \\\\
+    1           & : \dfrac {3a} {3} -  \dfrac{1}{3}                 \\\\
+    1           & : \dfrac {3a - 1} {3}                             \\\\
+    1           & : \dfrac {2a}{3}                                  
+\end{aligned}
+$
+
+Ratio of one item cost under the offers:
+
+$
+\begin{aligned} 
+\text {Offer A} &= \dfrac {a}{2} \\\\
+\text {Offer B} &= \dfrac {3a}{4} \\\\
+\text {Offer C} &= \dfrac {2a}{3}  \\\\
+\text {Offer D} &= \dfrac {3a}{4} \\\\
+\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\end{aligned}
+$
+
+As we can see above,
+
+$B = D$ and $C = E$
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>12F567E6-42DC-4EE3-A2CE-D09D970305D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rate of VAT (value-added tax) in this country is $20\%$. In the shop CoCost, the price of a TV excluding VAT is 
+$\pounds 550$. Work out the cost of the TV after the VAT is added on.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+    \text{VAT} & = 20 \% \ \text{of} \ \pounds 550                                                \\\\
+               & = \dfrac {20} {100} \times 550                                                   \\\\
+               & = \dfrac {2 \cancel 0} {1 \cancel 0 \cancel 0} \times  \dfrac {55 \cancel 0} {1} \\\\
+               & = 2 \times 55                                                                    \\\\
+               & = \pounds  110                                                                   
+\end{aligned}
+$
+
+Total cost of TV = Price of TV + VAT
+
+$
+\begin{aligned}
+      & = \pounds 550 + \pounds 110 \\\\
+      & = \pounds 660               
+\end{aligned}
+$
+
+The cost of the TV after the VAT is added on $=\pounds 660$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 660$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The price of a diamond ring, including VAT is $\pounds 1200$. Work out the cost of the ring before the VAT was added on. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6010,6 +7792,134 @@ $1000 \ \text{g}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>71FE7449-4F1E-4FA7-AA3E-E13ECDAD6EF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two shirts and three tops cost $\pounds 29$. Three shirts and one top cost $\pounds 19$. What is the cost of a top?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's take the shirts as = $x$
+
+Let's take the tops   as = $y$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
+\text{and}\\
+\text {(Equation 2)} \quad 3x + 1y &= \pounds 19\\\
+y &= 19 - 3x\\
+\end{aligned}
+$
+
+Now let's substitute $y$ in equation 1 
+
+$
+\begin{aligned}
+         29 &= 2x + 3(19- 3x) \\
+            &= 2x + 57 - 9x  \\
+         29 &= 57 - 7x \\
+         7x &= 57 - 29\\
+         7x &= 28\\
+          x &= \dfrac {28}{7}\\\
+          x &= 4\\
+\end{aligned}
+$
+
+Now let's substitute $x$ in equation $2$ to find the cost a top $y$
+
+$
+\begin{aligned}
+         y  &= 19 - 3x\\
+            &= 19 - (3 \times 4)\\
+         y  &= 19 - 12\\
+         y  &= \pounds 7\\
+\end{aligned}
+$
+
+The cost of a top is $\pounds 7$.
+
+</div>
+<div class='working'>
+
+Let's take the shirts as = $x$
+
+Let's take the tops   as = $y$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {(Equation 1)} \quad 2x + 3y &= \pounds 29\\\           
+\text{and}\\
+\text {(Equation 2)} \quad 3x + 1y &= \pounds 19\\\
+y &= 19 - 3x\\
+\end{aligned}
+$
+
+Now let's substitute $y$ in equation 1 
+
+$
+\begin{aligned}
+         29 &= 2x + 3(19- 3x) \\
+            &= 2x + 57 - 9x  \\
+         29 &= 57 - 7x \\
+         7x &= 57 - 29\\
+         7x &= 28\\
+          x &= \dfrac {28}{7}\\\
+          x &= 4\\
+\end{aligned}
+$
+
+Now let's substitute $x$ in equation $2$ to find the cost a top $y$
+
+$
+\begin{aligned}
+         y  &= 19 - 3x\\
+            &= 19 - (3 \times 4)\\
+         y  &= 19 - 12\\
+         y  &= \pounds 7\\
+\end{aligned}
+$
+
+The cost of a top is $\pounds 7$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C3BE9AFF-3897-4101-88BA-E1C514952C0C</p>
 </div>
 <div class='topics'>
@@ -7542,6 +9452,70 @@ TODOANSWER
 <div class='answer'>
 
 TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A3C01E30-4AAA-4DBB-B19E-8F08BBF264E5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What percentage is $15 \text{p}$ out of $\pounds 3.00$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 3 \\\\
+                    &= 3 \times 100 \text{p} \\\\
+                    &= 300 \text{p}
+\end{aligned}
+$
+
+Let's find the percentage of $15 \text{p}$
+
+$
+\begin{aligned}
+&= \dfrac {15} {300} \times 100 \\\\
+&= \dfrac {15 \times 100} {300} \\\\
+&= \dfrac {15 \times 1 \cancel {00}} {3 \cancel {00}} \\\\
+&= \dfrac {15} {3} \\\\
+&= \dfrac {3 \times 5} {3} \\\\
+&= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
+&= 5\%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5\%$
 
 </div>
 </div>

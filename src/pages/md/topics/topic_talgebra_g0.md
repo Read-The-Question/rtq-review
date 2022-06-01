@@ -1,0 +1,34156 @@
+---
+slug: "topics/topic-talgebra-g0"
+title: "Topic - Algebra - G0"
+date: 2022-06-01 11:08:34
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0F57C9C9-F2AD-4B34-BB50-53249F45FAE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Scarlett has $p$ pence. She spends $71$ pence on a new rubber. Circle the expression that shows how much money Scarlett has left.
+
+- $71p$
+- $71 + p$
+- $p - 71$
+- $71 - p$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$p - 71$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$p - 71$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CDFD491B-E050-44A6-902D-95DE23E4196F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angle in this isosceles triangle.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As the triangle is an isosceles triangle, the third angle is also $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+a \degree + a \degree + 96 \degree      &= 180 \degree  \\\\
+2a + 96                                 &= 180  \\\\
+2a                                      &= 180 - 96  \\\\
+2a                                      &= 84  \\\\
+a                                       &= \dfrac {84} {2}  \\\\
+a                                       &= \dfrac {42 \times 2} {2}  \\\\
+a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
+a                                       &= 42 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A0407EE1-F5C4-4644-87E4-39782B777B4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $14$ boys in year $4$.
+
+Given that $\dfrac{2}{5}$ of the year are boys, how many are girls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of students in year $4 = a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{2}{5} \times a                          &= 14  \\\\
+\dfrac{2 \times a}{5}                          &= 14  \\\\
+a                                              &= \dfrac{14 \times 5}{2} \\\\
+                                               &= \dfrac{7 \times 2 \times 5}{2} \\\\
+                                               &= \dfrac{7 \times \cancel{2} \times 5}{\cancel{2}} \\\\
+                                               &= 7 \times 5 \\\\
+                                               &= 35
+\end{aligned}
+$
+
+The total number of children in the club $= 35$
+
+Let's find how many girls are in the club.
+
+$
+\begin{aligned}
+\text{Girls}            &= \text{Total children} - \text{Total boys} \\\\      
+                        &= 35 - 14  \\\\
+                        &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CE466DC8-BA86-4871-AE14-6A9661BFBE5C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $a = 5, b = 2$ and $c = 10$ find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a - b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2a -b \\\\
+&= 2 \times 5 - 2 \\\\
+&= 10 - 2 \\\\
+&= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$c - (a - b)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= c - (a - b) \\\\
+&= 10 - (5 - 2)  \\\\
+&= 10 - 3 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3b^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3b^2 \\\\
+&= 3 \times 2^2  \\\\
+&= 3 \times 2 \times 2  \\\\
+&= 3 \times 4 \\\\
+&= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3B389935-2713-4E79-B41A-797356ED47C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number.
+If I add $5$ to it and then divide by $2$, I get $6$. 
+
+What number am I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a + 5} { 2}    &= 6 \\\\
+a + 5                  &= 6 \times 2 \\\\
+a + 5                  &= 12 \\\\
+a                      &= 12 - 5\\\\
+a                      &= 7\\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Solve the following equation to find $x$.
+
+$5x - 7 = 43$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 7         &= 43 \\\\
+5x             &= 43 + 7 \\\\
+5x             &= 50 \\\\
+x              &= \dfrac {50} {5} \\\\
+x              &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>125D5D46-1589-49A3-B299-BF6AD03EEA2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gino is thinking of a number. 
+
+If he
+
+- halves it,
+- then adds 5 to it
+- and then squares it and gets 121.
+
+Circle the number that Gino was thinking of.
+
+$12 \quad 17 \quad 32$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Gino thought of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
+\dfrac{a}{2} + 5                    &= \sqrt{121} \\\\
+\dfrac{a}{2} + 5                    &= 11 \\\\
+\dfrac{a}{2}                        &= 11 - 5 \\\\
+\dfrac{a}{2}                        &= 6 \\\\
+a                                   &= 6 \times 2 \\\\
+a                                   &= 12 
+\end {aligned}
+$
+
+The number that Gino thought of $= 12$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+What is the value of the missing angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 90 \degree + 23 \degree     &= 180 \degree  \\\\
+a                               &= 180 - 90 - 23 \\\\
+a                               &= 180 - 113 \\\\
+a                               &= 67 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C6F4AD83-598E-4D8C-8FE2-F30239151865</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a year group of $180$ students, the students all studied one language.
+
+$\dfrac{2}{5}$ of the students studied French, $\dfrac{1}{4}$ studied Latin and the rest studied Spanish.
+
+How many students studied Spanish?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text{Students (Spanish)}       &=  \text {Total students} - \text {Students (French)} - \text {Students (Latin)} \\\\
+                                &=  180 -  \dfrac {2} {5} \times 180 - \dfrac {1} {4} \times 180 \\\\
+                                &=  180 -  \dfrac {2 \times 180} {5} - \dfrac {180} {4} \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times 5} {5} - \dfrac {45 \times 4} {4} \\\\
+                                &=  180 -  \dfrac {2 \times 36 \times \cancel{5}} {\cancel{5}} - \dfrac {45 \times \cancel{4}} {\cancel{4}} \\\\
+                                &=  180 -  2 \times 36 - 45 \\\\
+                                &=  180 -  72 - 45 \\\\
+                                &=  63
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>36F489C8-4D43-443D-8436-ED8F6DD25EB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie and her friends decided to raise money for charity by baking and selling cookies.
+They set themselves a target of $\pounds 200$ profit to raise.
+
+Each cookie cost them $10 \text{p}$ to make and they sold them for $50 \text{p}$.
+
+How many cookies did they need to sell to reach their target?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+Let's convert the total amount into pence.
+
+$
+\begin {aligned}
+\text{Total amount}     &= \pounds 200 \\\\
+                        &= 200 \times 100 \text{p} \\\\
+                        &= 20000 \text{p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Cost of each cookie}              &= 10 \text{p} \\\\
+\text {Sale Price for each cookie}       &= 50 \text{p} \\\\
+\text {Profit per cookie}                &= 50 - 10 \\\\
+                                         &= 40 \text{p}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Number of cookies needed}             &= \dfrac {\text{Total target}} {\text{Profit per cookie}} \\\\
+                                             &= \dfrac {20000} {40} \\\\
+                                             &= 500
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+This can be solved using algebra as well.
+
+Let the number of cookies $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+(50 - 10) \times c              &= 20000 \\\\
+40c                             &= 20000 \\\\
+c                               &= \dfrac {20000} {40} \\\\
+c                               &= 500
+\end {aligned}
+$
+
+Number of cookies needed $= 500$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If Tom is half his mum’s age and together their ages add up to $72$, how old is Tom?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Tom's age $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+a + 2a                     &= 72 \\\\
+3a                         &= 72 \\\\
+a                          &= \dfrac {72} {3} \\\\
+a                          &= \dfrac {24 \times 3} {3} \\\\
+a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
+a                          &= 24
+\end {aligned}
+$
+
+Tom's age $= 24$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B6EA02DB-3A6A-46CC-B578-F9C15B5E1948</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+This triangle and rectangle have the same area. Find the height of the triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {1} {2} \times 12 \times h   &= 24 \times 8 \\\\
+h                                   &= \dfrac {24 \times 8 \times 2} {12} \\\\
+h                                   &= \dfrac {12 \times 2 \times 8 \times 2} {12} \\\\
+h                                   &= \dfrac {\cancel{12} \times 2 \times 8 \times 2} {\cancel{12}} \\\\
+h                                   &= 2 \times 8 \times 2 \\\\
+h                                   &= 32 \ \text {cm}
+\end {aligned}
+$
+
+Height of the triangle $= 32 \ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CB316C58-82C4-48CD-8739-CF12D8CB2F4C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $a = 5, b = 10$ and $c = 2$ complete the following expressions with $<, >$ or $=$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a + b  \quad \ldots \quad   b - a$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+a + b  \quad        &\ldots \quad   b - a \\\\
+5 + 10  \quad       &\ldots \quad   10 - 5 \\\\
+15  \quad           &\boxed{\green{>}} \quad  5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$a + b  \quad > \quad   b - a$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$c + b \div a  \quad \ldots \quad  2(a - c)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+c + b \div a  \quad         &\ldots \quad  2(a - c) \\\\
+2 + 10 \div 5  \quad        &\ldots \quad  2(5 - 2) \\\\
+2 + 2  \quad                &\ldots \quad  2 \times 3 \\\\
+4  \quad                    &\boxed{\green{<}} \quad 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$c + b \div a  \quad < \quad  2(a - c)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a^2 \quad \ldots \quad  ab$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2a^2 \quad              &\ldots \quad  ab \\\\
+2 \times 5^2 \quad      &\ldots \quad  5 \times 10 \\\\
+2 \times 25 \quad       &\ldots \quad  5 \times 10 \\\\
+50 \quad                &\boxed{\green{=}} \quad  50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2a^2 \quad = \quad  ab$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the angle marked ?.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+![missing image](/papers/missing_image.svg)
+
+** IMAGE_PLACEHOLDER_DESCRIPTION_STARTS Add an image with vertices marked ABCD IMAGE_PLACEHOLDER_DESCRIPTION_ENDS **
+
+Let the missing angle $= a$
+
+Let the angles in the isosceles triangle $ABD = b$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+b + b + 62      &= 180 \\\\
+2b + 62         &= 180 \\\\
+2b              &= 180 - 62 \\\\
+2b              &= 118 \\\\
+b               &= \dfrac {118} {2} \\\\
+b               &= 59 \degree
+\end {aligned}
+$
+
+Let's use the value of $b$ in the triangle $ABC$.
+
+$
+\begin {aligned}
+b + 32 + 62 + a     &= 180 \\\\
+59 + 32 + 62 + a    &= 180 \\\\
+153 + a             &= 180 \\\\
+a                   &= 180 - 153 \\\\
+a                   &= 27 \degree
+\end {aligned}
+$
+
+
+Missing angle $= 27 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>91D59936-06F2-4B60-9E45-CE6157C7CD5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number.
+
+If I add $6$ then double it I get $46$.
+
+What number am I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+(a + 6) \times 2            &= 46 \\\\
+a + 6                       &= \dfrac {46} {2} \\\\
+a + 6                       &= \dfrac {23 \times 2} {2} \\\\
+a + 6                       &= \dfrac {23 \times \cancel {2}} {\cancel {2}} \\\\
+a + 6                       &= 23 \\\\
+a                           &= 23 - 6 \\\\
+a                           &= 17
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Solve the following equation to find $x$.
+
+$9x - 17 = 37$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+9x - 17     &= 37 \\\\
+9x          &= 37 + 17 \\\\
+9x          &= 54 \\\\
+x           &= \dfrac {54} {9} \\\\
+x           &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8697781B-4AFF-4468-AA7D-11AE8E929A4F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+George plants a tree in his garden which is initially $180 \ \text{cm}$ high.
+
+After the first year it has increased in height by $30\%$. During the following year its height increased by $25\%$.
+
+How tall is the tree at the end of the second year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the height of the tree at the end of the first year.
+
+If the height increased by $30 \%$, then the new height will be $100 + 30 = 130 \%$ of the previous height. Using that, we get
+
+$
+\begin {aligned}
+\text {Tree height after first year}  &= \dfrac {130} {100} \times 180 \\\\
+                                      &= \dfrac {130 \times 180} {100} \\\\
+                                      &= \dfrac {13\cancel{0} \times 18\cancel{0}} {1\cancel{0}\cancel{0}} \\\\
+                                      &= 13 \times 18 \\\\
+                                      &= 234 \ \text {cm}
+\end {aligned}
+$
+
+Let's calculate the height of the tree at the end of the second year.
+
+If the height increased by $25 \%$, then the new height will be $100 + 25 = 125 \%$ of the previous height. Using that, we get
+
+$
+\begin {aligned}
+\text {Tree height after second year} &= \dfrac {125} {100} \times 234 \\\\
+                                      &= \dfrac {125 \times 234} {100} \\\\
+                                      &= \dfrac {29250} {100} \\\\
+                                      &= 292.5 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+We can do both the calculations together and save a little effort.
+
+$
+\begin {aligned}
+\text {Tree height after second year}  &= \dfrac {125} {100} \times \dfrac {130} {100} \times 180 \\\\
+                                       &= \dfrac {125 \times 130 \times 180} {100 \times 100} \\\\
+                                       &= \dfrac {125 \times 13\cancel{0} \times 18\cancel{0}} {100 \times 1\cancel{0}\cancel{0}} \\\\
+                                       &= \dfrac {125 \times 13 \times 18} {100} \\\\
+                                       &= \dfrac {29250} {100} \\\\
+                                       &= 292.5 \ \text{cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$292.5 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EED93740-E026-4C7A-A7F1-CCA71D506BCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+George had a bag full of $24$ apples.
+
+-  He gave half of them to his Granny to make an apple pie.
+-  He gave two thirds of what was left to his friends and then put the rest in the fruit bowl.
+
+How many did he put in the fruit bowl?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the number of apples left after giving some to his Granny.
+
+If George gave $\dfrac {1} {2}$ to his Granny, then he is left with $1 - \dfrac {1} {2} = \dfrac {1} {2}$ of the apples. Using that, we get
+
+$
+\begin {aligned}
+\text {Apples left}     &= \dfrac {1} {2} \times 24 \\\\
+                        &= 12
+\end {aligned}
+$
+
+Let's calculate the number of apples left after giving some to his friends.
+
+If George gave $\dfrac {2} {3}$ to his friends, then he is left with $1 - \dfrac {2} {3} = \dfrac {1} {3}$ of the remaining apples. Using that, we get
+
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl}     &= \dfrac {1} {3} \times 12 \\\\
+                                          &= 4
+\end {aligned}
+$
+
+</div>
+<div class='working'>
+
+We can do both the calculations together and save a little effort.
+
+$
+\begin {aligned}
+\text {Apples left in the fruit bowl} &= 24 \times \dfrac {1} {2} \times \dfrac {1} {3} \\\\
+                                      &= \dfrac {24} {2 \times 3} \\\\
+                                      &= \dfrac {24} {6} \\\\
+                                      &= 4
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C9888A8A-5D23-40EC-9466-8099B63871A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Emilie is thinking of a number. If she
+
+-  adds $2$ to it,
+-  then squares it
+-  and then subtracts $4$ she gets $60$.
+
+Circle the number that Emilie was thinking of.
+
+$4 \quad 6 \quad 30$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Emilie thought of $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+(a + 2 ) ^ {2} - 4     &= 60 \\\\
+(a + 2 ) ^ {2}         &= 60 + 4 \\\\
+(a + 2 ) ^ {2}         &= 64 \\\\
+a + 2                  &= \sqrt {64} \\\\
+a + 2                  &= 8 \\\\
+a                      &= 8 - 2 \\\\
+a                      &= 6
+\end {aligned}
+$
+
+Number that Emilie thought is $= 6$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Estimate the size of angle $A$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+angle A $= 45 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+**Use your answer to part (a)** to find the size of angle $B$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin {aligned}
+B + 45        &= 180  \\\\
+B             &= 180 - 45 \\\\
+B             &= 135 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$135 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FCDA8DA7-63FA-4DE6-B114-DC8D5BBB3D6C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $p - 9 = 12$ what number does $p$ stand for?
+
+-  $6$
+-  $18$
+-  $21$
+-  $3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+p - 9         &= 12 \\\\
+p             &= 12 + 9 \\\\
+p             &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>174BEC63-0B02-473E-B51D-7B5AA1F6DFC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When $x = 8$, what is the value of $5x$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \times x \\\\
+&= 5 \times 8 \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When $x = 8$, what is the value of $3x - x$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3x - x \\\\
+&= 3 \times 8 - 8 \\\\
+&= 24 - 8 \\\\
+&= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When $x = 8$, what is the value of $x^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x^2 \\\\
+&= x \times x \\\\
+&= 8 \times 8 \\\\
+&= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As we know sum of  all angles in triangle $= 180 \degree$.
+
+Using that we get,
+
+$
+\begin{aligned}
+49 + 52 + a    &= 180 \\\\
+101 + a        &= 180 \\\\
+a              &= 180 - 101 \\\\
+a              &= 79 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$79 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>989BC4ED-FC98-4031-8AD1-C44D79F2C16F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the area of a square whose perimeter is $20 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the square (in $\text{cm}$) $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times a  &= 20 \\\\
+a           &= \dfrac {20} {4}  \\\\
+a           &= \dfrac {5 \times 4} {4}  \\\\
+a           &= \dfrac {5 \times \cancel {4}} {\cancel {4}}  \\\\
+a           &= 5 \ \text{cm}
+\end{aligned}
+$
+
+Now, let's find the area of the square.
+
+$
+\begin{aligned}
+\text{Area}     &= a \times a \\\\
+                &= 5 \times 5 \\\\
+                &= 25 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more than the pencil. How much is the pen?
+
+-  $50 \text{p}$        
+-  $60 \text{p}$        
+-  $70 \text{p}$        
+-  $80 \text{p}$        
+-  $90 \text{p}$       
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the price of pencil $= a$
+
+As per the question price of pen $= a + 50$
+
+$
+\begin{aligned}
+a + a + 50   &= 110 \\\\
+2a + 50      &= 110 \\\\
+2a           &= 110 - 50 \\\\
+a            &= \dfrac {60} {2} \\\\
+a            &= \dfrac {30 \times 2} {2} \\\\
+a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
+a            &= 30 \text{p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {price of pen} &= 50 + a \\\\
+                     &= 50 + 30 \\\\
+                     &= 80 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$80 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third angle is:
+
+-  $28 \degree$ 
+-  $48 \degree$ 
+-  $68 \degree$ 
+-  $88 \degree$ 
+-  $180 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As we know sum of all angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+25 + 107 + a &= 180 \\\\
+132 + a      &= 180 \\\\
+a            &= 180 - 132 \\\\
+a            &= 48 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
+
+-  $24 \ \text{cm}$ 
+-  $25 \ \text{cm}$ 
+-  $30 \ \text{cm}$ 
+-  $36 \ \text{cm}$ 
+-  $36^2 \ \ text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of sqaure $= a$.
+
+Let's first find out the length of a side of the square.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
+a ^ 2                           &= 36 \\\\
+a                               &= \sqrt {36} \\\\
+a                               &= 6 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Perimeter of square}     &= 4 \times a \\\\
+                                &= 4 \times 6 \\\\
+                                &= 24 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>a</p>
+</div>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>71748A3D-9EB9-407F-BE74-AE1F06A04E99</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in the boxes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$55 + \boxed{\phantom{55}} = 82$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+55 + a                              &= 82 \\\\
+a                                   &= 82 - 55 \\\\
+a                                   &= 27
+\end{aligned}
+$
+
+Missing number $= 27$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{23}} - 23 = 45$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+a - 23                              &= 45 \\\\
+a                                   &= 45 + 23 \\\\
+a                                   &= 68
+\end{aligned}
+$
+
+Missing number $= 68$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$68$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$60 \div \boxed{\phantom{45}} = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+60 \div a                           &= 12 \\\\
+60                                  &= 12 \times a \\\\
+a                                   &= \dfrac {60} {12}\\\\
+a                                   &= \dfrac {5 \times 12} {12} \\\\
+a                                   &= \dfrac {5 \times \cancel{12}} {\cancel{12}} \\\\
+a                                   &= 5
+\end{aligned}
+$
+
+Missing number $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$32 \times \boxed{\phantom{45}} = 640$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+32 \times a                         &= 640 \\\\
+a                                   &= \dfrac {640} {32} \\\\
+a                                   &= \dfrac {20 \times 32} {32} \\\\
+a                                   &= \dfrac {20 \times \cancel{32}} {\cancel{32}} \\\\
+a                                   &= 20
+\end{aligned}
+$
+
+Missing number $= 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0.75 \div \dfrac{3}{4} = \boxed{\phantom{45}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {0.75} {\dfrac {3} {4}} \\\\
+&= \dfrac {75} {100} \times \dfrac {4} {3} \\\\
+&= \dfrac {75 \times 4} {100 \times 3} \\\\
+&= \dfrac {3 \times 25 \times 4} {4 \times 25 \times 3} \\\\
+&= \dfrac {\cancel{3} \times \cancel{25} \times \cancel{4}} {\cancel{4} \times \cancel{25} \times \cancel{3}} \\\\
+&= 1
+\end{aligned}
+$
+
+Missing number $= 1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A9BB615E-D457-47F6-AF4E-CD7BA00D2171</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Angus and his six friends have collected $756$ football stickers, which they all share out equally.  
+How many stickers do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
+                                              &= \dfrac {756} {7} \\\\
+                                              &= \dfrac {7 \times 108} {7} \\\\
+                                              &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
+                                              &= 108
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Today is Emma's $29 \text{th}$ birthday. How many months old is she?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Emma's age in month}                    &= 29 \times 12 \\\\
+                                              &= 348
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$348$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Amar works for $45$ weeks each year. 
+His total cost of travelling to and from work is $\pounds 630$ each year. 
+How much is that per week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
+                                              &= \dfrac {630} {45} \\\\
+                                              &= \dfrac {14 \times 45} {45} \\\\
+                                              &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
+                                              &= \pounds 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>61824054-48C2-4222-94CE-B049FCF364CB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The tables in the Dining Hall can each seat $8$ pupils. 
+
+How many tables are needed to seat $180$ pupils?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
+                                              &= \dfrac {180} {8} \\\\
+                                              &= 22 \dfrac {4} {8} \\\\
+                                              &= 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \ \text{tables}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jake paid a $\pounds 50$ deposit for a bike, then monthly
+payments of $\pounds 25$ each. The bike cost $\pounds 275$. 
+
+How many monthly payments did Jake have to make to buy it?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of monthly payments $= m$
+
+$
+\begin{aligned}
+50 + 25m                                      &= 275 \\\\
+25m                                           &= 275 - 50 \\\\
+25m                                           &= 225 \\\\
+m                                             &= \dfrac {225} {25} \\\\
+m                                             &= \dfrac {9 \times 25} {25} \\\\
+m                                             &= \dfrac {9 \times \cancel{25}} {\cancel{25}} \\\\
+m                                             &= 9
+\end{aligned}
+$
+
+The number of monthly payments $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There are $500$ pupils at Lily's school.
+
+There are $30$ more girls than boys. 
+
+How many girls are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of girls $= g$
+
+Number of boys $= g - 30$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number of girls} + \text{Number of boys}       &= \text{Total pupils} \\\\
+g + (g - 30)                                         &= 500 \\\\
+2g                                                   &= 500 + 30 \\\\
+2g                                                   &= 530 \\\\
+g                                                    &= \dfrac {530} {2} \\\\
+g                                                    &= \dfrac {2 \times 265} {2} \\\\
+g                                                    &= \dfrac {\cancel{2} \times 265} {\cancel{2}} \\\\
+g                                                    &= 265
+\end{aligned}
+$
+
+Number of girls at Lily's school $= 265$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$265 \ \text{girls}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eleanor receives $\pounds 20$ pocket money each week.
+This week, she spent $\pounds 4.88$ on sweets at the shop.
+$She then put a third of what was left in her piggy bank.
+
+How much money does she still have to spend?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money left to spent} &= 20 - (4.88 + \dfrac {1} {3} \times (20 - 4.88)) \\\\
+                           &= 20 - (4.88 + \dfrac {1} {3} \times 15.12) \\\\
+                           &= 20 - (4.88 + \dfrac {15.12} {3}) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - (4.88 + 5.04) \\\\
+                           &= 20 - 9.92 \\\\
+                           &= \pounds 10.08
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 10.08$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F540568C-C61B-4E8A-BFF9-10AF9AC433D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $u = 2$, $v = -5$ and $w = -3$, find the value of:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - v$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - v \\\\
+&= 2 - (-5) \\\\
+&= 2 + 5 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - (v + w)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - (v + w) \\\\
+&= 2 - (-5 + (-3)) \\\\
+&= 2 - (-8) \\\\
+&= 2 + 8 \\\\
+&= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$v - w$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= v - w \\\\
+&= -5 - (-3) \\\\
+&= -5 + 3 \\\\
+&= -2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$u - (w - v)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= u - (w - v) \\\\
+&= 2 - (-3 - (-5)) \\\\
+&= 2 - (-3 + 5) \\\\
+&= 2 - 2 \\\\
+&= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amelia earns $\pounds 330$ but has to pay rent of $\pounds X$.
+Write an expression for how much money she has left after paying the rent.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Money left} = \pounds (330 - X)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>60A40A72-24E4-471F-A028-152B28477469</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Chigwell School buys a badge for each student who plays for one of the school teams.
+$193$ students receive a badge, and each badge costs $\pounds 6$.
+
+How much does the school have to pay in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {School pays} &= \text {No. of students receiving badge} \times \text {Cost of one badge} \\\\
+                    &= 193 \times 6 \\\\
+                    &= \pounds 1158
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1158$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Six times a number, minus $4$, is the same as four times the number, plus $10$. What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+6 \times a - 4  &= 4 \times a + 10 \\\\
+6a - 4a         &= 10 + 4 \\\\
+2a              &= 14 \\\\
+a               &= \dfrac {14} {2} \\\\
+a               &= \dfrac {7 \times 2} {2} \\\\
+a               &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 7
+\end {aligned}
+$
+
+The number is $= 7$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles $a \degree$ and $b \degree$ :
+
+![missing image](/papers/missing_image.svg)
+
+-  $a = 48 \degree, \ b = 53 \degree$
+-  $a = 48 \degree, \ b = 63 \degree$
+-  $a = 58 \degree, \ b = 53 \degree$
+-  $a = 58 \degree, \ b = 63 \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a , b$
+
+As we know the sum of two interior angles is equal to sum of opposite exterior angle
+
+Also the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 69                                                  &= 132 \\\\
+b                                                       &= 132 - 69 \\\\
+b                                                       &= 63 \\\\
+a + b + 69                                              &= 180 \\\\
+a + 63 + 69                                             &= 180 \\\\
+a + 132                                                 &= 180 \\\\
+a                                                       &= 180 - 132 \\\\
+a                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48,63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles a ̊and b ̊:
+
+![missing image](/papers/missing_image.svg)
+
+%format% - a = 48o, b = 53o
+%format% - a = 48o, b = 63o
+%format% - a = 58o, b = 53o
+%format% - a = 58o, b = 63o
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a , b$
+
+As we know the sum of two interior angles is equal to sum of opposite exterior angle
+
+Also the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 69                                                  &= 132 \\\\
+b                                                       &= 132 - 69 \\\\
+b                                                       &= 63 \\\\
+a + b + 69                                              &= 180 \\\\
+a + 63 + 69                                             &= 180 \\\\
+a + 132                                                 &= 180 \\\\
+a                                                       &= 180 - 132 \\\\
+a                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$48, \63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the size of the missing angle in this triangle. The diagram is **not** drawn to scale.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a \degree$.
+
+As we know sum of all angles in triangle $= 180 \degree$. So,
+
+$
+\begin{aligned}
+a + 85 + 33 &= 180 \\\\
+a + 118     &= 180 \\\\
+a           &= 180 - 118 \\\\
+a           &= 62 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $6\ \text{cm}$ longer than it is wide. Its perimeter is $32\ \text{cm}$. Find its area.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the wide $= a$
+
+As per the question length $= 6 + a$
+
+$
+\begin{aligned}
+ 2 \times a + 2 \times (6 + a)  &= 32 \\\\
+ 2a + 12 + 2a                   &= 32 \\\\
+ 4a                             &= 32 - 12 \\\\
+ a                              &= \dfrac {20} {4} \\\\
+ a                              &= \dfrac {5 \times 4} {4} \\\\
+ a                              &= \dfrac {5 \times \cancel {4} } {\cancel {4} } \\\\
+ a                              &= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}  &= 5 \times (6 + 5) \\\\
+             &= 5 \times 11 \\\\
+             &= 55 \text{ cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \text{ cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6D028400-7588-4227-B770-FB7713EF5103</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anna decides to share her pizza with two of her friends.
+She gives one friend a fifth of the pizza and the other friend three tenths of the pizza.
+What fraction of the pizza is left for Anna?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Fraction left for Anna}  &= \text {Whole pizza} - \text {1st friends share} - \text {2nd friends share} \\\\
+                                &= 1 - \dfrac {1} {5} - \dfrac {3} {10} \\\\
+                                &= \dfrac {1 \times 10} {1 \times 10} - \dfrac {1 \times 2} {5 \times 2} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10} {10} - \dfrac {2} {10} - \dfrac {3} {10} \\\\
+                                &= \dfrac {10 - 2 - 3} {10} \\\\
+                                &= \dfrac {5} {10} \\\\
+                                &= \dfrac {5} {5 \times 2} \\\\
+                                &= \dfrac {\cancel {5}} {\cancel {5} \times 2} \\\\
+                                &= \dfrac {1} {2}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2D83F97D-6DC7-4679-9E45-09038681DA89</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number. When I multiply this number by $15$ and then subtract $7$ I get $38$. What number am I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 15 - 7                     &= 38 \\\\
+a \times 15                         &= 38 + 7 \\\\
+a \times 15                         &= 45 \\\\
+a                                   &= \dfrac {45} {15} \\\\
+a                                   &= \dfrac {15 \times 3} {15} \\\\
+a                                   &= \dfrac {\cancel {15} \times 3} {\cancel {15}} \\\\
+a                                   &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9E8AAB54-3D43-4819-A635-1CBDDE99E66B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve each equation
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + 80 = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+x + 80   &= 15 \\\\
+x        &= 15 - 80 \\\\
+x        &= -65
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-65$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6y - 20 = 46$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+6y - 20   &= 46 \\\\
+6y        &= 46 + 20 \\\\
+6y        &= 66 \\\\
+y         &= \dfrac {66} {6} \\\\
+y         &= \dfrac {11 \times 6} {6} \\\\
+y         &= \dfrac {11 \times \cancel{6}} {\cancel{6}} \\\\
+y         &= 11
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10g + 400 = 645 - 15g$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+10g + 400         &= 645 - 15g \\\\
+10g + 15g         &= 645 - 400 \\\\
+25g               &= 245 \\\\
+g                 &= \dfrac {245} {25} \\\\
+g                 &= \dfrac {49 \times 5} {5 \times 5} \\\\
+g                 &= \dfrac {49 \times \cancel {5}} {5 \times \cancel{5}} \\\\
+g                 &= \dfrac {49} {5} \\\\
+g                 &= 9.8
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0BC6DC5C-B1B3-4EBE-AC5C-839914A2772E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anna is $3$ years younger than Brian. Brian is $7$ years older than Callum.
+
+How much older is Anna than Callum?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Anna be $a$ year older than Callum.
+
+As per the question,
+
+$
+\begin{aligned}
+a &= 7 - 3 \\\\
+  &= 4 \ \text {years}
+\end{aligned}
+$
+
+Anna is $4$ years older than Callum.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text {years}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Derek is $15$ years old. His Dad is three times his age.
+Derek's brother, Dave, is six year younger than him.
+
+How many times older is Dad than Dave?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Times Dave is older than his dad}  &= \dfrac {\text {Age of Derek's dad}} {\text {Dave's age}} \\\\
+                                         &= \dfrac {15 \times 3} {15 - 6} \\\\
+                                         &= \dfrac {15 \times 3} {9} \\\\
+                                         &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                                         &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                                         &= 5
+\end{aligned}
+$
+
+Dad is $5$ times older than Dave.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Emily is one quarter the age of her Aunt Ingrid.
+Their ages total $60$.
+
+How old is Emily?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Emily $= a$
+
+Age of Emily’s aunt Ingrid $= 4a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4a &= 60 \\\\
+5a     &= 60 \\\\
+a      &= \dfrac {60} {5} \\\\
+a      &= \dfrac {12 \times 5} {5} \\\\
+a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
+a      &= 12
+\end{aligned}
+$
+
+Emily is $12$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sanjay is two years younger than Sara, who is five years older than Sasha. Sanjay's age and Sasha's age total to $31$.
+
+How old is Sara?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Sara $= a$.
+
+Sanjay's age $= a - 2$.
+
+Sasha's age $= a - 2 - 5 = a - 7$.
+
+As per the question,
+
+$
+\begin{aligned}
+a - 2 + a - 7 &= 31 \\\\
+2a - 9        &= 31 \\\\
+2a            &= 31 + 9 \\\\
+2a            &= 40 \\\\
+a             &= \dfrac {40} {2} \\\\
+a             &= 20
+\end{aligned}
+$
+
+Sara is $20$ years old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A53C7015-4325-4F04-9324-7266EA307FB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anwar is playing 'think of a number'. He does not always think of whole numbers.
+
+In each part of the question work out Anwar's original number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He doubles it and subtracts $17$ from the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 17     &= 15 \\\\
+2a                  &= 15 + 17 \\\\
+2a                  &= 32 \\\\
+a                   &= \dfrac {32} {2} \\\\
+a                   &= \dfrac {16 \times 2} {2} \\\\
+a                   &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a                   &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He subtracts $17$ then doubles the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2(a - 17)           &= 15 \\\\
+2a - 34             &= 15 \\\\
+2a                  &= 15 + 34 \\\\
+2a                  &= 49 \\\\
+a                   &= \dfrac {49} {2} \\\\
+a                   &= 24.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Anwar thinks of a number. He halves it and subtracts $17$ from the result. He then has $15$.
+
+What was Anwar's original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Anwar's thinking $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a} {2} - 17                                              &= 15 \\\\
+\dfrac {a} {2} - \dfrac {17 \times 2} {1 \times 2}               &= 15 \\\\
+\dfrac {a} {2} - \dfrac {34} {2}                                 &= 15 \\\\
+\dfrac {a - 34} {2}                                              &= 15 \\\\
+a - 34                                                           &= 15 \times 2 \\\\
+a                                                                &= 30 \\\\
+a                                                                &= 30 + 34 \\\\
+a                                                                &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7CA73E7B-3025-4C63-BFDC-17AB654A9CA0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Owen did not understand a problem properly. He multiplied by $100$ when he should have divided by $100$. His answer 
+was $62800000$. What should his answer have been?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Owen started with $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 100            &= 62800000 \\\\
+a                       &= \dfrac {62800000} {100} \\\\
+a                       &= \dfrac {628000 \cancel {00}}  {1 \cancel{00}} \\\\
+a                       &= 628000 \\\\
+\text {Correct Answer}  &= 628000 \div 100 \\\\
+                        &= \dfrac {628000} {100} \\\\
+                        &= \dfrac {6280 \cancel {00}} {1\cancel {00}} \\\\
+                        &= 6280
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6280$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6AC57CB3-2B4F-431E-BFE6-E58FA21AEB17</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\boxed{\phantom{3}} + (3 \times \boxed{\phantom{3}} ) = 36$
+
+What number does $\boxed{\phantom{3}}$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + (3 \times a)    &= 36 \\\\
+a + 3a              &= 36 \\\\
+4a                  &= 36 \\\\
+a                   &= \dfrac {36} {4} \\\\
+a                   &= \dfrac {9 \times 4} {4} \\\\
+a                   &= \dfrac {9 \times \cancel {4} } {\cancel{4}} \\\\
+a                   &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B28E8CC8-5960-4268-94EF-1CA3A276FABA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number. One fifth of my number is $8$.
+
+What is one tenth of my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} \times a                       &= 8 \\\\
+a                                             &= 8 \times 5 \\\\
+a                                             &= 40
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{One tenth of the number}  &= \dfrac {1} {10} \times a \\\\
+                                &= \dfrac {1} {10} \times 40 \\\\
+                                &= \dfrac {40} {10} \\\\
+                                &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>72ECFDB7-86F7-48D5-9A2F-0BB4E6085F9C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two angles of a triangle add up to $137 \degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the size of the third angle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 137      &= 180  \\\\
+a            &= 180 - 137  \\\\
+a            &= 43 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$43 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C76E1065-14BA-460E-A654-A168F4BE4BAA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number?
+
+$8 \times 7 - 11 = 6 \times 4 + {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+8 \times 7 - 11     &= 6 \times 4 + a \\\\
+56 - 11             &= 24 + a \\\\
+a + 24              &= 45 \\\\
+a                   &= 45 - 24 \\\\
+a                   &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>368E6571-9487-45B7-AD17-93CB13083556</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For a train journey $t$ tickets cost $c = 8 + 12t$. How many tickets can I get for $\pounds 100$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+c       &= 8 + 12 t \\\\
+100     &= 8 + 12 t \\\\
+12t     &= 100 - 8 \\\\
+12t     &= 92 \\\\
+t       &= \dfrac {92} {12} \\\\
+t       &= 7 \text{ remainder } 8
+\end{aligned}
+$
+
+Max $7$ tickets can be bought with $\pounds 100$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>956A6B0F-7A0D-461F-9183-623BBCE06B2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\boxed{\phantom{3}} + (2 \times \boxed{\phantom{3}}) = 27$
+
+What number does $\boxed{\phantom{3}}$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + (2 \times a)    &= 27 \\\\
+a + 2a              &= 27 \\\\
+3a                  &= 27 \\\\
+a                   &= \dfrac {27} {3} \\\\
+a                   &= \dfrac {9 \times 3} {3} \\\\
+a                   &= \dfrac {9 \times \cancel {3} } {\cancel{3}} \\\\
+a                   &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CE54E1C3-FEFC-401E-BEA5-7DF8F88FFE0E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number. One quarter of my number is $5$.
+
+What is one tenth of my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {4} \times a             &= 5 \\\\ 
+a                                   &= 5 \times 4 \\\\
+a                                   &= 20
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {one tenth of the number}     &= \dfrac {1} {10} \times a \\\\
+                                    &= \dfrac {1} {10} \times 20 \\\\
+                                    &= \dfrac {20} {10} \\\\
+                                    &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DBB54740-C177-4685-AD73-ECFA3880007B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two angles of a triangle add up to $49 \degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the size of third angle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 49       &= 180  \\\\
+a            &= 180 - 49  \\\\
+a            &= 131 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$131 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3A513985-D1D3-40B2-B05F-CC9885D680E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number?
+
+$8 \times 6 - 9 = 6 \times 5 + {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+8 \times 6 - 9      &= 6 \times 5 + a \\\\
+48 - 9              &= 30 + a \\\\
+a + 30              &= 39 \\\\
+a                   &= 39 - 30 \\\\
+a                   &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>42A469A6-6AE1-419D-A33A-1F27EE2552D0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For a train journey $t$ tickets cost $c = 6 + 12t$. How many tickets can I get for $\pounds 100$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+c       &= 6 + 12 t \\\\
+100     &= 6 + 12 t \\\\
+12t     &= 100 - 6 \\\\
+12t     &= 94 \\\\
+t       &= \dfrac {94} {12} \\\\
+t       &= 7 \text { remainder } 10
+\end{aligned}
+$
+
+Max $7$ tickets can be bought with $\pounds 100$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5BDF797D-4BC1-47EE-9D46-F0012478D4C3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\boxed{\phantom{5}} + (5 \times \boxed{\phantom{5}}) = 42$
+
+What number does $\boxed{\phantom{5}}$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + (5 \times a)    &= 42 \\\\
+a + 5a              &= 42 \\\\
+6a                  &= 42 \\\\
+a                   &= \dfrac {42} {6} \\\\
+a                   &= \dfrac {7 \times 6} {6} \\\\
+a                   &= \dfrac {7 \times \cancel {6} } {\cancel{6}} \\\\
+a                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>011C7343-EA2D-4EDF-AFE0-7803C6D34E4D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two angles of a triangle are $36 \degree$ and $22 \degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the size of third angle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 36 + 22     &= 180  \\\\
+a + 58          &= 180  \\\\
+a               &= 180 - 58  \\\\
+a               &= 122 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$122 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8AD4D8C4-1AB8-45CD-AF1F-11030CCEC600</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number?
+
+$4 \times 7 - 11 = 5 \times 2 + {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times 7 - 11     &= 5 \times 2 + a \\\\
+28 - 11             &= 10 + a \\\\
+a + 10              &= 17 \\\\
+a                   &= 17 - 10 \\\\
+a                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>96DDA787-538C-48A9-B7C3-E49BDEA6B62D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\boxed{\phantom{4}} + (4 \times \boxed{\phantom{4}} ) = 40$
+
+What number does $\boxed{\phantom{4}}$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + (4 \times a)    &= 40 \\\\
+a + 4a              &= 40 \\\\
+5a                  &= 40 \\\\
+a                   &= \dfrac {40} {5} \\\\
+a                   &= \dfrac {8 \times \cancel {5} } {\cancel {5}} \\\\
+a                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A7B86F61-CB41-4218-B297-AB8668CF3287</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number. One fifth of my number is $6$.
+
+What is one half of my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {One half of the number}      &= \dfrac {1} {2} \times a \\\\
+                                    &= \dfrac {1} {2} \times 30 \\\\
+                                    &= \dfrac {30} {2} \\\\
+                                    &= \dfrac {15 \times 2} {2} \\\\
+                                    &= \dfrac {15 \times \cancel {2}} {\cancel {2}} \\\\
+                                    &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4B420308-03FA-4469-A36A-B00E5A3340D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two angles of a triangle add up to $89 \degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the size of third angle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 89       &= 180  \\\\
+a            &= 180 - 89  \\\\
+a            &= 91 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A41FF430-EBAD-4ACB-9835-13382E26129B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number?
+
+$8 \times 5 - 9 = 6 \times 5 + {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+8 \times 5 - 9      &= 6 \times 5 + a \\\\
+40 - 9              &= 30 + a \\\\
+a + 30              &= 31 \\\\
+a                   &= 31 - 30 \\\\
+a                   &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9BC445B0-E60B-4C43-9A3B-131B9EE3AD28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For a train journey $t$ tickets cost $c = 6 + 10t$. How many tickets can I get for $\pounds 50$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+c       &= 6 + 10 t \\\\
+50      &= 6 + 10 t \\\\
+10t     &= 50 - 6 \\\\
+10t     &= 44 \\\\
+t       &= \dfrac {44} {10} \\\\
+t       &= 4 \text { remainder } 4
+\end{aligned}
+$
+
+Max $4$ tickets can be bought with $\pounds 50$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F481AB65-8DA5-410D-BAC7-FD0E1A610F97</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number should go in the box?
+
+$\boxed{\phantom{230}} - 230 = 40 \times 30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 230     &= 40 \times 30 \\\\
+a - 230     &= 1200 \\\\
+a           &= 1200 + 230 \\\\
+a           &= 1430
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1430$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E18277A3-C24E-4640-A52A-F5EFC951E982</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In four years time, Sam will be twice as old as he was four years ago. Calculate Sam's current age.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Sam's current age $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 4     &= 2(a - 4) \\\\
+a + 4     &= 2a - 8 \\\\
+2a - a    &= 8 + 4 \\\\ 
+a         &= 12 \\\\ 
+\end{aligned}
+$
+
+Sam's current age $=12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E6502881-4AF5-4C65-939D-B296ACDEC6CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out what time it is now if the time that has passed since nine o'clock this morning is five times as much as the time that is left before eleven o' clock this morning.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the time left before eleven o'clock is $= a$
+
+$
+\begin{aligned}
+\text {Time passed since nine o'clock}  &= 5 \times a \\\\
+                                        &= 5a
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Total time} &= (11 - 9) \ \text {hours} \\\\
+            5a + a &= (2 \times 60) \ \text {minutes} \\\\
+                6a &= 120 \ \text {minutes} \\\\
+                 a &= \dfrac {120} {6} \\\\
+                 a &= \dfrac {6 \times 20} {6} \\\\
+                 a &= \dfrac {\cancel 6 \times \ 20} {\cancel 6} \\\\
+                 a &= 20 \ \text {minutes}
+\end{aligned}
+$
+
+So, 20 minutes before 11 o'clock $= 10 {:} 40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 {:} 40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Arafin has four rectangular tiles which he arranges as shown below, leaving a square hole in the middle of the tiles.
+
+![missing image](/papers/missing_image.svg)
+
+The hole in the middle has an area of $400 \ \text{cm}^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the width of one of the tiles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the tile (in $\text{cm}$) $= w$
+
+$
+\begin{aligned}
+w       &= \sqrt {\text {Area of the hole}} \\\\
+w       &= \sqrt {400} \\\\
+w       &= 20 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of the four tiles combined is $12$ times as large as the area of the hole in the middle.
+
+Calculate the length of one of the tiles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of four rectangular tiles}      &= 12 \times 400 \ \text{cm} ^2 \\\\
+\text {Area of one rectangular tile}        &= \dfrac {12 \times 400} {4} \\\\
+                                            &= \dfrac {12 \times 100 \times 4} {4} \\\\
+                                            &= \dfrac {12 \times 100 \times \cancel {4}} {\cancel {4}} \\\\
+                                            &= 12 \times 100 \\\\
+                                            &= 1200 \ \text {cm} ^2
+\end{aligned}
+$
+
+Let the length of the tile (in $\text{cm}$) $= l$
+
+Using the formula for area for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w      &= 1200 \\\\
+l \times 20     &= 1200 \\\\
+l               &= \dfrac {1200} {20} \\\\
+l               &= \dfrac {60 \times 20} {20} \\\\
+l               &= \dfrac {60 \times \cancel {20}} {\cancel {20}} \\\\
+l               &= 60 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the perimeter of one of the tiles, giving your answer **in metres**. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the perimeter of the tile (in $\text{cm}$) $= p$
+
+Using the formula for perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+p   &= 2 \times (60 + 20) \\\\
+p   &= 2 \times 80 \\\\
+p   &= 160 \ \text {cm}
+\end{aligned}
+$
+
+$1 \ \text{cm} = \dfrac {1} {100} \text {m}$
+
+$
+\begin{aligned}
+160 \ \text{cm} &= 160 \times \dfrac {1} {100} \text {m} \\\\
+                &= \dfrac {160} {100} \\\\
+                &= 1.6 \text {m}
+\end{aligned}
+$
+
+Perimeter of one tile $= 1.6 \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.6 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1916A682-4C8E-4C0E-A125-3B251D10C699</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Searching in the sock drawer of his wardrobe, Graham is able to find $30$ loose socks of assorted colours. 
+A third of them are white, and of the non-whites remaining two fifths are blue. The rest are all red.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out how many blue socks he finds.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total socks $= 30$
+
+White socks $= 30 \times \dfrac {1} {3}$
+
+Blue socks $= (\text{Total socks} \ - \ \text{White socks}) \times \dfrac{2} {5}$
+
+$
+\begin{aligned}
+&= \bigg (30 - 30 \times \dfrac {1} {3} \bigg) \times \dfrac {2} {5} \\\\
+&= \bigg (30 - \dfrac {30} {3} \bigg) \times \dfrac {2} {5} \\\\
+&= \bigg (30 - \dfrac {3 \times 10} {3} \bigg) \times \dfrac {2} {5} \\\\
+&= \bigg (30 - \dfrac {\cancel {3} \times 10} {\cancel 3} \bigg) \times \dfrac {2} {5} \\\\
+&= (30 - 10) \times \dfrac {2} {5} \\\\
+&= 20 \times \dfrac {2} {5} \\\\
+&= \dfrac {20 \times 2} {5} \\\\
+&= \dfrac {4 \times 5 \times 2} {5} \\\\
+&= \dfrac {4 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+&= 4 \times 2 \\\\
+&= 8
+\end{aligned}
+$
+
+No. of blue socks found by Graham $=8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down how many pairs of red socks he could make.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Pairs of red socks $= \dfrac {\text {total socks} - \text {(white socks + blue socks)}} {2}$
+
+$
+\begin{aligned}
+&= \dfrac {30 - (8 + 10)}{2} \\\\
+&= \dfrac {30 - 18}{2} \\\\
+&= \dfrac {12}{2} \\\\
+&= \dfrac {6 \times 2} {2} \\\\
+&= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+&= 6 \ \text {pairs}
+\end{aligned}
+$
+
+Pairs of red socks that George could make $=6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {pairs}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7431FA80-7251-4D7C-AC64-163FC6B4FC55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a triangle and a line. The two angles marked $y \degree$ are equal.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As shown in the figure,
+
+$x = 180 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$180 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the value of $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle of triangle $= a$
+
+Now,
+
+$
+\begin{aligned}
+a + 70 &= 180 \degree \\\\
+a      &= 180 - 70 \\\\
+a      &= 110 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+So,
+
+$
+\begin{aligned}
+y + y + a   &= 180 \degree \\\\
+2y + 110    &= 180 \\\\
+2y          &= 180 - 110 \\\\
+2y          &= 70 \\\\
+y           &= \dfrac {70} {2} \\\\
+y           &= 35 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a formula for the perimeter of the rectangle in terms of $w$
+and $h$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perimeter of rectangle $=$ Sum of all sides of the rectangle
+
+$
+\begin{aligned}
+&= \text {h} + \text {w} + \text {h} + \text {w} \\\\
+&= 2 \text {h} + 2 \text {w} \\\\
+&= 2 (h + w) \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 (h + w)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The area of the rectangle is $55 \ \text{cm}^2$ and both $w$ and $h$ are prime numbers.
+
+Calculate the perimeter of the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Factors of $55 = 1, 5, 11, 55$
+
+$5$ and $11$ are prime numbers.
+
+Perimeter $= 2 \text{(height + width)}$
+
+$
+\begin {aligned}
+&= 2 \times (5 + 11) \\\\
+&= 2 \times 16 \\\\
+&= 32 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentageadvance
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bottle contains $150 \ \text{ml}$ of juice. 
+Alex drinks $50\%$ more than Jane and these two friends finish the bottle between them. Calculate how much Alex drinks.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Jane drinks $x \ \text{ml}$.
+
+As per the question,
+
+Juice drunk by Alex $= x + 50 \% \ \text{of} x$
+
+Then,
+
+$
+\begin{aligned}
+x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
+2x + \dfrac {50x} {100}                      &= 150 \\\\
+2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
+2x + \dfrac {5x} {10}                        &= 150 \\\\
+\dfrac {20x + 5x} {10}                       &= 150 \\\\
+\dfrac {25x} {10}                            &= 150 \\\\
+25x                                          &= 150 \times 10 \\\\
+x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
+x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
+x                                            &= 6 \times 10 \\\\
+x                                            &= 60 \ \text {ml}
+\end{aligned}
+$
+
+Juice drunk by Jane $= 60 \ \text {ml}$
+
+Juice drunk by Alex $= 60 + 50 \% \times 60$
+
+$
+\begin{aligned}
+&= 60 + \dfrac {50} {100} \times 60 \\\\
+&= 60 + \dfrac {3000} {100} \\\\
+&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
+&= 90 \ \text {ml}
+\end{aligned}
+$
+
+Juice drunk by Alex $= 90 \ \text {ml}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \ \text {ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a triangle and a line. The two angles marked $y\degree$ are equal.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 108 &= 180 \\\\
+x       &= 180 - 108 \\\\
+x       &= 72 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles of a triangle $= 180 \degree$. So,
+
+$
+\begin{aligned}
+y + y + 108 &= 180 \degree \\\\
+2y + 108    &= 180 \\\\
+2y          &= 180 - 108 \\\\
+2y          &= 72 \\\\
+y           &= \dfrac {72} {2} \\\\
+y           &= \dfrac {2 \times 36} {2} \\\\
+y           &= \dfrac {\cancel {2} \times 36} {\cancel {2}} \\\\
+y           &= 36 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A3479604-4BFA-4285-ACC4-985B4A900D81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The instruction $x \ \ast \ y$ means subtract $x$ from $y$ and then multiply by $3$.
+
+For example: $2 \ \ast \ 6 = (6 - 2) \times 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $20 \ \ast \ 27$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (27 - 20) \times 3 \\\\
+&= 7 \times 3 \\\\
+&= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $10 \ \ast \ 6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (6 - 10) \times 3 \\\\
+&= -4 \times 3 \\\\
+&= -12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $a$ if $3 \ \ast \ a = 6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(a - 3) \times 3 &= 6 \\\\
+3a - 9           &= 6 \\\\
+3a               &= 6 + 9 \\\\
+a                &= \dfrac {15} {3} \\\\
+a                &= \dfrac {3 \times 5} {3} \\\\
+a                &= \dfrac {\cancel {3} \times 5} {\cancel {3}} \\\\
+a                &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $b$ if $b \ \ast \ 5 = 9$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(5 - b) \times 3 &= 9 \\\\
+15 - 3b          &= 9 \\\\
+15 - 9           &= 3b \\\\
+\dfrac {6} {3}   &= b \\\\
+b                &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of $c$ if $c \ \ast \ 5 = 4 \ \ast \ c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(5 - c) \times 3 &= (c - 4) \times 3 \\\\
+15 - 3c          &= 3c - 12 \\\\
+15 + 12          &= 3c + 3c \\\\
+27               &= 6c \\\\
+c                &= \dfrac {27} {6} \\\\
+c                &= \dfrac {9 \times 3} {2 \times 3} \\\\
+c                &= \dfrac {9 \times \cancel {3}} {2 \times \cancel {3}} \\\\
+c                &= \dfrac {9} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BD44A344-8EDA-4BCD-978F-FE8E11154BA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of wire $30 \ \text{cm}$ long is bent into the shape of a rectangle. 
+If the rectangle is twice as long as it is wide, what is its area?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$.
+
+As per the question,
+
+Length of the rectangle $= 2a$.
+
+$
+\begin{aligned}
+\text{Perimeter of the rectangle}         &= 2 \times (\text {length} + \text {width}) \\\\
+30                                        &= 2 \times (2a + a) \\\\
+30                                        &= 2 \times 3a \\\\
+6a                                        &= 30 \\\\
+a                                         &= \dfrac {30} {6} \\\\
+a                                         &= \dfrac {5 \times 6} {6} \\\\
+a                                         &= \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+a                                         &= 5 \ \text {cm}
+\end{aligned}
+$
+
+Width of the rectangle $= 5 \ \text {cm}$.
+
+Length of the rectangle $= 10 \ \text {cm}$.
+
+$
+\begin{aligned}
+\text{Area of the rectangle}        &= \text {length} \times \text {width} \\\\
+                                    &= 5 \times 10 \\\\
+                                    &= 50 \ \text {cm} ^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \ \text{cm} ^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Evaluate this expression: 
+
+$5(6x + 7y - 8z)$
+
+$x = 9$ 
+
+$y = 3$
+
+$z = 6$
+
+- $95$
+- $120$
+- $135$
+- $180$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 (6x + 7y - 8z) \\\\
+&= 5 (6 \times 9 + 7 \times 3 - 8 \times 6) \\\\
+&= 5 (54 + 21 - 48) \\\\
+&= 5 \times 27 \\\\
+&= 135
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A room measures $8 \ \text{m}$ by $20 \ \text{m}$.
+Isabelle wants to tile the floor with square tiles.
+
+What is the length of the largest tile she can use so that all the floor will be covered?
+
+-  $2 \ \text{m}$
+-  $3 \ \text{m}$
+-  $4 \ \text{m}$
+-  $5 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Length $= 8 \ \text{m}$
+
+Width  $= 20 \ \text{m}$
+
+
+To use complete tiles, without cutting, the size of the square tile must divide both the length and width of the room. 
+
+Let's find the highest common factor of $8$ and $20$.
+
+Factors of $8 = 1, 2, \bold 4, 8$
+
+Factors of $20 = 1, 2, \bold 4, 5, 20$
+
+The highest common factor of $8$ and $20=4$.
+
+So, the length of the largest square Isabelle can use so that all the floor will be covered $= 4 \ \text{m}$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+As per the question,
+
+LCM of 8 and 20 $= 40$
+
+$
+\begin{aligned}
+\text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
+                                                      &= 8 \ \text{m} \times 20 \ \text{m}\\\\
+                                                      &= 160 \ \text{m}^2
+\text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
+                                                      &= 4 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$4 \ \text{m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>07071090-243A-4C15-B778-53C51DA63E26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number.
+I multiply it by $4$ and add $3$ to it.
+My solution is $23$.
+
+What is my number?
+
+-  $5$
+-  $80$
+-  $6.5$
+-  $8.75$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I am thinking of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 4 + 3                                  &= 23 \\\\
+a \times 4                                      &= 23 - 3 \\\\
+4a                                              & = 20 \\\\
+a                                               &= \dfrac {20} {4} \\\\
+a                                               &= \dfrac {5 \times 4} {4} \\\\
+a                                               &= \dfrac {5 \times \cancel{4}} {\cancel{4}} \\\\
+a                                               &= 5
+\end{aligned}
+$
+
+The number I was thinking of $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this diagram what is the value of $x$?
+![missing image](/papers/missing_image.svg)
+
+- $36$
+- $64$
+- $100$
+- $144$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, 
+
+The sum of angles of a triangle is is $180 \degree$.
+
+Angles on straight line add up to is $180 \degree$.
+
+The circular measure an angle of is $360 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
+x + 80 + 36                                                                        &= 180 \\\\
+x                                                                                  &= 180 - 80 - 36 \\\\
+x                                                                                  &= 64 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DF8291DD-BFBC-4F7B-A1AB-30A8DDB08EFF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
+![missing image](/papers/missing_image.svg)
+
+- $12$
+- $12.5$
+- $13$
+- $13.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Perimeter of triangle}                   &= \text{Sum of all sides} \\\\
+                                               &= 3(x +1) + 2(x - 2) + 4x \\\\
+                                               &= 3(1.5 +1) + 2(1.5 - 2) + 4 \times 1.5 \\\\
+                                               &= 3 \times 2.5 + 2 \times (-0.5) + 6 \\\\
+                                               &= 7.5 - 1 + 6 \\\\
+                                               &= 6.5 + 6 \\\\
+                                               &= 12.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$12.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kieran thinks of a number.
+He doubles it and adds $6$.
+He then divides it by $2$.
+The answer is $8$.
+What was his original number?
+
+- $5$
+- $11$
+- $20$
+- $-2$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Kieran thought of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a \times 2 + 6} {2}                                  &= 8 \\\\
+\dfrac {2a + 6} {2}                                          &= 8 \\\\
+2a + 6                                                       &= 8 \times 2 \\\\
+2a + 6                                                       &= 16 \\\\
+2a                                                           &= 16 -6 \\\\
+2a                                                           &= 10 \\\\
+a                                                            &= \dfrac {10} {2} \\\\
+a                                                            &= \dfrac {5 \times 2} {2} \\\\
+a                                                            &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                            &= 5
+\end{aligned}
+$
+
+The original number Kieran thought of $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>083271E8-99C6-43BF-A7F3-B01D009B385F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When two numbers are added together the total is $32$. When the same two numbers are subtracted the result is $6$.
+
+Find the two numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b                    &= 32 \\\\
+a - b                    &= 6
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)          &= 32 - 6 \\\\
+a + b - a + b            &= 26 \\\\
+2b                       &= 26 \\\\
+b                        &= \dfrac {26} {2} \\\\
+b                        &= 13
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                    &= 32 \\\\
+a + 13                   &= 32 \\\\
+a                        &= 32 - 13 \\\\
+a                        &= 19
+\end{aligned}
+$
+
+First number $= 19$
+
+Second number $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19 \ \text{and} \ 13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CFC461D1-AF24-4C9B-9A0D-E298AE0E6C8F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sophie thinks of a number, doubles it and adds $8$.
+
+The answer was $26$. What was the number she was thinking of? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Sophie thought of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 8                                      &= 26 \\\\
+a \times 2                                          &= 26 - 8 \\\\
+2a                                                  &= 18 \\\\
+a                                                   &= \dfrac {18} {2} \\\\
+a                                                   &= \dfrac {9 \times 2} {2} \\\\
+a                                                   &= \dfrac {9 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                   &= 9
+\end{aligned}
+$
+
+The number Sophie thought of $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0A8B9A61-BA92-4D10-A336-920B6CC84AFF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the Cybercafe you can buy Gigaburgers and cans of Megapop.
+
+$1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$ 
+
+![missing image](/papers/missing_image.svg)
+
+$2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
+
+![missing image](/papers/missing_image.svg)
+
+Find the cost of:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1$ glass of Megapop
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned} 
+g + 2m                    &= 2.8 \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+Multiply the first equation by $2$.
+
+$
+\begin{aligned} 
+2 \times g + 2 \times 2m     &= 2 \times 2.8 \\\\
+2g + 4m                      &= 5.6
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
+2g + 5m - 2g - 4m          &= 0.50 \\\\
+m                          &= \pounds 0.50
+\end{aligned}
+$
+
+Cost of 1 can of Megapop $= \pounds 0.50$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+Let the cost of Megapop (in $\text{pounds}$) $= m$
+
+Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+
+As per the question,
+
+$
+\begin{aligned}
+g + 2m                    &= 2.8 \ \ \text {or,} \\\\
+2g + 4m                   &= 5.6 \\\\
+2g + 5m                   &= 6.1
+\end{aligned}
+$
+
+$
+\begin{array}{cccccccccccccc}
+    &   2g & + &   5m   &=\pounds 6.1 \\
+{}- &   2g & + &   4m   &=\pounds 5.6 \\
+\hline
+      &0 &+&   1m   &=\pounds 0.5 \\
+\end{array}
+$
+
+$1$ Megapop $= \pounds 0.50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1$ Gigaburger
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
+                             &= 2.8 - 1 \\\\
+                             &= \pounds 1.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.80$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>037A493D-C297-430E-AC77-1E4B3884FF9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mayank thinks of a number. He doubles it and then adds $4$ and gets the answer $40$.
+
+What was Mayank’s number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per question,
+
+$
+\begin{aligned}
+2 \times a + 4 &= 40 \\\\
+2a + 4         &= 40 \\\\
+2a             &= 40 - 4 \\\\
+2a             &= 36 \\\\
+a              &= \dfrac {36} {2} \\\\
+a              &= \dfrac {2 \times 18} {2} \\\\
+a              &= \dfrac {\cancel {2} \times 18} {\cancel {2}} \\\\
+a              &= 18
+\end{aligned}
+$
+
+Mayank's number $= 18$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ADFEF3A0-ABF3-4ECF-A966-92F60CDB23AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hiring a Sports Hall costs a $\pounds 30$ booking fee and then $\pounds 10$ per hour.
+
+Chris hires it and pays $\pounds 120$.
+
+How many hours did Chris hire the hall for? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
+                                    &= \dfrac {90} {10} \\\\
+                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
+                                    &= 9 \ \text {hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FDC9EDD9-39D7-4C2B-A268-1781B263468C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the planet Zog the wibbles and the wobbles are having their annual conference.
+
+A wibble has $6$ arms and a wobble has $5$ arms.
+
+There are $11$ wibbles and a total of $81$ arms at the conference.
+
+How many wobbles are there? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total arms of wibbles $= 11 \times 6$
+
+Total no. of arms $= 81$
+
+$
+\begin{aligned}
+\text {Number of wobbles}   &= \dfrac {81 - 11 \times 6} {5} \\\\
+                            &= \dfrac {81 - 66} {5} \\\\
+                            &= \dfrac {15} {5} \\\\
+                            &= \dfrac {3 \times 5} {5} \\\\
+                            &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 3
+\end{aligned}
+$
+
+There are total $3$ wobbles.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>AA38A94F-9954-4B0A-859F-8177A118F2D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Safiya draws a rectangle.
+
+She then adds $10 \ \text{cm}$ to each side.
+
+What has the perimeter increased by? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length $= l$.
+
+Let the width $= w$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {perimeter of rectangle}  &= 2 \times (l + w) \\\\
+                                &= 2 \times (l + 10 + w + 10) \\\\
+                                &= 2 \times (l + w + 20) \\\\
+                                &= 2 \times (l + w) + 40
+\end{aligned}
+$
+
+The perimeter is increased by $40$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FD79751E-764D-4640-AADD-196B4171B83D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Abigail is three time as old as Ryan. In $6$ years time Abigail will be $42$.
+
+How old will Ryan will be in $2$ years?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Ryan's current age $= a$
+
+As per the question,
+
+Abigail's current age $= 3a$
+
+$
+\begin{aligned}
+3a + 6 &= 42 \\\\
+3a     &= 42 - 6 \\\\
+3a     &= 36 \\\\
+a      &= \dfrac {36} {3} \\\\
+a      &= \dfrac {12 \times 3} {3} \\\\
+a      &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a      &= 12
+\end{aligned}
+$
+
+Ryan's age after $2$ years, $12 + 2 = 14$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>49A3AC7D-1A5D-4648-9BA9-C13134C3645A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Naheeda uses $10$ matchsticks to make a row of $3$ squares.
+How many matchsticks would she need to make a row of $7$ squares?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As shown in the figure,
+
+To make a row of $n$ squares, we need $3n + 1$ matchsticks.
+
+So,
+
+For making a row of 7 squares
+
+$
+\begin{aligned}
+&= 3 \times 7 + 1 \\\\
+&= 21 + 1 \\\\
+&= 22
+\end{aligned}
+$
+
+We need $22$ matchsticks for making a row of 7 squares.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2233EE67-0456-49F5-B1A4-331DDBD7F697</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Theo thinks of a number and finds out  that three quarters of it is $24$.
+
+What was the number he first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {4} \ \text{of} \ a &= 24 \\\\
+\dfrac {3} {4} \times a        &= 24 \\\\
+\dfrac {3a} {4}                &= 24 \\\\
+a                              &= 24 \times \dfrac {4} {3} \\\\
+a                              &= \dfrac{24 \times 4} {3} \\\\
+a                              &= \dfrac{8 \times 3 \times 4} {3} \\\\
+a                              &= \dfrac{8 \times \cancel {3} \times 4} {\cancel {3}} \\\\
+a                              &= 8 \times 4 \\\\
+a                              &= 32
+\end{aligned}
+$
+
+Theo was thinking of $32$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1C0336ED-FF75-46F7-A592-23696B697EF3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amrit, Brenda and Clare share $13$ sweets. Amrit gets three times as many as Brenda, and Brenda get three times as many as Clare. How many do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of sweets Clare get $= a$.
+
+As per the question,
+
+Number of sweets Brenda get $= 3a$.
+
+Number of sweets Amrit get $= 9a$.
+
+Total no. of sweets $= 13$
+
+$
+\begin{aligned}
+a + 3a + 9a     &= 13 \\\\
+4a + 9a         &= 13 \\\\
+13a             &= 13 \\\\
+a               &= \dfrac {13} {13} \\\\
+a               &= \dfrac {\cancel {13}} {\cancel {13}} \\\\
+a               &= 1
+\end{aligned}
+$
+
+Clare gets $1$ sweet.
+
+Brenda gets $3 \times 1 = 3$ sweets.
+
+Amrit gets $9 \times 1 = 9$ sweets.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+<div class='answer'>
+
+$3$
+
+</div>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9084E70D-57B3-42F0-867B-558AB1041DE5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $20  \ \text{cm}^{2}$. Its sides are doubled to make a new rectangle.
+What is the area of new rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of rectangle $= \text{Length} \times \text{Width}$
+
+As per the question,
+
+After making its sides double new area $= 2 \times \text{Length} \times 2 \times \text{Width}$
+
+Which means new area $= 4 \times \text {previous area}$
+
+$
+\begin{aligned}
+&= 4 \times 20 \ \text {cm} ^2 \\\\
+&= 80 \ \text {cm} ^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \ \text {cm} ^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5583CF32-08CB-4315-9AF6-9E18FBD6DE18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eve bought $4$ pencils and $5$ crayons.
+Each pencil cost $22 \text{p}$.
+She paid with a $\pounds 2$ coin and received $32 \text{p}$ change.
+How much did each crayon cost? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of four pencils}    &= 22 \times 4 \ \text {p} \\\\
+                                &= 88 \ \text {p} \\\\
+\text {Cost of $5$ crayons}     &= \pounds 2 - (32 \ \text {p} + 88 \ \text {p}) \\\\
+                                &= 2 \times 100 \ \text {p} - 120 \ \text {p} \\\\
+                                &= 200 - 120 \\\\
+                                &= 80 \ \text {p} \\\\
+\text {Cost of a crayon}        &= \dfrac {80} {5} \\\\
+                                &= \dfrac {16 \times 5} {5} \\\\
+                                &= \dfrac {16 \times \cancel {5}} {\cancel {5}} \\\\
+                                &= 16 \ \text {p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \ \text {p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>17493FB2-C20B-436C-BAB0-DB85EAA91408</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alana has to take $10 \ \text{millilitres}$ of medicine three times a day.
+How long would a $180 \ \text{millilitre}$ bottle last her? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Amount of medicine in a day}     &= 10 \times 3 \\\\
+                                        &= 30 \ \text {millilitres} \\\\
+\text {The bottle would last}           &= \dfrac {180} {30} \\\\
+                                        &= \dfrac {6 \times 30} {30} \\\\
+                                        &= \dfrac {6 \times \cancel {30}} {\cancel {30}} \\\\
+                                        &= 6
+\end{aligned}
+$
+
+The medicine will last for $6$ days.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A55AF66D-61BF-46A3-B8DA-C14286D8E6CF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tomasc adds the same number to $23$ and to $8$ so that the first is then double the second. What was the number he used?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+$
+\begin{aligned}
+23 + a &= 2 \times (8 + a) \\\\
+23 + a &= 16 + 2a \\\\
+2a- a  &= 23 - 16 \\\\
+a      &= 7
+\end{aligned}
+$
+
+The number is $7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6398C5BF-C910-451F-A847-5199C8321DD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a Latin test, Suril got $6$ times as many marks as Krishan.
+Ashwini has twice as many as Krishan.
+
+Ashiwini got $30$ marks. How many marks did Suril get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Krishan got $x$ marks.
+
+As per the question,
+
+Suril got $6x$ marks.
+
+Ashwini got $30$ marks which is equal to $2 \times$ Krishan's marks.
+
+$
+\begin{aligned}
+2 \times x &= 30 \\\\
+x          &= \dfrac {30} {2} \\\\
+x          &= \dfrac {2 \times 15} {2} \\\\
+x          &= \dfrac {\cancel {2} \times 15} {\cancel {2}} \\\\
+x          &= 15
+\end{aligned}
+$
+
+Suril got $6 \times 15 = 90$ marks.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>49B435BA-0A4E-44F7-ACD3-758C97042BC8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Morose's team has lost $3$ times as many matches as they have won.
+
+They have not drawn any matches. They have played $24$ matches.
+
+How many matches they have won?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of matches they won $= a$
+
+As per the question,
+
+No. of matches they lost $= 3a$
+
+$
+\begin{aligned}
+a + 3a        &= 24 \\\\
+4a            &= 24 \\\\
+a             &= \dfrac {24} {4} \\\\
+a             &= \dfrac {6 \times 4} {4} \\\\
+a             &= \dfrac {6 \times \cancel {4}} {\cancel {4}} \\\\
+a             &= 6
+\end{aligned}
+$
+
+They won $6$ matches.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>953489BB-9734-4F88-81E4-F8A134B98396</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Simplify if possible: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a + 2a + 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= a + 2a + 4 \\\\
+&= 3a + 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3a + 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4b - b + 5b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4b - b  + 5b \\\\
+&= 8b
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8b$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a + 2c + a + 4c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2a + 2c + a + 4c \\\\
+&= 3a + 6c
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3a + 6c$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x \times 2x \times 4d$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x \times 2x \times 4d \\\\
+&= 8 x ^2 d
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 x ^2 d$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$ab + 6b + 2ab$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= ab + 6b + 2ab \\\\
+&= 3ab + 6b \\\\
+&= 3b (a + 2)
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3b (a + 2)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-3c \times 5ct + 2c \times 6$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= -3c \times 5ct + 2c \times 6 \\\\
+&= -15 c^2 t + 12 c \\\\
+&= 3c (-5ct + 4c)
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3c (-5ct + 4c)$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>803720D5-F810-4180-9E12-79A58BB32B12</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Simplify the following: $3x + 7y - 6x + 23y$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3x + 7y - 6x +23y \\\\
+&= -3x + 30y
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-3x + 30y$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4F836F04-C354-45B9-A5A9-1A6EAED7234D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve these equations to find $x$: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x - 5 = 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x - 5               &= 17 \\\\
+x                   &= 17 + 5 \\\\
+x                   &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {x} {2} + 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{x} {2} + 3               &= 12 \\\\
+\dfrac{x} {2}                   &= 12 -3  \\\\
+\dfrac{x} {2}                   &= 9 \\\\
+x                               &= 9 \times 2 \\\\
+x                               &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 52 + 37     &= 180  \\\\
+a + 89          &= 180  \\\\
+a               &= 180 - 89 \\\\
+a               &= 91 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + 115 + 134   &= 360  \\\\
+b + 249         &= 360  \\\\
+b               &= 360 - 249 \\\\
+b               &= 111 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BA1D755E-247B-459D-BA62-7EACF068C6A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$120$ pupils are sitting an exam. The pupils can choose whether to write in pencil or pen.
+
+Two-fifths of the pupils are boys.
+
+Three-quarters of the boys are writing in pencil.
+
+One-third of the girls are writing in pen.
+
+How many pupils are writing in pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of boys in the class}             &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                                                &= \dfrac {2 \times 120} {5} \\\\
+                                                &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                                                &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                                                &= 2 \times 24 \\\\
+                                                &= 48 \\\\
+\text {Number of girls in the class}            &= 120 - 48 \\\\
+                                                &= 72
+\end{aligned}
+$
+
+If One-third of the girls are writing with pen, then the number of girls writing with pencil will be $1 - \dfrac {1} {3} = \dfrac {2} {3}$. Using that we get,
+
+$
+\begin{aligned}
+\text {Number of pupils writing with pencil}   &= \dfrac {3} {4} \times 48 + \dfrac {2} {3} \times 72 \\\\
+                                               &= \dfrac {3 \times 48} {4} + \dfrac {2 \times 72} {3} \\\\
+                                               &= \dfrac {3 \times 12 \times 4} {4} + \dfrac {2 \times 24 \times 3} {3} \\\\
+                                               &= \dfrac {3 \times 12 \times \cancel {4}} {\cancel {4}} + \dfrac {2 \times 24 \times \cancel {3}} {\cancel {3}} \\\\
+                                               &= 3 \times 12 + 2 \times 24 \\\\
+                                               &= 36 + 48 \\\\
+                                               &= 84
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tanya cuts out a piece of card into a rectangle. The rectangle is twice as long as it is wide. 
+The area of the rectangle is $128 \ \text{cm}^2$.
+
+What is the perimeter of rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$.
+
+As per the question, 
+
+Length of the rectangle $= 2a$. 
+
+$
+\begin {aligned}
+\text {Area of the rectangle}   &= \text {length} \times \text {width} \\\\
+128                             &= 2a \times a \\\\
+2a ^ 2                          &= 128 \\\\
+a ^ 2                           &= \dfrac {128} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {64 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= 64 \\\\
+a                               &= \sqrt {64} \\\\
+a                               &= 8
+\end {aligned}
+$
+
+Width of the rectangle $= 8 \ \text {cm}$, length of the rectangle $2 \times 8 = 16 \ \text {cm}$.
+
+$
+\begin {aligned}
+\text {Perimeter of rectangle}  &= 2 (\text {length} + \text {width}) \\\\
+                                &= 2 \times (16 + 8) \\\\
+                                &= 2 \times 24 \\\\
+                                &= 48 \ \text {cm}
+\end {aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--2013--sample-paper-d</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E61C8C9B-56DA-468B-93C1-334429701990</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The following questions are about a butcher's shop. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Karim buys $7$ burgers and $5$ steaks. Burgers cost $61 \text{p}$ each and steaks cost $84 \text{p}$ each.
+
+How much Karim spend in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total cost}  &= \text {Cost of burgers} + \text {Cost of steaks} \\\\
+                    &= 7 \times 61 \ \text {p} + 5 \times 84 \ \text {p} \\\\
+                    &= 7 \times \pounds \dfrac {61} {100} + 5 \times \pounds \dfrac {84} {100} \\\\
+                    &= 7 \times 0.61 + 5 \times 0.84 \\\\
+                    &= 4.27 + 4.20 \\\\
+                    &= \pounds 8.47
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sausages come in packs of 8. Each pack costs $\pounds 1.30$.
+
+James spends $\pounds 9.10$ on sausages. How much sausages did James get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {James got}   &= \dfrac {9.10} {1.30} \times 8 \\\\
+                    &= 7 \times 8 \\\\
+                    &= 56 \ \text {sausages}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$ 
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Tyler buys $16$ chicken wings, and receives $\pounds 14.72$ change from a $\pounds 20$ note.
+
+What is the price of a chicken wing?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total cost of chicken wings}   &= \pounds 20 - \pounds 14.72 \\\\
+                                      &= 20 \times 100 \ \text {p} - 14.72 \times 100 \ \text {p} \\\\
+                                      &= 2000 - 1472 \\\\
+                                      &= 528 \ \text {p} \\\\
+\text {Cost of a chicken wing}        &= \dfrac {528} {16} \\\\
+                                      &= \dfrac {33 \times 16} {16} \\\\
+                                      &= \dfrac {33 \times \cancel {16}} {\cancel {16}} \\\\
+                                      &= 33 \ \text {p}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33 \ \text {p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The butcher also sells slices of turkey.
+
+Donald buys three quarters of the slices in the shop. Alisha then buys a sixth of the remaining slices.
+
+Alisha bought $3$ slices. How many more slices than Alisha did Donald buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of slices in the shop $= a$.
+
+As per the question,
+
+Number of slices Donald bought $= \dfrac {1} {3} \times a = \dfrac {a} {3}$.
+
+Remaining slices in the shop $= a - \dfrac {a} {3} = \dfrac {2a} {3}$.
+
+Number of slices Alisha bought $= \dfrac {2a} {3} \times \dfrac {1} {6} = \dfrac {a} {9}$.
+
+$
+\begin{aligned}
+\text {Alisha bought} &= \dfrac {a} {9} \\\\
+3                     &= \dfrac {a} {9} \\\\
+a                     &= 3 \times 9 \\\\
+a                     &= 27
+\end{aligned}
+$
+
+Total number of slices in the shop $= 27$.
+
+Donald bought $= \dfrac {27} {3} = 9$ slices.
+
+Donald bought $9 - 3 = 6$ slices more than Alisha.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Lamb chops are three times more expensive than pork chops.
+
+Tina buys $2$ lamb chops and $2$ pork chops. She spends $\pounds 9.60$ in total.
+
+How much do lamb chops and pork chops cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the price of pork chops $= a$.
+
+As per the question,
+
+Price of lamb chops $= 3a$.
+
+$
+\begin{aligned}
+\text {Total cost} &= 2 \times a + 2 \times 3a \\\\
+9.60               &= 2a + 6a \\\\
+8a                 &= 9.60 \\\\
+a                  &= \dfrac {9.60} {8} \\\\
+a                  &= \pounds 1.20
+\end{aligned}
+$
+
+Pork chops cost $= \pounds 1.20$.
+
+Lamb chops cost $3 \times 1.20 = \pounds 3.60$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.60, \pounds 1.20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two fifths of the children in a swimming pool are boys.
+
+There are $72$ girls in the pool. How many boys are there? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the total students $= a$
+
+As per the question,
+
+Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
+
+Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
+
+$
+\begin {aligned}
+\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
+\dfrac {3} {5} \times a           &= 72 \\\\
+3a                                &= 72 \times 5 \\\\
+a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
+a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
+a                                 &= 24 \times 5 \\\\
+a                                 &= 120
+\end {aligned}
+$
+
+Now, lets calculate the total number of boys.
+
+$
+\begin {aligned}
+\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                        &= \dfrac {2} {5} \times 120 \\\\
+                        &= \dfrac {2 \times 120} {5} \\\\
+                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                        &= 2 \times 24 \\\\
+                        &= 48
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sara thinks of a number. 
+She subtracts twelve, then divides by two and then adds fifteen. 
+Her answer is $37$. What is the number that Sara first thought of? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a - 12} {2} + 15   &= 37 \\\\
+\dfrac {a - 12} {2}        &= 37 - 15 \\\\
+\dfrac {a - 12} {2}        &= 22 \\\\
+a - 12                     &= 22 \times 2 \\\\
+a                          &= 44 + 12 \\\\
+a                          &= 56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a **right angled triangle** inside a **rectangle**. Calculate the value of angle $x$. Do not use a protractor.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle of triangle $=a$
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+83 + a + 58  &= 180 \\\\
+141 + a      &= 180 \\\\
+a            &= 180 - 141 \\\\
+a            &= 39 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 39 + 90  &= 180 \\\\
+x + 129      &= 180 \\\\
+x            &= 180 - 129 \\\\
+x            &= 51 \degree 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A teacher has 5 bags of marbles and $3$ extra marbles.
+Each bag has $n$ marbles inside.
+
+She ask: 'How many marbles are there altogether?'
+
+The pupil’s say:
+
+
+Nia: $8n$
+
+Vijay: $3 + 5n$
+
+Sam: $8$
+
+Jo: $15n$
+
+Karen: $5 \times n + 3$
+
+Glyn: $(3 + 5)n$
+
+There are 88 marbles altogether.
+
+Fill in one pupil’s right answer to help you complete the equation.
+
+Solve the equation to find $n$, the the number of marbles in a bag.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+5 \times n + 3  &= 88 \\\\
+5n + 3          &= 88 \\\\
+5n              &= 88 - 3 \\\\
+5n              &= 85 \\\\
+n               &= \dfrac {85} {5} \\\\
+n               &= \dfrac {17 \times 5} {5} \\\\
+n               &= \dfrac {17 \times \cancel {5}} {\cancel {5}} \\\\
+n               &= 17
+\end {aligned}
+$
+
+Number of marbles in each bag $= 17$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>700BB296-C63A-4D7F-A9BE-F09E3785CDC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A balloon pump and three packs of balloons cost $\pounds 9$ altogether.
+
+A balloon pump and four packs of balloons cost $\pounds 11$ altogether. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does a pack of balloons cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
+                                   &= 11 - 9 \\\\
+                                   &= \pounds 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much does a balloon pump and eight packs of balloons cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of a balloon pump} &= \text {Cost of a balloon pump and four packs of balloons} - \text{Cost of four packs of balloons} \\\\
+                              &= 11 - 4 \times 2 \\\\
+                              &= 11 - 8 \\\\
+                              &= \pounds 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Cost of a balloon pump and eight packs of balloons} &= \text {Cost of a balloon pump} + 8 \times \text {Cost of a pack of balloons} \\\\
+                                                           &= 3 + 8 \times 2 \\\\
+                                                           &= 3 + 16 \\\\
+                                                           &= \pounds 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 19$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mark is $3$ years older than David. The sum of their ages is $89$.
+How old is Mark? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let David's age $= a$
+
+As per the question,
+
+Mark's age $= 3 + a$
+
+$
+\begin{aligned}
+\text{Sum of their ages} &= 89 \\\\
+a + 3 + a                &= 89 \\\\
+2 a + 3                  &= 89 \\\\
+2 a                      &= 89 - 3 \\\\
+2 a                      &= 86 \\\\
+a                        &= \dfrac {86} {2} \\\\
+a                        &= \dfrac {43 \times 2} {2} \\\\
+a                        &= \dfrac {43 \times \cancel {2}} {\cancel {2}} \\\\
+a                        &= 43 \ \text{years}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Mark's age} &= 3 + a \\\\
+                  &= 3 + 43 \\\\
+                  &= 46 \ \text{years}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46 \ \text{years}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B5420130-A56B-4BA2-8654-2576766211F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Woody organised a quiz night in the toy room. He asked $25$ questions.
+
+For each correct answer you gained $4$ points.
+
+For each incorrect answer you lost $2$ points.
+
+For each question you did not attempt you scored $0$ points.
+
+
+Rex answered all but one of the questions and got a score of $66$ points.
+How many correct answers did he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let number of correct answers $= a$.
+
+and let number of incorrect answers $= b$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total number of questions Rex answered}  &= \text {Correct answers} + \text {Incorrect answers} + \text {Questions he left} \\\\
+25                                              &= a + b + 1 \\\\
+a + b                                           &= 25 - 1 \\\\
+a + b                                           &= 24 \\\\
+b                                               &= 24 - a \\\\
+\text {Total points he scored}                  &= 66 \\\\
+4a - 2b                                         &= 66 \\\\
+4a - 2 \times (24 - a)                          &= 66 \\\\
+4a - 48 + 2a                                    &= 66 \\\\
+6a                                              &= 66 + 48 \\\\
+6a                                              &= 114 \\\\
+a                                               &= \dfrac {114} {6} \\\\
+a                                               &= \dfrac {19 \times 6} {6} \\\\
+a                                               &= \dfrac {19 \times \cancel {6}} {\cancel {6}} \\\\
+a                                               &= 19
+\end {aligned}
+$
+
+Correct answers $= 19$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\ldots - 45 = 66$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 45                              &= 66 \\\\
+a                                   &= 66 + 45 \\\\
+a                                   &= 111
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$111$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bill is twice as old as his son, who is $50$ years younger than Bill’s father. If the total of their ages is $142$, how old is Bill?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Bill’s father age $= a$
+
+As per the question,
+
+Bill’s son age $= a - 50$
+
+Bill’s age $= 2 \times (a - 50)$
+
+$
+\begin {aligned}
+\text {Bill’s father age} + \text {Bill’s son age} + \text {Bill’s age}  &= 142 \\\\
+a + (a - 50) + 2 \times (a - 50)                                         &= 142 \\\\
+a + a - 50 + 2a - 100                                                    &= 142 \\\\
+4a - 150                                                                 &= 142 \\\\
+4a                                                                       &= 142 + 150 \\\\
+4a                                                                       &= 292 \\\\
+a                                                                        &= \dfrac {292} {4} \\\\
+a                                                                        &= \dfrac {73 \times 4} {4} \\\\
+a                                                                        &= \dfrac {73 \times \cancel {4}} {\cancel {4}} \\\\
+a                                                                        &= 73 \\\\
+\text {Bill’s age}                                                       &= 2 \times (a - 50) \\\\
+                                                                         &= 2 \times (73 - 50) \\\\
+                                                                         &= 2 \times 23 \\\\
+                                                                         &= 46
+\end {aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve each of these equations below to find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x - 4 = 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+x - 4 &= 17 \\\\
+x     &= 17 + 4 \\\\
+x     &= 21
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x = 55$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+5x &= 55    \\\\
+x  &= \dfrac {55} {5} \\\\
+x  &= \dfrac {11 \times 5} {5} \\\\
+x  &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
+x  &= 11
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{x}{10} = 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\dfrac {x} {10} &= 6 \\\\
+x               &= 6 \times 10 \\\\
+x               &= 60
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$14 + x = 23$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+14 + x &= 23 \\\\
+x      &= 23 - 14 \\\\
+x      &= 9
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{4}x = 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\dfrac {1} {4} x &= 7 \\\\
+x                &= 7 \times 4 \\\\
+x                &= 28
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7x = 37$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+7x    &= 37 \\\\
+x     &= \dfrac {37} {7}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {37} {7}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2AC891C8-7536-4140-932D-979889A952B8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following two step , below, to find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x - 9 = 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+5x    &= 9 + 6 \\\\
+5x    &= 15 \\\\
+x     &= \dfrac {15} {5} \\\\
+x     &= \dfrac {3 \times 5} {5} \\\\
+x     &= \dfrac {3 \times \cancel{5}} {\cancel{5}} \\\\
+x     &= 3
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{x}{5} + 9 = 16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\dfrac {x} {5} + 9                              &= 16 \\\\
+\dfrac {x} {5}                                  &= 16 - 9 \\\\
+\dfrac {x} {5}                                  &= 7 \\\\
+x                                               &= 7 \times 5 \\\\
+x                                               &= 35
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$17 = 2 + 3x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+17     &= 2 + 3 x \\\\
+17 - 2 &= 3 x \\\\
+15     &= 3x \\\\
+x      &= \dfrac {15} {3} \\\\
+x      &= \dfrac {5 \times 3} {3} \\\\
+x      &= \dfrac {5 \times \cancel {3}} {\cancel {3}} \\\\
+x      &= 5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7x + 15 = 1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+7x + 15    &= 1 \\\\
+7x         &= 1 - 15 \\\\
+7x         &= - 14 \\\\
+x          &= \dfrac {-14} {7} \\\\
+x          &= \dfrac {-2 \times 7} {7} \\\\
+x          &= \dfrac {-2 \times \cancel {7}}  {\cancel {7}} \\\\
+x          &= - 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>140F0395-4212-4458-B2B7-7AF063D4D08B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Half of a number is $8$ bigger than three sevenths of the number. What’s the number? 
+
+A: $140$ 
+
+B: $126$ 
+
+C: $119$ 
+
+D: $112$ 
+
+E: $98$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {2} \times a                                                  &=  8 + \dfrac {3} {7} \times a \\\\
+\dfrac {a} {2}                                                           &=  8 + \dfrac {3 a} {7} \\\\
+\dfrac {a} {2} - \dfrac {3 a} {7}                                        &=  8 \\\\
+\dfrac {1 \times 7 a} {2 \times 7} - \dfrac {3 \times 2 a} {7 \times 2}  &=  8 \\\\
+\dfrac {7 a} {14} - \dfrac {6 a} {14}                                    &=  8 \\\\
+\dfrac {7 a - 6 a} {14}                                                  &=  8 \\\\
+\dfrac {a} {14}                                                          &=  8 \\\\
+a                                                                        &=  14 \times 8 \\\\
+a                                                                        &= 112
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$112$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>938E522F-43A3-44CB-9551-C2D9CF301F50</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Tommy thinks of a number. When he doubles the number and then subtracts $11$, he gets the answer $17$. What was his number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 11   &= 17 \\\\
+2a                &= 17 + 11 \\\\
+2a                &= 28 \\\\
+a                 &= \dfrac {28} {2} \\\\
+a                 &= \dfrac {2 \times 14} {2} \\\\
+a                 &= \dfrac {\cancel {2} \times 14} {\cancel {2}} \\\\
+a                 &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Lilly thinks of a number. When she takes away $11$ from the number and then doubles the answer, she gets $82$. What was her number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times (a - 11)  &= 82 \\\\
+a - 11             &= \dfrac {82} {2} \\\\
+a - 11             &= \dfrac {41 \times 2} {2} \\\\
+a - 11             &= \dfrac {41 \times \cancel {2}} {\cancel {2}} \\\\
+a - 11             &= 41 \\\\
+a                  &= 41 + 11 \\\\
+a                  &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I’m thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What’s my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+45 - a   &= 2 \times a \\\\
+45       &= 2 a + a \\\\
+45       &= 3 a \\\\
+a        &= \dfrac {45} {3} \\\\
+a        &= \dfrac {15 \times 3} {3}  \\\\
+a        &= \dfrac {15 \times \cancel {3}} {\cancel {3}} \\\\
+a        &= 15 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>AAD74FF2-AC76-4ECE-AB35-E5D7E8DF0E2B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number. When I subtract it from $24$, the answer is the same as when I double it.
+
+What’s my number? 
+
+A: $12$ 
+
+B: $10$
+
+C: $8$ 
+
+D: $6$ 
+
+E: $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+24 - a          &= 2 \times a \\\\
+24 - a          &= 2 a \\\\
+24              &= 2 a + a \\\\
+24              &= 3 a \\\\
+3 a             &= 24 \\\\
+a               &= \dfrac {24} {3} \\\\
+a               &= \dfrac {8 \times 3} {3} \\\\
+a               &= \dfrac {8 \times \cancel{3}} {\cancel{3}} \\\\
+a               &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0F73731D-E7C1-44C0-8150-D86AA287599D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\text{Two-thirds}$ of a number is $66$. What’s the number? 
+
+A: $100$ 
+
+B: $99$ 
+
+C: $44$ 
+
+D: $33$ 
+
+E: $132$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {2} {3} \times a   &=  66 \\\\
+a                         &=  \dfrac {66 \times 3} {2} \\\\
+a                         &=  \dfrac {2 \times 33 \times 3} {2} \\\\
+a                         &=  \dfrac {\cancel {2} \times 33 \times 3} {\cancel {2}} \\\\
+a                         &=  33 \times 3 \\\\
+a                         &=  99
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$99$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A52F9548-B5CC-43EF-8F45-832F47AAC757</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\text{Two-thirds}$ of a number is $3$ more than $\text{three-fifths}$ of the number. What’s the number? 
+
+A: $20$ 
+
+B: $90$ 
+
+C: $54$ 
+
+D: $60$ 
+
+E: $45$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {2} {3} \times a                                                  &= 3 + \dfrac {3} {5} \times a \\\\
+\dfrac {2 a} {3}                                                         &= 3 + \dfrac {3 a} {5} \\\\
+\dfrac {2 a} {3} - \dfrac {3 a} {5}                                      &= 3 \\\\
+\dfrac {2 a \times 5} {3 \times 5} - \dfrac {3 a \times 3} {5 \times 3}  &= 3 \\\\
+\dfrac {10 a} {15} - \dfrac {9 a} {15}                                   &= 3 \\\\
+\dfrac {10 a - 9 a} {15}                                                 &= 3 \\\\
+\dfrac {a} {15}                                                          &= 3 \\\\
+a                                                                        &= 15 \times 3 \\\\
+a                                                                        &= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7C02F3E0-0B0D-4D18-94F1-36B11717F1F8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I’m thinking of a number. When I triple it and subtract the result from $70$, I get half my original number. What’s my number? 
+
+A: $24$ 
+
+B: $30$ 
+
+C: $18$ 
+
+D: $20$ 
+
+E: $25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+70 - 3 \times a                                        &= \dfrac {1} {2} \times a \\\\
+\dfrac {a} {2} + 3 a                                   &= 70 \\\\
+\dfrac {a} {2} + \dfrac {3 a \times 2} {1 \times 2}    &= 70 \\\\
+\dfrac {a} {2} + \dfrac {6 a} {2}                      &= 70 \\\\
+\dfrac {a + 6 a} {2}                                   &= 70 \\\\
+\dfrac {7 a} {2}                                       &= 70 \\\\
+a                                                      &= \dfrac {70 \times 2} {7} \\\\
+a                                                      &= \dfrac {10 \times 7 \times 2} {7}  \\\\
+a                                                      &= \dfrac {10 \times \cancel {7} \times 2} {\cancel {7}} \\\\
+a                                                      &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4EDABAC9-B1F8-470A-AE7E-934077143CEE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I’m thinking of two numbers. When I double the first and add it to the second I get $160$. One of the numbers is half of the other. Which of these could be one of my numbers?
+
+A: $30$ 
+
+B: $45$ 
+
+C: $60$ 
+
+D: $64$ 
+
+E: $96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let one number $= a$
+
+Other number $= \dfrac {a} {2}$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a + \dfrac {a} {2}                         &= 160 \\\\
+\dfrac {2 a \times 2} {1 \times 2} + \dfrac {a} {2} &= 160 \\\\
+\dfrac {4 a} {2} + \dfrac {a} {2}                   &= 160 \\\\
+\dfrac {4 a + a} {2}                                &= 160 \\\\
+\dfrac {5 a} {2}                                    &= 160 \\\\
+a                                                   &= \dfrac {160 \times 2} {5} \\\\
+a                                                   &= \dfrac {32 \times 5 \times 2} {5} \\\\
+a                                                   &= \dfrac {32 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+a                                                   &= 32 \times 2 \\\\
+a                                                   &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$64$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8C9B0648-64C4-4BA9-A70B-251A7C8E025A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah thinks of a number. When she triples the number and then adds $15$, she gets the answer $39$. What was her number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 15  &= 39 \\\\
+3 a              &= 39 - 15 \\\\
+3 a              &= 24 \\\\
+a                &= \dfrac {24} {3} \\\\
+a                &= \dfrac {8 \times 3} {3} \\\\
+a                &= \dfrac {8 \times \cancel {3}} {\cancel {3}} \\\\
+a                &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Kirsty thinks of a number. When she adds $15$ to the number and then triples the answer, she gets $39$. What was her number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times (a + 15)  &= 39 \\\\
+a + 15             &= \dfrac {39} {3} \\\\
+a + 15             &= \dfrac {13 \times 3} {3} \\\\
+a + 15             &= \dfrac {13 \times \cancel {3}} {\cancel {3}} \\\\
+a + 15             &= 13 \\\\
+a                  &= 13 - 15 \\\\
+a                  &= - 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Zack thinks of a number. When he triples the number and subtracts the answer from $71$, he gets one more than double his original number. What was his number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+71 - 3 \times a                               &= 1 + 2 \times a \\\\
+71 - 1                                        &= 2 a + 3 a \\\\
+70                                            &= 5 a \\\\
+5 a                                           &= 70 \\\\
+a                                             &= \dfrac {70} {5} \\\\
+a                                             &= \dfrac {14 \times 5} {5} \\\\
+a                                             &= \dfrac {14 \times \cancel {5}} {\cancel {5}} \\\\
+a                                             &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A8E86124-27D8-4CD2-9092-38E26EDAFF3C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, multiply it by $\text{three}$ and add $7$. The answer is $25$. What is the number I am thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 7   &= 25 \\\\
+3 a + 7          &= 25 \\\\
+3 a              &= 25 - 7 \\\\
+3 a              &= 18 \\\\
+a                &= \dfrac {18} {3} \\\\
+a                &= \dfrac {6 \times 3} {3} \\\\
+a                &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+a                &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to school. Leena brings $13$ less than Sarah and Jane brings in $7$ more than Sarah.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tokens does Leena bring?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Leena brought}  &= 28 - 13 \\\\
+                       &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tokens do the three girls bring in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total tokens}  &= 28 + (28 - 13) + (28 + 7) \\\\
+                      &= 78
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$78$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9DD65BB6-6C3C-463C-A33E-777F8440F791</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each of the following statements $N$ stands for a number. 
+
+Write down the value of $N$ which makes each of the statements true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7 + N = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+7 + N &= 13 \\\\
+N     &= 13 - 7 \\\\
+N     &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4 \times N = 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4 \times N &= 36 \\\\
+N          &= \dfrac {36} {4} \\\\
+N          &= \dfrac {9 \times \cancel {4}} {\cancel {4}} \\\\
+N          &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$N \times N = 25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+N \times N &= 25 \\\\
+N ^ 2      &= 25 \\\\
+N          &= \sqrt {25} \\\\
+N          &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$N - 6 = N \div 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+N - 6    &= N \div 2 \\\\
+N - 6    &= \dfrac {N} {2} \\\\
+2(N - 6) &= N \\\\
+2N - 12  &= N \\\\
+2N - N   &= 12 \\\\
+N        &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6F014D26-2CA6-44D6-B3C8-62FC95F45D0C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has a perimeter of $20\ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of the side of the square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the square $=a$
+
+$\text{Perimeter} = 4 \times \text{side})$
+
+$
+\begin{aligned}
+20                 &= 4 \times \text {a} \\\\
+4 a                &= 20 \\\\
+\text{a}           &= \dfrac {20} {4} \\\\
+\text{a}           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+\text{a}           &= 5 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the $\text{AREA}$ of the square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area} = \text{side} \times \text{side}$
+
+$
+\begin{aligned}
+\text{Area}  &= 5 \times 5 \\\\
+             &= 25 \ \text {cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \ \text {cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B2E13D6F-C414-4890-83D9-EEF6CC62BD32</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the fracrion $\dfrac{3} {5}$ as a decimal.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {5} \\\\
+&= \dfrac {3 \times 2} {5 \times 2} \\\\
+&= \dfrac {6} {10} \\\\
+&= 0.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3} {5}$ of the pupils at a school stay for lunch.
+
+If there are $750$ pupils at the school, how many stay for lunch?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Pupils who stay for lunch}  &= \dfrac {3} {5} \times 750 \\\\
+                                   &= \dfrac {3 \times 750} {5} \\\\
+                                   &= \dfrac {3 \times 150 \times 5} {5} \\\\
+                                   &= \dfrac {3 \times 150 \times \cancel {5}} {\cancel {5}} \\\\
+                                   &= 3 \times 150 \\\\
+                                   &= 450
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$450$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $25\%$ of the cost of building a boat is for materials. Calculate the cost of the materials in a boat costing $\pounds6000$ to build.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of the materials} &= 25 \% \ \text {of} \ \pounds 6000 \\\\
+                              &= \dfrac {25} {100} \times 6000 \\\\
+                              &= \dfrac {25 \times 6000} {100} \\\\
+                              &= \dfrac {25 \times 60 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                              &= 60 \times 25 \\\\
+                              &= \pounds 1500
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1500$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FD6001A4-A10E-44ED-88F4-1456AB82BADE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve these equations to find the value of the letter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5a = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5 a  &= 15 \\\\
+a    &= \dfrac {15} {5} \\\\
+a    &= \dfrac {5 \times 3} {5} \\\\
+a    &= \dfrac {\cancel {5} \times 3} {\cancel {5}} \\\\
+a    &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b - 7 = 26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b - 7  &= 26 \\\\
+b      &= 26 + 7 \\\\
+b      &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{c}{9} = 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {c} {9}  &= 4 \\\\
+c               &= 9 \times 4 \\\\
+c               &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x - 1 = x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 x - 1 &= x + 7 \\\\
+3 x - x &= 7 + 1 \\\\
+2 x &= 8 \\\\
+x  &= \dfrac {8} {2} \\\\
+x  &= \dfrac {4 \times 2} {2} \\\\
+x  &= \dfrac {4 \times \cancel {2}} {\cancel {2}} \\\\
+x  &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the three expressions below.
+
+$\boxed{3k}$     $\boxed{(4k+2)}$      $\boxed{k^2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When **k = 6**, what is the value of each expression?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First expression
+
+$
+\begin{aligned}
+&= 3 k \\\\
+&= 3 \times 6 \\\\
+&= 18
+\end{aligned}
+$
+
+Second expression
+
+$
+\begin{aligned}
+&= 4(k + 2) \\\\
+&= 4(6 + 2) \\\\
+&= 4 \times 8 \\\\
+&= 32
+\end{aligned}
+$
+
+Third expression
+
+$
+\begin{aligned}
+&= k ^ 2 \\\\
+&= (6) ^2 \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 32, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When $\bold{k = -10}$, what is the value of each expression?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First expression
+
+$
+\begin{aligned}
+&= 3 k \\\\
+&= 3 \times - 10 \\\\
+&= - 30
+\end{aligned}
+$
+
+Second expression
+
+$
+\begin{aligned}
+&= 4(k + 2) \\\\
+&= 4(- 10 + 2) \\\\
+&= 4 \times - 8 \\\\
+&= - 32
+\end{aligned}
+$
+
+Third expression
+
+$
+\begin{aligned}
+&= k ^ 2 \\\\
+&= (- 10) ^2 \\\\
+&= 100
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-30, -32, 100$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>48C65EB8-9775-47FA-92CD-8B8FF4D26C07</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Simplify this expression fully
+
+$\dfrac{5a^2b}{10a}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5 a ^ 2 b} {10 a} \\\\
+&= \dfrac {5 \times a \times a \times b} {5 \times 2 \times a} \\\\
+&= \dfrac {\cancel {5} \times \cancel {a} \times a \times b} {\cancel {5} \times 2 \times \cancel {a}} \\\\
+&= \dfrac {a b} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {a b} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Multiply out the brackets and simplify this expression 
+
+$4 ( x+ 2 ) - 5 ( x- 3 )$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4(x + 2) - 5(x - 3) \\\\
+&= 4x + 8 - 5x + 15 \\\\
+&= - x + 23
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-x + 23$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D283FA4A-33AB-496A-950F-B2EB59FA6F01</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve these equations.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3y + 1 = 16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3y + 1 &= 16 \\\\
+3y     &= 16 - 1 \\\\
+3y     &= 15 \\\\
+y      &= \dfrac {15} {3} \\\\
+y      &= \dfrac {5 \times 3} {3} \\\\
+y      &= \dfrac {5 \times \cancel {3}} {\cancel {3}} \\\\
+y      &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$18 = 4k + 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+18      &= 4k + 6 \\\\
+18 - 6  &= 4k \\\\
+4k      &= 12 \\\\
+k       &= \dfrac {12} {4} \\\\
+k       &= \dfrac {4 \times 3} {4} \\\\
+k       &= \dfrac {\cancel {4} \times 3} {\cancel {4}} \\\\
+k       &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 \text{p}$ + 14 = 5 $\text{p} + 1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3p + 14           &= 5p + 1 \\\\
+3p - 5p           &= 1 - 14 \\\\
+-2p               &= -13 \\\\
+\cancel {-} 2p    &= \cancel {-} 13 \\\\
+p                 &= \dfrac {13} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {13} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2(2n + 5) = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2(2n + 5) &= 12 \\\\
+4n + 10   &= 12 \\\\
+4n        &= 12 - 10 \\\\
+4n        &= 2 \\\\
+n         &= \dfrac {2} {4} \\\\
+n         &= \dfrac {\cancel {2}} {\cancel {2} \times 2} \\\\
+n         &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>73897DF2-60E6-44C7-A452-1BFF5324A5B8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a rectangle.
+
+![missing image](/papers/missing_image.svg)
+
+Not drawn accurately
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A **square** has the **same** area as this rectangle. 
+
+What is the **side length** of this square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area} = \text{length} \times \text{width}$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Area of rectangle}      &= 8 \times 2 \\\\
+                               &= 16 \ \text {cm}^2
+\end{aligned}
+$
+
+$\text{Area} = \text{side} \times \text{side}$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text{Area of square} &= \text{Area of rectangle} \\\\
+s \times s            &= 16 \\\\
+s ^ 2                 &= 16 \\\\
+s                     &= \sqrt {16} \\\\
+s                     &= 4 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A **different square** has the **same perimeter** as this rectangle.
+
+What is the **side length** of this square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text {Perimeter of rectangle} &= 2 \times (8 + 2) \\\\
+                               &= 2 \times 10 \\\\
+                               &= 20 \ \text{cm}
+\end{aligned}
+$
+
+Let the side of square $= s$
+
+$
+\begin{aligned}
+\text {Perimeter of square} &= \text{Perimeter of rectangle} \\\\
+4 \times s                  &= 20 \\\\
+s                           &= \dfrac {20} {4} \\\\
+s                           &= \dfrac {5 \times 4} {4} \\\\
+s                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+s                           &= 5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0DB51330-766E-464D-9295-67675484FDA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rearrange the equations.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b + 4 = a$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b + 4 &= a \\\\
+b     &= a - 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$a - 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4d = c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4d &= c \\\\
+d  &= \dfrac {c} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {c} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$m - 3 = 4k$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+m - 3 &= 4k \\\\
+m     &= 4k +3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4k +3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$t^2 = 4s$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+t ^ 2              &= 4s \\\\
+4s                 &= t ^ 2 \\\\
+s                  &= \dfrac {t ^ 2} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {t ^ 2} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles (diagrams not to scale):
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 100 + 30 &= 180 \\\\
+a + 130      &= 180 \\\\
+a            &= 180 - 130 \\\\
+a            &= 50 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+$
+\begin{aligned}
+a + b        &= 180 \\\\
+50 + b       &= 180 \\\\
+b            &= 180 - 50 \\\\
+b            &= 130 \degree
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+c + 62 + 90  &= 180 \\\\
+c + 152      &= 180 \\\\
+c            &= 180 - 152 \\\\
+c            &= 28 \degree
+\end{aligned}
+$
+
+The value of $d$ will also be equal to $28$ because they are opposite angles.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \degree, \ 130 \degree$
+
+</div>
+<div class='answer'>
+
+$28 \degree, \ 28 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6608C680-BF3B-41A9-B171-C598733FE00F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number and multiply it by $3$ and then subtract $6$. If the result is $15$ what number was I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 3 - 6   &= 15 \\\\
+3 a - 6          &= 15 \\\\
+3 a              &= 15 + 6 \\\\
+3 a              &= 21 \\\\
+a                &= \dfrac {21} {3} \\\\
+a                &= \dfrac {3 \times 7} {3} \\\\
+a                &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+a                &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>51C00E11-4522-456E-9573-8B2298390591</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Angela works for a computer firm. She is paid $\pounds 10000$, plus $\pounds 100$ for each computer she sells. 
+How much will she earn if she sells:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15$ computers
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10000 + 15 \times 100 \\\\
+&= 10000 + 1500
+&= \pounds 11500
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 11500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many computers does she sell if she earns $\pounds 12600$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {12600 - 10000} {100} \\\\
+&= \dfrac {2600} {100} \\\\
+&= \dfrac {26 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+&= 26 \ \text {computers}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26 \ \text {computers}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Given that $a = 2, b = 3$ and $c = 4$, find the value of the following expressions:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5a + 2c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5a + 2c \\\\
+&= 5 \times 2 + 2 \times 4 \\\\
+&= 10 + 8 \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2} a^2 - b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {a ^ 2} {2} - b \\\\
+&= \dfrac {2 ^ 2} {2} - (-3) \\\\
+&= \dfrac {2 \times 2} {2} + 3 \\\\
+&= \dfrac {2 \times \cancel {2}} {\cancel {2}} + 3 \\\\
+&= 2 + 3 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3ac}{2b^3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3ac} {2b^3} \\\\
+&= \dfrac {3 \times 2 \times 4} {2 \times (-3)^3} \\\\
+&= \dfrac {\cancel {3} \times \cancel {2} \times 4} {\cancel {2} \times - \cancel {3} \times -3 \times -3} \\\\
+&= \dfrac {4} {-1 \times -3 \times -3} \\\\
+&= - \dfrac {4} {9}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- \dfrac {4} {9}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>49F70149-6E7A-4A5E-9D2E-9FBDD68F2349</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John came home from his vacation at his grandmother's with $5$ books. 
+While he was away he bought $2$ books at the bookshop and got $1$ book as a present from his grandmother. 
+During his stay at his grandmother's, he also gave his cousin $4$ books that he had finished.
+How many books did he take with him when he left for his holiday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of books be $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 + 1 - 4 + a &= 5 \\\\
+-1 + a        &= 5 \\\\
+a             &= 5 + 1 \\\\
+a             &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>370E6891-00C4-4400-9412-56FFA4BE4110</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A car hire firm charges $\pounds 35$ per day plus $34 \text{p}$ per km travelled. A man hired a car for $4$ days and travelled 
+$300 \ \text{km}$. How much did he pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Man pays for 4 days and 300km} &= 4 \times \pounds 35 + 300 \times 34 \text {p} \\\\
+                                      &= \pounds 140 + 10200 \text {p} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {10200} {100} \\\\
+                                      &= \pounds 140 + \pounds \dfrac {102 \cancel {00}} {1 \cancel {00}} \\\\
+                                      &= \pounds 140 + \pounds 102 \\\\
+                                      &= \pounds 242
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 242$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CA23ED80-3421-4BAC-BBB7-618D72B3F32C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sam thinks of a number, multiplies it by $2$ and then adds $11$. The answer he gets is $29$. What number did he think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 11 &= 29 \\\\
+a \times 2      &= 29 - 11 \\\\
+a \times 2      &= 18 \\\\
+a               &= \dfrac {18} {2} \\\\
+a               &= \dfrac {9 \times \cancel {2}} {\cancel {2}} \\\\
+a               &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Julia thinks of a number, multiplies it by $5$, adds $11$ and then divides it by $2$. She gets the answer $28$. 
+What number did she think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a \times 5 + 11) \div 2 &= 28 \\\\
+a \times 5 + 11          &= 28 \times 2 \\\\
+a \times 5 + 11          &= 56 \\\\
+a \times 5               &= 56 - 11 \\\\
+a \times 5               &= 45 \\\\
+a                        &= \dfrac {45} {5} \\\\
+a                        &= \dfrac {9 \times 5} {5} \\\\
+a                        &= \dfrac {9 \times \cancel {5}} {\cancel {5}} \\\\
+a                        &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sam and Julia find there is one number for which, if they both start from that number and follow their own rules, they get the same answer. What is the number they both start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 11     &= (a \times 5 + 11) \div 2 \\\\
+(2 a + 11) \times 2 &= 5 a + 11 \\\\
+4 a + 22            &= 5 a + 11 \\\\
+4 a - 5 a           &= 11 - 22 \\\\
+-a                  &= -11 \\\\
+\cancel {-} a       &= \cancel {-} 11 \\\\
+a                   &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E9A0FA5F-BD86-427B-91F1-7D0A086BB6AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\Psi$ is a new mathematical rule which works like this:
+
+To work out $2 \ \Psi\  4$ add $1$ to $2$, then multiply by $4$, like this:
+
+$2 + 1 = 3$
+
+$3 \times 4 = 12$
+
+So $2 \ \Psi\  4 = 12$
+
+Similarly $4 \ \Psi\  7 = 35$ because $4 + 1 = 5$, then $5 \times 7 = 35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $3 \ \Psi\  8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3 \ \Psi \ 8 \\\\
+&= (3 + 1) \times 8 \\\\
+&= 4 \times 8 \\\\
+&= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $5 \ \Psi\  9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 \ \Psi \ 9 \\\\
+&= (5 + 1) \times 9 \\\\
+&= 6 \times 9 \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $2 \ \Psi\  y = 18$, what number does $y$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2 \ \Psi \ y     &= 18 \\\\
+(2 + 1) \times y &= 18 \\\\
+3 \times y       &= 18 \\\\
+y                &= \dfrac {18} {3} \\\\
+y                &= \dfrac {6 \times 3} {3} \\\\
+y                &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+y                &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $z \ \Psi\  4 = 36$, what number does $z$ stand for?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+z \ \Psi \ 4     &= 36 \\\\
+(z + 1) \times 4 &= 36 \\\\
+z + 1            &= \dfrac {36} {4} \\\\
+z + 1            &= \dfrac {9 \times 4} {4} \\\\
+z + 1            &= \dfrac {9 \times \cancel {4}} {\cancel {4}} \\\\
+z + 1            &= 9 \\\\
+z                &= 9 - 1 \\\\
+z                &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $p \ \Psi\  q = 20$, find all the pairs of whole numbers that $p$ and $q$ could be.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+p \ \Psi \ q     &= 20 \\\\
+(p + 1) \times q &= 20
+\end{aligned}
+$
+
+Possible values $=$
+
+$
+\begin{aligned}
+(p + 1) &= 4 \quad \text{and} \quad q = 5 \\\\
+p       &= 3 \quad \text{and} \quad q = 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(p + 1) &= 5 \quad \text{and} \quad q = 4 \\\\
+p       &= 4 \quad \text{and} \quad q = 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(p + 1) &= 10 \quad \text{and} \quad q = 2 \\\\
+p       &= 9 \quad \text{and} \quad q = 2
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(p + 1) &= 2 \quad \text{and} \quad q = 10 \\\\
+p       &= 1 \quad \text{and} \quad q = 10
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(p + 1) &= 20 \quad \text{and} \quad q = 1 \\\\
+p       &= 19 \quad \text{and} \quad q = 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+(p + 1) &= 1 \quad \text{and} \quad q = 20 \\\\
+p       &= 0 \quad \text{and} \quad q = 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9B2BAD76-821C-4206-AED5-F5F1A8A5545E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ali has six times as much chocolate as Beth. Carl has twice as much chocolate as Beth. If Carl has $200 \ \text{g}$ of chocolate, how much chocolate does Ali have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the chocolate with Beth $= a$
+
+Chocolate with Ali $= 6 a$
+
+Chocolate with Carl $= 2 a$
+
+$
+\begin{aligned}
+\text{Chocolate with Beth} &= \dfrac {\text {Chocolate with Carl}} {2} \\\\
+a                          &= \dfrac {200} {2} \\\\
+a                          &= \dfrac {100 \times 2} {2} \\\\
+a                          &= \dfrac {100 \times \cancel {2}} {\cancel {2}} \\\\
+a                          &= 100 \ \text{g}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Chocolate with Ali}  &= 6 \times a \\\\
+                           &= 6 \times 100 \\\\
+                           &= 600 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C279109D-A77E-4019-9C41-983257A9DDF8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Simplify the following algebraic expressions:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4 \text{p}$ + 3q + 2 $\text{p} + 7q$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4p + 3q + 2p + 7q \\\\
+&= 4p + 2p + 3q + 7q \\\\
+&= 6p + 10q
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6p + 10q$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a + 10b - a - 14b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2a + 10b - a - 14b \\\\
+&= 2a - a + 10b - 14b \\\\
+&= a - 4b
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$a - 4b$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FB0BA478-C8E7-46D4-B41D-FC926DEEE733</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a rectangle. 
+
+![missing image](/papers/missing_image.svg)
+
+The length of the rectangle is $2n + 1$. 
+
+The width of the rectangle is $3n - 9$. 
+
+Write down an expression for the perimeter of the rectangle. **Fully simplify your answer**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+
+$
+\begin{aligned}
+\text {Perimeter of the rectangle} &= 2 \times ((2 n + 1) + (3 n - 9)) \\\\
+                                   &= 2 \times (2 n + 3n + 1 - 9) \\\\
+                                   &= 2 \times (5 n - 8) \\\\
+                                   &= 10 n - 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 n - 16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F202EB77-1406-4EA6-951F-C009520818C9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jeff goes to the cinema. He buys a ticket for $\pounds 5.75$, popcorn for $\pounds 1.50$ and a drink for $76 \text{p}$. 
+His return train fare is $\pounds 3.80$. If he leaves home with a $\pounds 20$ note how much change does he return with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change he will receive} &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + 76 \text {p} + \pounds 3.80) \\\\
+                               &= \pounds 20 - (\pounds 5.75 + \pounds 1.50 + \pounds 0.76 + \pounds 3.80) \\\\
+                               &= 20 - 11.81 \\\\
+                               &= \pounds 8.19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 8.19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E7870838-DE3A-47DD-86EE-1A74709B54F2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2x - 3 = 11$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2x - 3  &= 11 \\\\
+2x      &= 11 + 3 \\\\
+2x      &= 14 \\\\
+x       &= \dfrac {14} {2} \\\\
+x       &= \dfrac {2 \times 7} {2} \\\\
+x       &= \dfrac {\cancel {2} \times 7} {\cancel {2}} \\\\
+x       &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{3}x - 2 = 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {2} {3} x - 2  &= 4 \\\\
+\dfrac {2} {3} x      &= 4 + 2 \\\\
+\dfrac {2} {3} x      &= 6 \\\\
+x                     &= \dfrac {3 \times 6} {2} \\\\
+x                     &= \dfrac {3 \times 2 \times 3} {2} \\\\
+x                     &= \dfrac {3 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+x                     &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3(x - 2) - 2(x - 3) = 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3(x - 2) - 2(x - 3)  &= 4 \\\\
+3x - 6 - 2x + 6      &= 4 \\\\
+3x - 2x - 6 + 6      &= 4 \\\\
+x                    &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the name that is given to this type of triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Isosceles triangle}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Isosceles triangle}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Showing your working, calculate the size of the angle:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$x \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As the triangle is an isosceles triangle, the third angle is also $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 40 + x  &= 180 \\\\
+2 x + 40    &= 180 \\\\
+2 x         &= 180 - 40 \\\\
+2 x         &= 140 \\\\
+x           &= \dfrac {140} {2} \\\\
+x           &= \dfrac {70 \times 2} {2} \\\\
+x           &= \dfrac {70 \times \cancel {2}} {\cancel {2}} \\\\
+x           &= 70 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$y \degree$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + y  &= 180 \\\\
+70 + y &= 180 \\\\
+y      &= 180 - 70 \\\\
+y      &= 110 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1B75D1B9-5669-4840-977E-AF67A1065F16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+To make porridge, Goldilocks mixes $3$ bags of oats with $1$ bag containing $20\%$ wheat bran and $80\%$ oats. 
+All the bags have the same volume. What percentage of the porridge mix is wheat bran?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage} &= 3 \times 20 \% \\\\
+                  &= 3 \times \dfrac {20} {100} \\\\
+                  &= \dfrac {20 \times 3} {100} \\\\
+                  &= \dfrac {2 \times 10 \times 3} {5 \times 2 \times 10} \\\\
+                  &= \dfrac {\cancel {2} \times \cancel {10} \times 3} {5 \times \cancel {2} \times \cancel {10}} \\\\
+                  &= \dfrac {3} {5} \\\\
+                  &= 0.6 \times 100 \\\\
+                  &= 60 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \%$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>251FBF03-47A6-429C-803A-6682014D04F1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When a glass is full of water the total mass is $400 \ \text{g}$. 
+When the glass is half full of water the total mass is $320 \ \text{g}$. Find the mass of the glass.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Mass of glass} &= 400 - (80 + 80) \\\\
+                     &= 400 - 160 \\\\
+                     &= 240 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$240 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the angles marked $x$ and $y$ in the diagram below
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 133 &= 180 \\\\
+x       &= 180 - 133 \\\\
+x       &= 47 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a quardilateral is $360 \degree$. So,
+
+$
+\begin{aligned}
+47 + 90 + y + 100 &= 360 \\\\
+y + 237           &= 360 \\\\
+y                 &= 360 - 237 \\\\
+y                 &= 123 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree, \ 123 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+p + 48  &= 180 \\\\
+p       &= 180 - 48 \\\\
+p       &= 132 \degree
+\end{aligned}
+$
+
+As it is an isosceles triangle so angle q will be equal to angle r
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+q + 48 + r  &= 180 \\\\
+q + q       &= 180 - 48 \\\\
+2 q         &= 132 \\\\
+q           &= \dfrac {132} {2} \\\\
+q           &= \dfrac {66 \times 2} {2} \\\\
+q           &= \dfrac {66 \times \cancel {2}} {\cancel {2}} \\\\
+q           &= 66 \degree
+\end{aligned}
+$
+
+$\text {q} = \text {r} = 66 \degree$
+
+r will be equal to t as they are opposite angles.
+
+$\text {r} = \text {t} = 66 \degree$
+
+Similarly,
+
+u will be equal to s.
+
+As we know, the sum of a complete angle is $360 \degree$. So,
+
+$
+\begin{aligned}
+u + r + s + t    &= 360 \\\\
+s + 66 + s + 66  &= 360 \\\\
+2 s + 132        &= 360 \\\\
+2 s              &= 360 - 132 \\\\
+2 s              &= 228 \\\\
+s                &= \dfrac {228} {2} \\\\
+s                &= \dfrac {114 \times 2} {2} \\\\
+s                &= \dfrac {114 \times \cancel {2}} {\cancel {2}} \\\\
+s                &= 114 \degree
+\end{aligned}
+$
+
+$\text {s} = \text {u} = 114 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9534D4D0-5ABE-4A31-B52C-8A1B05281589</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x = 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x &= 36 \\\\
+x  &= \dfrac {36} {3} \\\\
+x  &= \dfrac {12 \times 3} {3} \\\\
+x  &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+x  &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$c + 7 = -15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+c + 7 &= -15 \\\\
+c     &= -15 - 7 \\\\
+c     &= -22 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4 \text{p}$ - 2 = 14$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4p - 2 &= 14 \\\\
+4p     &= 14 + 2 \\\\
+4p     &= 16 \\\\
+p      &= \dfrac {16} {4} \\\\
+p      &= \dfrac {4 \times 4} {4} \\\\
+p      &= \dfrac {4 \times \cancel {4}} {\cancel {4}} \\\\
+p      &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7EFE6F8B-568B-4697-AAD0-42218DA1A407</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The perimeter of a rectangle is $22 \ \text{cm}$. One of the sides has length $8 \ \text{cm}$. 
+Calculate the lengths of the other three sides.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since opposite sides of a rectangle are equal so one of the side is of 8cm.
+
+$
+\begin{aligned}
+\text {Perimeter of rectangle}     &= 22 \\\\
+2 \times \text {(length + width)}  &= 22 \\\\
+2 \times (8 + \text {width})       &= 22 \\\\
+16 + 2 \times \text {width}        &= 22 \\\\
+2 \times \text {width}             &= 22 - 16 \\\\
+2 \times \text {width}             &= 6 \\\\
+\text {width}                      &= \dfrac {6} {2} \\\\
+\text {width}                      &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+\text {width}                      &= 3
+\end{aligned}
+$
+
+Other three sides of rectangle are 3cm, 3cm, 8cm.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {3cm, \ 3cm, \ 8cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>01216F9C-A7F5-4791-AC06-D99D4185E47A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If: $\dfrac{3}{x} \times \dfrac{4}{7} = \dfrac{3}{14}$ 
+
+Calculate the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3} {x} \times \dfrac {4} {7}  &= \dfrac {3} {14} \\\\
+\dfrac {3 \times 4} {x \times 7}      &= \dfrac {3} {14} \\\\
+\dfrac {1} {x}                        &= \dfrac {3 \times 7} {3 \times 4 \times 14} \\\\
+x                                     &= \dfrac {3 \times 4 \times 14} {3 \times 7} \\\\
+x                                     &= \dfrac {3 \times 4 \times 7 \times 2} {3 \times 7} \\\\
+x                                     &= \dfrac {\cancel {3} \times 4 \times \cancel {7} \times 2} {\cancel {3} \times \cancel {7}} \\\\  
+x                                     &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D3A08968-A69A-4BA3-95F9-C69A858F5630</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles of an isosceles triangle is $96 \degree$ . Find the sizes of the other two angles.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As the triangle is an isosceles triangle, the third angle is also $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + a + 96      &= 180  \\\\
+2a + 96         &= 180  \\\\
+2a              &= 180 - 96  \\\\
+2a              &= 84  \\\\
+a               &= \dfrac {84} {2}  \\\\
+a               &= \dfrac {42 \times 2} {2}  \\\\
+a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
+a               &= 42 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Jones is $24$ years older than her daughter. The sum of their ages is $70$ years. How old is Mrs Jones?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Mrs Jones age $=a$
+
+Her daughter's age $= a - 24$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 24 + a &= 70 \\\\
+2 a        &= 70 + 24 \\\\
+2 a        &= 94 \\\\
+a          &= \dfrac {94} {2} \\\\
+a          &= \dfrac {47 \times 2} {2} \\\\
+a          &= \dfrac {47 \times \cancel {2}} {\cancel {2}} \\\\
+a          &= 47 \ \text {years}
+\end{aligned}
+$
+
+Mrs Jones age $= 47$ years
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \ \text {years}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Jones prints books.
+
+![missing image](/papers/missing_image.svg)
+
+Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
+
+How many **pages** are in his book?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of pages $=a$
+
+It is really important to use the right units in calculations and convert where required.. Let's convert pounds in pence.
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 75 \text{p} &= \pounds 4.35 \\\\
+3 \times a + 75 \text{p} &= 4.35 \times 100 \text{p} \\\\
+3 \times a + 75          &= 435 \\\\
+3 \times a               &= 435 - 75 \\\\
+3 \times a               &= 360 \\\\
+a                        &= \dfrac {360} {3} \\\\
+a                        &= \dfrac {120 \times 3} {3} \\\\
+a                        &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
+a                        &= 120
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D7B8557B-C51F-4733-8A8F-653E8E463B35</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five friends shared the cost of a mansion (priced at $3$ million pounds) equally. How much did each of them pay ?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Let the amount given be each friend}          &= x \\\\
+5x                      &= 3000000 \\\\
+x                       &= \dfrac {3000000} {5} \\\\
+                        &= \dfrac {600000 \times \cancel{5} {\cancel{5}}} \\\\
+x                       &= 600000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>00C17084-5529-4DED-AB9D-84C6F2769CA9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$a$ and $b$ are two *different* positive whole numbers which make the following statement true
+
+$3a + 2b = 30$ 
+
+Find two possible pairs of numbers which make the statement true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+For $a =10$,
+
+$
+\begin{aligned}
+3a + 2b                             &= 30 \\\\
+3 \times 10 + 2b                    &= 30 \\\\
+30 + 2b                             &= 30 \\\\
+2b                                  &= 30 - 30 \\\\
+2b                                  &= 0 \\\\
+b                                   &= 0
+\end{aligned}
+$
+
+For $a= 2$,
+
+$
+\begin{aligned}
+3a + 2b                             &= 30 \\\\
+3 \times 2 + 2b                     &= 30 \\\\
+2b                                  &= 30 - 6 \\\\
+2b                                  &= 24 \\\\
+b                                   &= \dfrac {24} {2} \\\\
+b                                   &= \dfrac {12 \times \cancel {2}} {\cancel {2}} \\\\
+b                                   &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$a = 10,b = 0
+a = 2,b = 12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1AF27AEE-1DB6-474C-AB00-27C71B0A48B2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$p$ and $q$ are whole numbers. $p$ is $150$ greater than $q$.
+
+The following statement is also true
+                       
+$\large p + q = 1000$
+
+Calculate the numbers $p$ and $q$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$p = 150 + q$
+
+As per the question,
+
+$
+\begin{aligned}
+p + q         &= 1000 \\\\
+150 + q + q   &= 1000 \\\\
+150 + 2 q     &= 1000 \\\\
+2 q           &= 1000 - 150 \\\\
+2 q           &= 850 \\\\
+q             &= \dfrac {850} {2} \\\\
+q             &= \dfrac {425 \times 2} {2} \\\\
+q             &= \dfrac {425 \times \cancel {2}} {\cancel {2}} \\\\
+q             &= 425
+\end{aligned}
+$
+
+$
+\begin {aligned}
+p  &= 150 + q \\\\
+p  &= 150 + 425 \\\\
+p  &= 575
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$p = 575, q= 425$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4471FF90-E8D7-4ED1-8FDA-C346A528851A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two workers are paid a total of $\pounds 506$ by their employer. If one is paid $20\%$ more than the other, how much do they each earn? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Let the wage of first labourer = x} \\\\
+\text{Therefore wage of second labourer}                            &= x + \dfrac{20}{100} \times x \\\\
+                                                                    &= \dfrac{100 \times x + 20x}{100} \\\\
+                                                                    &= \dfrac{120x}{100} \\\\
+\text{Total wages}                                                  &=  506 \\\\
+x + \dfrac{120x}{100}                                               &= 506 \\\\
+\dfrac{100x + 120x}{100}                                            &= 506 \\\\
+\dfrac{220x}{100}                                                   &= 506 \\\\
+x                                                                   &= \dfrac{506 \times 100} {220} \\\\
+x                                                                   &= 23 \\\\
+\text{Wage of other worker}                                         &= 506 - 23 \\\\
+                                                                    &= 483
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23,483$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $x = 7, y = -5$ and $z = -6$, find the value of 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + y - z$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x + y - z \\\\
+&= 7 + (- 5) - (- 6) \\\\
+&= 7 - 5 + 6 \\\\
+&= 2 + 6 \\\\
+&= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$xy$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= xy \\\\
+&= 7 /times - 5 \\\\
+&= - 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 35$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-3y^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= - 3 y ^ 2 \\\\
+&= - 3 \times (-5)^2 \\\\
+&= - 3 \times 25 \\\\
+&= - 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 75$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2yz -  x^3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 y z -  x ^ 3 \\\\
+&= 2 \times (- 5) \times (- 6) - 7 ^ 3 \\\\
+&= 60 - 343 \\\\
+&= - 280
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 280$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9534E5E7-9ED2-4503-B261-575DFA10853E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, then subtract fifteen. The result is thirty-seven.
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$ 
+
+$
+\begin{aligned}
+x - 15                  &= 37 \\\\
+x                       &= 37 + 15 \\\\
+x                       &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, multiply it by six, then subtract nine. The result is thirty-three. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$ 
+
+$
+\begin{aligned}
+x \times 6 - 9                      &= 33 \\\\
+x \times 6                          &= 33 + 9 \\\\
+x \times 6                          &= 42 \\\\
+x                                   &= \dfrac {42} {6} \\\\
+x                                   &= \dfrac {7 \times 6} {6} \\\\
+x                                   &= \dfrac {7 \times \cancel {6}} {\cancel {6}} \\\\
+x                                   &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, double it, then add fifteen. The result is three. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$ 
+
+$
+\begin{aligned}
+2x + 15                         &= 3 \\\\
+2x                              &= 12 \\\\
+x                               &= \dfrac {12} {2} \\\\
+x                               &= \dfrac {6 \times 2} {2} \\\\
+x                               &= \dfrac {6 \times \cancel {2}} {\cancel {2}} \\\\
+x                               &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $a = 9, b = -2$ and $c = -7$, find the value of the following expressions 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$abc$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= abc \\\\
+&= 9 \times (-2) \times (-7) \\\\
+&= (-18) \times (-7) \\\\
+&= 126
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$126$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$bc^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= bc^2 \\\\
+&= (-2) \times (-7)^2 \\\\
+&= (-2) \times 49 \\\\
+&= - 98
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 98$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3a - 2b + 4c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3a - 2b + 4c \\\\
+&= 3 \times 9 - 2 \times (-2) + 4 \times (-7) \\\\
+&= 27 + 4 - 28 \\\\
+&= 31 - 28 \\\\
+&= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For the questions below, form an equation from the given information and solve it to find the answer. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, add five and then divide by two. My answer is $-19$.
+
+What number was I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a + 5) \div 2                  &= -19 \\\\
+a + 5                           &= -19 \times 2 \\\\
+a + 5                           &= -38 \\\\
+a                               &= -38 - 5 \\\\
+a                               &= -43
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-43$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Twice a number added to half of the same number gives $250$.
+
+What was the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 a + \dfrac{a} {2}                                &= 250 \\\\
+\dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 250 \\\\
+\dfrac{4 a} {2} + \dfrac {a} {2}                   &= 250 \\\\
+\dfrac{4 a + a} {2}                                &= 250 \\\\
+\dfrac{5a} {2}                                     &= 250 \\\\
+a                                                  &= \dfrac {250 \times 2} {5} \\\\
+a                                                  &= \dfrac {50 \times 5 \times 2} {5} \\\\
+a                                                  &= \dfrac {50 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+a                                                  &= 50 \times 2 \\\\
+a                                                  &= 100
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When eighteen is added to twice the square of a number, the result is $50$.
+
+What are the two possible starting numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+18 + 2(a ^ 2)                   &= 50 \\\\
+2(a ^ 2)                        &= 50 - 18 \\\\
+2(a ^ 2)                        &= 32 \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= 16 \\\\
+a                               &= \sqrt 16 \\\\
+a                               &= + 4 \ \text{and} \ -4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$+ 4, \ -4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When three tenths of a number is subtracted from ninety-five hundreds of the same number, the result is $1.95$.
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3 a} {10} - \dfrac {90 a} {500}                      &= 1.95 \\\\
+\dfrac {3 a \times 50} {10 \times 50} - \dfrac {90 a} {500}  &= 1.95 \\\\
+\dfrac {150 a} {500} - \dfrac {90 a} {500}                   &= 1.95 \\\\
+\dfrac {150 a - 90a} {500}                                   &= 1.95 \\\\
+\dfrac {60 a} {500}                                          &= 1.95 \\\\
+a                                                            &= \dfrac {1.95 \times 500} {60} \\\\
+a                                                            &= \dfrac {975} {60} \\\\
+a                                                            &= 16.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16.25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An iPad used to cost $\pounds 330$. Since Brexit the price has increased by $22\%$.
+
+How much does it cost now? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 22 \% \times 330 \\\\
+&= \dfrac{22}{100} \times 330 \\\\
+&= \dfrac{22 \times 330}{100} \\\\
+&= \dfrac{7260} {100} \\\\
+&= \dfrac{726 \cancel {0}} {10 \cancel{0}} \\\\
+&= 72.6 \\\\
+&= 330 + 72.6 \\\\
+&= 402.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$402.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ED31C65A-6892-4ACD-8993-0B84DA0D7854</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$a$ and $b$ are two *different, positive* whole numbers which make the following statement true
+
+$4a + 3b = 48$
+
+
+Find two possible pairs of numbers which make the statement above true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let $a =12$
+
+$
+\begin{aligned}
+4 \times 12 + 3b                                &= 48 \\\\
+48 + 3b                                         &= 48 \\\\
+3b                                              &= 48 - 48 \\\\
+b                                               &= 0
+\end{aligned}
+$
+
+Let $a =3$
+
+$
+\begin{aligned}
+4 \times 3 + 3b                                 &= 48 \\\\
+12 + 3b                                         &= 48 \\\\
+3b                                              &= 48 - 12 \\\\
+3b                                              &= 36 \\\\
+b                                               &= \dfrac {36} {3} \\\\
+b                                               &= \dfrac {12 \times 3} {3} \\\\
+b                                               &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+b                                               &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$a=12 b=0,a=3 b=12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>552DEC74-2708-4D2D-A029-1CDE7C952691</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $x = 3, y = -7$ and $z = -9$, find the value of 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + y - z$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x + y - z \\\\
+&= 3 - 7 + 9 \\\\
+&= 12 - 7 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$xy$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= xy \\\\
+&= 3 \times -7 \\\\
+&= -21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-21$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-3y^{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= -3y^{2} \\\\
+&= 3 \times -7 \times -7 \\\\
+&= 147
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$147$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2yz - x^3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2yz - x^3 \\\\
+&= 2 \times -7 \times -9 - 3 \times 3 \times 3 \\\\
+&= 126 - 9 \\\\
+&= 117
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$117$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>571A23DE-783B-477A-9FCD-DE43E95FF88D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, then subtract fifteen. The result is thirty-seven.
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x - 15                                                  &= 37 \\\\
+x                                                       &= 37 + 15 \\\\
+x                                                       &= 52 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, multiply it by six, then subtract nine. The result is thirty-three. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x \times 6 - 9                                      &= 33 \\\\
+x \times 6                                          &= 33 + 9 \\\\
+x \times 6                                          &= 42
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, double it, then add fifteen. The result is three. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x \times 2 + 15                                         &= 3 \\\\
+2x                                                      &= 3 - 15 \\\\
+                                                        &= \dfrac{-12}{2} \\\\
+                                                        &= -6
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The six angles of two different triangles are listed in decreasing order. The list starts $115 \degree, 85 \degree, 75 \degree$ and $35 \degree$. 
+
+What is the last angle in the list? Explain your answer.
+
+*Hint: Remember that the angles inside any triangle always add up to 180 degrees*. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle of first triangle $= a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 115 + 35    &= 180 \\\\
+a + 150         &= 180 \\\\
+a               &= 180 - 150 \\\\
+a               &= 30 \degree
+\end{aligned}
+$
+
+Let the third angle of second triangle $= b$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+b + 85 + 75     &= 180 \\\\
+b + 160         &= 180 \\\\
+b               &= 180 - 160 \\\\
+b               &= 20 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A9164CFF-D274-477E-B9D2-26D22F572507</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The area of a square is $0.25 \ \text{m}^2$. What is the perimeter of the square, in metres? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+l \times l                                              &= 0.25 \\\\
+l ^ 2                                                   &= 0.25 \\\\
+l                                                       &= \sqrt(0.25) \\\\
+l                                                       &= 0.5 \\\\
+\text{perimeter}                                        &= 4 \times l \\\\
+                                                        &= 4 \times 0.25 \\\\
+                                                        &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F2F22AA6-D55F-4788-A3CE-CE3F27F8216D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $a = 11, b = -3$ and $c = -6$, find the value of the following expressions 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$abc$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= abc \\\\
+&= 11 \times -3 \times -6 \\\\
+&= 198
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$198$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$bc^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= bc^2 \\\\
+&= -3 \times -6 \times -6 \\\\
+&= -108
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-108$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3a - 2b - 4c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3a - 2b - 4c \\\\
+&= 3 \times 11 - 2 \times -3 - 4 \times -6 \\\\
+&= 33 + 6 + 24 \\\\
+&= -108
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-108$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4BCDEBB4-C5C3-44DB-A1DD-D9936C5BD615</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For the questions below, form an equation from the given information and solve it to find the answer. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, add five and then divide by two. My answer is $-17$.
+
+What number was I thinking of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a + 5) \div 2                  &= -17 \\\\
+a + 5                           &= -17 \times 2 \\\\
+a + 5                           &= -34 \\\\
+a                               &= -34 - 5 \\\\
+a                               &= -39
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-39$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Twice a number added to half of the same number gives $90$.
+
+What was the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 a + \dfrac{a} {2}                                &= 90 \\\\
+\dfrac {2 a \times 2} {1 \times 2} + \dfrac{a} {2} &= 90 \\\\
+\dfrac{4 a} {2} + \dfrac {a} {2}                   &= 90 \\\\
+\dfrac{4 a + a} {2}                                &= 90 \\\\
+\dfrac{5a} {2}                                     &= 90 \\\\
+a                                                  &= \dfrac {90 \times 2} {5} \\\\
+a                                                  &= \dfrac {18 \times 5 \times 2} {5} \\\\
+a                                                  &= \dfrac {18 \times \cancel {5} \times 2} {\cancel {5}} \\\\
+a                                                  &= 18 \times 2 \\\\
+a                                                  &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When two is added to twice the square of a number, the result is $100$.
+
+What are the two possible starting numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 + 2(a ^ 2)                    &= 100 \\\\
+2(a ^ 2)                        &= 100 - 2 \\\\
+2(a ^ 2)                        &= 98 \\\\
+a ^ 2                           &= \dfrac {98} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {49 \times \cancel {2}} {\cancel {2}} \\\\
+a ^ 2                           &= 49 \\\\
+a                               &= \sqrt 49 \\\\
+a                               &= + 7 \ \text{and} \ -7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$+ 7, \ - 7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When three tenths of a number is subtracted from ninety-five hundreds of the same number, the result is $1.95$.
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {90 a} {500} - \dfrac {3 a} {10}                      &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {3 a \times 50} {10 \times 50}  &= 1.95 \\\\
+\dfrac {90 a} {500} - \dfrac {150 a} {500}                   &= 1.95 \\\\
+\dfrac {90 a - 150 a} {500}                                  &= 1.95 \\\\
+-\dfrac {60 a} {500}                                         &= 1.95 \\\\
+a                                                            &= - \dfrac {1.95 \times 500} {60} \\\\
+a                                                            &= - \dfrac {1.95 \times 50 \cancel {0}} {6 \cancel {0}} \\\\
+a                                                            &= - \dfrac {1.95 \times 50} {6} \\\\
+a                                                            &= - 16.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-16.25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A7038F51-E366-4F8B-B11C-1F52FFF128CF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Where possible, fully simplify the following algebraic expressions 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x \div x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x \div x \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x - x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x - x \\\\
+&= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + 2x - 3 - 4x + 9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x + 2x - 3 - 4x + 9 \\\\
+&= -x + 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-x + 6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x \times x \times 2x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5x \times x \times 2x \\\\
+&= 5 x ^2 \times 2x \\\\
+&= 10 x ^ 3 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10x ^ 3$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations, leaving your answers as improper fractions where necessary. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x - 11 = 34$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 11  &= 34 \\\\
+5x       &= 34 + 11 \\\\
+5x       &= 45 \\\\
+x        &= \dfrac{45} {5} \\\\
+x        &= \dfrac{9 \times 5} {5} \\\\
+x        &= \dfrac{9 \times \cancel {5}} {\cancel {5}} \\\\
+x        &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{x}{2} - 3 = \dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {x} {2} - 3   &= \dfrac {1} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + 3 \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{3 \times 2} {1 \times 2} \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{6} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {1 + 6} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {7} {2} \\\\
+x                    &= \dfrac {7} {2} \times 2 \\\\
+x                    &= \dfrac {7 \times 2} {2} \\\\
+x                    &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                    &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 + \dfrac{2x - 3}{7}  = 8$
+  
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 + \dfrac {2x - 3} {7} &= 8 \\\\
+\dfrac {2x - 3} {7}     &= 8 - 3 \\\\
+\dfrac {2x - 3} {7}     &= 5 \\\\
+2x - 3                  &= 5 \times 7 \\\\
+2x - 3                  &= 35 \\\\
+2x                      &= 35 + 3 \\\\
+2x                      &= 38 \\\\
+x                       &= \dfrac {38} {2} \\\\
+x                       &= \dfrac {19 \times 2} {2} \\\\
+x                       &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+x                       &= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6x - 9 = 15 - 7x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+6x - 9      &= 15 - 7x \\\\
+6x + 7x     &= 15 + 9 \\\\
+13x         &= 24 \\\\
+x           &= \dfrac {24} {13} \\\\
+x           &= 1 \ \dfrac {11} {13}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \dfrac {11} {13}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5(x - 6) = 25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5(x - 6)      &= 25 \\\\
+x - 6         &= \dfrac{25} {5} \\\\
+x - 6         &= \dfrac {5 \times 5} {5} \\\\
+x - 6         &= \dfrac {\cancel{5} \times 5} {\cancel{5}} \\\\
+x - 6         &= 5 \\\\
+x             &= 5 + 6 \\\\
+x             &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x - 9 = \dfrac{1}{4}x + \dfrac{1}{2}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x - 9                                              &= \dfrac {1} {4}x + \dfrac {1} {2} \\\\
+3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
+\dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
+\dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \dfrac {5} {11}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>183E5936-AE5B-4F69-9E14-3F492AF14DA3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $a = 6, b = -2$ and $c = -5$, find the value of the following expressions 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$abc$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= abc \\\\
+&= 6 \times -2 \times -5 \\\\
+&= 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$bc^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= bc^2 \\\\
+&= -2 \times -5 \times -5 \\\\
+&= -50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-50$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3a - 2b - 4c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 3a - 2b - 4c \\\\
+&= 3 \times 6 - 2 \times -2 - 4 \times -5 \\\\
+&= 18 + 4 + 20 \\\\
+&= 42
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+*You should solve the following questions by defining an unknown, forming an equation and solving it using an algebraic method*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Five times a number is eight less than three times the number.
+
+Find the number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the the question,
+
+$
+\begin{aligned}
+5x + 8                                           &= 3x \\\\
+5x - 3x                                          &= -2 \\\\
+x                                                &= -1                                            
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John thought of a number. He subtracted ten and then divided by three.
+
+The result was the same as when multiplying the original number by two.
+
+What number did John think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the the question,
+
+$
+\begin{aligned}
+(x - 10) \div 3                                                &= 2x \\\\
+x- 10                                                          &= 6x \\\\
+x - 6x                                                         &= 10 \\\\
+-5x                                                            &= 10 \\\\
+x                                                              &= 10 \div -2 \\\\
+x                                                              &= -5 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The width of a rectangle is four times its height. 
+
+The perimeter is $12 \ \text{cm}$.
+
+Find the dimensions of the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+width                                 &= 4 \times height \\\\
+2 (width + height)                    &= 12 \\\\
+2 (4 \times height + height)          &= 12 \\\\
+5 \times height                       &= 6 \\\\
+height                                &= 6 /div 5 \\\\
+                                      &= 1.2 \\\\
+width                                 &= 4 \times 1.2 \\\\
+                                      &= 4.8
+
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.2,4.8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John wanted to buy a boat.
+
+Boat $A$ cost $\pounds 34{,}567{,}300$. Boat $B$ cost $\pounds 23{,}997{,}324$.
+
+Calculate the difference between the two prices.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Difference between prices} &= 34567300 - 23997324 \\\\
+                                 &= 10569976
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10569976$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Polly’s bill in a shop came to $\pounds 374.67$.
+
+Ellie’s bill came to $\pounds 263.21$.
+
+What was the total they spent altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total spent} &= 374.67 + 263.21 \\\\
+                   &= \pounds 637.88
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 637.88$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A box contains $37$ chocolates. How many chocolates would there be in $26$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Chocolate in 26 boxes} &= 26 \times 37 \\\\
+                             &= 962
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$962$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Seven computers cost $\pounds 882$. Find the cost of one computer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of one computer} &= \dfrac {882} {7} \\\\
+                            &= \dfrac {126 \times 7} {7} \\\\
+                            &= \dfrac {126 \times \cancel {7}} {\cancel {7}} \\\\
+                            &= \pounds 126
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 126$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$650$ calculators need to be shipped in boxes. A maximum of $24$ calculators fit in each box.How many boxes are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total boxes needed}   &= \dfrac {650} {24} \\\\
+                            &= \dfrac {650} {24} \\\\
+                            &= 27.08 \\\\
+                            &= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An iPhone used to cost $\pounds 500$. Since Brexit the price has increased by $22\%$.How much does it cost now? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 22 \% \times 500 \\\\
+&= \dfrac {22} {100} \times 500 \\\\
+&= \dfrac {22 \times 500} {100} \\\\
+&= \dfrac {11000} {100} \\\\
+&= \dfrac {110 \cancel {00}} {1 \cancel{00}} \\\\
+&= 110 \\\\
+&= 500 + 110 \\\\
+&= 610
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$610$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B46513A7-1E27-44FD-8AD7-EA8D3C19DE4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$a$ and $b$ are two different, positive whole numbers which make the following statement true
+
+$3a + 2b = 48$
+
+Find two possible pairs of numbers which make the statement above true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let $a=12$
+
+$
+\begin{aligned}
+3 \times 12 + 2b                                &= 48 \\\\
+2b                                              &= 48 - 48 \\\
+b                                               &= 0
+\end{aligned}
+$
+
+Let $a=4$
+
+$
+\begin{aligned}
+3 \times 4 + 2b                                 &= 48 \\\\
+2b                                              &= 48 - 12 \\\\
+2b                                              &= 36 \\\\
+b                                               &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$(12,0),(4,18)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The length of race track A is $3420.4 \ \text{metres}$.
+
+The length of race track B is $74539.7 \ \text{metres}$.
+
+If a car travelled once around each race track, how far would it have travelled, in metres?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total distance} &= 3420.4 + 74539.7 \\\\
+                      &= 77960.1 \ \text{metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$77960.1 \ \text{metres}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A lorry can carry $68$ boxes, and each box contains $22$ books.
+
+How many books can the lorry carry?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total books} &= 68 \times 22 \\\\
+                   &= 1496
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1496$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2341 \ \text{litres}$ of water need to be carried in containers that are $21 \ \text{litres}$.
+
+How many containers will be needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Containers needed} &= \dfrac {2341} {21} \\\\
+                         &= 111.47 \\\\
+                         &= 112
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$112$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Interest is earned at a rate of $13\%$ per year.
+
+How much interest is earned on a starting balance of $\pounds 3058$, deposited for one year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Interest earned} &= 13 \% \times 3058 \\\\
+                       &= \dfrac {13} {100} \times 3058 \\\\
+                       &= \dfrac {13 \times 3058} {100} \\\\
+                       &= \dfrac {39754} {100} \\\\
+                       &= \pounds 397.54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 397.54$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Subtract three sevenths from five sixths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {6} - \dfrac {3} {7} \\\\
+&= \dfrac {5 \times 7} {6 \times 7} - \dfrac {3 \times 6} {7 \times 6} \\\\\
+&= \dfrac {35} {42} - \dfrac {18} {42} \\\\
+&= \dfrac {35 - 18} {42} \\\\
+&= \dfrac {17} {42}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {42}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $x = -2, y = 3$ and $z = -1$, find the value of 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + y - z$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= x + y - z \\\\
+&= -2 + 3 -(-1) \\\\
+&= -2 + 3 + 1 \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$xz$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= xz \\\\
+&= -2 \times (-1) \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-3x^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= -3x^2 \\\\
+&= -3(-2)^2 \\\\
+&= -3(4) \\\\
+&= -12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2xy - z^3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned]
+&= 2xy - z^3 \\\\
+&= 2 \times -2 \times 3 - (-1)^3 \\\\
+&= -12 - (-1) \\\\
+&= -12 + 1 \\\\
+&= -11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-11$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, then subtract twelve. The result is eighteen.
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x - 12                                                          &= 18 \\\\
+x                                                               &= 18 + 12 \\\\
+x                                                               &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, multiply it by six, then subtract nine. The result is minus thirty nine. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x \times 6 - 9                                          &= -39 \\\\
+x \times 6                                              &= -39 + 9 \\\\
+x \times 6                                              &= -30 \\\\
+x                                                       &= -30 \div 6 \\\\
+x                                                       &= -5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, double it, then subtract twelve. The result is negative three. 
+
+What was the original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=x$
+
+As per the question,
+
+$
+\begin{aligned}
+x \times 2 - 12                                                 &= -3 \\\\
+x \times 2                                                      &= -3 + 12 \\\\
+x \times 2                                                      &= 9 \\\\
+x                                                               &= 9 \div 2 \\\\
+                                                                &= 4.5 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations, giving your answers as whole numbers or fractions. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x -7 = 5x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 x - 7    &= 5 x + 7 \\\\
+3 x - 5 x  &= 7 + 7 \\\\
+- 2 x      &= 14 \\\\
+x          &= - \dfrac {14} {2} \\\\
+x          &= - \dfrac {7 \times 2} {2} \\\\
+x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x          &= - 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
+\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x}{6}                                                    &= 8 \\\\
+x                                                               &= 8 \times 6 \\\\
+                                                                &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EE39E7C4-5AC8-49F1-9A96-C9762A697117</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The perimeter of a rectangle is $14 \ \text{cm}$.
+
+If the length of the rectangle is $2 \ \text{cm}$ longer than the width, calculate the **area** of the rectangle. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the breadth of rectangle $= x$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Length}                                          &= x + 2 \\\\
+2 \times (l + b)                                        &= 14 \\\\
+2 \times(x + x + 2)                                     &= 14 \\\\
+(2x + 2)                                                &= \dfrac {14} {2} \\\\
+(2x + 2)                                                &= \dfrac {7 \times 2} {2} \\\\
+(2x + 2)                                                &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+2x + 2                                                  &= 7 \\\\
+2x                                                      &= 7 - 2 \\\\
+2x                                                      &= 5 \\\\
+x                                                       &= \dfrac {5} {2} \\\\
+\text{length}                                           &= \dfrac {5} {2} + 2 \\\\
+                                                        &= \dfrac {5} {2} + \dfrac {2 \times 2} {1 \times 2} \\\\
+                                                        &= \dfrac {5} {2} + \dfrac {4} {2} \\\\
+                                                        &= \dfrac {5 + 4} {2} \\\\
+                                                        &= \dfrac{9}{2} \\\\
+\text {area}                                            &= \text {l} \times \text {b} \\\\
+                                                        &= \dfrac {5} {2} \times \dfrac {9} {2} \\\\
+                                                        &= \dfrac {5 \times 9} {2 \times 2} \\\\
+                                                        &= \dfrac {45} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{45}{4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33950D66-0394-4747-B53F-98D8262D12EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school has $995$ pupils. If there are $7$ less girls than boys, how many boys are there in the school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of boys $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{No. of boys}                                              &= \text{Total pupil} - \text{No. of girls} \\\\
+b                                                               &= 995 - (b - 7) \\\\
+b                                                               &= 995 - b + 7 \\\\
+b + b                                                           &= 995 + 7 \\\\
+2b                                                              & = 1002 \\\\
+b                                                               &= \dfrac {1002} {2} \\\\
+b                                                               &= \dfrac {2 \times 501} {2} \\\\
+b                                                               &= \dfrac {\cancel{2} \times 501} {\cancel{2}} \\\\
+b                                                               &= 501
+\end{aligned}
+$
+
+Number of boys in the school $= 501$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$501$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\dfrac {2} {5}$ of the children in a class are boys. There are $12$ girls in the class. How many boys are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of children $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
+c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+c                                                    &= \dfrac {2a} {5} + 12 \\\\
+c - \dfrac {2c} {5}                                  &= 12 \\\\
+\dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
+\dfrac {5c - 2c} {5}                                 &= 12 \\\\
+3c                                                   &= 12 \times 5 \\\\
+c                                                    &= \dfrac {12 \times 5} {3} \\\\
+c                                                    &= \dfrac {3 \times 4 \times 5} {3} \\\\
+c                                                    &= \dfrac {\cancel{3} \times 4 \times 5} {\cancel{3}} \\\\
+c                                                    &= 20
+\end{aligned}
+$
+
+The total number of children in class $= 20$
+
+Let's find the total number of boys.
+
+$
+\begin{aligned}
+\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
+                                                &= 20 - 12 \\\\
+                                                &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A ruler costs $x$ pence and a pen costs $y$ pence. Which of the statements below represents the cost of $4$ pens and $6$ rulers? Circle your answer
+
+$10xy$
+
+$6x+4y$
+
+$6y+4x$
+
+$10(x+y)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of a ruler}                 &= x \ \text{pence} \\\\
+\text{Cost of a pen}                   &= y \ \text{pence} 
+\end{aligned}
+$
+
+Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$6x + 4y$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>94C2C3F2-69F9-49F2-946E-30BF9FEA63BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When you add up two numbers you get $35$, but when you subtract the two numbers you get $13$. What are the two numbers? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b                    &= 35 \\\\
+a - b                    &= 13
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)          &= 35 - 13 \\\\
+a + b - a + b            &= 22 \\\\
+2b                       &= 22 \\\\
+b                        &= \dfrac {22} {2} \\\\
+b                        &= \dfrac {2 \times 11} {2} \\\\
+b                        &= \dfrac {\cancel{2} \times 11} {\cancel{2}} \\\\
+b                        &= 11
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                    &= 35 \\\\
+a + 11                   &= 35 \\\\
+a                        &= 35 - 11 \\\\
+a                        &= 24
+\end{aligned}
+$
+
+First number $= 24$
+
+Second number $= 11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{and} \ 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When you add up two numbers you get $11$, but when you multiply the two numbers you get $28$. What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b               &= 11 \\\\
+a \times b          &= 28
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+Factors of $28 = 1, 2, 4, 7, 14, 28$
+
+| Numbers   |  Multiplication  |           Sum           |
+|:-------:  |:---------------: |:----------------------: |
+| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
+| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
+| $4, 7$    |       $28$       | $4 + 7 = 11$            |
+
+The two numbers are $= 4 \ \text{and} \ 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{and} \ 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F144AB4B-7F3C-4D5C-A3B8-FD43E18D9B4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, double it and take away $5$. The answer is $13$. What was my number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2a - 5                                                       &= 13 \\\\
+2a                                                           &= 13 + 5 \\\\
+2a                                                           &= 18 \\\\
+a                                                            &= \dfrac {18} {2} \\\\
+a                                                            &= \dfrac {9 \times 2} {2} \\\\
+a                                                            &= \dfrac {9 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                            &= 9
+\end{aligned}
+$
+
+The number I thought of $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of another number, take away $5$ and then double it. My answer is again $16$. What was my number this time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+2(a - 5)                                                     &= 16 \\\\
+2a - 10                                                      &= 16 \\\\
+2a                                                           &= 16 + 10 \\\\
+2a                                                           &= 26 \\\\
+a                                                            &= \dfrac {26} {2} \\\\
+a                                                            &= \dfrac {13 \times 2} {2} \\\\
+a                                                            &= \dfrac {13 \times \cancel{2}} {\cancel{2}} \\\\
+a                                                            &= 13
+\end{aligned}
+$
+
+The other number I thought of $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally I think of another number, multiply it by itself and take away $5$. My answer is $31$. What was the number I thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the final number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a^{2} - 5                                                &= 31 \\\\
+a^{2}                                                    &= 31 + 5 \\\\
+a^{2}                                                    &= 36 \\\\
+a^{2}                                                    &= 6 \times 6 \\\\
+a^{2}                                                    &= 6^{2} \\\\
+a                                                        &= 6
+\end{aligned}
+$
+
+The final number I thought of $= 6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Richard is $12$ years old.
+
+Adam is $\text{twice}$ as old as Richard.
+
+Will is $\dfrac{2}{3}$  of Adam’s age.
+        
+What is their total age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Richard's age}    &= 12 \\\\
+\text{Adam's age}       &= 2 \times \text{Richard's age}  \\\\
+                        &= 2 \times 12 \\\\
+                        &= 24 \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {2} {3} \times 24 \\\\
+                        &= 16 \\\\
+\text{Total age}        &= 12 + 24 + 16 \\\\
+                        &= 52
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D8DDAA97-5C24-49AD-AD19-FECB4EA32A69</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three quarters of a local tennis club are girls. There are $20$ boys in the club. How many girls are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of children $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total children}                                    &= \text{Total girls} + \text{Total boys} \\\\
+a                                                        &= \dfrac {3a} {4} + 20 \\\\
+a - \dfrac {3a} {4}                                      &= 20 \\\\
+\dfrac {a \times 4} {1 \times 4} - \dfrac {3a} {4}       &= 20 \\\\
+\dfrac {4a -3a} {4}                                      &= 20 \\\\
+4a -3a                                                   &= 20 \times 4 \\\\
+a                                                        &= 80
+\end{aligned}
+$
+
+The total number of children in the club $= 80$
+
+Let's find how many girls are in the club.
+
+$
+\begin{aligned}
+\text{Total girls}                                       &= \text{Total children} - \text{Total boys} \\\\
+                                                         &= 80 - 20 \\\\
+                                                         &= 60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Richard is $18$ years old.
+
+Adam is half as old as Richard.
+
+Will is $\dfrac{2}{3}$ of Adam's age.
+
+What is their total age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Richard's age}    &= 18 \\\\
+\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
+                        &= \dfrac {18} {2} \\\\
+                        &= \dfrac {2 \times 9} {2} \\\\
+                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
+                        &= 9 \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {2} {3} \times 9 \\\\
+                        &= \dfrac {2 \times 9} {3} \\\\
+                        &= \dfrac {2 \times 3 \times 3} {3} \\\\
+                        &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
+                        &= 2 \times 3 \\\\
+                        &= 6 \\\\
+\text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
+                        &= 18 + 9 + 6 \\\\
+                        &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4C9A3109-398C-46C7-B66E-8EC1E868DD8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find two numbers that have a difference of $8$ and added upto $18$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first number $= a$
+
+Let the second number $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a - b                    &= 8 \\\\
+a + b                    &= 18
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Add the second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a - b + (a - b)          &= 8 + 18 \\\\
+a - b + a + b            &= 26 \\\\
+2a                       &= 26 \\\\
+a                        &= \dfrac {26} {2} \\\\
+a                        &= \dfrac {2 \times 13} {2} \\\\
+a                        &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+a                        &= 13
+\end{aligned}
+$
+
+Let's substitute the value of $a$ in one of the equations.
+
+$
+\begin{aligned} 
+a + b                    &= 18 \\\\
+13 + b                   &= 18 \\\\
+b                        &= 18 - 13 \\\\
+b                        &= 5
+\end{aligned}
+$
+
+Two numbers that have a difference of 8 and added upto 18 are $= 13$ and $5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \ \text{and} \ 5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>80A03144-6FE7-47FE-80C3-2CE1292F70D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What Is the area of each individual square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text{Area of individual square}                    &= \dfrac {\text{Total area}} {\text{No. of squares}} \\\\
+                                                    &= \dfrac {20 \text{m}^{2}} {5} \\\\
+                                                    &= \dfrac {4 \times 5} {5} \\\\
+                                                    &= \dfrac {4 \times \cancel{5}} {\cancel{5}} \\\\
+                                                    &= 4 \text{m}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \text{m}^{2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What Is the length of each side of each Individual square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of each side of the individual square (in m) $= a$
+
+$
+\begin{aligned}
+\text{Area} &= \text{side} \times \text{side} \\\\
+a \times a                                      &= 4 \text{m}^{2} \\\\
+a^{2}                                           &= 2^{2} \\\\
+a                                               &= 2 \text{m}
+\end{aligned}
+$
+
+The length of each side of the individual square $= 2 \text{m}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What Is the perimeter of the path?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text{Perimeter}                                    &= \text{Sum of all sides} \\\\
+                                                    &= 2 \text{m} \times 12 \\\\
+                                                    &= 24 \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of chocolate in the bar $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
+a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
+a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
+a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
+\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
+\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
+\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
+\dfrac {a} {6}                                                                                              &= 100 \\\\
+a                                                                                                           &= 100 \times 6 \\\\
+a                                                                                                           &= 600 \text{g}
+\end{aligned}
+$
+
+The bar was having $600$ \text{g} chocolates originally.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has area $49\ \text{cm}^2$. What is the perimeter of the square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, 
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the square (in cm) $= a$
+
+$
+\begin{aligned}
+a \times a                                      &= 49 \ \text{cm}^2\\\\
+a^{2}                                           &= 7^{2} \\\\
+a                                               &= 7 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 7 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 7 \\\\
+                                                &= 28 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D10222B7-3539-4A50-96F9-131B2DC288B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, divide it by $3$, then add $7$. The result is $18$. What was the number I first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a} {3} + 7                                  &= 18 \\\\
+\dfrac {a} {3}                                      &= 18 - 7 \\\\
+\dfrac {a} {3}                                      &= 11 \\\\
+a                                                   &= 11 \times 3 \\\\
+a                                                   &= 33
+\end{aligned}
+$
+
+The number I think of $= 33$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows an equilateral triangle.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In an equilateral triangle all three sides are equal.
+
+As per the diagram,
+
+$
+\begin{aligned}
+4x + 5              &= 21 \\\\
+4x                  &= 21 - 5 \\\\
+4x                  &= 16 \\\\
+x                   &= \dfrac {16} {4} \\\\
+x                   &= \dfrac {4 \times 4} {4} \\\\
+x                   &= \dfrac {\cancel{4} \times 4} {\cancel{4}} \\\\
+x                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In an equilateral triangle all three sides are equal in length.
+
+As per the diagram,
+
+$
+\begin{aligned}
+3y - 3              &= 21 \\\\
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $𝑥$ in the triangle shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, the sum of angles in a triangle is $180 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
+x                                        &= 180 - 90 - 35 \\\\
+x                                        &= 55 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Martin and Dai divide some sweets between them. There are $65$ sweets, and Martin takes $7$ more than Dai. How many does Martin take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of sweets Martin take $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Sweets Martin take}                               &= \text{Total sweets} - \text{Sweets Dai take} \\\\
+a                                                       &= 65 - (a - 7) \\\\
+a                                                       &= 65 - a + 7 \\\\
+a + a                                                   &= 65 + 7 \\\\
+2a                                                      &= 72 \\\\
+a                                                       &= \dfrac {72} {2} \\\\
+a                                                       &= \dfrac {2 \times 36} {2} \\\\
+a                                                       &= \dfrac {\cancel{2} \times 36} {\cancel{2}} \\\\
+a                                                       &= 36
+\end{aligned}
+$
+
+Number of sweets Martin take $= 36$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1386CD9E-4F45-4B19-8D78-E266D298EDFB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In an orchestra there are $60$ children. If $\dfrac {1} {5}$ play the recorder and $40\%$ play the triangle, how many children play something else?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the number of children playing something else.
+
+$
+\begin{aligned}
+&= \text{Total children - Playing recorder - Playing triangle}  \\\\
+&= 60 - \dfrac {1} {5} \times 60 - 40\% \times 60 \\\\
+&= 60 - \dfrac {1 \times 60} {5} - \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {5 \times 12} {5} -  \dfrac {40 \times 60} {100} \\\\
+&= 60 - \dfrac {\cancel{5} \times 12} {\cancel{5}}  -\dfrac {4 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= 60 - 12 - 24 \\\\
+&= 24
+\end{aligned}
+$
+
+Number of children playing something else $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FB99253B-2684-4954-B0CD-C244509033ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has area $64\ \text{cm}^2$. What is the perimeter of the square? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the square (in cm) $= a$
+
+
+$
+\begin{aligned}
+a \times a                                      &= 64 \ \text{cm}^2\\\\
+a^{2}                                           &= 8^{2} \\\\
+a                                               &= 8 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 8 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 8 \\\\
+                                                &= 32 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a regular pentagon.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+3x + 5                                              &= 17 \\\\
+3x                                                  &= 17 - 5 \\\\
+3x                                                  &= 12 \\\\
+x                                                   &= \dfrac {12} {3} \\\\
+x                                                   &= \dfrac {3 \times 4} {3} \\\\
+x                                                   &= \dfrac {\cancel{3} \times 4} {\cancel{3}} \\\\
+x                                                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $𝑦$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+2y - 9                                              &= 17 \\\\
+2y                                                  &= 17 + 9 \\\\
+2y                                                  &= 26 \\\\
+y                                                   &= \dfrac {26} {2} \\\\
+y                                                   &= \dfrac {2 \times 13} {2} \\\\
+y                                                   &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+y                                                   &= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $𝑥$ in the quadrilateral shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of all four angles of a quadrilateral is $360 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
+x                                                             &= 360 - 110 - 100 - 75 \\\\
+x                                                             &= 75 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If a square has an area of $36cm^2$, what is its perimeter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of a square $= \text{Side} \times \text{Side}$
+
+As per the question,
+
+Let the length of the side of the square (in cm) $= a$
+
+$
+\begin{aligned}
+a \times a                                      &= 36 \ \text{cm}^2\\\\
+a^{2}                                           &= 6^{2} \\\\
+a                                               &= 6 \ \text{cm}
+\end{aligned}
+$
+
+The length of the side of the square $= 6 \ \text{cm}$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter of the square}                  &= 4 \times a \\\\
+                                                &= 4 \times 6 \ \text{cm} \\\\
+                                                &= 24 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the value of 𝑥 in the triangle shown.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of all three angles of a triangle is $180 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
+x                                                &= 180 - 80 - 60 \\\\
+x                                                &= 40 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9A5AA44C-95FB-4E78-B769-9322CA0C9120</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $a = 5$ and $b = 10$
+
+Work out: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b - a$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= b - a \\\\
+&= 10 - 5 \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4b$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4b \\\\
+&= 4 \times 10 \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2a^{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2a^{2} \\\\
+&= 2 \times 5^{2} \\\\
+&= 2 \times 25 \\\\
+&= 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DE7E4798-B49A-4842-A434-B64BF19F17B7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x + 7 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x + 7                                              &= 12 \\\\
+x                                                  &= 12 - 7 \\\\
+x                                                  &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10 – x = 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+10 - x                                              &= 6 \\\\
+10 - 6                                              &= x \\\\
+x                                                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x + 7 = 46$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x + 7                                              &= 46 \\\\
+3x                                                  &= 46 - 7 \\\\
+3x                                                  &= 39 \\\\
+x                                                   &= \dfrac {39} {3} \\\\
+x                                                   &= \dfrac {3 \times 13} {3} \\\\
+x                                                   &= \dfrac {\cancel{3} \times 13} {\cancel{3}} \\\\
+x                                                   &= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{x}{2}+1=7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {x} {2} + 1                                  &= 7 \\\\
+\dfrac {x} {2}                                      &= 7 - 1 \\\\
+\dfrac {x} {2}                                      &= 6 \\\\
+x                                                   &= 6 \times 2 \\\\
+x                                                   &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7025FD21-D901-49E5-BD69-BFFDCA9D731C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x - 5 = 31$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x - 5 &= 31 \\\\
+3x     &= 31 + 5 \\\\
+x      &= \dfrac {36} {3} \\\\
+x      &= \dfrac {12 \times 3 } {3} \\\\
+x      &= \dfrac {12 \times \cancel {3} } {\cancel{3} } \\\\
+x      &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x - 2 = 2x - 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+ 5x - 2  &= 2x - 8 \\\\
+ 5x - 2x &= - 8 + 2 \\\\
+ 3x      &= -6 \\\\
+ x       &= \dfrac {-6} {3} \\\\
+ x       &= -2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\frac{x}{4} - 7 = 12$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+ \dfrac {x} {4} - 7 &= 12 \\\\ 
+ \dfrac {x} {4}     &= 12 + 7 \\\\ 
+ \dfrac {x} {4}     &= 19 \\\\ 
+ x                  &= 19 \times 4 \\\\ 
+ x                  &= 76 
+\end{aligned}   
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$76$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\frac{x - 7}{4} = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{x - 7}{4} &= 12 \\\\
+x - 7            &= 12 \times 4 \\\\
+x - 7            &= 48 \\\\
+x                &= 48 + 7 \\\\
+x                &= 55
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the triangle.
+
+![missing image](/papers/missing_image.svg)
+
+Work out the value of $a$ and $b$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angles are a, b.
+
+First let's see the triangle ABD
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+2a + a + 90     &= 180 \\\\
+3a + 90         &= 180 \\\\
+3a              &= 180 - 90 \\\\
+a               &= \dfrac {90} {3} \\\\
+a               &= \dfrac {30 \times 3} {3} \\\\
+a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
+a               &= 30 \degree
+\end{aligned}
+$
+
+Let's use value of $a$ in triangle ABC
+
+$
+\begin{aligned}
+(b+2a) + b + 90     &= 180 \\\\
+2b + 2a             &= 180 - 90 \\\\
+2 \times 30 + 2b    &= 90 \\\\
+2b                  &= 90 - 60 \\\\
+b                   &= \dfrac {30} {2} \\\\
+b                   &= \dfrac {15 \times 2} {2} \\\\
+b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
+b                   &= 15 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+<div class='answer'>
+
+$15 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(a \times 9) \div 6 = 6$, Find $a$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(a\times 9) \div 6     &= 6 \\\\
+\dfrac{9a} {6}         &= 6 \\\\
+9a                     &= 36 \\\\
+a                      &= \dfrac {36} {9} \\\\
+a                      &= \dfrac {9 \times 4} {9} \\\\
+a                      &= \dfrac {\cancel {9} \times 4} { \cancel {9} } \\\\
+a                      &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(b + 6) \times 8 = 64$,    Find $b$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(b + 6) \times 8   &= 64 \\\\
+b + 6              &= \dfrac {64} {8} \\\\
+b + 6              &= \dfrac {8 \times 8} {8} \\\\
+b + 6              &= \dfrac {8 \times \cancel {8} } {\cancel {8} } \\\\
+b + 6              &= 8 \\\\
+b                  &= 8 - 6 \\\\
+b                  &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(19 \times c) + 25 = 101$,    Find $c$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(19 \times c) + 25  &= 101 \\\\
+19c                 &= 101 - 25 \\\\
+c                   &= \dfrac {76} {19} \\\\
+c                   &= \dfrac {19 \times 4} {19} \\\\
+c                   &= \dfrac {\cancel {19} \times 4} {\cancel {19} } \\\\
+c                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $x$:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(x \times 18) \div 9 = 16$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(x \times 18) \div 9                                &= 16 \\\\
+\dfrac {x \times 18} {9}                            &= 16 \\\\
+x                                                   &= \dfrac {16 \times 9} {18} \\\\
+x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
+x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
+x                                                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(x + 12) \times 4 + 2 = 62$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(x + 12) \times 4 + 2    &= 62 \\\\
+(x + 12) \times 4        &= 62 - 2\\\\
+(x + 12) \times 4        &= 60 \\\\
+x                        &= \dfrac {60} {4} - 12 \\\\
+x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
+x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
+x                        &= 15 - 12 \\\\
+x                        &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(5x - 3) - (4x - 5) = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+(5x - 3) - (4x - 5) &= 12 \\\\
+(5x - 3) -4x + 5    &= 12 \\\\
+x + 2               &= 12 \\\\
+x                   &= 12 - 2 \\\\
+x                   &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5(x - 3) + 4 (x- 2) = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5(x - 3) + 4(x - 2)                &= 13 \\\\
+5x - 5 \times 3 + 4x - 4 \times 2  &= 13 \\\\
+5x - 15 + 4x - 8                   &= 13 \\\\
+9x -23                             &= 13 \\\\
+9x                                 &= 13 + 23 \\\\
+x                                  &= \dfrac {36} {9} \\\\
+x                                  &= \dfrac {9 \times 4} {9} \\\\
+x                                  &= \dfrac { \cancel{9} \times 4} {\cancel {9} } \\\\
+x                                  &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>25F12C31-F7A0-4048-8C74-33BF11BEC999</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $x$ for each of the following equations:
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4x - 3 = 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4x - 3 &= 21 \\\\
+4x     &= 21 + 3 \\\\
+4x     &= 24 \\\\\
+x      &= \dfrac{24}{4}  \\\\
+x      &= \dfrac{6 \times \cancel {4} }{\cancel {4} } \\\\
+x      &= 6 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 ( x + 10) = 60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3(x + 10)  &= 60 \\\\
+x + 10     &= \dfrac{60}{3} \\\\
+x + 10     &= \dfrac{3 \times 20}{3} \\\\
+x + 10     &= \dfrac{\cancel{3} \times 20}{ \cancel{3} } \\\\
+x + 10     &=  20 \\\\
+x          &= 20 - 10 \\\\
+x          &= 10
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x + 1 = 2x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x + 1    &= 2x + 7 \\\\
+5x - 2x   &= 7 - 1 \\\\
+3x        &= 6 \\\\
+x         &= \dfrac {6} {3} \\\\
+x         &= \dfrac{2 \times \cancel {3} }{\cancel {3} } \\\\
+x         &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {3x} {2} + 3 = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3x} {2} + 3     &= 15 \\\\
+\dfrac {3x} {2}         &= 15 - 3 \\\\
+3x                      &= 12 \times 2 \\\\
+x                       &= \dfrac {24} {3} \\\\
+x                       &= \dfrac  {8 \times 3} {3} \\\\
+x                       &= \dfrac {8 \times \cancel{3} } {\cancel {3} } \\\\
+x                       &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
+
+As per the question,
+
+$
+\begin{aligned}
+A + B     &= 22    \ \text{kg}  \\\\
+B + C     &= 20     \ \text{kg} \\\\
+A + B + C &= 30 \ \text{kg}\\\\
+\end{aligned}
+$
+
+Lets, first find value of A
+
+$
+\begin{aligned}
+A + (B + C)  &= 30 \\\\
+A + 20       &= 30 \\\\
+A            &= 30 - 20 \\\\
+A            &= 10 \\\\
+\end{aligned}
+$
+
+Now finding the value of B,
+
+$
+\begin{aligned}
+A + B  &= 22 \\\\
+B      &= 22 - A \\\\
+B      &= 22 - 10 \\\\
+B      &= 11
+\end{aligned}
+$
+
+Finally the value of C is given by,
+
+$
+\begin{aligned}
+B + C &= 20 \\\\
+C     &= 20 - B \\\\
+C     &= 20 - 11 \\\\
+C     &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 11, 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tim, David and Alison are given some money by their grandfather. Tim gets twice as much as David and three times as much as Alison. If they get $\pounds 49.50$ in total, how much do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the money Tim received $= a$.
+
+According to the question,
+
+Money David recieved $= \dfrac {a} {2}$.
+
+Money Alison recieved $= \dfrac {a} {3}$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
+\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
+\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
+\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
+11a                                                                                                     &= 49.50 \times 6 \\\\
+a                                                                                                       &= \dfrac {297} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
+a                                                                                                       &= \pounds 27
+\end {aligned}
+$
+
+Money Tim received $= \pounds 27$.
+
+Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
+
+Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27, \pounds 13.5, \pounds 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller number $= a$.
+
+The larger number $= 2a$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + 2a  &= 87 \\\\
+3a      &= 87 \\\\
+a       &= \dfrac {87} {3} \\\\
+a       &= \dfrac {29 \times 3} {3} \\\\
+a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
+a       &= 29
+\end{aligned}
+$
+
+Smaller Number $= 29$.
+
+Larger number $= 2 \times 29 = 58$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29, 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of the angles marked with the letters $a$ and $b$ .
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, if two parallel lines are cut by a transversal, then the alternate interior angles are equal. So,
+
+As per the diagram,
+
+Angle $a$ and $b$ are two alternate interior angles.
+
+$
+\begin{aligned}
+a           &= 31 \degree \\\\
+b           &= 31 \degree + 35 \degree \\\\
+            &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\begin{aligned}
+a &= 31 \degree \\
+b &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>469A9C99-205F-4896-A51C-BA09D251CB0E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dini thought of a number. She doubled this number and added $10$ to give the result $52$. What number did Dini think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Dini thought of $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 2 + 10   &= 52 \\\\
+2a + 10           &= 52 \\\\
+2a                &= 52 - 10 \\\\
+2a                &= 42 \\\\
+a                 &= \dfrac {42} {2} \\\\
+a                 &= \dfrac {21 \times 2} {2} \\\\
+a                 &= \dfrac {21 \times \cancel {2}} {\cancel {2}} \\\\
+a                 &= 21 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+To make eight $200 \ \text{ml}$ glasses of squash, Yasmin needs $320 \ \text{ml}$ of cordial; the rest is water.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much cordial does Yasmin need to make three glasses of squash?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first find out how much cordial will it take to make 1 glass of squash.
+
+As per the question,
+
+$
+\begin {aligned}
+8 \times \text {Cordial needed to make one glasses of squash}     &= 320 \ \text {ml} \\\\
+\text {One glass of squash}                                       &= \dfrac {320} {8} \\\\
+                                                                  &= \dfrac {8 \times 40} {8} \\\\
+                                                                  &= \dfrac {\cancel {8} \times 40} {\cancel {8}} \\\
+                                                                  &= 40 \ \text {ml}
+\end {aligned}
+$
+
+Yasmin need $40 \ \text {ml}$ of cordial to make one glass of squash. So,
+
+$
+\begin {aligned}
+\text {Cordial needed to make three glasses of squash}   &= 3 \times 40 \ \text {ml} \\\\
+                                                         &= 120 \ \text {ml}
+\end {aligned}
+$ 
+
+Yasmin need $120 \ \text {ml}$ of cordial to make three glasses of squash.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120 \ \text {ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much water does Yasmin need to make ten glasses of squash?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first find out how much water will it take to make one glass of squash.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Water needed to make one glass of squash}  &= \text {One glass of squash} - \text {Cordial needed to make one glass of squash} \\\\
+                                                  &= 200 \ \text {ml} - 40 \ text {ml} \\\\
+                                                  &= 160 \ \text {ml}
+\end {aligned}
+$
+
+Yasmin need $160 \ \text {ml}$ of water to make one glass of squash. So,
+
+$
+\begin {aligned}
+\text {Water needed to make ten glasses of squash}  &= 10 \times 160 \ \text {ml} \\\\
+                                                    &= 1600 \ \text {ml}
+\end {aligned}
+$
+
+Yasmin need $1600 \ \text {ml}$ of water to make ten glasses of squash.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1600 \ \text {ml}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the value of $x$ in each of the diagrams below.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Sum of all the angles}   &= 360 \degree \\\\
+2x + x + 5x + 4x                &= 360 \\\\
+12x                             &= 360 \\\\
+x                               &= \dfrac {360} {12} \\\\
+x                               &= \dfrac {30 \times 12} {12} \\\\
+x                               &= \dfrac {30 \times \cancel {12}} {\cancel {12}} \\\\
+x                               &= 30 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+2x + (x + 32) + 40 \degree  &= 180 \degree \\\\
+2x + x + 32 + 40            &= 180 \\\\
+3x + 72                     &= 180 \\\\
+3x                          &= 180 - 72 \\\\
+3x                          &= 108 \\\\
+x                           &= \dfrac {108} {3} \\\\
+x                           &= \dfrac {36 \times 3} {3} \\\\
+x                           &= \dfrac {36 \times \cancel {3}} {\cancel {3}} \\\\
+x                           &= 36 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>02F2B606-7110-4F90-BC98-D3ED752A91BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+All these fractions are the same
+
+$\dfrac {2} {3}, \dfrac {10} {15},  \dfrac {60} {90}, \dfrac {x} {24}, \dfrac {50} {y}$    
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of $x$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, all fractions are the same.
+
+$
+\begin{aligned}
+\dfrac {x} {24} &= \dfrac {2} {3} \\\\
+x               &= \dfrac {2 \times 24} {3} \\\\
+x               &= \dfrac {2 \times 8 \times 3} {3} \\\\
+x               &= \dfrac {2 \times 8 \times \cancel 3} {\cancel 3} \\\\
+x               &= 2 \times 8 \\\\
+x               &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of $y$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, all fractions are the same.
+
+$
+\begin{aligned}
+\dfrac {2} {3}      &= \dfrac {50} {y} \\\\
+y                   &= \dfrac {50 \times 3} {2} \\\\
+y                   &= \dfrac {2 \times 25 \times 3} {2} \\\\
+y                   &= \dfrac {\cancel 2 \times 25 \times 3} {\cancel 2} \\\\
+y                   &= 25 \times 3 \\\\
+y                   &= 75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>AF17E277-3722-4E4E-A504-06257C3D772B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number. Multiply it by $6$ and subtract $7$ to get an answer. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If I start with $12$, what is my answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 \times 6 - 7 \\\\
+&= 72 - 7 \\\\
+&= 65
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If my answer is $41$, what number did I start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I started with $= a$
+
+$
+\begin{aligned}
+a \times 6 -7                     &= 41 \\\\
+a \times 6                        &= 41 + 7 \\\\
+a \times 6                        &= 48 \\\\
+a                                 &= \dfrac{48} {6} \\\\
+a                                 &= \dfrac{6 \times 8} {6} \\\\
+a                                 &= \dfrac{\cancel 6 \times 8} {\cancel 6} \\\\
+a                                 &= 8
+\end{aligned}
+$
+
+The  number I started with $= 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amy gets in a muddle with her arithmetic.
+
+When it says add she always takes away.
+
+When it says take away she always adds.
+
+When it says multiply she always divides.
+
+When it says divide she always multiplies.
+
+What does she give as the answer to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$32 - 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, when it says take away she always adds.
+
+$32 - 8$
+
+$
+\begin{aligned}
+&= 32 + 8 \\\\
+&= 40 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$96 \times 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, when it says multiply she always divides.
+
+$96 \times 8$
+
+$
+\begin{aligned}
+&= \dfrac{96} {8} \\\\
+&= \dfrac{12 \times 8} {8} \\\\
+&= \dfrac{12 \times \cancel {8}} {\cancel {8}} \\\\
+&= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She works out $a \div 8$ and gives the answer as $72$ .What is the value of $a$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, when it says divides she always multiplies.
+
+$a \div 8 = 72$
+
+$
+\begin{aligned}
+a \times 8    &= 72 \\\\
+a             &= \dfrac{72} {8} \\\\
+a             &= \dfrac{8 \times 9} {8} \\\\
+a             &= \dfrac{\cancel {8} \times 9} {\cancel {8}} \\\\
+a             &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She works out $c \div c$ as $144$. What is the value of $c$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, when it says divides she always multiplies.
+
+$c \div c = 144$
+
+$
+\begin{aligned}
+c \times c    &= 144 \\\\
+c ^ 2         &= 144 \\\\
+c ^ 2         &= 12 \times 12 \\\\
+c ^ 2         &= 12 ^2 \\\\
+c             &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she works out $b \times 4 + 4$ she gets $4$.
+What is the value of $b$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, when it says multiply she always divides, When it says add she always takes away.
+
+$b \times 4 + 4$
+
+$
+\begin{aligned}
+\dfrac{b} {4} - 4       &= 4 \\\\
+\dfrac{b} {4}           &= 4 + 4 \\\\
+\dfrac{b} {4}           &= 8 \\\\
+b                       &= 8 \times 4 \\\\
+b                       &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is a number of coins on a table. One quarter of them are showing heads. If I turn over two more coins to show heads then one third of the coins now show heads. How many coins are on the table?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of coins on the table $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {c} {3}                                                              &= \dfrac {c} {4} + 2 \\\\ 
+\dfrac {c} {3} - \dfrac {c} {4}                                             &= 2 \\\\
+\dfrac {c \times 4} {3 \times 4} - \dfrac {c \times 3} {4 \times 3}         &= 2 \\\\
+\dfrac {4c} {12} - \dfrac {3c} {12}                                         &= 2 \\\\
+\dfrac {4c - 3c} {12}                                                       &= 2 \\\\
+\dfrac {c} {12}                                                             &= 2 \\\\
+c                                                                           &= 2 \times 12 \\\\
+c                                                                           &= 24
+\end{aligned}
+$
+
+The number of coins on the table are $=24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I want to draw a square in which the perimeter (total length around the outside) is equal in size to the area. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the side length of the square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side length of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of square}       &= \text{Perimeter of square} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
+a                           &= 4
+\end{aligned}
+$
+
+Side length of the square $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now I want to draw a rectangle that is twice as long as it is wide. However, its perimeter is still equal in size to its area. What will the length of the rectangle be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$
+
+As per the question,
+
+Length of the rectangle $= 2 \times a$
+
+$
+\begin{aligned}
+\text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
+2a \times a                         &= 2 \times 3a \\\\
+a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
+a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
+a                                   &= 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>19C76E65-DBF3-4C5E-81F2-D769B5AC9A0B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$a = 3, b = 5, c = -6$.
+
+Find the values of: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a + b + c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= a + b + c \\\\
+&= 3 + 5 + (-6) \\\\
+&= 3 + 5 - 6 \\\\
+&= 8 - 6 \\\\
+&= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a - b - c$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= a - b - c \\\\
+&= 3 - 5 - (-6) \\\\
+&= 3 - 5 + 6 \\\\
+&= 3 + 1 \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$abc$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= abc \\\\
+&= 3 \times 5 \times (-6) \\\\
+&= 15 \times -6 \\\\
+&= -90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-90$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a(b - c)$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= a(b - c) \\\\
+&= 3 \times ( 5 - (-6)) \\\\
+&= 3 \times (5 + 6) \\\\
+&= 3 \times 11 \\\\
+&= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$a^2 + b^2 + c^2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= a^2 + b^2 + c^2 \\\\
+&= 3^2 + 5^2 + (-6)^2 \\\\
+&= 9 + 25 + 36 \\\\
+&= 70
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$70$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7A95ED96-CA1A-406F-8BFB-49F2F5F3F979</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $x$ in these equations: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2x = 62$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2x &= 62 \\\\
+x  &= \dfrac {62} {2} \\\\
+x  &= \dfrac {31 \times 2} {2} \\\\
+x  &= \dfrac {31 \times \cancel {2}} {\cancel {2}} \\\\
+x  &= 31
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x + 1 = 19$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x + 1 &= 19 \\\\
+3x     &= 19 - 1 \\\\
+3x     &= 18 \\\\
+x      &= \dfrac {18} {3} \\\\
+x      &= \dfrac {6 \times 3} {3} \\\\
+x      &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+x      &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2(x + 6) = 31$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2(x + 16)                   &= 31 \\\\
+2 \times x + 2 \times 16    &= 31 \\\\
+2x + 32                     &= 31 \\\\
+2x                          &= 31 - 32 \\\\
+2x                          &= -1 \\\\
+x                           &= \dfrac {-1} {2} \\\\
+x                           &= -0.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {-1} {2} \ \text{or} \-0.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2x + 7 = 4x - 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+2x + 7                                          &=   4x - 15 \\\\
+4x -15                                          &=   2x - 7 \\\\
+15 + 7                                          &=   4x - 2x  \\\\
+22                                              &=   2x \\\\
+\dfrac {22} {2}                                 &=   x  \\\\
+\dfrac {2 \times 11} {2}                        &=   x \\\\
+\dfrac {\cancel 2 \times 11} {\cancel 2}        &=   x \\\\
+11                                              &=   x \\\\
+x                                               &=   11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {3} {x} = 18$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3} {x}                                  &=   18 \\\\
+x                                               &=   \dfrac {3} {18} \\\\
+x                                               &=   \dfrac {3} {3 \times 6} \\\\
+x                                               &=   \dfrac {\cancel {3}} {\cancel {3} \times 6} \\\\
+x                                               &=   \dfrac {1} {6}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {6}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One quarter of the people at a party are men, a half are girls, one sixth are women, and there are five boys. How many people were at the party? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total people in the party $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total people}                                                                                                                 &= \text{Men} + \text{Women} + \text{Girls} + \text{Boys} \\\\
+a                                                                                                                                   &= \dfrac {1} {4} \times a + \dfrac {1} {2} \times a + \dfrac {1} {6} \times a + 5 \\\\
+a                                                                                                                                   &= \dfrac {a} {4} + \dfrac {a} {2} + \dfrac {a} {6} + 5 \\\\
+a - \dfrac {a} {4} - \dfrac {a} {2} - \dfrac {a} {6}                                                                                &= 5 \\\\
+\dfrac {12 \times a} {12} - \dfrac {3 \times a} {3 \times 4} - \dfrac {6 \times a} {6 \times 2} - \dfrac {2 \times a} {2 \times 6}  &= 5 \\\\
+\dfrac{12a} {12} - \dfrac {3a} {12} - \dfrac {6a} {12} - \dfrac {2a} {12}                                                           &= 5 \\\\
+\dfrac {12a - 3a - 6a - 2a} {12}                                                                                                    &= 5 \\\\
+\dfrac {a} {12}                                                                                                                     &= 5 \\\\
+a                                                                                                                                   &= 5 \times 12 \\\\
+a                                                                                                                                   &= 60
+\end{aligned}
+$
+
+Total number of people $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\dfrac {3} {8}$  of a number is $27$. What is $\dfrac {1} {2}$ of the number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {8} \times a     &= 27 \\\\
+\dfrac {3a} {8}             &= 27 \\\\
+3a                          &= 27 \times 8 \\\\
+a                           &= \dfrac{27 \times 8} {3} \\\\
+a                           &= \dfrac{3 \times 9 \times 8} {3} \\\\
+a                           &= \dfrac{\cancel {3} \times 9 \times 8} {\cancel {3}} \\\\
+a                           &= 9 \times 8 \\\\
+a                           &= 72
+\end{aligned}
+$
+
+The number $= 72$
+
+Let's find $\dfrac {1} {2} \text{of} 72$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 72 \\\\
+&= \dfrac {72} {2} \\\\
+&= \dfrac {2 \times 36} {2} \\\\
+&= \dfrac {\cancel {2} \times 36} {\cancel {2}} \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the ages of a father, his daughter and his two twin sons is $96$ years. 
+The daughter’s age is half the father’s age and twice the age of each of her two brothers. 
+
+How old is the **father**? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of father $= a$
+
+Age of daughter $= \dfrac{a}{2}$
+
+Age of brother $= \dfrac{a}{4}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
+a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
+\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+7a                                                                                              &= 96 \times 4 \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48 \\\\
+\text {the age of father}                                                                       &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+The angles in a triangle always add up to $180 \degree$ . In the triangle shown above angle $a \degree$ is three times as big as angle $b \degree$ and angle $b \degree$ is twice as large as angle $c \degree$. Find the angle $d \degree$ shown in the diagram.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+We know that the sum of all angles of a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+a + b + c                                     &= 180 \\\\
+3 (2c)+ 2c + c                                &= 180 \\\\
+6c+ 2c + c                                    &= 180 \\\\
+9c                                            &= 180 \\\\
+c                                             &= \dfrac {180} {9} \\\\
+c                                             &= \dfrac {9 \times 20} {9} \\\\
+c                                             &= \dfrac {\cancel{9} \times 20} {\cancel{9}} \\\\
+c                                             &= 20 \degree
+\end{aligned}
+$
+
+Let's find angle $b$
+
+$
+\begin{aligned}
+b                                             &= 2 \times c \\\\
+b                                             &= 2 \times 20 \\\\
+b                                             &= 40
+\end{aligned}
+$
+
+We know that the sum of angles on a straight line is $180 \degree$. 
+
+$
+\begin{aligned}
+b + d                                         &= 180 \\\\
+40 + d                                        &= 180 \\\\
+d                                             &= 180 - 40 \\\\
+d                                             &= 140 \degree
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative Solution
+
+We know that the sum of all angles of a triangle is $180 \degree$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + b + c                                                                          &= 180 \\\\
+3b + b  + \dfrac {b}{2}                                                            &= 180 \\\\
+\dfrac {3b \times 2}{1 \times 2} + \dfrac {b \times 2}{1 \times 2} + \dfrac {b}{2} &= 180 \\\\
+\dfrac {6b}{2} + \dfrac {2b}{2} + \dfrac {b}{2}                                    &= 180 \\\\
+\dfrac {6b + 2b + b}{2}                                                            &= 180 \\\\
+\dfrac {9b}{2}                                                                     &= 180 \\\\  
+b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
+b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
+b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
+b                                                                                  &= 20 \times 2
+b                                                                                  &= 40 \degree
+\end{aligned}
+$
+
+
+We know that the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+b + d                                         &= 180 \\\\
+40 + d                                        &= 180 \\\\
+d                                             &= 180 - 40 \\\\
+d                                             &= 140 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$140 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,
+
+An angle of an equilateral $= 60 \degree$
+
+An angle of a rectangle $= 90 \degree$
+
+Sum of all angles at a point $= 360 \degree$
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 + 60 + 60 + a                               &= 360 \\\\
+a                                              &= 360 - 90 - 60 - 60\\\\
+a                                              &= 150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sholto has 40 helium balloons. Some of the balloons are red, some are blue and some are green. There are three times as many green balloons as there are red balloons and there are twice as many blue balloons as there are green balloons. 
+
+How many balloons are blue? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of red balloons $= a$
+
+$
+\begin{aligned}
+\text{Blue} + \text{Green} + \text{Red}                                     &= \text{Total balloons} \\\\
+6a + 3a + a                                                                 &= 40 \\\\
+10a                                                                         &= 40 \\\\
+a                                                                           &= \dfrac {40} {10} \\\\
+a                                                                           &= \dfrac {4 \cancel{0}} {1 \cancel{0}} \\\\
+a                                                                           &= 4
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of red balloons}                        &= 4 \\\\
+\text{Number of blue balloons}                       &= 6 \times a \\\\
+                                                     &= 6 \times 4 \\\\
+                                                    &= 24
+\end{aligned}
+$
+
+The number of blue balloons are $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{Balloons}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number. I multiply my number by 9 and add 5 to the result. The answer is 50. What is my number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 9 + 5                                               &= 50 \\\\
+9a                                                           &= 50 - 5 \\\\
+9a                                                           &= 45 \\\\
+a                                                            &= \dfrac {45} {9} \\\\
+a                                                            &= \dfrac {9 \times 5} {9} \\\\
+a                                                            &= \dfrac {\cancel{9} \times 5} {\cancel{9}} \\\\
+a                                                            &= 5
+\end{aligned}
+$
+
+The number I think of $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Year 6 were playing a number game 
+
+Emily said,'If I multiply my number by 4 and then subtract 5, I get the same answer as multiplying my number by 2 and then adding 1'. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Faye called Emily's number x, showing your working clearly.
+
+**$4x - 5 = 2x + 1$**
+
+Gemma said,'Multiplying my number by 2 and then adding 5 gives the same answer as subtracting my number from 23'
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4 x - 5     &= 2 x + 1 \\\\
+4 x - 2 x   &= 5 + 1 \\\\
+2 x         &= 6 \\\\
+x           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find Gemma's number, showing your working clearly.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let Gemma's number $= a$
+
+$
+\begin{aligned}
+2 \times a + 5    &= 23 - a \\\\
+2 a + a           &= 23 - 5 \\\\
+3a                &= 18 \\\\
+a                 &= \dfrac {18} {3} \\\\
+a                 &= \dfrac {6 \times 3} {3} \\\\
+a                 &= \dfrac {6 \times \cancel {3}} {\cancel {3}} \\\\
+a                 &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer John has 14 horses and farmer Paul has 27.
+
+John buys some horses from Paul and then 3 more horses than paul.
+
+How many did John buy?
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the horses John buy $=a$,
+
+$
+\begin{aligned}
+14 + a  &= 27 + 3 \\\\
+14 + a  &= 30 \\\\
+a       &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A7490F93-7479-4839-A126-AA134B1AEB90</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I  think of a  number   multiply it by  **3**  and   then  subtract **8** . If the   answer   is  **-5**    ,  what  number   did   I  start with? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the  number be $ = a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a - 8    &= - 5 \\\\
+3 \times a        &= 8 - 5 \\\\
+3 \times a        &= 3 \\\\
+a                 &= \dfrac {3} {3} \\\\
+a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a                 &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The   length   of a  rectangle   is twice its   width.   Its   area  is **$98cm^2$** .  Find  its   length   and   width.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the  rectangle (in $\text{cm}$) $= l$
+
+As per the question, the length of the rectangle is twice as its width.
+
+So, the width of the rectangle will  $w = \dfrac {l} {2}$
+
+$\text{Area} = \text {length} \times \text {width}$
+
+Putting this into an equation, we get,
+
+$
+\begin{aligned}                            
+l \times w          &= 98 \\\\
+2\times w \times w  &= 98 \\\\\
+2 \times w^2        &= 98 \\\\
+w^2                 &= \dfrac {98} {2} \\\\
+w^2                 &= \dfrac {49 \times 2} {2} \\\\
+w^2                 &= \dfrac {49 \times \cancel {2} } {\cancel {2} } \\\\
+w^2                 &= 49 \\\\
+w                   &= \sqrt {49} \\\\
+w                   &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned}                            
+l    &= 2 \times w \\\\
+l    &= 2 \times 7 \\\\
+l    &= 14
+\end{aligned}  
+$
+
+Length $= 14 \ \text {cm}$ and width $= 7 \ \text {cm}$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \ \text {cm}, 7 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this  question the   diagrams are   not   drawn accurately, so the   angles   cannot   be found by  measuring   with  a  protractor. 
+
+The   angles   of a  triangle add   up to **$180^\degree$** 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In this  triangle angle A  is the   same  as angle B, and   angle C  is twice angle B. Work  out   each  of the   three angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to question,
+
+angle B $=$ angle A
+
+angle C $= 2 \times$ angle B
+
+$
+\begin{aligned}
+A + B + C                &= 180 \degree \\\\
+A + A + 2A               &= 180 \\\\
+4A                       &= 180 \\\\
+A                        &= \dfrac {180} {4} \\\\
+A                        &= \dfrac {45 \times 4} {4} \\\\
+A                        &= \dfrac {45 \times \cancel {4}} {\cancel {4}} \\\\
+A                        &= 45 \degree
+\end{aligned}
+$
+
+So, angle A $=$ angle B $= 45 \degree$
+
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree, 90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The   angles   round a  point add   up to **$360^\degree$**
+
+In the   diagram  below,   one   angle is **$90^\degree$** and the   other three are   equal to each  other.   Work  out   the   missing  angles.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+x + x + x + 90 \degree  &= 360 \degree \\\\
+3x                      &= 360 \degree - 90 \degree \\\\
+3x                      &= 270 \degree \\\\
+x                       &= 90 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BE2D8C56-1D9C-4A7F-BA9C-6FF46B0B1C3E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I think of a number, multiply it by $17$ and then subtract $19$. The result is $66$. What was the number I first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I think $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+(17 \times a) - 19  &= 66 \\\\
+(17 \times a)       &= 66 + 19 \\\\
+17a                 &= 85 \\\\
+a                   &= \dfrac {85} {17} \\\\
+a                   &= \dfrac {17 \times 5} {17} \\\\
+a                   &= \dfrac {\cancel {17} \times 5} {\cancel {17}} \\\\
+a                   &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What number must k be to make this mathematical statement true?
+
+$10 \,\, \times \,\, k \,\, + \,\, 23 = 4 \times \,\, k \,\, +\,\,  35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+10k + 23 &= 4k + 35 \\\\
+10k - 4k &= 35 - 23 \\\\
+6k       &= 12 \\\\
+k        &= \dfrac {12} {6} \\\\
+k        &= 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these angles:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+One of the angles measures $120^o$ Write down which angle it must be.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{angle Q}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33BA3A42-D90E-400D-A934-CADF6E6B81F9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$2$ packets of crisps and $2$ drinks cost $\pounds 1.50$. $2$ packets of crisps and $1$ drink costs $\pounds 1.10$. How much would $4$ packets of crisps and $3$ drinks cost? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the price of crisp $= a$
+
+Let the price of drinks $= b$
+
+$
+\begin{aligned}
+2a + 2b &= 1.50 \\\\
+2a      &= 1.50 - 2b 
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a +  b  &= 1.10 \\\\
+2a       &= 1.10 - b 
+1.10 - b &= 1.50 - 2b \\\\
+2b - b   &= 1.50 - 1.10 \\\\
+b        &= 0.40
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a  &=  1.50 - 2b \\\\
+2a  &=  1.50 - 2 \times 0.40 \\\\
+2a  &=  1.50 - 0.80 \\\\
+2a  &=  0.70 \\\\
+a   &=  \dfrac {0.70} {2} \\\\
+a   &=  0.35
+\end{aligned}
+$
+
+Price of crisp $= \pounds 0.35$, and price of drinks $= \pounds 0.40$. Using this we get,
+
+$
+\begin{aligned}
+\text {For 4 crisps and 3 drinks} &= 4 \times 0.35 + 3 \times 0.40 \\\\
+                                  &= 1.4 + 1.2 \\\\
+                                  &= \pounds 2.6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the angles marked with letters on the following diagrams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+135 + a                 &=  180 \\\\
+a                       &=  180 - 135 \\\\
+a                       &=  45 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+174 + e + 90    &=  360 \\\\
+e + 264         &=  360 \\\\
+e               &=  360 - 264 \\\\
+e               &=  96 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+62 + 45 + f &= 180 \\\\
+f + 107     &= 180 \\\\
+f           &= 180 - 107 \\\\
+f           &= 73 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+f + g     &=  180 \\\\
+73 + g    &=  180 \\\\
+g         &=  180 - 73 \\\\
+g         &=  107 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$73 \degree, 107 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>98887762-1849-4F10-9E68-211B94B015A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Pippa came home from her holiday at her Grandma’s with $5$ books. Whilst she was away she bought $2$ books from the bookshop and got $1$ book as a present from her Grandma. During her stay at her Grandma’s she gave her cousin $4$ books that she had finished. How many books did Pippa take with her when she left for her holiday? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the numbers of books she took as $=a$
+
+$
+\begin{aligned}
+a &= 5 + 2 + 1 - 4 \\\\
+a &= 8 - 4 \\\\
+a &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The combined age of Alan and Ben is forty three. 
+
+The combined age of Alan and Carl is fifty five and the combined age of Ben and Carl is sixty-six.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the combined age of Alan, Ben and Carl?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of Alan $= a$
+
+Let the age of Ben $= b$
+
+Let the age of Carl $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b       &= 43 \\\\
+a + c       &= 45 \\\\
+b + c       &= 66
+\end{aligned}
+$
+
+Let’s find the combined age of Alan, Ben and Carl
+
+$
+\begin{aligned}
+(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2 \times (a + b + c)        &= 154 \\\\
+a + b + c                   &= \dfrac {154} {2} \\\\
+a + b + c                   &= \dfrac {2 \times 77} {2} \\\\
+a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
+a + b + c                   &= 77
+\end{aligned}
+$
+
+The combined age of Alan, Ben and Carl is seventy seven.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$77$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How old is Alan?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin{aligned}
+a + b + c   &= 77 \\\\
+a + 66      &= 77 \\\\
+a           &= 77 - 66 \\\\
+a           &= 11
+\end{aligned}
+
+Age of Alan $= 11$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$Alan is $11 \ \text {years}$ old.$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+After a card game, four gamblers had $\pounds 234$ between them. Harry had $\pounds 20$ more than Dana, 
+Charlotte had $\pounds 53$ more than Dana and Sid had $\pounds 71$ more than Dana.
+
+How much did each of them have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the amount with Dana $= d$
+
+As per the question,
+
+$
+\begin{aligned}
+d + d + 20 + d + 53 + d + 71        &= 234 \\\\
+4d + 144                            &= 234 \\\\
+4d                                  &= 234 - 144 \\\\
+4d                                  &= 90 \\\\
+d                                   &= \dfrac {90} {4} \\\\
+d                                   &= \pounds 22.5
+\end{aligned}
+$
+
+Amount with Dana $= \pounds 22.5$
+
+Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
+
+Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
+
+Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Dana} = \pounds 22.5 \\
+\text {Harry} = \pounds 42.5 \\
+\text {Charlotte} = \pounds 75.5 \\
+\text {Sid} = 93.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angle, $x$: 
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 32 + 90   &= 180  \\\\
+x             &= 180 - 122 \\\\
+x             &= 58 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$58 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of angle $x$:
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As the triangle is an isosceles triangle, the third angle is also $= x$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + x + 68      &= 180  \\\\
+2x + 68         &= 180  \\\\
+2x              &= 180 - 68  \\\\
+2x              &= 112  \\\\
+x               &= \dfrac {112} {2}  \\\\
+x               &= \dfrac {56 \times 2} {2}  \\\\
+x               &= \dfrac {56 \times \cancel{2}}{\cancel{2}}   \\\\
+x               &= 56 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7C7B09CA-32E5-42A1-9057-06F6895DD676</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Green goes into a café and buys one pack of sandwiches, one 
+biscuit and two cups of tea and is charged $\pounds 5.80$.
+
+Mrs Plum goes into the café and buys two packs of sandwiches, two 
+biscuits and one cup of tea and is charged $\pounds 6.50$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much would it cost for one pack of sandwiches, one biscuit and one cup of tea?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Let the pack of sandwiches be $= s$
+
+Let a biscuit be $= b$
+
+Let a one cup of tea be  $= t$
+
+$
+\begin{aligned}
+\text{Mr Green charged with} &= \pounds 5.80 \\\\
+\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
+\text{Mrs Plum charged with} &= \pounds 6.50 \\\\
+2\text{s}+ 2\text{b} +\text{t} &= \pounds 6.50 \\\\
+\end{aligned}
+$
+
+We have got $3$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+
+$
+\begin{aligned}
+(2\text{s}+ 2\text{b} + \text{t}) + (s + b + 2\text{t}) &= (\pounds 6.50 + \pounds 5.80) \\\\
+3\text{s}+ 3\text{b} + 3\text{t} &= \pounds 12.30 \\\\
+3(\text{s}+\text{b}+\text{t}) &= 12.23 \\\\
+\text{s}+\text{b}+\text{t} &= \dfrac{12.23}{3} \\\\
+\text{s}+\text{b}+\text{t} &= \dfrac{3\times 4.10}{3} \\\\
+\text{s}+\text{b}+\text{t} &= \dfrac{\cancel 3 \times 4.10}{\cancel 3} \\\\
+\text{s}+\text{b}+\text{t} &= \pounds 4.10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much is a pack of sandwiches and a biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The cost  of a pack of sandwiches and a biscuit} \\\\
+2\text{s}+ 2\text{b} + \text{t} &= \pounds 6.50 \\\\
+\text{s}+\text{b}+\text{t} &= \pounds 4.10
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+
+$
+\begin{aligned}
+(2\text{s}+ 2\text{b} + \text{t}) - (\text{s} + \text{b} + \text{t}) &= \pounds 6.50 - \pounds 4.10 \\\\
+2\text{s}+ 2\text{b} + \cancel t - \text{s} - \text{b} - \cancel t  &= 2.40 \\\\
+\text{s}+\text{b} &= \pounds 2.40 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much is a cup of tea?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The cost  of a cup of tea} \\\\
+\text{s}+\text{b}+ 2\text{t} &= \pounds 5.80 \\\\
+\text{s}+\text{b}+\text{t} &= \pounds 4.10
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve. Let's reduce it to just $1$ equation.
+
+$
+\begin{aligned}
+(\text{s}+\text{b}+ 2\text{t}) - (\text{s}+\text{b}+\text{t}) &= \pounds 5.80 - \pounds 4.10 \\\\
+\text{s} + \text{b} + 2\text{t} - \text{s} - \text{b} - \text{t} &=  1.70 \\\\
+\cancel s + \cancel b + 2\text{t} - \cancel s - \cancel b - \text{t} &=  1.70 \\\\
+2\text{t} - \text{t} &=  1.70 \\\\
+\text{t} &= \pounds 1.70
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.70$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the angle marked with the letter $x$.
+
+![missing image](/papers/missing_image.svg)
+
+- $70 \degree$
+- $85 \degree$
+- $90 \degree$
+- $75 \degree$
+- $60 \degree$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= x$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+x + 43 + 52     &= 180  \\\\
+x + 95          &= 180  \\\\
+x               &= 180 - 95  \\\\
+x               &= 85 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$85 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Simplify the expression $4c - 6d + 2c + 3d$.
+
+
+- $6c - 3d$
+- $15cd$
+- $2c + 9d$
+- $7c + 8d$
+- $6c - 9d$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4c - 6d + 2c + 3d \\\\
+&= 4c  + 2c - 6d + 3d \\\\
+&= 6c - 6d + 3d \\\\
+&= 6c - 3d \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$6c - 3d$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$4d + 7e - d + 2e =$
+
+- $3d - 9e$
+- $12de$
+- $4d - 9e$
+- $3d + 9e$
+- $5d - 9e$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned} 
+&=  4d + 7e - d + 2e \\\\
+&=  4d -d + 7e + 2e \\\\
+&=  3d + 9e
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$3d + 9e$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three friends went to a burger restaurant.
+
+Tom had a burger and chips and he paid $\pounds 8.00$.
+
+Fred had two burgers and a drink. Fred paid $\pounds 15.00$.
+
+Jo had a burger and a drink. Jo paid $\pounds 8.50$.
+
+Work out the cost of the burger, the chips and the drink. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of burger $= a$, cost of the chips $= b$, cost of drink $= c$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                              &= 8 \\\\
+b                                  &= 8 - a \\\\
+2a + c                             &= 15 \\\\
+a                                  &= \dfrac {15 - c} {2}
+\end{aligned}
+$
+
+Using the two equations above we get,
+
+$
+\begin{aligned} 
+a + c               &= 8 \\\\
+a                   &= 8 - c \\\\
+\dfrac {15 - c} {2} &= 8 - c \\\\
+15 - c              &= 16 - 2c \\\\
+2c - c              &= 16 - 15 \\\\
+c                   &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+2a + c                             &= 15 \\\\
+2a + 1                             &= 15 \\\\
+2a                                 &= 15 - 1 \\\\
+a                                  &= \dfrac {14} {2} \\\\
+a                                  &= 7
+\end{aligned}
+$
+
+$
+\begin{aligned} 
+a + b &= 8 \\\\
+a + 7 &= 8 \\\\
+b     &= 8 - 7 \\\\
+b     &= 1 
+\end{aligned}
+$
+
+The price of burger $= \pounds 7$, price of chips $= \pounds 1$, price of drink $= \pounds 1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7,\pounds 1,\pounds 1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a Maths test Freddie gets $37$ more marks than George. If Freddie gets $61$, what mark does George get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let George's marks $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 37      & = 61 \\\\
+a           & = 61 - 37 \\\\
+a           & = 24
+\end{aligned}
+$
+
+Marks George got $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, double it, take the answer away from $41$, and I am left with $3$. What number did I think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number = $a$
+
+As per the question,
+
+$
+\begin{aligned}
+41 - 2a     &= 3 \\\\
+2a          & = 41 - 3 \\\\
+2a          & = 38 \\\\
+a           & = \dfrac {38} {2} \\\\
+a           & = \dfrac {19 \times 2} {2} \\\\
+a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a           & = 19
+\end{aligned}
+$
+
+The number I thought was $19$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ravi has two sisters, Harsha and Harpreet. He likes to share out his sweets unfairly. 
+One day he gives Harsha twice as many as he gives himself, and he gives Harpreet half 
+as many as he gives himself. 
+If there are $42$ sweets in total how many does Ravi get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of sweets Ravi has = $a$. 
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
+2a + \dfrac {a} {2} + a                            &= 42 \\\\
+3a + \dfrac {a} {2}                                &= 42 \\\\
+\dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
+\dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
+\dfrac {6a + a} {2}                                &= 42 \\\\
+\dfrac {7a} {2}                                    &= 42 \\\\
+7a                                                 &= 42 \times 2 \\\\
+a                                                  &= \dfrac {42 \times 2} {7} \\\\
+a                                                  &= \dfrac {\cancel 7 \times 6 \times 2} {\cancel 7} \\\\
+a                                                  &= 6 \times 2 \\\\
+a                                                  &= 12
+\end{aligned}
+$
+
+Total number of sweets Ravi got $= 12$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B997FB3B-115F-4CC3-BC0E-C9D91855E806</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Children are offered a $25\%$ discount on the cost of an adult ticket to visit Hamshaw House. 
+Senior citizens are given a $20\%$ discount. If a child's ticket costs $\pounds 30$, how much does a senior citizen pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an adult ticket $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of a children ticket}           &= \text {Cost of an adult ticket} - 25 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+\pounds 30                                  &= a - \dfrac {25} {100} \ \text {of} \ a \\\\
+30                                          &= a - \dfrac {25} {100} \times a \\\\
+30                                          &= a - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100 \times a} {100 \times 1} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a} {100} - \dfrac {25a} {100} \\\\
+30                                          &= \dfrac {100a - 25a} {100} \\\\
+30                                          &= \dfrac {75a} {100} \\\\
+\dfrac {30 \times 100} {75}                 &= a \\\\
+a                                           &= \dfrac {15 \times 2 \times 5 \times 20} {15 \times 5} \\\\
+a                                           &= \dfrac {\cancel {15} \times 2 \times \cancel {5} \times 20} {\cancel {15} \times \cancel {5}} \\\\
+a                                           &= 2 \times 20 \\\\
+a                                           &= \pounds 40 \\\\
+\text {Cost of a senior citizen's ticket}   &= \text {Cost of an adult ticket} - 20 \% \ \text {of} \ \text {Cost of an adult ticket} \\\\
+                                            &= \pounds 40 - \dfrac {20} {100} \times \pounds 40 \\\\
+                                            &= 40 - \dfrac {20 \times 40} {100} \\\\
+                                            &= 40 - \dfrac {20 \times 5 \times 8} {20 \times 5} \\\\
+                                            &= 40 - \dfrac {\cancel {20} \times \cancel {5} \times 8} {\cancel {20} \times \cancel {5}} \\\\
+                                            &= 40 - 8 \\\\
+                                            &= \pounds 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 32$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>872AF346-F083-464D-8D78-F9ED85CC0CD9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison, Bethany and Catherine are three sisters. 
+They are $6$ years old, $7$ years old and $12$ years old. 
+
+Bethany is older than Alison. 
+Catherine's age is a prime number. 
+
+What is each girls' age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Catherine’s age is a prime number.
+
+Catherine’s age    $= 7$ years
+
+Bethany is older than Alison.
+
+Bethany’s age      $= 12$ years
+
+Alison’s age       $= 6$ years
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\begin{aligned}
+\text{Alison’s age}       &= 6 \ \text{years} \\
+\text{Bethany’s age}      &= 12 \ \text{years} \\
+\text{Catherine’s age}    &= 7 \ \text{years}
+\end{aligned}
+$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CE041EF6-D2B5-42A8-8F9B-E36FA1D03E08</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sam thinks of a number.
+
+He multiplies that number by $5$. 
+
+Then he subtracts $12$. 
+
+Then he divides by $3$. 
+
+Finally he adds $17$.
+
+His answer is $38$.
+
+What number did Sam originally think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that Sam thought of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 5 -12 \div 3 + 17                                   &= 38 \\\\
+5a -12 \div 3 + 17                                           &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17}{1}                          &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {17 \times 3} {1 \times 3}       &= 38 \\\\
+\dfrac {5a -12}{3} + \dfrac {51} {3}                         &= 38 \\\\
+\dfrac {5a -12 + 51}{3}                                      &= 38 \\\\
+5a -12 + 51                                                  &= 38 \times 3 \\\\
+5a + 39                                                      &= 114 \\\\
+5a                                                           &= 114 - 39 \\\\
+5a                                                           &= 75 \\\\
+a                                                            &= \dfrac {75} {5} \\\\
+a                                                            &= \dfrac {15 \times 5} {5} \\\\
+a                                                            &= \dfrac {15 \times \cancel {5}} {\cancel {5}} \\\\
+a                                                            &= 15
+\end {aligned}
+$
+
+The number that Sam thought of $= 15$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer Jack and Farmer Giles each have a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+Farmer Jack’s field has an area of $24 \ \text{m}^2$.
+
+Its length is $8 \ \text{m}$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the width of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the field $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
+24                         &= 8 \times a \\\\
+a                          &= \dfrac {24} {8} \\\\
+a                          &= \dfrac {3 \times 8} {8} \\\\
+a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
+a                          &= 3 \ \text{m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the perimeter of Farmer Jack’s field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+                                 &= 2 \times (8 + 3) \\\\
+                                 &= 2 \times 11 \\\\
+                                 &= 22 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
+
+The width of Farmer Giles’ field is $4 \ \text{m}$. 
+
+![missing image](/papers/missing_image.svg)
+
+Work out the length of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length $=a$
+
+$
+\begin{aligned}
+\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
+20                               &= 2 \times (4 + a) \\\\
+20                               &= 8 + 2a \\\\
+2a                               &= 20 - 8 \\\\
+2a                               &= 12 \\\\
+a                                &= \dfrac {12} {2} \\\\
+a                                &= 6 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of Farmer Giles’ field.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= 4 \times 6 \\\\
+             &= 24 \ \text {m} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Farmer Josephine also has a rectangular field.
+
+![missing image](/papers/missing_image.svg)
+
+The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
+
+Farmer Josephine builds a fence along the perimeter of her field.
+
+If the total length of this fence is $30 \ \text{m}$, write down two possible values of $x$ and $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{and} 5,7 \ \text{and} 8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BB584CC8-E4D1-425F-88E8-71BF6CB97F97</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Annie and Bradley each think of a number. 
+
+The difference between their numbers is $6$.
+
+The sum of their numbers is $20$.
+
+What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number Annie thinks $= a$
+
+Let the number Bradley thinks $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+a + b      &= 20 \\\\
+a - b      &= 6         
+\end{aligned}
+$
+
+There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+a + b - (a - b)     &= 20 - 6 \\\\
+a + b -a + b        &= 14 \\\\
+2b                  &= 14 \\\\
+b                   &= \dfrac {14} {2} \\\\
+b                   &= 7
+\end{aligned}
+$
+
+Let's substitute the value of $b$ in one of the initial equations.
+
+$
+\begin{aligned} 
+a + b                          &= 20 \\\\
+a + 7                          &= 20 \\\\
+a                              &= 20 - 7 \\\\
+a                              &= 13
+\end{aligned}
+$
+
+Annie's number $= 13$
+
+Bradley's number $= 7$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7, 13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Alice thinks of a number.
+
+Alice calls her number $a$.
+
+**Alice adds $7$ to her number, and then doubles her answer**.
+
+Write an expression, using $a$, to show what Alice does.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (7 + a) \times 2 \\\\
+&= 14 + 2a
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 + 2a$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jack thinks of a number.
+
+Jack calls his number $n$.
+
+**Jack multiplies his number by $3$, and then subtracts $5$**.
+
+**He gets the answer $16$**.
+
+Use this information to write down an equation, and then solve it to find $n$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3n - 5 &= 16 \\\\
+3n     &= 16 + 5 \\\\
+3n     &= 21 \\\\
+n      &= \dfrac {21} {3} \\\\
+n      &= \dfrac {7 \times 3} {3} \\\\
+n      &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
+n      &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3EBB0F49-3BA5-4488-971D-510882EA7B7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Clara has four brothers.
+
+Sam's age added to Ben's age gives $12$.
+
+The total of Frederick's and Sam's and Ben's ages is $28$.
+
+Mylo's age added to Sam's age gives $20$. 
+
+The total of all the brothers' ages is $39$.
+
+Work out the ages of Clara's brothers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of four brothers $= s, \ b, \ f, m$
+
+As per the question,
+
+$s + b = 12$
+
+$f + s + b = 28$
+
+$m + s = 20$
+
+$f + s + b + m = 39$
+
+$
+\begin{aligned}
+f + s + b + m   &= 39 \\\\
+(f + s + b) + m &= 39 \\\\
+28 + m          &= 39 \\\\
+m               &= 39 - 28 \\\\
+m               &= 11 \ \text{years}
+\end{aligned}
+$
+
+Mylo's age $= 11 \ \text{years}$
+
+$
+\begin{aligned}
+f + s + b + m    &= 39 \\\\
+f + (s + b) + 11 &= 39 \\\\
+f + 12 + 11      &= 39 \\\\
+f + 23           &= 39 \\\\
+f                &= 39 - 23 \\\\
+f                &= 16 \ \text{years}
+\end{aligned}
+$
+
+Frederick's age $= 16 \ \text{years}$
+
+$
+\begin{aligned}
+m + s  &= 20 \\\\
+11 + s &= 20 \\\\
+s      &= 20 - 11 \\\\
+s      &= 9 \ \text{years}
+\end{aligned}
+$
+
+Sam's age $= 9 \ \text{years}$
+
+$
+\begin{aligned}
+s + b &= 12 \\\\
+9 + b &= 12 \\\\
+b     &= 12 - 9 \\\\
+b     &= 3 \ \text{years}
+\end{aligned}
+$
+
+Ben's age $= 3 \ \text{years}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, \ 3, \ 16, \ 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E7D1BED3-00FC-4923-94CA-88CE3E83BB8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This shape is made from $9$ identical squares.
+
+![missing image](/papers/missing_image.svg)
+
+The area of the shape is $144 \ \text{cm}^2$
+
+What is the perimeter of the shape?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the square $= s$
+
+$
+\begin{aligned}
+\text{Area}     &= 144 \\\\
+9 \times a ^ 2  &= 144 \\\\
+a ^ 2           &= \dfrac {144} {9} \\\
+a ^ 2           &= \dfrac {16 \times 9} {9} \\\\
+a ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
+a ^ 2           &= 16 \\\\
+a               &= \sqrt 16 \\\\
+a               &= 4 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter} &= 20 \times 4 \\\\
+                 &= 80 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>017292F5-B2A1-4C79-85DD-F6BA7E5EF275</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three pet rabbits cost $\pounds 19.70$.
+
+The second rabbit cost $\pounds 2$ more than the first.
+
+The third rabbit cost $80 \text{p}$ less than the second. 
+
+What is the cost of the first rabbit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of first rabbit $= r$
+
+Cost of second rabbit $= 2 + r$
+
+Cost of third rabbit $= (2 + r) - 0.8$
+
+As per the question,
+
+$
+\begin {aligned}
+r + 2 + r + (2 + r) - 0.8 &= 19.70 \\\\
+3 r + 4 - 0.8             &= 19.70 \\\\
+3 r + 3.2                 &= 19.70 \\\\
+3 r                       &= 19.70 - 3.2 \\\\
+3 r                       &= 16.50 \\\\
+r                         &= \dfrac {16.50} {3} \\\\
+r                         &= \dfrac {5.5 \times 3} {3} \\\\
+r                         &= \dfrac {5.5 \times \cancel {3}} {\cancel {3}} \\\\
+r                         &= \pounds 5.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 5.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+May is $14 \ \text{years}$ old and her father is $39 \ \text{years}$ older than her. 
+May's mother is $8 \ \text{years}$ younger than her father. How old is May's mother?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Father's age} &= 14 + 39 \\\\
+                    &= 53 \ \text{years} \\\\
+\text{Mother's age} &= 53 - 8 \\\\
+                    &= 45 \ \text{years}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{years}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Five glass marbles cost a total of $\pounds 7.50$. How many marbles could I buy with $\pounds 24$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cost of one marble} &= \dfrac {7.50} {5} \\\\
+                          &= \dfrac {1.5 \times 5} {5} \\\\
+                          &= \dfrac {1.5 \times \cancel {5}} {\cancel {5}} \\\\
+                          &= \pounds 1.5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Number of marbles} &= \dfrac {24} {1.5} \\\\
+                          &= \dfrac {16 \times 1.5} {1.5} \\\\
+                          &= \dfrac {16 \times \cancel {1.5}} {\cancel {1.5}} \\\\
+                          &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>39086DA3-F713-45C2-91F7-217AC5ABF006</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You multiply a number by itself. You then multiply the new number by three. The answer is $192$.
+
+What is your starting number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a \times a) \times 3 &= 192 \\\\
+a ^ 2                 &= \dfrac {192} {3} \\\\
+a ^ 2                 &= \dfrac {64 \times 3} {3} \\\\
+a ^ 2                 &= \dfrac {64 \times \cancel {3}} {\cancel {3}} \\\\
+a ^ 2                 &= 64 \\\\
+a                     &= \sqrt 64 \\\\
+a                     &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DCF1FE2D-8937-40A2-8F2F-5103646889A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A box contains $48$ pieces of fruit. Five eighths of them are apples and the rest of them are pears. How many pears are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of apples} &= \dfrac {5} {8} \times 48 \\\\
+                        &= \dfrac {5 \times 48} {8} \\\\
+                        &= \dfrac {5 \times 6 \times 8} {8} \\\\
+                        &= \dfrac {5 \times 6 \times \cancel {8}} {\cancel {8}} \\\\
+                        &= 5 \times 6 \\\\
+                        &= 30
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of pears}  &= 48 - 30 \\\\
+                        &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has a perimeter of $8\ \text{cm}$. Five of these squares are put together in a line to make a rectangle. 
+
+What is the area of the rectangle?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Side of the square} &= \dfrac {8} {4} \\\\
+                           &= \dfrac {4 \times 2} {4} \\\\
+                           &= \dfrac {\cancel {4} \times 2} {\cancel {4}} \\\\
+                           &= 2 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Area of rectangle}  &= 5 \times \text{Area of one square} \\\\
+                           &= 5 \times 2 \times 2 \\\\
+                           &= 5 \times 4 \\\\
+                           &= 20 \ \text{cm} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm} ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BDA4A8AF-88B3-4D7B-82FC-E14471C0ED58</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The Jones children take their dogs for a walk.
+
+There are $3$ times as many dogs as children.
+
+The total number of legs is $56$. How many Jones children are then?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of children $= c$
+
+Number of dogs $= 3 c$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times c + 4 \times 3 c &= 56 \\\\
+2 c + 12 c                &= 56 \\\\
+14 c                      &= 56 \\\\
+c                         &= \dfrac {56} {14} \\\\
+c                         &= \dfrac {14 \times 4} {14} \\\\
+c                         &= \dfrac {\cancel {14} \times 4} {\cancel {14}} \\\\
+c                         &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C3254CDA-4FF0-4DD2-B767-58165F53A978</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tasha thinks of a number, multiplies it by $3$ and then adds $8$. 
+Her answer is $35$. What is the number she first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number be $= a$
+
+As per the question
+
+$
+\begin{aligned}
+3a + 8   &= 35 \\\\
+3a       &= 35 - 8 \\\\
+a        &= \dfrac {27} {3} \\\\
+a        &= \dfrac {3 \times 9} {3} \\\\
+a        &= \dfrac {\cancel {3} \times 9} {\cancel {3} } \\\\
+a        &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>52C8050F-874B-4DAC-AA7C-09BAC7CC653C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the correct number in the box.
+
+$\boxed{\phantom{55}} + 18 = 8 \times 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 18 &= 8 \times 4 \\\\
+a + 18 &= 32 \\\\
+a      &= 32 - 18 \\\\
+a      &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This shape has an area of $63 \ \text{cm}^2$.
+
+It is made from square tiles.
+
+Find the perimeter of the shape.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of square tile $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Area of the shape} &= 63 \\\\
+7 \times a ^ 2           &= 63 \\\\
+a ^ 2                    &= \dfrac {63} {7} \\\\
+a ^ 2                    &= \dfrac {7 \times 9} {7} \\\\
+a ^ 2                    &= \dfrac {\cancel {7} \times 9} {\cancel {7}} \\\\
+a ^ 2                    &= 9 \\\\
+a                        &= \sqrt 9 \\\\
+a                        &= 3 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Perimeter of the shape} &= 16 \times a \\\\
+                              &= 16 \times 3 \\\\
+                              &= 48 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7CD28E97-9AFA-46F8-9A9E-B995C440D735</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two identical square holes are cut from a rectangular sheet leaving an 
+area of $58$ square centimetres. How long are the sides of the square?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the square hole $= a$
+
+$
+\begin{aligned}
+\text{Area of two square holes} &= \text{Area of the rectangular sheet} - \text{Left area} \\\\
+2 \times a ^ 2                  &= 10 \times 9 - 58 \\\\
+2 \times a ^ 2                  &= 90 - 58 \\\\
+2 \times a ^ 2                  &= 32 \\\\
+a ^ 2                           &= \dfrac {32} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times 2} {2} \\\\
+a ^ 2                           &= \dfrac {16 \times \cancel {2}} {\cancel {2}} \\\\
+a                               &= \sqrt 16 \\\\
+a                               &= 4 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>662D74A3-BAE3-4A3B-B16D-976FF3EA71AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The sweet shapes below cost $52 \text{p}$ altogether. Each heart 
+costs half the price of a triangle and each star costs double the 
+cost of each triangle. 
+
+What is the cost of a heart?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of each triangle $= t$
+
+Cost of each heart $= \dfrac {t} {2}$
+
+Cost of each star $= 2 \times t$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times t + 4 \times \dfrac {t} {2} + 4 \times 2 \times t                                 &= 52 \\\\
+\dfrac {3 t \times 2} {1 \times 2} + \dfrac {4 t} {2} + \dfrac {8 t \times 2} {1 \times 2} &= 52 \\\\
+\dfrac {6 t} {2} + \dfrac {4 t} {2} + \dfrac {16 t} {2}                                    &= 52 \\\\
+\dfrac {6 t + 4 t + 16 t} {2}                                                              &= 52 \\\\
+\dfrac {26 t} {2}                                                                          &= 52 \\\\
+t                                                                                          &= \dfrac {52 \times 2} {26} \\\\
+t                                                                                          &= \dfrac {26 \times 2 \times 2} {26} \\\\
+t                                                                                          &= \dfrac {\cancel {26} \times 2 \times 2} {\cancel {26}} \\\\
+t                                                                                          &= 4 \text{p}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Cost of each heart} &= \dfrac {t} {2} \\\\
+                          &= \dfrac {4} {2} \\\\
+                          &= \dfrac {2 \times 2} {2} \\\\
+                          &= \dfrac {2 \times \cancel {2}} {\cancel {2}} \\\\
+                          &= 2 \text{p}
+\end{aligned}
+$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1543018F-C932-4ED3-845B-8C42976D5181</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Lucy is thinking of two numbers.
+
+The sum of the two numbers is $17$. When she multiplies them together, the result is $66$.
+
+What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers are $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b               &= 17 \\\\
+a \times b          &= 66 
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $66 = 1, 6, 11, 66$
+
+| Numbers   |  Multiplication  |  Sum  |
+|:-------:  |:---------------: |:----: |
+| $1, 66$   | $66$             | $67$  |
+| $6, 11$   | $66$             | $17$  |
+
+A quick check shows that $6$ and $11$ meets all the criteria above.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>580C4232-E3E9-45F3-9E28-CF2700B10FA3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number is multiplied by $100$ to give $2030$.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 100 &= 2030 \\\\
+a            &= \dfrac {2030} {100} \\\\
+a            &= 20.3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20.3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A pineapple costs $\pounds 2.47$.
+
+James has a $\pounds 10$ note.
+
+He buys as many pineapples as he can with his $\pounds 10$ note.   
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many pineapples does James buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total pineapples he buys} &= \dfrac {10} {2.47} \\\\
+                                 &= 4.0485 \\\\
+                                 &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change should James receive from his $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change received} &= 10 - 4 \times 2.47 \\\\
+                        &= 10 - 9.88 \\\\
+                        &= \pounds 0.12 \\\\
+                        &= 0.12 \times 100 \text{p} \\\\
+                        &= 12 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Caley starts with a number, doubles it and then subtracts $7$.
+
+The result is $31$.
+
+What number did Caley start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 7 &= 31 \\\\
+2 a            &= 31 + 7 \\\\
+2 a            &= 38 \\\\
+a              &= \dfrac {38} {2} \\\\
+a              &= \dfrac {19 \times 2} {2} \\\\
+a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+a              &= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D9392A40-884A-464D-8238-386B5F1D4905</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Monday, Helen hangs $8$ shirts and $4$ jumpers on the washing line.
+
+How many pegs does she use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Pegs used} &= 8 \times 3 + 4 \times 2 \\\\
+                 &= 24 + 8 \\\\
+                 &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Wednesday, Helen hangs $5$ shirts and some jumpers on the line.
+
+She uses $21$ pegs altogether.
+
+How many jumpers does Helen hang on the line?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of jumpers hung $= j$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times 5 + 2 \times j &= 21 \\\\
+15 + 2 j                &= 21 \\\\
+2 j                     &= 21 - 15 \\\\
+2 j                     &= 6 \\\\
+j                       &= \dfrac {6} {2} \\\\
+j                       &= \dfrac {2 \times 3} {2} \\\\
+j                       &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+j                       &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Friday, Helen uses $65$ pegs.
+
+She hangs an equal number of shirts and jumpers on the line.
+
+How many shirts does she hang on the washing line on Friday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of jumpers hung $= j$
+
+Number of shirts hung $= j$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times j + 2 \times j &= 65 \\\\
+5 j                     &= 65 \\\\
+j                       &= \dfrac {65} {5} \\\\
+j                       &= \dfrac {13 \times 5} {5} \\\\
+j                       &= \dfrac {13 \times \cancel {5}} {\cancel {5}} \\\\
+j                       &= 13
+\end{aligned}
+$
+
+Jumpers hung $=$ Shirts hung $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, \ 13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B5A67EBF-7804-44BA-A78D-4588DF38FCE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Half of a certain number is $17$. What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned} 
+\dfrac {1} {2} \times a                           &= 17 \\\\
+a                                                 &= 17 \times 2 \\\\
+a                                                 &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A large barrel contains $3.25 \ \text{litres}$ of water.
+
+Mel fills three $500 \ \text{ml}$ bottles from the barrel.
+
+She uses all of the rest of the water to fill as many $150 \ \text{ml}$ cups as she can.
+
+What is the largest number of cups which Mel could completely fill?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\text {ml}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Largest number of cups Mel could fill}   &= \dfrac {\text {Water in barrel} - \text {Water in bottles}} {\text {Water in a single cup}} \\\\
+                                                &= \dfrac {3.25 \ \text {litres} - 500 \ \text {ml} \times 3} {150 \ \text {ml}} \\\\
+                                                &= \dfrac {3.25 \times 1000 \ \text {ml} - 500 \ \text {ml} \times 3} {150 \ \text {ml}} \\\\
+                                                &= \dfrac {3250 - 500 \times 3} {150} \\\\
+                                                &= \dfrac {3250 - 1500} {150} \\\\
+                                                &= \dfrac {1750} {150} \\\\
+                                                &= 11.67
+\end{aligned}
+$
+
+Largest number of cups Mel can completely fill $= 11$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A49B42DF-977B-48A4-9AA3-E3A3ECC2DDC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Farmer Andrew’s chickens lay a total of $314$ eggs.
+
+Each egg box holds only $6$ eggs.
+
+How many egg boxes will Farmer Andrew be able to **completely fill** with these eggs?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Boxes Farmer Andrew can fill}    &= \dfrac {\text {Total eggs}} {\text {Number of eggs one box can hold}} \\\\
+                                        &= \dfrac {314} {6} \\\\
+                                        &= 52.33
+\end{aligned}
+$
+
+Number of boxes Farmer Andrew can completely fill $= 52$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>29F24834-5082-45DE-A93E-0937145E16AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A packet of $9$ chocolate cookies costs $\pounds 2.61$
+
+What is the cost of $4$ of these chocolate cookies?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Cost of 1 chocolate cookie}       &= \dfrac {2.61} {9} \\\\
+                                         &= \pounds 0.29 \\\\
+\text {Cost of 4 chocolate cookies}      &= 0.29 \times 4 \\\\
+                                         &= \pounds 1.16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Carla bought 2 books from a shop, and paid a total of $\pounds 8.50$
+
+One book cost $60 \ \text{pence}$ more than the other.
+
+What was the price of the **cheaper** book?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required. Let's convert all the units into $\pounds$.
+
+Let the cost of one book $= a$.
+
+The cost of second book $= a + 60 \ \text {pence}$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + a + 60 \ \text {pence}         &= \pounds 8.50 \\\\
+2 a + \pounds \dfrac {60} {100}    &= \pounds 8.50 \\\\
+2 a + \pounds 0.60                 &= \pounds 8.50 \\\\
+2 a                                &= 8.50 - 0.60 \\\\
+2 a                                &= 7.90 \\\\
+a                                  &= \dfrac {7.90} {2} \\\\
+a                                  &= \pounds 3.95
+\end{aligned}
+$
+
+Cost of cheaper book $= \pounds 3.95$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 3.95$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>376F37EC-1A3D-4857-B11B-3A35720D6E40</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jane bought a packet of sweets.
+
+A quarter of them were green, a third of them were red and the rest were yellow.
+
+There were $10$ yellow sweets.
+
+What was the total number of sweets in the packet?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of sweets $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {4} \ \text {of} \ a + \dfrac {1} {3} \ \text {of} \ a + 10                                      &= a \\\\
+\dfrac {1} {4} \times a + \dfrac {1} {3} \times a + 10                                                      &= a \\\\
+\dfrac {a} {4} + \dfrac {a} {3} + 10                                                                        &= a \\\\
+a - \dfrac {a} {4} - \dfrac {a} {3}                                                                         &= 10 \\\\
+\dfrac {a \times 12} {1 \times 12} - \dfrac {a \times 3} {4 \times 3} - \dfrac {a \times 4} {3 \times 4}    &= 10 \\\\
+\dfrac {12a} {12} - \dfrac {3a} {12} - \dfrac {4a} {12}                                                     &= 10 \\\\
+\dfrac {12a - 3a - 4a} {12}                                                                                 &= 10 \\\\
+5a                                                                                                          &= 10 \times 12 \\\\
+a                                                                                                           &= \dfrac {10 \times 12} {5} \\\\
+a                                                                                                           &= \dfrac {5 \times 2 \times 12} {5} \\\\
+a                                                                                                           &= \dfrac {\cancel {5} \times 2 \times 12} {\cancel {5}} \\\\
+a                                                                                                           &= 2 \times 12 \\\\
+a                                                                                                           &= 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>45C6BBA8-D606-45A4-8947-D8C2E2DFC0E9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A third of a certain number is $27$.
+
+What is the number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {one third of} \ a &= 27 \\\\
+\dfrac {1} {3} \times a  &= 27 \\\\
+a                        &= 27 \times 3 \\\\
+a                        &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F922D651-408E-4359-84E9-92753CFE0F39</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop sells coffee from Ethiopia.
+
+The prices for coffee beans and ground coffee are shown below.
+
+![missing image](/papers/missing_image.svg)
+
+![missing table](/papers/missing_table.svg)
+
+How much more does it cost to buy $250 \text{g}$ of ground coffee than $250 \text{g}$ of coffee beans?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of ground coffee}   &= \dfrac {2.10} {100} \times 250 \\\\
+                                &= \pounds 5.250 \\\\
+\text {Cost of coffee beans}    &= \dfrac {9.40} {4} \\\\
+                                &= \pounds 2.350 \\\\
+\text {Difference in cost}      &= 5.250 - 2.350 \\\\
+                                &= \pounds 2.900
+\end {aligned}
+$
+
+Ground coffee costs $\pounds 2.900$ more than coffee beans.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.900$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A69B26AB-BBDB-41AE-8C1F-CE46981F5AF5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sandy needs $12$ pizzas to feed $30$ people.
+
+How many pizzas will she need to feed $35$ people?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Pizza for one person}   &= \dfrac {\text {total pizzas}} {\text {total number of people}} \\\\
+                               &= \dfrac {12} {30} \\\\
+                               &= 0.4 \\\\
+\text{Pizza for 35 people}     &= \text {Pizza for one person} \times 35 \\\\
+                               &= 0.4 \times 35 \\\\
+                               &= 14
+\end{aligned}
+$
+
+Sandy needs $14$ pizzas to feed $35$ people.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4E3F385A-D69B-41D1-A8C0-0B1AB628B01A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Belinda ate $\dfrac{3}{5}$ of a bar of chocolate.
+
+$60 \ \text{grams}$ of chocolate remained.
+
+What was the original mass of the chocolate bar?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original mass of the chocolate bar $= a \ \text {grams}$.
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {5} \ \text {of} \ a + 60                    &= a \\\\
+\dfrac {3} {5} \times a + 60                            &= a \\\\
+\dfrac {3 a} {5} + 60                                   &= a \\\\
+a - \dfrac {3 a} {5}                                    &= 60 \\\\
+\dfrac {a \times 5} {1 \times 5} - \dfrac {3 a} {5}     &= 60 \\\\
+\dfrac {5 a} {5} - \dfrac {3 a} {5}                     &= 60 \\\\
+\dfrac {5 a - 3 a} {5}                                  &= 60 \\\\
+\dfrac {2 a} {5}                                        &= 60 \\\\
+a                                                       &= 60 \times \dfrac {5} {2} \\\\
+a                                                       &= \dfrac {60 \times 5} {2} \\\\
+a                                                       &= \dfrac {2 \times 30 \times 5} {2} \\\\\
+a                                                       &= \dfrac {\cancel {2} \times 30 \times 5} {\cancel {2}} \\\\
+a                                                       &= 30 \times 5 \\\\
+a                                                       &= 150 \ \text {grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DECB8B2F-C98F-461B-8772-23E3052D7DF2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Callum buys a new laptop costing $\pounds 572.50$
+
+He makes an initial payment of $\pounds 136$, and then pays the remainder in $6$ equal monthly amounts.
+
+![missing image](/papers/missing_image.svg)
+
+How much is each monthly amount?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Each monthly amount}     &= \dfrac {\text {Total amount} - \text {Initial payment}} {6} \\\\
+                                &= \dfrac {572.50 - 136} {6} \\\\
+                                &= \dfrac {436.5} {6} \\\\
+                                &= \pounds 72.75
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 72.75$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C59005D5-EA4A-432B-99E9-DF224B680D47</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagrams below, the perimeter of the square is equal to the perimeter of the isosceles triangle.
+
+Work out the length of the side marked $d$.
+
+![missing image](/papers/missing_image.svg)
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Perimeter of the square}     &= 4 \times \text {Sides} \\\\
+                                    &= 4 \times 9 \\\\
+                                    &= 36 \ \text {cm}
+\end {aligned}
+$
+
+We know that two sides of the isosceles triangle are equal. Using that we get,
+
+$
+\begin {aligned}
+\text {Perimeter of the triangle}   &= d + d + 20 \\\\
+36                                  &= 2d + 20 \\\\
+2d + 20                             &= 36 \\\\
+2d                                  &= 36 - 20 \\\\
+2d                                  &= 16 \\\\
+d                                   &= \dfrac {16} {2} \\\\
+d                                   &= \dfrac {8 \times 2} {2} \\\\
+d                                   &= \dfrac {8 \times \cancel {2}} {\cancel {2}} \\\\
+d                                   &= 8 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Barbara buys a box containing a selection of three types of biscuit.
+
+There are eight chocolate biscuits.
+
+A third of the other biscuits are custard creams.
+
+There are twelve ginger biscuits. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many custard creams are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
+
+$
+\begin{aligned}
+\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
+                                &= \dfrac {12} {3} \\\\
+                                &= \dfrac {4 \times 3} {3} \\\\
+                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                &= 4
+\end{aligned}
+$
+
+There are $4$ custard creams.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many biscuits are in the box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
+                                     &= 20 + \dfrac {12} {3} \\\\
+                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
+                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
+                                     &= 20+ 4 \\\\
+                                     &= 24
+\end{aligned}
+$
+
+There are $24$ biscuits in the box.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>34C4A0D4-9A04-4290-879F-66A94B759004</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of shapes there are three times as many squares as there are circles.
+
+There are twice as many triangles as squares.
+
+
+If there are $45$ squares, how many shapes are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of circles $= \dfrac {45} {3}$.
+
+Number of triangles $= 45 \times 2$.
+
+$
+\begin{aligned}
+\text {Total shapes}    &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
+                        &= 45 + \dfrac {15 \times 3} {3} +90 \\\\
+                        &= 45 + \dfrac {15 \times \cancel {3}} {\cancel {3}} +90 \\\\
+                        &= 45 + 15 + 90 \\\\
+                        &= 60 + 90 \\\\
+                        &= 150
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Six girls took a maths test.
+
+Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the difference between the highest and lowest marks?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 20 - 7 \\\\
+&= 13
+\end {aligned}
+$
+
+The difference between the highest and lowest marks is $13$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
+
+What was Ashleigh’s mark?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As per the question, the second angle $= 2a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 2a + 30     &= 180  \\\\
+3a + 30         &= 180  \\\\
+3a              &= 180 - 30  \\\\
+3a              &= 150  \\\\
+a               &= \dfrac {150} {3}  \\\\
+a               &= \dfrac {50 \times 3} {3}  \\\\
+a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
+a               &= 50 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now. 
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 2a  \\\\
+&= 2 \times 50  \\\\
+&= 100  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A19BFD7F-4748-4122-BDBF-42DCC2932E75</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In an arithmetic test, $4$ marks were given for each correct answer and a mark was deducted for each wrong answer. Tim got $17$ questions right and $3$ questions wrong. How many marks did he obtain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Marks for a correct answer}           &= 4 \\\\
+\text{Total correct answers}                &= 17 \\\\
+\text{Marks}                                &= 17 \times 4 \\\\
+\text{Marks deducted for a wrong answer}    &= 1 \\\\
+\text{Total wrong answers}                  &= 3 \\\\
+\text{Marks deducted}                       &= 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
+                                            &= 68 - 3 \\\\
+                                            &= 65
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{p}$ coins, $5 \text{p}$ coins and $10 \text{p}$ coins. How many coins are there in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
+\end{aligned}
+$
+
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3477EB4B-8C2A-4748-BA06-47119B363368</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pounds4000$. What is the cost of a bull?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bull (in $\text{\pounds}$) $= b$
+
+Let the cost of a cow (in $\text{\pounds}$) $= c$
+
+As per the question,
+
+$
+\begin{aligned} 
+b + 3c      &= 1300 \\\\
+4b + 8c     &= 4000         
+\end{aligned}
+$
+
+There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one variable. Multiply the first equation by $4$ to eliminate $b$.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300 \\\\
+4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
+4b + 12c                    &= 5200
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+4b + 12c                    &= 5200 \\\\
+4b + 8c                     &= 4000 \\\\
+4b + 12c - (4b + 8c)        &= 5200 - 4000 \\\\
+4b + 12c - 4b - 8c          &= 5200 - 4000 \\\\
+4c                          &= 1200 \\\\
+c                           &= \dfrac{1200}{4} \\\\
+c                           &= \pounds 300
+\end{aligned}
+$
+
+Cost of a cow $= \pounds 300$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the cost of a bull.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300  \\\\
+b + 3 \times 300            &= 1300 \\\\
+b + 900                     &= 1300 \\\\
+b                           &= 1300 - 900 \\\\
+b                           &= \pounds 400
+\end{aligned}
+$
+
+Cost of a bull $= \pounds 400$.
+
+</div>
+<div class='working'>
+
+Can we do better than the previous solution? If we look at the question, we only have to find the cost of a bull. 
+In the previous solution, we first found the cost of a cow and then we used that to find the cost of a bull.
+We can eliminate $c$ instead to directly find the cost of a bull.
+
+Let the cost of a bull in pounds $= b$
+
+Let the cost of a cow in pounds $= c$
+
+Let's eliminate again to reduce it to just one variable $b$. The LCM of $8$ and $3$ is $24$. 
+Multiply the first equation by $8$ and the second equation by $3$ to make the coeifficent of $c$ the same.
+
+$
+\begin{aligned} 
+b + 3c                      &= 1300 \\\\
+4b + 8c                     &= 4000 \\\\
+8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
+3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
+8b + 24c                    &= 10400 \\\\
+12b + 24c                   &= 12000
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+8b + 24c                    &= 10400 \\\\
+12b + 24c                   &= 12000 \\\\
+12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
+12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
+4b                          &= 1600 \\\\
+b                           &= \dfrac{1600}{4} \\\\
+b                           &= \pounds 400
+\end{aligned}
+$
+
+Cost of a bull $= \pounds 400$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 400$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4C2A869B-1707-489C-A49A-F96518FD445D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A baby crocodile grows by $\dfrac{1}{5}$ of its length 
+every week. Today it is $30 \ \text{cm}$ long. 
+How long was it last week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the baby crocodile last week $= a$.
+
+As per the question, it grows by $\dfrac{1}{5}$ of its length every week. So,
+
+$
+\begin{aligned}
+a + \dfrac {a} {5}                      &= 30 \\\\
+\dfrac {5a} {5}  + \dfrac {a} {5}       &= 30 \\\\
+\dfrac {6a} {5}                         &= 30 \\\\
+a                                       &= \dfrac {30 \times 5} {6} \\\\
+a                                       &= \dfrac {5 \times 6 \times 5} {6} \\\\
+a                                       &= \dfrac {5 \times \cancel{6} \times 5} {\cancel{6}} \\\\
+a                                       &= 5 \times  5 \\\\
+a                                       &= 25 \ \text{cm}
+\end{aligned}
+$
+
+Length of the baby crocodile last week $= 25 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B7F28045-5B69-4DBE-903E-2067CBEB11BA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have some $20 \text{p}$ pieces. I have twice as 
+many $10 \text{p}$ pieces as $20 \text{p}$ pieces. I have 
+twice as many $5 \text{p}$ pieces as I 
+have $10 \text{p}$ pieces. I have $\pounds 4.80$ altogether. 
+How many coins do I have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of $20 \text{p}$ coins $= a$. Then, as per the question, 
+
+$10 \text{p}$ coins $= 2a$
+
+$5 \text{p}$ coins $= 4a$
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+
+$
+\begin{aligned}
+\text{Total amount} &= \pounds 4.80\\\\
+                    &= 4.80 \times 100 \text{p} \\\\
+                    &= 480 \text{p}
+\end{aligned}
+$
+
+Using that we get,
+
+$
+\begin{aligned}
+20 \times a + 10 \times 2a + 5 \times 4a    &= 480\\\\
+20a + 20a + 20a                             &= 480 \\\\
+60a                                         &= 480 \\\\
+a                                           &= \dfrac {480} {60} \\\\
+a                                           &= \dfrac {60 \times 8} {60} \\\\
+a                                           &= \dfrac {\cancel{60} \times 8} {\cancel{60}} \\\\
+a                                           &= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total coins}  &= a + 2a + 4a \\\\
+                    &= 7a \\\\
+                    &= 7 \times 8 \\\\
+                    &= 56 \ \text{coins} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$ coins
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3006214B-FA8B-4235-885A-996FE8877264</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Irfan is standing in a queue of $24$ people.
+
+What position is he in the queue if there are $7$ more people ahead of him than behind him?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of people behind Irfan $= a$
+
+Then, as per the question, the number of people ahead of Irfan $= a + 7$
+
+So, *People ahead* $+$ *Irfan* $+$ *People behind* $= 24$
+
+Putting this into an equation, we get
+
+$
+\begin{aligned}
+(a + 7) + 1 + a     &= 24 \\\\
+a + 7 + 1 + a       &= 24 \\\\
+2a + 8              &= 24 \\\\
+2a                  &= 24 - 8 \\\\
+2a                  &= 16 \\\\
+a                   &= \dfrac {16} {2} \\\\
+a                   &= 8
+\end{aligned}
+$
+
+Number of people behind Irfan $= 8$. So,
+
+Irfan's position $= 24 - 8 = 16$
+
+Irfan is $16 \text{th}$ in the queue.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BFE40D96-8522-4C51-9255-AA907949965E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three CDs and two DVDs cost $\pounds 43$. Two CDs and three DVDs cost $\pounds 47$. What is the cost of one CD?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a CD in pounds $= c$
+
+Let the cost of a DVD in pounds $= d$
+
+As per the question,
+
+$
+\begin{aligned} 
+3c + 2d &= 43 \\\\
+2c + 3d &= 47
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? If we look at the question again, we only need the 
+cost for a CD, so let's eliminate $d$ so we can directly calculate the value for $c$.
+
+The LCM of $2$ and $3$ is $6$. Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $d$ the same.
+
+$
+\begin{aligned} 
+3 \times 3c + 3 \times 2d   &= 3 \times 43  \\\\
+2 \times 2c + 2 \times 3d   &= 2 \times 47  \\\\
+9c + 6d                     &= 129 \\\\
+4c + 6d                     &= 94
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned} 
+9c + 6d - (4c + 6d) &= 129 - 94 \\\\
+9c + 6d - 4c - 6d   &= 35 \\\\
+5c                  &= 35 \\\\
+c                   &= \dfrac {35} {5} \\\\
+c                   &= \dfrac {7 \times 5} {5} \\\\
+c                   &= \dfrac {7 \times \cancel{5}} {\cancel{5}} \\\\
+c                   &= 7
+\end{aligned}
+$
+
+Cost of a CD $= \pounds 7$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $c$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$. Multiply the first equation by $2$ and the second equation by $3$ to make the coeifficent of $c$ the same.
+
+$
+\begin{aligned} 
+2 \times 3c + 2 \times 2d   &= 2 \times 43 \\\\
+3 \times 2c + 3 \times 3d   &= 3 \times 47 \\\\
+6c + 4d                     &= 86 \\\\
+6c + 9d                     &= 141
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned} 
+6c + 9d - (6c + 4d)     &= 141 - 86 \\\\
+6c + 9d - 6c - 4d       &= 55 \\\\
+5d                      &= 55 \\\\
+d                       &= \dfrac {55} {5} \\\\
+d                       &= \dfrac {11 \times 5} {5} \\\\
+d                       &= \dfrac {11 \times \cancel{5}} {\cancel{5}} \\\\
+d                       &= 11
+\end{aligned}
+$
+
+Cost of a DVD $= \pounds 11$. 
+
+Let's substitute the value of $d$ in one of the initial equations to find the cost of a CD.
+
+$
+\begin{aligned} 
+3c + 2d             &= 43 \\\\
+3c + 2 \times 11    &= 43 \\\\
+3c + 22             &= 43 \\\\
+3c                  &= 43 -22 \\\\
+3c                  &= 21 \\\\
+c                   &= \dfrac {21} {3} \\\\
+c                   &= \dfrac {7 \times 3} {3} \\\\
+c                   &= \dfrac {7 \times \cancel{3}} {\cancel{3}} \\\\
+c                   &= 7
+\end{aligned}
+$
+
+Cost of a CD $= \pounds 7$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>74DBCD36-37BB-4856-BF34-7C3AA8E7DF0E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The area of a rectangle is $72$ square centimetres. The length of the rectangle is $1 \ \text{cm}$ more than the width.
+
+Work out the length of the perimeter of the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+Let the width of the rectangle in ($\text{cm}$) $= a$
+
+Then, as per the question, the length of the rectangle in ($\text{cm}$) $= a +1$
+
+$\text{Area} = \text{length} \times \text{width}$
+
+Equating dimensions to the area, we get
+
+$a \times (a + 1) = 72$
+
+This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
+
+*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+$
+\begin{aligned}
+a \times (a + 1)    &= 72 \\\\
+8 \times (8 + 1)    &= 72 \\\\
+8 \times 9          &= 72  \\\\
+a                   &= 8  \ \text{cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the rectangle.
+
+$
+\begin{aligned}
+\text{Perimeter}    &= 2 \times (\text{length} + \text{width}) \\\\
+                    &= 2 \times (a + a + 1) \\\\
+                    &= 2 \times (8 + 8 + 1) \\\\
+                    &= 2 \times 17 \\\\
+                    &= 34 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7E7878A4-808C-4404-8B60-2FB05E498D2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ger has $\pounds 2$ made up of $20 \text{p}$ and $10 \text{p}$ coins. He has twice as many $20 \text{p}$ coins as $10 \text{p}$ ones. How many $10 \text{p}$ coins does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of $10 \text {p}$ coins $= c$
+
+As per the question,
+
+Count of $20 \text {p}$ coins $= 2c$
+
+It is really important to convert into the right units.
+
+Let's convert the total amount into pence.
+
+$
+\begin{aligned} 
+\text{Total Amount}     &=  \pounds 2 \\\\
+                        &=  2 \times 100 \text{p} \\\\
+                        &=  200 \text{p}
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned} 
+10 \times c + 20 \times 2c      &= 200 \\\\
+10c + 40c                       &= 200 \\\\
+50c                             &= 200 \\\\
+c                               &= \dfrac{200} {50} \\\\
+c                               &= \dfrac{50 \times 4} {50} \\\\
+c                               &= \dfrac{\cancel{50} \times 4} {\cancel{50}} \\\\
+c                               &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6E6B11E1-CFDF-43B5-9CF2-E7E17FFE2599</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison has $8$ more pencils than rulers. If she has a total of $52$ pencils and rulers, how many rulers does she have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of rulers $= r$
+
+As per the question,
+
+$
+\begin{aligned} 
+\text {Number of Pencil + Number of Ruler} &= 52 \\\\
+r + (r + 8)                                &= 52 \\\\
+2r + 8                                     &= 52 \\\\
+2r                                         &= 52 - 8 \\\\
+2r                                         &= 44 \\\\
+r                                          &= \dfrac {44}{2} \\\\
+r                                          &= \dfrac {2 \times 22}{2} \\\\
+r                                          &= \dfrac {\cancel {2} \times 22}{\cancel {2}} \\\\
+r                                          &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B3120C19-2C89-411F-90CE-9EA04D6E4598</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two rectangles have the same area. One rectangle is $28 \ \text{cm}$ long and $12 \ \text{cm}$ wide. The second rectangle has width $7 \ \text{cm}$. What is the length of this rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the second rectangle $= l$
+
+As per the question, the area of both the rectangles are the same.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+Putting this into an equation, we get,
+
+$
+\begin{aligned}
+l \times 7  &= 28 \times 12 \\\\
+l           &= \dfrac {28 \times 12} { 7} \\\\
+l           &= \dfrac {7 \times 4 \times 12} { 7} \\\\
+l           &= \dfrac {\cancel{7} \times 4 \times 12} { \cancel{7}} \\\\
+l           &= 4 \times 12 \\\\
+l           &= 48 \ \text{cm}
+\end{aligned}  
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>521214EB-CA81-4E61-8F79-5E1BF8007C95</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jo writes down a two digit number. When she reverses the digits and subtracts the smaller 
+number from the larger number the answer she gets is $36$. What is the difference between the 
+two digits in her original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the tens digit for the number $= a$
+
+Let the unit digit for the number $= b$
+
+Value of the original number $= 10a + b$
+
+When the digits are reversed, the value of the reversed number $= 10b + a$
+
+As per the question,
+
+$
+\begin{aligned}
+(10a + b)- (10b + a)    &= 36 \\\\
+10a + b- 10b - a        &= 36 \\\\
+9a -9b                  &= 36 \\\\
+9 (a - b)               &= 36 \\\\
+a - b                   &= \dfrac {36}{9} \\\\
+a - b                   &= 4
+\end{aligned}
+$
+
+The difference between the two digits in her original number is $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, two angles are the same and the third angle is THREE times bigger than either of the others.  What is the size of the biggest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two equal angles $= a$
+
+As per the question, the third angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 3a      &= 180 \degree \\\\
+5a              &= 180 \\\\
+a               &= \dfrac {180} {5} \\\\
+a               &= \dfrac {36 \times 5} {5} \\\\
+a               &= \dfrac {36 \times \cancel{5}} {\cancel{5}} \\\\
+a               &= 36 \degree
+\end {aligned}
+$
+
+We know the size of the first angle now.
+
+However, we need to find the largest angle which is the third angle.
+
+$
+\begin {aligned}
+\text {Largest angle}   &= 3a \\\\
+                        &= 3 \times 36 \\\\
+                        &= 108 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3ACC56E9-45C3-48B3-BD78-324451DE6879</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Neil thinks of a number, he halves it and then subtracts $9$.  If the answer he gets is $12$, what was the original number he thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that Neil thought of $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+\dfrac {a} {2} - 9      &= 12 \\\\
+\dfrac {a} {2}          &= 12 + 9 \\\\
+\dfrac {a} {2}          &= 21 \\\\
+a                       &= 21 \times 2 \\\\
+a                       &= 42
+\end {aligned}
+$
+
+The number that Neil thought of $= 42$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1A6AB009-2F49-47AF-BA34-6312AA658C67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John the electrician needs to cut three lengths of wire from the $5 \ \text{metre}$ roll he has brought with him to do a job. The three lengths he cuts are $85 \ \text{cm}$, $2.5 \ \text{metre}$s and $650 \ \text{mm}$. How much wire (in cms) will he have left after cutting off his lengths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the left over wire (in $\text {cm}$) $= w$.
+
+It is really important to use the right units in calculations and convert where required. The wire measurement are given in multiple units.
+
+Let's convert all the measurements into $\text{cm}$.
+
+As per the question,
+
+$
+\begin {aligned}
+85 \ \text {cm} +  2.5 \ \text {metre} + 650 \ \text {mm} + w                                               &= 5 \ \text {metre} \\\\
+85 \ \text {cm} +  2.5 \times 100 \ \text {cm} + \dfrac {650} {10} \ \text {cm} + w                         &= 5 \times 100 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + \dfrac {65 \cancel {0}} {1 \cancel {0}} \ \text {cm} + w              &= 500 \ \text {cm} \\\\
+85 \ \text {cm} +  250 \ \text {cm} + 65 \ \text {cm} + w                                                   &= 500 \ \text {cm} \\\\
+85  + 250  + 65 + w                                                                                         &= 500  \\\\
+400 + w                                                                                                     &= 500 \\\\
+w                                                                                                           &= 500 - 400 \\\\
+w                                                                                                           &= 100 \ \text {cm}
+\end {aligned}
+$
+
+The left over wire length is = $100\ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1902F906-A937-4906-A778-A09ED836599C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two metal weights in the form of cuboids have the same volume.  One is $20 \ \text{cm}$ long, $16 \ \text{cm}$ wide and $9 \ \text{cm}$ high. 
+The other weight is $10 \ \text{cm}$ wide and $12 \ \text{cm}$ high. 
+
+What is its length if the volume of a cuboid is given by length x width x height?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the second cuboid (in $\text{cm}$) $= l$
+
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+As per the question, the two weights have the same volume. Using that we get,
+
+$
+\begin{aligned}
+10 \times 12 \times l   &=20 \times 16 \times 9 \\\\
+l                       &= \dfrac {20 \times 16 \times 9} {10 \times 12} \\\\
+l                       &= \dfrac {2 \times 10 \times 4 \times 4 \times 3 \times 3} {10 \times 4 \times 3} \\\\
+l                       &= \dfrac {2 \times 1\cancel{0} \times \cancel{4} \times 4 \times \cancel{3} \times 3} {1\cancel{0} \times \cancel{4} \times \cancel{3}} \\\\
+l                       &= 2 \times 4 \times 3 \\\\
+l                       &= 24 \ \text{cm}
+\end{aligned}
+$
+
+Length of the second cuboid $= 24 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B1663F8E-5D97-46AD-80FC-DFEBC4114EED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a wet week in Rusholme the mean (or average) rainfall over the five days from Monday to Friday was $12 \ \text{mm}$. 
+On Monday, when the rain was heaviest there was $22 \ \text{mm}$, but on Friday there was only $5 \ \text{mm}$ of rain.  
+
+What was the mean rainfall on the other three days?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+</div>
+<div class='working'>
+
+Let the rainfall for Tuesday, Wednesday and Thursday (in mm) $= r$
+
+$
+\begin{aligned}
+\text{Average rainfall for } 5 \text{ days}  &= \dfrac {\text{Total Rainfall}} {\text{Total days}} \\\\
+12                                           &= \dfrac {22 + r + 5} {5} \\\\
+12 \times 5                                  &= 22 + r + 5 \\\\
+60                                           &= 27 + r \\\\
+27 + r                                       &= 60 \\\\
+r                                            &= 60 - 27\\\\
+r                                            &= 33  \ \text{mm}
+\end{aligned}
+$
+
+Total rainfall for Tuesday, Wednesday and Thursday $= 33  \ \text{mm}$
+
+Let's find the average rainfall for the other $3$ days now.
+
+$
+\begin{aligned}
+\text{Average rainfall for } 3 \text{ days}     &= \dfrac {\text{Total Rainfall }} {\text{Total days}} \\\\
+                                                &= \dfrac {33} {3} \\\\
+                                                &= 11  \ \text{mm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11\ \text {mm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
+When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
+
+How many coins were there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$.
+
+It is really important to use the right units in calculations and convert where required. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E2291F35-574A-483C-8BAF-E63AE6B7FA81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle is $4 \ \text{cm}$ longer than it is wide. The 
+distance all the way round the rectangle (its perimeter) 
+is $32 \ \text{cm}$.  What is the area of the rectangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Length $= a + 4$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+Equating the perimeter to the length and width we get,
+
+$
+\begin{aligned}
+2 \times (a + 4 + a)      &= 32 \\\\
+2 \times (2a + 4)         &= 32 \\\\
+4a + 8                    &= 32 \\\\
+4a                        &= 32 - 8\\\\
+4a                        &= 24\\\\
+a                         &= \dfrac {24} {4} \\\\
+a                         &= 6  \ \text{cm}
+\end{aligned}
+$
+
+$\text{Width} = 6 \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Length}       &= a + 4 \\\\
+                    &= 6 + 4 \\\\
+                    &= 10 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Area}         &= \text{length} \times \text{width} \\\\
+                    &= 10 \times 6 \\\\
+                    &= 60 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BF5B5BD3-287F-4180-939C-D53BE202DA6C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cow eats $8  \ \text{kg}$ of food per day and a pig eats $6  \ \text{kg}$ of 
+food per day. A farmer has $30$ cows and some pigs.  If the animals 
+eat a total of $360  \ \text{kg}$ of food each day, work out how 
+many pigs the farmer has.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of pigs $= a$
+
+As per the question,
+
+Let's equate food consumed to the count of animals, we get
+
+$
+\begin{aligned} 
+30 \times 8 + a \times 6    &= 360 \\\\
+240 + 6a                    &= 360 \\\\
+6a                          &= 360 - 240 \\\\
+6a                          &= 120 \\\\
+a                           &= \dfrac {120} {6} \\\\
+a                           &= \dfrac {20 \times 6} {6} \\\\
+a                           &= \dfrac {20 \times \cancel{6}} {\cancel{6}} \\\\
+a                           &= 20
+\end{aligned}
+$
+
+Number of pigs $= 20$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>625257F8-46C4-4F5F-9DF6-C451EA995331</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+David cuts a $6  \ \text{metre}$ long pole into three different 
+pieces.  The largest piece is $40 \ \text{cm}$ longer than the middle piece 
+and the middle piece is $70 \ \text{cm}$ longer than the shortest piece.
+
+What is the size of the largest piece?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the shortest piece (in $\text{cm}$) $= a$
+
+Then as per the question,
+
+Middle piece (in $\text{cm}$) $= a + 70$
+
+Largest piece (in $\text{cm}$) $= a + 70 + 40$
+
+It is really important to convert into the right units. 
+The pole measurement is given in metres while the measurement of the pieces are given in cms.
+Let's convert the total length into $\text{cm}$.
+
+$
+\begin{aligned} 
+\text{Total length}     &=  6  \ \text{metre} \\\\
+                        &=  6 \times 100 \ \text{cm} \\\\
+                        &=  600 \ \text{cm}
+\end{aligned}
+$
+
+Equating the pole to pieces we get,
+
+$
+\begin{aligned} 
+a + (a + 70) + (a + 70 + 40)    &= 600 \\\\
+a + a + 70 + a + 70 + 40        &= 600 \\\\
+3a + 180                        &= 600 \\\\
+3a                              &= 600 - 180\\\\
+3a                              &= 420 \\\\
+3a                              &= \dfrac {420} {3} \\\\
+a                               &= 140 \ \text{cm}
+\end{aligned}
+$
+
+The shortest piece $= 120$ cm.
+
+let's calculate the largest piece.
+
+$
+\begin{aligned} 
+\text{Largest piece}   &= a + 70 + 40 \\\\
+                       &= 140 + 70 + 40 \\\\
+                       &= 250  \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$250  \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E32C98B2-7C2C-406F-AEAC-A4AECCE46113</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two bags of crisps and five chocolate biscuits cost $\pounds 1.76$. If 
+each bag of crisps costs  $4 \text{p}$ more than a chocolate 
+biscuit, what is the cost of a biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a chocolate biscuit (in pence) $= a$
+
+Cost of a bag of crisps (in pence) $= a + 4$
+
+As per the question,
+
+$
+\begin{aligned} 
+2 \times (a + 4) + 5 \times a   &= \pounds 1.76  \\\\
+2 \times (a + 4) + 5 \times a   &= 176 \text{pence}  \\\\
+2a + 8 + 5a                     &= 176  \\\\
+7a + 8                          &= 176  \\\\
+7a                              &= 176 - 8  \\\\
+7a                              &= 168  \\\\
+a                               &= \dfrac {168}{7}  \\\\
+a                               &= \dfrac {24 \times 7}{7}  \\\\
+a                               &= \dfrac {24 \times \cancel{7}}{\cancel{7}}  \\\\
+a                               &= 24 \text{p}
+\end{aligned}
+$
+
+Cost of a chocolate biscuit $= 24 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 39 + 81   &= 180 \\\\
+a + 120       &= 180 \\\\
+a             &= 180 - 120 \\\\
+a             &= 60 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A second triangle is isosceles, and one of its angles is $48\degree$. What are the TWO possible pairs of values for the other two angles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+As the triangle is an isosceles triangle, there are two possiblities:
+
+The two missing angles are equal.
+
+Assuming this, we get
+
+Let the two missing angles $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 48 \degree   &= 180 \degree \\\\
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
+\end {aligned}
+$
+
+The two angles are $66 \degree , 66 \degree$.
+
+Or, One of the missing angles is $= 48 \degree$.
+
+Let the third angle $= b$.
+
+$
+\begin {aligned}
+48 + 48 + b    &= 180 \degree \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
+b              &= 84 \degree
+\end {aligned}
+$
+
+The two angles are $48 \degree, 84 \degree$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$66 \degree, 66 \degree$
+
+</div>
+<div class='answer'>
+
+$48 \degree, 84 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a third triangle ABC, angle $B$ is two times the size of angle $A$ and angle $C$ is $40\degree$ more than angle $A$. 
+What is the size of angle $A$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+A + B + C        &= 180 \degree \\\\
+A + 2A + 40 + A  &= 180 \\\\
+4A + 40          &= 180 \\\\
+4A               &= 180 - 40 \\\\
+A                &= \dfrac {160} {4} \\\\
+A                &= \dfrac {4 \times 40} {4} \\\\
+A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
+A                &= 40 \degree
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller angle $= a$
+
+As per the question, the second angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now.
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A31A6436-9C6D-4A0E-B943-F8626DF8E8C7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop reduces its prices by $20 \%$ in a sale. David bought a coat for $\pounds 40$ in the sale. How much would the coat have cost him **__before__** the sale?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original cost of the coat (in $\pounds$) $= c$
+
+If the price is reduced by $20 \%$, then the sale price would be $100 - 20 = 80 \%$ of the original price.
+
+Let's use this to calculate the original price.
+
+$
+\begin{aligned}
+80 \% \text{ of } c               &= 40 \\\\
+\dfrac {80 } { 100 } \times c     &= 40 \\\\
+c                                 &= \dfrac {40 \times 100} { 80 } \\\\
+c                                 &= \dfrac {40 \times 2 \times 50} { 40 \times 2 } \\\\
+c                                 &= \dfrac {\cancel{40} \times \cancel{2} \times 50} { \cancel{40} \times \cancel{2} } \\\\
+c                                 &= \pounds 50 
+\end{aligned}
+$
+
+Original price $= \pounds 50$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 50$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E2B23658-50CC-43B0-813D-B11A7DDE570B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tim has three apples. The mean (average) weight of the three apples is $90 \ \text {grams}$. When Tim eats the largest apple, the mean weight of the remaining two apples is just $70 \ \text {grams}$.
+
+What was the weight of the largest apple?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight for the largest apple (in $\text{grams}$) $= a$
+
+$\text{Average weight} = \dfrac {\text{Total Weight}} {\text{Total Apples}}$
+
+$
+\begin{aligned}
+\text{Mean weight of } 2 \text{ apples}     &= 70 \\\\
+\text{Total weight of } 2 \text{ apples}    &= 70 \times 2 \\\\
+                                            &= 140  \ \text {grams}
+\end{aligned}
+$
+
+Using the average weight for $3$ apples, we get
+
+$
+\begin{aligned}
+\dfrac {a + 140} {3}    &= 90  \\\\
+a + 140                 &= 90  \times 3 \\\\
+a + 140                 &= 270 \\\\
+a                       &= 270 - 140\\\\
+a                       &= 130 \ \text {grams} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \ \text {grams}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the sequence of numbers which starts $2, 3, 5, 9, \ldots$  each number is one less than two times the previous number in the list. 
+
+What is the number in the list immediately **__before__** $257$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number immediately before $= a$
+
+As per the question,
+
+
+$
+\begin{aligned} 
+2a - 1      &= 257 \\\\
+2a          &= 257 + 1 \\\\
+2a          &= 258 \\\\
+a           &= \dfrac {258}{2} \\\\
+a           &= 129
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$129$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0B47659C-81C5-46B4-8F2D-C1372D5BCBAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A plant is growing at a steady rate of $0.2 \ \text{cms}$ every day. At midday on January $19 \text{th}$ the plant was $6 \ \text{cms}$ high.  What will the date be when it reaches a height of $11 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of days it takes the plant to reach a height of $11 \ \text{cm}$ $= a$
+
+As per the question,
+
+$
+\begin{aligned} 
+6 + 0.2 \times a    &= 11 \\\\
+0.2a                &= 11 - 6 \\\\
+0.2a                &= 5 \\\\
+a                   &= \dfrac {5} {0.2} \\\\
+a                   &= \dfrac {5 \times 10} {0.2 \times 10} \\\\
+a                   &= \dfrac {50} {2} \\\\
+a                   &= 25 \ \text{days}
+\end{aligned}
+$
+
+$
+\begin{aligned} 
+\text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
+                                            &= \text{February } 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{February } 13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The **average** weight of five parcels is $3.7 \  \text{kg}$. Four of the parcels are identical and each weigh $3.5 \  \text{kg}$. What is the weight of the fifth parcel?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of the fifth parcel (in kg) $= w$
+
+$
+\begin{aligned}
+\text{Average weight}           &= \dfrac {\text{Weight of all the parcels}} {\text{Total parcels}} \\\\
+3.7                             &= \dfrac {3.5 \times 4 + w} {5} \\\\
+3.7 \times 5                    &= 3.5 \times 4 + w \\\\
+3.5 \times 4 + w                &= 3.7 \times 5 \\\\
+14 + w                          &= 18.5 \\\\
+w                               &= 18.5 - 14  \\\\
+w                               &= 4.5  \ \text{kg}
+\end{aligned}
+$
+
+Weight of the fifth parcel $= 4.5 \ \text {kg}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.5 \ \text {kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>99B771D4-952B-4603-BB61-6A63F668BA1F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Aidan was told to divide a certain number by $17$. Instead he divided the number by $7$ and got the answer $68$. What was the answer to the division he was supposed to do?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a}{7}   &= 68 \\\\
+a               &= 68 \times 7 \\\\
+a               &= 476
+\end{aligned}
+$
+
+Original number is $= 476$
+
+Let's find the actual answer Aidan should have got.
+
+$
+\begin{aligned}
+&= \dfrac {476} {17} \\\\
+&= \dfrac {28 \times 17} {17} \\\\
+&= \dfrac {28 \times \cancel {17}} {\cancel {17}} \\\\
+&= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of string is $160 \  \text{cm}$ long. It is formed into a rectangle whose length is three times its width. 
+Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text {cm}$) $= w$
+
+Then as per the question, length of the rectangle $= 3w$
+
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
+
+Equating the perimeter to length and width we get,
+
+$
+\begin {aligned}
+2 \times (3w + w)   &= 160 \\\\
+2 \times 4w         &= 160 \\\\
+8w                  &= 160 \\\\
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>99D0FFC6-A645-4175-8EA6-1E27EC96521C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+talgebra
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the following diagram the two shaded rectangles have equal areas. What is the **total** shaded area?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the shaded left bottom rectangle (in $\text{cm}$) $= a$
+
+Then, as per the diagram, the length of the shaded right top rectangle (in $\text{cm}$) $= 14 - a$
+
+As per the question, the area of both the rectangles are same.
+
+Putting this into an equation, we get
+
+$
+\begin{aligned}
+3 \times a  &= 4 \times (14 - a) \\\\
+3a          &= 56 - 4a \\\\
+3a + 4a     &= 56 \\\\
+7a          &= 56 \\\\
+a           &= \dfrac {56} {7} \\\\
+a           &= 8 \ \text{cm}
+\end {aligned}
+$
+
+$
+\begin{aligned}
+\text{Total shaded area}    &= 2 (3 \times 8) \\\\
+                            &= 2 \times 24 \\\\
+                            &= 48 \ \text{cm}^2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E18F355F-E6B9-4D2A-922F-0959DD6D4280</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nancy bought five oranges and two apples and they cost $\pounds 3.40$. At the same shop, 
+David bought three oranges and one apple and paid $\pounds 2.00$. 
+
+What would Steve have paid if he bought four oranges and two apples from this shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an apple (in pence) $= a$
+
+Let the cost of an orange (in pence) $= b$
+
+It is really important to convert into the right units. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned} 
+5b + 2a &= 340 \\\\
+3b + a  &= 200
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned} 
+2 \times 3b + 2 \times a &= 2 \times 200 \\\\
+6b + 2a                  &= 400
+\end{aligned}
+$
+
+Subtract the first equation from the second below to reduce it to one variable.
+
+$
+\begin{aligned} 
+5b + 2a                 &= 340 \\\\
+6b + 2a                 &= 400 \\\\
+6b + 2a - (5b + 2a)     &= 400 - 340 \\\\
+6b + 2a - 5b - 2a       &= 60 \\\\
+b                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of an orange $= 60 \ \text{pence}$.
+
+Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
+
+$
+\begin{aligned} 
+3b + a           &= 200 \\\\
+3 \times 60 + a  &= 200 \\\\
+180 + a          &= 200 \\\\
+a                &= 200 - 180 \\\\
+a                &= 20 \ \text{pence}
+\end{aligned}
+$
+
+
+$
+\begin{aligned} 
+\text{Steve paid}   &= 4b + 2a \\\\
+                    &= 4 \times 60 + 2 \times 20 \\\\
+                    &= 240 + 40 \\\\
+                    &= 280 \ \text{pence} \\\\
+                    &= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>728683E0-0172-4C1B-B996-DE78A22F8120</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+St Hugh's School hall is in the shape of a large box or cuboid.  
+The area of the floor is $200 \ \text{m}^2$, the area of one of the 
+side walls is $150 \ \text{m}^2$ and the area of an end wall is $48 \ \text{m}^2$. 
+
+What is the height, in metres, of the hall?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the school hall (in m) $= l$
+
+Let the width of the school hall (in m) $= w$
+
+Let the height of the school hall (in m) $= h$
+
+$\text {Area} = \text {length} \times \text {width}$
+
+As per the question,
+
+$
+\begin{aligned}
+l \times w   &= 200 \\\\
+l \times h   &= 150 \\\\
+l            &= \dfrac {150} {h} \\\\
+w \times h   &= 48 \\\\
+w            &= \dfrac{48}{h}
+\end{aligned}
+$
+
+Substituting $l$ and $w$ in the first equation in terms of $h$, we get
+
+$
+\begin{aligned}
+l \times w                              &= 200 \\\\
+\dfrac {150} {h} \times \dfrac {48} {h} &= 200 \\\\
+\dfrac {150 \times 48} {h^2}            &= 200 \\\\
+\dfrac {150 \times 48} {200}            &= h^2 \\\\
+h^2                                     &= \dfrac {150 \times 48} {200} \\\\
+h^2                                     &= \dfrac {50 \times 3 \times 12 \times 4} {50 \times 4} \\\\
+h^2                                     &= \dfrac {\cancel{50} \times 3 \times 12 \times \cancel{4}} {\cancel{50} \times \cancel{4}} \\\\
+h^2                                     &= 3 \times 12 \\\\
+h^2                                     &= 36 \\\\
+h                                       &= \sqrt {36} \\\\
+h                                       &= 6 \ \text {m}
+\end{aligned}
+$
+
+Height of the school hall (in m) $= 6  \ \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
+
+So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
+
+Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
+\end{aligned}
+$
+
+Let the starting fare $= a$
+
+QMC = $80$ pence
+
+Total fare = starting charge + (quarter miles $\times 80p$)
+
+$
+\begin{aligned}
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
+\end{aligned}
+$
+
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $\dfrac{3}{7}$ of a number is $18$, what is $\dfrac{5}{6}$ of the **same** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times \dfrac{3} {7} &= 18 \\\\
+a                      &= 18 \times \dfrac {7} {3} \\\\
+a                      &= \dfrac {18 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times 3 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times \cancel{3} \times 7} {\cancel{3}} \\\\
+a                      &= 6 \times 7 \\\\
+a                      &= 42
+\end{aligned}
+$
+
+Now let's find $\dfrac {5} {6}$ of the number.
+
+$
+\begin{aligned}
+&= \dfrac {5} {6} \times 42 \\\\
+&= \dfrac {5 \times 42} {6}  \\\\
+&= \dfrac {5 \times 7 \times 6} {6}  \\\\
+&= \dfrac {5 \times 7 \times \cancel{6}} {\cancel{6}}  \\\\
+&= 5 \times 7 \\\\
+&= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five friends raise $\pounds 400$ for their favourite charity. 
+Alan collects $\pounds 74$  and Bilal raises $\pounds 86$. 
+Chloe collects twice as much as David who raises three times as much as Emily. How much did Chloe collect?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Emily's collection (in $\pounds$) $= a$. Then,
+
+David's collection $= 3a$
+
+Chloe's collection $= 6a$
+
+As per the question,
+
+$
+\begin{aligned}  
+74 + 86 + 6a + 3a + a   &= 400 \\\\
+160 + 10a               &= 400 \\\\
+10a                     &= 400 - 160 \\\\
+10a                     &= 240 \\\\
+a                       &= \dfrac {240} {10} \\\\
+a                       &= \pounds 24
+\end{aligned}
+$
+
+Emily's collection $= \pounds 24$
+
+Let's find Chloe's collection.
+
+$
+\begin{aligned}  
+\text{Chloe's collection} &= 6a \\\\
+                          &= 6 \times 24 \\\\
+                          &= \pounds 144
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the calories provided by the cake (in calories) $= c$
+
+Let the calories provided by the biscuit (in calories) $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+c + 2b      &= 450 \\\\
+2c + 3b     &= 800         
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
+
+Multiply the first equation by $2$.
+
+$
+\begin{aligned}
+c + 2b                          &= 450 \\\\
+2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
+2c + 4b                         &= 900
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2c + 4b                 &= 900 \\\\
+2c + 3b                 &= 800    \\\\
+2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
+2c + 4b - 2c - 3b       &= 100 \\\\
+b                       &= 100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+<div class='working'>
+
+What if we eliminate $b$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$.
+Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+2c + 3b                         &= 800  \\\\   
+3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
+2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
+3c + 6b                         &= 1050 \\\\
+4c + 6b                         &= 1600  \\\\   
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+3c + 6b                 &= 1350 \\\\
+4c + 6b                 &= 1600  \\\\ 
+4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
+4c + 6b - 3c - 6b       &= 250  \\\\ 
+c                       &= 250 \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the cake $= 250 \ \text {calories}$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+250 + 2b                        &= 450 \\\\
+2b                              &= 450 - 250 \\\\
+2b                              &= 200 \\\\
+b                               &= \dfrac{200}{2} \\\\
+b                               &=  100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100  \ \text {calories}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag of money to take to the bank I have only $5 \text{p}$, $10 \text{p}$ and $20 \text{p}$ coins.
+
+I have twice as many $20 \text{p}$ coins as $10 \text{p}$ coins and half as many $5 \text{p}$ coins as $10 \text{p}$ coins.
+
+If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of $5 \text{p}$ coins $= a$. Then,
+
+Number of $10 \text{p}$ coins $= 2a$
+
+Number of $20 \text{p}$ coins $= 4a$
+
+It is really important to convert into the right units. 
+The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}  
+5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
+5a + 20a + 80a                              &= 15.75 \times 100 \ \text {p} \\\\
+5a + 20a + 80a                              &= 1575 \\\\
+105a                                        &= 1575 \\\\
+a                                           &= \dfrac {1575} {105} \\\\
+a                                           &= \dfrac {21 \times 5 \times 15} {21 \times 5} \\\\
+a                                           &= \dfrac {\cancel{21} \times \cancel{5} \times 15} {\cancel{21} \times \cancel{5}} \\\\
+a                                           &= 15
+\end{aligned}
+$
+
+Number of $5 \ \text{p}$ coins $= 15$
+
+Let's find the number of $20 \ \text{p}$ coins.
+
+$
+\begin {aligned}
+20 \ \text{p} \text{ coins}   &= 4a \\\\
+                              &= 4 \times 15 \\\\
+                              &= 60
+\end {aligned}
+$
+
+Number of $20 \ \text{p}$ coins $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0D7C430D-B032-4DD3-A97B-F5008B1947C3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following sum? 
+
+$4060800 = 4000000 + \ldots + 800$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$.
+
+$
+\begin {aligned}
+4060800                     &= 4000000 + a + 800 \\\\
+4060800 - 4000000 - 800     &= a \\\\
+a                           &= 60000
+\end {aligned}
+$
+
+The missing number is $= 60000$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>30D0B7AD-9447-463A-831D-D948DCE6F17F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John thinks of a number. He multiplies that number by four and then adds three to the result. If the answer he obtains is $35$, what is the number he first thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number that John thought is $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+4a + 3    &= 35 \\\\
+4a        &= 35 - 3 \\\\
+4a        &= 32 \\\\
+a         &= \dfrac {32} {4} \\\\
+a         &= \dfrac {8 \times 4} {4} \\\\
+a         &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
+a         &= 8
+\end {aligned}
+$
+
+The number that John thought $= 8$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smallest angle $= a$
+
+As per the question, 
+
+Middle angle $= 3a$
+
+Largest angle $= 6a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 6a     &= 180 \\\\
+10a             &= 180 \\\\
+a               &= \dfrac {180} {10} \\\\
+a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
+a               &= 18 \degree
+\end{aligned}
+$
+
+We know the size of the smallest angle now.
+
+However, we need to find the largest angle.
+
+$
+\begin{aligned}
+\text{Largest angle}    &= 6a \\\\
+                        &= 6 \times 18 \\\\
+                        &= 108 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>200C8D82-5237-4C70-B9AC-2480E77462EA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the picture below is the net of a cube. What would be the total surface area of the outside of the cube when the net is made into the cube?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of the cube (in $\text{cm}$) $= a$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+3a      &= 15 \ \text{cm} \\\\
+a       &= \dfrac {15} {3} \\\\
+a       &= 5 \ \text{cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Surface area}  &= 6a^{2} \\\\
+                     &= 6 \times 5 \times 5 \\\\
+                     &= 150 \ \text{cm}^{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>864F4E3D-6828-49EA-AE5B-C17F5CF91616</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two bottles of water and three small bags of fruit cost a total of $\pounds 2.55$. If a bottle of water costs $15 \text{p}$ **more** than a bag of fruit, what is the cost of a bag of fruit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of a bottle of water (in pence) $= w$
+
+Let the cost of a bag of fruit (in pence) $= f$
+
+It is really important to use the right units in calculations and convert where required.
+
+The cost is given in pounds and pence. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+2w + 3f      &= 255 \\\\
+w - f        &= 15
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+
+cost for a bag of fruit, so let's eliminate $w$ so we can directly calculate the value for $f$.
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned}
+w - f                           &= 15 \\\\
+w \times 2 - f  \times 2        &= 15 \times 2 \\\\
+2w - 2f                         &= 30
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f             &= 255 \\\\
+2w - 2f             &= 30 \\\\
+2w + 3f - (2w - 2f) &= 255 - 30 \\\\
+2w + 3f - 2w + 2f   &= 225 \\\\
+5f                  &= 225 \\\\
+f                   &= \dfrac{225}{5} \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$.
+
+</div>
+<div class='working'>
+
+What if we eliminate $f$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+Multiply the second equation by $3$.
+
+$
+\begin{aligned} 
+w - f                           &= 15 \\\\
+w \times 3 - f  \times 3        &= 15 \times 3 \\\\
+3w - 3f                         &= 45
+\end{aligned}
+$
+
+Add second equation to the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2w + 3f                 &= 255 \\\\
+3w - 3f                 &= 45 \\\\
+2w + 3f + (3w - 3f)     &= 255 + 45 \\\\
+2w + 3f + 3w - 3f       &= 300 \\\\
+5w                      &= 300 \\\\
+w                       &= \dfrac{300}{5} \\\\
+w                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bottle of water $= 60 \ \text{pence}$. 
+
+Let's substitute the value of $w$ in one of the initial equations to find the cost of a bag of fruit.
+
+$
+\begin{aligned} 
+w - f               &= 15 \\\\
+60 -f               &= 15 \\\\
+-f                  &= 15 - 60 \\\\
+-f                  &= -45 \\\\
+f                   &= 45 \ \text{pence}
+\end{aligned}
+$
+
+Cost of a bag of fruit $= 45 \ \text {pence}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45p$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>26E16C3C-4AED-4018-A4B3-041DDC0C4959</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bilal has made a box in the shape of a cuboid with sides $4 \ \text{cm}, 5 \ \text{cm}$ and $32 \ \text{cm}$. 
+He wants to make another **different** shaped box but with the **same** volume. 
+This box will have a height of $10 \ \text{cm}$ and a square base. What will be the length of the base?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the base (in $\text{cm}$) $= a$
+
+$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+
+As per the question, the two boxes have the same volume. Using that we get,
+
+$
+\begin{aligned}
+10 \times a \times a    &= 4 \times 5 \times 32 \\\\
+a^{2}                   &= \dfrac {4 \times 5 \times 32} {10} \\\\
+a^{2}                   &= \dfrac {2 \times 2 \times 5 \times 32} {2 \times 5} \\\\
+a^{2}                   &= \dfrac {2 \times \cancel{2} \times \cancel{5} \times 32} {\cancel{2} \times \cancel{5}} \\\\
+a^{2}                   &= 2 \times 32 \\\\
+a^{2}                   &= 64 \\\\
+a                       &= \sqrt{64} \\\\
+a                       &= 8 \ \text{cm}
+\end{aligned}
+$
+
+Length of the base $= 8 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FEF8AADE-2D7B-4940-99BD-A18E327E4D0F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The gas meter reading on Andrew's smart meter in October was $5475$ units. 
+Exactly **three** months later, in January, the reading was $6045$ units. 
+M-power charge a fixed amount of $\pounds 16.20$ **each month** plus $40\text{p}$ for **each unit** used during the three months between the two readings.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many units of gas has Andrew used in the three month period from October to January?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+January reading = $6045$ 
+
+October reading = $5475$ 
+
+$
+\begin {aligned}
+&= 6045 - 5475 \\\\
+&= 570
+\end {aligned}
+$
+
+$570$ units of gas has Andrew used in the three month period from October to January.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$570 \ \text {units}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate the **total** amount Andrew has to pay for that three month period.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text {Total amount for three months}   &= 3 \times \text {Fixed amount for each month} + 570 \times \text {Cost of a unit} \\\\
+                                        &= 3 \times \pounds 16.20 + 570 \times 40 \ \text {p} \\\\
+                                        &= \pounds 48.60 + 570 \times \pounds \dfrac {40} {100} \\\\
+                                        &= \pounds 48.60 + 570 \times \pounds 0.40 \\\\
+                                        &= 48.60 + 228 \\\\
+                                        &= \pounds 276.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 276.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In fact, M-power also have to add $5\%$ to Andrew's bill which is the tax known as VAT. What will be the **final** bill that Andrew has to pay for his gas?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Final Bill}      &= \text {Total bill} + \text {VAT} \\\\
+                        &= \pounds 276.60 + (5 \% \ \text {of} 276.60) \\\\
+                        &= 276.60 + (5 \% \times 276.60) \\\\
+                        &= 276.60 + (\dfrac {5} {100} \times 276.60) \\\\
+                        &= 276.60 + (\dfrac {276.60 \times 5}{100}) \\\\
+                        &= 276.60 + \dfrac {1383} {100} \\\\
+                        &= 276.60 + 13.83 \\\\
+                        &= \pounds 290.43
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 290.43$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows a triangle [not drawn to scale]. 
+
+Calculate each of the angles marked $x$ and $y$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 63 \degree          &= 180 \degree  \\\\
+x                       &= 180 - 63 \\\\
+x                       &= 117 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + 63 \degree + 88 \degree         &= 180 \degree \\\\
+y + 151                             &= 180 \\\\
+y                                   &= 180 - 151 \\\\
+y                                   &= 29 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$x = 117 \degree, \ \ y = 29 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0A3C048F-79C4-49D7-B58E-976896702ECF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in the missing numbers to each of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$93 - \Box - \boxed{18} = 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$93 - \underline{\green{39}} - 18 = 43$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(8 + \Box )\times 7 =91$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+(8 + a)\times 7     &= 91 \\\\
+8 + a               &= \dfrac {91} {7} \\\\ 
+                    &= \dfrac {7 \times 13} {7} \\\\
+                    &= \dfrac {\cancel {7} \times 13} {\cancel {7}} \\\\
+8 + a               &= 13 \\\\
+a                   &= 13 - 8 \\\\
+a                   &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>82081F61-AF8E-4357-8AF9-7FC59FE52137</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in the missing numbers:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$23 \times\:\:\:\:\Box  =\:\:\: 690$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+23 \times \text{Missing number}         &= 690 \\\\
+\text{Missing number}                   &= \dfrac {690} {23} \\\\
+                                        &= \dfrac {30 \times 23} {23} \\\\
+                                        &= \dfrac {30 \times \cancel {23}} {\cancel {23}} \\\\
+                                        &= 30
+\end{aligned} 
+$
+
+Missing number $= 30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\Box\:\:\:-\:\:\:\boxed{87} = \:\:\:265$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Missing number} - 87         &= 265 \\\\
+\text{Missing number}              &= 265 + 87 \\\\
+                                   &= 352
+\end{aligned}
+$
+
+Missing number $= 352$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$352$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>93995941-DF79-4306-A16E-1B3F36315184</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other angles in the triangle $=a, b$
+
+As we know, the sum of angles in a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+a               &= 180 - 110 \\\\
+a              &= 70 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+b               &= 180 - 100 \\\\
+b              &= 80 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+χ + a + b           &= 180 \\\\
+χ                   &= 180 - a - b \\\\
+χ                   &= 180 - 70 - 80 \\\\
+χ                   &= 180 - 150 \\\\
+χ                   &= 30 \degree \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$t \times 0.805 = 8050$
+
+What is the value of $t$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+t \times 0.805      &= 8050 \\\\
+t                   &= \dfrac {8050} {0.805} \\\\
+t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
+t                   &= \dfrac {8050 \times 10000} {8050} \\\\
+t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
+t                   &= 10000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank is making a sequence of numbers. The first number is $1$ and the third is $9$. Frank gets his sequence by multiplying the previous value by the same number each time. Write in the three missing numbers in the sequence shown.
+
+$1$. ___________, $9$, ___________, ___________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the difference between the number $= a$
+
+$
+\begin{aligned}
+1 \times a \times a             &= 9 \\\\
+a^2                             &= 9 \\\\
+a                               &= \sqrt {3} \\\\
+a                               &= 3
+\end{aligned}
+$
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}}
+&&  \footnotesize{\maroonC{(\times 3)}} \\
+1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 1 \times 3 \\\\
+                                &= 3 \\\\
+\text{Second missing number}    &= 9 \times 3 \\\\
+                                &= 27 \\\\
+\text{Third missing number}     &= 9 \times 3 \times 3 \\\\
+                                &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Missing Numbers : $3 , 27 , 81$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve each of the following equations:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 - χ = 2$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+8 - χ                   &= 2 \\\\
+χ                       &= 8 - 2 \\\\
+χ                       &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$x+\frac{1}{3}=1\frac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
+x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
+x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
+x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
+x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
+x                                    &= \dfrac {15 - 4} {12} \\\\
+x                                    &= \dfrac {11} {12} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Granddad spends one quarter of his weekly pension on a Friday night out, and one third of what remains on a Saturday night. What fraction of his weekend pension is left for him to spend during the rest of the week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weekly pension of granddad $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
+\text{Pension spent on saturday}        &= \dfrac {1} {3} \left ( a - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {a \times 4} { 1 \times 4} - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {4a} {4} - \dfrac {a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \left ( \dfrac {4a - a} {4} \right ) \\\\
+                                        &= \dfrac {1} {3} \times \dfrac {3a} {4} \\\\
+                                        &= \dfrac {3 \times a} {3 \times 4} \\\\
+                                        &= \dfrac {\cancel {3} \times a} {\cancel {3} \times 4} \\\\
+                                        &= \dfrac {a} {4}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a} {4} - \dfrac {a} {4} - \dfrac {a} {4} \\\\
+                                        &= \dfrac {4a - a - a} {4} \\\\
+                                        &= \dfrac {2a} {4} \\\\
+                                        &= \dfrac {2 \times a} {2 \times 2} \\\\
+                                        &= \dfrac {\cancel {2} \times a} {\cancel {2} \times 2} \\\\
+                                        &= \dfrac {a} {2} \\\\
+\text{Fraction of Pension left}         &= \dfrac {\dfrac{a} {2}} {a} \\\\
+                                        &= \dfrac {a} {2 \times a} \\\\
+                                        &= \dfrac {\cancel {a}} {2 \times \cancel {a}} \\\\
+                                        &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of Fred $=a$
+
+Let the weight of Gary $=b$
+
+Let the weight of Harry $=c$
+
+As per the question,
+
+$
+\begin{aligned}
+a + b                       &= 12 + c \\\\
+b + c                       &= 8 + a \\\\
+a + c                       &= 14 + b \\\\
+\text{Adding up the above three equations, we get,} \\\\
+a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
+2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
+2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
+a + b + c                   &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
+
+![missing image](/papers/missing_image.svg)
+
+how many are white chocolate?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Total number of chocolates in the box $= 30$
+
+$
+\begin{aligned}
+\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
+                                    &= \dfrac {30} {6} \\\\
+                                    &= \dfrac {6 \times 5} {6} \\\\
+                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
+                                    &= 5
+\end{aligned}
+$
+
+Number of white chocolates $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the same box $10$ are milk chocolates.
+
+What fraction, of all the chocolates, are milk chocolate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Number of milk chocolates $= 10$
+
+Fraction of milk chocolates $= \dfrac {10} {30}$
+
+$
+\begin{aligned}
+&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+Fraction of milk chocolates $= \dfrac {1} {3}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**a * b = a x a + b**, 
+
+so $5 * 7 = 5 \times 5 + 7$
+$5 * 7 = 32$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $2 * 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2 \times 2 + 5 \\\\
+&= 4 + 5 \\\\
+&= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $d$ if $d * 3 = 19$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+d \times d + 3      &= 19 \\\\
+d \times d          &= 19 - 3 \\\\
+d^2                 &= 16 \\\\
+d                   &= \sqrt {16} \\\\
+d                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ben has $$\pounds 68$. He gives a quarter of this to his sister. How much does he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total money = $\pounds 68$
+
+Money left with Ben = Total money - $\dfrac {1} {4} \ \text{of} \ \pounds 68$
+
+$
+\begin{aligned}
+&= 68 - (\dfrac {1} {4} \times 68) \\\\
+&= 68 - \dfrac {68} {4} \\\\
+&= 68 - \dfrac {17 \times 4} {4} \\\\
+&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+&= 68 - 17 \\\\
+&= \pounds 51
+\end{aligned}
+$
+
+Money left with Ben $= \pounds 51$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 51$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When two fifths of the class are absent, there are $18$ pupil; present. What is the total number of pupils in the class?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of pupils be $t$
+
+As per the question,
+
+Pupil present = $18$
+
+Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
+
+Total pupil = pupil present + pupil absent
+
+$
+\begin{aligned}
+t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
+t                                                               &= 18 + \dfrac {2t} {5} \\\\
+t - \dfrac {2t} {5}                                             &= 18 \\\\
+\dfrac{t \times 5} {1 \times 5} - \dfrac {2t} {5}               &= 18 \\\\
+\dfrac{5t - 2t} {5}                                             &= 18 \\\\
+\dfrac{3t} {5}                                                  &= 18 \\\\
+3t                                                              &= 18 \times 5 \\\\
+t                                                               &= \dfrac {18 \times 5} {3} \\\\
+t                                                               &= \dfrac {3 \times 6 \times 5} {3} \\\\
+t                                                               &= \dfrac {\cancel {3} \times 6 \times 5} {\cancel {3}} \\\\
+t                                                               &= 6 \times 5 \\\\
+t                                                               &= 30
+\end{aligned}
+$
+
+Total number of pupils in the class = $30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an eqilateral triangle inside a rectangle.
+
+Calculate the value of angle $x$.
+
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+All angles of an equilateral triangle $= 60 \degree$
+
+All angles of a rectangle $= 90  \degree$
+
+As per the figure,
+
+$
+\begin{aligned}
+x + 60 + 14     &= 90 \\\\
+x + 74          &= 90 \\\\
+x               &= 90 - 74 \\\\
+x              &= 16 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The rectangle and triangle below have the same height.
+
+![missing image](/papers/missing_image.svg)
+
+If the perimeter of the rectangle (all 4 sides) is $32\,m$, what is the area of the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other side of rectangle $= t \ \text{m}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 2 \times (\text{length} + \text{width}) \\\\
+32                      &= 2 \times (7 + t) \\\\
+32                      &= 14 + 2t \\\\
+14 + 2t                 &= 32 \\\\
+2t                      &= 32 - 14 \\\\
+2t                      &= 18 \\\\
+t                       &= \dfrac{18} {2} \\\\
+t                       &= \dfrac{9 \times 2} {2} \\\\
+t                       &= \dfrac{9 \times \cancel{2}} {\cancel{2}} \\\\
+t                       &= 9 \ \text{m}
+\end{aligned}
+$
+
+Now the area of triangle,
+
+$
+\begin{aligned}
+\text{Area}             &= \dfrac{1} {2} \times \text{base} \times \text{height} \\\\
+                        &= \dfrac{1} {2} \times (17 - 9) \times 7 \\\\
+                        &= \dfrac{1} {2} \times 8 \times 7 \\\\
+                        &= \dfrac{8 \times 7} {2} \\\\
+                        &= \dfrac{2 \times 4 \times 7} {2} \\\\
+                        &= \dfrac{\cancel{2} \times 4 \times 7} {\cancel{2}} \\\\
+                        &= 4 \times 7 \\\\
+                        &= 28 \ \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \ \text{m}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FC3ABA33-5D43-482E-9D5F-4D8124DCB134</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Edward has a sum of money. He gives one-third to his son George and threefifths to his daughter Olivia. If George receives $$\pounds 15$, how much does Olivia receive? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the money Edward has = $\pounds a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {3} \times a             &= \pounds 15 \\\\
+a                                   &= 15 \times 3 \\\\
+a                                   &= \pounds 45
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Money that Olivia receives}   &= \dfrac {3} {5} \times a \\\\
+                                    &= \dfrac {3} {5} \times 45 \\\\
+                                    &= \dfrac {3 \times 45} {5} \\\\
+                                    &= \dfrac {3 \times 9 \times 5} {5} \\\\
+                                    &= \dfrac {3 \times 9 \times \cancel 5} {\cancel 5} \\\\
+                                    &= 3 \times 9 \\\\
+                                    &= \pounds 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6ED09898-3049-403B-862A-0997F0A0FB65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Homer, Marge and Bart each have $$1000$.
+
+Homer gives $10\%$ of his money to Marge. Marge then gives $10\%$ of her new amount to Bart. Bart then gives $10\%$ of his new amount to Homer.
+
+How much has Homer got now?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Amount Homer gives to Marge}          &= 10 \% \ \text{of} \ 1000 \\\\
+                                            &= \dfrac {10} {100} \times 1000 \\\\
+                                            &= \dfrac {10 \times 1000} {100} \\\\
+                                            &= \dfrac {10 \times 10 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 10 \\\\
+                                            &= 100 \\\\
+\text{New amount that Marge has}            &= 1000 + 100 \\\\   
+                                            &= 1100 \\\\                                        
+\text{Amount Marge gives to Bart}           &= 10 \% \ \text{of} \ 1100 \\\\
+                                            &= \dfrac {10} {100} \times 1100 \\\\
+                                            &= \dfrac {10 \times 1100} {100} \\\\
+                                            &= \dfrac {10 \times 11 \cancel 0 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 10 \times 11 \\\\
+                                            &= 110 \\\\
+\text{New amount that Bart has}             &= 1000 + 110 \\\\   
+                                            &= 1110 \\\\                                        
+\text{Amount Bart gives to Homer}           &= 10 \% \ \text{of} \ 1110 \\\\
+                                            &= \dfrac {10} {100} \times 1110 \\\\
+                                            &= \dfrac {10 \times 1110} {100} \\\\
+                                            &= \dfrac {1 \cancel 0 \times 111 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
+                                            &= 1 \times 111 \\\\
+                                            &= 111 \\\\
+\text{New amount that Homer has}            &= 900 + 111 \\\\   
+                                            &= 1011
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1011$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5C46037A-9D8E-4709-A27D-EC329D33E470</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6 \times ………………….. = $\pounds 9.60$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+6 \times a                          &= \pounds 9.60 \\\\
+a                                   &= \dfrac {9.6} {6} \\\\
+                                    &= \dfrac {9.6 \times 10} {6 \times 10} \\\\
+                                    &= \dfrac {96} {6 \times 10} \\\\
+                                    &= \dfrac {6 \times 16} {6 \times 10} \\\\
+                                    &= \dfrac {\cancel{6} \times 16} {\cancel{6} \times 10} \\\\
+                                    &= \dfrac {16} {10} \\\\
+a                                   &= \pounds 1.6
+\end{aligned}
+$
+
+The missing number $= \pounds 1.6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Fruit**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jack buys **four** apples.
+
+He pays with a **$\pounds 2** coin.
+
+He gets **$\pounds 1.20** change.
+
+
+![missing image](/papers/missing_image.svg)
+
+How much does **one** apple cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Cost of $4$ apples = Money he paid - Money he recieved 
+
+$
+\begin{aligned}
+&= \pounds 2 - \pounds 1.20 \\\\
+&= \pounds 0.80
+\end{aligned}
+$
+
+Cost of $1$ apple = $\pounds \dfrac{0.80} {4}$
+
+$
+\begin{aligned}
+&= \dfrac {0.8 \times 10} {4 \times 10} \\\\
+&= \dfrac {8} {4 \times 10} \\\\
+&= \dfrac {4 \times 2} {4 \times 10} \\\\
+&= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 10} \\\\
+&= \dfrac {2}{10} \\\\
+&= \pounds 0.2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 0.2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Oranges cost **15 \text{p}$** each. 
+
+Raj has a **$\pounds 1** coin.
+
+
+![missing image](/papers/missing_image.svg)
+
+What is the greatest number of oranges Raj can buy with $\pounds 1?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the greatest number of oranges Raj can buy = $a$
+
+Cost of each orange = $15 \text{p}$
+
+Total money Raj has = $\pounds 1 = 100 \text{p}$
+
+As per the question,
+
+$
+\begin{aligned}
+15 \times a         &< 100 \\\\
+a                   &< \dfrac{100} {15} \\\\
+a                   &< \dfrac{20 \times 5} {3 \times 5} \\\\
+a                   &< \dfrac{20 \times \cancel{5}} {3 \times \cancel{5}} \\\\
+a                   &< \dfrac {20} {3} \\\\
+a                   &< 6.66 \\\\
+a                   &= 6
+\end{aligned}
+$
+
+The greatest number of oranges Raj can buy = $6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>9BAEC1C3-1291-46F0-8A06-C2CB59BB5445</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Solving**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the values of $x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5x - 3 = 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 3      &= 12 \\\\
+5x          &= 12 + 3 \\\\
+5x          &= 15 \\\\
+x           &= \dfrac{15} {5} \\\\
+x           &= \dfrac{5 \times 3} {5} \\\\
+x           &= \dfrac{\cancel {5} \times 3} {\cancel {5}} \\\\
+x           &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$13 + 2x = 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+13 + 2x     &= 3 \\\\
+2x          &= 3 - 13 \\\\
+2x          &= -10 \\\\
+x           &= \dfrac{-10} {2} \\\\
+x           &= \dfrac{2 \times -5} {2} \\\\
+x           &= \dfrac{\cancel {2} \times -5} {\cancel {2}} \\\\
+x           &= -5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>225E084E-3E8B-41BC-8F2E-8117437E9AF8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Value**
+
+Use **a = 7** and **b = 28** to work out the value of these expressions.
+
+The first one is done for you.
+
+ $a + b$ = ......**35**.....
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$ab$ = .....................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \times 28 \\\\
+&= 196
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$196$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b/a$ = .....................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {b} {a} \\\\
+&= \dfrac {28} {7} \\\\
+&= \dfrac {7 \times 4} {7} \\\\
+&= \dfrac {\cancel {7} \times 4} {\cancel {7}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(a+b)^2$ =  ................
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= (a+b)^2 \\\\
+&= (7+28)^2 \\\\
+&= (35)^2 \\\\
+&= 1125
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1125$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the ages of a father, his daughter and his two sons is $96$ years. 
+
+The daughter is half the father's age and double the age of her two brothers. 
+
+How old is the father?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the age of father $= a$
+
+Age of daughter $= \dfrac {a} {2}$
+
+Age of brother $= \dfrac {a} {4}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Age of father} + \text{Age of daughter} + \text{Age of 2 sons}                            &= 96 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac{a} {4}                                             &= 96 \\\\
+\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
+\dfrac {8a} {4}                                                                                 &= 96 \\\\
+8a                                                                                              &= 96 \times 4 \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= 12 \times 4 \\\\
+a                                                                                               &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+</ul>

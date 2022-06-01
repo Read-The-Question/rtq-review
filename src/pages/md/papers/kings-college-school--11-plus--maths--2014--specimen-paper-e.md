@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -238,7 +238,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
 </div>
@@ -479,12 +479,12 @@ $\dfrac {37} {7}$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>2AC891C8-7536-4140-932D-979889A952B8</p>
 </div>
@@ -669,7 +669,7 @@ $-2$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -921,7 +921,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nc_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>1D39E10A-D62A-42AF-A7F8-E1F73365CFCF</p>
 </div>
@@ -1135,7 +1135,7 @@ $\pounds 3.0825$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_nc_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1147,10 +1147,7 @@ $\pounds 3.0825$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttime
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1361,7 +1358,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>3D3967D6-262B-4CC9-8544-EC70D5B72197</p>
 </div>
@@ -1668,7 +1665,7 @@ $64$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -2491,10 +2488,10 @@ $36 \text{ coins}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+trecipe
 </li>
 <li>
-tfraction
+tratio
 </li>
 </ul>
 </div>

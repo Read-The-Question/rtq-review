@@ -1,7 +1,7 @@
 ---
 slug: "owners/owner-ak-pr"
 title: "Owner - Abhay Kandpal - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -235,9 +235,6 @@ $3 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -739,10 +736,10 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1444,10 +1441,10 @@ $
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1582,10 +1579,13 @@ $48 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tunitprompt
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1881,10 +1881,7 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2900,10 +2897,10 @@ $\pounds 40.8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3145,13 +3142,7 @@ $2.5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-ttime
+tnumber
 </li>
 </ul>
 </div>
@@ -3511,9 +3502,6 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -3839,9 +3827,6 @@ $105 \ \text {degrees}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 </ul>
@@ -3890,9 +3875,6 @@ $19.4 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>
@@ -3945,10 +3927,10 @@ $18 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -4274,9 +4256,6 @@ $0.50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -4527,13 +4506,7 @@ $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
-</li>
-<li>
-tspeed
 </li>
 </ul>
 </div>
@@ -4647,9 +4620,6 @@ $17 {:} 10$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttemperature
 </li>
@@ -5147,9 +5117,6 @@ $63$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -5408,9 +5375,6 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 </ul>
@@ -5619,13 +5583,10 @@ $269$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tspeed
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -6300,13 +6261,10 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -6466,9 +6424,6 @@ $19764$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -6798,9 +6753,6 @@ $16 \times 7  \ \boxed{>} \ 17 \times 6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttemperature
 </li>
 </ul>
@@ -6911,9 +6863,6 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -6955,9 +6904,6 @@ $\dfrac{5} {8}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -7490,10 +7436,10 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -7659,10 +7605,13 @@ $2400 \text{g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>

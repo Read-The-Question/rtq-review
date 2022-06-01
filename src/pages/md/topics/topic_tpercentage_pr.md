@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-pr"
 title: "Topic - Percentage - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -159,472 +159,6 @@ $18$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B6B641C8-8381-4DA6-B4A8-82780B3E86ED</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $10\%$ of $\pounds 600$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10\% \ \text{of} \ \pounds 600 \\\\
-&= \dfrac {10} {100} \times 600 \\\\
-&= \dfrac {10 \times 600} {100} \\\\
-&= \dfrac {10 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
-&= 10 \times 6 \\\\
-&= \pounds 60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 60$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $5\%$ of $\pounds 600$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5\% \ \text{of} \ \pounds 600 \\\\
-&= \dfrac {5} {100} \times 600 \\\\
-&= \dfrac {5 \times 600} {100} \\\\
-&= \dfrac {5 \times 6 \cancel{00}} {1 \cancel{00}} \\\\
-&= 5 \times 6 \\\\
-&= \pounds 30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 30$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $2\:\:1\diagup2\%$ of $\pounds 600$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using above answer,
-
-$
-\begin{aligned}
-&= 2 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= \dfrac {5\%} {2} \times 600 \\\\
-&= \dfrac {5\% \times 600} {2} \\\\
-&= \dfrac {30} {2} \\\\
-&= \dfrac {\cancel{2} \times 15} {\cancel{2}} \\\\
-&= \pounds 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use your answers to find $17\:\: 1\diagup2\%$ of $\pounds 600$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using above answer,
-
-$
-\begin{aligned}
-&= 17 \dfrac {1} {2}\% \ \text{of} \ \pounds 600 \\\\
-&= (10\% + 5\% + 2 \dfrac {1} {2}\%) \ \text{of} \ 600 \\\\
-&= 60 + 30 + 15 \\\\
-&= \pounds 105
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 105$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>930108AD-9249-4113-9637-92942C51C01F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out, making sure to show your working:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$25 - 86 + 112$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 25 - 86 + 112 \\\\
-&= -61 + 112 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$125 \times 160$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first multiply the numbers ignoring the zeroes.
-
-$
-\begin{array}{cccccccccccccc}
-            &       &   1   &   2     &   5 \\
-\times      &       &       &   1     &   6 \\
-\hline
-            &       &   7   &   5     &   0 \\
-            &   1   &   2   &   5     &   0 \\
-                                    
-\hline
-            &   2   &   0   &   0     &   0
-\end{array}
-$
-
-Let's account for the one zeroes now.
-
-$= 20000$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$20\% \text{ of } \pounds 640$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 20\% \text{ of } \pounds 640 \\\\
-&= \dfrac {20} {100} \times 640 \\\\
-&= \dfrac {20 \times 640} {100} \\\\
-&= \dfrac {2 \cancel {0} \times 64 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 2 \times 64 \\\\
-&= \pounds 128
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 128$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1300 \div 26$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1300 \div 26 \\\\
-&= \dfrac {1300} {26} \\\\
-&= \dfrac{13 \times 50 \times 2} {13 \times 2} \\\\
-&= \dfrac{ \cancel{13} \times 50 \times \cancel{2}}{ \cancel{13} \times \cancel{2} } \\\\
-&= 50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {3} {4} \times \dfrac {12} {9}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{3}{4} \times \dfrac{12}{9} \\\\
-&= \dfrac{3 \times 12}{4 \times 9}   \\\\
-&= \dfrac{3 \times 4 \times 3}{4 \times 3 \times 3}   \\\\
-&= \dfrac{\cancel{3} \times \cancel{4} \times \cancel{3}}{\cancel{4} \times \cancel{3} \times \cancel{3}} \\\\
-&= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Subtract $\text{two thousand seven hundred and eighteen}$ from $\text{three thousand one hundred and forty-three}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-        &   3   &   1   &   4   &   3 \\  
-{}-     &   2   &   7   &   1   &   8 \\ 
-\hline
-        &       &   4   &   2   &   5 
-\end{array}
-$
-
-$\text {four hundred twenty five}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {four hundred twenty five}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -821,18 +355,12 @@ $1120$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
-<p>2C656582-6ACE-4216-AD4B-DA5375031347</p>
+<p>A90C3F95-34BB-4A90-BE07-EC587A05E006</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 <li>
 tpercentage
 </li>
@@ -840,11 +368,9 @@ tpercentage
 </div>
 <div class='question question'>
 
-A swimming club has $480$ members.
+Look at the grids below. 
 
-$\dfrac {2} {5}$ of the members are women. $\dfrac {1} {3}$ of the members are men.
-
-The rest of the members are children.
+![missing image](/papers/missing_image.svg) 
 
 </div>
 <div class='workings'>
@@ -870,32 +396,24 @@ The rest of the members are children.
 </div>
 <div class='question subquestion'>
 
-What percentage of the members are women?
+Which grid is more than $50\%$ shaded, left or right?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the Question,
+As per the grids,
 
-$
-\begin{aligned}
-\text{Percentage (Women)}               &= \ \text{Fraction (Women)} \times \text{Percentage} \\\\
-                                        &= \dfrac {2} {5} \times 100 \% \\\\
-                                        &= \dfrac {2 \times 100} {5} \% \\\\
-                                        &= \dfrac {2 \times 100} {5} \% \\\\
-                                        &= \dfrac {2 \times 20 \times 5} {5} \% \\\\
-                                        &= \dfrac {40 \times \cancel{5}} {\cancel{5}} \% \\\\
-                                        &= 40 \% \ \text{of the members are women.}
-\end{aligned}
-$
+if we compare both the grids the more shaded grid is,
+
+$\text {Right}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$40 \%$
+$\text {Right}$
 
 </div>
 </div>
@@ -910,23 +428,18 @@ $40 \%$
 </div>
 <div class='question subquestion'>
 
-How many of the members are men?
+What percentage of the large grid on the left is shaded?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the Question,
-
 $
 \begin{aligned}
-\text{Members (Men)}            &= \ \text{Fraction(Men)} \times \text{Total (Members)} \\\\
-                                &= \dfrac {1} {3} \text { of 480} \\\\
-                                &= \dfrac {1} {3} \times 480 \\\\
-                                &= \dfrac {1 \times 480} {3} \\\\
-                                &= \dfrac {160 \times 3} {3} \\\\
-                                &= \dfrac {160 \times \cancel{3}} {\cancel{3}} \\\\
-                                &= 160 \ \text{are Men.}
+&= \dfrac {75} {100} \\\\
+&= \dfrac {25 \times 3}{25 \times 4} \\\\
+&= \dfrac {\cancel {25} \times 3} {\cancel {25} \times 4} \\\\
+&= \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -935,7 +448,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$160$
+$\dfrac {3} {4}$
 
 </div>
 </div>
@@ -950,38 +463,28 @@ $160$
 </div>
 <div class='question subquestion'>
 
-How many of the members are children?
+What fraction of the small grid on the right is shaded? Give your answer in its simplest form. 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the Question,
-
 $
 \begin{aligned}
-\text{Number of Children} &= \text {Total Members} - \text {(Number of Women                                       + Number of Men)} \\\\
-                          &= 480 -                   ((\text{Fraction(Women)} \times \text {Total (Members)})      + (\text{Fraction(Men)} \times \text{Total (Members)})) \\\\
-                          &= 480 -                   ((\dfrac {2} {5} \text { of 480})                             + (\dfrac {1} {3} \text { of 480})) \\\\
-                          &= 480 -                   ((\dfrac {2} {5} \times 480)                                  + (\dfrac {1} {3} \times 480)) \\\\
-                          &= 480 -                   ((\dfrac {2 \times 480} {5})                                  + (\dfrac {1 \times 480} {3})) \\\\
-                          &= 480 -                   ((\dfrac {2 \times 96 \times 5} {5})                          + (\dfrac {160 \times 3} {3})) \\\\
-                          &= 480 -                   ((\dfrac {2 \times 96 \times \cancel{5}} {\cancel{5}})        + (\dfrac {160 \times \cancel{3}} {\cancel{3}})) \\\\
-                          &= 480 -                   ((2 \times 96)                                                + 160) \\\\
-                          &= 480 - (192 + 160) \\\\
-                          &= 480 - 352 \\\\
-                          &= 128
+\text{Fraction (Shaded)} &=  \text{No. of shaded grids / Total grids}
+                         &=  \dfrac {9} {24} \\\\
+                         &=  \dfrac {3 \times 3} {8 \times 3} \\\\
+                         &=  \dfrac {\cancel {3} \times 3} {\cancel {3} \times 8} \\\\
+                         &=  \dfrac {3} {8}
 \end{aligned}
 $
-
-Therefore, $128$ members are Children. 
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$128$
+$\dfrac {3} {8}$
 
 </div>
 </div>
@@ -990,10 +493,153 @@ $128$
 </li>
 </ul>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_na_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_na_pr question'>
+<div class='uuid'>
+<p>B434CCB5-281D-460F-B6D5-BD15AA6F27E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the grids below.  
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which grids are more than $50\%$ shaded? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {E and F}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {E and F}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage of grid $(c)$ is shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Percentage (Shaded)} &= \text {Fraction of grid (Shaded) \times 100%} \\\\
+                            &= \dfrac {28} {100} \times 100\\\\
+                            &= \dfrac {28 \times 100} {100} \\\\
+                            &= \dfrac {28 \times \cancel{100} } {\cancel{100} } \\\\
+                            &= 28 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of grid $(d)$ is shaded? Give your answer in 
+its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Percentage (Shaded)} &= \text {Fraction of grid (Shaded) \times 100%} \\\\
+                            &= \dfrac {30} {100} \times 100 \\\\
+                            &= \dfrac {30 \times 100} {100} \\\\
+                            &= \dfrac {30 \times \cancel{100} } {\cancel{100} } \\\\
+                            &= 30 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -1004,9 +650,6 @@ $128$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -1403,169 +1046,6 @@ $60 \%$
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-ttime
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The lunch break at Harry's school lasts $60 \ \text{minutes}$.
-Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minutes does he spend eating lunch?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} \ \text {of} \ 60 \ \text{min} \\\\
-&= \dfrac {1} {3} \ \times 60 \\\\\
-&= \dfrac {60} {3} \\\\\
-&= \dfrac {20 \times 3} {3} \\\\\
-&= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\\
-&= 20 \  \text {mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \ \text {mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He spends $75\%$ of the remaining time playing with his friends.
-
-How long does he spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 40 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
-&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 30 \ \text {min}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text {min}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage of his total lunch break does Harry spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {30} {60} \times 100 \\\\
-&= 50 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

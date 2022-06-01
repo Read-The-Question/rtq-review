@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedaddition-pr"
 title: "Topic - Detailedaddition - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -108,10 +108,10 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-     &    4    &    3    &    2    &    9 \\
+       &    4    &    3    &    2    &    9 \\
 {}+    &    7    &    1    &    7    &    3 \\ 
 \hline
-1    &    1    &    5    &    0    &    2
+1      &    1    &    5    &    0    &    2
 \end{array}
 $
 
@@ -174,53 +174,6 @@ $13602$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>F7E0583D-07FE-4CA1-A171-55FD2D1213F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2345 + 6789$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       2       & 3     & 4      & 5  \\
-{}+ &       6       & 7     & 8      & 9  \\
-\hline
-    &       9       & 1     & 3      & 4   \\
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9134$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -374,6 +327,53 @@ $7392$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedaddition
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $483 + 249$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &       4       & 8     & 3  \\
+{}+ &       2       & 4     & 9  \\
+\hline
+    &       7       & 3     & 2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$732$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>

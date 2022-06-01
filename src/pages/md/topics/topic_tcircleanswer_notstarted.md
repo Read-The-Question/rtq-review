@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircleanswer-notstarted"
 title: "Topic - Circleanswer - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -169,6 +169,53 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>33D5C4B9-56EE-490D-91BD-C7431208779F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two fair dice are rolled and the two scores added, which of the following outcomes is **most** likely? Circle your answer. ![missing image](/papers/missing_image.svg) 
+a)  A score of $7$ 
+b)  A score of more than $10$
+c)  A score that is an even number.
+d)  A score of $1$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {A score of more than 10 }$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {A score of more than 10 }$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

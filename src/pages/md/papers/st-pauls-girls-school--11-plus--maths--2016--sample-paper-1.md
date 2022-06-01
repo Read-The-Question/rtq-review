@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -283,9 +283,6 @@ $6$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -1101,10 +1098,10 @@ $63 \ \text{girls}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1156,7 +1153,7 @@ $117 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>01AA4848-AF2A-4CB2-B796-72FD6D297748</p>
 </div>
@@ -1201,12 +1198,12 @@ $32$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>0857A934-D725-44EE-B298-5854A27CA762</p>
 </div>
@@ -1266,7 +1263,7 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1457,9 +1454,6 @@ $16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -1657,7 +1651,7 @@ $11 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
 </div>
@@ -1726,11 +1720,14 @@ $
 Let’s find the combined age of Alan, Ben and Carl
 
 $
+\begin{aligned}
 (a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
 2 \times (a + b + c)        &= 154 \\\\
 a + b + c                   &= \dfrac {154} {2} \\\\
+a + b + c                   &= \dfrac {2 \times 77} {2} \\\\
 a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
 a + b + c                   &= 77
+\end{aligned}
 $
 
 The combined age of Alan, Ben and Carl is seventy seven.
@@ -1787,7 +1784,7 @@ $Alan is $11 \ \text {years}$ old.$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1850,7 +1847,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
 </div>
@@ -1912,7 +1909,7 @@ $\text {Dana} = \pounds 22.5 \\
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1923,9 +1920,6 @@ $\text {Dana} = \pounds 22.5 \\
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>

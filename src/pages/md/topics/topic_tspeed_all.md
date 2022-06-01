@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -64,15 +64,12 @@ $9 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>0B2DD2B6-B549-4742-8C8B-E59718ECB00B</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -193,7 +190,7 @@ $68 \ \text {miles/hour}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -393,331 +390,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>2264C733-6A32-48A8-A722-6FBBC3D72E21</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This graph shows the progress of two cars in a race from Leeds to Blackpool and back again. Car $A$ is the bold line. Car $B$ is the dotted line.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How far is it from Leeds to Blackpool?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which car was winning at $3.30 \ \text{pm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which car was winning at $4.15 \ \text{pm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
- What was the distance between the cars at $4.45 \ \text{pm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What happened just after $6 \ \text{pm}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which car achieved the highest speed, and between which times did this happen?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which car won the race?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>F5204EF2-0A1F-4701-81B0-F29A4853DAE2</p>
 </div>
 <div class='topics'>
@@ -855,9 +527,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 <li>
@@ -993,13 +662,7 @@ TODOWORKING
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -1132,13 +795,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -1586,7 +1243,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
 </div>
@@ -1634,7 +1291,7 @@ $45 \ \text {m.p.h}$
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1893,15 +1550,68 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_nj_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C4E7B763-E07F-498F-A6A5-88CF6EA33FBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Formula $1$ race is $96$ laps of the track. A driver averages $1 \ \text{minute} \ 20 \ \text{seconds}$ per lap. How long is his race in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {The race lasts for}  &= 96 \times (1 \ \text{minute} \ 20 \ \text{seconds} ) \\\\
+                            &= 96 \times (1 \ \text{minute} \ \dfrac {20} {60} \ \text{minute} ) \\\\
+                            &= 96 \times (\dfrac {1 \times 60} {1 \times 60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times (\dfrac {60} {60} + \dfrac {20} {60} ) \\\\
+                            &= 96 \times \dfrac {60 + 20} {60} \\\\
+                            &= 96 \times \dfrac {80} {60} \\\\
+                            &= \dfrac {96 \times 80} {60} \\\\
+                            &= \dfrac {32 \times 3 \times 20 \times 4} {3 \times 20} \\\\
+                            &= \dfrac {32 \times \cancel {3} \times \cancel {20} \times 4} {\cancel {3} \times \cancel {20}} \\\\
+                            &= 32 \times 4 \\\\
+                            &= 128 \ \text {minutes} \\\\
+                            &= \dfrac {128} {60} \ \text {hours} \\\\ 
+                            &= 2 \ \text {hours} \ 8 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hour} \ 8 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>4817F67D-F1F2-40D0-8436-A069F847B9C1</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -1941,7 +1651,7 @@ $40 \ \text {miles per hour}$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1953,13 +1663,7 @@ $40 \ \text {miles per hour}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -2080,23 +1784,17 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>5E77341D-320F-47AF-AB40-A78DD573EE26</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-ttime
-</li>
-<li>
 tspeed
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -2275,25 +1973,19 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_na_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>E4884E44-849F-45FE-9AAF-48CCDA529FA4</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -2395,7 +2087,7 @@ $800 \ \text{kilometres per hour}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_ej_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -2460,9 +2152,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -2595,13 +2284,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-tfraction
 </li>
 </ul>
 </div>
@@ -2656,231 +2339,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1513F195-D552-4B13-B47C-044EE12DDE64</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-<li>
-tinfer
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The graph below shows the times taken to walk around the school field by $5$ pupils.
-
-![missing image](/papers/missing_image.svg)
-
-Find:  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the difference in minutes between the slowest and fastest times, 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the sum, in minutes, of the individual times, 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the average time, in minutes, of the five times. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Peter walked at $4\ \text{km/h}$. 
-
-How far is it around the school field? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>189A1B25-EAA6-4C15-8F75-A6EC061BEC38</p>
 </div>
@@ -2925,7 +2384,7 @@ $21.6 \ \text{kilometer per hour}$
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -3214,12 +2673,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
 tspeed
 </li>
 </ul>
@@ -3329,18 +2782,139 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>5BB64843-2C66-475E-8A4F-DB15C73D0E22</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mr Sahota is cycling around a track at a constant speed. He completes $5$ laps every $4\ \text{minutes}$. How long will it take him to complete $8$ laps? Give your answer in $\text{minutes}$ and $\text{seconds}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mr Aldham is also cycling around the track at a constant speed. He completes $5$ laps every $6\ \text{minutes}$. How long is it between the first time that Mr Sahota overtakes Mr Aldham and the second time that Mr Sahota overtakes Mr Aldham?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>83EA0539-35C7-408C-8076-FC10CC3883BF</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -3460,72 +3034,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_blocked question'>
-<div class='uuid'>
-<p>7C315FF4-DCE5-464B-AACC-96D15E4B1B6B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A child's heart beats $80$ times per minute. How many times will it beat between $05{:}30$ and $15{:}30$ on the same day.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Hours between 05:30 and 15:30} &= 10 \\\\
-\text {Number of times heart beats}   &= 80 \times 10 \times 60 \ \text {minutes} \\\\
-                                      &= 48000 \ \text {times per minute}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48000 \ \text {times per minute}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>2345E090-B8BA-4D8C-BDCC-6077A8A3A4E5</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -3631,7 +3147,7 @@ $6 \ \text{km}$
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_sc_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -3759,6 +3275,56 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8A0A521C-1CD1-48C0-A137-E2C9ADE58CEB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Matthew reads at an average rate of $30 \ \text{pages per hour}$, while Alex reads at an average rate of $40 \ \text{pages per hour}$. If Matthew starts reading a novel at $4{:}30 \ \text{PM}$, and Alex begins reading the same novel at $5{:}20 \ \text{PM}$, at what time will they be reading the same page?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4389,13 +3955,60 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>A5D2DA2F-91D0-4C5D-973A-726A38EAAFF0</p>
+<p>AFC9965A-4DA6-4673-B092-BC303ABAFFE7</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tspeed
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes Katie $3 \ \text{hours}$ to jog $18  \ \text{miles}$ at a steady pace. If Katie decides to run for only two hours, but at the same speed how far would she run? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A5D2DA2F-91D0-4C5D-973A-726A38EAAFF0</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tspeed
 </li>
@@ -4407,6 +4020,63 @@ ttime
 <div class='question question'>
 
 Jason takes 4 hours to cycle 24 kilometres. If Jason always cycles at the same speed, after how many hours has Jason cycled 15 kilometres? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C720E419-3DCB-4DBC-B371-FC80DD3CBA04</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jacqueline and Sophia stand facing one another. At exactly the same moment both girls start to turn steadily on the spot.
+
+It takes Jaqueline 3 seconds to make one full turn, whilst Sophia takes 4 seconds to complete one full turn.
+
+How many times will Jaqueline have turned when the girls are next facing each other? 
 
 </div>
 <div class='workings'>
@@ -4496,7 +4166,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
 </div>
@@ -4650,12 +4320,12 @@ $1.5625 \ \text {km}$
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_na_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>AA8A1A62-27BA-40B3-B6BC-9DEBF947F0E2</p>
 </div>
@@ -4770,7 +4440,7 @@ $2 \text {miles}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -4903,7 +4573,235 @@ $16 \ \text{km/hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_jn_oldpr question'>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6B83B3B-E7BD-4594-8B68-CF66D6D588CC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows the roads connecting eight villages. 
+The numbers next to each road (not drawn to scale) show the distances in miles for each stretch of road. 
+Isobel travels from $S$ to $T$ on her journey to work each day. Find the shortest distance from $S$ to $T$ and state the route taken:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shortest distance
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+\text {Shortest route}  &= \text {S to B to E to D to T} \\\\
+                        &= 4 + 3 + 1 + 1 + 1 \\\\
+                        &= 10 \ \text{miles}
+\end{aligned}
+$
+
+Shortest distance $= 10 \ \text{miles}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{miles}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Route: From $S$ to $\text{\textunderscore \textunderscore \textunderscore }$ to $T$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {S to} \underline {\text { B to F to E to D }} \text {to T}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text { B to F to E to D }$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Isobel cycles at a steady speed of $15 \ \text{miles}$ per hour. Find the shortest time to complete the journey. 
+Give your answer in minutes. _________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time Isobel takes}     &= \dfrac {\text{Distance}} {\text{Speed}} \\\\
+                             &= \dfrac {10 \ \text {miles}} {15 \ \text {miles per hour}} \\\\
+                             &= 10 \ \text {miles} \times {\dfrac {60} {15} \ \text  {min per miles}} \\\\
+                             &= 10  \times \dfrac {60} {15} \\\\
+                             &= \dfrac {10 \times 60} {15} \\\\
+                             &= \dfrac {5 \times 2 \times 3 \times 20} {5 \times 3} \\\\
+                             &= \dfrac {\cancel 5 \times 2 \times \cancel 3 \times 20} {\cancel 5 \times \cancel 3} \\\\
+                             &= 2 \times 20 \\\\
+                             &= 40 \ \text {min}
+\end{aligned}
+$
+
+The shortest time Isobel will take to complete the journey $= 40 \ \text {min}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \ \text {min}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Isobel listens to the local radio before setting off on her journey one morning. 
+She discovers that the road between $E$ and $F$ is completely blocked due to an earlier accident 
+and she is forced to choose an alternative route to work. 
+What is the least number of **additional** minutes that she will take to cycle to work today?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If $E$ and $F$ are blocked the shortest new route would be:
+
+From $S \ \text {to} \ B \ \text {to} \ C \ \text{to} \ T$ .
+
+Let's find the new distance.
+
+$
+\begin{aligned} 
+&= S \ \text{to} \ B \ \text{to} \ C \ \text{to} \ T \\\\
+&= 4 + 2 + 6 \\\\
+&= 12 \ \text {miles}
+\end{aligned}
+$
+
+$
+\begin {aligned}
+\text {Speed} &= 15 \ \text {miles per hour \ \ } \\\\
+                 &= \dfrac {15} {60} \ \text {miles per min} \\\\
+\text {Distance} &= 12 \ \text {miles} 
+\end{aligned}
+$
+
+Now let's find the time.
+
+$
+\begin{aligned}
+\text{Time} & = \dfrac {\text{Distance}} {\text{Speed}} \\\\
+            & = \dfrac {12} { \dfrac {15}{60} } \\\\
+            & = 12  \times \dfrac {60} {15} \\\\
+            & = \dfrac {12 \times 60} {15} \\\\
+            & = \dfrac {3 \times 4 \times 5 \times 12} {5 \times 3} \\\\
+            & = \dfrac {\cancel 3 \times 4 \times \cancel 5 \times 12} {\cancel 5 \times \cancel 3} \\\\
+            & = 4 \times 12 \\\\
+            & = 48 \ \text {min}                                                                   
+\end{aligned}
+$
+
+Let's find the additional minutes by finding the difference in time taken by previous route and the new route.
+
+$48 \ \text {min}  - 40 \ \text {min} = 8 \ \text {min} $                                                                  
+
+The additional minutes Isobel will take to sycel to work today $= 8 \ \text {min}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {min}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>36CD4F24-0C6D-4BE2-ADC6-E8633C0E7C8A</p>
 </div>
@@ -4973,7 +4871,7 @@ She travelled altogether $= 60 \ \text{miles}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_jn_oldpr</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -5077,192 +4975,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>3603BB2B-CD77-4715-948E-F254C76F0ED3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram (not to scale) shows my back lawn which is $30 \ \text{metres}$ long and $20 \ \text{metres}$ wide. 
-My lawnmower can cut strips $50 \ \text{cm}$ wide and I always mow the lawn by walking up and down in straight lines as shown.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many strips do I need in total?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How far do I walk when I mow my lawn? Give the answer in metres.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I can push my lawnmower at a constant speed of $30 \ \text{metres}$ per minute and it takes me an extra $15 \ \text{seconds}$ 
-to turn the mower round at the end of every strip. The mower itself takes $15 \ \text{seconds}$ 
-to turn on. How long does it take me to mow my lawn?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>10B39F70-A4DD-4349-8C17-8BB01B8438F1</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tspeed
 </li>
@@ -5490,268 +5206,6 @@ $1265 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttime
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The notice below shows part of a train timetable between $2$ towns, Taymar and Raymar.
-
-One of the times has been covered.
-
-![missing table](/papers/missing_table.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long does it take train $1$ to travel from Taymar to Raymar?
-
-Give your answer in hours and minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Time taken}  &= 11 {:} 43 - 9 {:} 24 \\\\
-                    &= 2 \ \text {hours} \ 19 \ \text {minutes}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \ \text {hours} \ 19 \ \text {minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Train $2$ takes the same time as train $1$ to travel from Taymar to Raymar.
-
-At what time does train $2$ arrive at Raymar?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Arrival time for train 2}  &= 14 {:} 51 + 2 \ \text {hours} \ 19 \text {minutes} \\\\
-                                  &= 17 {:} 10
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17 {:} 10$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
-<div class='uuid'>
-<p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tspeed
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A running track has a perimeter of $400 \ \text{metres}$.
-
-Roger trains every morning by running around the running track until he has run a distance of $6 \ \text{kilometres}$.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many times around the track does Roger run each morning?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total rounds}  &= \dfrac {\text {Distance}} {\text {Perimeter}} \\\\
-                      &= \dfrac {6 \ \text {kilometres}} {400 \ \text {metres}} \\\\
-                      &= \dfrac {6 \times 1000 \ \text {metres}} {400 \ \text {metres}} \\\\
-                      &= \dfrac {2 \times 3 \times 100 \times 2 \times 5} {2 \times 2 \times 100} \\\\
-                      &= \dfrac {\cancel {2} \times 3 \times \cancel {100} \times \cancel {2} \times 5} {\cancel {2} \times \cancel {2} \times \cancel {100}} \\\\
-                      &= 3 \times 5 \\\\
-                      &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A marathon course is $42.2 \ \text{km}$ long.
-
-One marathon begins with $13.4 \ \text{km}$ running along country roads.
-
-The runners then complete $2$ laps of equal length through a town.
-
-To complete the race, the runners run around the running track $3$ times.
-
-Work out the length of a lap through the town.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the length of a lap through town $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-2 \times \text {Length of a lap through town}  &= \text {Total length for the marathon} - (\text {Length of the the country roads} + 3 \times \text {Length of the running track}) \\\\
-2a                                            &= 42.2 \ \text {kilometres} - (13.4 \ \text {kilometres} + 3 \times 400 \ \text {metres}) \\\\
-2a                                            &= 42.2 \ \text {kilometres} - (13.4 \ \text {kilometres} + 3 \times \dfrac {400} {1000} \ \text {kilometres}) \\\\
-2a                                            &= 42.2 - (13.4 + 3 \times 0.4) \\\\
-2a                                            &= 42.2 - (13.4 + 1.2) \\\\
-2a                                            &= 42.2 - 14.6 \\\\
-2a                                            &= 56.8 \\\\
-a                                             &= \dfrac {56.8} {2} \\\\
-a                                             &= 28.4 \ \text {kilometres}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28.4 \ \text {kilometres}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>77F62AEF-602C-4E6C-8EBE-202B89E04308</p>
@@ -5801,7 +5255,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>1726FC9C-67EA-46CA-9AE2-A3CB7D96F149</p>
 </div>
@@ -5888,7 +5342,7 @@ $15 \ \text{km/hour}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -6063,7 +5517,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>BEB3546E-2716-4336-88AC-C154568C8CE6</p>
 </div>
@@ -6144,404 +5598,7 @@ $30 \ \text{minutes}$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
-
-![missing image](/papers/missing_image.svg)
-
-So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
-
-Using this approximation that $\bold { \textbf{Circumference} = 3 \times \textbf{diameter} }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many metres would Andrew travel in $60$ turns of the wheel?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's take the 
-
-Circumference as $c$
-
-Diameter as $d$
-
-$c = 3 \times d$
-
-Let's calculate first the distance travelled with one turn of the wheel.
-
-It's known that 
-
-$
-\begin{aligned}
-100 Turns &= 150 \ \text {m} \\\\
-1 Turn &= \dfrac {150}{100} \\\\
-       &= \dfrac {3}{2} \\\\
-       &= 1.5 \ \text {m} \\\\
-\end{aligned}
-$
-
-So,
-
-$
-\begin{aligned}
-60 \ \text {Turns} &= 60 \times 1.5 \ \text {m} \\\\
-                   &= 6 \times 15\\\\
-                   &= 90  \ \text {m} \\\\
-\end{aligned}
-$
-
-Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90  \ \text {m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many turns of the wheel would it take him to cover $600 \ \text{m}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Distance travelled per turn of the wheel is $1.5 \ \text {m}$, as per the solution above.
-
-Distance travelled = No. of turns $\times$ circumference
-
-No. of turns $\times 1.5 \ \text {m} =$ Distance travelled
-
-Let's take the number of turns as $x$
-
-$
-\begin{aligned}
-x \times 1.5 &= 600  \\\\
-           x &= 600 \times 1.5 \\\\
-             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
-             &= \dfrac {6000}{15} \\\\
-             &= \dfrac {{\cancel{6000}\raisebox{0.9em}{400}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
-           x &= 400 \ \text {Turns}\\\\
-\end{aligned}
-$
-
-It would take him $400$ Turns to cover $600 \ \text{m}$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$400$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Andrew enters a road race, the distance for which is $75 \ \text{km}$.
-
-How many turns of his front wheel does this race take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Distance travelled per turn of the wheel is $1.5 \ \text {m}$
-
-Distance travelled = No. of turns $\times 1.5$
-
-Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
-
-Let's take the number of turns as $x$
-
-$
-\begin{aligned}
-x \times 1.5 &= 75000 \ \text{m}  \\\\
-           x &= 75000 \times 1.5 \\\\
-             &= \dfrac {75000 \times 10}{1.5 \times 10}\\\\
-             &= \dfrac {750000}{15} \\\\
-             &= \dfrac {{\cancel{750000}\raisebox{0.9em}{50000}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
-           x &= 50000 \ \text {Turns}
-\end{aligned}
-$
-
-It would take him $50000$ Turns to cover $75 \ \text{km}$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Andrew's great-great-grandfather took part in the same race over a hundred years ago, but the large wheel on his penny-farthing bicycle was $2 \ \text{metres}$ across.
-
-How many turns of this large wheel were required to complete the race?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Diameter of wheel $d = 2 \ \text{metres}$
-
-Circumference $c$as
-
-$\quad = 3 \times d$
-
-$\quad = 3 \times 2$
-
-$\quad = 6 \ \text{metres}$
-
-Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
-
-Distance travelled = No. of turns $\times$ circumference
-
-Or,
-
-No. of turns = \dfrac {Distance travelled}{circumference}
-
-Let's take the No. of turns as $x$
-
-Let's substitute
-
-$
-\begin{aligned}
-x  &= \dfrac {75000}{6} \\
-   &= \dfrac {{\cancel{75000}\raisebox{0.9em}{12500}}}{{\cancel{6}\raisebox{-0.9em}{1}}} \\\\
-   &= 12500 \ \text {Turns}
-\end{aligned}
-$
-
-It would take him $12500$ Turns to cover $75 \ \text{km}$
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12500$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of Andrew's number of turns was his great-great-grandfathers number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-To cover the distance of $75 \ \text{km}$
-
-
-|          | Andrew | GG.Grandpa |
-|----------|--------|------------|
-| Diameter | 50cm   | 200cm      |
-| Turns    | 12500  | 50000      |
-
-Fraction $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
-
-$
-\begin{aligned}
-&= \dfrac {12500}{50000} \\\\
-&= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
-&= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
-&=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
-\end{aligned}
-$
-
-Fraction $\dfrac {1}{4}$ or $4$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1}{4}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give a reason why this is.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-|          | Andrew | GG.Grandpa |
-|----------|--------|------------|
-| Diameter | 50cm   | 200cm      |
-| Turns    | 12500  | 50000      |
-
-
-Ratio of Diameter  $= \dfrac {\text {Andrew's wheel}}{\text {G.Grandpa's wheel}}$
-
-$
-\begin{aligned}
-&= \dfrac {50}{200} \\\\
-&= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
-&= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
-&=\dfrac {1}{4} \\\\
-\end{aligned}
-$
-
-Ratio of Turns $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
-
-$=\dfrac {1}{4}$
-
-The ratio of diameter of both the wheels is equal to the ratio of the turns.
-
-
-
-</div>
-<div class='working'>
-
-TODOANSWER
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-Ratio of Rurns and Diameters is smaller
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

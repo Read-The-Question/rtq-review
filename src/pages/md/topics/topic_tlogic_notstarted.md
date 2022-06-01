@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlogic-notstarted"
 title: "Topic - Logic - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -542,6 +542,95 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>F58AE968-A43A-420B-8C35-01634DE00C09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tlogic
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A solid square based pyramid has all of its corners cut off, as shown. How many edges does the resulting shape have?
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+A pyramid with a square base has $8$ edges. $4$ edges to the square and $4$ where the triangles meet each other. 
+
+A triangle has $3$ edges.
+
+No. of corners cut off at base $= 4$ corners
+
+Every corner that is cut off at base results into a new triangle edges.
+
+Total edges at base 
+
+= Old edges + ($4$ corners $\times 3$ triangle edges)
+
+$
+\begin{aligned}
+&= 4 + (4 \times 3) \\
+&= 4 + 12
+\end{aligned}
+$
+
+Now let's look at the top. When the tip is cut it results into a square top, as in the picture.
+
+Total edges at top 
+
+= Old edges + ($1$ corner $\times 4$ edges of the new square)
+
+$
+\begin{aligned}
+&= 4 + (1 \times 4) \\
+&= 4 + 4 \\
+&= 8
+\end{aligned}
+$
+
+
+Total edges = new edges at base + new edges at tip 
+
+$
+\begin{aligned}
+&= 16 + 8
+&= 24
+\end{aligned}
+$
+
+The resulting shape will result in $24$ edges.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>876D9010-270B-4526-9A94-09760EADD14D</p>
 </div>
 <div class='topics'>
@@ -713,6 +802,307 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>52F311FD-9259-4B07-9220-97F96FAC9E5D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+<li>
+tlogic
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the computer game "Fizz Darkweek" a player scores points by hitting certain targets:
+
+"Zoid" scores fifty thousand, 
+
+"Yondo" scores forty thousand, 
+
+"Xenox" scores two thousand five hundred.
+  
+Also, if you hit two Xenox **in a row** you get an extra five hundred bonus points.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Amir plays the game and only hits one target which is a Zoid. Write down his score **in figures**:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, Amir hit one target which is a Zoid.
+
+"Zoid" scores fifty thousand.
+
+So, Amir's score is $50000$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ben hits one of each. Work out his total score. Give your answer **in words**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned} 
+      & = \text {Zoid + Yondo + Xenox} \\\\
+      & = 50000 + 40000 + 2500         \\\\
+      & = 92500                        \\\\
+\end{aligned}
+$
+
+Bens total score $92500$ in words is \underline {\text {Ninety two thousand and five hundred}}.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Ninety two thousand and five hundred
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Catherine goes next and hits a Yondo first, followed by two Xenox and finishes off with a second Yondo. 
+Work out her total score. Give your answer **in figures**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+      & = \text {Yondo} + 2 \times \text {Xenox + Xenox bonus + Yondo} \\\\
+      & = 40000 + 2 \times 2500 + 500 + 40000                  \\\\
+      & = 40000 + 5000 + 500 + 40000                           \\\\
+      & = 85500                                                
+\end{aligned}
+$
+
+Catherine's total score is $85500$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$85500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally it is Debbie's turn. She has four shots on target with a total score of ninety-five thousand points . Write down one possible set of targets that she might have hit:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+The only possible combination of targets for four shots to achieve $95000$ points is :
+
+$1$ Zoid $+ 1$ Yondo and $2$ Xenox (but not in a row). 
+
+It is important to note that if Debbie hits two Xenox **in a row** then only she gets the bonus points. 
+
+Possible options
+
+|  First Shot |  Zoid | Yondo | Xenon | Xenon | Xenon | Xenon |
+|:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Second Shot | Xenon | Xenon | Yondo |  Zoid |  Zoid | Yondo |
+|  Third Shot | Yondo |  Zoid | Xenon | Xenon | Yondo |  Zoid |
+| Fourth Shot | Xenon | Xenon |  Zoid | Yondo | Xenon | Xenon |
+
+We need only one option.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+|  First Shot |  Zoid |
+|:-----------:|:-----:|
+| Second Shot | Xenon |
+|  Third Shot | Yondo |
+| Fourth Shot | Xenon |
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C2BCB7BC-794E-4CCC-A392-3F7E1B313901</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+<li>
+tlogic
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Thomas, Henry, Edward and Gordon are four season-ticket holders travelling by the same train. Thomas' ticket allows him to get out at either Brasted, Westerham or 
+Dunton Green; Henry's ticket is for Knockholt or Dunton Green; Edward's for Dunton Green or Sevenoaks; Gordon's for Brasted or Knockholt. 
+
+No one gets out at either Sevenoaks or Westerham, and only one person at Knockholt and one at Dunton Green.
+
+At what station did these four passengers get off the train? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per the question, no one gets out at either Sevenoaks or Westerham. So we can ignore these stations.
+
+It helps to draw a table for such questions. 
+
+|           | Thomas | Henry | Edward | Gordon |
+|-----------|:------:|:-----:|:------:|:------:|
+|  Brasted  |    x   |       |        |    x   |
+|   Dunton  |    x   |   x   |    x   |        |
+| Knockholt |        |   x   |        |    x   |
+
+
+We can see from the table that:
+
+Edward can only get down at Dunton Green.
+
+Now we are left with: 
+
+|           | Thomas | Henry | Gordon |
+|-----------|:------:|:-----:|:------:|
+|  Brasted  |    x   |       |    x   |
+| Knockholt |        |   x   |    x   |
+
+Henry can only get down at Knockholt.
+
+As per the question, only one person gets out at Knockholt and one at Dunton Green.
+
+So, Thomas and Gordon can only get down at Brasted.
+
+$
+\begin{aligned} 
+    \text {Thomas} & = \underline {{\text Brasted}}      \\\\
+    \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
+    \text {Edward} & = \underline {{\text Dunton Green}} \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+\end{aligned}
+$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>CC1826DB-EA13-490B-A322-57640558FD22</p>
 </div>
 <div class='topics'>
@@ -780,185 +1170,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>DB8426F8-1FC9-4F04-9127-D813A4C5A351</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tlogic
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My friend George is really good at maths so I decide to ask him some tricky questions to see if I can catch him out. Needless to say he got all three questions right! Write George's answers in the spaces provided.
-
-George's Quiz
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If it takes $90 \ \text{minutes}$ for two identical towels to dry on a washing line, how long would three of these towels have taken to dry?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the winter, I try and climb up an icy slope starting at the bottom. Each time 
-I make a move I find that I go up four metres but then slide back down two metres. 
-How many moves do I need to get to the top which is $8 \ \text{metres}$ up the slope from the bottom?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The area of mould growing on my bathroom wall doubles every day. After $13$ days the area covered is $2880 \ \text{cm}^2$. 
-After how days did the area first exceed $300 \ \text{cm}^2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

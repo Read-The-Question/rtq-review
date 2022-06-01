@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-pr"
 title: "Topic - Money - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -248,80 +248,6 @@ $\pounds 3.20$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more than the pencil. How much is the pen?
-
--  $50 \text{p}$        
--  $60 \text{p}$        
--  $70 \text{p}$        
--  $80 \text{p}$        
--  $90 \text{p}$       
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the price of pencil $= a$
-
-As per the question price of pen $= a + 50$
-
-$
-\begin{aligned}
-a + a + 50   &= 110 \\\\
-2a + 50      &= 110 \\\\
-2a           &= 110 - 50 \\\\
-a            &= \dfrac {60} {2} \\\\
-a            &= \dfrac {30 \times 2} {2} \\\\
-a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
-a            &= 30 \text{p}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {price of pen} &= 50 + a \\\\
-                     &= 50 + 30 \\\\
-                     &= 80 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$80 \text{p}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -674,274 +600,6 @@ $36 \text{ coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>4EC4603B-A686-444D-BCC6-4FF6758A4EF6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy 4 Mega Bars at $65\ \text{pence}$ each and 3 Star Bars at $83\ \text{pence}$ each. How much change do I get from $\pounds10$? 
-
-A: $\pounds4.91$ 
-
-B: $\pounds5.09$ 
-
-C: $\pounds5.91$ 
-
-D: $\pounds5.19$ 
-
-E: $\pounds4.81$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
-
-$
-\begin{aligned}
-\text {Change received} &= \text{Total money} - (\text{Cost of 4 Mega Bars} + \text{Cost of 3 Star Bars}) \\\\
-                        &= \pounds 10 - (65 \ \text {pence} \times 4 + 83 \ \text{pence} \times 3) \\\\
-                        &= \pounds 10 - (\pounds \dfrac {260} {100} + \pounds \dfrac {249} {100}) \\\\
-                        &= 10 - (2.6 + 2.49) \\\\
-                        &= 10 - 5.09 \\\\
-                        &= \pounds 4.91
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$\pounds 4.91$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>4B28AE11-2084-4C86-AE35-A8F9C94E8B91</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy $7$ bags of Cheezos at $55\ \text{pence}$ each and $4$ bags of Nuttees at $63\ \text{pence}$ each. How much change do I get from $\pounds{10}$? 
-
-A: $\pounds{3.73}$ 
-
-B: $\pounds{3.63}$
-
-C: $\pounds{4.73}$ 
-
-D: $\pounds{4.63}$ 
-
-E: $\pounds{6.37}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.. Let's convert pence into pounds.
-
-$
-\begin{aligned}
-\text {Change received} &= \text{Total money} - (\text{Cost of 7 bags of Cheezos} + \text{4 bags of Nuttees}) \\\\
-                        &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
-                        &= \pounds 10 - (\pounds \dfrac {385} {100} + \pounds {252} {100}) \\\\
-                        &= 10 - (3.85 + 2.52) \\\\
-                        &= 10 - 6.37 \\\\
-                        &= \pounds 3.63
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 3.63$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>A44E4F3A-9D7D-4F20-A66B-292B5CDE97B1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sam has $\pounds 3.85$ to spend. He buys a pencil for $38 \text{p}$ and a ruler for $59 \text{p}$. How much does he have left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-\text{Money left}                                               &= \text{Total Money} - \text{Cost of pencil} + \text{Cost of ruler} \\\\
-                                                                &= \pounds 3.85 - 38 \text{p} - 59 \text{p}) \\\\
-                                                                &= \pounds 3.85 - 97 \text{p} \\\\
-                                                                &= \pounds 3.85 - \pounds 0.97 \\\\
-                                                                &= \pounds 2.88
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.88$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>0E978EF0-5AA5-41D7-BA1E-A165B13DC328</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Maya made three purchases for $\pounds 1.08, \pounds 5.04$ and $\pounds 9.89$. What did she spend in total, to the nearest pound?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Amount spent}  &= 1.08 + 5.04 + 9.89 \\\\
-                      &= \pounds 16.01 \\\\
-                      &= \pounds 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 16$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>81AADA28-3EE1-4D17-82EE-CBBF6BF4E0D7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Eliot made three purchases for $\pounds 3.12, \pounds 10.25$ and $\pounds 4.80$. 
-
-What did he spend in total, to the nearest pound?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Amount spent} &=  3.12 +  10.25 +  4.80 \\\\
-                     &= \pounds 18.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 18.2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
@@ -1073,7 +731,7 @@ $\pounds 5.92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>26BE9BBB-6A7B-493E-92F7-34048794B52B</p>
 </div>
@@ -1130,12 +788,12 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -1190,12 +848,12 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
@@ -1248,12 +906,12 @@ $\pounds 3.28$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -1399,12 +1057,12 @@ $3 \ \text {people}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>D16BC637-6F15-423F-A1AA-CE2DD196F103</p>
 </div>
@@ -1447,12 +1105,12 @@ $\pounds 42$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>ADBF2411-1D01-472E-9BC0-7C51FF7A56D5</p>
 </div>
@@ -1550,12 +1208,12 @@ $\pounds 64.9$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -1675,12 +1333,12 @@ $\pounds 25.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66</p>
 </div>
@@ -1821,7 +1479,7 @@ $\pounds 2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -2608,148 +2266,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
-Rosie buys just one bag of sweets and three cans of drink and pays $\pounds 2.70$.
-
-What is the cost of a bag of sweets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
-Let the cost of a can of drink (in $\text{pence}$) $= d$
-
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
-
-As per the question,
-
-$
-\begin{aligned} 
-3s + 5d &= 490 \\\\
-s + 3d &= 270
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? If we look at the question again, we only need the 
-cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
-The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
-$
-\begin{aligned} 
-3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
-5 \times  s + 5 \times 3d   &= 5 \times 270 \\\\
-9s + 15d                    &= 1470 \\\\
-5s + 15d                    &= 1350
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned} 
-9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
-9s + 15d -5s - 15d                 &= 120 \\\\
-4s                                 &= 120 \\\\
-s                                  &= \dfrac{120}{4} \\\\
-s                                  &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-<div class='working'>
-
-What if we eliminate $s$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-Multiply the second equation by $3$.
-
-$
-\begin{aligned} 
-3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
-3s + 9d                     &= 810
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned} 
-3s + 5d                     &= 490 \\\\
-3s + 9d                     &= 810 \\\\
-3s + 9d - (3s + 5d)         &= 810 - 490 \\\\
-3s + 9d -3s - 5d            &= 320 \\\\
-4d                          &= 320 \\\\
-d                           &= \dfrac {320} {4} \\\\
-d                           &= 80  \ \text{pence}
-\end{aligned}
-$
-
-Cost of a can of drink $= 80  \ \text{pence}$. 
-
-Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
-$
-\begin{aligned} 
-3s + 5d             &= 490 \\\\
-3s + 5 \times 80    &= 490 \\\\
-3s + 400            &= 490 \\\\
-3s                  &= 490 - 400 \\\\
-3s                  &= 90 \\\\
-s                   &= \dfrac {90} {3}\\\\
-s                   &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -2863,7 +2380,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-pr"
 title: "Topic - Areaperimeter - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,10 +12,10 @@ date: 2022-05-31 16:01:00
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -71,10 +71,10 @@ $8 \ \text{mm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -157,10 +157,13 @@ Length $= 9 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
+tareaperimeter
+</li>
+<li>
 talgebra
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -232,10 +235,10 @@ $32$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -284,10 +287,10 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -357,10 +360,10 @@ $30 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -495,10 +498,13 @@ $48 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tunitprompt
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -557,308 +563,17 @@ $96$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>3742159D-D696-4318-A135-5CE5923F673E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the area of the shaded shape below? **[Diagram not to scale]**
-
-![missing image](/papers/missing_image.svg) 
-
-A: $$41\ \ \text{cm}$^2$ 
-
-B: $$49\ \ \text{cm}$^2$ 
-
-C: $$56\ \ \text{cm}$^2$ 
-
-D: $89 \ cm^2$ 
-
-E: $\text{More information needed}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We can divide the shape into 2 rectangle as per the diagram shown below.
-
-$\text{Area} = \text{length} \times \text{width}$
-
-$
-\begin{aligned}
-\text {Area of the shaded region} &= \text {Area of first Rectangle} + \text {Area of second Rectangle} \\\\
-                                  &= 5 \times 3 + 13 \times 2 \\\\
-                                  &= 15 + 26 \\\\
-                                  &= 41 \ \text {cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$41 \ \text {cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>73897DF2-60E6-44C7-A452-1BFF5324A5B8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a rectangle.
-
-![missing image](/papers/missing_image.svg)
-
-Not drawn accurately
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A **square** has the **same** area as this rectangle. 
-
-What is the **side length** of this square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area} = \text{length} \times \text{width}$
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Area of rectangle}      &= 8 \times 2 \\\\
-                               &= 16 \ \text {cm}^2
-\end{aligned}
-$
-
-$\text{Area} = \text{side} \times \text{side}$
-
-Let the side of square $= s$
-
-$
-\begin{aligned}
-\text{Area of square} &= \text{Area of rectangle} \\\\
-s \times s            &= 16 \\\\
-s ^ 2                 &= 16 \\\\
-s                     &= \sqrt {16} \\\\
-s                     &= 4 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A **different square** has the **same perimeter** as this rectangle.
-
-What is the **side length** of this square?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\text{Perimeter} &= 2 \times (\text{length} + \text{width})
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Perimeter of rectangle} &= 2 \times (8 + 2) \\\\
-                               &= 2 \times 10 \\\\
-                               &= 20 \ \text{cm}
-\end{aligned}
-$
-
-Let the side of square $= s$
-
-$
-\begin{aligned}
-\text {Perimeter of square} &= \text{Perimeter of rectangle} \\\\
-4 \times s                  &= 20 \\\\
-s                           &= \dfrac {20} {4} \\\\
-s                           &= \dfrac {5 \times 4} {4} \\\\
-s                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
-s                           &= 5 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>5D763DCC-BA8B-4FED-92C6-D8B848454B73</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the perimeter and area of this shape:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The shape is a trapezium. So,
-
-$
-\begin{aligned}
-\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
-                  &= 24 \ \text {cm}
-\end{aligned}
-$
-
-Let the parallel sides of trapezium $= a, b$
-
-And let height of trapezium $= h$
-
-$
-\begin{aligned}
-\text {Area of trapezium} &= \dfrac {a + b} {2} \times h \\\\
-                          &= \dfrac {6 + 9} {2} \times 4 \\\\
-                          &= \dfrac {15 \times 4} {2} \\\\
-                          &= \dfrac {15 \times 2 \times 2} {2} \\\\
-                          &= \dfrac {15 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
-                          &= 15 \times 2 \\\\
-                          &= 30 \ \text {cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text {cm}, \ 30 \ \text {cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -966,22 +681,22 @@ $105 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1029,7 +744,7 @@ $92 \ \text{m}^{2}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -1040,9 +755,6 @@ $92 \ \text{m}^{2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -1106,13 +818,13 @@ $\dfrac {4} {9}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
-talgebra
+tunitprompt
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1170,10 +882,10 @@ $50$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1287,10 +999,10 @@ $P = 30 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1352,10 +1064,10 @@ $1.96 \text{m}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1473,9 +1185,6 @@ $83 \ \text {m} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 </ul>
@@ -1524,9 +1233,6 @@ $19.4 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>
@@ -1579,10 +1285,10 @@ $18 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1637,17 +1343,17 @@ $98 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>527152F8-094F-4AFE-A50B-4595C903532F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1807,22 +1513,22 @@ $81 \text{cm}^2$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2041,22 +1747,25 @@ $52 \ \text{cm}$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tunitprompt
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2102,7 +1811,7 @@ $500$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -2113,9 +1822,6 @@ $500$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>
@@ -2164,13 +1870,13 @@ $28.4 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
 tvolume
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2320,10 +2026,10 @@ $31.33 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2468,10 +2174,10 @@ $204 \ \text{m}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2530,10 +2236,10 @@ $117 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2600,10 +2306,10 @@ $28$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2689,9 +2395,6 @@ $26 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 </ul>
@@ -2752,10 +2455,10 @@ $96 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2817,10 +2520,10 @@ $9.5 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2963,10 +2666,10 @@ $528 \text{m}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3031,10 +2734,10 @@ $80 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3091,10 +2794,10 @@ $64 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -3184,136 +2887,6 @@ $44 \text { cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>E7D1BED3-00FC-4923-94CA-88CE3E83BB8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This shape is made from $9$ identical squares.
-
-![missing image](/papers/missing_image.svg)
-
-The area of the shape is $144 \ \text{cm}^2$
-
-What is the perimeter of the shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of the square $= s$
-
-$
-\begin{aligned}
-\text{Area}     &= 144 \\\\
-9 \times a ^ 2  &= 144 \\\\
-a ^ 2           &= \dfrac {144} {9} \\\
-a ^ 2           &= \dfrac {16 \times 9} {9} \\\\
-a ^ 2           &= \dfrac {16 \times \cancel {9}} {\cancel {9}} \\\\
-a ^ 2           &= 16 \\\\
-a               &= \sqrt 16 \\\\
-a               &= 4 \ \text{cm}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Perimeter} &= 20 \times 4 \\\\
-                 &= 80 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>FA03A69D-81AC-4742-B650-EB2CE7E8AD6E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A photograph, which measures $12 \ \text{centimetres}$ by $15 \ \text{centimetres}$, is 
-mounted on a piece of red card so that there is a border 
-of $3 \ \text{centimetres}$ all the way round the photograph.
-
-![missing image](/papers/missing_image.svg)
-
-What area of red card is showing?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area} = \text{length} \times \text{width}$
-
-$
-\begin{aligned}
-\text{Area of the red card} &= \text{Area of left and right border} + \text{Area of top and bottom border} \\\\
-                            &= 2 \times \text{Area of left border} + 2 \times \text{Area of top border} \\\\
-                            &= 2 \times (15 - 3 - 3) \times 3 + 2 \times 12 \times 3 \\\\
-                            &= 6 \times (15 - 6) + 24 \times 3 \\\\
-                            &= 6 \times 9 + 72 \\\\
-                            &= 54 + 72 \\\\
-                            &= 126 \ \text{cm} ^ 2
-\end{aligned} 
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$126 \ \text{cm} ^ 2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
@@ -3321,13 +2894,10 @@ $126 \ \text{cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tspeed
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3462,13 +3032,10 @@ $28.4 \ \text {kilometres}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -3534,10 +3101,10 @@ $8 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -3594,10 +3161,13 @@ $25 \ \text {cm} ^ 2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3754,13 +3324,10 @@ $18 \ \text {stickers}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -3782,14 +3349,14 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
-Equating the perimeter to the length and width we get,
+Let's equate the perimeter to the length and width we get,
 
 $
 \begin{aligned}
 2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
-2a + a                                 &= 36 \\\\
-3a                                     &= 36 \\\\
-a                                     &= \dfrac {36} { 3 } \\\\
+2a + a                              &= 36 \\\\
+3a                                  &= 36 \\\\
+a                                   &= \dfrac {36} { 3 } \\\\
 a                                   &= 12 \ \text{cm}
 \end{aligned}
 $
@@ -3823,20 +3390,17 @@ $144 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
-tgeometry
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3892,7 +3456,7 @@ $13 \ \text{cm}^2$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
@@ -3904,13 +3468,10 @@ $13 \ \text{cm}^2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3966,9 +3527,6 @@ $30 \ \text{cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>

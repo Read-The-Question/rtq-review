@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,7 +61,7 @@ $7392$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>00BD8854-44AE-4DAA-B246-619A4C0D1148</p>
 </div>
@@ -103,7 +103,7 @@ $6359$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -162,9 +162,6 @@ $19764$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdivision
 </li>
 </ul>
@@ -204,9 +201,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -536,9 +530,6 @@ $16 \times 7  \ \boxed{>} \ 17 \times 6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttemperature
 </li>
 </ul>
@@ -649,9 +640,6 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -693,9 +681,6 @@ $\dfrac{5} {8}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -1544,7 +1529,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ks_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>31264CF1-F941-47E1-8A70-17D947FF9774</p>
 </div>
@@ -1641,7 +1626,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ks_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1800,13 +1785,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttable
-</li>
-<li>
-ttime
 </li>
 </ul>
 </div>
@@ -1850,10 +1829,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -1903,7 +1882,7 @@ $25 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>EC923AB4-82BC-4611-AAA5-D323C2162579</p>
 </div>
@@ -1950,7 +1929,7 @@ $2.9 \ \text{inches}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -1961,9 +1940,6 @@ $2.9 \ \text{inches}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>
@@ -2009,10 +1985,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tstatistics
+tgraph
 </li>
 </ul>
 </div>
@@ -2663,9 +2636,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 </ul>
@@ -2909,10 +2879,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3112,7 +3085,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_red question'>
+<div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>85996BB9-38D6-49C8-BE67-8D9631433764</p>
 </div>
@@ -3264,7 +3237,7 @@ $100 \ \text {bags}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_red</p>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -107,7 +107,7 @@ $5745$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>A8DB7FB8-56FD-4033-A277-CE78FBED89DB</p>
 </div>
@@ -149,7 +149,7 @@ $22352$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -160,9 +160,6 @@ $22352$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdivision
 </li>
@@ -219,8 +216,8 @@ $
 \begin{aligned}
 246 + \boxed{\phantom{555}}         &= 246 \\\\
 246 - \boxed{\phantom{555}}         &= 246 \\\\
-246 \times \boxed{\phantom{555}}     &= 246 \\\\
-246 \div \boxed{\phantom{555}}         &= 246
+246 \times \boxed{\phantom{555}}    &= 246 \\\\
+246 \div \boxed{\phantom{555}}      &= 246
 \end{aligned}
 $
 
@@ -232,8 +229,8 @@ $
 \begin{aligned}
 246 + \boxed{\phantom{5} 0 \phantom{5} }         &= 246 \\\\
 246 - \boxed{\phantom{5} 0 \phantom{5} }         &= 246 \\\\
-246 \times \boxed{\phantom{5} 1 \phantom{5} }     &= 246 \\\\
-246 \div \boxed{\phantom{5} 1 \phantom{5} }         &= 246
+246 \times \boxed{\phantom{5} 1 \phantom{5} }    &= 246 \\\\
+246 \div \boxed{\phantom{5} 1 \phantom{5} }      &= 246
 \end{aligned}
 $
 
@@ -262,9 +259,6 @@ $0, 0, 1, 1$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -306,11 +300,11 @@ Find $\dfrac{1}{7}$ of $35$
 
 $
 \begin{aligned}
-&= \dfrac{1}{7} \text{ of } 35 \\\\
-&= \dfrac{1}{7} \times 35 \\\\
-&= \dfrac{35}{7} \\\\
-&= \dfrac{ 5 \times 7}{7} \\\\
-&= \dfrac{ 5 \times \cancel{7}}{\cancel{7}} \\\\
+&= \dfrac {1} {7} \text{ of } 35 \\\\
+&= \dfrac {1} {7} \times 35 \\\\
+&= \dfrac {35} {7} \\\\
+&= \dfrac { 5 \times 7} {7} \\\\
+&= \dfrac { 5 \times \cancel{7}} {\cancel{7}} \\\\
 &= 5
 \end{aligned}
 $
@@ -343,11 +337,11 @@ Find $\dfrac{3}{7}$ of $35$
 
 $
 \begin{aligned}
-&= \dfrac{3}{7} \text{ of } 35 \\\\
-&= \dfrac{3}{7} \times 35 \\\\
-&= \dfrac{3 \times 35}{7} \\\\
-&= \dfrac{3 \times 5 \times 7}{7} \\\\
-&= \dfrac{3 \times 5 \times \cancel{7}}{\cancel{7}} \\\\
+&= \dfrac {3} {7} \text{ of } 35 \\\\
+&= \dfrac {3} {7} \times 35 \\\\
+&= \dfrac {3 \times 35} {7} \\\\
+&= \dfrac {3 \times 5 \times 7} {7} \\\\
+&= \dfrac {3 \times 5 \times \cancel{7}} {\cancel{7}} \\\\
 &= 3 \times 5  \\\\
 &= 15
 \end{aligned}
@@ -375,7 +369,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>7E1A5997-9BA0-4BE7-99CB-ACF5F977BCD0</p>
 </div>
@@ -417,7 +411,7 @@ $36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -429,10 +423,10 @@ $36$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tfraction
 </li>
 <li>
-tfraction
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -446,27 +440,27 @@ $0.2  \quad \dfrac{1}{5}  \quad 0.4  \quad \dfrac{3}{8}  \quad 0.027$
 <div class='workings'>
 <div class='working'>
 
-$\dfrac{1}{4} = 0.25$
+$\dfrac {1} {4} = 0.25$
 
-| Number            |  Decimal          |  $> 0.25$  |
+| Number            |  Decimal          |  $> 0.25$    |
 |:-------:          |:-----------------:|:------------:|
-| $0.2$             | $0.2$             | No         |
-| $\dfrac{1}{5}$    | $0.2$             | No         |
-| $0.4$             | $0.4$             | Yes         |
-| $\dfrac{3}{8}$    | $0.375$           | Yes         |
-| $0.027$           | $0.027$           | No         |
+| $0.2$             | $0.2$             | No           |
+| $\dfrac{1}{5}$    | $0.2$             | No           |
+| $0.4$             | $0.4$             | Yes          |
+| $\dfrac{3}{8}$    | $0.375$           | Yes          |
+| $0.027$           | $0.027$           | No           |
 
 
 Based on the calculation above,
 
-Numbers more than $\dfrac{1}{4} = 0.4, \quad \dfrac{3}{8}$
+Numbers more than $\dfrac {1} {4} = 0.4, \quad \dfrac {3} {8}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$0.4, \dfrac{3}{8}$
+$0.4, \dfrac {3} {8}$
 
 </div>
 </div>
@@ -480,7 +474,7 @@ $0.4, \dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>48250A73-DF92-490C-A0CC-2F67E734F706</p>
 </div>
@@ -518,7 +512,7 @@ $20306$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -551,7 +545,7 @@ As per the question,
 $
 \begin{aligned} 
 a + b      &= 40   \\\\
-a - b     &= 10         
+a - b      &= 10         
 \end{aligned}
 $
 
@@ -563,8 +557,8 @@ $
 \begin{aligned}
 a + b - (a - b)     &= 40 - 10 \\\\
 a + b -a + b        &= 30 \\\\
-2b                     &= 30 \\\\
-b                   &= \dfrac{30}{2} \\\\
+2b                  &= 30 \\\\
+b                   &= \dfrac {30} {2} \\\\
 b                   &= 15
 \end{aligned}
 $
@@ -589,12 +583,7 @@ Second number $= 15$
 <div class='answers'>
 <div class='answer'>
 
-$25$
-
-</div>
-<div class='answer'>
-
-$15$
+$25, 15$
 
 </div>
 </div>
@@ -608,7 +597,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA</p>
 </div>
@@ -663,7 +652,7 @@ $6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -961,9 +950,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 </ul>
@@ -1107,9 +1093,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -1329,10 +1312,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1525,9 +1505,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 </ul>
@@ -1629,10 +1606,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1927,9 +1904,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -2031,10 +2005,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2132,9 +2106,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttemperature
 </li>
@@ -2235,10 +2206,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2280,9 +2251,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>
@@ -2622,9 +2590,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgraph
 </li>

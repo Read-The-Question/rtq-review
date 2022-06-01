@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-notstarted"
 title: "Topic - Decimal - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -221,7 +221,7 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>28865942-DDBF-4A71-90B1-D1CE4D728421</p>
+<p>5DB561FC-E96A-471E-872B-8964DB6E9272</p>
 </div>
 <div class='topics'>
 <ul>
@@ -232,249 +232,66 @@ tunassigned
 tdecimal
 </li>
 <li>
-tfraction
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tdraw
+testimate
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty%
+Tick the correct statement below:
+
+Is the answer to $32.6578 \times 32.6578$:
+
+-  Below $100$?
+-  Between $100$ and $1000$?
+-  Between $1000$ and $1100$?
+-  More than $1100$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let's first multiply the numbers ignoring the decimal points.
 
-</div>
-<div class='working'>
+$
+\begin{array}{cccccccccccccc}
+           &   &   &   &   &   &         &3  &2  &6  &5  &7  &8     \\
+           &   &   &   &   &   & \times  &3  &2  &6  &5  &7  &8     \\
+\hline  
+           &   &   &   &   &   &2  &6  &1  &2  &6  &2  &4     \\ 
+           &   &   &   &   &2  &2  &8  &6  &0  &4  &6  &0     \\ 
+           &   &   &   &1  &6  &3  &2  &8  &9  &0  &0  &0     \\ 
+           &   &   &1  &9  &5  &9  &4  &6  &8  &0  &0  &0     \\ 
+           &   &   &6  &5  &3  &1  &5  &6  &0  &0  &0  &0     \\ 
+           &   &9  &7  &9  &7  &3  &4  &0  &0  &0  &0  &0     \\ 
 
-TODOWORKING
+\hline  
+           &1  &0  &6  &6  &5  &3  &1  &9  &0  &0  &8  &4
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is Eight.
+
+Let's account for the decimal point now.
+
+$= 1066.53190084$
+
+Since the answers to $32.6578 \times 32.6578$ is $1066.53190084$ which is Between $1000$ and $1100$
+
+Therefore, the correct statement is $\bold {Between \ 1000 \ and \ 1100}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the decimal number that the arrow is pointing to:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Between $1000$ and $1100$
 
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down (in simplest form) the fraction that the arrow is pointing to:
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-The jug contains water up to the level shown in the diagram. How many millilitres (ml) of water are in the jug?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Chan now empties the jug of water by pouring equal amounts into six identical empty beakers. 
-One of the beakers is shown in the diagram.
-
-Draw a line on the beaker to indicate the level of water in it.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
 <div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -800,72 +617,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D158169E-4900-4674-904C-A2A3E37740F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tdecimal
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing values in the table below to show the fraction, decimal and percentage equivalents of the numbers.
-
-Give the fractions in their simplest form. 
-
-![missing table](/papers/missing_table.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

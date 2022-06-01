@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-pr"
 title: "Topic - Detailedsubtraction - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,10 +146,10 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-    &    3    &    6    &    1    &    7 \\
-{}-        &    &    9    &    0    &    8 \\
+      &    3    &    6    &    1    &    7 \\
+{}-   &         &    9    &    0    &    8 \\
 \hline
-    &    2   &   7    &    0    &    9
+      &    2   &   7    &    0    &    9
 \end{array}
 $
 
@@ -247,11 +247,6 @@ $
 \end{array}
 $
 
-$
-\begin{array}{cccccccccccccc}
-\hline
-\end{array}
-$
 
 </div>
 </div>

@@ -1,9 +1,144 @@
 ---
 slug: "topics/topic-tunitprompt-notstarted"
 title: "Topic - Unitprompt - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F9F4EF55-6C6A-484C-9069-FE2611E8505B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My other friend Minka was doing some gardening when she snapped a bamboo cane. The cane was $2.05 \ \text{m}$ long and is now 
+$156 \ \text{cm}$ long. What length of cane snapped off?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In her garden, Ying-Ge is sowing some grass seed. The garden has an area of $158 \ \text{m}^2$ and each packet has enough seed for 
+$12 \ \text{m}^2$. How many packets does Ying-Ge need to buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -141,12 +276,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdecimal
-</li>
 <li>
 tfraction
 </li>
@@ -561,12 +690,244 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
+<p>66E9B7CE-E06F-43D2-94F9-6F0D8DA3D28F</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of rectangle shown below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area} &= \text {height} \times {width} \\\\
+             &= 20 \times 60 \\\\
+             &= 1200 \ \text {mm} ^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \ \text{mm} ^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+George cuts the rectangle up into an exact number of right-angled triangles, each with sides as shown in the diagram below. 
+
+![missing image](/papers/missing_image.svg)
+
+Calculate the number of triangles that he cuts from the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The area of the rectangle $=1200 \ \text{mm} ^2$
+
+As per the question, George cuts the rectangle upto an exact number of right-angled triangles.
+
+Let's find the area of a triangle.
+
+Area of triangle $= \dfrac {1} {2} (\text {l} \times \text {w})$
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times 12 \times 5 \\\\
+&= \dfrac {1} {2} \times 60 \\\\
+&= \dfrac {60} {2} \\\\
+&= \dfrac {30 \times 2} {2} \\\\
+&= \dfrac {30 \times \cancel {2}} {\cancel {2}} \\\\
+&= 30 \ \text {mm} ^2
+\end{aligned}
+$
+
+Let's calculate the no. of triangles that he cuts from the rectangle.
+
+Total no. of triangles $= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}}$
+
+$
+\begin{aligned}
+&= \dfrac {1200 \ \text {mm} ^2} {30 \ \text {mm} ^2} \\\\
+&= \dfrac {40 \times 30} {30} \\\\
+&= \dfrac {40 \times \cancel {30}} {\cancel {30}} \\\\
+&= 40
+\end{aligned}
+$
+
+No. of triangles George cuts $= 40$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the combined perimeter of all triangles that have been cut from the rectangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perimeter of triangle $= \text {Sum of all three sides}$
+
+$
+\begin{aligned}
+&= 12 + 13 + 5 \\\\
+&= 40 \ \text {mm}
+\end{aligned}
+$
+
+Combined perimeter of triangles $= \text{No. of triangles} \times \text{Perimeter of a triangle}$
+
+$
+\begin{aligned}
+&= 40 \times 30 \\\\
+&= 1200 \ \text {mm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \ \text {mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Convert this distance from milimetres into meters.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text {m}                                &= 1000 \ \text {mm} \\\\
+\dfrac {1} {1000} \text {m}                &= 1 \ \text {mm} \\\\
+\dfrac {1} {1000} \times 1200              &= 1 \times 1200 \\\\
+\dfrac {1200}{1000}                        &= 1200 \\\\
+\dfrac {12 \cancel {00}} {10 \cancel {00}} &= 1200 \\\\
+\dfrac {12} {10}                           &= 1200 \\\\
+1.2 \text {m}                              &= 1200 \ \text {mm} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.2 \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5743D96D-D40B-4E87-8774-99FCA17BCEB5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tmoney
 </li>
 <li>
 ttime
@@ -575,7 +936,265 @@ ttime
 tunitprompt
 </li>
 <li>
-tinfer
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a plan of the rectangular garden of local celebrity Louis Cowell-Cole, 
+with an L-shaped fish pond in the middle. The dimensions of the garden and the pond are shown below.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the fish pond.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the area of the lawn.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis wants to put a stone path around the edge of the garden, just **inside** the existing perimeter fence. 
+Each paving slab is a square with sides $1 \ \text{metre}$.
+
+Work out how many paving slabs are needed to complete this path.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis hires a builder to lay the path. The builder charges $\pounds 8$ per hour basic labour for the job, and then $\pounds 1.50$ per slab he lays.
+
+If he takes $3 \dfrac{1}{2}$ hours to finish the job, work out his overall fee.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Louis then decides to plant a row of bushes around the inside of the stone path. Each bush is to be planted $25 \ \text{cm}$ from 
+the edge of the path, and  $50 \ \text{cm}$m from its neighbouring bushes. The diagram below displays how this might look near a 
+corner of the garden.
+
+![missing image](/papers/missing_image.svg)
+
+Calculate how many bushes are required to complete this in total.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FD674F46-633C-4D78-BC2C-5BC52EDE5036</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tunitprompt
 </li>
 </ul>
 </div>
@@ -621,6 +1240,349 @@ TODOANSWER
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8FC6B80B-0784-4E21-8E3D-76A86D6208DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $31$ days in July. Each day throughout July I picked $300\ \text{g}$ of raspberries from my garden.
+
+What was the total weight of the raspberries I picked that month? Give your answer in kilograms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text { day }           & : 300 \text {g} \\\\
+1 \text { day } \times 31 & : 300 \text {g} \times 31 \\\\
+31 \text { days }         & : 9300 \text {g} \\\\
+$
+
+Total weight of the raspberries = $9300$ grams.
+
+Now convert the grams into kilograms
+
+1g = $\dfrac {1} {1000} \text {kg}$ then,
+
+9300g = $9300 \times \dfrac {1} {1000} \text {kg}$
+
+$
+\begin{aligned}
+&= 9300 \times \dfrac {1} {1000} \\\\
+&= \dfrac {9300} {1000} \\\\
+&= \dfrac {93 \cancel {00}} {10 \cancel {00}} \\\\
+&= \dfrac {93} {10} \\\\
+&= 9.3 \text{kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.3 \text{kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C79D8DA3-388C-41C9-AB78-2E9C21A3E585</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between the teeth are also $1 \ \text{mm}$ wide.
+
+How long is the comb in centimetres?
+
+![missing image](/papers/missing_image.svg)  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Width of a tooth $= 1 \ \text {mm}$
+
+Total width of teeth $= 100 \times 1 \ \text {mm}$
+
+Total width of gaps $= 99 \times 1 \ \text {mm}$
+
+The total length of comb $= \text{length of} (\text {teeth} \ + \ \text {gaps})$
+
+$
+\begin{aligned}
+&= 100 \ \text {mm} + 99 \ \text {mm} \\\\
+&= 199 \ \text {mm}
+\end{aligned}
+$
+
+$1$ mm $= \dfrac {1} {10} \ \text {cm}$
+
+then,
+
+$199$ mm $= 199 \times \dfrac {1} {10} \ \text {cm}$
+
+$
+\begin{aligned}
+&= 199 \times \dfrac {1} {10} \\\\
+&= \dfrac {199} {10} \\\\
+&= 19.9 \text {cm}
+\end{aligned}
+$
+
+the length of the comb $= 1.99 \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.9 \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4D36DDE1-18A4-4F91-A9F3-7CB993E6A6E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mark has a market stall.
+He sells apples at $56 \text{p}$ for each kilogram.
+
+Bianca buys $4 \ \text{kilograms}$ of apples.
+She pays for her apples with a $\pounds 5$ note.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change should she get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change she should get} &= \pounds 5 - 4 \times 56 \text{p} \\\\
+                              &= \pounds 5 - 224 \text{p} \\\\
+                              &= \pounds 5 - \pounds 2.24 \\\\
+                              &= \pounds 2.76
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.76$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark bought $25$ melons for his stall. 
+He paid $\pounds 16$ for $25$each melons.
+
+Work out the price Mark paid for each melon, in pence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since we know,
+
+\pounds 1 = 100 \text { p}
+
+$
+\begin{aligned}
+&= \pounds 16 \times 100 \\\\
+&= 1600 \text { p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1600 \text { p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Five of the melons were bad. Mark sold the other $20$ for $120 \text{p}$ each.
+
+Work out the total amount for which Mark sold the melons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 20 \times 120 \text { p} \\\\
+&= 2400 \text { p} \\\\
+&= \pounds 24
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 24$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out what profit Mark made in selling the melons, giving your answer as a fraction of the cost of buying the melons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Profit} &= 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -866,6 +1828,107 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>2E210E66-DA3C-41A7-AEFA-6EE0F1A7883F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $750 \ \text{grams}$ of pasta cost $90 \text{p}$ find the cost of $1 \ \text{kilogram}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to convert into the right units.
+
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+As per the question,
+
+$
+\begin{aligned}
+    750                                   & : 90 \text{p}                                                                     \\\\
+    \dfrac {750}{750}                     & : \dfrac {90}{750}                                                                \\\\
+    \dfrac {\cancel {750}}{\cancel {750}} & : \dfrac {9 \cancel 0}{75 \cancel 0}                                              \\\\
+    1                                     & : \dfrac {9}{75}                                                                  \\\\
+    1  \times 1000                        & : \dfrac {9}{75} \times 1000                                                      \\\\
+    1000                                  & : \dfrac {9 \times 1000}{75}                                                      \\\\
+    1000                                  & : \dfrac {3 \times 3 \times 25 \times 40} {3 \times 25}                           \\\\
+    1000                                  & : \dfrac {\cancel 3 \times \cancel {25} \times 40}{\cancel 3 \times \cancel {25}} \\\\
+    1000                                  & : 3 \times 40                                                                     \\\\
+    1000                                  & : 120 \text{p}                                                                    \\\\
+    1000 \ \text {gram}                   & : \pounds 1.20                                                                    
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+<div class='working'>
+
+
+It is really important to convert into the right units.
+The weight $750$ is in given in grams, but answer has to be calculated for a kilogram. 
+
+$1 \ \text{kg} = 1000 \ \text{grams}$ 
+
+This can be solved using ratios.
+
+$
+\begin{aligned}
+    750 \text{g}    & : 1000 \text{g}    \\\\
+    75 \text{g}     & : 100 \text{g}     \\\\
+    \dfrac {75}{25} & : \dfrac {100}{25} \\\\
+    3               & : 4                
+\end{aligned}
+$
+
+Let's take the cost of $1 \ \text{kg}$ = $a$ 
+
+$
+\begin{aligned}
+    \dfrac {3}{4} & : \dfrac {90}{a}                    \\\\
+    \dfrac {3}{4} & : \dfrac {3 \times 30}{4 \times 30} \\\\
+    \dfrac {3}{4} & : \dfrac {90}{120}                  \\\\
+\end{aligned}
+$
+
+$1 \ \text{kilogram}$ of pasta costs $\pounds 1.20$.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>3A71DDDC-2D6B-4A59-967F-56DE1212FA0F</p>
 </div>
 <div class='topics'>
@@ -995,6 +2058,494 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>04A78115-E920-4CC2-A29B-8CC4DA529C3D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tvenn
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Notby School won the final of the hockey tournament.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A hockey pitch is $91.4 \ \text{metres}$ long. 
+
+Write this length in centimetres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=91.4 \text{m} \\\\
+&=91.4 \times 100 \\\\
+&= 9140\text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9140\text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There were $2096$ spectators at their final match.
+
+Write this number correct to the nearest hundred.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The hockey trophy weighed half a kilogram.
+
+How many grams is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$500\text{g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500\text{g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mr Gowl, the hockey coach, carried out a survey to see whether the children who scored goals were right-handed or left-handed.
+
+Here are his results in a Venn diagram:
+
+![missing image](/papers/missing_image.svg)
+
+Use the Venn diagram to write down
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+the number of right-handed children in the team
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+the number of left-handed children who scored a goal
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2AEC45C5-5DAA-456F-A6B5-36E478ECAC91</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tangle
+</li>
+<li>
+tdraw
+</li>
+<li>
+tgeometry
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is a sketch showing the position of three towns, Addbridge $(A)$, Sumville $(S)$ and Totalton $(T)$.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using a scale of $1 \ \text{centimetre }$to represent $1 \ \text{kilometre}$, 
+how many centimetres would represent $11 \ \text{kilometres}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$ 11 $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw accurately the triangle $AST$, using a scale of $1 \ \text{centimetre}$ lo represent $1 \ \text{kilometre}$.
+
+(The point $A$ is already drawn for you.)
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Measure and write down the obtuse angle at $T$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use a compass direction to complete the sentence.
+
+Addbridge is $\ldots$ of Totalton.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1467,6 +3018,403 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The distance all the way round the outside of my bicycle wheel is known as the circumference. It is about three times the distance across the middle of the wheel, known as the diameter.
+
+![missing image](/papers/missing_image.svg)
+
+So if Andrew has a wheel with diameter $50 \ \text{centimetres}$, its circumference would be about $150 \ \text{cm}$ or $1.5 \ \text{metres}$ and it would take $100$ turns of the wheel to travel a distance of $150 \ \text{m}$ and $1000$ turns to travel $1.5 \ \text{kilometres}$.
+
+Using this approximation that $\bold { \textbf{Circumference} = 3 \times \textbf{diameter} }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many metres would Andrew travel in $60$ turns of the wheel?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's take the 
+
+Circumference as $c$
+
+Diameter as $d$
+
+$c = 3 \times d$
+
+Let's calculate first the distance travelled with one turn of the wheel.
+
+It's known that 
+
+$
+\begin{aligned}
+100 Turns &= 150 \ \text {m} \\\\
+1 Turn &= \dfrac {150}{100} \\\\
+       &= \dfrac {3}{2} \\\\
+       &= 1.5 \ \text {m} \\\\
+\end{aligned}
+$
+
+So,
+
+$
+\begin{aligned}
+60 \ \text {Turns} &= 60 \times 1.5 \ \text {m} \\\\
+                   &= 6 \times 15\\\\
+                   &= 90  \ \text {m} \\\\
+\end{aligned}
+$
+
+Andrew travels $90  \ \text {m}$ in $60$ turns of the wheel.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90  \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many turns of the wheel would it take him to cover $600 \ \text{m}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Distance travelled per turn of the wheel is $1.5 \ \text {m}$, as per the solution above.
+
+Distance travelled = No. of turns $\times$ circumference
+
+No. of turns $\times 1.5 \ \text {m} =$ Distance travelled
+
+Let's take the number of turns as $x$
+
+$
+\begin{aligned}
+x \times 1.5 &= 600  \\\\
+           x &= 600 \times 1.5 \\\\
+             &= \dfrac {600 \times 10}{1.5 \times 10}\\\\
+             &= \dfrac {6000}{15} \\\\
+             &= \dfrac {{\cancel{6000}\raisebox{0.9em}{400}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
+           x &= 400 \ \text {Turns}\\\\
+\end{aligned}
+$
+
+It would take him $400$ Turns to cover $600 \ \text{m}$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$400$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Andrew enters a road race, the distance for which is $75 \ \text{km}$.
+
+How many turns of his front wheel does this race take?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Distance travelled per turn of the wheel is $1.5 \ \text {m}$
+
+Distance travelled = No. of turns $\times 1.5$
+
+Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
+
+Let's take the number of turns as $x$
+
+$
+\begin{aligned}
+x \times 1.5 &= 75000 \ \text{m}  \\\\
+           x &= 75000 \times 1.5 \\\\
+             &= \dfrac {75000 \times 10}{1.5 \times 10}\\\\
+             &= \dfrac {750000}{15} \\\\
+             &= \dfrac {{\cancel{750000}\raisebox{0.9em}{50000}}}{{\cancel{15}\raisebox{-0.9em}{1}}} \\\\
+           x &= 50000 \ \text {Turns}
+\end{aligned}
+$
+
+It would take him $50000$ Turns to cover $75 \ \text{km}$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Andrew's great-great-grandfather took part in the same race over a hundred years ago, but the large wheel on his penny-farthing bicycle was $2 \ \text{metres}$ across.
+
+How many turns of this large wheel were required to complete the race?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Diameter of wheel $d = 2 \ \text{metres}$
+
+Circumference $c$as
+
+$\quad = 3 \times d$
+
+$\quad = 3 \times 2$
+
+$\quad = 6 \ \text{metres}$
+
+Distance travelled $= 75 \ \text{km \ or} 75000 \ \text{m}$ 
+
+Distance travelled = No. of turns $\times$ circumference
+
+Or,
+
+No. of turns = \dfrac {Distance travelled}{circumference}
+
+Let's take the No. of turns as $x$
+
+Let's substitute
+
+$
+\begin{aligned}
+x  &= \dfrac {75000}{6} \\
+   &= \dfrac {{\cancel{75000}\raisebox{0.9em}{12500}}}{{\cancel{6}\raisebox{-0.9em}{1}}} \\\\
+   &= 12500 \ \text {Turns}
+\end{aligned}
+$
+
+It would take him $12500$ Turns to cover $75 \ \text{km}$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of Andrew's number of turns was his great-great-grandfathers number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+To cover the distance of $75 \ \text{km}$
+
+
+|          | Andrew | GG.Grandpa |
+|----------|--------|------------|
+| Diameter | 50cm   | 200cm      |
+| Turns    | 12500  | 50000      |
+
+Fraction $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
+
+$
+\begin{aligned}
+&= \dfrac {12500}{50000} \\\\
+&= \dfrac {125 \cancel 00}{500 \cancel 00} \\\\
+&= \dfrac {{\cancel{125}\raisebox{0.9em}{5}}}{{\cancel{500}\raisebox{-0.9em}{100}}} \\\\
+&=\dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{100}\raisebox{-0.9em}{4}}} \\\\
+&=\dfrac {1}{4} \\\\
+\end{aligned}
+$
+
+Fraction $\dfrac {1}{4}$ or $4$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1}{4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give a reason why this is.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+|          | Andrew | GG.Grandpa |
+|----------|--------|------------|
+| Diameter | 50cm   | 200cm      |
+| Turns    | 12500  | 50000      |
+
+
+Ratio of Diameter  $= \dfrac {\text {Andrew's wheel}}{\text {G.Grandpa's wheel}}$
+
+$
+\begin{aligned}
+&= \dfrac {50}{200} \\\\
+&= \dfrac {5 \cancel 0}{20 \cancel 0} \\\\
+&= \dfrac {{\cancel{5}\raisebox{0.9em}{1}}}{{\cancel{20}\raisebox{-0.9em}{4}}} \\\\
+&=\dfrac {1}{4} \\\\
+\end{aligned}
+$
+
+Ratio of Turns $= \dfrac {\text {Andrew's Turn}}{\text {G.Grandpa's Turn}}$
+
+$=\dfrac {1}{4}$
+
+The ratio of diameter of both the wheels is equal to the ratio of the turns.
+
+
+
+</div>
+<div class='working'>
+
+TODOANSWER
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+Ratio of Rurns and Diameters is smaller
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>DF4D7857-8E32-44AC-9B1E-0C88C83C63C6</p>
 </div>
 <div class='topics'>
@@ -1669,6 +3617,59 @@ $litres$
 </ul>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1652B3A3-3757-497A-A8FD-0546A3707735</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the mass of $16\, tins$, each of mass $178\,g$?
+
+Give your answer in **kilograms.**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Mass of 1 tin}                    &= 178 \text{ g} \\\\
+\text{Mass of 16 tins}                  &= 16 \times 178 \text{ g} \\\\
+                                        &= 2848 \text { g} \\\\
+                                        &= \dfrac {2848} {1000} \text { kg} \\\\
+                                        &= 2.848 \text { kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2.848 \text { kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

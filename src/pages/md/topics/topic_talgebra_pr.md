@@ -1,18 +1,18 @@
 ---
 slug: "topics/topic-talgebra-pr"
 title: "Topic - Algebra - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>CDFD491B-E050-44A6-902D-95DE23E4196F</p>
+<p>71BAE604-5A28-4AE4-95ED-49D812FF6AF2</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tangle
+tareaperimeter
 </li>
 <li>
 talgebra
@@ -21,30 +21,27 @@ talgebra
 </div>
 <div class='question question'>
 
-Calculate the missing angle in this isosceles triangle.
+Look at the rectangle below.
 
 ![missing image](/papers/missing_image.svg)
+
+Perimeter $= 36 \ \text{millimetres}$
+
+Find the value of $t$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a$
-
-As the triangle is an isosceles triangle, the third angle is also $= a$
-
-As we know, the sum of angles in a triangle is $180 \degree$.
-
 $
 \begin{aligned}
-a \degree + a \degree + 96 \degree      &= 180 \degree  \\\\
-2a + 96                                 &= 180  \\\\
-2a                                      &= 180 - 96  \\\\
-2a                                      &= 84  \\\\
-a                                       &= \dfrac {84} {2}  \\\\
-a                                       &= \dfrac {42 \times 2} {2}  \\\\
-a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
-a                                       &= 42 \degree
+\text{Perimeter} &= 2 \times (\text{length} + \text{width}) \\\\
+36                                         &= 2 \times (10 + t) \\\\
+2 \times (10 + t)                          &= 36 \\\\
+10 + t                                     &= \dfrac{36}{2} \\\\
+10 + t                                     &= 18 \\\\
+t                                          &= 18 - 10 \\\\
+t                                          &= 8 \ \text{mm} \\\\
 \end{aligned}
 $
 
@@ -53,79 +50,13 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$42 \degree$
+$8 \ \text{mm}$
 
 </div>
 </div>
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>125D5D46-1589-49A3-B299-BF6AD03EEA2F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Gino is thinking of a number. 
-
-If he
-
-- halves it,
-- then adds 5 to it
-- and then squares it and gets 121.
-
-Circle the number that Gino was thinking of.
-
-$12 \quad 17 \quad 32$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Gino thought of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
-\dfrac{a}{2} + 5                    &= \sqrt{121} \\\\
-\dfrac{a}{2} + 5                    &= 11 \\\\
-\dfrac{a}{2}                        &= 11 - 5 \\\\
-\dfrac{a}{2}                        &= 6 \\\\
-a                                   &= 6 \times 2 \\\\
-a                                   &= 12 
-\end {aligned}
-$
-
-The number that Gino thought of $= 12$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -524,6 +455,92 @@ $25$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A rectangle has an area of $36 \ \text{cm}^2$ and a perimeter of $26 \ \text{cm}$. Find the length and width of the rectangle.
+You may use the grid to help you.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text{cm}$) $= w$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$
+
+Using the formula for area and perimeter for a rectangle, we get
+
+$
+\begin{aligned}
+l \times w          &= 36 \\\\
+2 \times (l + w)    & = 26 \\\\
+l + w               &= \dfrac {26}{2} \\\\
+l + w               &= 13
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $13$
+- The product of the $2$ numbers is $36$ 
+- The sum of the $2$ numbers is $13$.
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Factors   |  Sum  | Numbers $< 13$    |
+|:-------:  |:----: |:---------------:  |
+| $2, 18$   | $20$  |        No         |
+| $3, 12$   | $15$  |       Yes         |
+| $4, 9$    | $13$  |       Yes         |
+
+A quick check shows that $4$ and $9$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.*
+
+Width of the rectangle $= 4 \ \text{cm}$ 
+
+Length of the rectangle $= 9 \ \text{cm}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Width $= 4 \ \text{cm}$
+
+</div>
+<div class='answer'>
+
+Length $= 9 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
 </div>
 <div class='topics'>
@@ -625,10 +642,13 @@ Banana $= 50 \ \text{pence}$
 <div class='topics'>
 <ul>
 <li>
+tareaperimeter
+</li>
+<li>
 talgebra
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -912,62 +932,6 @@ $8 \ \text {pieces}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third angle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angle $= a$
-
-As we know sum of  all angles in triangle $= 180 \degree$.
-
-Using that we get,
-
-$
-\begin{aligned}
-49 + 52 + a    &= 180 \\\\
-101 + a        &= 180 \\\\
-a              &= 180 - 101 \\\\
-a              &= 79 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$79 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
@@ -1185,411 +1149,6 @@ $y = x ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>6D5C94CF-2D87-4416-AAA2-9227B6C1AC6A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I buy a pen and a pencil for $\pounds 1.10$. The pen costs $50 \text{p}$ more than the pencil. How much is the pen?
-
--  $50 \text{p}$        
--  $60 \text{p}$        
--  $70 \text{p}$        
--  $80 \text{p}$        
--  $90 \text{p}$       
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the price of pencil $= a$
-
-As per the question price of pen $= a + 50$
-
-$
-\begin{aligned}
-a + a + 50   &= 110 \\\\
-2a + 50      &= 110 \\\\
-2a           &= 110 - 50 \\\\
-a            &= \dfrac {60} {2} \\\\
-a            &= \dfrac {30 \times 2} {2} \\\\
-a            &= \dfrac {30 \times \cancel{2}} {\cancel {2}} \\\\
-a            &= 30 \text{p}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {price of pen} &= 50 + a \\\\
-                     &= 50 + 30 \\\\
-                     &= 80 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$80 \text{p}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>A9BB615E-D457-47F6-AF4E-CD7BA00D2171</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Angus and his six friends have collected $756$ football stickers, which they all share out equally.  
-How many stickers do they each get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Stickers each will get}                 &= \dfrac {\text{Total stickers}} {\text{Total people}} \\\\
-                                              &= \dfrac {756} {7} \\\\
-                                              &= \dfrac {7 \times 108} {7} \\\\
-                                              &= \dfrac {\cancel{7} \times 108} {\cancel{7}} \\\\
-                                              &= 108
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$108$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Today is Emma's $29 \text{th}$ birthday. How many months old is she?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Emma's age in month}                    &= 29 \times 12 \\\\
-                                              &= 348
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$348$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Amar works for $45$ weeks each year. 
-His total cost of travelling to and from work is $\pounds 630$ each year. 
-How much is that per week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Amar's travelling cost per week}        &= \dfrac {\text{Total cost each year}} {\text{No. of weeks}} \\\\
-                                              &= \dfrac {630} {45} \\\\
-                                              &= \dfrac {14 \times 45} {45} \\\\
-                                              &= \dfrac {14 \times \cancel{45}} {\cancel{45}} \\\\
-                                              &= \pounds 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 14$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>61824054-48C2-4222-94CE-B049FCF364CB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The tables in the Dining Hall can each seat $8$ pupils. 
-
-How many tables are needed to seat $180$ pupils?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Tables needed}                          &= \dfrac {\text{Total pupils}} {\text{Pupil per table}} \\\\
-                                              &= \dfrac {180} {8} \\\\
-                                              &= 22 \dfrac {4} {8} \\\\
-                                              &= 23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23 \ \text{tables}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Jake paid a $\pounds 50$ deposit for a bike, then monthly
-payments of $\pounds 25$ each. The bike cost $\pounds 275$. 
-
-How many monthly payments did Jake have to make to buy it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of monthly payments $= m$
-
-$
-\begin{aligned}
-50 + 25m                                      &= 275 \\\\
-25m                                           &= 275 - 50 \\\\
-25m                                           &= 225 \\\\
-m                                             &= \dfrac {225} {25} \\\\
-m                                             &= \dfrac {9 \times 25} {25} \\\\
-m                                             &= \dfrac {9 \times \cancel{25}} {\cancel{25}} \\\\
-m                                             &= 9
-\end{aligned}
-$
-
-The number of monthly payments $= 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $500$ pupils at Lily's school.
-
-There are $30$ more girls than boys. 
-
-How many girls are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of girls $= g$
-
-Number of boys $= g - 30$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number of girls} + \text{Number of boys}       &= \text{Total pupils} \\\\
-g + (g - 30)                                         &= 500 \\\\
-2g                                                   &= 500 + 30 \\\\
-2g                                                   &= 530 \\\\
-g                                                    &= \dfrac {530} {2} \\\\
-g                                                    &= \dfrac {2 \times 265} {2} \\\\
-g                                                    &= \dfrac {\cancel{2} \times 265} {\cancel{2}} \\\\
-g                                                    &= 265
-\end{aligned}
-$
-
-Number of girls at Lily's school $= 265$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$265 \ \text{girls}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
@@ -1710,6 +1269,79 @@ $1$ January
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If the area of each square is $9 \ \text{cm}^2$, what is the outer perimeter of the whole shape? The diagram is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of a side of the square (in $\text{cm}$) $= a$.
+
+$
+\begin {aligned}
+a  &= \sqrt {\text {Area of the square}} \\\\
+a  &= \sqrt {9} \\\\
+a  &= 3 \ \text {cm}
+\end {aligned}
+$
+
+Let the length of the rectangle (in $\text{cm}$) $= l$.
+
+Let the width of the rectangle (in $\text{cm}$) $= w$.
+
+Since the width of the rectangle and the length of a side of the square are same, 
+
+So, $w = 3$.
+
+$
+\begin {aligned}
+l                                   &= a + a + a \\\\
+l                                   &= 3 + 3 + 3 \\\\
+l                                   &= 12 \ \text {cm} \\\\
+\text {Perimeter of the rectangle}  &= 2 \times (l + w) \\\\
+                                    &= 2 \times (12 + 3) \\\\
+                                    &= 2 \times 15 \\\\
+                                    &= 30 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2113,12 +1745,15 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ak_pr question'>
 <div class='uuid'>
-<p>0A8B9A61-BA92-4D10-A336-920B6CC84AFF</p>
+<p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tareaperimeter
+</li>
 <li>
 talgebra
 </li>
@@ -2126,17 +1761,7 @@ talgebra
 </div>
 <div class='question question'>
 
-In the Cybercafe you can buy Gigaburgers and cans of Megapop.
-
-$1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$ 
-
-![missing image](/papers/missing_image.svg)
-
-$2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
-
-![missing image](/papers/missing_image.svg)
-
-Find the cost of:
+%empty%
 
 </div>
 <div class='workings'>
@@ -2162,85 +1787,37 @@ Find the cost of:
 </div>
 <div class='question subquestion'>
 
-$1$ glass of Megapop
+A square has a perimeter of $32 \ \text{cm}$. What is the area of the square?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the cost of Megapop (in $\text{pounds}$) $= m$
-
-Let the cost of Gigaburger (in $\text{pounds}$) $= g$
+Let the length of the side of the square $= a$.
 
 As per the question,
 
 $
-\begin{aligned} 
-g + 2m                    &= 2.8 \\\\
-2g + 4m                   &= 5.6 \\\\
-2g + 5m                   &= 6.1
-\end{aligned}
+\begin {aligned}
+\text {Perimeter of the square}  &= 32 \ \text {cm} \\\\
+4 \times a                       &= 32 \\\\
+a                                &= \dfrac {32} {4} \\\\
+a                                &= \dfrac {8 \times 4} {4} \\\\
+a                                &= \dfrac {8 \times \cancel {4}} {\cancel {4}} \\\\
+a                                &= 8 \ \text {cm} \\\\
+\text {Area of the square}       &= \text {Side} \times \text {Side} \\\\
+                                 &= a \times a \\\\
+                                 &= 8 \times 8 \\\\
+                                 &= 64 \ \text {cm} ^ 2
+\end {aligned}
 $
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
-Multiply the first equation by $2$.
-
-$
-\begin{aligned} 
-2 \times g + 2 \times 2m     &= 2 \times 2.8 \\\\
-2g + 4m                      &= 5.6
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned}
-2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.50 \\\\
-m                          &= \pounds 0.50
-\end{aligned}
-$
-
-Cost of 1 can of Megapop $= \pounds 0.50$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-Let the cost of Megapop (in $\text{pounds}$) $= m$
-
-Let the cost of Gigaburger (in $\text{pounds}$) $= g$
-
-As per the question,
-
-$
-\begin{aligned}
-g + 2m                    &= 2.8 \ \ \text {or,} \\\\
-2g + 4m                   &= 5.6 \\\\
-2g + 5m                   &= 6.1
-\end{aligned}
-$
-
-$
-\begin{array}{cccccccccccccc}
-    &   2g & + &   5m   &=\pounds 6.1 \\
-{}- &   2g & + &   4m   &=\pounds 5.6 \\
-\hline
-      &0 &+&   1m   &=\pounds 0.5 \\
-\end{array}
-$
-
-$1$ Megapop $= \pounds 0.50$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 0.50$
+$64 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -2255,18 +1832,33 @@ $\pounds 0.50$
 </div>
 <div class='question subquestion'>
 
-$1$ Gigaburger
+A rectangle has perimeter $32 \ \text{cm}$. The rectangle is three times as long as it is wide. What is the area of the rectangle?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+Let the width of the rectangle $= w$.
+
+As per the question,
+
+Length of the rectangle $= 3 \times w$.
+
 $
-\begin{aligned} 
-\text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
-                             &= 2.8 - 1 \\\\
-                             &= \pounds 1.80
-\end{aligned}
+\begin {aligned}
+2 \times (\text {length} + \text {width})   &= \text {Perimeter of a rectangle} \\\\
+2 \times (3w + w)                           &= 32 \ \text {cm} \\\\
+2 \times 4w                                 &= 32 \\\\
+8w                                          &= 32 \\\\
+w                                           &= \dfrac {32} {8} \\\\
+w                                           &= \dfrac {4 \times 8} {8} \\\\
+w                                           &= \dfrac {4 \times \cancel {8}} {\cancel {8}} \\\\
+w                                           &= 4 \ \text {cm} \\\\
+\text {Area of the rectangle}               &= \text {length} \times \text {width} \\\\
+                                            &= (3 \times 4) \times 4 \\\\
+                                            &= 12 \times 4 \\\\
+                                            &= 48 \ \text {cm} ^ 2
+\end {aligned}
 $
 
 </div>
@@ -2274,7 +1866,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 1.80$
+$48 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -2283,10 +1875,10 @@ $\pounds 1.80$
 </li>
 </ul>
 <div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+<p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ak_pr</p>
 </div>
 </div>
 </li>
@@ -2453,127 +2045,6 @@ $60 \degree$
 </div>
 <div class='rag'>
 <p>rag_ak_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ad_pr question'>
-<div class='uuid'>
-<p>700BB296-C63A-4D7F-A9BE-F09E3785CDC3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A balloon pump and three packs of balloons cost $\pounds 9$ altogether.
-
-A balloon pump and four packs of balloons cost $\pounds 11$ altogether. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much does a pack of balloons cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of a pack of balloons} &= \text {Cost of a balloon pump and four packs of balloons} - \text {Cost of a balloon pump and three packs of balloons} \\\\
-                                   &= 11 - 9 \\\\
-                                   &= \pounds 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much does a balloon pump and eight packs of balloons cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Cost of a balloon pump} &= \text {Cost of a balloon pump and four packs of balloons} - \text{Cost of four packs of balloons} \\\\
-                              &= 11 - 4 \times 2 \\\\
-                              &= 11 - 8 \\\\
-                              &= \pounds 3
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Cost of a balloon pump and eight packs of balloons} &= \text {Cost of a balloon pump} + 8 \times \text {Cost of a pack of balloons} \\\\
-                                                           &= 3 + 8 \times 2 \\\\
-                                                           &= 3 + 16 \\\\
-                                                           &= \pounds 19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 19$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_pr</p>
 </div>
 </div>
 </li>
@@ -3241,12 +2712,15 @@ $75 \degrees$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
-<p>D420B70D-FFDF-4298-9B28-CB918A886544</p>
+<p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
 <div class='topics'>
 <ul>
+<li>
+tareaperimeter
+</li>
 <li>
 talgebra
 </li>
@@ -3254,15 +2728,36 @@ talgebra
 </div>
 <div class='question question'>
 
-A ruler costs $x$ pence and a pen costs $y$ pence. Which of the statements below represents the cost of $4$ pens and $6$ rulers? Circle your answer
+%empty%
 
-$10xy$
+</div>
+<div class='workings'>
+<div class='working'>
 
-$6x+4y$
+%empty%
 
-$6y+4x$
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-$10(x+y)$
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the shape to the right is a square, work out the 
+value of $x$
+
+![missing image](/papers/missing_image.svg)
 
 </div>
 <div class='workings'>
@@ -3272,156 +2767,75 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of a ruler}                 &= x \text{pence} \\\\
-\text{Cost of a pen}                   &= y \text{pence} 
+2x + 5                                       &= 21 \\\\
+2x                                           &= 21 - 5 \\\\
+2x                                           &= 16 \\\\
+x                                            &= \dfrac {16} {2} \\\\
+x                                            &= \dfrac {\cancel{2} \times 8} {\cancel{2}} \\\\
+x                                            &= 8
 \end{aligned}
 $
-
-Cost of  $6$ ruler and $4$ pens $= 6x + 4y$ 
 
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
 <div class='answer'>
 
-$6x + 4y$
+$8$
 
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>B33A22B5-0C06-4A7C-A218-0C2B9A928463</p>
-</div>
+<div class='question_envelope rag_red subquestion'>
 <div class='topics'>
 <ul>
-<li>
-talgebra
-</li>
 </ul>
 </div>
-<div class='question question'>
+<div class='question subquestion'>
 
-When you add up two numbers you get $11$, but when you multiply the two numbers you get $28$. What are the two numbers?
+A regular pentagon has the same side length as the square. What is its perimeter?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the two numbers $= a$ and $b$
+Perimeter of regular pentagon $= 5 \times \text{Length of side}$
 
 As per the question,
 
 $
 \begin{aligned}
-a + b               &= 11 \\\\
-a \times b          &= 28
+\text{Perimeter of the pentagon}       &= 5 \times 21 \ \text{cm} \\\\
+                                       &= 105 \ \text{cm}
 \end{aligned}
 $
-
-We can easily infer the values by using trial and error.
-
-Factors of $28 = 1, 2, 4, 7, 14, 28$
-
-| Numbers   |  Multiplication  |           Sum           |
-|:-------:  |:---------------: |:----------------------: |
-| $1, 28$   |       $28$       | $1 + 28 = 29 \not = 11$ |
-| $2, 14$   |       $28$       | $2 + 14 = 16 \not = 11$ |
-| $4, 7$    |       $28$       | $4 + 7 = 11$            |
-
-The two numbers are $= 4 \ \text{and} \ 7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$4 \ \text{and} \ 7$
+$105 \ \text{cm}$
 
 </div>
 </div>
 
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>5B8D18CD-2CFA-4594-8C03-B6723148134E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
 </li>
 </ul>
-</div>
-<div class='question question'>
-
-A block of chocolate is divided between three friends. Paul gets half of it and Peter gets one third of it. Richard gets $100 \ \text{g}$ of chocolate. How heavy was the bar originally?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of chocolate in the bar $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total weight of chocolate}                                                                            &= \text{Paul's share} + \text{Peter's share} + \text{Richard's share} \\\\
-a                                                                                                           &= \dfrac {1} {2} \times a + \dfrac {1} {3} \times a + 100 \\\\
-a                                                                                                           &= \dfrac {a} {2} + \dfrac {a} {3} + 100 \\\\
-a - \dfrac {a} {2} - \dfrac {a} {3}                                                                         &= 100 \\\\
-\dfrac {a \times 6} {1 \times 6} - \dfrac {a \times 3} {2 \times 3} - \dfrac {a \times 2} {3 \times 2}      &= 100 \\\\
-\dfrac {6a} {6} - \dfrac {3a} {6} - \dfrac {2a} {6}                                                         &= 100 \\\\
-\dfrac {6a - 3a - 2a} {6}                                                                                   &= 100 \\\\
-\dfrac {a} {6}                                                                                              &= 100 \\\\
-a                                                                                                           &= 100 \times 6 \\\\
-a                                                                                                           &= 600 \text{g}
-\end{aligned}
-$
-
-The bar was having $600$ chocolates originally.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$600 \text{g}$
-
-</div>
-</div>
-
 <div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
+<div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -3480,624 +2894,7 @@ $\pounds 32$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>7025FD21-D901-49E5-BD69-BFFDCA9D731C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x - 5 = 31$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3x - 5 &= 31 \\\\
-3x     &= 31 + 5 \\\\
-x      &= \dfrac {36} {3} \\\\
-x      &= \dfrac {12 \times 3 } {3} \\\\
-x      &= \dfrac {12 \times \cancel {3} } {\cancel{3} } \\\\
-x      &= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5x - 2 = 2x - 8$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
- 5x - 2  &= 2x - 8 \\\\
- 5x - 2x &= - 8 + 2 \\\\
- 3x      &= -6 \\\\
- x       &= \dfrac {-6} {3} \\\\
- x       &= -2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac{x}{4} - 7 = 12$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
- \dfrac {x} {4} - 7 &= 12 \\\\ 
- \dfrac {x} {4}     &= 12 + 7 \\\\ 
- \dfrac {x} {4}     &= 19 \\\\ 
- x                  &= 19 \times 4 \\\\ 
- x                  &= 76 
-\end{aligned}   
-$   
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$76$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac{x - 7}{4} = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac{x - 7}{4} &= 12 \\\\
-x - 7            &= 12 \times 4 \\\\
-x - 7            &= 48 \\\\
-x                &= 48 + 7 \\\\
-x                &= 55
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$55$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the triangle.
-
-![missing image](/papers/missing_image.svg)
-
-Work out the value of $a$ and $b$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angles are a, b.
-
-First let's see the triangle ABD
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
-$
-\begin{aligned}
-2a + a + 90     &= 180 \\\\
-3a + 90         &= 180 \\\\
-3a              &= 180 - 90 \\\\
-a               &= \dfrac {90} {3} \\\\
-a               &= \dfrac {30 \times 3} {3} \\\\
-a               &= \dfrac {30 \times \cancel{3}} { \cancel{3}} \\\\
-a               &= 30 \degree
-\end{aligned}
-$
-
-Let's use value of $a$ in triangle ABC
-
-$
-\begin{aligned}
-(b+2a) + b + 90     &= 180 \\\\
-2b + 2a             &= 180 - 90 \\\\
-2 \times 30 + 2b    &= 90 \\\\
-2b                  &= 90 - 60 \\\\
-b                   &= \dfrac {30} {2} \\\\
-b                   &= \dfrac {15 \times 2} {2} \\\\
-b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \degree$
-
-</div>
-<div class='answer'>
-
-$15 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(a \times 9) \div 6 = 6$, Find $a$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(a\times 9) \div 6     &= 6 \\\\
-\dfrac{9a} {6}         &= 6 \\\\
-9a                     &= 36 \\\\
-a                      &= \dfrac {36} {9} \\\\
-a                      &= \dfrac {9 \times 4} {9} \\\\
-a                      &= \dfrac {\cancel {9} \times 4} { \cancel {9} } \\\\
-a                      &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(b + 6) \times 8 = 64$,    Find $b$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(b + 6) \times 8   &= 64 \\\\
-b + 6              &= \dfrac {64} {8} \\\\
-b + 6              &= \dfrac {8 \times 8} {8} \\\\
-b + 6              &= \dfrac {8 \times \cancel {8} } {\cancel {8} } \\\\
-b + 6              &= 8 \\\\
-b                  &= 8 - 6 \\\\
-b                  &= 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(19 \times c) + 25 = 101$,    Find $c$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(19 \times c) + 25  &= 101 \\\\
-19c                 &= 101 - 25 \\\\
-c                   &= \dfrac {76} {19} \\\\
-c                   &= \dfrac {19 \times 4} {19} \\\\
-c                   &= \dfrac {\cancel {19} \times 4} {\cancel {19} } \\\\
-c                   &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>B5C73911-F262-422F-8F91-C2B9B4CF5D09</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find $x$:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8, 3, 10, 3$
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(x \times 18) \div 9 = 16$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(x \times 18) \div 9                                &= 16 \\\\
-\dfrac {x \times 18} {9}                            &= 16 \\\\
-x                                                   &= \dfrac {16 \times 9} {18} \\\\
-x                                                   &= \dfrac {2 \times 8 \times 9} {2 \times 9} \\\\
-x                                                   &= \dfrac {\cancel {2} \times 8 \times \cancel {9}} {\cancel {2} \times \cancel {9}} \\\\
-x                                                   &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(x + 12) \times 4 + 2 = 62$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(x + 12) \times 4 + 2    &= 62 \\\\
-(x + 12) \times 4        &= 62 - 2\\\\
-(x + 12) \times 4        &= 60 \\\\
-x                        &= \dfrac {60} {4} - 12 \\\\
-x                        &= \dfrac {15 \times 4} {4} - 12 \\\\
-x                        &= \dfrac {15 \times \cancel {4} } {\cancel {4} } - 12 \\\\
-x                        &= 15 - 12 \\\\
-x                        &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(5x - 3) - (4x - 5) = 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-(5x - 3) - (4x - 5) &= 12 \\\\
-(5x - 3) -4x + 5    &= 12 \\\\
-x + 2               &= 12 \\\\
-x                   &= 12 - 2 \\\\
-x                   &= 10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5(x - 3) + 4 (x- 2) = 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5(x - 3) + 4(x - 2)                &= 13 \\\\
-5x - 5 \times 3 + 4x - 4 \times 2  &= 13 \\\\
-5x - 15 + 4x - 8                   &= 13 \\\\
-9x -23                             &= 13 \\\\
-9x                                 &= 13 + 23 \\\\
-x                                  &= \dfrac {36} {9} \\\\
-x                                  &= \dfrac {9 \times 4} {9} \\\\
-x                                  &= \dfrac { \cancel{9} \times 4} {\cancel {9} } \\\\
-x                                  &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ga_pr</p>
 </div>
 </div>
 </li>
@@ -4224,70 +3021,6 @@ The total length of marked $x$ is $20 \ \text {cm}$
 <div class='answer'>
 
 $20 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
-</div>
-<div class='rag'>
-<p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ga_pr question'>
-<div class='uuid'>
-<p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectangular tiles measuring $80 \ \text{cm}$ by $50 \ \text{cm}$. How many tiles are needed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$\text{Area} = \text{length} \times \text{width}$    \\\\
-
-It is really important to use the right units in calculations and convert where required.    \\\\
-
-$
-\begin{aligned}
-\text{Number of tiles}             &= \dfrac {\text{Area of floor}} {\text{Area of a tile}} \\\\
-                                   &= \dfrac {5 \text{m} \times 4 \text{m}} {80 \ \text{cm} \times 50 \ \text{cm}} \\\\
-                                   &= \dfrac {20 \text{m}^2} {4000 \ \text{cm}^2} \\\\\
-                                   &= \dfrac {200000 \ \text{cm}^2} {4000 \ \text{cm}^2} \\\\
-                                   &= \dfrac {50 \times 4000} {4000} \\\\
-                                   &= \dfrac {50 \times \cancel {4000}} {\cancel {4000}} \\\\
-                                   &= 50 \text{ tiles}
-\end{aligned}
-$
-
-Number of tiles needed is $50$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50$
 
 </div>
 </div>
@@ -4510,6 +3243,188 @@ $
 <div class='answer'>
 
 $15$ coins of $10$p and $15$ coins of $50$p
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>D12205F1-6F25-4231-A122-B2A390DC96CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find a formula for the perimeter, $P$, of the shape above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, perimeter of a shape is sum of all sides of the shape. So,
+
+So,
+
+$
+\begin{aligned}
+P       &= a + a + b + b \\\\
+        &= 2a + 2b \\\\
+        &= 2 (a + b)
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$P = 2 (a + b)$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use the formula to find the value of $P$ when $a = 5 \ \text{cm}, b = 10 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+P                 &= 2 (a + b) \\\\
+                  &= 2 (5 + 10) \\\\
+                  &= 2 \times 15 \\\\
+P                 &= 30 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$P = 30 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
+<p>FAB79FDF-D313-405E-A038-7DEFEDC824BF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has a perimeter of $5.6 \ \text{m}$. Calculate the area of the square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the area of the square, let's find the length of the sides.
+
+$
+\begin{aligned}
+4 \times \text{Side}              &= \ \text{Perimeter of Square} \\\\
+4 \times \text{Side}              &= 5.6 \text{m} \\\\
+\text{Side}                       &= \dfrac {5.6} {4} \\\\
+\text{Side}                       &= \dfrac {1.4 \times 4} {4} \\\\
+\text{Side}                       &= \dfrac {1.4 \times \cancel{4}} {\cancel{4}} \\\\
+\text{Side}                       &= 1.4 \text{m}
+\end{aligned}
+$
+
+
+Now let's calculate the Area of Square.
+
+$
+\begin{aligned}
+\text {Area of a square}            &= \text {Side} \times \text { Side} \\\\
+                                    &= 1.4 \text{m} \times 1.4 \text{m} \\\\
+                                    &= 1.96 \text{m}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.96 \text{m}^2$
 
 </div>
 </div>
@@ -4778,6 +3693,71 @@ $105 \ \text {degrees}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of wire $42 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The length of the rectangle is twice its width.
+
+Let the width of the rectangle $= w$.
+
+$
+\begin {aligned}
+\text {Perimeter}                          &= \text {Total length of the wire} \\\\
+2 \times (\text {length} + \text {width})  &= 42 \ \text {cm} \\\\
+2 \times (2w + w)                          &= 42 \\\\
+2 \times 3w                                &= 42 \\\\
+6w                                         &= 42 \\\\
+w                                          &= \dfrac {42} {6} \\\\
+w                                          &= \dfrac {7 \times 6} {6} \\\\
+w                                          &= \dfrac {7 \times \cancel {6}} {\cancel {6}} \\\\
+w                                          &= 7 \ \text {cm} \\\\
+\text {Area of a rectangle}                &= \text {length} \times \text {width} \\\\
+                                           &= (2 \times 7) \times 7 \\\\
+                                           &= 14 \times 7 \\\\
+                                           &= 98 \ \text {cm} ^ 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$98 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
@@ -4850,7 +3830,416 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>527152F8-094F-4AFE-A50B-4595C903532F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question the shapes are NOT drawn to scale. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter (the total length around the outside of the shape) of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter of a rectangle} = 2 \times (\text{length} + \text{width})$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
+&= 2 \times 23 \\\\
+&= 46 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of a rectangle} = \text{length} \times \text{width}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area}     &= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A square has a perimeter of $36 \ \text{cm}$. Find its area.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter of a square} = 4 \times \text{Side}$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
+\end{aligned}
+$
+
+
+$
+\begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
+&= 9^2 \\\\
+&= 81 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81 \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
+<p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question the shapes are NOT drawn to scale. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter (the total length around the outside of the shape) of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+As per the question,
+
+$
+\begin{aligned}
+&= 2 \times (22 + 9) \\\\
+&= 2 \times 31 \\\\
+&= 62 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the rectangle $= t \text{cm}$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+$
+\begin{aligned}
+120                                         &= 2 \times (25 + t) \\\\
+2 \times (25 + t)                           &= 120 \\\\
+25 + t                                      &= \dfrac{120}{2} \\\\
+25 + t                                      &= \dfrac{60 \times 2}{2} \\\\
+25 + t                                      &= \dfrac{60 \times \cancel{2}}{\cancel{2}} \\\\
+25 + t                                      &= 60 \\\\
+t                                           &= 60 - 25 \\\\
+t                                           &= 35 \ \text{cm}
+\text{width}                                &= 35 \ \text{cm}
+\end{aligned}
+$
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+&= 25 \times 35 \\\\
+&= 875 \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the *area* of the shape below:
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of shape}            &= \text{Area of rectangle L} + \text{Area of rectangle R} \\\\
+                                &= \text{length1} \times \text{width1} + \text{length2} \times \text{width2} \\\\
+                                &= (17 - 6) \times 8 + 6 \times 11 \\\\
+                                &= 11 \times 8 + 6 \times 11 \\\\
+                                &= 88 + 66 \\\\
+                                &= 154 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$154 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
+
+![missing image](/papers/missing_image.svg)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of square = $a \ \text{cm}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{side} \times \text{side}         &= \text{Area} \\\\
+a \times a          &= 169 \\\\
+a \times a          &= 13 \times 13 \\\\
+a                   &= 13 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 4 \times \text{side} \\\\
+                        &= 4 \times a \\\\
+                        &= 4 \times 13 \\\\
+                        &= 52 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -5017,12 +4406,12 @@ $\pounds 10$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -5225,12 +4614,12 @@ $2$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -5351,12 +4740,12 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -5474,12 +4863,12 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
@@ -5592,7 +4981,7 @@ $6$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -6099,6 +5488,68 @@ $8 \ \text {oranges}$
 <li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
+<p>6BC8FC6A-56E2-4B38-905F-06368D1DB22F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a shaded triangle inside a larger triangle: 
+
+The area of the shaded triangle is $52 \ \text{cm}^2$. 
+
+The area of the shaded triangle is $\dfrac{4}{9}$ of the area of the larger triangle.
+
+Calculate the area of the larger triangle.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Area of shaded triangle}     &= \dfrac {4} {9} \times \text {Area of larger triangle} \\\\
+\text {Area of larger triangle}     &= \dfrac {9} {4} \times \text {Area of shaded triangle} \\\\
+                                    &= \dfrac {9} {4} \times 52 \\\\
+                                    &= \dfrac {9 \times 52}{4} \\\\
+                                    &= \dfrac {9 \times 13 \times 4} {4} \\\\
+                                    &= \dfrac {9 \times 13 \times \cancel{4}} {\cancel{4}} \\\\
+                                    &= 9 \times 13 \\\\
+\text{Area of larger triangle}      &= 117 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$117 \ \text{cm}^2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ar_pr question'>
+<div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
 <div class='topics'>
@@ -6232,142 +5683,7 @@ $11 \text{p}$
 <li>
 <div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
-<p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The combined age of Alan and Ben is forty three. 
-
-The combined age of Alan and Carl is fifty five and the combined age of Ben and Carl is sixty-six.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the combined age of Alan, Ben and Carl?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the age of Alan $= a$
-
-Let the age of Ben $= b$
-
-Let the age of Carl $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-a + b       &= 43 \\\\
-a + c       &= 45 \\\\
-b + c       &= 66
-\end{aligned}
-$
-
-Let’s find the combined age of Alan, Ben and Carl
-
-$
-(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
-2 \times (a + b + c)        &= 154 \\\\
-a + b + c                   &= \dfrac {154} {2} \\\\
-a + b + c                   &= \dfrac {\cancel {2} \times 77} {\cancel {2}} \\\\
-a + b + c                   &= 77
-$
-
-The combined age of Alan, Ben and Carl is seventy seven.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$77$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How old is Alan?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-\begin{aligned}
-a + b + c   &= 77 \\\\
-a + 66      &= 77 \\\\
-a           &= 77 - 66 \\\\
-a           &= 11
-\end{aligned}
-
-Age of Alan $= 11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$Alan is $11 \ \text {years}$ old.$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>59782F67-CD3A-4562-8A32-D1EC35290808</p>
+<p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6378,53 +5694,44 @@ talgebra
 </div>
 <div class='question question'>
 
-After a card game, four gamblers had $\pounds 234$ between them. Harry had $\pounds 20$ more than Dana, 
-Charlotte had $\pounds 53$ more than Dana and Sid had $\pounds 71$ more than Dana.
+Mary, Jess and Jo run a race. 
 
-How much did each of them have?
+Jess's time is $18 \ \text{seconds}$. 
+
+Jo finishes $6 \ \text{seconds}$ before Jess. 
+
+Mary finishes $4 \ \text{seconds}$ after Jo. 
+
+What is **Mary's time** in seconds?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the amount with Dana $= d$
-
 As per the question,
 
 $
 \begin{aligned}
-d + d + 20 + d + 53 + d + 71        &= 234 \\\\
-4d + 144                            &= 234 \\\\
-4d                                  &= 234 - 144 \\\\
-4d                                  &= 90 \\\\
-d                                   &= \dfrac {90} {4} \\\\
-d                                   &= \pounds 22.5
+\text {Time taken by Jess}       &= 18 \ \text {seconds} \\\\
+\text {Time taken by Mary}       &= \text {Time taken by Jo} + 4 \\\\
+                                 &= \text {Time taken by Jess} - 6 + 4 \\\\
+                                 &= 18 - 6 + 4 \\\\
+\text {Time taken by Mary}       &= 16 \ \text {seconds}
 \end{aligned}
 $
-
-Amount with Dana $= \pounds 22.5$
-
-Amount with Harry $= \pounds 22.5 + 20 = \pounds 42.5$
-
-Amount with Charlotte $= \pounds 22.5 + 53 = \pounds 75.5$
-
-Amount with Sid $= \pounds 22.5 + 71 = \pounds 93.5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Dana} = \pounds 22.5 \\
-\text {Harry} = \pounds 42.5 \\
-\text {Charlotte} = \pounds 75.5 \\
-\text {Sid} = 93.5$
+$16 \ \text {seconds}$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
@@ -6756,6 +6063,76 @@ $9$
 </div>
 <div class='rag'>
 <p>rag_ar_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
+<p>7ED92958-A20C-4CB1-B94C-7667D1274879</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the perimeter of this square.
+        
+![missing image](/papers/missing_image.svg)
+
+Area = $49 \ \text{cm}^{2}$
+
+- $49 \ \text{cm}$
+- $98 \ \text{cm}$
+- $28 \ \text{cm}$
+- $20 \ \text{cm}$
+- $14 \ \text{cm}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Area of the square $= 49 \ \text{cm}^2$
+Perimeter of the square  = ?
+Let's Side of square = a
+Area of the square $= \text{a}^2$
+$49 = \text{a}^2$
+$\text{a}^2&= 49$
+$\text{a} = \sqrt{49}$
+$\text{a} = 7$
+The side of square $= 7 \ \text{cm}$
+hence ,
+Perimeter of the square $= 4 \times \text{a}$
+Perimeter of the square $= 4 \times 7$
+Perimeter of the square $= 28$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -7152,6 +6529,71 @@ $70$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
+<p>61A3F8DC-F527-4F5A-ACC5-9DD9A5F2E7FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The area of the parallelogram is $38 \ \text{cm}^2$. Find the length of its base.
+
+![missing image](/papers/missing_image.svg)
+
+- $9.5 \ \text{cm}$
+- $8.5 \ \text{cm}$
+- $7.5 \ \text{cm}$
+- $7.25 \ \text{cm}$
+- $9.25 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Area of parallelogram = Base $\times$ Height.
+
+$
+\begin{aligned}
+\text{Base} \times \text{Height}        &= \text{Area of parallelogram} \\\\
+\text{Base} \times 4                    &= 38 \\\\
+\text{Base}                             &= \dfrac{38}{4} \\\\
+\text{Base}                             &= \dfrac{4 \times 9.5}{4} \\\\
+\text{Base}                             &= \dfrac{\cancel 4 \times 9.5}{\cancel4} \\\\
+\text{Base}                             &= 9.5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$9.5 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_bs_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_bs_pr question'>
+<div class='uuid'>
 <p>8F7E2B54-63AD-42F0-AD22-0B1036DA619C</p>
 </div>
 <div class='topics'>
@@ -7467,6 +6909,106 @@ $30 \degree$
 <li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
+<p>C3229D2F-CF27-4E5A-A8CC-334AD15D2A96</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the area of a square with a perimeter of $36 \ \text{cm}$.
+
+Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+First part of the question,
+
+Let's calculate the length of each side of square.
+
+$
+\begin{aligned}
+4 \times \text {Side}  &= \text {Perimeter} \\\\
+4 \times \text {Side}  &= 36 \text {cm} \\\\
+\text {Side}           &= \dfrac {36} {4} \\\\
+\text {Side}           &= \dfrac {9 \times 4} {4} \\\\
+\text {Side}           &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
+\text {Side}           &= 9 \text { cm}
+\end{aligned}
+$
+
+Now, Let's calculate Area of square of side $9$ cm.
+
+$
+\begin{aligned}
+\text {Area} &= \text {Side} \times \text { Side} \\\\
+             &= 9 \text { cm} \times 9 \text { cm} \\\\
+\text {Area} &= 81 \text { cm}^2
+\end{aligned}
+$
+
+Second part of the question,
+
+Let's calculate the length of each side of square.
+
+$
+\begin{aligned}
+\text {Side} \times \text { Side} &= \text {Area} \\\\
+\text {Side} \times \text { Side} &= 121 \text {cm}^2 \\\\
+\text {Side}^2                    &= 121 \text {cm}^2 \\\\
+\text {Side}                      &= \sqrt{121 \text {cm}^2} \\\\
+\text {Side}                      &= \sqrt{11 \text { cm} \times 11 \text { cm}} \\\\
+\text {Side}                      &= 11 \text { cm}
+\end{aligned}
+$
+
+Now, Let's calculate Perimeter of square of side $11$ cm.
+
+$
+\begin{aligned}
+\text {Perimeter}      &= \text {Side} \times 4 \\\\
+                       &= 11 \text { cm} \times 4 \\\\
+\text {Perimeter}      &= 44 \text { cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81 \text { cm}^2 $
+
+</div>
+<div class='answer'>
+
+$44 \text { cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
+</div>
+<div class='rag'>
+<p>rag_ga_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ga_pr question'>
+<div class='uuid'>
 <p>CEFEC184-01C9-49CB-9761-F2A3E70E6B6F</p>
 </div>
 <div class='topics'>
@@ -7654,12 +7196,7 @@ A quick check shows that $9$ and $4$ meets the criteria above.
 <div class='answers'>
 <div class='answer'>
 
-$9$
-
-</div>
-<div class='answer'>
-
-$4$
+$4, 9$
 
 </div>
 </div>
@@ -7701,7 +7238,7 @@ As per the question,
 $
 \begin{aligned} 
 a + b      &= 40   \\\\
-a - b     &= 10         
+a - b      &= 10         
 \end{aligned}
 $
 
@@ -7713,8 +7250,8 @@ $
 \begin{aligned}
 a + b - (a - b)     &= 40 - 10 \\\\
 a + b -a + b        &= 30 \\\\
-2b                     &= 30 \\\\
-b                   &= \dfrac{30}{2} \\\\
+2b                  &= 30 \\\\
+b                   &= \dfrac {30} {2} \\\\
 b                   &= 15
 \end{aligned}
 $
@@ -7739,12 +7276,7 @@ Second number $= 15$
 <div class='answers'>
 <div class='answer'>
 
-$25$
-
-</div>
-<div class='answer'>
-
-$15$
+$25, 15$
 
 </div>
 </div>
@@ -7927,13 +7459,10 @@ $12$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -8114,6 +7643,229 @@ $12$
 </div>
 </div>
 
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>A60ACF29-F74F-4CDB-846D-DE660531F19A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A square has perimeter $20 \ \text{cm}$.
+
+Work out the area of the square.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of a side of square $= a$.
+
+$
+\begin {aligned}
+\text {Perimeter of square} &= 20 \ \text {cm} \\\\
+4 \times a                  &= 20 \\\\
+a                           &= \dfrac {20} {4} \\\\
+a                           &= \dfrac {5 \times 4} {4} \\\\
+a                           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+a                           &= 5 \ \text {cm} \\\\
+\text {Area of a square}    &= a ^ 2 \\\\
+                            &= 5 ^ 2 \\\\
+                            &= 5 \times 5 \\\\
+                            &= 25 \ \text {cm} ^ 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_ak_pr question'>
+<div class='uuid'>
+<p>51A3EFEE-AEFC-4035-956A-355C5FB4F3EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Susan has a rectangular card that measures $18 \ \text{cm}$ by $6 \ \text{cm}$.
+
+![missing image](/papers/missing_image.svg) 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the perimeter of the card?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Perimeter of the card}  &= 2 \times (\text {length} + \text {width}) \\\\
+                               &= 2 \times (18 \ \text {cm} + 6 \ \text {cm}) \\\\
+                               &= 2 \times 24 \\\\
+                               &= 48 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of the card?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Area of the card}  &= \text {length} \times \text {width} \\\\
+                          &= 18 \ \text {cm} \times 6 \ \text {cm} \\\\
+                          &= 108 \ \text {cm} ^ 2
+\end {aligned} 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Rectangular stickers measure $3 \ \text{cm}$ by $2 \ \text{cm}$.
+
+Susan wants to cover the front of the card with stickers, without any overlapping.
+
+What is the maximum number of stickers she can fit on the front of the card?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Maximum number of stickers that can fit on the card}  &= \dfrac {\text {Area of the card}} {\text {Area of a sticker}} \\\\
+                                                             &= \dfrac {108 \ \text {cm} ^ 2} {3 \ \text {cm} \times 2 \ \text {cm}} \\\\
+                                                             &= \dfrac {108} {6} \\\\
+                                                             &= \dfrac {18 \times 6} {6} \\\\
+                                                             &= \dfrac {18 \times \cancel {6}} {\cancel {6}} \\\\
+                                                             &= 18 \ \text {stickers}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \ \text {stickers}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
@@ -8330,13 +8082,10 @@ $45 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -8358,14 +8107,14 @@ Width of the rectangle $= \dfrac {a} { 2 }$
 
 $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
-Equating the perimeter to the length and width we get,
+Let's equate the perimeter to the length and width we get,
 
 $
 \begin{aligned}
 2 \times ( a + \dfrac {a} { 2 })    &= 36 \\\\
-2a + a                                 &= 36 \\\\
-3a                                     &= 36 \\\\
-a                                     &= \dfrac {36} { 3 } \\\\
+2a + a                              &= 36 \\\\
+3a                                  &= 36 \\\\
+a                                   &= \dfrac {36} { 3 } \\\\
 a                                   &= 12 \ \text{cm}
 \end{aligned}
 $
@@ -8399,148 +8148,7 @@ $144 \ \text{cm}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>8BA1366E-EFBD-498C-A4B3-056CCEEA7FD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Rachel buys three identical bags of sweets and five cans of drink, the total cost of these items came to $\pounds 4.90$. 
-Rosie buys just one bag of sweets and three cans of drink and pays $\pounds 2.70$.
-
-What is the cost of a bag of sweets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of a bag of sweets (in $\text{pence}$) $= s$
-
-Let the cost of a can of drink (in $\text{pence}$) $= d$
-
-It is really important to use the right units in calculations and convert where required. Let's convert both the costs into pence.
-
-As per the question,
-
-$
-\begin{aligned} 
-3s + 5d &= 490 \\\\
-s + 3d &= 270
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? If we look at the question again, we only need the 
-cost for a bag of sweets, so let's eliminate $d$ so we can directly calculate the value for $s$.
-
-The LCM of $5$ and $3$ is $15$. Multiply the first equation by $3$ and the second equation by $5$ to make the coeifficent of $d$ the same.
-
-$
-\begin{aligned} 
-3 \times 3s + 3 \times 5d   &= 3 \times 490 \\\\
-5 \times  s + 5 \times 3d   &= 5 \times 270 \\\\
-9s + 15d                    &= 1470 \\\\
-5s + 15d                    &= 1350
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned} 
-9s + 15d -(5s + 15d)               &= 1470 - 1350 \\\\
-9s + 15d -5s - 15d                 &= 120 \\\\
-4s                                 &= 120 \\\\
-s                                  &= \dfrac{120}{4} \\\\
-s                                  &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-<div class='working'>
-
-What if we eliminate $s$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-Multiply the second equation by $3$.
-
-$
-\begin{aligned} 
-3 \times s + 3 \times 3d   &= 3 \times 270 \\\\
-3s + 9d                     &= 810
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned} 
-3s + 5d                     &= 490 \\\\
-3s + 9d                     &= 810 \\\\
-3s + 9d - (3s + 5d)         &= 810 - 490 \\\\
-3s + 9d -3s - 5d            &= 320 \\\\
-4d                          &= 320 \\\\
-d                           &= \dfrac {320} {4} \\\\
-d                           &= 80  \ \text{pence}
-\end{aligned}
-$
-
-Cost of a can of drink $= 80  \ \text{pence}$. 
-
-Let's substitute the value of $d$ in one of the initial equations to find the cost of a bag of sweets.
-
-$
-\begin{aligned} 
-3s + 5d             &= 490 \\\\
-3s + 5 \times 80    &= 490 \\\\
-3s + 400            &= 490 \\\\
-3s                  &= 490 - 400 \\\\
-3s                  &= 90 \\\\
-s                   &= \dfrac {90} {3}\\\\
-s                   &= 30 \ \text{pence}
-\end{aligned}
-$
-
-Cost of a bag of sweets $= 30 \ \text{pence}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{pence}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
+<div class='question_envelope rag_ar_pr question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -8654,7 +8262,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_pr</p>
+<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

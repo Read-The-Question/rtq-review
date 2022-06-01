@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-pr"
 title: "Topic - Geometry - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -424,7 +424,7 @@ $20 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>23FE15B1-A302-404D-8391-BAB850364409</p>
 </div>
@@ -519,12 +519,12 @@ $\text {Hexagon}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>79EF7634-1BD6-45D8-9785-D7E23DD4661D</p>
 </div>
@@ -619,12 +619,12 @@ $\text {Cuboid}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>1353944B-C2F8-4241-B1C0-A178453D7462</p>
 </div>
@@ -664,7 +664,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -793,143 +793,6 @@ $\text {Octagon}$
 </div>
 <div class='rag'>
 <p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_pr question'>
-<div class='uuid'>
-<p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tgeometry
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two rectangles ABCD and PQRS are shown below:
-
-![missing image](/papers/missing_image.svg)
-
-$AD = $3 \ \text{cm}$$ 
-
-$AB = $5 \ \text{cm}$$
-
-$PQ = $2 \ \text{cm}$$
-
-$PS = $2 \ \text{cm}$$
-
-$BR = $1 \ \text{cm}$$
-
-Calculate the shaded area.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$\text{Area of rectangle} = \text{length} \times \text{width}$
-
-$
-\begin{aligned}
-\text{Area of shaded region}        &= \text{Area of ABCD} - \text{Area of rectangle inside ABCD} \\\\
-                                    &= AB \times AD - QB \times QP \\\\
-                                    &= AB \times AD - ((PS - BR) \times QP) \\\\
-                                    &= 5 \times 3 - 2 \times (2 - 1) \\\\
-                                    &= 15 - 2 \times 1 \\\\
-                                    &= 15 - 2 \\\\
-                                    &= 13 \ \text{cm}^2 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13 \ \text{cm}^2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bob has one rectangular tile and one triangular tile like those shown below. **[Diagrams not drawn to scale]**
-
-![missing image](/papers/missing_image.svg)       ![missing image](/papers/missing_image.svg)
-
-He uses them to make this shape.
-
-![missing image](/papers/missing_image.svg)
-
-What is the perimeter of Bob’s shape?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Perimeter of shape}      &= \text {Sum of all sides} \\\\
-                                &=  4.5 + 4.5 + (9 -3) + 9 + 3 + 3 \\\\
-                                &= 9 + 6 + 9 + 6 \\\\
-\text{Perimeter of shape}       &= 30 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

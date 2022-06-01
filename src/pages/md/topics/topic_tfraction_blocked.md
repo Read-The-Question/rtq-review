@@ -1,146 +1,16 @@
 ---
 slug: "topics/topic-tfraction-blocked"
 title: "Topic - Fraction - Blocked"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ak_blocked question'>
-<div class='uuid'>
-<p>D1DB4906-DD4F-4827-8996-34DDFC3849EE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a jar of sweets; after I have given each of the children in my class one sixteenth of sweets in the jar I have one quarter of the sweets left. How many children do I have in my class?
-
-- $4$
-- $9$
-- $16$
-- $12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of sweets in the jar $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total number of children} \times (\dfrac {1} {16} \ \text {of} \ a)        &= a - (\dfrac {1} {4} \ \text {of} \ a) \\\\
-\text {Total number of children}                                                  &= (16 \times \dfrac {1}{a}) \times (a - (\dfrac {1} {4} \times a)) \\\\
-                                                                                  &= \dfrac {16} {a} \times (a - \dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4 \times a} {4 \times 1} - \dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a} {4} -\dfrac {a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times (\dfrac {4a - a} {4}) \\\\
-                                                                                  &= \dfrac {16} {a} \times \dfrac {3a} {4} \\\\
-                                                                                  &= \dfrac {16 \times 3a} {a \times 4} \\\\
-                                                                                  &= \dfrac {4 \times 4 \times 3a} {a \times 4} \\\\
-                                                                                  &= \dfrac {\cancel {4} \times 4 \times 3 \times \cancel {a}} {\cancel {a} \times \cancel {4}} \\\\
-                                                                                  &= 12
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_blocked question'>
-<div class='uuid'>
-<p>BC6FA56F-026F-4BC2-A340-29312EDCD498</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My cat drinks two thirds of a bottle of milk a day. How long will $6$ bottles last? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {2} {3} \ \text {of} \ 1 \ \text {bottle}    &= 1 \ \text {day} \\\\
-1 \ \text {bottle}                                  &= \dfrac {3} {2} \ \text {days} \\\\
-6 \ \text {bottles}                                 &= 6 \times \dfrac {3} {2} \ \text {days} \\\\
-                                                    &= \dfrac {6 \times 3} {2} \\\\
-                                                    &= \dfrac {2 \times 3 \times 3} {2} \\\\
-                                                    &= \dfrac {\cancel {2} \times 3 \times 3} {\cancel {2}} \\\\
-                                                    &= 3 \times 3 \\\\
-                                                    &= 9 \ \text {days}
-\end{aligned}
-$
-
-$6$ bottles will last for $9$ days.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>A4ACFB38-CD57-4F90-8818-8BE5519C9C5B</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -276,49 +146,66 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
-<p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
+<p>45CA540D-6B4E-432C-AF62-A63ACD57A941</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
-</li>
-<li>
-tdraw
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Which is smallest? Circle your answer
-
-- $\dfrac{(2+3)}{(4+6)}$
-- $\dfrac{(2\div3)}{(4\div6)}$
-- $\dfrac{23}{46}$
-- $\dfrac{(2-3)}{(4-6)}$
-- $\dfrac{(2\times3)}{(4\times6)}$ 
+This question is about fractions. 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which fraction is bigger, four fifths or eight ninths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $5 , 9 = 45$
+
 $
 \begin{aligned}
-\dfrac{(2+3)}{(4+6)}                                        &= \dfrac{5}{11} \\\\
-\dfrac{(2\div3)}{(4\div6)}                                  &= 1 \\\\
-\dfrac{23}{46}                                              &= \dfrac{1}{2} \\\
-\dfrac{(2-3)}{(4-6)}                                        &= \dfrac{-1}{-2} \\\\
-\dfrac{(2\times3)}{(4\times6)}                              &= \dfrac{6}{24} \\\
+&= \text{four fifths or eight ninths} \\\\
+&= \dfrac {4} {5} \ \text{or} \ \dfrac {8} {9} \\\\
+&= \dfrac {4 \times 9} {5 \times 9} \ \text{or} \ \dfrac {8 \times 5} {9 \times 5} \\\\
+&= \dfrac {36} {45} \ \text{or} \ \dfrac {40} {45} \\\\
+&= \dfrac {36} {45} \ < \ \dfrac {40} {45} \\\\
+&= \dfrac {4} {5} \ < \ \dfrac {8} {9}
 \end{aligned}
 $
 
@@ -327,58 +214,137 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{5}{11}$
+$\dfrac {8} {9}$
 
 </div>
 </div>
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_ak_blocked</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
-<div class='uuid'>
-<p>4C1B8DCB-8650-45C7-B21F-9B7053AD00F7</p>
-</div>
+<div class='question_envelope rag_red subquestion'>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
 </ul>
 </div>
-<div class='question question'>
+<div class='question subquestion'>
 
-In a box of pens, one half are black, one sixth are red and the rest are blue.  What fraction of the pens is blue?
+Write down a fraction which is greater than two fifths, but less than four fifths.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the total number of pens be a,
+TODOWORKING
 
-As per the question,
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-Fraction of black pens are $\dfrac{a}{2}$
+TODOANSWER
 
-Fraction of red pens are $\dfrac{a}{6}$
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction that is greater than three fifths, but less than four fifths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction which is less than one seventh, but greater than zero.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate half of one sixth.
+
+</div>
+<div class='workings'>
+<div class='working'>
 
 $
 \begin{aligned}
-\text{Fraction of blue pens are} &= \text{Total Pens} - \text{Black Pens} - \text{Red Pens} \\\\ 
-                                 &= a - \dfrac {a} {2} - \dfrac {a} {6}    \\\\
-                                 &= \dfrac {6a - 3a - a} {6}             \\\\
-                                 &= \dfrac {2a} {6}             \\\\
-                                 &= \dfrac {\cancel{2}a} {3 \times \cancel {2}} \\\\
-                                 &= \dfrac {a} {3}     
+&= \dfrac {1} {2} \ \text{of} \ \dfrac {1} {6} \\\\
+&= \dfrac {1} {2} \times \dfrac {1} {6} \\\\
+&= \dfrac {1 \times 1} {2 \times 6} \\\\
+&= \dfrac {1} {12}
 \end{aligned}
 $
 
@@ -387,29 +353,306 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {a} {3}$
+$\dfrac {1} {12}$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the result if one is subtracted from three fifths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1 - \dfrac {3} {5} \\\\
+&= \dfrac {1 \times 5} {1 \times 5} - \dfrac {3} {5} \\\\
+&= \dfrac {5} {5} - \dfrac {3} {5} \\\\
+&= \dfrac {5 - 3} {5} \\\\
+&= \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ac_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>4F9F4C6D-374B-4A3F-A930-14B9759C0925</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This question is about fractions. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which fraction is bigger, four fifths or eight ninths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{4}{5} \text{and} \dfrac{8}{9} \\\\
+&= \dfrac{4 \times 9}{5 \times 9} \text{and} \dfrac{8 \times 5}{9 \times 5} \\\\
+&= \dfrac{36}{45} \text{and} \dfrac{40}{45} \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{8}{9}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction which is greater than two fifths, but less than four fifths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{8}{20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{8}{20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction that is greater than three fifths, but less than four fifths.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a fraction which is less than one seventh, but greater than zero.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac{1}{14}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{14}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate half of one sixth.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{1}{2} \times \dfrac{1}{6} \\\\
+&= \dfrac{1}{12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{12}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the result if one is subtracted from three fifths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{5} - 1 \\\\
+&= \dfrac{3 - 1 \times 5}{5} \\\\
+&= \dfrac{3 - 5}{5} \\\\
+&= \dfrac{-2}{5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{-2}{5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -607,92 +850,7 @@ $3$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ac_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ac_blocked question'>
-<div class='uuid'>
-<p>F66494CC-21E4-467E-8FDE-DF463E2439E5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of the whole square below is the shaded area?
-
-O is the centre of the square and M is the midpoint of AB.
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the side of the square $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Area of shaded region}        &= \text{Area of square} - 2 \times \text{Area of AMC} - \text{Area of COD} \\\\
-                                    &= a^2 - 2 \times \dfrac{1} {2} \times \dfrac{a} {2} \times a - \dfrac{1} {2} \times a \times \dfrac{a} {2} \\\\
-                                    &= a^2 - \dfrac {2 \times a \times a} {2 \times 2} - \dfrac {a \times a} {2 \times 2} \\\\
-                                    &= a^2 - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
-                                    &= \dfrac{4 \times a^2} {4} - \dfrac{2 \times a^2} {4} - \dfrac{a^2} {4} \\\\
-                                    &= \dfrac{4a^2 - 2a^2 - a^2} {4} \\\\
-\text{Area of shaded region}        &= \dfrac{a^2} {4} \\\\
-\end{aligned}
-$
-
-Fraction of area,
-
-$
-\begin{aligned}
-\text{Fraction of shaded area}          &= \dfrac {\text{Area of shaded region}} {\text{Area of square}} \\\\
-                                        &= \dfrac{\dfrac{a^2} {4}} {a^2} \\\\
-                                        &= \dfrac{a^2} {4 \times a^2} \\\\
-                                        &= \dfrac{\cancel{a^2}} {4 \times \cancel{a^2}} \\\\
-                                        &= \dfrac{1} {4}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ac_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

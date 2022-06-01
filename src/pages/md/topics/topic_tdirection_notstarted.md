@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdirection-notstarted"
 title: "Topic - Direction - Not Started"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -241,9 +241,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 <li>
@@ -466,146 +463,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>2A3A4047-3945-4831-A806-8F533298FCB0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdirection
-</li>
-<li>
-tfraction
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Some marbles are released through this network from S.
-
-At each of the junctions, half of the marbles flow in each direction.
-
-![missing image](/papers/missing_image.svg) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of the marbles go through E?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If $120$ marbles are released through the network, how many do not reach F?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>F7D9ED9B-9A71-4558-AB91-F7C420EAB2FB</p>
 </div>
 <div class='topics'>
@@ -655,6 +512,123 @@ TODOANSWER
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>260A6D88-AF7C-4DE1-8891-04DDBADA221E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdirection
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete the diagram to show the 8 points of the compass.
+
+![missing image](/papers/missing_image.svg)
+
+Imagine you are facing west. If you turn through $270^o$ anticlockwise, which way are you then facing?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {North}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {North}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7FCDB203-C6E3-4ED5-81C0-0160CF3A63CF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdirection
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I turn $40 \ \text{degrees}$ clockwise, $70 \ \text{degrees}$ anticlockwise and finally 
+$90 \ \text{degrees}$ clockwise. 
+If I want to return to my original position by turning through the smallest possible angle, 
+in which direction should I turn and what should the angle be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+An anticlockwise movement is +ve (positive) and a clockwise movement is -ve(negative).
+
+As per the question, I turn
+
+$
+\begin{aligned}
+& = -40 + 70 - 90 \\\\
+& = 30 -90 \\\\                                 
+& = -60 \ \text{degrees} \\\\
+\end{aligned}
+$
+
+$-60 \ \text{degrees}$ is negative, so a clockwise movement.
+
+As my first turn was in clockwise direction, to return to my original position I need to turn in
+
+Direction $=  \text{anticlockwise}$ 
+
+Angle $= 60\ \text{degrees}$ 
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Direction $= \text{anticlockwise}$ 
+
+</div>
+<div class='answer'>
+
+Angle $= 60\ \text{degrees}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -798,6 +772,63 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3EDB2A44-4631-4836-84B5-D2C4601E4863</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tdirection
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If I face West and turn $270 \ \text{degrees}$ clockwise, in which direction am I now facing?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+If I face West and turn
+
+$
+\begin{aligned}
+      & = 270 \ \text{degrees \ clockwise}    \\\\
+      & = 90 + 90 + 90                        \\\\
+      & = 90 \text {(North)} + 90 \text {(East)} + 90 \text {(South)} 
+\end{aligned}
+$
+
+If I face West and turn $270 \ \text{degrees}$ clockwise the direction I am now facing = South.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+South
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

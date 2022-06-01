@@ -1,626 +1,9 @@
 ---
 slug: "reviewers/reviewer-sc-all"
 title: "Reviewer - Sahil Choudhary - All"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>B41505AF-AC7A-4238-AB31-AC2803A3A26B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mr and Mrs Newland and their $2$ children were going to a pop concert. 
-
-The prices were as follows 
-
-|       | Cost            |
-|-------|-----------------|
-| Adult | $\pounds 45.00$ |
-| Child | $\pounds 30.50$ |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total cost for all four of the family to go to the concert?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total cost} &= \text{cost of} \  2  \ \text{Adults} + \text{Cost of} \  2 \ \text{children } \\\\
-                  &= 2 \times 45 + 2 \times 30.5 \\\\
-                  &= 90 + 61 \\\\
-                  &= \pounds 151 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 151$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-To see the mid-week show there is a special offer where a family ticket, for $2$ adults and $2$ children, costs only $\pounds 125$.
-
-How much would this ticket save the family?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Saving} &= \text{Full price} - \text{Special Offer}  \\\\
-              &= 151 - 125 \\\\
-              &= \pounds 26 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 26$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$17600$ people attended the concert.
-
-Given that $40 \%$ of these were adults, how many people were adults?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Adults}   &= 40 \% \ \text{of} \ 17600  \\\\
-                &= \dfrac {40} {100} \times 17600 \\\\
-                &= \dfrac {40 \times 17600} {100} \\\\
-                &= \dfrac {40 \times 176 \times 1\cancel{00}} {1\cancel{00}} \\\\
-                &= {40 \times 176} \\\\
-                &= 7040 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7040$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>9D649605-D139-478F-BB54-746029DB4066</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$60 - \ldots = 43$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number be 'a'
-
-$
-\begin{aligned}
-60 - a  &= 43 \\\\
-60 - 43 &= a \\\\
-a       &= 17
-\end{aligned}
-$
-
-$60 - \underline{\green{17}} = 43$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\ldots \times 40 = 280$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number be 'a'
-
-$
-\begin{aligned}
-a \times 40 &= 280 \\\\
-a           &= \dfrac{280}{40} \\\\
-a           &= \dfrac{7 \times 40}{40} \\\\
-a           &= \dfrac{7 \times \cancel{40}}{\cancel{40}} \\\\
-a           &= 7 
-\end{aligned}
-$
-
-$\underline{\green{7}} \times 40 = 280$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\ldots \div 30 = 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number be 'a'
-
-$
-\begin{aligned}
-a \div 30 &= 5 \\\\
-a         &= 5 \times 30 \\\\
-a         &= 150
-\end{aligned}
-$
-
-$\underline{\green{150}} \div 30 = 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$-8 + \ldots = -1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number be 'a'
-
-$
-\begin{aligned}
--8 + a &= -1 \\\\
-a      &= -1 + 8 \\\\
-a      &= 7
-\end{aligned}
-$
-
-$-8 + \underline{\green{7}} = -1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>4624AA36-41A6-4B3C-B4F2-11671F5E0925</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$100 \times 2.8 = \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$100 \times 2.8 = \underline{\green{280}}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$280$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$8600 \div 20 = \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 8600 \div 20  \\\\
-&= \dfrac {8600} {20}  \\\\
-&= \dfrac {43 \times 2 \times 100} {2 \times 10}  \\\\
-&= \dfrac {43 \times \cancel{2} \times 10\cancel{0} } { \cancel{2} \times 1\cancel{0} }  \\\\
-&= 43 \times 10  \\\\
-&= 430
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$430$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$200 \times \ldots = 160$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing value = $a$
-
-$
-\begin{aligned}
-200 \times a     &= 160 \\\\
-a                 &= \dfrac {160} {200} \\\\
-a                 &= \dfrac {40 \times 4} {40 \times 5} \\\\
-a                 &= \dfrac { \cancel{40} \times 4} { \cancel{40} \times 5} \\\\
-a                 &= \dfrac {4} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {5}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>B42D6744-B5FF-4E7F-A4E1-0E475C841546</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Hasan wakes up at the time shown below.
-
-He needs to be at cricket training at $10 \ \text{am}$ - how many minutes does he have until his training starts?
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time left}              &= 10 \ \text{am} - 8{:}15 \ \text{am} \\\\
-                              &= 1 \ \text{hour} \ 45 \ \text{minutes}   \\\\
-                              &= 1 \times 60 \ \text{minutes} + 45  \ \text{minutes} \\\\
-                              &= 60 + 45  \ \text{minutes} \\\\
-                              &= 105  \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105  \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>CDFD491B-E050-44A6-902D-95DE23E4196F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate the missing angle in this isosceles triangle.
-
-![missing image](/papers/missing_image.svg)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing angle $= a$
-
-As the triangle is an isosceles triangle, the third angle is also $= a$
-
-As we know, the sum of angles in a triangle is $180 \degree$.
-
-$
-\begin{aligned}
-a \degree + a \degree + 96 \degree      &= 180 \degree  \\\\
-2a + 96                                 &= 180  \\\\
-2a                                      &= 180 - 96  \\\\
-2a                                      &= 84  \\\\
-a                                       &= \dfrac {84} {2}  \\\\
-a                                       &= \dfrac {42 \times 2} {2}  \\\\
-a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
-a                                       &= 42 \degree
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \degree$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
@@ -749,10 +132,10 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -792,278 +175,6 @@ $8 \ \text{mm}$
 </div>
 </div>
 
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate the following expressions.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$13 + 4 \div 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 13 + 4 \div 2 \\\\
-&= 13 + \dfrac{4}{2} \\\\
-&=\dfrac{26 + 4}{2} \\\\
-&=\dfrac{30}{2} \\\\
-&=\dfrac{15 \times 2}{2} \\\\
-&=\dfrac{15 \times \cancel 2}{\cancel 2} \\\\
-&= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$4 \times 5 - 8 \times 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 4 \times 5 - 8 \times 3 \\\\
-&= 20 - 24 \\\\
-&= -4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(-4 + 7)^3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= (-4 + 7)^3 \\\\
-&= (3)^3 \\\\
-&= 3 \times 3 \\\\
-&= 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $\dfrac{2}{5} + \dfrac{3}{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} + \dfrac {3} {8} \\\\
-&= \dfrac {2 \times 8} {5 \times 8} + \dfrac {3 \times 5} {8 \times 5} \\\\
-&= \dfrac{ 16} {40} + \dfrac {15} {40} \\\\
-&= \dfrac {16 + 15} {40} \\\\
-&= \dfrac {31} {40}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{31}{40}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Simplify $\dfrac{12}{60}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {12} {60} \\\\
-&= \dfrac {12} {12 \times 5} \\\\
-&= \dfrac {\cancel{12}} {\cancel{12} \times 5} \\\\
-&= \dfrac {1} {5} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{1} {5}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
@@ -1376,72 +487,6 @@ $0.4$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>125D5D46-1589-49A3-B299-BF6AD03EEA2F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Gino is thinking of a number. 
-
-If he
-
-- halves it,
-- then adds 5 to it
-- and then squares it and gets 121.
-
-Circle the number that Gino was thinking of.
-
-$12 \quad 17 \quad 32$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Gino thought of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\bigg(\dfrac{a}{2} + 5 \bigg)^2     &= 121 \\\\
-\dfrac{a}{2} + 5                    &= \sqrt{121} \\\\
-\dfrac{a}{2} + 5                    &= 11 \\\\
-\dfrac{a}{2}                        &= 11 - 5 \\\\
-\dfrac{a}{2}                        &= 6 \\\\
-a                                   &= 6 \times 2 \\\\
-a                                   &= 12 
-\end {aligned}
-$
-
-The number that Gino thought of $= 12$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1868,10 +913,7 @@ $0.44$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
+tnumber
 </li>
 </ul>
 </div>
@@ -2167,10 +1209,10 @@ $25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -2451,9 +1493,6 @@ $\text{Shop C} = \pounds 820$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdivision
 </li>
 </ul>
@@ -2501,67 +1540,10 @@ $16$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>9A3D9E21-52B8-4FAF-B576-1B242FC6F65F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$410.3 \div 1000 =$
-
--   $41.03$
--   $4.103$
--   $0.4103$ 
--   $0.04103$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 410.3 \div 1000 \\\\
-&= \dfrac {410.3} {1000} \\\\
-&= 0.4103
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$0.4103$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
 <p>EC50BF96-8275-40FB-9755-C0806452FE6D</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdivision
 </li>
@@ -2816,9 +1798,6 @@ $36 \text{ coins}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttemperature
 </li>
 </ul>
@@ -2866,9 +1845,6 @@ $61 \degree \text{C}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 ttime
 </li>
@@ -3072,56 +2048,6 @@ $14$
 </div>
 <div class='rag'>
 <p>rag_ga_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>79A31346-E81D-4C43-B183-3EA0BE05B9AF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $336 \div  6$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  \dfrac{336}{6} \\\\
-&=  \dfrac{56 \times 6}{6} \\\\
-&=  \dfrac{56 \times \cancel 6}{\cancel 6} \\\\
-&=  56
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
 </div>
 </div>
 </li>
@@ -3838,9 +2764,6 @@ $20 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 ttime
 </li>
 </ul>
@@ -3891,9 +2814,6 @@ $18{:}27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tfraction
 </li>
@@ -3957,13 +2877,13 @@ $\dfrac {4} {9}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
-talgebra
+tunitprompt
+</li>
+<li>
+tsimpleword
 </li>
 </ul>
 </div>
@@ -4188,10 +3108,7 @@ $\pounds 13.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfraction
+tsimpleword
 </li>
 </ul>
 </div>
@@ -5271,10 +4188,10 @@ $3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+talgebra
 </li>
 </ul>
 </div>
@@ -5923,10 +4840,10 @@ $9899$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -5992,63 +4909,6 @@ $
 <div class='answer'>
 
 $26 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagrams below show three different views of the same cube. 
-Which letter is on the face opposite $M$?
-
-![missing image](/papers/missing_image.svg)
-
-- $I$ 
-- $P$ 
-- $K$ 
-- $U$ 
-- $O$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>D</p>
-</div>
-<div class='answer'>
-
-$U$
 
 </div>
 </div>

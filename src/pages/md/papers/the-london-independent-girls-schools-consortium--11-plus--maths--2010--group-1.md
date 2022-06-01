@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <div class='paper'>
 <div class='meta'>
@@ -41,10 +41,10 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-     &    4    &    3    &    2    &    9 \\
+       &    4    &    3    &    2    &    9 \\
 {}+    &    7    &    1    &    7    &    3 \\ 
 \hline
-1    &    1    &    5    &    0    &    2
+1      &    1    &    5    &    0    &    2
 \end{array}
 $
 
@@ -95,10 +95,10 @@ $
 
 $
 \begin{array}{cccccccccccccc}
-    &    3    &    6    &    1    &    7 \\
-{}-        &    &    9    &    0    &    8 \\
+      &    3    &    6    &    1    &    7 \\
+{}-   &         &    9    &    0    &    8 \\
 \hline
-    &    2   &   7    &    0    &    9
+      &    2   &   7    &    0    &    9
 \end{array}
 $
 
@@ -121,7 +121,7 @@ $2709$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>D722BA34-2185-4440-9C30-3B75AE041E64</p>
 </div>
@@ -170,7 +170,7 @@ $43771$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -181,9 +181,6 @@ $43771$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tdivision
 </li>
@@ -245,9 +242,9 @@ Let's use the LCM result to make the denominator the same for all the fractions.
 
 $
 \begin{aligned}
-&= \dfrac{2}{5}, \quad \dfrac{5}{8}, \quad \dfrac{1}{2} \\\\
-&= \dfrac{2 \times 8}{5 \times 8}, \quad \dfrac{5 \times 5}{8 \times 5}, \quad \dfrac{1 \times 20}{2 \times 20} \\\\
-&= \dfrac{16}{40}, \quad \dfrac{25}{40}, \quad \dfrac{20}{40}
+&= \dfrac {2} {5}, \quad \dfrac {5} {8}, \quad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 8} {5 \times 8}, \quad \dfrac {5 \times 5} {8 \times 5}, \quad \dfrac {1 \times 20} {2 \times 20} \\\\
+&= \dfrac {16} {40}, \quad \dfrac {25} {40}, \quad \dfrac {20} {40}
 \end{aligned}
 $
 
@@ -255,8 +252,8 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{16}{40}, \quad \dfrac{20}{40}, \quad \dfrac{25}{40} \\\\
-&= \dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}
+&= \dfrac {16} {40}, \quad \dfrac {20} {40}, \quad \dfrac {25} {40} \\\\
+&= \dfrac {2} {5}, \quad \dfrac {1} {2}, \quad \dfrac {5} {8}
 \end{aligned}
 $
 
@@ -286,9 +283,6 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
 </li>
 </ul>
@@ -303,11 +297,11 @@ Find $\dfrac{3}{8}$ of $48$
 
 $
 \begin{aligned}
-&= \dfrac{3}{8} \text{ of } 48 \\\\
-&= \dfrac{3}{8} \times 48 \\\\
-&= \dfrac{3 \times 48}{8} \\\\
-&= \dfrac{3 \times 6 \times 8}{8} \\\\
-&= \dfrac{3 \times 6 \times \cancel{8}}{\cancel{8}} \\\\
+&= \dfrac {3} {8} \text{ of } 48 \\\\
+&= \dfrac {3} {8} \times 48 \\\\
+&= \dfrac {3 \times 48} {8} \\\\
+&= \dfrac {3 \times 6 \times 8} {8} \\\\
+&= \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}} \\\\
 &= 3 \times 6 \\\\
 &= 18
 \end{aligned}
@@ -332,7 +326,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>A56D32B4-ADA7-4676-BE6D-CAD6C5B21EE8</p>
 </div>
@@ -462,12 +456,12 @@ $48$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>79688C18-5171-4E25-9231-AF07AF17DF2A</p>
 </div>
@@ -519,7 +513,7 @@ $1.009$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -574,12 +568,7 @@ A quick check shows that $9$ and $4$ meets the criteria above.
 <div class='answers'>
 <div class='answer'>
 
-$9$
-
-</div>
-<div class='answer'>
-
-$4$
+$4, 9$
 
 </div>
 </div>
@@ -593,7 +582,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>B3CD0A36-BE2D-4EB4-845F-D4413E955B1F</p>
 </div>
@@ -811,12 +800,12 @@ $0, 1$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>91ED3A8C-B829-405F-8BFA-E46567724624</p>
 </div>
@@ -864,7 +853,7 @@ $\dfrac{4} {5}, 80\%, 0.8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -977,7 +966,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_g1 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>C3254CDA-4FF0-4DD2-B767-58165F53A978</p>
 </div>
@@ -1026,7 +1015,7 @@ $9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_g1</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1598,7 +1587,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_np_blocked question'>
+<div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>BB09C106-9846-4E9F-948E-B0C68907C1D9</p>
 </div>
@@ -1727,7 +1716,7 @@ $50 \text{ cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_np_blocked</p>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -1738,12 +1727,6 @@ $50 \text{ cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
 <li>
 tfraction
 </li>
@@ -1980,9 +1963,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgraph
 </li>
 </ul>
@@ -2082,10 +2062,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2184,10 +2164,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2625,10 +2605,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
-tareaperimeter
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3129,9 +3109,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tstatistics
 </li>

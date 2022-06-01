@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-pr"
 title: "Topic - Order - PR"
-date: 2022-05-31 16:01:00
+date: 2022-06-01 11:08:34
 ---
 <ul class='question default-decimal'>
 <li>
@@ -68,7 +68,7 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 <li>
 <div class='question_envelope rag_bs_pr question'>
 <div class='uuid'>
-<p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+<p>C1D4AE7B-7ACB-4A19-9560-E30DEDB01A5B</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,169 +79,48 @@ torder
 </div>
 <div class='question question'>
 
-Which sign makes each of the following statements true?
+Which of these fractions is the largest?
 
-$\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom{5} } \quad \boxed{\phantom{5} = \phantom{5} } }$ 
+$\dfrac{3}{5} \quad \dfrac{4}{6} \quad \dfrac{5}{7} \quad \dfrac{6}{8}$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-%empty%
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+
+$
+\begin{aligned}
+&=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8} \\\\
+&= 0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&=0.6,  \quad   0.66,  \quad   0.714,  \quad   0.75 \\\\
+&=  \dfrac{3}{5},  \quad   \dfrac{4}{6},  \quad   \dfrac{5}{7},  \quad   \dfrac{6}{8}
+\end{aligned}
+$
+
+therefore $\dfrac{6}{8}$ is the largest fraction.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.022 \quad \ldots  \quad 0.2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.022 \quad \boxed{\green{<}}  \quad 0.2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.022 < 0.2$
+$\dfrac{6}{8}$
 
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned}
-&= 15\% \text{of} \pounds 300 \\\\
-&= \dfrac {15} {100} \times 300 \\\\
-&= \dfrac {15 \times 300} {100}  \\\\
-&= \dfrac {15 \times 3\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
-&= 15 \times 3  \\\\
-&= \pounds 45
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 20\% \text{of} \pounds 240 \\\\
-&= \dfrac {20} {100} \times 240 \\\\
-&= \dfrac {20 \times 240} {100}  \\\\
-&= \dfrac {2\cancel{0} \times 24\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
-&= 2 \times 24  \\\\
-&= \pounds 48
-\end{aligned}
-$
-
-Using the calculation above,
-
-$15\%$ of $\pounds 300\  \quad \boxed{\green{<}}  \quad  20\%$ of $\pounds 240$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's calculate the first value.
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} \text{ of } \pounds 40 \\\\
-&= \dfrac {2 \times 40} {5} \\\\
-&= \dfrac{2 \times 5 \times 8} {5} \\\\
-&= \dfrac {2 \times \cancel{5} \times 8} {\cancel{5}} \\\\
-&= 2 \times 8 \\\\
-&= \pounds 16
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 25\% \text{ of } \pounds 64 \\\\
-&= \dfrac {25} {100} \times 64 \\\\
-&= \dfrac {25 \times 64} {100}  \\\\
-&= \dfrac {1600} {100}  \\\\
-&= \dfrac {16\cancel{0}\cancel{0}} {1\cancel{0}\cancel{0}}  \\\\
-&= \pounds 16
-\end{aligned}
-$
-
-Using the calculation above,
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad \boxed{\green{=}}  \quad 25\%$ of $\pounds 64$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_bs_pr</p>
@@ -411,56 +290,6 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_sc_pr question'>
-<div class='uuid'>
-<p>01AE1F27-CBF4-4C44-A8D4-6CD40AEAA699</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-torder
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write these three decimals in order of size, starting with the $\text{largest}$ first.
-
-$0.92, 0.9, 0.909$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.92, \quad 0.9, \quad 0.909 \\\\
-&= 0.920, \quad 0.900, \quad 0.909 \\\\
-& \text{Let's put them in descending order now.} \\\\
-&= 0.920> \quad 0.909> \quad 0.900 \\\\
-&= 0.92> \quad 0.909> \quad 0.9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.92, \quad 0.909, \quad 0.9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_sc_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_ga_pr question'>
 <div class='uuid'>
 <p>6443D616-5876-4F6C-BC1C-5A7423695DAC</p>
@@ -564,7 +393,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>BF99E4BE-33D1-4EE9-8B7C-332C77ED0B1E</p>
 </div>
@@ -606,12 +435,12 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ej_pr question'>
+<div class='question_envelope rag_na_pr question'>
 <div class='uuid'>
 <p>90267A64-EE71-4707-96F3-FA590F8E0DA9</p>
 </div>
@@ -648,7 +477,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ej_pr</p>
+<p>rag_na_pr</p>
 </div>
 </div>
 </li>
@@ -944,9 +773,9 @@ Let's use the LCM result to make the denominator the same for all the fractions.
 
 $
 \begin{aligned}
-&= \dfrac{2}{5}, \quad \dfrac{5}{8}, \quad \dfrac{1}{2} \\\\
-&= \dfrac{2 \times 8}{5 \times 8}, \quad \dfrac{5 \times 5}{8 \times 5}, \quad \dfrac{1 \times 20}{2 \times 20} \\\\
-&= \dfrac{16}{40}, \quad \dfrac{25}{40}, \quad \dfrac{20}{40}
+&= \dfrac {2} {5}, \quad \dfrac {5} {8}, \quad \dfrac {1} {2} \\\\
+&= \dfrac {2 \times 8} {5 \times 8}, \quad \dfrac {5 \times 5} {8 \times 5}, \quad \dfrac {1 \times 20} {2 \times 20} \\\\
+&= \dfrac {16} {40}, \quad \dfrac {25} {40}, \quad \dfrac {20} {40}
 \end{aligned}
 $
 
@@ -954,8 +783,8 @@ Now let's put them in ascending order.
 
 $
 \begin{aligned}
-&= \dfrac{16}{40}, \quad \dfrac{20}{40}, \quad \dfrac{25}{40} \\\\
-&= \dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}
+&= \dfrac {16} {40}, \quad \dfrac {20} {40}, \quad \dfrac {25} {40} \\\\
+&= \dfrac {2} {5}, \quad \dfrac {1} {2}, \quad \dfrac {5} {8}
 \end{aligned}
 $
 

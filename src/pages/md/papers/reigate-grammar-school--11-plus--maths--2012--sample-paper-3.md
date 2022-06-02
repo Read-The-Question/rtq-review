@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -32,12 +32,17 @@ $2002 + 999 =$
 <div class='workings'>
 <div class='working'>
 
-$2002 + 1000 - 1 = 3001$
+$
+\begin{aligned}
+&= 2002 + 999 \\\\
+&= 2002 + 1000 - 1 \\\\
+&= 3002 - 1 \\\\
+&= 3001 
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}

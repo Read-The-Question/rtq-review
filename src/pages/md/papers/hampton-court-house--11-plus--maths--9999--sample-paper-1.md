@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -305,6 +305,9 @@ $875.25 + 2.6$
 <div class='workings'>
 <div class='working'>
 
+Remember to line up the decimal points.
+
+
 $
 \begin{array}{cccccccccccccc}
     &   8   &   7   &   5 \ .   &   2 \\
@@ -339,6 +342,9 @@ $691.6 - 84.3$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

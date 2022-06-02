@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ad-all"
 title: "Reviewer - Arun Dalakoti - All"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10945,6 +10945,9 @@ $875.25 + 2.6$
 <div class='workings'>
 <div class='working'>
 
+Remember to line up the decimal points.
+
+
 $
 \begin{array}{cccccccccccccc}
     &   8   &   7   &   5 \ .   &   2 \\
@@ -10979,6 +10982,9 @@ $691.6 - 84.3$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

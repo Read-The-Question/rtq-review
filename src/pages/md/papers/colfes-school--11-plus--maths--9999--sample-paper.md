@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -371,6 +371,9 @@ Work out $3.45 + 11.01 + 2.3$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

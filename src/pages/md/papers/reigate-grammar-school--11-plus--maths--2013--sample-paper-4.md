@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -32,12 +32,17 @@ $2030 + 997 =$
 <div class='workings'>
 <div class='working'>
 
-$2030 + 1000 - 3 = 3027$
+$
+\begin{aligned}
+&= 2030 + 997 \\\\
+&= 2030 + 1000 - 3 \\\\
+&= 3030 - 3 \\\\
+&= 3027 
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}

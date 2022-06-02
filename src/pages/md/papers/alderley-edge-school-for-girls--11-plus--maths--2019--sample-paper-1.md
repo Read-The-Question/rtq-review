@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -99,6 +99,9 @@ $3.094 + 0.06 = ?$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

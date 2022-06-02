@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-1"
 title: "TopicPaper - Detailedaddition - 1"
-date: 2022-06-01 19:04:55
+date: 2022-06-02 07:46:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -41,6 +41,9 @@ $3.094 + 0.06 = ?$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -375,6 +378,9 @@ Work out $3.45 + 11.01 + 2.3$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -1321,6 +1327,9 @@ $875.25 + 2.6$
 <div class='workings'>
 <div class='working'>
 
+Remember to line up the decimal points.
+
+
 $
 \begin{array}{cccccccccccccc}
     &   8   &   7   &   5 \ .   &   2 \\
@@ -1355,6 +1364,9 @@ $691.6 - 84.3$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -1708,6 +1720,9 @@ Calculate $5.221 + 5.8$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Remember to line up the decimal points.
+
 
 $
 \begin {array}{cccccccccccccc}
@@ -2416,12 +2431,17 @@ $2002 + 999 =$
 <div class='workings'>
 <div class='working'>
 
-$2002 + 1000 - 1 = 3001$
+$
+\begin{aligned}
+&= 2002 + 999 \\\\
+&= 2002 + 1000 - 1 \\\\
+&= 3002 - 1 \\\\
+&= 3001 
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -2629,12 +2649,17 @@ $2030 + 997 =$
 <div class='workings'>
 <div class='working'>
 
-$2030 + 1000 - 3 = 3027$
+$
+\begin{aligned}
+&= 2030 + 997 \\\\
+&= 2030 + 1000 - 3 \\\\
+&= 3030 - 3 \\\\
+&= 3027 
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}

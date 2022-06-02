@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-blocked"
 title: "Topic - Infer - Blocked"
-date: 2022-06-01 18:54:53
+date: 2022-06-01 23:43:05
 ---
 <ul class='question default-decimal'>
 <li>

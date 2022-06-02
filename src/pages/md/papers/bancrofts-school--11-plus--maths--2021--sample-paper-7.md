@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-01 23:43:05
+date: 2022-06-02 11:49:14
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1144,7 +1144,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdate
 </li>
 </ul>
 </div>
@@ -3275,13 +3275,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tdate
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

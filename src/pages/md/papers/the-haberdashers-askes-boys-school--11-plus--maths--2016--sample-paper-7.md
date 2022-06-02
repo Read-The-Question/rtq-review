@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-01 23:43:05
+date: 2022-06-02 11:49:14
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1682,10 +1682,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tdate
-</li>
-<li>
-talgebra
+tspeed
 </li>
 </ul>
 </div>

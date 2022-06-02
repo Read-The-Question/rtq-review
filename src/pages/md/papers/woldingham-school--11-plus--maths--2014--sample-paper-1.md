@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-01 23:43:05
+date: 2022-06-02 11:49:14
 ---
 <div class='paper'>
 <div class='meta'>
@@ -195,7 +195,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -240,7 +240,7 @@ $432$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -383,10 +383,7 @@ $0.82$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tdetailedmultiplication
 </li>
 </ul>
 </div>
@@ -429,9 +426,6 @@ $18$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1224,9 +1218,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

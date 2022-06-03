@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-all"
 title: "Topic - Simpleword - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -327,7 +327,7 @@ $\pounds  90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>52852CBD-3F19-4E8F-9646-311ABBA46E71</p>
 </div>
@@ -439,7 +439,7 @@ $30$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -631,7 +631,7 @@ $150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
 </div>
@@ -706,7 +706,7 @@ $32$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -988,7 +988,7 @@ $11$ friends
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -1035,7 +1035,7 @@ $15$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3025,6 +3025,57 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1D21F79A-F78C-4B75-91BE-80C40DBD1C81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A farmer has $364$ ewes and each ewe has either one or two new born lambs. 
+If there are $468$ lambs in total, how many of the ewes have twin lambs?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>A2AA0292-B690-4FB6-B6F2-07B4E9A2598E</p>
@@ -3391,7 +3442,7 @@ $80 \%$ of $20 \%$ of $200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
 </div>
@@ -3439,7 +3490,7 @@ $18$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3558,7 +3609,7 @@ tsimpleword
 tfraction
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4699,7 +4750,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -4766,7 +4817,7 @@ $96$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7624,6 +7675,117 @@ $54 \ \text{m}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
+
+Find an estimate for the number of words in the book.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It was reported recently that in an average lifetime of $70$ years, each
+human is likely to swallow about $8$ spiders while sleeping. Supposing
+that the population of UK is $60$ millions, what is the best
+estimate of number of spiders that are consumed in this way in the 
+UK each year?
+
+- $600000$
+- $7000000$
+- $80000000$
+- $900000000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>DFB28188-B181-4153-8449-33CBDC8CCDA6</p>
@@ -8551,6 +8713,110 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>4D997794-FBCD-4D84-92CD-789B4D89EDE0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tom is $142 \ \text{cm}$ tall and Harry is $168 \ \text{cm}$ tall. 
+James is half way between Tom’s and Harry’s height. 
+Work out James’ height. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {James' height} &= \dfrac {\text {Tom's Height} + \text {Harry’s height}} {2} \\\\
+                      &= \dfrac {142 + 168} {2} \\\\
+                      &= \dfrac {310} {2} \\\\
+                      &= \dfrac {155 \times 2} {2} \\\\
+                      &= \dfrac {155 \times \cancel {2}} {\cancel {2}} \\\\
+                      &= 155 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$155 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
+What is their total mass, give your answer in grams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6233 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>66777738-C618-4271-96E5-1C9214C9F392</p>
 </div>
 <div class='topics'>
@@ -8681,7 +8947,7 @@ $132 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
 </div>
@@ -8863,7 +9129,7 @@ $15$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9053,7 +9319,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
 </div>
@@ -9111,7 +9377,7 @@ $151 \ \text {years}$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10327,6 +10593,123 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
+                                     &= 0.23 \ \text{m} \\\\
+                                     &= 0.23 \times 100 \ \text{cm} \\\\
+                                     &= 23 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
+                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
+                                       &= \dfrac {162} {3} \ \text{cm} \\\\
+                                       &= \dfrac {54 \times 3} {3} \\\\
+                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
+                                       &= 54 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -12861,7 +13244,7 @@ $76 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
@@ -12921,7 +13304,7 @@ $92 \ \text{m}^{2}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -13644,7 +14027,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
 </div>
@@ -13687,12 +14070,12 @@ $1596 \ \text{cm}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
 </div>
@@ -13743,12 +14126,12 @@ $1325$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
@@ -13809,12 +14192,12 @@ $50$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
@@ -13940,7 +14323,7 @@ $12$ Boxes
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14336,7 +14719,7 @@ $75 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C</p>
 </div>
@@ -14388,12 +14771,12 @@ $\pounds 40.8$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
 </div>
@@ -14510,12 +14893,12 @@ $83 \ \text {m} ^ 2$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
@@ -14639,12 +15022,12 @@ $1120$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C4D8FFF9-4461-4B89-8BE3-4C402598EB60</p>
 </div>
@@ -14761,7 +15144,7 @@ $\pounds 1879.20$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14990,7 +15373,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
@@ -15050,7 +15433,7 @@ $500$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -15301,7 +15684,7 @@ $104$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
 </div>
@@ -15352,12 +15735,12 @@ $230$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9F713E0D-70F0-4FA4-ABD0-C1978385B4BD</p>
 </div>
@@ -15409,7 +15792,7 @@ $220$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -15820,7 +16203,7 @@ $96 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
 </div>
@@ -15864,12 +16247,12 @@ $8.85 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
 </div>
@@ -15919,12 +16302,12 @@ $60 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>69A4F37D-67F6-4431-A926-35B71140C637</p>
 </div>
@@ -16042,12 +16425,12 @@ $\dfrac{1}{3}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>93360AA4-2B9F-4C55-BC75-2CD78B9FD6F2</p>
 </div>
@@ -16198,12 +16581,12 @@ $31.33 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>17EB6AE3-FD45-41A0-9FF9-AF38640101B5</p>
 </div>
@@ -16347,12 +16730,12 @@ $204 \ \text{m}^2$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
@@ -16398,7 +16781,7 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -16517,7 +16900,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F6E175B5-9571-4201-8E17-818A77EA6BAE</p>
 </div>
@@ -16570,7 +16953,7 @@ $\dfrac{13}{20}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -16745,7 +17128,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
 </div>
@@ -16791,7 +17174,7 @@ $33.6 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17066,7 +17449,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
@@ -17150,7 +17533,7 @@ $26 \ \text{cm}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17275,7 +17658,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>73F88708-385D-49B6-B52A-C7C9AF1BAE57</p>
 </div>
@@ -17417,12 +17800,12 @@ $528 \text{m}^2$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8F274E8D-5AD2-4460-B3B3-A57416506B6E</p>
 </div>
@@ -17487,12 +17870,12 @@ $80 \ \text{cm}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AA6E0084-63AD-4E84-B181-6CAB6581076E</p>
 </div>
@@ -17547,7 +17930,7 @@ $64 \ \text{cm}^2$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17816,7 +18199,7 @@ $\pounds 46200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
 </div>
@@ -17879,7 +18262,7 @@ $70 \ \text{hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -18206,7 +18589,7 @@ $\pounds 92320$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -18356,7 +18739,7 @@ $50 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20050,7 +20433,7 @@ $126 \ \text{cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C179DA31-EC27-44EF-BADC-28D2F433E9BA</p>
 </div>
@@ -20163,7 +20546,7 @@ $1 \text {st} \ \text {November} \ 1998$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20220,7 +20603,7 @@ $9 \ \text {years} \ 6 \ \text {months}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>66489EBB-AF77-436C-8265-5C9A279D0B94</p>
 </div>
@@ -20354,7 +20737,7 @@ $28.4 \ \text {kilometres}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20575,7 +20958,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>51A3EFEE-AEFC-4035-956A-355C5FB4F3EB</p>
 </div>
@@ -20734,7 +21117,177 @@ $18 \ \text {stickers}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5DA208F4-5CBC-4E32-9929-B96B5638168D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs King asked all the children in Year $6$ if they play tennis.
+
+This table shows some of the results.
+
+![missing table](/papers/missing_table.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many children are there in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the children who do not play tennis are in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -22132,7 +22685,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
@@ -22199,12 +22752,12 @@ $13 \ \text{cm}^2$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -22262,7 +22815,7 @@ $30 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -22436,6 +22989,130 @@ $16 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.0008 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in mm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
+200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.008 \ \text{mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

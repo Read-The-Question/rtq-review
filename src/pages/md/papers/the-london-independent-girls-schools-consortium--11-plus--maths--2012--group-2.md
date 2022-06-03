@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>19341413-65A3-4BC8-B57B-2F00FE94B081</p>
 </div>
@@ -55,7 +55,7 @@ $3391$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -574,7 +574,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 <li>
 tnoexplanation
@@ -1225,12 +1225,6 @@ $-7 \degree C$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -2226,7 +2220,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -2397,7 +2391,7 @@ tunassigned
 tsymmetry
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -3295,7 +3289,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

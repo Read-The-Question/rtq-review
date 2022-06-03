@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-all"
 title: "Topic - Time - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -579,7 +579,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 ttime
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -1148,6 +1148,182 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bus holds $12$ people.
+
+How many buses are needed to transport $175$ students to the athletics stadium?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark goes to school from Monday to Friday, but he has trouble getting out 
+of bed and arrives late if there is an **‘s’** in the name of the day. 
+
+During the $12$ weeks of term, how many days did he arrive late?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Cormac leaves the house with $\pounds 120$ in his wallet after his birthday.
+
+He spends $25 \%$ of it on a game for his Xbox, and $10 \%$ of the rest on a DVD. 
+How much money does he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4940,7 +5116,7 @@ $55800 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
@@ -4982,7 +5158,7 @@ $13{:}13$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7200,7 +7376,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -7244,7 +7420,7 @@ $9{:}02 \ \text{am}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7428,7 +7604,7 @@ $01{:}52 \ \text {P.M}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -7474,7 +7650,7 @@ $18{:}27$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8773,7 +8949,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -8817,7 +8993,7 @@ $115  \ \text{minutes}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9000,7 +9176,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -9120,12 +9296,12 @@ $\pounds 25.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -9178,7 +9354,7 @@ $33600$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9351,7 +9527,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -9499,12 +9675,12 @@ $11 \ \text{ mins}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -9648,7 +9824,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10424,7 +10600,7 @@ $54 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -10480,7 +10656,7 @@ $8{:}17 \ \text{am}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -13708,7 +13884,7 @@ $\text{Wednesday}, \ 2{:}00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -13819,7 +13995,7 @@ $17 {:} 10$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14050,7 +14226,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
 </div>
@@ -14096,7 +14272,7 @@ $5 {:} 33 \ \text {p.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14675,7 +14851,146 @@ $10{:}40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E84BF85C-48BC-4E0C-A5DA-4E46BD9E6E07</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Assuming that no time is added to the journey when a train passes through a station, 
+work out the route that takes the shortest time to travel from $A$ to $G$.
+
+You should list the stations in order.
+
+Your route **does not** need to pass through every station.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In reality, passing through a station adds $4 \ \text{minutes}$ to the overall journey time.
+
+Using this information, work out the shortest time taken to travel by train from $A$ to $G$.
+
+Your route **does not** need to pass through every station.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
 </div>
@@ -14720,7 +15035,7 @@ $8 {:} 40 \ \text {a.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

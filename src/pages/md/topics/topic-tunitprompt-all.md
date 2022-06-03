@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -256,7 +256,7 @@ $3700 \ \text {mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
@@ -313,12 +313,12 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AC61BB61-0D32-432C-A626-69C941176034</p>
 </div>
@@ -381,7 +381,7 @@ $250 \ \text{milliliters}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1032,7 +1032,7 @@ tunassigned
 tunitprompt
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -1132,7 +1132,7 @@ $25100 \ \text{mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -1199,7 +1199,7 @@ $96$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3305,13 +3305,10 @@ $\pounds 5.02$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -3866,7 +3863,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F3912EFD-E492-46A0-BB5B-F44F4FD52BAA</p>
 </div>
@@ -3927,12 +3924,12 @@ $50$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
 </div>
@@ -3992,12 +3989,12 @@ $500$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -4052,7 +4049,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5409,245 +5406,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>ADEAD8D0-2747-44BF-901C-F26BADA4C02C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Choose one of the following units to complete each statement below.
-
-$\text{km} \quad \text{m} \quad \text{cm} \quad \text{mm} \quad \text{l} \quad \text{ml}$
-
-Mandy's thumb is approximately $50 \ldots$ long.
-
-A glass could contain $250 \ldots$ of orange juice.
-
-A house could be $7.5 \ldots$ tall.
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {mm},\text {ml}, \text {m}$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {mm},\text {ml}, \text {m}$ 
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down, in grams, the masses represented by the arrows on these scales. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-$
-\begin{aligned}
-\text {mass represented by an interval}         &= 10 \text {g} \\\\
-\text {number of divisions in an interval}      &= 4 \\\\
-\text {mass represented by a division}          &= \dfrac {10} {4} \\\\
-                                                &= 2.5 \text {g} \\\\
-\text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= {2 \times 2.5 } \\\\
-                                                &= 5 \text {g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \ \text {g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-$
-\begin{aligned}
-\text {mass represented by an interval}         &= 25 \text {g} \\\\
-\text {number of divisions in an interval}      &= 5 \\\\
-\text {mass represented by a division}          &= \dfrac {25} {5} \\\\
-                                                &= 5 \text {g} \\\\
-\text {division at which the arrow is pointing} &= \text {first division after 225} \\\\
-\text {mass represented by the arrow}           &= 225 + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 225 + {1 \times 5 } \\\\
-                                                &= 230 \text {g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$230 \ \text{g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the scale,
-
-$
-\begin{aligned}
-\text {mass represented by an interval}         &= 1 \text {kg} \\\\
-\text {number of divisions in an interval}      &= 5 \\\\
-\text {mass represented by a division}          &= \dfrac {1} {5} \\\\
-                                                &= 0.2 \text {kg} \\\\
-\text {division at which the arrow is pointing} &= 2 \\\\
-\text {mass represented by the arrow}           &= 2 \text {kg} + \text {division at which the arrow is pointing} \times \text {mass represented by a division} \\\\
-                                                &= 2 + {2 \times 0.2 } \\\\
-                                                &= 2.4 \ \text {kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.4 \ \text {kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>2AEC45C5-5DAA-456F-A6B5-36E478ECAC91</p>
@@ -6194,7 +5952,7 @@ $\pounds 51.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
@@ -6244,7 +6002,7 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6314,7 +6072,7 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
 </div>
@@ -6365,7 +6123,7 @@ $2.4 \text{m}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6522,7 +6280,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E2AAD842-8F28-4315-8FD7-80B9E1231559</p>
 </div>
@@ -6627,7 +6385,7 @@ $2400 \text{g}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8377,13 +8135,10 @@ $30 \ \text{pence}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tnumber
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

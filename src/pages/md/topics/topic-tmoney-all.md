@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmoney-all"
 title: "Topic - Money - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -128,7 +128,7 @@ $\pounds  90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>56B40B8C-468B-4A69-83E1-B687C31C142F</p>
 </div>
@@ -256,7 +256,7 @@ $8$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -895,7 +895,7 @@ $\pounds 16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
@@ -952,12 +952,12 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>98E30B30-DDF8-4611-BFF5-108696A59D3F</p>
 </div>
@@ -1004,7 +1004,7 @@ $\pounds 3.20$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2754,7 +2754,7 @@ $\pounds 18.07$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D71A8D20-2E8A-4417-920F-57E32AF54FC8</p>
 </div>
@@ -2800,12 +2800,12 @@ $\pounds 20.90$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
 </div>
@@ -2978,7 +2978,7 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8172,7 +8172,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>825BD361-93A9-49D1-8AB0-15E2950519CC</p>
 </div>
@@ -8217,7 +8217,7 @@ $641 \ \text {pence}$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8599,7 +8599,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828</p>
 </div>
@@ -8663,7 +8663,7 @@ $36 \text{ coins}$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -12707,7 +12707,7 @@ $\pounds 18.29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B14230C1-397F-4229-962F-877D59B5C1B2</p>
 </div>
@@ -12833,12 +12833,12 @@ $\pounds 5.92$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>26BE9BBB-6A7B-493E-92F7-34048794B52B</p>
 </div>
@@ -12895,12 +12895,12 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -12955,12 +12955,12 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
@@ -13013,7 +13013,7 @@ $\pounds 3.28$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -13371,7 +13371,7 @@ $\pounds 155.1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -13517,7 +13517,7 @@ $3 \ \text {people}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -13754,7 +13754,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D16BC637-6F15-423F-A1AA-CE2DD196F103</p>
 </div>
@@ -13797,12 +13797,12 @@ $\pounds 42$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ADBF2411-1D01-472E-9BC0-7C51FF7A56D5</p>
 </div>
@@ -13900,12 +13900,12 @@ $\pounds 64.9$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -14025,12 +14025,12 @@ $\pounds 25.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>36EC9CE8-1BB5-4F5F-B3D5-4C7DD0031E66</p>
 </div>
@@ -14171,7 +14171,7 @@ $\pounds 2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14324,7 +14324,7 @@ $\pounds 0.71$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
 </div>
@@ -14446,12 +14446,12 @@ $\pounds 6.25$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55A10623-F378-4E8A-9E0E-162217DDCF11</p>
 </div>
@@ -14558,12 +14558,12 @@ $\pounds1.52$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
 </div>
@@ -14607,12 +14607,12 @@ $\pounds 110.50$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>23F08023-3E57-40D1-BED1-91FEF237609C</p>
 </div>
@@ -14658,12 +14658,12 @@ $13 \text{p},23 \text{p},53 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ED194211-094B-4A65-A8B1-1480273C455A</p>
 </div>
@@ -14709,7 +14709,7 @@ $57 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14812,7 +14812,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC</p>
 </div>
@@ -14875,12 +14875,12 @@ $\pounds 1.33$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B997CEC0-1CE9-4FA7-9498-ABBF735994C3</p>
 </div>
@@ -14918,7 +14918,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -15118,7 +15118,7 @@ $\pounds 1.70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>408AD078-3ADB-4663-A156-51E85E253962</p>
 </div>
@@ -15178,7 +15178,7 @@ $17$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -19146,7 +19146,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
@@ -19304,7 +19304,7 @@ $12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -19584,7 +19584,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>57857312-9D34-4AE2-9A5C-5DCF6B0AF748</p>
 </div>
@@ -19634,7 +19634,7 @@ $1.5$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -22463,7 +22463,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -22577,7 +22577,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

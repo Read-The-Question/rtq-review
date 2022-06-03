@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-g0"
 title: "Topic - Noexplanation - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -572,9 +572,6 @@ $8.3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -762,13 +759,7 @@ $50706$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -2811,12 +2802,6 @@ $76.60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3211,173 +3196,6 @@ $11.0009$
 </ul>
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the numbers in the cloud:
-
-![missing image](/papers/missing_image.svg)
-
-
-Write down any of these numbers which are:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-even
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$8, \ 12, \ 14, \ 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8, \ 12, \ 14, \ 20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-multiples of $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20, \ 35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20, \ 35$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-factors of $24$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3, \ 8, \ 12, \ 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 8, \ 12, \ 24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-prime numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3, \ 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -6130,140 +5948,6 @@ $2 \times 3 \times 5 \times 5$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the prime numbers between $10$ and $20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11, 13, 17, 19$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 13, 17, 19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the first three multiples of $15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$15, 30, 45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15, 30, 45$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the factors of $49$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 7, 49$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 7, 49$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>186D27EB-2B7C-4A75-AD3A-B9768E4E01BD</p>
 </div>
 <div class='topics'>
@@ -7812,13 +7496,7 @@ $\dfrac {2} {5}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -9314,7 +8992,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 <li>
 tnoexplanation
@@ -10398,9 +10076,6 @@ $308520$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

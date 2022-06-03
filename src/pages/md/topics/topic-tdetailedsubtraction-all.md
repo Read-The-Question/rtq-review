@@ -1,9 +1,56 @@
 ---
 slug: "topics/topic-tdetailedsubtraction-all"
 title: "Topic - Detailedsubtraction - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much more than $523$ is $872$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Difference}    &=  872 - 523 \\\\
+                     &=  349 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$349$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -143,6 +190,56 @@ $6084$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5076E85F-CDAE-4C5E-851D-F9C834A45C1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number (written in digits) is twenty **less** than twenty thousand?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2574,7 +2671,7 @@ $696$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
 </div>
@@ -2621,7 +2718,7 @@ $0.21$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2673,7 +2770,7 @@ $156$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ACCD452C-167D-4F04-A496-755F5523D582</p>
 </div>
@@ -2729,7 +2826,7 @@ $52.55$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3305,7 +3402,7 @@ $7113$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FF7A0514-3250-4D1B-A9AC-ED6F5A811E07</p>
 </div>
@@ -3354,12 +3451,12 @@ $2709$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4</p>
 </div>
@@ -3401,7 +3498,7 @@ $5745$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3504,7 +3601,7 @@ $2.23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2BA9B8DF-A971-4697-A7FF-EFAA12385B1E</p>
 </div>
@@ -3547,7 +3644,7 @@ $8760$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3693,7 +3790,7 @@ $2667$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3E3BE6AC-7FB5-43AB-B419-2E5E66F902DA</p>
 </div>
@@ -3735,7 +3832,7 @@ $1886$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

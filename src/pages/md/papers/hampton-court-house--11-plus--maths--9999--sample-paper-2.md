@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -934,13 +934,7 @@ $2 \times 3 \times 17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

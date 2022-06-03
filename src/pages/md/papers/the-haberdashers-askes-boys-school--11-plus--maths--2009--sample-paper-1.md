@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>29E1EA3D-2700-4C13-ACFD-A1AE84D725BE</p>
 </div>
@@ -55,7 +55,7 @@ $121$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -351,7 +351,7 @@ $\pounds 11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B88CABDA-FA14-4FDA-B7C5-6D0F61369675</p>
 </div>
@@ -393,7 +393,7 @@ $300$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

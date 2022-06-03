@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "Topicpapers Ttemperature 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -153,7 +153,7 @@ $4 \degree  \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
 </div>
@@ -279,7 +279,7 @@ $12 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1210,7 +1210,7 @@ Manchester
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -1253,7 +1253,7 @@ $61 \degree \text{C}$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3216,7 +3216,7 @@ $-7 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
 </div>
@@ -3329,7 +3329,7 @@ $-7 \degree \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3960,7 +3960,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A</p>
 </div>
@@ -4004,7 +4004,7 @@ $3 \degree \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4274,7 +4274,7 @@ Munich
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C77F4094-E254-4BDE-8724-852A89BFB58F</p>
 </div>
@@ -4312,7 +4312,7 @@ $-6 \degree C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4359,7 +4359,7 @@ $-8 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -4404,7 +4404,7 @@ $-9 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

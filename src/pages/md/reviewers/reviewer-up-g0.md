@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-up-g0"
 title: "Reviewer - Uday Pandey - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1217,10 +1217,7 @@ $0$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -1483,54 +1480,6 @@ $210 \text{ minutes}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>535C0190-2EED-4B05-9AD7-6B1CA7FDBFD0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together $308, 86$ and $4444$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       &   3   &   0   &   8 \\
-    &       &       &   8   &   6 \\
-{}+ &   4   &   4   &   4   &   4 \\
-\hline
-    &   4   &   8   &   3   &   8
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4838$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>7A396B44-0D34-4093-B4B8-829BBC038C43</p>
 </div>
 <div class='topics'>
@@ -1572,53 +1521,6 @@ $23115$
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>831DD0A4-2BC1-40DF-8B4E-CEEE70408C77</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together $369$ and $2468$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       &   3   &   6   &   9 \\
-{}+ &   2   &   4   &   6   &   8 \\
-\hline
-    &   2   &   8   &   3   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2837$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -8112,10 +8014,7 @@ $1.535 \ \text {m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "Topicpapers Talgebra 4"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,146 @@ date: 2022-06-02 11:58:44
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>8F7E2B54-63AD-42F0-AD22-0B1036DA619C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$C = 5W + 10A$
+
+Work out the value of $C$ when $W = 3$ and $A = -1$
+
+- $14$
+- $45$
+- $5$
+- $25$
+- $17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+C &=  5W +10A \\\\
+  &=  5(3) + 10(-1) \\\\
+  &=  15 - 10 \\\\
+  &=  5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Think of two integers that have a product of $18$ and a difference 
+that is the same as one of the two integers that you are thinking of. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+a - b                 &= b \\\\
+a                     &= 2 \times b \\\\
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
+
+Substuting the value of $a$ from second equation to first equation.
+
+$
+\begin{aligned}
+a \times b            &= 18 \\\\
+2 \times b \times b   &= 18 \\\\
+b ^ 2                 &= \dfrac {18} {2} \\\\
+b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
+b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+b ^ 2                 &= 9 \\\\
+b                     &= 3
+\end{aligned}
+$
+
+Substuting the value of $b$ in second equation.
+
+$
+\begin{aligned}
+a - b &= b \\\\
+a - 3 &= 3 \\\\
+a     &= 6 \\\\
+\end{aligned}
+$
+
+The two integers are $3 \ \text{and} 6$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{and} 6$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>
@@ -61,7 +200,7 @@ $9$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1421,7 +1560,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CEFEC184-01C9-49CB-9761-F2A3E70E6B6F</p>
 </div>
@@ -1493,7 +1632,7 @@ $6$ and $8$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1701,230 +1840,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
-
-Bert asks Chrissy to think of a number, double it and add $5$.
-
-She says that the result is $33$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What was the number she thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Chrissy think of $=a$,
-
-$
-\begin{aligned}
-2a + 5 &= 33 \\\\
-2a     &= 33 - 5 \\\\
-2a     &= 28 \\\\
-a      &= \dfrac {28} {2} \\\\
-a      &= \dfrac {14 \times 2} {2} \\\\
-a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
-a      &= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Chrissy wants Bert to guess her favourite number.
-
-She asks him to write down $5$ numbers.
-
-He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
-
-Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mean of Bert's numbers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
-             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
-             &= \dfrac {40} {5} \\\\
-             &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is Chrissy's favourite number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Chrissy's favourite number} &= \text{mean-7} \\\\
-                                   &= 8 - 7 \\\\
-                                   &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle any of the words below which describe Chrissy's favourite number.
-
-**prime number** $\quad$  **square number** $\quad$  **cube number**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {square}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {square}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2645,7 +2560,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC</p>
 </div>
@@ -2702,7 +2617,7 @@ $3, 12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3978,7 +3893,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>71244B72-5BA2-4E9F-B6E1-473CCA0B319A</p>
 </div>
@@ -4037,7 +3952,7 @@ $4, 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4451,7 +4366,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>86501673-7B9E-47F8-95C0-554BDF31C482</p>
 </div>
@@ -4526,7 +4441,7 @@ $25, 15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6121,7 +6036,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>139515A2-06C2-4784-A793-112DD4CB90CD</p>
 </div>
@@ -6279,7 +6194,7 @@ $12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:33</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7266,7 +7181,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2A88B7B6-AD6F-452A-ACC1-75AD1DD3F661</p>
 </div>
@@ -7322,12 +7237,12 @@ $3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5160958B-A4E0-465D-AF30-2B59CDE40F74</p>
 </div>
@@ -7392,7 +7307,7 @@ $12$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7843,117 +7758,6 @@ $150$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Six girls took a maths test.
-
-Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the difference between the highest and lowest marks?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 20 - 7 \\\\
-&= 13
-\end {aligned}
-$
-
-The difference between the highest and lowest marks is $13$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
-
-What was Ashleigh’s mark?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:31</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -8415,252 +8219,6 @@ $\pounds 400$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>530C4350-38A0-441E-A078-0C428413AF90</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A *preble* is a set of three numbers in which the last number is the product of the first two numbers, for example $(3, 2, 6)$.
-
-Work out the missing number in each of these prebles.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(6, 1\dfrac{1}{3}, a) \qquad a = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(12, b, 15) \qquad b = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(c, 11, 1045) \qquad c = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(0.5, d, 28) \qquad d = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(0.4, e, 0.24) \qquad e = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -10093,6 +9651,84 @@ $24 \ \text{cm}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
+When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
+
+How many coins were there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$.
+
+It is really important to use the right units in calculations and convert where required
+. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}
+10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
+10c + 20c + 50c + 100c                                   &= 720 \\\\
+180c                                                     &= 720 \\\\
+c                                                        &= \dfrac {720} { 180} \\\\
+c                                                        &= \dfrac {180 \times 4} { 180} \\\\
+c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
+c                                                        &= 4
+\end{aligned}
+$ 
+
+There are $4$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}   &=  4 \times 4 \\\\
+                     &= 16 \ \text{coins}
+\end{aligned}
+$   
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

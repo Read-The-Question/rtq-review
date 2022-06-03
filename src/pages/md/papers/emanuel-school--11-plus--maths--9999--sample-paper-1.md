@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -128,7 +128,7 @@ $485$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8B8F79EA-B781-459D-9AD2-C626B4D1E664</p>
 </div>
@@ -171,7 +171,7 @@ $3926$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -398,9 +398,6 @@ TODOANSWER
 <ul>
 <li>
 tfraction
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1921,7 +1918,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
 </div>
@@ -1996,12 +1993,12 @@ $
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
 </div>
@@ -2041,7 +2038,7 @@ $1$ January
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-all"
 title: "Topic - Lcm - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1710,7 +1710,7 @@ $63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4E2CC2F8-A2C6-4373-8B60-1726ADBF85AE</p>
 </div>
@@ -1752,7 +1752,7 @@ $63$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -19,9 +19,6 @@ date: 2022-06-02 11:49:14
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -728,7 +725,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
 </div>
@@ -780,7 +777,7 @@ $\dfrac {31} {120}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -903,7 +900,7 @@ $140 \ \text{beads}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>97E481D7-AB21-4BC5-A018-A6D984DF8B70</p>
 </div>
@@ -957,7 +954,7 @@ $5, 7, 11$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1107,7 +1104,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AF41292A-EA87-4917-AA96-255A70031420</p>
 </div>
@@ -1157,12 +1154,12 @@ $13, 39$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -1276,7 +1273,7 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1830,7 +1827,7 @@ $\text{The missing numbers are :} 39, 187, 112, 10, 112$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
@@ -1897,7 +1894,7 @@ $13 \ \text{cm}^2$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

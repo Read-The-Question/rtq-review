@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -205,9 +205,6 @@ $55.94$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -974,7 +971,7 @@ $12.90 \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
 </div>
@@ -1138,7 +1135,7 @@ $60 \degree$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1276,7 +1273,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83</p>
 </div>
@@ -1364,7 +1361,7 @@ $18$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1431,16 +1428,7 @@ $9 \ \text {litres}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -1785,7 +1773,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
 </div>
@@ -1967,7 +1955,7 @@ $15$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2270,7 +2258,7 @@ $17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>825BD361-93A9-49D1-8AB0-15E2950519CC</p>
 </div>
@@ -2315,7 +2303,7 @@ $641 \ \text {pence}$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

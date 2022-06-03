@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>42B172FC-BBD5-4557-9351-313D4B254286</p>
 </div>
@@ -122,12 +122,12 @@ $624$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
 </div>
@@ -237,7 +237,7 @@ $32$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -356,7 +356,7 @@ $1142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
 </div>
@@ -469,7 +469,7 @@ $56$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -786,7 +786,7 @@ $58 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F6E175B5-9571-4201-8E17-818A77EA6BAE</p>
 </div>
@@ -839,12 +839,12 @@ $\dfrac{13}{20}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC</p>
 </div>
@@ -907,12 +907,12 @@ $\pounds 1.33$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -957,7 +957,7 @@ $377$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1233,7 +1233,7 @@ $1000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B997CEC0-1CE9-4FA7-9498-ABBF735994C3</p>
 </div>
@@ -1271,7 +1271,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1339,7 +1339,7 @@ $56 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
 </div>
@@ -1385,7 +1385,7 @@ $33.6 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1880,7 +1880,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6F96E3F8-8999-42DE-A8DF-52DA739B2658</p>
 </div>
@@ -2010,12 +2010,12 @@ $\dfrac{3}{4}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A</p>
 </div>
@@ -2169,7 +2169,7 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2897,7 +2897,7 @@ $18 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33003293-7D63-4EEE-98E2-B0957B77805A</p>
 </div>
@@ -2954,12 +2954,12 @@ $60$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>39F565E5-A22B-4C7B-8F60-9AC45AFB6764</p>
 </div>
@@ -3212,7 +3212,7 @@ $1, 2$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

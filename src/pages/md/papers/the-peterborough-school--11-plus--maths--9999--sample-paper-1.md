@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,15 +13,12 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3DEA1C5D-5098-4644-85E8-342D00E123E8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -199,7 +196,7 @@ $3 \dfrac {1} {2}$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -210,9 +207,6 @@ $3 \dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -838,15 +832,12 @@ $0.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>34FA6ECE-8C84-4446-BE71-0079B97B3AE6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -951,7 +942,7 @@ $47$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1502,15 +1493,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D61C4BCD-16FD-4C38-A89B-A1E29838248E</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1642,7 +1630,7 @@ $7420$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1974,7 +1962,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B67C812C-8264-4E3E-AE90-257236E2DAC5</p>
 </div>
@@ -2020,7 +2008,7 @@ $45$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2676,12 +2664,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -2746,15 +2728,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>

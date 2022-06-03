@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>46768229-11F0-453B-ACC8-5B9C11276EC1</p>
 </div>
@@ -62,7 +62,7 @@ $1080$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -579,7 +579,7 @@ $5.1 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
 </div>
@@ -703,7 +703,7 @@ $125 \text{minutes}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -867,7 +867,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
 </div>
@@ -910,12 +910,12 @@ $28.4 \ \text{cm}^2$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55096F2E-FF75-4684-9D88-814A1EF7D4D9</p>
 </div>
@@ -1038,12 +1038,12 @@ $16 \ \text{km/hour}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -1191,12 +1191,12 @@ $11 \ \text{ mins}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>83110D7D-4A15-444F-BC4E-DC7DC2E96129</p>
 </div>
@@ -1273,12 +1273,12 @@ The smaller number $=13$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
 </div>
@@ -1322,12 +1322,12 @@ $8.85 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
 </div>
@@ -1475,12 +1475,12 @@ $\pounds 11.76$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>82884BC7-A421-455D-93F2-F6D296154674</p>
 </div>
@@ -1601,12 +1601,12 @@ $2.3475 \ \text{kilograms}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
 </div>
@@ -1728,12 +1728,12 @@ $\pounds 6.25$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
 </div>
@@ -1945,7 +1945,7 @@ $24, 3$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2059,7 +2059,7 @@ $4 \leq x > 8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7241EB20-8C18-4489-BCB1-426409F62127</p>
 </div>
@@ -2220,12 +2220,12 @@ $\dfrac{5}{8}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4A5640EB-A71C-4E96-8720-171B2B14F0CF</p>
 </div>
@@ -2332,7 +2332,7 @@ $1\dfrac{3}{4}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

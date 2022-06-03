@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-3"
 title: "Topicpapers Talgebra 3"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,285 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations, leaving your answers as improper fractions where necessary. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x - 11 = 34$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 11  &= 34 \\\\
+5x       &= 34 + 11 \\\\
+5x       &= 45 \\\\
+x        &= \dfrac{45} {5} \\\\
+x        &= \dfrac{9 \times 5} {5} \\\\
+x        &= \dfrac{9 \times \cancel {5}} {\cancel {5}} \\\\
+x        &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{x}{2} - 3 = \dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {x} {2} - 3   &= \dfrac {1} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + 3 \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{3 \times 2} {1 \times 2} \\\\
+\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{6} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {1 + 6} {2} \\\\
+\dfrac {x} {2}       &= \dfrac {7} {2} \\\\
+x                    &= \dfrac {7} {2} \times 2 \\\\
+x                    &= \dfrac {7 \times 2} {2} \\\\
+x                    &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x                    &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3 + \dfrac{2x - 3}{7}  = 8$
+  
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 + \dfrac {2x - 3} {7} &= 8 \\\\
+\dfrac {2x - 3} {7}     &= 8 - 3 \\\\
+\dfrac {2x - 3} {7}     &= 5 \\\\
+2x - 3                  &= 5 \times 7 \\\\
+2x - 3                  &= 35 \\\\
+2x                      &= 35 + 3 \\\\
+2x                      &= 38 \\\\
+x                       &= \dfrac {38} {2} \\\\
+x                       &= \dfrac {19 \times 2} {2} \\\\
+x                       &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+x                       &= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6x - 9 = 15 - 7x$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+6x - 9      &= 15 - 7x \\\\
+6x + 7x     &= 15 + 9 \\\\
+13x         &= 24 \\\\
+x           &= \dfrac {24} {13} \\\\
+x           &= 1 \ \dfrac {11} {13}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \dfrac {11} {13}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5(x - 6) = 25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5(x - 6)      &= 25 \\\\
+x - 6         &= \dfrac{25} {5} \\\\
+x - 6         &= \dfrac {5 \times 5} {5} \\\\
+x - 6         &= \dfrac {\cancel{5} \times 5} {\cancel{5}} \\\\
+x - 6         &= 5 \\\\
+x             &= 5 + 6 \\\\
+x             &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x - 9 = \dfrac{1}{4}x + \dfrac{1}{2}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3x - 9                                              &= \dfrac {1} {4}x + \dfrac {1} {2} \\\\
+3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
+\dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
+\dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
+\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
+\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
+x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
+x                                                   &= \dfrac {19 \times 2} {11} \\\\
+x                                                   &= \dfrac {38} {11} \\\\
+x                                                   &= 3 \dfrac {5} {11}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \dfrac {5} {11}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -2275,7 +2554,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -2334,7 +2613,7 @@ $\pounds 32$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4153,7 +4432,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
 </div>
@@ -4223,7 +4502,7 @@ $\pounds 2.65$ and $\pounds 2.25$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4377,7 +4656,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
 </div>
@@ -4539,12 +4818,12 @@ $\pounds 13.5$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
 </div>
@@ -4595,7 +4874,7 @@ $15$ coins of $10$p and $15$ coins of $50$p
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4848,6 +5127,58 @@ $1600 \ \text {ml}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6905E2DB-5FDA-4DBB-8B72-B34FBE60FDBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rex has $80$ books altogether. They are arranged on three shelves. If Rex moved seven books from the top shelf to the middle shelf and took eight books away from the bottom shelf, there would be an equal number of books on each shelf. 
+
+How many books are on the middle shelf originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -5943,7 +6274,7 @@ $\dfrac {1} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
 </div>
@@ -6110,7 +6441,7 @@ $\pounds 10$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6174,7 +6505,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
 </div>
@@ -6377,7 +6708,7 @@ $2$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7372,7 +7703,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -7493,7 +7824,7 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7663,7 +7994,7 @@ $2, 14, 42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -7781,7 +8112,7 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7990,7 +8321,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EED677CE-038C-415E-9155-1F7B7166B19B</p>
 </div>
@@ -8103,7 +8434,7 @@ $6$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8399,7 +8730,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
 </div>
@@ -8547,7 +8878,7 @@ $\pounds 11.76$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8605,7 +8936,7 @@ $42 \text{toffees}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>70495CDE-A694-44BF-9BDE-E42271978492</p>
 </div>
@@ -8650,12 +8981,12 @@ $\pounds 14,000$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>714A3922-27FE-4977-8C4F-8B64886AF8C2</p>
 </div>
@@ -8699,12 +9030,12 @@ $36 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7D2466F0-AE57-429A-BA31-12DECBC77D48</p>
 </div>
@@ -8751,12 +9082,12 @@ $0.007$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B51C61A9-BBFD-4FCA-9F5F-BB543CC361E8</p>
 </div>
@@ -8822,12 +9153,12 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7B74D5EE-ABDD-4862-9E72-635714D53045</p>
 </div>
@@ -8882,12 +9213,12 @@ $4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>786ECD30-5585-4FE5-91C7-28D8FFC8B3AE</p>
 </div>
@@ -8947,12 +9278,12 @@ $8 \ \text {oranges}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9170FD6C-D8D5-431A-80F7-F4C30ABB5FEF</p>
 </div>
@@ -9007,12 +9338,12 @@ $16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>59DED6AF-072C-4471-8B10-931ECD8F050E</p>
 </div>
@@ -9080,7 +9411,7 @@ $11 \text{p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9152,7 +9483,7 @@ $\text {Dana} = \pounds 22.5 \\
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E095A1B1-A5D7-4A9A-9C71-AB7E49731549</p>
 </div>
@@ -9205,12 +9536,12 @@ $16 \ \text {seconds}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ED0E72A9-DD21-4A7F-9701-21CDEA62D691</p>
 </div>
@@ -9260,12 +9591,12 @@ $17 \ \text {p}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4D8E25F8-9D3B-41E4-A587-01F4188FD3F2</p>
 </div>
@@ -9336,12 +9667,12 @@ $\pounds 1.8, \pounds 1.4$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B09AF32E-2996-4090-B6BE-24F80181CD57</p>
 </div>
@@ -9393,7 +9724,7 @@ $5$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:0</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9466,7 +9797,7 @@ $42 \ \text{coins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
 </div>
@@ -9602,7 +9933,7 @@ $9$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11496,7 +11827,7 @@ $\pounds 1.70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1B3F4C98-47C5-4822-9812-B9AD2C131A7A</p>
 </div>
@@ -11553,7 +11884,7 @@ $14$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11615,7 +11946,7 @@ $6c - 3d$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>85473E1B-41B4-4C2F-8183-407C3B81B2F5</p>
 </div>
@@ -11671,7 +12002,7 @@ $-1$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11734,7 +12065,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
@@ -11801,7 +12132,7 @@ $900$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11928,7 +12259,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ED008E3F-8F7E-4C9F-9A58-76EFAE55003D</p>
 </div>
@@ -11987,7 +12318,7 @@ $70$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -12045,145 +12376,6 @@ $3d + 9e$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
-<div class='uuid'>
-<p>8F7E2B54-63AD-42F0-AD22-0B1036DA619C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$C = 5W + 10A$
-
-Work out the value of $C$ when $W = 3$ and $A = -1$
-
-- $14$
-- $45$
-- $5$
-- $25$
-- $17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-C &=  5W +10A \\\\
-  &=  5(3) + 10(-1) \\\\
-  &=  15 - 10 \\\\
-  &=  5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Think of two integers that have a product of $18$ and a difference 
-that is the same as one of the two integers that you are thinking of. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the two numbers $= a$ and $b$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times b            &= 18 \\\\
-a - b                 &= b \\\\
-a                     &= 2 \times b \\\\
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable.
-
-Substuting the value of $a$ from second equation to first equation.
-
-$
-\begin{aligned}
-a \times b            &= 18 \\\\
-2 \times b \times b   &= 18 \\\\
-b ^ 2                 &= \dfrac {18} {2} \\\\
-b ^ 2                 &= \dfrac {2 \times 9} {2} \\\\
-b ^ 2                 &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
-b ^ 2                 &= 9 \\\\
-b                     &= 3
-\end{aligned}
-$
-
-Substuting the value of $b$ in second equation.
-
-$
-\begin{aligned}
-a - b &= b \\\\
-a - 3 &= 3 \\\\
-a     &= 6 \\\\
-\end{aligned}
-$
-
-The two integers are $3 \ \text{and} 6$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{and} 6$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
 </div>
 </div>
 </li>

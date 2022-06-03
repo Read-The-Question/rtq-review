@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>89D18FC6-BE95-4CA5-836B-BE1241D11320</p>
 </div>
@@ -55,7 +55,7 @@ $111$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -107,7 +107,7 @@ $291$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>AAE2F337-A772-4D21-9788-CB30BA238CE2</p>
 </div>
@@ -155,7 +155,7 @@ $20.14$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1232,7 +1232,7 @@ $\text{Smallest} = 2002$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F7CB4C96-99C6-4696-913C-ACB1B87877A1</p>
 </div>
@@ -1285,7 +1285,7 @@ $\pounds 3.28$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

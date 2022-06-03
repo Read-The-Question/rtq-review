@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -566,7 +566,7 @@ $30 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2FA424AE-D274-4664-A786-BD0EEF973FF7</p>
 </div>
@@ -687,12 +687,12 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1540DF4F-AD9B-49DE-8233-4569D99EFC30</p>
 </div>
@@ -949,12 +949,12 @@ $13, 21$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D1EFB235-0632-4659-A133-C69D93EDD053</p>
 </div>
@@ -1094,12 +1094,12 @@ $15, -7$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>23FE15B1-A302-404D-8391-BAB850364409</p>
 </div>
@@ -1196,12 +1196,12 @@ $\text {Hexagon}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EEAB5168-31BA-48D5-BCC1-246B7057116F</p>
 </div>
@@ -1257,12 +1257,12 @@ $\text {South}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A068EE90-357B-4E72-854F-DF950A5D447E</p>
 </div>
@@ -1397,12 +1397,12 @@ $\text {Ford}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>74C05D8E-262C-47B1-ABB4-5F06E493406E</p>
 </div>
@@ -1548,12 +1548,12 @@ $3 \ \text {people}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A90C3F95-34BB-4A90-BE07-EC587A05E006</p>
 </div>
@@ -1695,12 +1695,12 @@ $\dfrac {3} {8}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
 </div>
@@ -1751,12 +1751,12 @@ $230$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6D141501-2A64-4588-AEC5-440D97E09546</p>
 </div>
@@ -1879,12 +1879,12 @@ $45.2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BF99E4BE-33D1-4EE9-8B7C-332C77ED0B1E</p>
 </div>
@@ -1926,7 +1926,7 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2039,7 +2039,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>432CB436-BF77-496F-A6D6-C553A73CC616</p>
 </div>
@@ -2084,7 +2084,7 @@ $1.8 \ \text {m}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2154,20 +2154,14 @@ $\pounds 0.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -2321,7 +2315,7 @@ $53$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

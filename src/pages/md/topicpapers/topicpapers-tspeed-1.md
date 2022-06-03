@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "Topicpapers Tspeed 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:58:44
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6</p>
 </div>
@@ -70,7 +70,7 @@ $9 \ \text{km}$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-notstarted"
 title: "Topic - Simpleword - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1717,6 +1717,57 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>1D21F79A-F78C-4B75-91BE-80C40DBD1C81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A farmer has $364$ ewes and each ewe has either one or two new born lambs. 
+If there are $468$ lambs in total, how many of the ewes have twin lambs?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
 </div>
 <div class='topics'>
@@ -3147,6 +3198,117 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
+
+Find an estimate for the number of words in the book.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It was reported recently that in an average lifetime of $70$ years, each
+human is likely to swallow about $8$ spiders while sleeping. Supposing
+that the population of UK is $60$ millions, what is the best
+estimate of number of spiders that are consumed in this way in the 
+UK each year?
+
+- $600000$
+- $7000000$
+- $80000000$
+- $900000000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -8248,6 +8410,176 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>5DA208F4-5CBC-4E32-9929-B96B5638168D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs King asked all the children in Year $6$ if they play tennis.
+
+This table shows some of the results.
+
+![missing table](/papers/missing_table.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many children are there in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the children who do not play tennis are in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>F7FBC2DE-C5BB-494E-9780-E9604EA75A45</p>
 </div>
 <div class='topics'>
@@ -9227,6 +9559,130 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.0008 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in mm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
+200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.008 \ \text{mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

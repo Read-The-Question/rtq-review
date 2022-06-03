@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-1"
 title: "Topicpapers Tsimpleword 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -337,7 +337,7 @@ $\pounds  90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>52852CBD-3F19-4E8F-9646-311ABBA46E71</p>
 </div>
@@ -449,7 +449,7 @@ $30$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1883,6 +1883,57 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1D21F79A-F78C-4B75-91BE-80C40DBD1C81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A farmer has $364$ ewes and each ewe has either one or two new born lambs. 
+If there are $468$ lambs in total, how many of the ewes have twin lambs?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>46664E26-E770-4B0F-B7E5-14B5277F63F5</p>
@@ -2073,7 +2124,7 @@ $80 \%$ of $20 \%$ of $200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
 </div>
@@ -2121,7 +2172,7 @@ $18$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2240,7 +2291,7 @@ tsimpleword
 tfraction
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4121,6 +4172,117 @@ $250 \text {g}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
+
+Find an estimate for the number of words in the book.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It was reported recently that in an average lifetime of $70$ years, each
+human is likely to swallow about $8$ spiders while sleeping. Supposing
+that the population of UK is $60$ millions, what is the best
+estimate of number of spiders that are consumed in this way in the 
+UK each year?
+
+- $600000$
+- $7000000$
+- $80000000$
+- $900000000$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
@@ -4584,7 +4746,111 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4D997794-FBCD-4D84-92CD-789B4D89EDE0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tom is $142 \ \text{cm}$ tall and Harry is $168 \ \text{cm}$ tall. 
+James is half way between Tom’s and Harry’s height. 
+Work out James’ height. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {James' height} &= \dfrac {\text {Tom's Height} + \text {Harry’s height}} {2} \\\\
+                      &= \dfrac {142 + 168} {2} \\\\
+                      &= \dfrac {310} {2} \\\\
+                      &= \dfrac {155 \times 2} {2} \\\\
+                      &= \dfrac {155 \times \cancel {2}} {\cancel {2}} \\\\
+                      &= 155 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$155 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
+What is their total mass, give your answer in grams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6233 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
 </div>
@@ -4766,7 +5032,7 @@ $15$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5265,6 +5531,123 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
+                                     &= 0.23 \ \text{m} \\\\
+                                     &= 0.23 \times 100 \ \text{cm} \\\\
+                                     &= 23 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
+                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
+                                       &= \dfrac {162} {3} \ \text{cm} \\\\
+                                       &= \dfrac {54 \times 3} {3} \\\\
+                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
+                                       &= 54 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -7829,7 +8212,7 @@ $65 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
 </div>
@@ -7872,12 +8255,12 @@ $1596 \ \text{cm}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
 </div>
@@ -7928,12 +8311,12 @@ $1325$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
@@ -8059,7 +8442,7 @@ $12$ Boxes
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8274,7 +8657,7 @@ $75 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C</p>
 </div>
@@ -8326,12 +8709,12 @@ $\pounds 40.8$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
@@ -8455,12 +8838,12 @@ $1120$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C4D8FFF9-4461-4B89-8BE3-4C402598EB60</p>
 </div>
@@ -8577,7 +8960,7 @@ $\pounds 1879.20$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8877,7 +9260,7 @@ $104$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
 </div>
@@ -8928,12 +9311,12 @@ $230$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9F713E0D-70F0-4FA4-ABD0-C1978385B4BD</p>
 </div>
@@ -8985,7 +9368,7 @@ $220$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9273,7 +9656,7 @@ $96 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
 </div>
@@ -9317,12 +9700,12 @@ $8.85 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
 </div>
@@ -9372,12 +9755,12 @@ $60 \ \text{cm}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>69A4F37D-67F6-4431-A926-35B71140C637</p>
 </div>
@@ -9495,12 +9878,12 @@ $\dfrac{1}{3}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
 </div>
@@ -9546,12 +9929,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F6E175B5-9571-4201-8E17-818A77EA6BAE</p>
 </div>
@@ -9604,7 +9987,7 @@ $\dfrac{13}{20}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9663,7 +10046,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
 </div>
@@ -9709,7 +10092,7 @@ $33.6 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9906,7 +10289,7 @@ $\pounds 46200$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
 </div>
@@ -9969,7 +10352,7 @@ $70 \ \text{hours}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10023,7 +10406,7 @@ $\pounds 92320$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -10173,7 +10556,7 @@ $50 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10278,487 +10661,6 @@ $\dfrac {5} {8}$
 
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C56A7779-1D7A-41C9-B595-405FF4558BAF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A website advertises that, as a special offer, a new mobile phone game 
-will cost $40 \%$ less to download next week.
-
-If the game costs $80 \text{p}$ this week, how much will it cost next week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D9F5E368-303E-4350-B374-E1004752976E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
-How much does she pay in a month when she makes $50$ calls?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>60E0362E-0258-4F35-9B2E-5F0FF2790CB2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $24$ children in Alfie's class. Five eighths of the class have school lunch. How many children have school lunch?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Number of children that have school lunch} &= \dfrac {5} {8} \times 24 \\\\
-                                                  &= \dfrac {5 \times 24} {8} \\\\
-                                                  &= \dfrac {5 \times 3 \times 8} {8} \\\\
-                                                  &= \dfrac {5 \times 3 \times \cancel {8}} {\cancel {8}} \\\\
-                                                  &= 5 \times 3 \\\\
-                                                  &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E26D2D6B-ACB1-4C71-A5ED-5943E6E1E1E1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A pizza is divided in $12$ equal slices. Matthew eats $\dfrac{1}{4}$ of 
-the pizza and Katie eats another $\dfrac{1}{6}$.
-
-How many slices are left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>80AB0CB7-73B5-452C-B469-18EFF7C7E6ED</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On Mark's plate, there are $36$ letters of Alphabet Spaghetti.
-
-He uses $7$ of these to spell $\text{TERRIER}$, and $5$ to spell $\text{HOUND}$.
-
-He eats the remaining letters.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of $36$ letters does Mark eat?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mark has now the words $\text{TERRIER}$ and $\text{HOUND}$ on his plate.
-
-What percentage of the letters now on Mark's plate can be found in the word $\text{ALSATIAN}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Penny places $10 \text{p}$ coins, touching, in a straight line.
-
-She hopes to make a line of coins that measures $1 \ \text{km}$.
-
-A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long, in metres, is a line of forty $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 40 \times 25 \ \text {mm} \\\\
-&= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
-&= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
-&= \dfrac {40 \times 25} {40 \times 25} \\\\
-&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
-&= 1 \ \text {m}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \text {m}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total value, in pounds, of forty $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 40 \times 10 \ \text {p} \\\\
-&= 40 \times \pounds \dfrac {10} {100} \\\\
-&= \dfrac {40 \times 10} {100} \\\\
-&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-&= \pounds 4
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
-                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
-                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
-                        &= \dfrac {40000 \times 25} {25} \\\\
-                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
-                        &= 40000
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
-                        &= 40000 \times 10 \ \text {p} \\\\
-                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
-                        &= \dfrac {40000 \times 10} {100} \\\\
-                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-                        &= \pounds 4000
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4000$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

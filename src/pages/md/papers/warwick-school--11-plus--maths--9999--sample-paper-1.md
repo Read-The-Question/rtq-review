@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -19,9 +19,6 @@ date: 2022-06-02 11:49:14
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1025,18 +1022,12 @@ $7.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>
@@ -1223,7 +1214,7 @@ $64$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1298,7 +1289,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>75A55853-F6F6-49CC-BDCE-31C9343FD3FB</p>
 </div>
@@ -1356,7 +1347,7 @@ $8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} 
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1413,7 +1404,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -1458,7 +1449,7 @@ $-9 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1590,7 +1581,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
@@ -1641,7 +1632,7 @@ $17$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2731,9 +2722,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -3147,16 +3135,7 @@ $80m + 15t$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>

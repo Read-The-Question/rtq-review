@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>20771CCA-989E-4BE2-A656-7926FDD86207</p>
 </div>
@@ -55,7 +55,7 @@ $125$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -202,7 +202,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CEFEC184-01C9-49CB-9761-F2A3E70E6B6F</p>
 </div>
@@ -274,7 +274,7 @@ $6$ and $8$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2991,13 +2991,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmap
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>

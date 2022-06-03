@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EB1BCDF6-8704-4D26-A7B7-AC326F7CAE4A</p>
 </div>
@@ -55,7 +55,7 @@ $6579$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -496,7 +496,7 @@ $370$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
 </div>
@@ -570,7 +570,7 @@ $3 \ \text{and} 6$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -712,7 +712,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
@@ -864,12 +864,12 @@ $28$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -918,12 +918,12 @@ $1 \ \text{and} 8$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>
@@ -969,7 +969,7 @@ $9$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2110,7 +2110,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
@@ -2232,7 +2232,7 @@ $30 \degree$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

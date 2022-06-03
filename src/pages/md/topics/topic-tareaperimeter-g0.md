@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-g0"
 title: "Topic - Areaperimeter - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1951,12 +1951,6 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <ul>
 <li>
 tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -6649,7 +6643,7 @@ tgeometry
 tareaperimeter
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -351,7 +351,7 @@ $\text{D}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2960FFC6-FBA2-447C-BF04-E3648C9CB1C2</p>
 </div>
@@ -404,7 +404,7 @@ $14 \ \text {years}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -541,7 +541,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
 </div>
@@ -589,12 +589,12 @@ $3 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -652,20 +652,17 @@ $30 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -809,12 +806,12 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
@@ -860,7 +857,7 @@ $149.5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

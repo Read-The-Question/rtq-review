@@ -1,56 +1,9 @@
 ---
 slug: "reviewers/reviewer-bs-g0"
 title: "Reviewer - Banoth Sairam - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>28D1744E-7E31-44A3-B3C8-E75D18551420</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $186 + 375$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       1       & 8     & 6  \\
-{}+ &       3       & 7     & 5 \\
-\hline
-    &       5       & 6     & 1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$561$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -1608,53 +1561,6 @@ $300407$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $569 + 372$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       5       & 6     & 9  \\
-{}+ &       3       & 7     & 2 \\
-\hline
-    &       9       & 4     & 1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$941$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
 </div>
 <div class='topics'>
@@ -2391,53 +2297,6 @@ $24 \text{p}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $983 + 254$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       9       & 8     & 3  \\
-{}+ &       2       & 5     & 4 \\
-\hline
- 1  &       2       & 3     & 7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1237$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

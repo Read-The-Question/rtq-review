@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "Topicpapers Talgebra 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -464,7 +464,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>56B40B8C-468B-4A69-83E1-B687C31C142F</p>
 </div>
@@ -592,12 +592,12 @@ $8$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>22F0FDBD-7B8F-4F90-BEAA-B0ED0DAC72C3</p>
 </div>
@@ -672,12 +672,12 @@ $275 \ \text{grams}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8A0C2CE0-A552-4D9F-9814-2BDDBDFF39A7</p>
 </div>
@@ -739,12 +739,12 @@ $8$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7125F2EC-250C-48A5-96EC-68872015C687</p>
 </div>
@@ -800,12 +800,12 @@ $25$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1622DD6F-538D-47B0-8E04-EE946A7719E6</p>
 </div>
@@ -897,7 +897,7 @@ Banana $= 50 \ \text{pence}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2049,7 +2049,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
 </div>
@@ -2094,7 +2094,7 @@ $8 \ \text {pieces}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2149,7 +2149,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
 </div>
@@ -2205,7 +2205,62 @@ $3 \ \text{cm}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>25AE63AD-E6BE-469D-8815-36F8E101C78C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in this number sentence? 
+
+$3.6 \times {?} = 1.8 \times 7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3.6 \times a    &= 1.8 \times 7  \\\\
+a               &= \dfrac {1.8 \times 7} {3.6} \\\\
+a               &= \dfrac {1.8 \times 7} {1.8 \times 2} \\\\
+a               &= \dfrac {\cancel {1.8} \times 7} {\cancel {1.8} \times 2} \\\\
+a               &= \dfrac {7} {2} \\\\
+a               &= 3.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -2269,7 +2324,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>734F4C9F-BA17-40EC-BE44-F910FF8517D0</p>
 </div>
@@ -2421,7 +2476,7 @@ $y = x ^ 2$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:15</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6506,7 +6561,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
 </div>
@@ -6546,7 +6601,7 @@ $1$ January
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7030,7 +7085,7 @@ $\pounds 1158$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
 </div>
@@ -7091,7 +7146,137 @@ $4$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AE6CEC73-FE89-4273-AA3F-B0F177F3971A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\text{Body Mass Index (BMI)} =
+\dfrac { \text {Mass in kg} } { \text{(Height in m)} ^ 2 }
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the mass of Patrick who has a height of $1.5 \ \text{m}$ and a BMI of $20$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the BMI of Bess who is $1.2 \ \text{m}$ tall and has a mass of $36 \ \text{kg}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -8321,7 +8506,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
 </div>
@@ -8382,12 +8567,12 @@ $39$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
 </div>
@@ -8560,7 +8745,7 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11354,121 +11539,6 @@ $\pounds 1.80$
 </ul>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>037A493D-C297-430E-AC77-1E4B3884FF9F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mayank thinks of a number. He doubles it and then adds $4$ and gets the answer $40$.
-
-What was Mayank’s number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$.
-
-As per question,
-
-$
-\begin{aligned}
-2 \times a + 4 &= 40 \\\\
-2a + 4         &= 40 \\\\
-2a             &= 40 - 4 \\\\
-2a             &= 36 \\\\
-a              &= \dfrac {36} {2} \\\\
-a              &= \dfrac {2 \times 18} {2} \\\\
-a              &= \dfrac {\cancel {2} \times 18} {\cancel {2}} \\\\
-a              &= 18
-\end{aligned}
-$
-
-Mayank's number $= 18$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>ADFEF3A0-ABF3-4ECF-A966-92F60CDB23AD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Hiring a Sports Hall costs a $\pounds 30$ booking fee and then $\pounds 10$ per hour.
-
-Chris hires it and pays $\pounds 120$.
-
-How many hours did Chris hire the hall for? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
-                                    &= \dfrac {90} {10} \\\\
-                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
-                                    &= 9 \ \text {hours}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \ \text {hours}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

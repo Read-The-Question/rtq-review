@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-all"
 title: "Topic - Fraction - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -289,7 +289,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
 </div>
@@ -333,12 +333,12 @@ $\dfrac {1} {2}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A1071962-E86A-4F64-8561-62B747B80144</p>
 </div>
@@ -455,7 +455,7 @@ $400$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1875,6 +1875,59 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On consecutive days you eat $\dfrac{1}{3}$ and $\dfrac{1}{6}$ of a lasagne. 
+
+What fraction of lasagne have you eaten?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of lasagne eaten} &= \dfrac {1} {3} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2} {6} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2 + 1} {6} \\\\
+                                 &= \dfrac {3} {6} \\\\
+                                 &= \dfrac {3} {3 \times 2} \\\\
+                                 &= \dfrac {\cancel {3}} {\cancel {3} \times 2} \\\\
+                                 &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8</p>
@@ -1882,16 +1935,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfraction
-</li>
-<li>
-tnumber
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -2394,9 +2438,6 @@ TODOANSWER
 <li>
 tfraction
 </li>
-<li>
-tnumber
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -2661,7 +2702,7 @@ tsimpleword
 tfraction
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -11653,7 +11694,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -11711,7 +11752,7 @@ $\dfrac {4} {9}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -11819,7 +11860,7 @@ $\dfrac {7} {8} \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4</p>
 </div>
@@ -11929,7 +11970,7 @@ $\dfrac {3} {7}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14007,7 +14048,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4A5640EB-A71C-4E96-8720-171B2B14F0CF</p>
 </div>
@@ -14114,12 +14155,12 @@ $1\dfrac{3}{4}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49</p>
 </div>
@@ -14230,12 +14271,12 @@ $\dfrac{3}{25}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BFFF5136-E83F-4F59-9134-E57C8DF43C60</p>
 </div>
@@ -14381,12 +14422,12 @@ $\dfrac {7}{2}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
 </div>
@@ -14527,7 +14568,7 @@ $30$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14697,7 +14738,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
 </div>
@@ -14755,7 +14796,7 @@ $8, 27$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17156,7 +17197,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FE2AB576-06F8-49D8-AF99-928322211446</p>
 </div>
@@ -17201,7 +17242,7 @@ $18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17340,7 +17381,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9522968F-B7E8-4C32-825B-5E203AB0B7B4</p>
 </div>
@@ -17451,12 +17492,12 @@ $15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A</p>
 </div>
@@ -17509,7 +17550,7 @@ $0.4, \dfrac {3} {8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17720,7 +17761,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55EDBB73-0F13-4A5E-B7C4-543D1C506A2B</p>
 </div>
@@ -17765,7 +17806,7 @@ $30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17994,7 +18035,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>334659B0-F886-4B5E-B1FD-FF0FA7CB2959</p>
 </div>
@@ -18039,7 +18080,7 @@ $36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -18273,270 +18314,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>73AA9A64-5FED-4291-AC0E-CC8491EFC073</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Carls has some coloured plastic tiles.
-
-Her tiles are in the shape of square, circle, star or triangle and are either black, grey or white.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the table to show all of the possible different types of tiles.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Carla has each type of tile in small and large size.
-
-She has $24$ tiles altogether. 
-
-What fraction of the tiles are black?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many of the tiles are in the shape of a star?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Below are three of her tiles.
-
-![missing image](/papers/missing_image.svg)
-
-
-The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
-
-Describe a tile which differs from the small white triangle in $1$ way.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many tiles differ from a large grey star in $3$ ways?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EA1B0CA0-D56A-4468-B448-41B64C640240</p>
 </div>
@@ -18581,7 +18359,7 @@ $54$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -18985,7 +18763,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>18DB7E66-9E11-40BF-A69B-1B5CDE9C342B</p>
 </div>
@@ -19030,12 +18808,12 @@ $72$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4CEC48DA-9BE7-4FD2-A909-5FABF34F36B2</p>
 </div>
@@ -19073,7 +18851,7 @@ $\dfrac{5} {8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20567,7 +20345,7 @@ $\text{D}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
@@ -20613,7 +20391,7 @@ $149.5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20733,7 +20511,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0116AD01-1516-4A9D-AD3F-738ECA82148C</p>
 </div>
@@ -20843,12 +20621,65 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6975D4C4-7A3B-4AE4-968A-13F66593DA85</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the shape shown has been shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
 </div>
@@ -20891,7 +20722,7 @@ $504$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "Topicpapers Tfraction 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -299,7 +299,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
 </div>
@@ -343,12 +343,12 @@ $\dfrac {1} {2}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A1071962-E86A-4F64-8561-62B747B80144</p>
 </div>
@@ -465,7 +465,7 @@ $400$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1887,6 +1887,305 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On consecutive days you eat $\dfrac{1}{3}$ and $\dfrac{1}{6}$ of a lasagne. 
+
+What fraction of lasagne have you eaten?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of lasagne eaten} &= \dfrac {1} {3} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2} {6} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2 + 1} {6} \\\\
+                                 &= \dfrac {3} {6} \\\\
+                                 &= \dfrac {3} {3 \times 2} \\\\
+                                 &= \dfrac {\cancel {3}} {\cancel {3} \times 2} \\\\
+                                 &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the following diagram.
+
+![missing image](/papers/missing_image.svg)
+
+
+What fraction of the outer square is represented by
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$A$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$A + B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$C$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$D$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$B + F + E + D$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
 </div>
 <div class='topics'>
@@ -2103,9 +2402,6 @@ $1,6,21,20$
 <ul>
 <li>
 tfraction
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -10700,167 +10996,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {2} {5} \text{ of } \pounds 2.50$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
-&= \dfrac {2} {5} \times 2.50 \\\\
-&= \dfrac {2 \times 2.50} {5} \\\\
-&= \dfrac {5} {5} \\\\
-&= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {3} {7} \text{ of }  35$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {7} \text { of } \pounds{35} \\\\
-&= \dfrac {3} {7} \times 35 \\\\
-&= \dfrac {3 \times 35} {7} \\\\
-&= \dfrac {3 \times 7 \times 5} {7} \\\\
-&= \dfrac {3 \times \cancel{7} \times 5} {\cancel{7}} \\\\
-&= 5 \times 3 \\\\
-&= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>237A2594-E539-4227-8976-A91F96C1B86B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate $\dfrac {3} {4} \times \dfrac {5} {7}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {4} \times \dfrac {5} {7} \\\\
-&= \dfrac {3 \times 5} {4 \times 7} \\\\
-&= \dfrac {15} {28}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {15} {28}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -508,12 +508,6 @@ $\dfrac {7} {4}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -557,7 +551,7 @@ $-4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -601,7 +595,7 @@ $9{:}02 \ \text{am}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -788,7 +782,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CC4ECBFB-364D-4A69-8CEB-0E91E3B8E940</p>
 </div>
@@ -907,7 +901,7 @@ $105 \ \text{cm}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1098,7 +1092,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ED1078E-E436-4DB2-A728-C73E012861C2</p>
 </div>
@@ -1158,12 +1152,12 @@ $92 \ \text{m}^{2}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84C4F75A-1071-4AE8-8252-CDE115D02C03</p>
 </div>
@@ -1222,7 +1216,7 @@ $\pounds 32$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1395,7 +1389,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -1443,7 +1437,7 @@ $23$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

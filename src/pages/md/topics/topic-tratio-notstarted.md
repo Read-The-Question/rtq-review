@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-notstarted"
 title: "Topic - Ratio - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2727,16 +2727,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tratio
-</li>
-<li>
-tnumber
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>

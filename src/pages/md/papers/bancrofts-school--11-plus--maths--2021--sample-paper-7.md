@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -19,9 +19,6 @@ date: 2022-06-02 11:49:14
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -280,7 +277,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>98B67EA5-259E-41C7-A446-B2144A3E0059</p>
 </div>
@@ -322,7 +319,7 @@ $6363$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -481,10 +478,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+ttime
 </li>
 <li>
-tnumber
+tpercentage
 </li>
 </ul>
 </div>
@@ -657,10 +654,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tfraction
 </li>
 </ul>
 </div>
@@ -712,9 +706,6 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1090,10 +1081,7 @@ $40 \%$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3006,9 +2994,6 @@ $54 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -3407,7 +3392,7 @@ TODOANSWER
 tgraph
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>

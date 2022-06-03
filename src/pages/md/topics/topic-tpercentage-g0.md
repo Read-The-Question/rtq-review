@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpercentage-g0"
 title: "Topic - Percentage - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3212,9 +3212,6 @@ $\text{Both are equal}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>

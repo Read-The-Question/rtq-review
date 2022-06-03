@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -574,13 +574,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -635,13 +629,7 @@ $1 + 2 \times 3 \times 4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>

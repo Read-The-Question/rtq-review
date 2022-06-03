@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-2"
 title: "Topicpapers Ttime 2"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,63 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many seconds are there in a day?
+
+
+- $3600$
+- $1400$
+- $1440$
+- $51{,}840$
+- $86{,}400$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{One minute has} &= 60 \ \text{seconds} \\\\
+\text{One hour has} &= 60 \ \text{minutes} \\\\
+\text{one day has } &= 24 \ \text{hours} \\\\
+\text{Thus,} \ \ 80  \ \text{x}  \ \ 60  \ \text{x} \ \ 24 &= 86{,}400  \ \text{seconds in a day.}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$86{,}400$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
@@ -73,7 +130,7 @@ $54 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>19C4B959-6C02-4D22-B36F-6E0A58FE85F7</p>
 </div>
@@ -129,7 +186,7 @@ $8{:}17 \ \text{am}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3168,7 +3225,7 @@ $\text{Wednesday}, \ 2{:}00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ECD1434-C766-49F8-BD0F-76B2F1255AD9</p>
 </div>
@@ -3279,7 +3336,7 @@ $17 {:} 10$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3510,7 +3567,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
 </div>
@@ -3556,7 +3613,7 @@ $5 {:} 33 \ \text {p.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4135,7 +4192,146 @@ $10{:}40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E84BF85C-48BC-4E0C-A5DA-4E46BD9E6E07</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Assuming that no time is added to the journey when a train passes through a station, 
+work out the route that takes the shortest time to travel from $A$ to $G$.
+
+You should list the stations in order.
+
+Your route **does not** need to pass through every station.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In reality, passing through a station adds $4 \ \text{minutes}$ to the overall journey time.
+
+Using this information, work out the shortest time taken to travel by train from $A$ to $G$.
+
+Your route **does not** need to pass through every station.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>43446268-ADB0-4C0A-8C8B-BD6F377D2D08</p>
 </div>
@@ -4180,7 +4376,7 @@ $8 {:} 40 \ \text {a.m.}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

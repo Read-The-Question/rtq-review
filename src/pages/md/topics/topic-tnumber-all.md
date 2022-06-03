@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnumber-all"
 title: "Topic - Number - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -676,7 +676,7 @@ $7995$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1E1E3C24-E217-4436-B14E-CD45334DCEFD</p>
 </div>
@@ -828,12 +828,12 @@ $11$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B95E3D46-C66C-4790-BB1A-39E891ABEB53</p>
 </div>
@@ -985,12 +985,12 @@ $0.4$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9D00B94C-D684-45CF-951A-E345FEB99DD2</p>
 </div>
@@ -1047,7 +1047,7 @@ Test $1$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2025,7 +2025,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
 </div>
@@ -2078,12 +2078,12 @@ $-16$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
 </div>
@@ -2118,7 +2118,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2552,12 +2552,6 @@ $11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -2566,141 +2560,6 @@ tnumber
 
 I am thinking of a two-digit number that is a multiple of seven. 
 The digits add up to $10$. What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>25AE63AD-E6BE-469D-8815-36F8E101C78C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the missing number in this number sentence? 
-
-$3.6 \times {?} = 1.8 \times 7$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-3.6 \times a    &= 1.8 \times 7  \\\\
-a               &= \dfrac {1.8 \times 7} {3.6} \\\\
-a               &= \dfrac {1.8 \times 7} {1.8 \times 2} \\\\
-a               &= \dfrac {\cancel {1.8} \times 7} {\cancel {1.8} \times 2} \\\\
-a               &= \dfrac {7} {2} \\\\
-a               &= 3.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>049EB50A-F271-4BDA-9E86-6E06689C682E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On each spinner **write five numbers** to make the statements correct.
-
-It is **certain** that you will get a number **less than 6**.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **more likely** that you will get an **even** number than an **odd** number.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **impossible** that you will get a multiple of **3**.
-
-![missing image](/papers/missing_image.svg)
- 
 
 </div>
 <div class='workings'>
@@ -3255,7 +3114,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5CC2AA10-9BD1-4023-B610-74254B953442</p>
 </div>
@@ -3378,7 +3237,7 @@ $0.575$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3966,9 +3825,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -4019,15 +3875,12 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9AC6D4DA-C715-4090-AB5C-CE3B73B57508</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -4071,7 +3924,7 @@ Five Tenths
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4082,9 +3935,6 @@ Five Tenths
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -4447,72 +4297,12 @@ $59757$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The jug contains some orange squash. 
-How much water must be added to make $500 \ \text{millilitres}$ of drink?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text{Water required}                         &= 500 \ \text{ml} - 140 \ \text{ml} \\\\
-                                              &= 360 \ \text{ml}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \ \text{ml}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>4D98BB16-356B-4F86-BB81-8AC056B29F2C</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -5207,69 +4997,10 @@ $1778$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>1C408E70-1672-4B43-A64A-51EFD6977DC0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add the number of sides of a decagon to the number of 
-sides of a pentagon, then multiply by the number of faces of a cuboid. 
-
-What is your answer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>E7F0E6FE-6F7C-4468-8102-A18F8C731FE4</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -5434,64 +5165,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0EECF7A5-9141-40B4-9FF1-7DC9F43A7624</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes $9 \ \text{litres}$ of paint to cover the surface of the cube on the left.
-
-![missing image](/papers/missing_image.svg)
-
-
-How many litres of paint would it take to cover the surface of the shape on the right?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
 </div>
@@ -6739,9 +6412,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -6983,9 +6653,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -7157,191 +6824,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>ACECAC96-3DA3-4E0D-8F73-BF702F6FED1E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$64$ players enter a tennis tournament.
-
-Each player plays another player in the first round and the 
-winner of each match progresses to the second round.
-
-Then each player in the second round plays another player 
-who progressed to the second round and the winner of that match progresses to the third round.
-
-And so on, until the final, where one player wins the whole tournament.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many matches does the winner of the entire tournament play?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many matches in total are played in the entire tournament?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using your answer to b), or otherwise, guess the value of:
-
-$1 + 2 + 4 + 8 + \ldots + 1024$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>17B6FA60-5A61-4A37-9F7F-C2A480CB87D5</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -7546,9 +7032,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -7807,247 +7290,12 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A bus holds $12$ people.
-
-How many buses are needed to transport $175$ students to the athletics stadium?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Mark goes to school from Monday to Friday, but he has trouble getting out 
-of bed and arrives late if there is an **‘s’** in the name of the day. 
-
-During the $12$ weeks of term, how many days did he arrive late?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Cormac leaves the house with $\pounds 120$ in his wallet after his birthday.
-
-He spends $25 \%$ of it on a game for his Xbox, and $10 \%$ of the rest on a DVD. 
-How much money does he have left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On consecutive days you eat $\dfrac{1}{3}$ and $\dfrac{1}{6}$ of a lasagne. 
-
-What fraction of lasagne have you eaten?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Fraction of lasagne eaten} &= \dfrac {1} {3} + \dfrac {1} {6} \\\\
-                                 &= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
-                                 &= \dfrac {2} {6} + \dfrac {1} {6} \\\\
-                                 &= \dfrac {2 + 1} {6} \\\\
-                                 &= \dfrac {3} {6} \\\\
-                                 &= \dfrac {3} {3 \times 2} \\\\
-                                 &= \dfrac {\cancel {3}} {\cancel {3} \times 2} \\\\
-                                 &= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>6DBA5D0F-DF7B-4941-B9B6-1CC9AB736128</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -8184,60 +7432,6 @@ $19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1D21F79A-F78C-4B75-91BE-80C40DBD1C81</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A farmer has $364$ ewes and each ewe has either one or two new born lambs. 
-If there are $468$ lambs in total, how many of the ewes have twin lambs?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>50E04B0C-8A1F-40C0-AACC-F803CBD9A220</p>
@@ -8349,9 +7543,6 @@ $8.3$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -8504,9 +7695,6 @@ $2450$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -8703,9 +7891,6 @@ $2204$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -8892,9 +8077,6 @@ $50706$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -9426,9 +8608,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -9598,9 +8777,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -9648,268 +8824,10 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>3DE28E4D-6D04-4A4D-B6D0-71A97EB063F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the following diagram.
-
-![missing image](/papers/missing_image.svg)
-
-
-What fraction of the outer square is represented by
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$A$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$A + B$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$C$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$D$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$B + F + E + D$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>7E48092E-9B25-41AB-A78A-FEBF5BEA515A</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -10184,190 +9102,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>CD78B853-B17C-4750-B393-54B43D8568A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the factors of $36$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of 36 $= 1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 9, 12, 18, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the Highest Common Factor of $36$ and $60$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Factors of } 36                                      &= 1, 2, 3, 4, 6, 9, \bold {12}, 18, 36 \\\\
-\text {Factors of } 60                                      &=  1, 2, 3, 4, 5, 6, 10, \bold {12}, 15, 20, 30, 60
-\end{aligned}
-$
-
-The Highest Common Factor of $36$ and $60 = 12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the factors of $36$ are square numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-4   &= 2^2 \\\\
-9   &= 3^2 \\\\
-36  &= 6^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4, 9, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the factors of $36$ are prime?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2, 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2, 3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>B004FD47-3C02-4E91-9E92-3ABF37CC8EBE</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>
@@ -11245,161 +9985,6 @@ $\dfrac {9} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You are given two numbers $0.35$ and $\dfrac{5}{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Convert $0.35$ into a fraction and simplify fully.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \\\\
-&= \dfrac {35} {100} \\\\
-&= \dfrac {7 \times 5} {20 \times 5} \\\\
-&= \dfrac {7 \times \cancel{5}} {20 \times \cancel{5}} \\\\
-&= \dfrac {7} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the sum of these two numbers, write the answer as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 + \dfrac {5} {8} \\\\
-&= \dfrac {7} {20} + \dfrac {5} {8} \\\\
-&= \dfrac {7 \times 2} {20 \times 2} + \dfrac {5 \times 5} {8 \times 5} \\\\
-&= \dfrac {14} {40} + \dfrac {25} {40} \\\\
-&= \dfrac {14 + 25} {40} \\\\
-&= \dfrac {39} {40} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {39} {40}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the product of these two numbers, write the answer as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.35 \times \dfrac {5} {8} \\\\
-&= \dfrac {7} {20} \times \dfrac {5} {8}                               \\\\
-&= \dfrac {7 \times 5} {20 \times 8}                                   \\\\
-&= \dfrac {7 \times 5} {5 \times 4 \times 8}                           \\\\
-&= \dfrac {7 \times \cancel {5}} {\cancel{5} \times 4 \times 8}       \\\\
-&= \dfrac {7} {4 \times 8}                                             \\\\
-&= \dfrac {7} {32}      
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {32}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>07F66BDD-11AD-4F7C-A1B2-5AAF79C9F61C</p>
@@ -12058,9 +10643,6 @@ $67737$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -12415,9 +10997,6 @@ $29, 31, 37$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -12561,9 +11140,6 @@ $27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -13629,9 +12205,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -14497,6 +13070,337 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2CE70451-4F92-4D9E-A6C6-97D5F69F38A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\huge{\bold{20, 21, 22, 23, 24, 25, 26, 27, 28,}}$ 
+
+Write one number from $20$ to $30$ that satisfies the descriptions below. Some numbers are used more than once. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Prime}?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Cube\:\: numbers}?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Square\:\: numbers}?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Fibonacci\:\: numbers}$?
+
+*The Fibonacci numbers follow the sequence 1, 1, 2, 3, 5, 8, 13...*
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Triangular\:\: numbers}?$
+
+*The triangular numbers follow the sequence 1, 3, 6, 10, 15,* ...
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Perfect\:\: numbers}?$
+
+A perfect number is a number whose factors (not including itself) add up to itself. 
+
+e.g. $6$ is a perfect number because $1 + 2 + 3 = 6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\underline{Powerful\:\: numbers}?$
+
+A powerful number has the property that for **every** prime number which divides into it, that **prime** number squared also divides into it.
+
+e.g. $16$ is a powerful number because both $2$ and $2^2$ are factors.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>6C7BE121-B86D-4FE7-A747-6364A8DD4633</p>
@@ -14827,9 +13731,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -15745,9 +14646,6 @@ $656$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -18154,9 +17052,6 @@ $143$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -21406,12 +20301,6 @@ $1.5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -21629,9 +20518,6 @@ $12.5 \%$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -22460,135 +21346,6 @@ $
 <div class='answer'>
 
 $0.7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a formula for the perimeter of the rectangle in terms of $w$
-and $h$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Perimeter of rectangle $=$ Sum of all sides of the rectangle
-
-$
-\begin{aligned}
-&= \text {h} + \text {w} + \text {h} + \text {w} \\\\
-&= 2 \text {h} + 2 \text {w} \\\\
-&= 2 (h + w) \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 (h + w)$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The area of the rectangle is $55 \ \text{cm}^2$ and both $w$ and $h$ are prime numbers.
-
-Calculate the perimeter of the rectangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $55 = 1, 5, 11, 55$
-
-$5$ and $11$ are prime numbers.
-
-Perimeter $= 2 \text{(height + width)}$
-
-$
-\begin {aligned}
-&= 2 \times (5 + 11) \\\\
-&= 2 \times 16 \\\\
-&= 32 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text {cm}$
 
 </div>
 </div>
@@ -23591,6 +22348,156 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>112E261B-4D99-4504-9B6C-5D5677C8F0D7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The example below shows a quick way to work out the difference between two square numbers.
+
+$19^2 - 16^2 = (19 + 16)(19 - 16) = 35 \times 3 = 105$
+
+Use this method to work out the following:  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$17^2 - 13^2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 17^2 - 13^2 \\\\
+&= (17 + 13) (17 - 13) \\\\
+&= 30 \times 4 \\\\
+&= 120
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$888^2 - 112^2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 888^2 - 112^2 \\\\
+&= (888 + 112) (888 - 112) \\\\
+&= 1000 \times 776 \\\\
+&= 776000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$76000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7.5^2 - 2.5^2$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7.5^2 - 2.5^2 \\\\
+&= (7.5 + 2.5) (7.5 - 2.5) \\\\
+&= 10 \times 5 \\\\
+&= 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>E3A87F3C-A2D9-4B78-8A0C-120D166FD8A7</p>
@@ -24552,12 +23459,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -24786,9 +23687,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -24962,80 +23860,6 @@ $(22 - 10 + 8) \div 4$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah has theses digits cards:
-
-$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
-
-She makes a $2$-digit number and $1$-digit number using all the cards.
-She multiplies them together.
-Her answer is the multiple of $3$.
-
-Which of the following could NOT be a possible answer?
-
--  $25 \times 4$
--  $42 \times 5$
--  $54 \times 2$
--  $24 \times 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
-
-| Number    |         Sum                                           | Divisible $3$
-|:------:   |:----------------------------------------------------: | :-----:
-|  $25$     | $2 + 5 = \green{7}$                                   |  No
-|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
-|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
-|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
-
-The answer that could not be possible $= 25 \times 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$25 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
 </div>
 <div class='topics'>
@@ -25190,9 +24014,6 @@ $15$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -25247,64 +24068,6 @@ $6$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
-
-Find an estimate for the number of words in the book.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -25782,132 +24545,6 @@ $1999$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>601C328B-929D-4CC4-9443-D89375DA371E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of this calculation produces a multiple of $5$?
-
-- $1 + 2 \times 3 + 4$
-- $1 \times 2 + 3 \times 4$
-- $1 + 2 \times 3 \times 4$
-- $1 \times 2 \times 3 \times 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&\text {a.} \quad   1 + 2 \times 3 + 4 &= 11 \not = {\text{multiple of}} \ 5 \\\\
-&\text {b.} \quad   1 \times 2 + 3 \times 4 &= 14 \not = {\text{multiple of}} \ 5 \\\\
-&\text {c.} \quad   1 + 2 \times 3 \times 4 &= 25 = {\text{multiple of}} \ 5 \\\\
-&\text {d.} \quad   1 \times 2 \times 3 \times 4 &= 24 \not = {\text{multiple of}} \ 5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$1 + 2 \times 3 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It was reported recently that in an average lifetime of $70$ years, each
-human is likely to swallow about $8$ spiders while sleeping. Supposing
-that the population of UK is $60$ millions, what is the best
-estimate of number of spiders that are consumed in this way in the 
-UK each year?
-
-- $600000$
-- $7000000$
-- $80000000$
-- $900000000$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -27229,9 +25866,6 @@ $64 \ \text{and} \ 15625$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -27555,12 +26189,6 @@ $\dfrac {3} {5}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>
@@ -28217,12 +26845,6 @@ $0.142$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -28284,9 +26906,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>
@@ -28988,9 +27607,6 @@ $5600$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
 </li>
 <li>
@@ -29208,64 +27824,6 @@ tdate
 
 Ella noticed that the $5 \text{th October } 2015$ could be written $5{-}10{-}15$, with all numbers being a multiple of $5$.
 When is the next date **from today** ($23 \text{rd January } 2016$) which when written in this form also has all the numbers being a multiple of $5$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>FF3797DE-4165-44A2-8E20-D81444DC08F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Krishani draws a rectangle with area $12 \ \text{cm} ^ {2}$ and its sides are whole number lengths. Its perimeter is $14  \ \text{cm}$. 
-
-How long is the **longest** side?
 
 </div>
 <div class='workings'>
@@ -30741,289 +29299,6 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4D1AE0C9-6A34-43FA-8225-0C9B3B37F156</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the **smallest number** that has four different prime factors?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2 \times 3 \times 5 \times 7 = 210$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$210$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-<li>
-tnumber
-</li>
-<li>
-tlogic
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tanya mixes cranberry juice and lemonade to make a refreshing drink.
-She uses $3$ times more lemonade than cranberry juice to make the drink.
-
-Tanya uses $759 \ \text{ml}$ of lemonade.
-
-How much of the drink does she make?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A drink is made by mixing fruit juice with water.
-$39 \ \text{ml}$ of fruit juice is needed to make $600 \ \text{ml}$ of the drink.
-
-How much water is needed make $800 \ \text{ml}$ of the drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a maths test pupils have to answer all $20$ questions. $3$ marks are awarded for each correct answer, 
-but $1$ mark is subtracted for each incorrect answer.
-
-Bobby answers $4$ more questions correctly than Tim, and between them they score $48$ marks in total. 
-How many questions did Tim answer correctly?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the mathematics puzzles below, the numbers in the square boxes are found by multiplying the two numbers in the circles it is 
-joined to together.
-
-Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
- 
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>8FC6B80B-0784-4E21-8E3D-76A86D6208DB</p>
@@ -31312,181 +29587,6 @@ TODOANSWER
 <div class='question subquestion'>
 
 Pauline wants to make $10$ Chocolate Brownies, how much sugar will she need? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>3B271B17-398B-42AD-B541-3F80801397B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a survey, $1000$ people were asked if they owned a 
-computer. The pictogram shows the results of the survey. 
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In which country did the greatest number of people own a computer?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the number of people in Italy who owned a computer. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In which country did $240$ people own a computer?
 
 </div>
 <div class='workings'>
@@ -32127,60 +30227,6 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4D997794-FBCD-4D84-92CD-789B4D89EDE0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tom is $142 \ \text{cm}$ tall and Harry is $168 \ \text{cm}$ tall. 
-James is half way between Tom’s and Harry’s height. 
-Work out James’ height. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {James' height} &= \dfrac {\text {Tom's Height} + \text {Harry’s height}} {2} \\\\
-                      &= \dfrac {142 + 168} {2} \\\\
-                      &= \dfrac {310} {2} \\\\
-                      &= \dfrac {155 \times 2} {2} \\\\
-                      &= \dfrac {155 \times \cancel {2}} {\cancel {2}} \\\\
-                      &= 155 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$155 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>707882F3-38A7-4427-B4A9-FC62D572DEA3</p>
@@ -32389,62 +30435,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
-What is their total mass, give your answer in grams. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required
-. Let's convert all the masses into $\text{g}$.
-
-$
-\begin{aligned}
-\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
-                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
-                   &= 6233 \ \text{g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6233 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -32828,9 +30818,6 @@ $55.94$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -32964,174 +30951,7 @@ $0.027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>2E75B7DC-1BB8-4EB4-8F7A-059D13BBC07E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the numbers in the cloud:
-
-![missing image](/papers/missing_image.svg)
-
-
-Write down any of these numbers which are:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-even
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$8, \ 12, \ 14, \ 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8, \ 12, \ 14, \ 20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-multiples of $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$20, \ 35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20, \ 35$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-factors of $24$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3, \ 8, \ 12, \ 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 8, \ 12, \ 24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-prime numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3, \ 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3, \ 17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
 </div>
@@ -33393,7 +31213,7 @@ $2583$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -33613,9 +31433,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -34249,7 +32066,7 @@ $1349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
 </div>
@@ -34300,7 +32117,7 @@ $71 \ \text {seconds}$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -35329,9 +33146,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -36002,9 +33816,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -36195,9 +34006,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -36598,12 +34406,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -37257,7 +35059,7 @@ $1400 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E333CCD4-4A4B-4AE8-8804-73CF98BB3014</p>
 </div>
@@ -37409,7 +35211,7 @@ $73$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -38206,7 +36008,7 @@ $11 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2FFF4985-E128-4223-A3A6-63DFE0284470</p>
 </div>
@@ -38357,7 +36159,7 @@ $37$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -38881,129 +36683,6 @@ $
 <div class='answer'>
 
 $306$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
-                                     &= 0.23 \ \text{m} \\\\
-                                     &= 0.23 \times 100 \ \text{cm} \\\\
-                                     &= 23 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
-                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
-                                       &= \dfrac {162} {3} \ \text{cm} \\\\
-                                       &= \dfrac {54 \times 3} {3} \\\\
-                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
-                                       &= 54 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54 \ \text{cm}$
 
 </div>
 </div>
@@ -39720,7 +37399,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>39FEECD6-F2F2-4967-9FC1-5D2680489012</p>
 </div>
@@ -40016,7 +37695,7 @@ $26$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -41015,9 +38694,6 @@ $27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>
@@ -45197,7 +42873,7 @@ $45321176$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7C2113F9-AB30-441B-B2AE-B6D84D249E3E</p>
 </div>
@@ -45450,7 +43126,7 @@ $8$
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -45600,139 +43276,6 @@ $-1$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>FF8263CB-765D-4212-B45C-E95A8847AA0A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the largest whole number that is a factor of (i.e. will divide into) $357$ and $255$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the smallest whole number that $357$ and $255$ will divide into?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -45900,12 +43443,6 @@ $176.4$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 tnumber
 </li>
@@ -46541,7 +44078,7 @@ $-28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3F45652E-B2A7-4662-81DC-7F457C924A10</p>
 </div>
@@ -46696,7 +44233,7 @@ $0.2$
 <p>oundle-school--11-plus--maths--2017--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -48160,7 +45697,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2FE10520-6A9E-4722-B9C3-7530630A3738</p>
 </div>
@@ -48215,7 +45752,7 @@ $24.12$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -48634,7 +46171,7 @@ $13.579$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
@@ -48771,7 +46308,7 @@ $0.45$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -50909,7 +48446,7 @@ $\pounds 105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5533A075-BAD7-4675-83E0-25352274D043</p>
 </div>
@@ -51043,7 +48580,7 @@ $\dfrac {13} {20}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -55443,12 +52980,6 @@ $576$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -56423,140 +53954,6 @@ $-,\div, +, \times$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>BA7E261E-10D9-4C7B-8591-880AD1DD4EF9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the prime numbers between $10$ and $20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11, 13, 17, 19$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11, 13, 17, 19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the first three multiples of $15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$15, 30, 45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15, 30, 45$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the factors of $49$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 7, 49$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 7, 49$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>41E24F51-54D1-465E-BE3F-59870A03565B</p>
 </div>
 <div class='topics'>
@@ -56856,65 +54253,6 @@ $402$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F1E5096A-F0A3-4F40-A2AD-94EE8225614B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a children's game you call out all the numbers from $1$ to $100$. You clap every time you say either a multiple of $3$ or a number ending in $3$. How many times would you clap?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>930108AD-9249-4113-9637-92942C51C01F</p>
@@ -57181,7 +54519,7 @@ $\text {four hundred twenty five}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
@@ -57312,7 +54650,7 @@ $6, 7, 8$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -58396,7 +55734,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
 </div>
@@ -58497,12 +55835,12 @@ $12$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
 </div>
@@ -58554,12 +55892,12 @@ $450 \ \text {seconds}$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
@@ -58680,7 +56018,7 @@ $26$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -59254,7 +56592,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
@@ -59322,7 +56660,7 @@ $54$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -59603,7 +56941,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2C656582-6ACE-4216-AD4B-DA5375031347</p>
 </div>
@@ -59769,12 +57107,12 @@ $128$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7880F0C2-6945-4F0E-B653-7ADE56F7D693</p>
 </div>
@@ -59871,7 +57209,7 @@ $0.909$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -59919,7 +57257,7 @@ $204035082$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F7FB7A20-0F3A-452F-8BE4-998904AC107F</p>
 </div>
@@ -60068,7 +57406,7 @@ $600$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -60079,12 +57417,6 @@ $600$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 tnumber
 </li>
@@ -60907,7 +58239,7 @@ $\pounds 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1A52194D-4989-4E38-AA11-8AA68DFBCC41</p>
 </div>
@@ -61195,7 +58527,7 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -61486,221 +58818,6 @@ TODOANSWER
 </div>
 </div>
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>2F7C07CA-4370-40FB-8A91-FD313818A4F2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-The diagram shows a large cube that has been made by stacking smaller, $1 \ \text{cm}$ cubes together. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Suppose that you are now trying to make the cube for yourself.
-
-How many $1 \ \text{cm}$ cubes will be needed to construct the larger cube?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Once you have constructed the larger cube you decide to paint it red, including the base.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Once painted, how many $1 \ \text{cm}$ cubes will have at least one red face?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-How many $1 \ \text{cm}$ cubes will have two red faces?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
@@ -63986,207 +61103,6 @@ $570$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>D682C33E-78D8-46CC-B161-BE45DA369C78</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-| **$7^0$ =   1**         | **$7^5$ =   16807**   |
-|:-----------------------:|-----------------------|
-| **$7^1$ =   7**         | **$7^6$ =   117649**  |
-| **$7^2$ =   49**        | **$7^7$ =   823543**  |
-| **$7^3$ =   343**       | **$7^8$ =  5764801**  |
-| **$7^4$ =   2401**      |                       |
-
-Use the information in the table above to answer the following questions. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Explain how the table shows that $49 \times 343$ = $16807$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-According to table ,
-
-$
-\begin{aligned}
-49 \times 343 = 16807 \\\\
-7^2 \times 7^3 = 7^5 \\\\\
-7^2+3 = 7^5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7^2+3 = 7^5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the table to help you work out the value of 
-
-$\dfrac {5764801} {823543}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to table ,
-
-$
-\begin{aligned}
-&= \dfrac {5764801} {823543} \\\\
-&= \dfrac {7^8} {7^7} \\\\
-&= 7^8-7 \\\\
-&= 7^1 \\\\
-&= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the table to help you work out value of 
-
-$\dfrac {117649} {2401}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to table ,
-
-$
-\begin{aligned}
-&= \dfrac {117649} {2401} \\\\
-&= \dfrac {7^6} {7^4} \\\\
-&= 7^6-4 \\\\
-&= 7^2 \\\\
-&= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The units digit of **$7^6$** is 9. 
-
-What is the units digit of **$7^{12}$**?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
 </div>
 <div class='topics'>
@@ -66027,7 +62943,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D1EFB235-0632-4659-A133-C69D93EDD053</p>
 </div>
@@ -66167,12 +63083,12 @@ $15, -7$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6D141501-2A64-4588-AEC5-440D97E09546</p>
 </div>
@@ -66295,179 +63211,7 @@ $45.2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the list of numbers below. 
-$6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\, 53 \,\,\,\, 169$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the numbers have an **odd** number of factors?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The square numbers have an odd numbers of factors.
-
-$
-\begin{aligned}
-49  &= 7^2 \\\\
-169 &= 13^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16, 169$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give another example of a number with an odd number of factors. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3^2 &= 9  \text {or,}
-4^2 &= 16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-These numbers have a special name. What is it? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Perferct Squares}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Perferct Squares}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the numbers is a prime number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$53$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -66618,7 +63362,7 @@ $18, 36, 54, 72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E7751CD6-54CE-4BCD-BCD5-9E1364D791B2</p>
 </div>
@@ -66736,12 +63480,12 @@ $4$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D98DBBF2-7AD9-4207-B861-10DE19DB559C</p>
 </div>
@@ -66876,12 +63620,12 @@ $72, 86$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DF144071-E27A-45E8-8AC4-FB2D59699905</p>
 </div>
@@ -67007,175 +63751,12 @@ $33.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the list of numbers below. 
-
-$6 \,\,\,\, 12 \,\,\,\, 15 \,\,\,\, 49 \,\,\,\, 52 \,\,\,\,  53 \,\,\,\, 96$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the numbers has an **odd** number of factors? (Hint: there is only one) 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The square numbers have an odd numbers of factors.
-
-$49 &= 7^2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give another example of a number with an odd number of factors.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$25$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-These numbers have a special name. What is it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {composite}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {composite}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which of the numbers is a prime number? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$53$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>70786BCF-B76F-413D-8757-8FDB44C7E665</p>
 </div>
@@ -67214,12 +63795,12 @@ $\text {Two hundred forty-three thousand six hundred \ km}^2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AE2425E2-0767-4210-BB91-89195849257C</p>
 </div>
@@ -67257,7 +63838,7 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -67405,7 +63986,7 @@ $58, 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -67531,7 +64112,7 @@ $124.08$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -67696,7 +64277,7 @@ $\text{Prime Number}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>422F78A1-EBFB-4834-9E93-8E37FE51E544</p>
 </div>
@@ -67796,166 +64377,7 @@ $\text {Obtuse angle is any angle greater than 90 \degree but less than 180 \deg
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>143C7006-44B5-49D4-BF75-6AB0ECEAF105</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-all the factors of $24$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1, 2, 3, 4, 6, 8, 12, 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, 2, 3, 4, 6, 8, 12, 24$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the first $4$ multiples of $7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7, 14 , 21, 28$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7, 14 , 21, 28$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the $\text{third square number}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the $\text{fifth}$ prime number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -68316,7 +64738,7 @@ $29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B40C9067-5309-4BDD-A6D3-04C7A850101A</p>
 </div>
@@ -68370,7 +64792,7 @@ $8$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -68625,7 +65047,7 @@ $42008$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>83110D7D-4A15-444F-BC4E-DC7DC2E96129</p>
 </div>
@@ -68702,12 +65124,12 @@ The smaller number $=13$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7241EB20-8C18-4489-BCB1-426409F62127</p>
 </div>
@@ -68868,12 +65290,12 @@ $\dfrac{5}{8}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9918B00D-75CB-41DB-93FD-465940FFC114</p>
 </div>
@@ -69057,12 +65479,12 @@ $687$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5AD1D649-ADC0-4830-A4DB-A96DBBC66358</p>
 </div>
@@ -69106,12 +65528,12 @@ $\text{Twenty one thousand one hundred seventy one}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BEE41EE6-C7C6-4063-ACAF-9A44CDF54241</p>
 </div>
@@ -69228,12 +65650,12 @@ $100 = 9100$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
 </div>
@@ -69356,12 +65778,12 @@ $51$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C5BEA94E-1A7E-437A-B7E1-A81049B5F92C</p>
 </div>
@@ -69412,12 +65834,12 @@ $9$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -69466,12 +65888,12 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>05AA06CF-C57A-4771-B89F-03FFAD47E78D</p>
 </div>
@@ -69511,12 +65933,12 @@ $0.13$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FAB770D5-5506-4C76-B3C8-1CBAE36619B4</p>
 </div>
@@ -69566,12 +65988,12 @@ $3, 7, 11$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DFD8D8D5-83F1-4AA0-B9E2-0ED508142867</p>
 </div>
@@ -69659,12 +66081,12 @@ $6, 10, 14$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>485D2C3B-79CA-4AFB-A224-7A24063389FC</p>
 </div>
@@ -69720,7 +66142,7 @@ $0.15 \ \text{grams}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -70683,7 +67105,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D29C2F36-7EB5-46B2-8EF3-61D8FC17FEFD</p>
 </div>
@@ -70748,7 +67170,7 @@ $91, 16$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -70924,7 +67346,7 @@ $5.5$
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -70976,7 +67398,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>495FD032-B939-449E-9F1F-6F8D821D8B70</p>
 </div>
@@ -71026,12 +67448,12 @@ $72$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8887F042-1EF1-4B73-B76D-1171B3382465</p>
 </div>
@@ -71089,12 +67511,12 @@ $27$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E1623FA7-4357-40D5-B38B-F87B2832B3C4</p>
 </div>
@@ -71153,7 +67575,7 @@ $\pounds 7.04$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -71218,9 +67640,6 @@ $45, 53$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>
@@ -71803,7 +68222,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F5C3AB3C-C84A-4D5B-AB13-C1400D84FD8E</p>
 </div>
@@ -71908,7 +68327,7 @@ $90$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -72910,7 +69329,7 @@ $1142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
 </div>
@@ -73023,7 +69442,7 @@ $56$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -73363,7 +69782,7 @@ $None (or) 0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A</p>
 </div>
@@ -73517,7 +69936,7 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -73674,7 +70093,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33003293-7D63-4EEE-98E2-B0957B77805A</p>
 </div>
@@ -73731,12 +70150,12 @@ $60$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>39F565E5-A22B-4C7B-8F60-9AC45AFB6764</p>
 </div>
@@ -73989,7 +70408,7 @@ $1, 2$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -74118,7 +70537,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FC8421CA-91B3-47D9-A6F5-43D083840F7F</p>
 </div>
@@ -74252,7 +70671,7 @@ $3$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -74319,7 +70738,7 @@ $\dfrac{9}{20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
 </div>
@@ -74380,7 +70799,7 @@ $4$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -74453,7 +70872,7 @@ $4.272$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>66123310-D9F1-45C3-86F1-7A120C1FCB10</p>
 </div>
@@ -74515,12 +70934,12 @@ $\dfrac{11}{10}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F25E82C3-2612-4DD6-9E94-BBA4771C38C6</p>
 </div>
@@ -74574,7 +70993,7 @@ $9899$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -74699,7 +71118,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0C9827F9-2D97-4BEA-B8FF-C1F070B06641</p>
 </div>
@@ -74755,12 +71174,12 @@ $= 0.7098$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B5D0A1DE-7CF1-4AB2-9B06-F68A87B0D915</p>
 </div>
@@ -74815,12 +71234,12 @@ $\dfrac{19}{25}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EC3E64BC-89F2-40BF-A533-FD22D897D87A</p>
 </div>
@@ -74880,12 +71299,12 @@ $18$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4AF7B768-CBF8-4E4C-9565-AEB914711765</p>
 </div>
@@ -74941,12 +71360,12 @@ $88.5$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8F65EFC2-3A6B-4CAA-94E2-F2E6C6BB69F5</p>
 </div>
@@ -75008,12 +71427,12 @@ $7$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>516A8256-4FAD-4AF0-A7CC-7D00BB6B5147</p>
 </div>
@@ -75062,12 +71481,12 @@ $2$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B8231480-932C-4FB3-9B63-7AD293068E36</p>
 </div>
@@ -75143,12 +71562,12 @@ $\pounds 120.00$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A4713302-D07D-4F6B-A90F-15306CAD8332</p>
 </div>
@@ -75213,12 +71632,12 @@ $8.32$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E67458AA-6552-4F44-B7F8-5DEBC4A8A336</p>
 </div>
@@ -75273,7 +71692,7 @@ $\dfrac{9}{10}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -75341,7 +71760,7 @@ $49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3CCC8580-4989-4891-ADF4-6BD2F0008C55</p>
 </div>
@@ -75403,12 +71822,12 @@ $25, 4$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F1897CC8-FE90-4E2E-8BE9-4A13D3D30B54</p>
 </div>
@@ -75471,12 +71890,12 @@ $125, 8$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>34E90EE8-F186-4B70-B1BF-498352434A48</p>
 </div>
@@ -75550,12 +71969,12 @@ $27$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B5F307B0-90F4-4C09-A5E1-8ABB595A2010</p>
 </div>
@@ -75608,12 +72027,12 @@ $8$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>96B75922-DE58-4EFF-BB3F-2AE920BF563A</p>
 </div>
@@ -75666,12 +72085,12 @@ $6$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>041A050A-D326-4793-8BA0-8D47A9552390</p>
 </div>
@@ -75720,12 +72139,12 @@ $0$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3</p>
 </div>
@@ -75782,12 +72201,12 @@ $3$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CCC7B672-4F8B-43F1-AA68-9BD75C7362B1</p>
 </div>
@@ -75836,7 +72255,7 @@ $8$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -77677,9 +74096,6 @@ $450$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
 </li>
 <li>
@@ -78428,12 +74844,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -78642,83 +75052,6 @@ TODOANSWER
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>CC1826DB-EA13-490B-A322-57640558FD22</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tlogic
-</li>
-<li>
-tnumber
-</li>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ten runners, numbered $5$ to $14$ inclusive, take part in a race. There were no tied positions.
-
-Winston watched the race but forgot to write down the positions of the runners. Fortunately Winston is a mathematician and he remembered one fact about the number of each competitor. List all possible numbers of the competitors in the spaces below. Hence complete the table showing the final positions in the race.
-
--  $1 \text{st}$ Prime number
--  $2 \text{nd}$ Factor of $24$
--  $3 \text{rd}$ Cube number
--  $4 \text{th}$ Multiple of $5$
--  $5 \text{th}$ Factor of $187$
--  $6 \text{th}$ Two-digit even number in which the first digit is smaller than the second
--  $7 \text{th}$ Two-digit number in which both digits are square numbers 
--  $8 \text{th}$ Number which has exactly four factors
--  $9 \text{th}$ A square number
--  $10 \text{th}$ A number which is greater than $10$
-
-![missing table](/papers/missing_table.svg)
-
-
-Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
@@ -79149,7 +75482,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E7C66B09-5BA0-4B5C-BA6E-344436152AFE</p>
 </div>
@@ -79205,7 +75538,7 @@ $11106$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -80565,13 +76898,13 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tnumber
 </li>
 <li>
 tstatistics
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -81365,12 +77698,6 @@ $1.63$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -81603,12 +77930,6 @@ $2.4 \ \text {kg}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 tnumber
 </li>
@@ -83269,219 +79590,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>66F9DB99-346C-4805-95D0-3C0EA0A096D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are some factors of $28$:
-
-$1 \quad 2 \quad 4 \quad \dots \quad 14 \quad 28$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the missing factor of $28$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a factor of $28$ which is also a prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a factor of $28$ which is also a square number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Add up all the factors and halve the total. 
-
-Write down your answer.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1 + 2 + 4 + 7 + 14 + 28} {2} \\\\
-&= \dfrac {56} {2} \\\\
-&= \dfrac {28 \times \cancel{2}} {\cancel{2}} \\\\
-&= 28
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A perfect number is a special type of number.
-
-If you add up all of its factors and halve the total, the result is the original number.
-
-Find a perfect number which is less than $10$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Half of the sum of factors of 6} &= \dfrac {1 + 2 + 3 + 6} {2} \\\\
-                                        &= \dfrac {12} {2} \\\\
-                                        &= \dfrac {2 \times 6} {2} \\\\
-                                        &= \dfrac {\cancel{2} \times 6} {\cancel{2}} \\\\
-                                        &= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>BD641DBE-5C22-47AF-A25A-9ED62232148A</p>
@@ -83961,137 +80069,6 @@ $135$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5AAAF676-7C4E-414C-AACC-CFA07A32010B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the prime numbers between $10$ and $20$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$13, \ 17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13, \ 17$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the first three multiples of $12$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$12, \ 24, \ 36$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12, \ 24, \ 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the factors of $16$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2, \ 4, \ 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2, \ 4, \ 8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -85978,7 +81955,7 @@ $14002$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6532C137-9071-4123-8B77-BEABFCDB3BC7</p>
 </div>
@@ -86023,7 +82000,7 @@ $290  \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -86119,7 +82096,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
 </div>
@@ -86132,7 +82109,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tnoexpolational
+tnoexplanation
 </li>
 </ul>
 </div>
@@ -86227,61 +82204,7 @@ $13587$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>ADACADD4-3CE8-46AF-977B-B7D792EEA446</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This tower is made of small cubes.
-
-![missing image](/papers/missing_image.svg)
-
-
-![missing image](/papers/missing_image.svg)
-
-
-If the tower is taken apart and rebuilt into the big cube shown below, how many small cubes are left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -86726,65 +82649,6 @@ $35948$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>CCA5B1E8-9CD3-414C-BAAB-0B602DD15D99</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down how many cubes and triangular blocks are used to make the ship shown below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>744963C1-F8DB-4582-94F4-AEB54852B642</p>
 </div>
 <div class='topics'>
@@ -86969,7 +82833,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7E1A8AB3-C593-4477-9220-607D3E76FDBE</p>
 </div>
@@ -87020,7 +82884,7 @@ $2.4 \text{m}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -87135,12 +82999,6 @@ $9012213$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -88490,7 +84348,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C0D9FF0B-D58D-4B87-A15F-D131577FBD10</p>
 </div>
@@ -88544,7 +84402,7 @@ $0, 0, 1, 1$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -90145,7 +86003,7 @@ $220$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>81E9148A-2F48-4754-A14C-C49051FB1236</p>
 </div>
@@ -90197,7 +86055,7 @@ $1.006$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -90549,7 +86407,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 <li>
 tnoexplanation
@@ -90925,12 +86783,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -91761,7 +87613,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -91932,7 +87784,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -92221,7 +88073,7 @@ $13, \ 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>91C44E0D-82DD-44DA-82F9-02E3AB04AE17</p>
 </div>
@@ -92331,12 +88183,12 @@ $3.49$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
 </div>
@@ -92489,7 +88341,7 @@ $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -92507,7 +88359,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -93059,7 +88911,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -93779,269 +89631,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>73AA9A64-5FED-4291-AC0E-CC8491EFC073</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Carls has some coloured plastic tiles.
-
-Her tiles are in the shape of square, circle, star or triangle and are either black, grey or white.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the table to show all of the possible different types of tiles.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Carla has each type of tile in small and large size.
-
-She has $24$ tiles altogether. 
-
-What fraction of the tiles are black?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many of the tiles are in the shape of a star?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Below are three of her tiles.
-
-![missing image](/papers/missing_image.svg)
-
-
-The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
-
-Describe a tile which differs from the small white triangle in $1$ way.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many tiles differ from a large grey star in $3$ ways?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>AFFC377F-8DB8-4D17-8980-0952A23564BA</p>
 </div>
 <div class='topics'>
@@ -94111,7 +89700,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>913E3410-230E-40AF-A424-653751985E82</p>
 </div>
@@ -94225,7 +89814,7 @@ $1940$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -94277,7 +89866,7 @@ $2 \times 3 \times 7 = 42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3333F909-34F8-4849-86F8-FDA974248AC6</p>
 </div>
@@ -94438,7 +90027,7 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -94730,7 +90319,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
 </div>
@@ -94882,7 +90471,7 @@ $269$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -95358,7 +90947,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>49AC9C82-DFE8-430B-A040-246A3ED7DE20</p>
 </div>
@@ -95469,7 +91058,7 @@ $2007$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -95526,7 +91115,7 @@ $36+64=100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
@@ -95684,7 +91273,7 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -97304,152 +92893,7 @@ $10201, 11111$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E84BF85C-48BC-4E0C-A5DA-4E46BD9E6E07</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdirection
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below shows $7$ train stations, labelled $A$ to $G$, and the times, in minutes, taken to travel between stations.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Assuming that no time is added to the journey when a train passes through a station, 
-work out the route that takes the shortest time to travel from $A$ to $G$.
-
-You should list the stations in order.
-
-Your route **does not** need to pass through every station.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In reality, passing through a station adds $4 \ \text{minutes}$ to the overall journey time.
-
-Using this information, work out the shortest time taken to travel by train from $A$ to $G$.
-
-Your route **does not** need to pass through every station.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D6C77BFE-E594-4024-93C0-48A0970659C7</p>
 </div>
@@ -97559,12 +93003,12 @@ $\boxed{1050} \div 1000 = 1.05$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9E47730D-57C7-402D-82CD-0D7FC8E0A99F</p>
 </div>
@@ -97610,12 +93054,12 @@ $13750$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>303AB058-2EC9-4DEB-9A11-AE3828D6B5BC</p>
 </div>
@@ -97661,7 +93105,7 @@ $16 \times 7  \ \boxed{>} \ 17 \times 6$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -97839,7 +93283,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>56F98EA1-67CB-4F26-9B5E-66AD86896482</p>
 </div>
@@ -98031,12 +93475,12 @@ $89$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EABCDB4F-B953-4587-89E7-A962568179B7</p>
 </div>
@@ -98192,7 +93636,7 @@ $3.7$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -98519,9 +93963,6 @@ $\text {Two thousand nine hundred and sixteen}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -98720,367 +94161,6 @@ $4325$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tpercentage
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The information on a pack of ‘*Salmon pasta*’ is shown in the table.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 \ \text {g}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text {g}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage of the ‘*Salmon pasta*’ is carbohydrate?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
-
-What is the mass of ‘*Salmon pasta*’ in the whole pack?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What will be the mass of fat in a pack of ‘*Salmon pasta*’?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5DA208F4-5CBC-4E32-9929-B96B5638168D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttable
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs King asked all the children in Year $6$ if they play tennis.
-
-This table shows some of the results.
-
-![missing table](/papers/missing_table.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many children are there in class $6B$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the table.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of the children who do not play tennis are in class $6B$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -99298,9 +94378,6 @@ $12.15$
 </div>
 <div class='topics'>
 <ul>
-<li>
-talgebra
-</li>
 <li>
 tnumber
 </li>
@@ -100184,9 +95261,6 @@ $\pounds 2.80$
 </div>
 <div class='topics'>
 <ul>
-<li>
-talgebra
-</li>
 <li>
 tnumber
 </li>
@@ -102151,13 +97225,10 @@ $(8 + 4) \times 6 - 5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tnumber
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -103323,12 +98394,6 @@ $25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -103479,9 +98544,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -103751,7 +98813,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0764EC27-58BF-4C34-A78B-8EB71ECB65E3</p>
 </div>
@@ -103803,12 +98865,12 @@ $\dfrac {31} {120}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>97E481D7-AB21-4BC5-A018-A6D984DF8B70</p>
 </div>
@@ -103862,12 +98924,12 @@ $5, 7, 11$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AF41292A-EA87-4917-AA96-255A70031420</p>
 </div>
@@ -103917,7 +98979,7 @@ $13, 39$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -104147,20 +99209,17 @@ $63,401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5F6EBC17-59BB-4241-954E-B94AC553427C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
 tnumber
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -104194,7 +99253,7 @@ $70, 5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -104205,9 +99264,6 @@ $70, 5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -104400,15 +99456,12 @@ $584$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -104462,7 +99515,7 @@ $D$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -104490,149 +99543,6 @@ In magic squares, the numbers in every row, column and the two diagonals add up 
 |:---------:    |:---------:    |:---------:    |
 |                 | $7$             |                 |
 |                 |                 |                 |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This sequence of numbers goes up by $30$ each time.
-
-$30,\:\:\:\: 60,\:\:\:\: 90,\:\:\:\: 120,\:\:\:\: 150,\:\:\:\: …….$
-
-The sequence continues.
-
-Will the number $1330$ be in the sequence? 
-
-Explain how you know:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The difference between the terms is $30$. Hence, the sequence would be multiples of $30$.
-
-As the sequence goes on increasing in the multiples of 30,
-
-For 1330 to be in the sequence, it should be a multiple of 30.
-
-$
-\begin{aligned}
-&= \dfrac {1330} {30} \\\\
-&= \dfrac {133 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {133} {3} \\\\
-&= 44 \dfrac {1} {3} \\\\
-\end{aligned}
-$
-
-$44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 30. Hence, the number 1330 will not be in the sequence.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-No
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>97438351-2167-45EC-ACEE-7C25DED9F221</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tgraph
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a table of toys owned by $6$ children: 
-
-
-|    Child       | Board games     | Computer games     | Sports equipment     |
-|:----------:    |:-----------:    |:--------------:    |:----------------:    |
-|  **Alan**      |     $1$         |       $3$          |        $2$           |
-|   **Ben**      |     $3$         |       $0$          |        $3$           |
-|  **Chris**     |     $0$         |       $2$          |        $0$           |
-|  **Dvid**      |     $2$         |       $1$          |        $1$           |
-|   **Ed**       |     $1$         |       $0$          |        $0$           |
-| **Faizal**     |     $0$         |       $0$          |        $4$           |
-
-
-
-%graph%
-
-Whose toys are not on the graph?
 
 </div>
 <div class='workings'>
@@ -104731,7 +99641,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D3C5761E-89B9-4E65-945B-16E81E23F067</p>
 </div>
@@ -104783,7 +99693,7 @@ $568$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -104907,15 +99817,12 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -104957,20 +99864,17 @@ $161$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B8D6BAFA-557D-451D-BA17-5723EF73E965</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -105114,7 +100018,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -105706,9 +100610,6 @@ $2.716$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -105753,72 +100654,12 @@ $401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which **ONE** of the following numbers is NOT divisible by $3$?
-
-**A** $18171$   
-
-**B** $44481$   
-
-**C** $38501$   
-
-**D** $57060$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1+8+1+7+1 = 18$ is divisible by $3$. $18171$ is divisible by $3$.
-
-$4+4+4+8+1 = 21$ is divisible by $3$. $44481$ is divisible by $3$.
-
-$3+8+5+0+1 = 17$ is NOT divisible by $3$. $38501$ is NOT divisible by $3$.
-
-$5+7+0+6+0 = 18$ is divisible by $3$. $57060$ is divisible by $3$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$C$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>3A7398BE-72C1-4161-B815-737C8394CF51</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -105992,65 +100833,6 @@ $16$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6975D4C4-7A3B-4AE4-968A-13F66593DA85</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of the shape shown has been shaded?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -106254,9 +101036,6 @@ $4.32$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -106310,9 +101089,6 @@ Odd one : $2743$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -106406,123 +101182,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$6764 \div 89 = 76$
-
-Use this result to **$\underline{write \,down}$** the answers to each of the following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6764 \div 76$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per question, 
-
-$
-\begin{aligned}
-6764 \div 89             &= 76 \\\\
-\dfrac {6764} {89}       &= 76 \\\\
-6764                     &= 76 \times 89 \\\\
-\dfrac {6764} {76}       &= 89 \\\\
-6764 \div 76             &= 89
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$89$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7.6 \div 0.89$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -107078,148 +101737,12 @@ $24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in cm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.0008 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in mm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
-200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.008 \ \text{mm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>57C9979B-2ACE-4BAF-8E7F-AC51C6373882</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
 <li>
 tnumber
 </li>
@@ -107304,15 +101827,12 @@ D
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3DEA1C5D-5098-4644-85E8-342D00E123E8</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -107490,7 +102010,7 @@ $3 \dfrac {1} {2}$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -107501,9 +102021,6 @@ $3 \dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -107885,15 +102402,12 @@ $0.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>34FA6ECE-8C84-4446-BE71-0079B97B3AE6</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -107998,20 +102512,17 @@ $47$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D61C4BCD-16FD-4C38-A89B-A1E29838248E</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -108143,7 +102654,7 @@ $7420$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -108154,12 +102665,6 @@ $7420$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -108226,15 +102731,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tfactor
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -108288,7 +102784,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -108605,7 +103101,7 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -108660,17 +103156,17 @@ $18.87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tnumber
 </li>
 <li>
-tnumber
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -108705,7 +103201,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -108720,7 +103216,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -108849,9 +103345,6 @@ $8.4$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -108955,139 +103448,6 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-From the list of numbers: $5,\:\: 6,\:\: 8,\:\: 23,\:\: 27,\:\: 45,\:\: 72$ 
-
-(You may use each number more than once or not at all)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A factor of $12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A multiple of $15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$45$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$45$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A prime number bigger than $10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$23$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>3267C8BD-925B-4AC5-BD49-E453264E07A6</p>
@@ -109095,13 +103455,10 @@ $23$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tinfer
 </li>
 <li>
 tnumber
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -109266,9 +103623,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -109562,7 +103916,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9C5A0EF1-A8A5-42F9-8717-C0DB88208ECE</p>
 </div>
@@ -109654,193 +104008,12 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>92F50556-BDE8-4519-B178-C9ADAC015801</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For each set of numbers write down which of the numbers is the largest and which is the smallest.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac {4} {5}\:\:\:\:\:0.9\:\:\:\:\:0.1\:\:\:\:\:\frac {1} {100}\:\:\:\:\:\frac {2} {10}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, there are more fractions than percentages, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&\dfrac {4} {5},                     \quad 0.9,                                 \quad 0.1,                                  \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
-&\dfrac {4} {5},                     \quad \dfrac {9} {10},                     \quad \dfrac {1} {10},                      \quad \dfrac {1} {100}, \quad \dfrac {2} {10} \\\\
-&\dfrac {4 \times 20} {5 \times 20}, \quad \dfrac {9 \times 10} {10 \times 10}, \quad \dfrac {1 \times 10} {10 \times 10},  \quad \dfrac {1} {100}, \quad \dfrac {2 \times 10} {10 \times 10} \\\\
-&\dfrac {80} {100},                  \quad \dfrac {90} {100},                   \quad \dfrac {10} {100},                    \quad \dfrac {1} {100}, \quad \dfrac {20} {100}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$\dfrac {1} {100}, \quad \dfrac {10} {100}, \quad \dfrac{20} {100}, \quad \dfrac {80} {100}, \quad \dfrac{90} {100}$
-
-$\dfrac {1} {100}, \quad 0.1, \quad \dfrac{2} {10}, \quad \dfrac {4} {5}, \quad 0.9$
-
-Largest number = $0.9$
-
-Smallest number = $\dfrac {1} {100}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$ \text {Largest} = 0.9, \text {Smallest} = \dfrac {1} {100}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\frac {3} {4} \:\:\:\:\: \frac {1} {2} \:\:\:\:\: \frac {4} {3} \:\:\:\:\: \frac {4} {5} \:\:\:\:\: 1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's make the denominator the same for all the numbers, so we can compare them.
-
-LCM of $4,2,3,5,1 = 60$
-
-$
-\begin{aligned}
-&= \dfrac {3} {4} , \quad \dfrac {1} {2} , \quad \dfrac {4} {3} , \quad \dfrac {4} {5} , \quad 1 \\\\
-&= \dfrac {3 \times 15} {4 \times 15} , \quad \dfrac {1 \times 30} {2 \times 30} , \quad \dfrac {4 \times 20} {3 \times 20} , \quad \dfrac {4 \times 12} {5 \times 12} , \quad \dfrac {1 \times 60} {1 \times 60} \\\\
-&= \dfrac {45} {60} , \quad \dfrac {30} {60} , \quad \dfrac {80} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60}
-\end{aligned}
-$
-
-Lets put them in ascending order now.
-
-$= \dfrac {30} {60} , \quad \dfrac {45} {60} , \quad \dfrac {48} {60} , \quad \dfrac {60} {60} , \quad \dfrac {80} {60}$
-
-$= \dfrac {1} {2} , \quad \dfrac {3} {4} , \quad \dfrac {4} {5} , \quad 1 , \quad \dfrac {4} {3}$
-
-Largest number = $\dfrac {4} {3}$
-
-Smallest number = $\dfrac {1} {2}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Largest} = \dfrac {4} {3}, \text {Smallest} =  \dfrac {1} {2}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$0.8\:\:\:\:\:0.803\:\:\:\:\:0.828\:\:\:\:\:0.84\:\:\:\:\:0.087$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages.
-
-In this case, they all are in decimals.
-
-$0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84 , \quad 0.087$
-
-Let's put them in ascending order.
-
-$0.087 , \quad 0.8 , \quad 0.803 , \quad 0.828 , \quad 0.84$
-
-Largest number = $0.84$
-
-Smallest number = $0.087$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Largest} = 0.84, \text {Smallest} =  0.087$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -109968,20 +104141,17 @@ $146700$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -110316,7 +104486,7 @@ $12$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -110327,9 +104497,6 @@ $12$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -110750,18 +104917,12 @@ $7.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
 <li>
 tnumber
 </li>
@@ -110948,7 +105109,7 @@ $64$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -111196,9 +105357,6 @@ $4446$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -111396,16 +105554,7 @@ $2n + 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tinfer
 </li>
 </ul>
 </div>
@@ -111460,9 +105609,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -111724,7 +105870,7 @@ $8.40 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CD45A7DB-1E28-4E52-9013-D5CAC95F4635</p>
 </div>
@@ -111765,7 +105911,7 @@ $57$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -111922,199 +106068,6 @@ Any number between $795$ to $805$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>2E8DDB0D-9699-4BFD-88C4-E2D2285E5133</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Mean**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Here are three numbers.
-
-![missing image](/papers/missing_image.svg)
-
-
-Show that the **mean** of these three numbers is **7**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-
-The **mean** of three numbers is **5** 
-
-One of these numbers is $2$ 
-
-What could the other numbers be? 
-
-Write them on the cards below.
-
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-What else could the numbers be?
-
-Use **different numbers** from your answer above. 
-
-Write them on the cards below.
-
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

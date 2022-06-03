@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-all"
 title: "Topic - Factor - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,140 +22,6 @@ tfactor
 <div class='question question'>
 
 Write down the largest factor that $8, 12$ and $20$ have in common.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6C8CDF18-678C-4DE3-9349-3BA64A4F94D2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a two-digit number that is a multiple of seven. 
-The digits add up to $10$. What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>049EB50A-F271-4BDA-9E86-6E06689C682E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On each spinner **write five numbers** to make the statements correct.
-
-It is **certain** that you will get a number **less than 6**.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **more likely** that you will get an **even** number than an **odd** number.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **impossible** that you will get a multiple of **3**.
-
-![missing image](/papers/missing_image.svg)
- 
 
 </div>
 <div class='workings'>
@@ -740,13 +606,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -2179,92 +2039,12 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah has theses digits cards:
-
-$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
-
-She makes a $2$-digit number and $1$-digit number using all the cards.
-She multiplies them together.
-Her answer is the multiple of $3$.
-
-Which of the following could NOT be a possible answer?
-
--  $25 \times 4$
--  $42 \times 5$
--  $54 \times 2$
--  $24 \times 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
-
-| Number    |         Sum                                           | Divisible $3$
-|:------:   |:----------------------------------------------------: | :-----:
-|  $25$     | $2 + 5 = \green{7}$                                   |  No
-|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
-|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
-|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
-
-The answer that could not be possible $= 25 \times 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$25 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -2369,179 +2149,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7C785172-CCF2-4BDA-BF7D-65D283EB76B5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a list of numbers.
-
-$17 \quad 24 \quad 25 \quad 26 \quad 35 \quad 43 \quad 44$
-
-From the numbers in the list, write down:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the odd number that is larger than $40$,
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$43$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$43$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the number that is a multiple of $7$, 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-two numbers that have a difference of $20$,
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 44 - 24 \\\\
-&= 20
-\end {aligned}
-$
-
-Two numbers that have a difference of $20$ are $44$ and $24$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24, 44$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -2743,13 +2350,7 @@ $2 \times 3 \times 17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -2789,16 +2390,7 @@ $210$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -3527,13 +3119,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -4135,16 +3721,7 @@ $2, \ 3, \ \text{and} \ 5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -4258,65 +3835,6 @@ $1, 7, 49$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F1E5096A-F0A3-4F40-A2AD-94EE8225614B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a children's game you call out all the numbers from $1$ to $100$. You clap every time you say either a multiple of $3$ or a number ending in $3$. How many times would you clap?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -4584,20 +4102,14 @@ $ 33 $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7EDC8D07-F0B7-488E-966B-4C742A083200</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -4751,7 +4263,7 @@ $53$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4802,20 +4314,14 @@ $18, 36, 54, 72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FEC89A56-1AF8-4052-8EDD-95EC29CBFA28</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -4960,7 +4466,7 @@ $53$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5132,13 +4638,7 @@ $\text{Prime Number}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -5338,7 +4838,7 @@ $45, 53$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FB21F97F-B716-4F28-B691-6FF3FCEA330A</p>
 </div>
@@ -5388,7 +4888,7 @@ $42$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5556,7 +5056,7 @@ $None (or) 0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FC8421CA-91B3-47D9-A6F5-43D083840F7F</p>
 </div>
@@ -5690,7 +5190,7 @@ $3$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6075,13 +5575,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -6288,13 +5782,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -7428,89 +6916,14 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>63E4AB7A-C4A4-4539-8FCD-157E442711A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in numbers in the table which fit the descriptions
-
-You may use any numbers you like but you must not use any numbers more than once.
-
-The first one has been done for you
-
-
-|                     | Factor of $18$     | Prime number       |
-|-----------------    |-----------------    |-----------------|
-| Even number         | $6$                |                    |
-| Multiple of $3$     |                    |                    |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F8D3AEA5-00FC-4260-A2B7-A0A6D9A6B650</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -7625,210 +7038,7 @@ $23$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_na_pr question'>
-<div class='uuid'>
-<p>9918BF12-FEBA-4F5C-898C-ACF17E04EDD0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Give one answer only for each of the following questions: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down any multiple of $8$ between $50$ and $70$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-8 \times 7 &= 56 \ \text {Or,} \\\\
-8 \times 8 &= 64
-\end{aligned}
-$
-
-A multiple of $8$ between $50$ and $70$ $= 56$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a prime number between $48$ and $60$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Prime numbers between $48$ and $60 = 53,\ 59$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$53$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a factor of $90$ that is between $12$ and $25$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $90$ between $12$ and $25 = 15, \ 18$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a square number between $30$ and $60$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Square numbers between $30$ and $60 = 36, \ 49$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a 2-digit number that is both a square number and cube number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-2-digit numbers that are squares $=16, \ 25, \ 36, \ 49, \ 64, \ 81$
-
-$25, \ 36, \ 49$ and $81$ are not cube numbers.
-
-$
-\begin{aligned}
-8^2 &= 64 \\\\
-4^3 &= 64
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$64$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

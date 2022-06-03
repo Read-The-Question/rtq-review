@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3A9F8221-CAB3-43B7-8B3D-D445B9D187CA</p>
 </div>
@@ -55,7 +55,7 @@ $994$
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1437,12 +1437,6 @@ $22$
 <ul>
 <li>
 tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-g0"
 title: "Topic - Algebra - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1904,6 +1904,61 @@ $
 <div class='answer'>
 
 $25 \ \text{cm}^{2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>25AE63AD-E6BE-469D-8815-36F8E101C78C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in this number sentence? 
+
+$3.6 \times {?} = 1.8 \times 7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+3.6 \times a    &= 1.8 \times 7  \\\\
+a               &= \dfrac {1.8 \times 7} {3.6} \\\\
+a               &= \dfrac {1.8 \times 7} {1.8 \times 2} \\\\
+a               &= \dfrac {\cancel {1.8} \times 7} {\cancel {1.8} \times 2} \\\\
+a               &= \dfrac {7} {2} \\\\
+a               &= 3.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.5$
 
 </div>
 </div>
@@ -5685,135 +5740,6 @@ $
 <div class='answer'>
 
 $35 \degree$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a formula for the perimeter of the rectangle in terms of $w$
-and $h$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Perimeter of rectangle $=$ Sum of all sides of the rectangle
-
-$
-\begin{aligned}
-&= \text {h} + \text {w} + \text {h} + \text {w} \\\\
-&= 2 \text {h} + 2 \text {w} \\\\
-&= 2 (h + w) \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 (h + w)$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The area of the rectangle is $55 \ \text{cm}^2$ and both $w$ and $h$ are prime numbers.
-
-Calculate the perimeter of the rectangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $55 = 1, 5, 11, 55$
-
-$5$ and $11$ are prime numbers.
-
-Perimeter $= 2 \text{(height + width)}$
-
-$
-\begin {aligned}
-&= 2 \times (5 + 11) \\\\
-&= 2 \times 16 \\\\
-&= 32 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text {cm}$
 
 </div>
 </div>
@@ -28455,117 +28381,6 @@ $150$
 </div>
 </div>
 
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>6ABD9083-9950-424C-A91E-55291150A4DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Six girls took a maths test.
-
-Their marks were $13 \quad 18 \quad 14 \quad 20 \quad 7 \quad 18$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the difference between the highest and lowest marks?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 20 - 7 \\\\
-&= 13
-\end {aligned}
-$
-
-The difference between the highest and lowest marks is $13$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Ashleigh’s mark was seven more than Bella’s mark and six less than Connie’s mark.
-
-What was Ashleigh’s mark?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Ashleigh’s marks are $14$ as $7 + 7 = 14$, $7$ more than Bella’s marks, also $20 - 6 = 14$, $6$ less than Connie’s marks.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>

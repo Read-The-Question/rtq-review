@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tspeed-all"
 title: "Topic - Speed - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6</p>
 </div>
@@ -60,7 +60,7 @@ $9 \ \text{km}$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -197,7 +197,7 @@ $68 \ \text {miles/hour}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -254,7 +254,7 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4510,7 +4510,7 @@ $2 \text {miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55096F2E-FF75-4684-9D88-814A1EF7D4D9</p>
 </div>
@@ -4633,7 +4633,7 @@ $16 \ \text{km/hour}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5342,7 +5342,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>280A1E97-7786-4101-AFA7-0DE251344677</p>
 </div>
@@ -5401,7 +5401,7 @@ $1265 \ \text{km}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

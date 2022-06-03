@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmap-all"
 title: "Topic - Map - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1120,13 +1120,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tmap
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>

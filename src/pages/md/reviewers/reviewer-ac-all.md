@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-all"
 title: "Reviewer - Chiliveru Aravind - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -160,9 +160,6 @@ $143$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -521,53 +518,6 @@ $20$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2017--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7C019C3E-AD26-40DA-B445-DA91FABB7060</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $572 + 2639$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       &   5   &   7   &   2 \\
-{}+ &   2   &   6   &   3   &   9 \\
-\hline
-    &   3   &   2   &   1   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3211$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1225,53 +1175,6 @@ $\dfrac {3} {4}$
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>600C47A7-A686-4820-963D-9CC3063754F1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$239 + 1486 =$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-     &    1     &   4   &   8   &   6 \\
-{}+  &          &   2   &   3   &   9 \\
-\hline
-     &    1     &   7   &   2   &   5
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1725$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tpermutation-all"
 title: "Topic - Permutation - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -886,7 +886,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
 </div>
@@ -934,7 +934,7 @@ $56$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

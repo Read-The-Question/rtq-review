@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -973,7 +973,7 @@ $0.22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
 </div>
@@ -1099,7 +1099,7 @@ $12 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

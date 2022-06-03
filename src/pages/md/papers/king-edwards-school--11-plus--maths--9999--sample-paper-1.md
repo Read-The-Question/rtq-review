@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:49:14
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>087796C3-8F32-4D8C-888C-47E29D33BAED</p>
 </div>
@@ -61,7 +61,7 @@ $57821$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -172,7 +172,7 @@ $1349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>44F3EA32-5F78-42AA-8ED5-BF62E947CB89</p>
 </div>
@@ -222,7 +222,7 @@ $9600$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -280,7 +280,7 @@ $41976$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
 </div>
@@ -331,7 +331,7 @@ $71 \ \text {seconds}$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -398,7 +398,7 @@ $2021$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
 </div>
@@ -456,7 +456,7 @@ $151 \ \text {years}$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

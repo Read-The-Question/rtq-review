@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-2"
 title: "Topicpapers Tgraph 2"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,59 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>311E34AE-BC3D-4AC4-B9FA-4E8966D0CEE4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+The pie chart shows the proportions of different colours of cars in a school carpark. there were $36$ black cars. How many blue cars were there?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -10453,6 +10506,72 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>97438351-2167-45EC-ACEE-7C25DED9F221</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a table of toys owned by $6$ children: 
+
+
+|    Child       | Board games     | Computer games     | Sports equipment     |
+|:----------:    |:-----------:    |:--------------:    |:----------------:    |
+|  **Alan**      |     $1$         |       $3$          |        $2$           |
+|   **Ben**      |     $3$         |       $0$          |        $3$           |
+|  **Chris**     |     $0$         |       $2$          |        $0$           |
+|  **Dvid**      |     $2$         |       $1$          |        $1$           |
+|   **Ed**       |     $1$         |       $0$          |        $0$           |
+| **Faizal**     |     $0$         |       $0$          |        $4$           |
+
+
+
+%graph%
+
+Whose toys are not on the graph?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

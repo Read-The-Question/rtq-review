@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-g0"
 title: "Topic - Simpleword - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1417,7 +1417,7 @@ tsimpleword
 tfraction
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -3938,6 +3938,110 @@ $53$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>4D997794-FBCD-4D84-92CD-789B4D89EDE0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tom is $142 \ \text{cm}$ tall and Harry is $168 \ \text{cm}$ tall. 
+James is half way between Tom’s and Harry’s height. 
+Work out James’ height. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {James' height} &= \dfrac {\text {Tom's Height} + \text {Harry’s height}} {2} \\\\
+                      &= \dfrac {142 + 168} {2} \\\\
+                      &= \dfrac {310} {2} \\\\
+                      &= \dfrac {155 \times 2} {2} \\\\
+                      &= \dfrac {155 \times \cancel {2}} {\cancel {2}} \\\\
+                      &= 155 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$155 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3482F384-C0E0-4164-8CFD-2035B993DC4E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ masses are measured to be $720 \ \text{g}$, $3.46 \ \text{kg}$, and $2 \ \text{kg } 53 \ \text{g}$. 
+What is their total mass, give your answer in grams. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. Let's convert all the masses into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total mass} &= 720 \ \text{g} + 3.46 \ \text{kg} + 2 \ \text{kg} \ 53 \ \text{g} \\\\
+                   &= 720 \ \text{g} + 3460 \ \text{g} + 2053 \ \text{g} \\\\
+                   &= 6233 \ \text{g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6233 \ \text{g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>66777738-C618-4271-96E5-1C9214C9F392</p>
 </div>
 <div class='topics'>
@@ -4374,6 +4478,123 @@ $70 \ \text{cm}$
 
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
+                                     &= 0.23 \ \text{m} \\\\
+                                     &= 0.23 \times 100 \ \text{cm} \\\\
+                                     &= 23 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{m} = 100  \ \text{cm}$
+
+$
+\begin{aligned}
+\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
+                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
+                                       &= \dfrac {162} {3} \ \text{cm} \\\\
+                                       &= \dfrac {54 \times 3} {3} \\\\
+                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
+                                       &= 54 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

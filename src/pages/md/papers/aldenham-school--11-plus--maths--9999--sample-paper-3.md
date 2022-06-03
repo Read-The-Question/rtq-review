@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1951,7 +1951,7 @@ $292.5 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
 </div>
@@ -2026,7 +2026,7 @@ $32$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2037,9 +2037,6 @@ $32$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>

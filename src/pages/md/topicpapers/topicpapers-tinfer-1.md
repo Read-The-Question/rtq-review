@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-1"
 title: "Topicpapers Tinfer 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,65 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E8A61D88-86B4-4DB0-8F09-4641EED3F218</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+From the clues, work out the number that fits into the boxes.
+
+-  All the digits are different.
+-  The first digit is odd and larger than the third digit.
+-  The fourth digit is three times the first
+
+-  The final digit is the product of the second and the third digit.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -574,6 +633,181 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>ACECAC96-3DA3-4E0D-8F73-BF702F6FED1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$64$ players enter a tennis tournament.
+
+Each player plays another player in the first round and the 
+winner of each match progresses to the second round.
+
+Then each player in the second round plays another player 
+who progressed to the second round and the winner of that match progresses to the third round.
+
+And so on, until the final, where one player wins the whole tournament.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many matches does the winner of the entire tournament play?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many matches in total are played in the entire tournament?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using your answer to b), or otherwise, guess the value of:
+
+$1 + 2 + 4 + 8 + \ldots + 1024$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2020--sample-paper-5:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A0806ECB-05E3-4E9A-9CEE-0141A4719622</p>
 </div>
 <div class='topics'>
@@ -757,6 +991,65 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B004FD47-3C02-4E91-9E92-3ABF37CC8EBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the numbers $1$ to $5$ in each row and each column, without repeating any number in any row or column. 
+Two numbers have been given at the start to help you.
+
+The symbols $\bold{<}$  and $\bold{>}$ indicate whether numbers are “less than” or “greater than” the number in the adjoining space. 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:1:0</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1294,6 +1587,455 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>4DB1DE17-E134-40AD-A4AF-157C125AD0B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tdraw
+</li>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah has designed a tile for her new kitchen as shown below.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarah decides to **reflect** the tile in the dashed line shown below and **then rotate** it through 
+half a turn.
+
+Draw the resulting tile on the grid below. You may complete the middle tile if you wish.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah has theses digits cards:
+
+$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
+
+She makes a $2$-digit number and $1$-digit number using all the cards.
+She multiplies them together.
+Her answer is the multiple of $3$.
+
+Which of the following could NOT be a possible answer?
+
+-  $25 \times 4$
+-  $42 \times 5$
+-  $54 \times 2$
+-  $24 \times 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
+
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
+
+The answer that could not be possible $= 25 \times 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$25 \times 4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0F1D2369-E8C2-47BD-8C54-B2FB99A924D6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number is **deficient** if its factors, not including itself, add up to a number less than the original number.
+
+If they add up to more, it is **abundant**.
+
+So $8$ is deficient because its factors add up to $1 + 2 + 4 = 7$ which is less than $8$.
+
+Are the following numbers deficient or abundant?
+
+Explain clearly your reasoning. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Victor says that all prime numbers are deficient. Do you agree?
+Explain your reasoning carefully
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>BBC79355-9079-4C4B-B27B-BD2D1792770D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Langford number has two $1$s seprated by $1$ digit, two $2$s separated by $2$ digits etc.
+For example, $312132$ is a Langford number.
+
+Complete this Langford number which has two $1$s, two $2$s, two $3$s and two $4$s. 
+
+$\huge {2 \ 3 \ \_ \ \_ \ \_ \ \_ \ \_ \ \_}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>B09D80F4-97B1-4E53-9991-024A7EDBA290</p>
 </div>
 <div class='topics'>
@@ -1611,6 +2353,208 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>49DCDFBA-E23F-4F21-AD74-977362B5ED3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In Rainbow Land there are lots of wuzzles. Wuzzles are all green, pink or blue and have either big ears or small ears. They like to live together in houses.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In one wuzzle household, all the following statements are true:
+
+$\bull$ There are more green wuzzles than any other colour
+
+$\bull$ There are equal numbers of big-eared greens and small-eared greens
+
+$\bull$ There are three wuzzles with big ears
+
+$\bull$ There are twice as many big-eared greens as big-eared pinks
+
+$\bull$ There are three times as many pink wuzzles as blue wuzzles
+
+How many of each kind of wuzzle (big-eared green, small-eared green, big-eared pink, …) are there in this household?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In another wuzzle household, all of these statements are true:
+
+$\bull$ There are the same number of pink wuzzles as green wuzzles
+
+$\bull$ There are twice as many big-eared green wuzzles as small-eared green wuzzles
+
+$\bull$ There are the same number of big-eared green wuzzles as big-eared blue wuzzles
+
+$\bull$ All but one of the wuzzles have big ears.
+
+How many of each kind of wuzzle are there in this household?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This mystery number has $4$ digits.
+
+Every digit is an odd number.
+
+None of the digits is a $9$. Every digit in the number is different.
+
+The smallest digit is in the thousands place.
+
+The greatest digit is in the ones place.
+
+This describes two possible numbers. The mystery number is the greater of those two numbers. What is the mystery number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1537$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1537$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1956,6 +2900,143 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>F1E5096A-F0A3-4F40-A2AD-94EE8225614B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a children's game you call out all the numbers from $1$ to $100$. You clap every time you say either a multiple of $3$ or a number ending in $3$. How many times would you clap?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F58AE968-A43A-420B-8C35-01634DE00C09</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A solid square based pyramid has all of its corners cut off, as shown. How many edges does the resulting shape have?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+A pyramid with a square base has $8$ edges. $4$ edges to the square and $4$ where the triangles meet each other. 
+
+A triangle has $3$ edges.
+
+No. of corners cut off at base $= 4$ corners
+
+Every corner that is cut off at base results into a new triangle edges.
+
+Total edges at base 
+
+= Old edges + ($4$ corners $\times 3$ triangle edges)
+
+$
+\begin{aligned}
+&= 4 + (4 \times 3) \\
+&= 4 + 12
+\end{aligned}
+$
+
+Now let's look at the top. When the tip is cut it results into a square top, as in the picture.
+
+Total edges at top 
+
+= Old edges + ($1$ corner $\times 4$ edges of the new square)
+
+$
+\begin{aligned}
+&= 4 + (1 \times 4) \\
+&= 4 + 4 \\
+&= 8
+\end{aligned}
+$
+
+
+Total edges = new edges at base + new edges at tip 
+
+$
+\begin{aligned}
+&= 16 + 8
+&= 24
+\end{aligned}
+$
+
+The resulting shape will result in $24$ edges.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A3D346FE-86AB-4EB5-BDA9-07C1CE5349D7</p>
 </div>
 <div class='topics'>
@@ -2125,6 +3206,117 @@ Point D
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>876D9010-270B-4526-9A94-09760EADD14D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If 
+$\blacktriangle+\blacktriangle=\blacksquare$ and 
+$\blacksquare+\blacktriangle=\bull$ and
+$\blacklozenge=\bull+\blacksquare+\blacktriangle$,
+how many 
+$\blacktriangle$s are equal to
+$\blacklozenge?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7BD08247-3200-4DE6-A32B-88ADF41548BB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the sum shown, different shapes represent different digits.
+
+What digit does the square represent?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>B389E924-DC78-45B0-8A6B-41E275E2C118</p>
 </div>
 <div class='topics'>
@@ -2166,6 +3358,376 @@ TODOANSWER
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D682C33E-78D8-46CC-B161-BE45DA369C78</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+| **$7^0$ =   1**         | **$7^5$ =   16807**   |
+|:-----------------------:|-----------------------|
+| **$7^1$ =   7**         | **$7^6$ =   117649**  |
+| **$7^2$ =   49**        | **$7^7$ =   823543**  |
+| **$7^3$ =   343**       | **$7^8$ =  5764801**  |
+| **$7^4$ =   2401**      |                       |
+
+Use the information in the table above to answer the following questions. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain how the table shows that $49 \times 343$ = $16807$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+According to table ,
+
+$
+\begin{aligned}
+49 \times 343 = 16807 \\\\
+7^2 \times 7^3 = 7^5 \\\\\
+7^2+3 = 7^5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7^2+3 = 7^5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use the table to help you work out the value of 
+
+$\dfrac {5764801} {823543}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to table ,
+
+$
+\begin{aligned}
+&= \dfrac {5764801} {823543} \\\\
+&= \dfrac {7^8} {7^7} \\\\
+&= 7^8-7 \\\\
+&= 7^1 \\\\
+&= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use the table to help you work out value of 
+
+$\dfrac {117649} {2401}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to table ,
+
+$
+\begin{aligned}
+&= \dfrac {117649} {2401} \\\\
+&= \dfrac {7^6} {7^4} \\\\
+&= 7^6-4 \\\\
+&= 7^2 \\\\
+&= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The units digit of **$7^6$** is 9. 
+
+What is the units digit of **$7^{12}$**?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F79D76E9-6310-4117-B671-3A934BFED765</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Claire makes squares with matches. 
+
+To make $1$ square she needs $4$ matches. 
+
+To make $2$ squares she needs $7$ matches.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Fill in the table below:
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many matches will she need to make $40$ squares?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she used $94$ matches how many squares did she make?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:0</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -3299,6 +4861,889 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>52F311FD-9259-4B07-9220-97F96FAC9E5D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the computer game "Fizz Darkweek" a player scores points by hitting certain targets:
+
+"Zoid" scores fifty thousand, 
+
+"Yondo" scores forty thousand, 
+
+"Xenox" scores two thousand five hundred.
+  
+Also, if you hit two Xenox **in a row** you get an extra five hundred bonus points.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Amir plays the game and only hits one target which is a Zoid. Write down his score **in figures**:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, Amir hit one target which is a Zoid.
+
+"Zoid" scores fifty thousand.
+
+So, Amir's score is $50000$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ben hits one of each. Work out his total score. Give your answer **in words**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned} 
+      & = \text {Zoid + Yondo + Xenox} \\\\
+      & = 50000 + 40000 + 2500         \\\\
+      & = 92500                        \\\\
+\end{aligned}
+$
+
+Bens total score $92500$ in words is \underline {\text {Ninety two thousand and five hundred}}.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Ninety two thousand and five hundred
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Catherine goes next and hits a Yondo first, followed by two Xenox and finishes off with a second Yondo. 
+Work out her total score. Give your answer **in figures**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned} 
+      & = \text {Yondo} + 2 \times \text {Xenox + Xenox bonus + Yondo} \\\\
+      & = 40000 + 2 \times 2500 + 500 + 40000                  \\\\
+      & = 40000 + 5000 + 500 + 40000                           \\\\
+      & = 85500                                                
+\end{aligned}
+$
+
+Catherine's total score is $85500$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$85500$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Finally it is Debbie's turn. She has four shots on target with a total score of ninety-five thousand points . Write down one possible set of targets that she might have hit:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+The only possible combination of targets for four shots to achieve $95000$ points is :
+
+$1$ Zoid $+ 1$ Yondo and $2$ Xenox (but not in a row). 
+
+It is important to note that if Debbie hits two Xenox **in a row** then only she gets the bonus points. 
+
+Possible options
+
+|  First Shot |  Zoid | Yondo | Xenon | Xenon | Xenon | Xenon |
+|:-----------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Second Shot | Xenon | Xenon | Yondo |  Zoid |  Zoid | Yondo |
+|  Third Shot | Yondo |  Zoid | Xenon | Xenon | Yondo |  Zoid |
+| Fourth Shot | Xenon | Xenon |  Zoid | Yondo | Xenon | Xenon |
+
+We need only one option.
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+|  First Shot |  Zoid |
+|:-----------:|:-----:|
+| Second Shot | Xenon |
+|  Third Shot | Yondo |
+| Fourth Shot | Xenon |
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C2BCB7BC-794E-4CCC-A392-3F7E1B313901</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Thomas, Henry, Edward and Gordon are four season-ticket holders travelling by the same train. Thomas' ticket allows him to get out at either Brasted, Westerham or 
+Dunton Green; Henry's ticket is for Knockholt or Dunton Green; Edward's for Dunton Green or Sevenoaks; Gordon's for Brasted or Knockholt. 
+
+No one gets out at either Sevenoaks or Westerham, and only one person at Knockholt and one at Dunton Green.
+
+At what station did these four passengers get off the train? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per the question, no one gets out at either Sevenoaks or Westerham. So we can ignore these stations.
+
+It helps to draw a table for such questions. 
+
+|           | Thomas | Henry | Edward | Gordon |
+|-----------|:------:|:-----:|:------:|:------:|
+|  Brasted  |    x   |       |        |    x   |
+|   Dunton  |    x   |   x   |    x   |        |
+| Knockholt |        |   x   |        |    x   |
+
+
+We can see from the table that:
+
+Edward can only get down at Dunton Green.
+
+Now we are left with: 
+
+|           | Thomas | Henry | Gordon |
+|-----------|:------:|:-----:|:------:|
+|  Brasted  |    x   |       |    x   |
+| Knockholt |        |   x   |    x   |
+
+Henry can only get down at Knockholt.
+
+As per the question, only one person gets out at Knockholt and one at Dunton Green.
+
+So, Thomas and Gordon can only get down at Brasted.
+
+$
+\begin{aligned} 
+    \text {Thomas} & = \underline {{\text Brasted}}      \\\\
+    \text {Henry}  & = \underline {{\text Knockholt}}    \\\\
+    \text {Edward} & = \underline {{\text Dunton Green}} \\\\
+    \text {Gordon} & = \underline {{\text Brasted}}      \\\\
+\end{aligned}
+$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A95BBF07-C11B-429F-9851-D474ECFF40FF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In ordinary arithmetic, numbers are given in base $10$ which means that for a number written as $469$ there are $4$ hundreds, $6$ tens and $9$ units so that
+
+$469 = 4 \times 100 + 6 \times 10 + 9 \times 1$
+
+In base $5$, only the digits $0, 1, 2, 3$ and $4$ are used. Instead of the columns representing hundreds, tens and units they now indicate how many twenty-fives, fives and units there are so the number 324 in base 5, represents 3 twenty-fives, 2 fives and 4 units so that
+
+$324$ (base $5$) $= 3 \times 25 + 2 \times 5 + 4 \times 1 = 75 + 10 + 4 = 89$ (base $10$)
+
+Use this process to convert the numbers $13$ and $341$, both given in base $5$, into base $10$:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$13$ (base $5$) $= \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13$ (base $5$)
+
+$ 
+\begin{aligned} 
+      & = 1 \times 5 + 3 \times 1 \\\\                   
+      & = 5 + 3                   \\\\
+      & = 8                       
+\end{aligned}
+$
+
+$13$ (base $5$) $= \underline{8}$ (base $10$)
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$341$ (base $5$) $= \text{\textunderscore \textunderscore \textunderscore}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$341$ (base $5$) 
+
+$ 
+\begin{aligned} 
+      & = 3 \times 25 + 4 \times 5 + 1 \times 1 \\\\                   
+      & = 75 + 20 + 1                           \\\\
+      & = 96                                    
+\end{aligned}
+$
+
+$341$ (base $5$) $= \underline{96}$ (base $10$)
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is possible to work backwards converting a number from base $10$ to base $5$. As an example, to convert $73$ from base 
+$10$ to base $5$ you could write:
+
+$73 = 50 + 20 + 3 = 2 \times 25 + 4 \times 5 + 3 \times 1$
+
+so in base $5$ the number would be written as $243$. Use this process to convert the numbers $17$ and $109$, both given in base $10$, 
+into base $5$:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$17$ (base $10$) 
+
+In base $5$, only the digits $0, 1, 2, 3$ and $4$ are used.
+
+$ 
+\begin{aligned} 
+      & = 15 + 2                  \\\\                   
+      & = 3 \times 5 + 2 \times 1 \\\\
+      & = 32                      
+\end{aligned}
+$
+
+$17$ (base $10$) $= \underline{32}$ (base $5$)
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$109$ (base $10$) $= \text{\textunderscore \textunderscore \textunderscore}$ (base 5)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$109$ (base $10$) 
+
+In base $5$, only the digits $0, 1, 2, 3$ and $4$ are used.
+
+$ 
+\begin{aligned} 
+      & = 100 + 5 + 4 \\\\                   
+      & = 4 \times 25 + 5  \times 1 + 4 \times 1    \\\\
+      & = 414                                    
+\end{aligned}
+$
+
+$109$ (base $10$) $= \underline{414}$ (base $5$)
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$414$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1E9F03BA-7298-4606-953B-9C6149610C9A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the triangles shown below each number is the sum of the two numbers directly underneath it. 
+For example, $26 = 12 + 14$ and $5 = 1 + 4$.
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the triangle of numbers:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the triangle of numbers:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CC1826DB-EA13-490B-A322-57640558FD22</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ten runners, numbered $5$ to $14$ inclusive, take part in a race. There were no tied positions.
+
+Winston watched the race but forgot to write down the positions of the runners. Fortunately Winston is a mathematician and he remembered one fact about the number of each competitor. List all possible numbers of the competitors in the spaces below. Hence complete the table showing the final positions in the race.
+
+-  $1 \text{st}$ Prime number
+-  $2 \text{nd}$ Factor of $24$
+-  $3 \text{rd}$ Cube number
+-  $4 \text{th}$ Multiple of $5$
+-  $5 \text{th}$ Factor of $187$
+-  $6 \text{th}$ Two-digit even number in which the first digit is smaller than the second
+-  $7 \text{th}$ Two-digit number in which both digits are square numbers 
+-  $8 \text{th}$ Number which has exactly four factors
+-  $9 \text{th}$ A square number
+-  $10 \text{th}$ A number which is greater than $10$
+
+![missing table](/papers/missing_table.svg)
+
+
+Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>36C75B5F-BB13-4FEA-9598-8E6F7DA4161C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If it is a cold rainy day then I wear a raincoat. If it is a warm rainy day then I carry an umbrella. 
+If I wear my raincoat then I also wear either gloves or a hat but not both. 
+If I carry an umbrella I always wear gloves and sometimes wear my hat as well. 
+I never carry an umbrella and wear my raincoat on the same day. 
+For each of the following, state whether it is definitely true, false or uncertain.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a warm rainy day. I wear my raincoat and a hat.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a warm rainy day. I carry my umbrella and wear a hat but no gloves.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a cold rainy day. I wear my raincoat, hat and no gloves.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
@@ -3661,6 +6106,263 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>73AA9A64-5FED-4291-AC0E-CC8491EFC073</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Carls has some coloured plastic tiles.
+
+Her tiles are in the shape of square, circle, star or triangle and are either black, grey or white.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table to show all of the possible different types of tiles.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Carla has each type of tile in small and large size.
+
+She has $24$ tiles altogether. 
+
+What fraction of the tiles are black?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many of the tiles are in the shape of a star?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Below are three of her tiles.
+
+![missing image](/papers/missing_image.svg)
+
+
+The small grey square differs from the large black circle in $3$ ways; size, colour and shape.
+
+Describe a tile which differs from the small white triangle in $1$ way.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many tiles differ from a large grey star in $3$ ways?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:32</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -5641,6 +8343,175 @@ $\dfrac{21}{36} \ $ Or $\ \ \dfrac{7}{12}$
 </ul>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3267C8BD-925B-4AC5-BD49-E453264E07A6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Using some or all of the digits $1,3,5,7,0$ make;
+(each digit may only occur once so the three digit number $113$ is not allowed but $507$ is)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A three digit even number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The smallest three digit multiple of $5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The largest possible multiple of $3$ (this does not have to be a three digit number and may have more digits).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

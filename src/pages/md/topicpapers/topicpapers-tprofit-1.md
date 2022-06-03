@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprofit-1"
 title: "Topicpapers Tprofit 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:58:44
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>450FEC63-5580-47DE-83CB-40719744776C</p>
 </div>
@@ -110,7 +110,7 @@ $\text{Shop C} = \pounds 820$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1558,7 +1558,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A6B8B57F-EC4F-46B7-B764-FB72554BB7C3</p>
 </div>
@@ -1612,7 +1612,7 @@ $\pounds 290$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

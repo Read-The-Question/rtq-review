@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-c"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper C"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -580,16 +580,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tratio
-</li>
-<li>
-tnumber
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>

@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdetailedmultiplication-all"
 title: "Topic - Detailedmultiplication - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2C145610-ABC7-4EB3-BF0E-4516DEA62C12</p>
 </div>
@@ -50,7 +50,7 @@ $15980$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4137,7 +4137,7 @@ $71685$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
 </div>
@@ -4177,12 +4177,12 @@ $16.848$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
 </div>
@@ -4233,12 +4233,12 @@ $221.2$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>95B95D83-440E-4D37-9093-A8502BF8615F</p>
 </div>
@@ -4290,12 +4290,12 @@ $740$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>42B172FC-BBD5-4557-9351-313D4B254286</p>
 </div>
@@ -4404,7 +4404,7 @@ $624$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4686,7 +4686,7 @@ $27.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
 </div>
@@ -4735,7 +4735,7 @@ $1 \ \text{and} 8$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5998,7 +5998,7 @@ $2312$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E404FC05-74EB-4BA5-8AA5-F7BB56EC041E</p>
 </div>
@@ -6040,7 +6040,7 @@ $4571$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6092,7 +6092,7 @@ $2926$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CE27A5B2-575E-4F53-8283-EB0B0D4AFBC3</p>
 </div>
@@ -6134,7 +6134,7 @@ $42498$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6186,7 +6186,7 @@ $6055$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B58BF69B-A845-42FC-ACEA-2C6568F27F66</p>
 </div>
@@ -6228,7 +6228,7 @@ $4781$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6280,7 +6280,7 @@ $24192$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
@@ -6322,7 +6322,7 @@ $19764$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

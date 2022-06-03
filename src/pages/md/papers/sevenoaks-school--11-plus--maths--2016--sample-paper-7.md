@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
 </div>
@@ -175,7 +175,7 @@ $\pounds 13.5$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -317,7 +317,7 @@ $\pounds 8.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
 </div>
@@ -443,12 +443,12 @@ $12$ Boxes
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
 </div>
@@ -499,12 +499,12 @@ $15$ coins of $10$p and $15$ coins of $50$p
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6443D616-5876-4F6C-BC1C-5A7423695DAC</p>
 </div>
@@ -560,7 +560,7 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1122,7 +1122,7 @@ $6.00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D12205F1-6F25-4231-A122-B2A390DC96CE</p>
 </div>
@@ -1235,12 +1235,12 @@ $P = 30 \ \text{cm}$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FAB79FDF-D313-405E-A038-7DEFEDC824BF</p>
 </div>
@@ -1300,7 +1300,7 @@ $1.96 \text{m}^2$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1886,10 +1886,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
+tinfer
 </li>
 </ul>
 </div>

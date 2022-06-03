@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-1"
 title: "Topicpapers Tstatistics 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6643,7 +6643,7 @@ $5, 10, 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2D66279A-3B8B-479F-AC1F-E867CF685CAD</p>
 </div>
@@ -6689,7 +6689,7 @@ $6.7$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10993,9 +10993,6 @@ TODOANSWER
 <ul>
 <li>
 tstatistics
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

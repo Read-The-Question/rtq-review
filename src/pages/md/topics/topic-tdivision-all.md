@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdivision-all"
 title: "Topic - Division - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -560,7 +560,7 @@ $142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
 </div>
@@ -607,7 +607,7 @@ $16$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -666,7 +666,7 @@ $0.4103$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EC50BF96-8275-40FB-9755-C0806452FE6D</p>
 </div>
@@ -717,7 +717,7 @@ $16$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4315,7 +4315,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>096AA73E-3271-49CC-97D7-2319FEA61B14</p>
 </div>
@@ -4425,7 +4425,7 @@ $32$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6536,58 +6536,6 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
-<div class='uuid'>
-<p>5F6EBC17-59BB-4241-954E-B94AC553427C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle all the numbers that can be exactly divided by $5$
-
-$68\:\:\:70\:\:\:43\:\:\:5\:\:\:217$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, if the last digit of a number is $0$ or $5$ , then the number is divisible by $5$ .
-
-As per the question, 
-
-Number divisible by $5 = 70$ and $5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70, 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>52AA9B6F-1D96-48C0-B961-C05BC3627BA0</p>
@@ -6634,6 +6582,174 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>5B8E1B2A-5F94-4F30-98A4-610D6E8B43B3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which **ONE** of the following numbers is NOT divisible by $3$?
+
+**A** $18171$   
+
+**B** $44481$   
+
+**C** $38501$   
+
+**D** $57060$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1+8+1+7+1 = 18$ is divisible by $3$. $18171$ is divisible by $3$.
+
+$4+4+4+8+1 = 21$ is divisible by $3$. $44481$ is divisible by $3$.
+
+$3+8+5+0+1 = 17$ is NOT divisible by $3$. $38501$ is NOT divisible by $3$.
+
+$5+7+0+6+0 = 18$ is divisible by $3$. $57060$ is divisible by $3$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$C$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>3F019B2C-E891-4AAA-8B78-0E0DF81B8489</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$6764 \div 89 = 76$
+
+Use this result to **$\underline{write \,down}$** the answers to each of the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6764 \div 76$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question, 
+
+$
+\begin{aligned}
+6764 \div 89             &= 76 \\\\
+\dfrac {6764} {89}       &= 76 \\\\
+6764                     &= 76 \times 89 \\\\
+\dfrac {6764} {76}       &= 89 \\\\
+6764 \div 76             &= 89
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$89$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$7.6 \div 0.89$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -6794,7 +6910,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>909EAF41-1B93-4DEA-8461-5EBF848DAA72</p>
 </div>
@@ -6832,12 +6948,12 @@ $7$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FD085C84-CBB1-4F3D-9214-8C8986D4496E</p>
 </div>
@@ -6882,7 +6998,7 @@ $40$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

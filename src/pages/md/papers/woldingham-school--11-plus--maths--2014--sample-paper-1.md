@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,7 +55,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>909EAF41-1B93-4DEA-8461-5EBF848DAA72</p>
 </div>
@@ -93,12 +93,12 @@ $7$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FD085C84-CBB1-4F3D-9214-8C8986D4496E</p>
 </div>
@@ -143,7 +143,7 @@ $40$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -420,7 +420,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CD45A7DB-1E28-4E52-9013-D5CAC95F4635</p>
 </div>
@@ -461,7 +461,7 @@ $57$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1375,9 +1375,6 @@ Any number between $795$ to $805$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
 </li>
 </ul>
@@ -1443,9 +1440,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tpercentage
 </li>
@@ -1833,9 +1827,6 @@ $-5$
 <ul>
 <li>
 tstatistics
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

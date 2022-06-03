@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:49:14
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EBBA8025-CCA0-4B2E-A205-D28C0E59A011</p>
 </div>
@@ -58,7 +58,7 @@ $1080$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -186,9 +186,6 @@ $196$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1461,7 +1458,7 @@ TODOANSWER
 # Section B C
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3D3DA408-8186-4C87-A0D1-474EF05DE36F</p>
 </div>
@@ -1504,7 +1501,7 @@ $8000$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1723,7 +1720,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -1764,7 +1761,7 @@ $28.4 \ \text{cm}^2$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

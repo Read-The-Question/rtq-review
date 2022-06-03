@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g0"
 title: "Topic - Order - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1721,7 +1721,7 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 torder
 </li>
 <li>
-tcrircleanswer
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4353,7 +4353,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 torder
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4405,7 +4405,7 @@ $1.05$
 torder
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

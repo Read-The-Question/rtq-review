@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "Topicpapers Ttime 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -531,7 +531,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 ttime
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -1100,6 +1100,182 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>654FC6F2-DF8B-40E0-8729-7984D08B8A1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A bus holds $12$ people.
+
+How many buses are needed to transport $175$ students to the athletics stadium?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark goes to school from Monday to Friday, but he has trouble getting out 
+of bed and arrives late if there is an **‘s’** in the name of the day. 
+
+During the $12$ weeks of term, how many days did he arrive late?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Cormac leaves the house with $\pounds 120$ in his wallet after his birthday.
+
+He spends $25 \%$ of it on a game for his Xbox, and $10 \%$ of the rest on a DVD. 
+How much money does he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4559,7 +4735,7 @@ $55800 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
@@ -4601,7 +4777,7 @@ $13{:}13$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6819,7 +6995,7 @@ $1440 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33697C4D-2660-4DBB-9DF6-4265704C84DB</p>
 </div>
@@ -6863,7 +7039,7 @@ $9{:}02 \ \text{am}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7047,7 +7223,7 @@ $01{:}52 \ \text {P.M}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CB718008-6C5B-486B-83F4-A32A6530AAA0</p>
 </div>
@@ -7093,7 +7269,7 @@ $18{:}27$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7619,7 +7795,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr` question'>
+<div class='question_envelope rag_wf_oldpr` question'>
 <div class='uuid'>
 <p>EED09DAF-B788-460F-8A98-D115A88915CB</p>
 </div>
@@ -7654,7 +7830,7 @@ $2 {:} 25$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr`</p>
+<p>rag_wf_oldpr`</p>
 </div>
 </div>
 </li>
@@ -8379,7 +8555,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F541C565-A23A-42AB-A949-6DABF9981E5A</p>
 </div>
@@ -8423,7 +8599,7 @@ $115  \ \text{minutes}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8606,7 +8782,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08225CB2-D581-41F3-8761-A49B7C43EE9B</p>
 </div>
@@ -8726,12 +8902,12 @@ $\pounds 25.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D2A168A8-050D-4654-AE7A-C46CC8C46289</p>
 </div>
@@ -8784,7 +8960,7 @@ $33600$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8957,7 +9133,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
 </div>
@@ -9105,12 +9281,12 @@ $11 \ \text{ mins}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
 </div>
@@ -9254,7 +9430,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9854,63 +10030,6 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 </ul>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many seconds are there in a day?
-
-
-- $3600$
-- $1400$
-- $1440$
-- $51{,}840$
-- $86{,}400$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{One minute has} &= 60 \ \text{seconds} \\\\
-\text{One hour has} &= 60 \ \text{minutes} \\\\
-\text{one day has } &= 24 \ \text{hours} \\\\
-\text{Thus,} \ \ 80  \ \text{x}  \ \ 60  \ \text{x} \ \ 24 &= 86{,}400  \ \text{seconds in a day.}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>E</p>
-</div>
-<div class='answer'>
-
-$86{,}400$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

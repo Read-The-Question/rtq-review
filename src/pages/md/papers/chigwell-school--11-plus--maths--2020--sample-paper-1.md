@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -343,7 +343,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>454E0C83-23ED-4839-B389-520CDF891C9D</p>
 </div>
@@ -391,7 +391,7 @@ $18$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -557,7 +557,7 @@ $\pounds 1158$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
 </div>
@@ -626,12 +626,12 @@ $30 \ \text {cm}$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
 </div>
@@ -692,7 +692,7 @@ $4$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1091,7 +1091,7 @@ $27 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>19818B2F-9086-4F00-9201-4F75D3C5194C</p>
 </div>
@@ -1180,7 +1180,7 @@ $
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1717,10 +1717,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tformula
+talgebra
 </li>
 </ul>
 </div>

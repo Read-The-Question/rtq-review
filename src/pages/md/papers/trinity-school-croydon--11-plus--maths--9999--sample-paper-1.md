@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1C514F06-892C-4D6B-B88A-39AD11BE348B</p>
 </div>
@@ -56,7 +56,7 @@ $7929$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -208,7 +208,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9C5A0EF1-A8A5-42F9-8717-C0DB88208ECE</p>
 </div>
@@ -300,7 +300,7 @@ $10.47$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -628,7 +628,7 @@ $15 \text{rounds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -690,7 +690,7 @@ $30, 135$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -801,17 +801,14 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>92F50556-BDE8-4519-B178-C9ADAC015801</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+torder
 </li>
 </ul>
 </div>
@@ -977,7 +974,7 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1435,7 +1432,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>14E5F246-D749-41FC-B5F4-8237AC1F466F</p>
 </div>
@@ -1563,7 +1560,7 @@ $146700$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2341,7 +2338,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
@@ -2456,20 +2453,17 @@ $4$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>84DF97A5-920D-4BF6-91EC-3314D5655765</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2804,7 +2798,7 @@ $12$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

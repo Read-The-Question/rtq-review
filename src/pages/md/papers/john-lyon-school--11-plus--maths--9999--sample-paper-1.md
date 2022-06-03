@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -116,7 +116,7 @@ $11.0009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>7C019C3E-AD26-40DA-B445-DA91FABB7060</p>
 </div>
@@ -158,7 +158,7 @@ $3211$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -756,10 +756,7 @@ $56$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1073,13 +1070,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>66F65F3C-8524-46CB-A174-4E42F5C32FBC</p>
 </div>
@@ -55,7 +55,7 @@ $5632$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -107,7 +107,7 @@ $4556$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B58BF69B-A845-42FC-ACEA-2C6568F27F66</p>
 </div>
@@ -149,7 +149,7 @@ $4781$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -194,7 +194,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>49AC9C82-DFE8-430B-A040-246A3ED7DE20</p>
 </div>
@@ -305,7 +305,7 @@ $2007$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -410,7 +410,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
 </div>
@@ -423,7 +423,7 @@ tsequence
 tnoexplanation
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -457,7 +457,7 @@ $0.603$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -562,7 +562,7 @@ $5,12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CA18EE51-E05D-43B3-9A52-6279C6630C9D</p>
 </div>
@@ -720,7 +720,7 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2627,7 +2627,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DC8558C2-EE37-46DD-A01E-FF5282A31014</p>
 </div>
@@ -2692,7 +2692,7 @@ $8 \ \text {cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

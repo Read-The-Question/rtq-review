@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-all"
 title: "Topic - Trialerror - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -376,80 +376,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah has theses digits cards:
-
-$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
-
-She makes a $2$-digit number and $1$-digit number using all the cards.
-She multiplies them together.
-Her answer is the multiple of $3$.
-
-Which of the following could NOT be a possible answer?
-
--  $25 \times 4$
--  $42 \times 5$
--  $54 \times 2$
--  $24 \times 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
-
-| Number    |         Sum                                           | Divisible $3$
-|:------:   |:----------------------------------------------------: | :-----:
-|  $25$     | $2 + 5 = \green{7}$                                   |  No
-|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
-|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
-|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
-
-The answer that could not be possible $= 25 \times 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$25 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1280,71 +1206,6 @@ $14$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B74FD1B5-8CBD-45FD-A538-4105553D541F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a 2-digit number. 
-
-When the number is divided by $5$ the remainder is $2$.
-
-When the number is divided by $7$ the remainder is $4$.
-
-What is the smallest 2-digit number that I was thinking of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

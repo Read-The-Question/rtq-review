@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1315,7 +1315,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
 </div>
@@ -1465,12 +1465,12 @@ $50 \%$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>308CBA46-F672-4F81-9586-243D9BBCA08E</p>
 </div>
@@ -1520,7 +1520,7 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2601,13 +2601,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation

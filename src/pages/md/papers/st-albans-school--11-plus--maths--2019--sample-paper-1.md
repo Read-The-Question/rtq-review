@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2450,13 +2450,7 @@ $25, 5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>

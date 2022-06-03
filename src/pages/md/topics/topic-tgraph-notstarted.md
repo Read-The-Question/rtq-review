@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgraph-notstarted"
 title: "Topic - Graph - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3496,7 +3496,7 @@ TODOANSWER
 tgraph
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -11158,6 +11158,175 @@ TODOANSWER
 </div>
 </div>
 
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3B271B17-398B-42AD-B541-3F80801397B7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey, $1000$ people were asked if they owned a 
+computer. The pictogram shows the results of the survey. 
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In which country did the greatest number of people own a computer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the number of people in Italy who owned a computer. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In which country did $240$ people own a computer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
@@ -31338,16 +31507,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
 tgraph
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

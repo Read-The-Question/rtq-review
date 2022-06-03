@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-1"
 title: "Topicpapers Tgeometry 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -214,6 +214,59 @@ Label both vertices with $*$.
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1C408E70-1672-4B43-A64A-51EFD6977DC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add the number of sides of a decagon to the number of 
+sides of a pentagon, then multiply by the number of faces of a cuboid. 
+
+What is your answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -769,6 +822,107 @@ $2$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>ADACADD4-3CE8-46AF-977B-B7D792EEA446</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This tower is made of small cubes.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+If the tower is taken apart and rebuilt into the big cube shown below, how many small cubes are left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CCA5B1E8-9CD3-414C-BAAB-0B602DD15D99</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down how many cubes and triangular blocks are used to make the ship shown below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>FBC35DFD-DE18-4E4F-BDEF-DB48D39CC40F</p>
 </div>
 <div class='topics'>
@@ -838,6 +992,72 @@ TODOANSWER
 
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9500ACF7-6DD6-45F5-B231-7F60A94A3BF8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Turning**
+
+Here is a shape.
+
+![missing image](/papers/missing_image.svg)
+
+
+I turn the shape through **45° clockwise**. 
+
+Tick $(\checkmark)$ the diagram that shows the shape **after** the turn.
+
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+     ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "Topicpapers Talgebra 5"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,84 +14,6 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>92ED95C5-5173-4603-A6B6-7ACBF5D59202</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When I emptied my pockets recently I found I had a mixture of $10 \text{p}$, $20 \text{p}$, $50 \text{p}$ and $\pounds 1$ coins. 
-When I counted the value of all the coins, the total amount came to $\pounds 7.20$ and there were equal numbers of each coin. 
-
-How many coins were there altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the count of coins of each denomination $= c$.
-
-It is really important to use the right units in calculations and convert where required
-. Let's convert the total amount into pence.
-
-As per the question,
-
-$
-\begin{aligned}
-10 \times c + 20 \times c + 50 \times c + 100 \times c   &= \pounds 7.20 \\\\
-10c + 20c + 50c + 100c                                   &= 720 \\\\
-180c                                                     &= 720 \\\\
-c                                                        &= \dfrac {720} { 180} \\\\
-c                                                        &= \dfrac {180 \times 4} { 180} \\\\
-c                                                        &= \dfrac {\cancel{180} \times 4} { \cancel{180}} \\\\
-c                                                        &= 4
-\end{aligned}
-$ 
-
-There are $4$ coins of each type and $4$ different types of coins.
-
-$
-\begin{aligned}
-\text{Total coins}   &=  4 \times 4 \\\\
-                     &= 16 \ \text{coins}
-\end{aligned}
-$   
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4794,7 +4716,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ABA366D-6722-48B2-9A4C-D98E63A13BFD</p>
 </div>
@@ -4908,12 +4830,12 @@ $5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EA27B9DD-790C-44A0-8752-26E1204AF515</p>
 </div>
@@ -4969,12 +4891,12 @@ $\pounds 2.08$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
@@ -5030,12 +4952,12 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
 </div>
@@ -5089,7 +5011,7 @@ $8$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5209,7 +5131,7 @@ $352$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2960FFC6-FBA2-447C-BF04-E3648C9CB1C2</p>
 </div>
@@ -5262,12 +5184,12 @@ $14 \ \text {years}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>10D44C55-4639-4E1B-933F-702EB8DE1D6F</p>
 </div>
@@ -5315,7 +5237,7 @@ $3 \ \text{kg}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5729,7 +5651,7 @@ $34$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B67C812C-8264-4E3E-AE90-257236E2DAC5</p>
 </div>
@@ -5775,7 +5697,7 @@ $45$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6130,7 +6052,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4E026293-8092-4F84-94CD-07F5A6F4E37D</p>
 </div>
@@ -6352,12 +6274,12 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3A6DE7DE-2610-4BB9-B90F-CF47C2F942B9</p>
 </div>
@@ -6553,12 +6475,12 @@ $5-2e$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>10F6A653-86A6-4A15-B189-E38E373A64BD</p>
 </div>
@@ -6706,7 +6628,7 @@ $12$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7057,7 +6979,7 @@ $15 \text{rounds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>33FD2E24-6D5F-48B6-8104-E7A1C7EBD9B0</p>
 </div>
@@ -7119,7 +7041,7 @@ $30, 135$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7174,7 +7096,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>48C8A320-D1E7-4D75-84D8-799A4AA7A4A2</p>
 </div>
@@ -7289,7 +7211,7 @@ $4$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7428,7 +7350,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>63ED19B8-7E96-4F52-9B00-D3ED22D0D160</p>
 </div>
@@ -7479,7 +7401,7 @@ $17$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

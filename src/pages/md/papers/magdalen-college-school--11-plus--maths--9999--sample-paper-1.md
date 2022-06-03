@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>39FEECD6-F2F2-4967-9FC1-5D2680489012</p>
 </div>
@@ -309,7 +309,7 @@ $26$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

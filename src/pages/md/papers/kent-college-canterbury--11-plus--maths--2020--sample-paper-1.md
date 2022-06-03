@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A5E95BB5-27CE-4456-93B4-E2F9BEE5CF5D</p>
 </div>
@@ -275,7 +275,7 @@ $2583$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -545,9 +545,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

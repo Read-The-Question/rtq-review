@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2581,13 +2581,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tnumber
 </li>
 <li>
 tstatistics
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>

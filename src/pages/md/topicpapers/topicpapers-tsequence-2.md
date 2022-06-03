@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-2"
 title: "Topicpapers Tsequence 2"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1032,7 +1032,7 @@ $0.16, 0.032$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1540DF4F-AD9B-49DE-8233-4569D99EFC30</p>
 </div>
@@ -1289,12 +1289,12 @@ $13, 21$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AE9B538A-8351-4BCF-B36D-B5B1D18CF66B</p>
 </div>
@@ -1548,12 +1548,12 @@ $122, 365$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>CC407948-E5AE-4B12-9ECD-9E6C2D91A291</p>
 </div>
@@ -1806,7 +1806,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1956,7 +1956,7 @@ $43, 37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
 </div>
@@ -2168,12 +2168,12 @@ $24, 3$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>219E449F-2516-48DE-B763-E1C74A1FC8E4</p>
 </div>
@@ -2373,12 +2373,12 @@ $-1, -7$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
 </div>
@@ -2447,12 +2447,12 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
 </div>
@@ -2521,7 +2521,7 @@ $315, 240$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3173,7 +3173,7 @@ $65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>49F4F71D-E31B-4B40-81AA-518393D5C392</p>
 </div>
@@ -3248,12 +3248,12 @@ $3,-1$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>698B11F8-9733-47E3-A64E-683A3E3D6D13</p>
 </div>
@@ -3363,12 +3363,12 @@ $50$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>ED704D79-81D3-4EB7-A041-6E67CD5FE873</p>
 </div>
@@ -3510,12 +3510,12 @@ $17 - 4n$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3</p>
 </div>
@@ -3585,12 +3585,12 @@ $6$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:0</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1BF5B2D6-98CF-4595-ACA4-62872303DF5D</p>
 </div>
@@ -3647,7 +3647,7 @@ $A = 14$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4214,6 +4214,176 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A7F0B23B-97E3-432A-B51B-2D02118F9825</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sequence of numbers which get multiplied (or divided) by a fixed amount each time is called a geometric progression $(GP)$. 
+For example, the sequence:
+
+$1 \text{st}$ term $= 6, \quad 2 \text{nd}$ term $= 12, \quad 3 \text{rd}$ term $= 24, \quad 4 \text{th}$ term $= 48$ 
+
+is a $GP$ because you multiply by $2$ to go from one term to the next.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The $1 \text{st}$ term of a $GP$ is $8$ and the $2 \text{nd}$ term is $24$. Work out the $3 \text{rd}$ term.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The $1 \text{st}$ term of a $GP$ is $20$ million and the $2 \text{nd}$ term is $2$ million. Work out the $9 \text{th}$ term.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The $1 \text{st}$ term of a GP is $8$ and the $3 \text{rd}$ term is $200$. Work out the $2 \text{nd}$ term.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -5425,7 +5595,7 @@ $2007, \ 918, \ 45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
 </div>
@@ -5518,7 +5688,7 @@ $11, 12 \dfrac{1}{2}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7868,7 +8038,7 @@ $26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
 </div>
@@ -7881,7 +8051,7 @@ tsequence
 tnoexplanation
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -7915,7 +8085,7 @@ $0.603$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8214,7 +8384,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>44FC571D-648D-4BAC-856A-7740FD79FC86</p>
 </div>
@@ -8299,7 +8469,7 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9518,7 +9688,7 @@ $-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
 </div>
@@ -9597,12 +9767,12 @@ Second line : $6^2 + 13 = 49$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -9610,9 +9780,6 @@ Second line : $6^2 + 13 = 49$
 <ul>
 <li>
 tsequence
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -9665,7 +9832,7 @@ No
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9842,7 +10009,7 @@ Missing Numbers : $3 , 27 , 81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
 </div>
@@ -10030,7 +10197,7 @@ $16$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10093,7 +10260,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
 </div>
@@ -10335,7 +10502,7 @@ $7$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

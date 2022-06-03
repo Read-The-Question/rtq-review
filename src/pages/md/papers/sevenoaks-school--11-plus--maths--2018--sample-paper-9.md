@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>02E8A3E3-375F-4D9B-81E3-04DF65B30116</p>
 </div>
@@ -134,12 +134,12 @@ $26$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
 </div>
@@ -263,7 +263,7 @@ $1120$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -671,7 +671,7 @@ $325.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>30BB4D17-C37D-40B1-AF7F-3F86ECBCA8C0</p>
 </div>
@@ -708,7 +708,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -887,7 +887,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4</p>
 </div>
@@ -997,7 +997,7 @@ $\dfrac {3} {7}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1263,7 +1263,7 @@ $64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
 </div>
@@ -1331,7 +1331,7 @@ $54$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1382,7 +1382,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
 </div>
@@ -1515,12 +1515,12 @@ $105 \ \text {degrees}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
 </div>
@@ -1565,12 +1565,12 @@ $19.4 \ \text {cm}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
 </div>
@@ -1617,12 +1617,12 @@ $18 \ \text {cm} ^ 2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
 </div>
@@ -1682,7 +1682,7 @@ $98 \ \text {cm} ^ 2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

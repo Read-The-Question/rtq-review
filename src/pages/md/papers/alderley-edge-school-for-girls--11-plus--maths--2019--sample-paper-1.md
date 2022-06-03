@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -70,7 +70,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>F067F26D-49E2-4623-9D90-C1C324D3EFB6</p>
 </div>
@@ -123,7 +123,7 @@ $3.154$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -397,7 +397,7 @@ $47$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -501,7 +501,7 @@ $8, 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -622,7 +622,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -676,12 +676,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
 </div>
@@ -732,7 +732,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -799,7 +799,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -853,7 +853,7 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1311,7 +1311,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
 </div>
@@ -1362,7 +1362,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1426,7 +1426,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
 </div>
@@ -1479,7 +1479,7 @@ $-16$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1488,14 +1488,14 @@ $-16$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>
@@ -1530,12 +1530,12 @@ $349$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
 </div>
@@ -1570,7 +1570,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2260,7 +2260,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -2307,12 +2307,12 @@ $15$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3C1A8ECE-FC50-4AC9-B755-F100FE9325E2</p>
 </div>
@@ -2369,7 +2369,7 @@ $3 \ \text {hours} \ 20 \ \text {minutes}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2875,7 +2875,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
 </div>
@@ -3001,7 +3001,7 @@ $6$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3067,7 +3067,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -3234,7 +3234,7 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

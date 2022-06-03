@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-g0"
 title: "Topic - Factor - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -12,13 +12,7 @@ date: 2022-06-02 11:49:14
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -924,92 +918,12 @@ $30, 10, 3$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah has theses digits cards:
-
-$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
-
-She makes a $2$-digit number and $1$-digit number using all the cards.
-She multiplies them together.
-Her answer is the multiple of $3$.
-
-Which of the following could NOT be a possible answer?
-
--  $25 \times 4$
--  $42 \times 5$
--  $54 \times 2$
--  $24 \times 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
-
-| Number    |         Sum                                           | Divisible $3$
-|:------:   |:----------------------------------------------------: | :-----:
-|  $25$     | $2 + 5 = \green{7}$                                   |  No
-|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
-|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
-|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
-
-The answer that could not be possible $= 25 \times 4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$25 \times 4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>601C328B-929D-4CC4-9443-D89375DA371E</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1050,179 +964,6 @@ $1 + 2 \times 3 \times 4$
 
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7C785172-CCF2-4BDA-BF7D-65D283EB76B5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is a list of numbers.
-
-$17 \quad 24 \quad 25 \quad 26 \quad 35 \quad 43 \quad 44$
-
-From the numbers in the list, write down:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the odd number that is larger than $40$,
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$43$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$43$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the number that is a multiple of $7$, 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-two numbers that have a difference of $20$,
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 44 - 24 \\\\
-&= 20
-\end {aligned}
-$
-
-Two numbers that have a difference of $20$ are $44$ and $24$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24, 44$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1282,13 +1023,7 @@ $2 \times 3 \times 17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1328,16 +1063,7 @@ $210$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -2059,16 +1785,7 @@ $2, \ 3, \ \text{and} \ 5$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -2874,13 +2591,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 <li>
 tnoexplanation
@@ -3087,13 +2798,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

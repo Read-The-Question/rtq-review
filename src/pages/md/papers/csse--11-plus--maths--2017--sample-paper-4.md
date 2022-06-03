@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -285,9 +285,6 @@ $13 \times 7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

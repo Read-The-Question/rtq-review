@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
 </div>
@@ -55,7 +55,7 @@ $4245$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -368,7 +368,7 @@ $48$
 torder
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -473,7 +473,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -3875,13 +3875,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-ttable
-</li>
-<li>
-tfraction
-</li>
-<li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>

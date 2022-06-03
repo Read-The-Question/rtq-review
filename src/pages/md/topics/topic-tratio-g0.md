@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tratio-g0"
 title: "Topic - Ratio - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -126,6 +126,60 @@ $60$ cupcakes
 </ul>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The jug contains some orange squash. 
+How much water must be added to make $500 \ \text{millilitres}$ of drink?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Water required}                         &= 500 \ \text{ml} - 140 \ \text{ml} \\\\
+                                              &= 360 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$360 \ \text{ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

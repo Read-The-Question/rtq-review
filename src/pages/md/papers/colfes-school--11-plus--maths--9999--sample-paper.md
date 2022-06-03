@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>505845A2-5C6F-4B31-8F40-6A5A68AB5C7E</p>
 </div>
@@ -56,7 +56,7 @@ $724$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -350,7 +350,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E2A86E36-8634-4CA1-A662-F25074BFEB0A</p>
 </div>
@@ -399,7 +399,7 @@ $16.76$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1200,7 +1200,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1858C278-6BA1-4C5E-A7A4-D09F4BAF1636</p>
 </div>
@@ -1311,12 +1311,12 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D71A8D20-2E8A-4417-920F-57E32AF54FC8</p>
 </div>
@@ -1362,12 +1362,12 @@ $\pounds 20.90$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
 </div>
@@ -1428,7 +1428,7 @@ $39$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1703,7 +1703,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
 </div>
@@ -1760,7 +1760,7 @@ $35 \degree$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1860,7 +1860,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
 </div>
@@ -2033,7 +2033,7 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2044,9 +2044,6 @@ $
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2370,7 +2367,7 @@ $9.8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
@@ -2503,12 +2500,12 @@ $48 \ \text {cm} ^ 2$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -2575,7 +2572,7 @@ $96$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

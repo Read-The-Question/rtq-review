@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ga-g0"
 title: "Reviewer - Gifty Abhishek - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1651,53 +1651,6 @@ $6$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>F7E0583D-07FE-4CA1-A171-55FD2D1213F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2345 + 6789$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &       2       & 3     & 4      & 5  \\
-{}+ &       6       & 7     & 8      & 9  \\
-\hline
-    &       9       & 1     & 3      & 4   \\
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9134$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

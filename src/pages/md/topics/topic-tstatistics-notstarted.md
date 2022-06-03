@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-notstarted"
 title: "Topic - Statistics - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -9993,13 +9993,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tnumber
 </li>
 <li>
 tstatistics
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -13324,9 +13324,6 @@ TODOANSWER
 <ul>
 <li>
 tstatistics
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

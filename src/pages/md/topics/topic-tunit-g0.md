@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-g0"
 title: "Topic - Unit - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,10 +61,7 @@ $2400 \ \text{g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tratio
 </li>
 <li>
 tunit
@@ -1297,129 +1294,6 @@ $3.284$m
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
-                                     &= 0.23 \ \text{m} \\\\
-                                     &= 0.23 \times 100 \ \text{cm} \\\\
-                                     &= 23 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
-                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
-                                       &= \dfrac {162} {3} \ \text{cm} \\\\
-                                       &= \dfrac {54 \times 3} {3} \\\\
-                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
-                                       &= 54 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
 </div>
 <div class='topics'>
@@ -1901,7 +1775,7 @@ testimate
 tunit
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

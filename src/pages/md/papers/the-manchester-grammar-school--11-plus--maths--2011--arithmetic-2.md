@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -430,7 +430,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
@@ -629,7 +629,7 @@ $45 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

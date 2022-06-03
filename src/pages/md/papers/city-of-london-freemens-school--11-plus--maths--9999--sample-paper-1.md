@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -182,7 +182,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D5204F4A-B807-43B1-A353-487CB9B6B8B2</p>
 </div>
@@ -229,7 +229,7 @@ $16$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

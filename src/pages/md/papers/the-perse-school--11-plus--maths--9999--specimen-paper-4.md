@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -19,9 +19,6 @@ date: 2022-06-02 11:49:14
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -67,7 +64,7 @@ $401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0116AD01-1516-4A9D-AD3F-738ECA82148C</p>
 </div>
@@ -177,7 +174,7 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -242,10 +239,7 @@ $2.848 \text { kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tdivision
 </li>
 </ul>
 </div>
@@ -477,9 +471,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -663,13 +654,7 @@ $16$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tinfer
+tfraction
 </li>
 </ul>
 </div>
@@ -964,9 +949,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -1020,9 +1002,6 @@ Odd one : $2743$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1385,10 +1364,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tdivision
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "Topicpapers Tsequence 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -970,7 +970,7 @@ $9, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -1074,7 +1074,7 @@ $8, 13$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10927,7 +10927,7 @@ $25, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83</p>
 </div>
@@ -11015,7 +11015,7 @@ $18$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -19534,7 +19534,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
 </div>
@@ -19887,12 +19887,12 @@ $9$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D33DC09F-B58A-476F-A745-66D21A031401</p>
 </div>
@@ -20277,7 +20277,7 @@ $29, 40$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -20485,7 +20485,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>466857D6-9034-43F0-A8A6-12E5F1C6D0C0</p>
 </div>
@@ -20683,7 +20683,7 @@ $594$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -326,7 +326,7 @@ $\pounds 18.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>7E727E97-35F7-45AC-9A84-DFE534728056</p>
 </div>
@@ -457,7 +457,7 @@ $6, 7, 8$
 <p>sevenoaks-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

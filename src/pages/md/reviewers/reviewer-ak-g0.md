@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ak-g0"
 title: "Reviewer - Abhay Kandpal - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -695,9 +695,6 @@ $44$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -957,53 +954,6 @@ $0$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>98B67EA5-259E-41C7-A446-B2144A3E0059</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together $734$ and $5629$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   6   &   2   &   9 \\
-{}+ &       &   7   &   3   &   4 \\
-\hline
-    &   6   &   3   &   6   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6363$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>9E63C027-39DE-4488-870F-E7659D24D6F6</p>
 </div>
 <div class='topics'>
@@ -1106,10 +1056,7 @@ $15288$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tfraction
 </li>
 </ul>
 </div>
@@ -1161,9 +1108,6 @@ $\dfrac {1} {2}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1815,9 +1759,6 @@ $54 \ \text{m}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3989,13 +3930,7 @@ $-2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -4157,13 +4092,10 @@ $\pounds 5.02$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -7494,13 +7426,7 @@ $127 \text{p}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -9610,9 +9536,6 @@ $11{:}05 \ \text{a.m}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>
@@ -15646,16 +15569,7 @@ $55$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -17524,7 +17438,7 @@ $\text {Dana} = \pounds 22.5 \\
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -17569,53 +17483,6 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>DBAB529D-B9BF-4414-9EA7-904E639ED390</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add: $48 + 27$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   8 \\
-{}+ &   2   &   7 \\
-\hline
-    &   7   &   5
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -19851,56 +19718,6 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%waffles%
-
-$484 + 365$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   8   &   4 \\
-{}+ &   3   &   6   &   5 \\
-\hline
-    &   8   &   4   &   9 \\
-\hline
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$849$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -23551,53 +23368,6 @@ $103$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>19341413-65A3-4BC8-B57B-2F00FE94B081</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $2567 + 824$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2   &   5   &   6   &   7 \\
-{}+ &       &   8   &   2   &   4 \\
-\hline
-    &   3   &   3   &   9   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3391$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>216012EB-546B-44EF-A879-DBC7E51CF37C</p>
 </div>
 <div class='topics'>
@@ -24060,7 +23830,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 <li>
 tnoexplanation
@@ -25175,7 +24945,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -26006,7 +25776,7 @@ tunassigned
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -26453,7 +26223,7 @@ tgeometry
 tareaperimeter
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -26667,7 +26437,7 @@ testimate
 tunit
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -26762,53 +26532,6 @@ $\text{litres}$
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>C44CBD76-D13D-463B-AA1F-D81990B49022</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $379 + 485$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &    3     &    7    &   9 \\
-{}+ &    4     &    8    &   5 \\
-\hline
-    &    8     &    6    &   4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$864$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

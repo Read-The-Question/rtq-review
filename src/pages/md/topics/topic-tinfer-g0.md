@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tinfer-g0"
 title: "Topic - Infer - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -295,13 +295,75 @@ $42$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+<p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tinfer
 </li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah has theses digits cards:
+
+$\boxed{5} \quad \boxed{2} \quad \boxed{4}$
+
+She makes a $2$-digit number and $1$-digit number using all the cards.
+She multiplies them together.
+Her answer is the multiple of $3$.
+
+Which of the following could NOT be a possible answer?
+
+-  $25 \times 4$
+-  $42 \times 5$
+-  $54 \times 2$
+-  $24 \times 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know that a number is a multiple of 3 if the cross sum of the digits is divisible by 3.
+
+| Number    |         Sum                                           | Divisible $3$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $25$     | $2 + 5 = \green{7}$                                   |  No
+|  $42$     | $4 + 2 = \red{6}$                                     |  Yes
+|  $54$     | $5 + 4 = \red{9}$                                     |  Yes
+|  $24$     | $2 + 4 = \red{6}$                                     |  Yes
+
+The answer that could not be possible $= 25 \times 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$25 \times 4$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+</div>
+<div class='topics'>
+<ul>
 <li>
 tinfer
 </li>
@@ -342,123 +404,6 @@ $1537$
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>34002753-62F3-4728-B81A-259E3A726491</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $231 \times 43 - 31 \times 43$ using an efficient method. Show working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 231 \times 43 - 31 \times 43 \\\\
-&= 43 (231 - 31) \\\\
-&= 43 \times 200 \\\\
-&= 8600
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8600$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $26 \times 345 - 101 \times 345 + 75 \times 345$ using an efficient method. Show working.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 26 \times 345 - 101 \times 345 + 75 \times 345 \\\\
-&= 345 (26 - 101 + 75) \\\\
-&= 345 \times 0  \\\\
-&= 0
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

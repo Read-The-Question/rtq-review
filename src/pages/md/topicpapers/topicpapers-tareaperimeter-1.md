@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "Topicpapers Tareaperimeter 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:58:44
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>71BAE604-5A28-4AE4-95ED-49D812FF6AF2</p>
 </div>
@@ -71,12 +71,12 @@ $8 \ \text{mm}$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>818A3399-A21C-4308-BB9A-424A3CC74F98</p>
 </div>
@@ -159,7 +159,7 @@ Length $= 9 \ \text{cm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -370,7 +370,7 @@ $150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5956440A-E503-4587-BFE7-D009144AE8EE</p>
 </div>
@@ -445,7 +445,7 @@ $32$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -500,7 +500,7 @@ $56 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FA9861FD-232E-4ED5-9793-77E5EFC8EB56</p>
 </div>
@@ -547,7 +547,7 @@ $15$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2179,6 +2179,61 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>0EECF7A5-9141-40B4-9FF1-7DC9F43A7624</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes $9 \ \text{litres}$ of paint to cover the surface of the cube on the left.
+
+![missing image](/papers/missing_image.svg)
+
+
+How many litres of paint would it take to cover the surface of the shape on the right?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>21315389-F252-49A5-83B3-6296A9B669CC</p>
 </div>
 <div class='topics'>
@@ -3515,7 +3570,7 @@ $36 \text {m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>61C1A420-8257-47F8-8AF9-90E715F64BCC</p>
 </div>
@@ -3584,7 +3639,7 @@ $30 \ \text {cm}$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4717,7 +4772,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A378EBC6-7DBB-440C-8EF8-40C2D3B7F5D7</p>
 </div>
@@ -4850,12 +4905,12 @@ $48 \ \text {cm} ^ 2$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>79724FE5-0A3C-4E20-865A-B61A7EA91907</p>
 </div>
@@ -4922,7 +4977,7 @@ $96$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6816,12 +6871,6 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <li>
 tareaperimeter
 </li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8262,12 +8311,6 @@ TODOANSWER
 <ul>
 <li>
 tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -11217,58 +11260,6 @@ $\text {3cm, \ 3cm, \ 8cm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>2B60E137-B7D3-4928-80E0-5B838ED84D0C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find in terms of $x$ the perimeter of the following triangle:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Perimeter of triangle} &= (4x - 3) + (2x + 1) + (5 - 2x) \\\\
-                              &= (4x + 2x - 2x) + (- 3 + 1 + 5) \\\\
-                              &= 4x + 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4x + 3$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

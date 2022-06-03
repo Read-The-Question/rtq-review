@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmiddlenumber-all"
 title: "Topic - Middlenumber - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -316,7 +316,7 @@ $0.142$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
 </div>
@@ -453,7 +453,7 @@ $0.45$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -579,7 +579,7 @@ $0.875$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5533A075-BAD7-4675-83E0-25352274D043</p>
 </div>
@@ -713,7 +713,7 @@ $\dfrac {13} {20}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

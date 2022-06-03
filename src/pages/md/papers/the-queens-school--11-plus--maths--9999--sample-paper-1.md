@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C1C99FCD-4F91-41A9-8CC0-D6656869C69A</p>
 </div>
@@ -56,7 +56,7 @@ $5581$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -109,7 +109,7 @@ $447$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F7B20DEF-90DB-4F1C-858F-9F35E931F593</p>
 </div>
@@ -426,12 +426,12 @@ $0.09$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
 </div>
@@ -619,7 +619,7 @@ $16$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -674,17 +674,17 @@ $18.87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3451CE50-4E36-45DB-A7E7-4BEAA4FFABA4</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tnumber
 </li>
 <li>
-tnumber
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -719,7 +719,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -936,7 +936,7 @@ One $2 \text{p}$ coin.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>30F8E595-EE50-4532-916C-D174DB902094</p>
 </div>
@@ -977,7 +977,7 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1205,7 +1205,7 @@ TODOANSWER
 tnumber
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

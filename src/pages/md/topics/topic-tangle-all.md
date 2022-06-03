@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tangle-all"
 title: "Topic - Angle - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -127,7 +127,7 @@ $67 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC</p>
 </div>
@@ -177,7 +177,7 @@ $300 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -374,7 +374,7 @@ $135 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -541,7 +541,7 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1172,7 +1172,7 @@ $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
 </div>
@@ -1247,7 +1247,7 @@ $
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1880,7 +1880,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
 </div>
@@ -1937,7 +1937,7 @@ $35 \degree$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3802,7 +3802,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
 </div>
@@ -3966,12 +3966,12 @@ $60 \degree$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D</p>
 </div>
@@ -4218,7 +4218,7 @@ $38 \degree$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -5449,7 +5449,7 @@ $20 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
 </div>
@@ -5497,7 +5497,7 @@ $75 \degrees$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -6002,7 +6002,7 @@ $36 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
 </div>
@@ -6135,12 +6135,12 @@ $105 \ \text {degrees}$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
 </div>
@@ -6208,7 +6208,7 @@ $
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7085,7 +7085,7 @@ $85 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
 </div>
@@ -7147,12 +7147,12 @@ $190$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D25333F7-26CB-40ED-B8C0-0A79EDC6213F</p>
 </div>
@@ -7212,7 +7212,7 @@ $136 \degree$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -7289,7 +7289,7 @@ $110\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
@@ -7411,7 +7411,7 @@ $30 \degree$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -8478,7 +8478,7 @@ $100 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
@@ -8677,7 +8677,7 @@ $45 \degree$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9305,7 +9305,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -9358,7 +9358,7 @@ $27 \degree$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

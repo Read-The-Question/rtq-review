@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "Topicpapers Tratio 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -401,6 +401,60 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3CF2E7E6-C0AF-4E86-9374-F5C10C55C419</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The jug contains some orange squash. 
+How much water must be added to make $500 \ \text{millilitres}$ of drink?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+\text{Water required}                         &= 500 \ \text{ml} - 140 \ \text{ml} \\\\
+                                              &= 360 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$360 \ \text{ml}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1748,6 +1802,234 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Tanya mixes cranberry juice and lemonade to make a refreshing drink.
+She uses $3$ times more lemonade than cranberry juice to make the drink.
+
+Tanya uses $759 \ \text{ml}$ of lemonade.
+
+How much of the drink does she make?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A drink is made by mixing fruit juice with water.
+$39 \ \text{ml}$ of fruit juice is needed to make $600 \ \text{ml}$ of the drink.
+
+How much water is needed make $800 \ \text{ml}$ of the drink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a maths test pupils have to answer all $20$ questions. $3$ marks are awarded for each correct answer, 
+but $1$ mark is subtracted for each incorrect answer.
+
+Bobby answers $4$ more questions correctly than Tim, and between them they score $48$ marks in total. 
+How many questions did Tim answer correctly?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the mathematics puzzles below, the numbers in the square boxes are found by multiplying the two numbers in the circles it is 
+joined to together.
+
+Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+ 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-c:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>6988D985-5AC0-40DF-9615-C7003D875089</p>
 </div>
 <div class='topics'>
@@ -2934,7 +3216,7 @@ $\pounds 8.75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AED1CAB4-1114-4003-8768-AEE3317FB324</p>
 </div>
@@ -3047,7 +3329,7 @@ $\pounds 7.95$
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3230,7 +3512,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>714AC34D-AA55-45CA-A28E-C0DB3E0A56F8</p>
 </div>
@@ -3329,12 +3611,12 @@ $\pounds {36.60}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
 </div>
@@ -3458,12 +3740,12 @@ $125 \text{minutes}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
 </div>
@@ -3585,12 +3867,12 @@ $\pounds 6.25$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5532584A-CE17-4B4B-B43F-B4E567FC5002</p>
 </div>
@@ -3636,12 +3918,12 @@ $\pounds 8.30$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>232F57C7-E301-4FFA-80DA-C7978576A982</p>
 </div>
@@ -3695,12 +3977,12 @@ $\pounds 54$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4C42DA9B-C12A-4A7A-B493-F806C22437DB</p>
 </div>
@@ -3745,7 +4027,7 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3877,7 +4159,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1BDA0077-610F-493E-B36C-43C8D0A51441</p>
 </div>
@@ -3927,7 +4209,7 @@ $12$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4344,7 +4626,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>36415844-5CC2-4E29-9E67-F5B06F9F9D26</p>
 </div>
@@ -4399,7 +4681,7 @@ $\pounds 3.15$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4461,7 +4743,7 @@ $21.6 \ \text{hrs}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A62C35C0-E5F1-4D14-9EB3-E17302B61C39</p>
 </div>
@@ -4517,7 +4799,7 @@ $\pounds 8.75$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4939,7 +5221,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>089B56B3-5FE5-42D9-A2A5-5A1136AECEE9</p>
 </div>
@@ -5002,7 +5284,7 @@ $\pounds 14.90$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

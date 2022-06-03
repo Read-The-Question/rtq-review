@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,20 +53,17 @@ $63,401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5F6EBC17-59BB-4241-954E-B94AC553427C</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdivision
-</li>
-<li>
 tnumber
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -100,7 +97,7 @@ $70, 5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -111,9 +108,6 @@ $70, 5$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -489,15 +483,12 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2F004FED-C180-43D6-92EB-C8E129B37242</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -551,7 +542,7 @@ $D$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -745,7 +736,7 @@ $10, 12, 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
 </div>
@@ -824,7 +815,7 @@ Second line : $6^2 + 13 = 49$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -879,7 +870,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C77F4094-E254-4BDE-8724-852A89BFB58F</p>
 </div>
@@ -917,7 +908,7 @@ $-6 \degree C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1148,7 +1139,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EA27B9DD-790C-44A0-8752-26E1204AF515</p>
 </div>
@@ -1204,12 +1195,12 @@ $\pounds 2.08$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -1217,9 +1208,6 @@ $\pounds 2.08$
 <ul>
 <li>
 tsequence
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1272,7 +1260,7 @@ No
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1284,16 +1272,7 @@ No
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
 tgraph
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1352,7 +1331,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
@@ -1408,7 +1387,7 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1646,7 +1625,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D3C5761E-89B9-4E65-945B-16E81E23F067</p>
 </div>
@@ -1698,7 +1677,7 @@ $568$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1777,7 +1756,7 @@ $\text{Both are equal}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9FBBD942-5D1D-4C22-990D-69A275C0ADF1</p>
 </div>
@@ -1831,7 +1810,7 @@ $8$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1955,15 +1934,12 @@ $5.78$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B7E6722C-8E5D-45BB-B4A4-AF3B197B4FD2</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2005,7 +1981,7 @@ $161$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2132,13 +2132,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -491,7 +491,7 @@ $\dfrac {20} {32}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>27A82972-44AA-4219-A026-A2BF4715AB49</p>
 </div>
@@ -531,7 +531,7 @@ $550000$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -786,7 +786,7 @@ $\pounds 212$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -829,12 +829,12 @@ $61 \degree \text{C}$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
 </div>
@@ -876,7 +876,7 @@ $13{:}13$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

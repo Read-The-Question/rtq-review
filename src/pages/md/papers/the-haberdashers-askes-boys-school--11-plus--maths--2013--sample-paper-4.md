@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -55,7 +55,7 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1169,12 +1169,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
 <li>
 tnumber
 </li>
@@ -2875,16 +2869,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
-</li>
-<li>
-tnumber
-</li>
-<li>
-ttable
+tinfer
 </li>
 </ul>
 </div>

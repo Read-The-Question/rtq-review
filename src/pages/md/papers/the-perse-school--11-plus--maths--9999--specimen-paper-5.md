@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -65,7 +65,7 @@ $1996$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>EF90B9B4-8BF8-49FC-86B2-6102DFA704A6</p>
 </div>
@@ -108,7 +108,7 @@ $504$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -302,7 +302,7 @@ $10000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -355,7 +355,7 @@ $27 \degree$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1825,13 +1825,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1954,12 +1948,6 @@ $0.008 \ \text{mm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tpower
-</li>
 <li>
 tnumber
 </li>

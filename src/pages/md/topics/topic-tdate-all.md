@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdate-all"
 title: "Topic - Date - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -486,7 +486,7 @@ $\text {Wednesday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -531,7 +531,7 @@ $377$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -448,7 +448,7 @@ $34306$
 <div class='topics'>
 <ul>
 <li>
-tsubtraction
+tdetailedsubtraction
 </li>
 </ul>
 </div>

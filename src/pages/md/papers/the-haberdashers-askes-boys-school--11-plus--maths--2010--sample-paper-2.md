@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>485B20B1-A152-4AE8-9DBC-EE1976A732EA</p>
 </div>
@@ -55,7 +55,7 @@ $115$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1672,13 +1672,7 @@ $55$ squares
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -1884,13 +1878,7 @@ We need only one option.
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
-</li>
-<li>
-tlogic
 </li>
 </ul>
 </div>
@@ -2427,9 +2415,6 @@ $450$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tinfer
 </li>

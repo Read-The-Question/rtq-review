@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfraction-g0"
 title: "Topic - Fraction - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -403,6 +403,59 @@ $\dfrac{3} {10}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On consecutive days you eat $\dfrac{1}{3}$ and $\dfrac{1}{6}$ of a lasagne. 
+
+What fraction of lasagne have you eaten?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of lasagne eaten} &= \dfrac {1} {3} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2} {6} + \dfrac {1} {6} \\\\
+                                 &= \dfrac {2 + 1} {6} \\\\
+                                 &= \dfrac {3} {6} \\\\
+                                 &= \dfrac {3} {3 \times 2} \\\\
+                                 &= \dfrac {\cancel {3}} {\cancel {3} \times 2} \\\\
+                                 &= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
 </div>
 <div class='topics'>
@@ -620,9 +673,6 @@ $1,6,21,20$
 <li>
 tfraction
 </li>
-<li>
-tnumber
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -831,7 +881,7 @@ tsimpleword
 tfraction
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

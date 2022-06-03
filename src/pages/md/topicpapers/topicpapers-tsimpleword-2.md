@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-2"
 title: "Topicpapers Tsimpleword 2"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,657 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C56A7779-1D7A-41C9-B595-405FF4558BAF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A website advertises that, as a special offer, a new mobile phone game 
+will cost $40 \%$ less to download next week.
+
+If the game costs $80 \text{p}$ this week, how much will it cost next week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D9F5E368-303E-4350-B374-E1004752976E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
+How much does she pay in a month when she makes $50$ calls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>60E0362E-0258-4F35-9B2E-5F0FF2790CB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $24$ children in Alfie's class. Five eighths of the class have school lunch. How many children have school lunch?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of children that have school lunch} &= \dfrac {5} {8} \times 24 \\\\
+                                                  &= \dfrac {5 \times 24} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times 8} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times \cancel {8}} {\cancel {8}} \\\\
+                                                  &= 5 \times 3 \\\\
+                                                  &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E26D2D6B-ACB1-4C71-A5ED-5943E6E1E1E1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A pizza is divided in $12$ equal slices. Matthew eats $\dfrac{1}{4}$ of 
+the pizza and Katie eats another $\dfrac{1}{6}$.
+
+How many slices are left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>80AB0CB7-73B5-452C-B469-18EFF7C7E6ED</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On Mark's plate, there are $36$ letters of Alphabet Spaghetti.
+
+He uses $7$ of these to spell $\text{TERRIER}$, and $5$ to spell $\text{HOUND}$.
+
+He eats the remaining letters.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of $36$ letters does Mark eat?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark has now the words $\text{TERRIER}$ and $\text{HOUND}$ on his plate.
+
+What percentage of the letters now on Mark's plate can be found in the word $\text{ALSATIAN}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5DA208F4-5CBC-4E32-9929-B96B5638168D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs King asked all the children in Year $6$ if they play tennis.
+
+This table shows some of the results.
+
+![missing table](/papers/missing_table.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many children are there in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the children who do not play tennis are in class $6B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Penny places $10 \text{p}$ coins, touching, in a straight line.
+
+She hopes to make a line of coins that measures $1 \ \text{km}$.
+
+A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long, in metres, is a line of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 25 \ \text {mm} \\\\
+&= 40 \times \dfrac {25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {1000} \ \text {m} \\\\
+&= \dfrac {40 \times 25} {40 \times 25} \\\\
+&= \dfrac {\cancel {40} \times \cancel {25}} {\cancel {40} \times \cancel {25}} \\\\
+&= 1 \ \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value, in pounds, of forty $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 40 \times 10 \ \text {p} \\\\
+&= 40 \times \pounds \dfrac {10} {100} \\\\
+&= \dfrac {40 \times 10} {100} \\\\
+&= \dfrac {4 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+&= \pounds 4
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many coins will Penny need for a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Penny required}  &= \dfrac {\text {Total distance}} {\text {diameter of one coin}} \\\\
+                        &= \dfrac {1 \ \text {km}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {1 \times 1000000 \ \text {mm}} {25 \ \text {mm}} \\\\
+                        &= \dfrac {40000 \times 25} {25} \\\\
+                        &= \dfrac {40000 \times \cancel {25}} {\cancel {25}} \\\\
+                        &= 40000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the total value of a $1 \ \text{kilometre}$ line of $10 \text{p}$ coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total value}     &= \text {Total penny} \times \text {value of one penny} \\\\
+                        &= 40000 \times 10 \ \text {p} \\\\
+                        &= 40000 \times \pounds \dfrac {10} {100} \\\\
+                        &= \dfrac {40000 \times 10} {100} \\\\
+                        &= \dfrac {4000 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+                        &= \pounds 4000
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4000$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -271,6 +922,130 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in cm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
+1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.0008 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+in mm
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+$
+\begin{aligned}
+200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
+200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
+200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
+\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
+\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
+1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
+1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
+1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
+1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.008 \ \text{mm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

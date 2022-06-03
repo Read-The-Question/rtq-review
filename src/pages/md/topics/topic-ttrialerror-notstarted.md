@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttrialerror-notstarted"
 title: "Topic - Trialerror - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -870,71 +870,6 @@ $59$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B74FD1B5-8CBD-45FD-A538-4105553D541F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a 2-digit number. 
-
-When the number is divided by $5$ the remainder is $2$.
-
-When the number is divided by $7$ the remainder is $4$.
-
-What is the smallest 2-digit number that I was thinking of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

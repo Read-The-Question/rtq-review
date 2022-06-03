@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tsymmetry-all"
 title: "Topic - Symmetry - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -59,12 +59,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -118,7 +118,7 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3676,10 +3676,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
+tinfer
 </li>
 <li>
 tdraw
@@ -9360,7 +9357,7 @@ tunassigned
 tsymmetry
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tstatistics-all"
 title: "Topic - Statistics - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -8635,7 +8635,7 @@ $5, 10, 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A068EE90-357B-4E72-854F-DF950A5D447E</p>
 </div>
@@ -8770,12 +8770,12 @@ $\text {Ford}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1E41AB8C-F0A4-4285-998A-D76D7DD412AA</p>
 </div>
@@ -8911,12 +8911,12 @@ $\text {White}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>2D66279A-3B8B-479F-AC1F-E867CF685CAD</p>
 </div>
@@ -8962,7 +8962,7 @@ $6.7$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -10914,13 +10914,13 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-talgebra
-</li>
-<li>
 tnumber
 </li>
 <li>
 tstatistics
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -14051,7 +14051,7 @@ $1.34m$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>94669F97-3EC9-472D-9A7F-01E61D890604</p>
 </div>
@@ -14107,7 +14107,7 @@ $4$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -14834,9 +14834,6 @@ TODOANSWER
 <ul>
 <li>
 tstatistics
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

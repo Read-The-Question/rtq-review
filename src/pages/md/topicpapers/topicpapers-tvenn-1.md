@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "Topicpapers Tvenn 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -128,7 +128,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>050EE19D-DD2B-4EAE-B94A-09B3971155EF</p>
 </div>
@@ -176,7 +176,7 @@ $23$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

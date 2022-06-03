@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tfactor-notstarted"
 title: "Topic - Factor - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -22,140 +22,6 @@ tfactor
 <div class='question question'>
 
 Write down the largest factor that $8, 12$ and $20$ have in common.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6C8CDF18-678C-4DE3-9349-3BA64A4F94D2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a two-digit number that is a multiple of seven. 
-The digits add up to $10$. What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>049EB50A-F271-4BDA-9E86-6E06689C682E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On each spinner **write five numbers** to make the statements correct.
-
-It is **certain** that you will get a number **less than 6**.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **more likely** that you will get an **even** number than an **odd** number.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **impossible** that you will get a multiple of **3**.
-
-![missing image](/papers/missing_image.svg)
- 
 
 </div>
 <div class='workings'>
@@ -1856,13 +1722,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tfactor
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1975,65 +1835,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F1E5096A-F0A3-4F40-A2AD-94EE8225614B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a children's game you call out all the numbers from $1$ to $100$. You clap every time you say either a multiple of $3$ or a number ending in $3$. How many times would you clap?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2627,75 +2428,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>63E4AB7A-C4A4-4539-8FCD-157E442711A6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in numbers in the table which fit the descriptions
-
-You may use any numbers you like but you must not use any numbers more than once.
-
-The first one has been done for you
-
-
-|                     | Factor of $18$     | Prime number       |
-|-----------------    |-----------------    |-----------------|
-| Even number         | $6$                |                    |
-| Multiple of $3$     |                    |                    |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
 </div>
@@ -55,7 +55,7 @@ $1237$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -569,7 +569,7 @@ $\pounds 50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D62B63A1-CA82-4AA9-B4FE-290BB7B57B95</p>
 </div>
@@ -638,7 +638,7 @@ $144 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

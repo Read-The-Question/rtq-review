@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdraw-g0"
 title: "Topic - Draw - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -160,116 +160,6 @@ $40 \ \text {cm} ^ 2$
 </ul>
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>D9649617-3FD7-4796-B3CC-D5D03A15DD17</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The length of one statue mile is given as $1609.344 \ \text{metres}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle which of the following describes the position of the $6$ in the number above.
-
-- Units
-- Tenths
-- Hundredths
-- Hundreds
-- Thousands
-- Tens
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Hundreds}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Hundreds}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Round the number $1609.344$ to the nearest ten.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1610.344$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1610.344$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

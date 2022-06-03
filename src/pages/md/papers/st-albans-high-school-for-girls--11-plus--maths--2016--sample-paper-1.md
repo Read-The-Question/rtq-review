@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D16CDAC8-C482-4BBC-99F9-36E24452D721</p>
 </div>
@@ -55,7 +55,7 @@ $132$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -361,7 +361,7 @@ $4 \dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>88771F84-2908-43E4-9380-A12099F3BB56</p>
 </div>
@@ -416,7 +416,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1412,13 +1412,7 @@ $140 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tvolume
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,7 +53,7 @@ $300407$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -95,7 +95,7 @@ $941$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

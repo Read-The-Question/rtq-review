@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-ttime-g0"
 title: "Topic - Time - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -579,7 +579,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 ttime
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

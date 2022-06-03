@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-g0"
 title: "Reviewer - Sahil Choudhary - G0"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1729,54 +1729,6 @@ $0.4103$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>99F0AC70-7AFE-46B0-B792-B267C85BC23F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$397 + 784 + 86$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-           &   3   &   9   &   7 \\
-           &   7   &   8   &   4 \\
-{}+        &       &   8   &   6 \\
-\hline
-       1   &   2   &   6   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1267$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>53BCA98E-1A2D-43B5-8D6D-D5875C893FD7</p>
 </div>
 <div class='topics'>
@@ -1870,53 +1822,6 @@ $2.769$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>D8AE66C1-9AB8-4C7F-A023-1C17B53237CF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$2017 + 597$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   2   &   0   &   1   &   7 \\
-{}+ &       &   5   &   9   &   7 \\
-\hline
-    &   2   &   6   &   1   &   4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2614$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2231,54 +2136,6 @@ $0.78$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>C1C99FCD-4F91-41A9-8CC0-D6656869C69A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Add** $4536 + 627 + 418$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   5   &   3   &   6 \\
-    &       &   6   &   2   &   7 \\
-{}+ &       &   4   &   1   &   8 \\
-\hline
-    &   5   &   5   &   8   &   1
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5581$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>D1D231EE-FD6E-4511-A774-A7768DAB3B3D</p>
 </div>
 <div class='topics'>
@@ -2446,54 +2303,6 @@ $8.4$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>1C514F06-892C-4D6B-B88A-39AD11BE348B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add:    $7268 + 94 + 567$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   7   &   2   &   6   &   8 \\
-    &       &       &   9   &   4 \\
-{}+ &       &   5   &   6   &   7 \\
-\hline
-    &   7   &   9   &   2   &   9
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7929$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>CAC5AF78-EA65-4D7A-8C3A-0B66CA30D7FD</p>
 </div>
 <div class='topics'>
@@ -2582,54 +2391,6 @@ $13464$
 
 <div class='papername'>
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EBBA8025-CCA0-4B2E-A205-D28C0E59A011</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$192  
-+888$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   9   &   2 \\
-{}+ &   8   &   8   &   8 \\
-\hline
-1   &   0   &   8   &   0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1080$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2908,54 +2669,6 @@ $5.1 \ \text{m}$
 </div>
 </li>
 </ul>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>3D3DA408-8186-4C87-A0D1-474EF05DE36F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedaddition
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$1177 
-+6823$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   1   &   7   &   7 \\
-{}+ &   6   &   8   &   2   &   3 \\
-\hline
-    &   8   &   0   &   0   &   0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8000$
-
-</div>
-</div>
-
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

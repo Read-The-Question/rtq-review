@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "Topicpapers Tareaperimeter 3"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,220 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CB675361-E89C-4326-B83D-4EB89C1AB4FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The firm ***Owl Blocks*** makes rectangular wooden blocks in many sizes. For all of their blocks the length of the block is always $2.5$ times the width of the block. The height of the blocks isn't limited in any way.
+
+For example, if the width of a block is $4 \ \text{cm}$ then the length of the block would be $10 \ \text{cm}$ 
+
+because $4 \ \text{cm} \times 2.5 = 10 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of a block if its width is $7 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length} &= 2.5 \times 7 \\\\
+              &= 17.5 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.5 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the width of a different block if its length is $50 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Width} &= \dfrac {50} {2.5} \\\\
+             &= \dfrac {50 \times 10} {2.5 \times 10} \\\\
+             &= \dfrac {500} {25} \\\\
+             &= \dfrac {25 \times 20} {25} \\\\
+             &= \dfrac {\cancel {25} \times 20} {\cancel {25}} \\\\
+             &= 20 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the length of a third block if the **__perimeter__** of one of its faces measured using its length and width is $42 \ \text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The face of the block is a rectangle. So,
+
+Perimeter of a rectangle 
+= $2 (length \times width)$
+= $42 \text {cm}$
+
+Let's take length as $l$ and width as $w$
+
+$
+\begin{aligned}
+\text{Perimeter of the rectangle} &= 2 \times (length \times width) \\\\
+42                                &= 
+\end{aligned}
+$ 
+
+As per question length is $2.5 \times width$
+
+$
+\begin{aligned}
+              21 &= (2.5 \times w) \times w \\
+                 &= 2.5 w + w  \\
+                 &= 3.5 w \\
+\dfrac {21}{3.5} &= w \\
+\dfrac {21 \times 10}{3.5 \times 10} &= w \\
+w &= \dfrac {210}{35} \\
+\end{aligned}
+$
+
+Let's use the canceling method and cancel with $7$
+
+$
+\begin{aligned}
+w &= \dfrac {\cancel{210}\raisebox{0.9em}{30}}{\cancel{35}\raisebox{-0.9em}{5}} \\\\
+w &= \dfrac {\cancel{30}\raisebox{0.9em}{6}}{\cancel{5}\raisebox{-0.9em}{1}} \\\\
+w &= 6 \text   {cm} \\
+\end{aligned}
+$
+
+Width is 6 cm. So,
+
+Length 
+
+$
+\begin{aligned}
+= 2.5 \times width \\
+= 2.5 \times 6 \\
+= (2 \times 6) + (0.5 \times 6) \\
+= 12 + 3.0 \\
+= 15 \text {cm}  \\
+\end{aligned}
+$
+
+
+Or,
+
+$
+\begin{aligned}
+= 2.5 \times 6 \\\\
+= \dfrac {25}{10} \times 6 \\\\
+= \dfrac {\cancel{25}\raisebox{0.9em}{5}}{\cancel{10}\raisebox{-0.9em}{2}} \times 6 \\\\
+= \dfrac {5} {\cancel{2}\raisebox{0.9em}{1}} \times {\cancel{6}\raisebox{0.9em}{3}} \\\\
+= 5 \times 3 \\\\
+= 15 \ \text {cm} \\\\
+\end{aligned}
+$
+
+Length is $15 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -92,7 +306,7 @@ $5 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0ED1A149-A02B-476B-8274-BEAC2764D44B</p>
 </div>
@@ -159,7 +373,7 @@ $13 \ \text{cm}^2$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -335,7 +549,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E9FF9787-440D-4FF4-81D1-4D7C427F8BD2</p>
 </div>
@@ -393,7 +607,7 @@ $30 \ \text{cm}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1698,7 +1912,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
 </div>
@@ -1739,7 +1953,7 @@ $28.4 \ \text{cm}^2$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

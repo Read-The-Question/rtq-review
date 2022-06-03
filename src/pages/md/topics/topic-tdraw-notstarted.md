@@ -1,86 +1,9 @@
 ---
 slug: "topics/topic-tdraw-notstarted"
 title: "Topic - Draw - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>049EB50A-F271-4BDA-9E86-6E06689C682E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tnumber
-</li>
-<li>
-tfactor
-</li>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On each spinner **write five numbers** to make the statements correct.
-
-It is **certain** that you will get a number **less than 6**.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **more likely** that you will get an **even** number than an **odd** number.
-
-![missing image](/papers/missing_image.svg)
-
-
-It is **impossible** that you will get a multiple of **3**.
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2844,9 +2767,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -6316,10 +6236,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
+tinfer
 </li>
 <li>
 tdraw

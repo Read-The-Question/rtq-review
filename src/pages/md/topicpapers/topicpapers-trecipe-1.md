@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "Topicpapers Trecipe 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -619,7 +619,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
@@ -771,7 +771,7 @@ $28$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

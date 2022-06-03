@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>58CA2EB4-D744-46BA-B87A-63CB72DC18DB</p>
 </div>
@@ -62,12 +62,12 @@ $11502$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FF7A0514-3250-4D1B-A9AC-ED6F5A811E07</p>
 </div>
@@ -116,7 +116,7 @@ $2709$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -215,7 +215,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
 </div>
@@ -271,12 +271,12 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>FE2AB576-06F8-49D8-AF99-928322211446</p>
 </div>
@@ -321,7 +321,7 @@ $18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -576,7 +576,7 @@ $1.009$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>71244B72-5BA2-4E9F-B6E1-473CCA0B319A</p>
 </div>
@@ -635,7 +635,7 @@ $4, 9$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

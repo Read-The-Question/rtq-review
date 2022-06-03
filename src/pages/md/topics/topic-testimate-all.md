@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-testimate-all"
 title: "Topic - Estimate - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -734,129 +734,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6196DFB5-8B7A-4453-9309-BBC3087BE04D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A book has $256$ pages with, on average, $33$ lines on each page and $9$ words on each line.
-
-Find an estimate for the number of words in the book.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It was reported recently that in an average lifetime of $70$ years, each
-human is likely to swallow about $8$ spiders while sleeping. Supposing
-that the population of UK is $60$ millions, what is the best
-estimate of number of spiders that are consumed in this way in the 
-UK each year?
-
-- $600000$
-- $7000000$
-- $80000000$
-- $900000000$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1773,7 +1650,7 @@ $300 \ \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>432CB436-BF77-496F-A6D6-C553A73CC616</p>
 </div>
@@ -1818,12 +1695,12 @@ $1.8 \ \text {m}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DF144071-E27A-45E8-8AC4-FB2D59699905</p>
 </div>
@@ -1949,7 +1826,7 @@ $33.5$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2005,7 +1882,7 @@ $120 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -2131,12 +2008,12 @@ $124.08$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3137279D-0797-499D-81D8-8651675F4A7D</p>
 </div>
@@ -2186,7 +2063,7 @@ $1.8 \ \text{m}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3008,7 +2885,7 @@ testimate
 tunit
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

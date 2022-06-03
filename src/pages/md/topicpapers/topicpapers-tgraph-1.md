@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-1"
 title: "Topicpapers Tgraph 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3437,7 +3437,7 @@ TODOANSWER
 tgraph
 </li>
 <li>
-tperimeter
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -10746,6 +10746,175 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>3B271B17-398B-42AD-B541-3F80801397B7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey, $1000$ people were asked if they owned a 
+computer. The pictogram shows the results of the survey. 
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In which country did the greatest number of people own a computer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the number of people in Italy who owned a computer. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In which country did $240$ people own a computer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>DE3D9CBA-E7C7-4AAF-8B92-5C99E94A15BD</p>
 </div>
 <div class='topics'>
@@ -16579,7 +16748,7 @@ $Yes$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A068EE90-357B-4E72-854F-DF950A5D447E</p>
 </div>
@@ -16714,12 +16883,12 @@ $\text {Ford}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1E41AB8C-F0A4-4285-998A-D76D7DD412AA</p>
 </div>
@@ -16855,12 +17024,12 @@ $\text {White}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>552840B2-0E36-4290-AC67-292C3F32FFE0</p>
 </div>
@@ -16989,12 +17158,12 @@ $\text{Food technology}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0CC40F6E-A0EB-4D96-A29B-510F9BBC8915</p>
 </div>
@@ -17130,7 +17299,7 @@ $52$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -17335,59 +17504,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>311E34AE-BC3D-4AC4-B9FA-4E8966D0CEE4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tgraph
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-The pie chart shows the proportions of different colours of cars in a school carpark. there were $36$ black cars. How many blue cars were there?   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

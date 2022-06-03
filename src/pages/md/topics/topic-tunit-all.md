@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunit-all"
 title: "Topic - Unit - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -114,10 +114,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tratio
 </li>
 <li>
 tunit
@@ -170,9 +167,6 @@ $360 \ \text{ml}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2369,129 +2363,6 @@ $3.284$m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7D083302-BF35-4803-83D6-EF748D7B7277</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Meera is $1.62\ \text{m}$ tall and Ellie is $1.39\ \text{m}$ tall.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much taller is Meera than Ellie? Give your answer in $\text{centimetres}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera is taller than Ellie by} &= 1.62 - 1.39 \\\\
-                                     &= 0.23 \ \text{m} \\\\
-                                     &= 0.23 \times 100 \ \text{cm} \\\\
-                                     &= 23 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Meera is now exactly $3$ times as tall as she was when she was born. What was her height in centimetres when she was born?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{m} = 100  \ \text{cm}$
-
-$
-\begin{aligned}
-\text{Meera's height when is was born} &= \dfrac {1.62} {3} \ \text{m} \\\\
-                                       &= \dfrac {1.62 \times 100} {3} \ \text{cm} \\\\
-                                       &= \dfrac {162} {3} \ \text{cm} \\\\
-                                       &= \dfrac {54 \times 3} {3} \\\\
-                                       &= \dfrac {54 \times \cancel {3}} {\cancel {3}} \\\\
-                                       &= 54 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$54 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>0708AB31-C1ED-472B-8BA3-54ECEB3EB9A9</p>
@@ -3171,7 +3042,7 @@ $2 \text {miles}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>DA73C8E9-6BBC-4FA7-B8E6-E5C1634B2EF7</p>
 </div>
@@ -3276,12 +3147,12 @@ $0.078 \ \text{m}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9A21B777-4815-48B4-8EBE-0799D0C7C977</p>
 </div>
@@ -3428,12 +3299,12 @@ $0.75 \ \text{miles}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>3137279D-0797-499D-81D8-8651675F4A7D</p>
 </div>
@@ -3483,7 +3354,7 @@ $1.8 \ \text{m}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3753,7 +3624,7 @@ $5.1 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>82884BC7-A421-455D-93F2-F6D296154674</p>
 </div>
@@ -3874,12 +3745,12 @@ $2.3475 \ \text{kilograms}$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1E0CB113-B157-4C80-BF97-74BDBC174E3F</p>
 </div>
@@ -3939,12 +3810,12 @@ $5.3 \ \ \text{Kilograms}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>911643A5-7EB3-455D-92E5-DB7CBE6ED079</p>
 </div>
@@ -4002,7 +3873,7 @@ $0.034 \text{m}$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4284,7 +4155,7 @@ testimate
 tunit
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -4588,136 +4459,6 @@ $640 \text { mm}$
 </ul>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E6B98A2D-3E19-48A9-8530-3FA13BCFF9E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $200$ sheets of paper in a pad. The pad is $1.6\,cm$ thick. Find the thickness of one sheet.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in cm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio \dfrac {16}{10} \ \text {cm}                                    \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                                \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{10}  \times \dfrac {1}{200} \ \text {cm}            \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{2000} \ \text {cm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 1000}  \ \text {cm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 1000} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{1000} \ \text {cm}                                   \\\\
-1 \text { sheet}                                       & \ratio 0.0008 \ \text {cm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.0008 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-in mm
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-$
-\begin{aligned}
-200 \ \text {sheets}                                   & \ratio 1.6 \ \text {cm}                                               \\\\
-200 \ \text {sheets}                                   & \ratio 1.6 \times 10 \ \text {mm}                                     \\\\
-200 \ \text {sheets}                                   & \ratio 16                                                             \\\\
-\dfrac {200 \text { sheets}} {200}                     & \ratio \dfrac {16}{200}                                               \\\\
-\dfrac {\cancel {200} \text { sheets}} {\cancel {200}} & \ratio \dfrac {16}{200} \ \text {mm}                                  \\\\
-1 \text { sheet}                                       & \ratio \dfrac {2 \times 8}{2 \times 100}  \ \text {mm}                \\\\
-1 \text { sheet}                                       & \ratio \dfrac {\cancel 2 \times 8}{\cancel 2 \times 100} \ \text {cm} \\\\
-1 \text { sheet}                                       & \ratio \dfrac {8}{100} \ \text {mm}                                   \\\\
-1 \ \text {sheet}                                      & \ratio 0.008 \ \text {mm}                                             \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.008 \ \text{mm}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

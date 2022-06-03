@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-2"
 title: "Topicpapers Talgebra 2"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,121 @@ date: 2022-06-02 11:58:44
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>037A493D-C297-430E-AC77-1E4B3884FF9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mayank thinks of a number. He doubles it and then adds $4$ and gets the answer $40$.
+
+What was Mayank’s number? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per question,
+
+$
+\begin{aligned}
+2 \times a + 4 &= 40 \\\\
+2a + 4         &= 40 \\\\
+2a             &= 40 - 4 \\\\
+2a             &= 36 \\\\
+a              &= \dfrac {36} {2} \\\\
+a              &= \dfrac {2 \times 18} {2} \\\\
+a              &= \dfrac {\cancel {2} \times 18} {\cancel {2}} \\\\
+a              &= 18
+\end{aligned}
+$
+
+Mayank's number $= 18$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ADFEF3A0-ABF3-4ECF-A966-92F60CDB23AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hiring a Sports Hall costs a $\pounds 30$ booking fee and then $\pounds 10$ per hour.
+
+Chris hires it and pays $\pounds 120$.
+
+How many hours did Chris hire the hall for? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Chris hired the hall for}    &= \dfrac {120 - 30} {10} \\\\
+                                    &= \dfrac {90} {10} \\\\
+                                    &= \dfrac {9 \cancel {0}} {1 \cancel {0}} \\\\
+                                    &= 9 \ \text {hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text {hours}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2289,243 +2404,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-<li>
-tnumber
-</li>
-<li>
-tlogic
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tanya mixes cranberry juice and lemonade to make a refreshing drink.
-She uses $3$ times more lemonade than cranberry juice to make the drink.
-
-Tanya uses $759 \ \text{ml}$ of lemonade.
-
-How much of the drink does she make?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A drink is made by mixing fruit juice with water.
-$39 \ \text{ml}$ of fruit juice is needed to make $600 \ \text{ml}$ of the drink.
-
-How much water is needed make $800 \ \text{ml}$ of the drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a maths test pupils have to answer all $20$ questions. $3$ marks are awarded for each correct answer, 
-but $1$ mark is subtracted for each incorrect answer.
-
-Bobby answers $4$ more questions correctly than Tim, and between them they score $48$ marks in total. 
-How many questions did Tim answer correctly?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the mathematics puzzles below, the numbers in the square boxes are found by multiplying the two numbers in the circles it is 
-joined to together.
-
-Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
- 
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-c:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>8327DA67-A78F-4724-81C9-6AEA23CCC731</p>
 </div>
 <div class='topics'>
@@ -4105,7 +3983,7 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1FC72FAC-44B2-4E36-9646-A48B84FD818F</p>
 </div>
@@ -4228,12 +4106,12 @@ $7$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E9F9ED9C-DD6C-4DCA-9ED4-59297C1EA828</p>
 </div>
@@ -4297,7 +4175,7 @@ $36 \text{ coins}$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4362,7 +4240,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>E8C861DF-9822-4FA8-BE0B-C4698C43089C</p>
 </div>
@@ -4523,7 +4401,7 @@ $14$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -12552,285 +12430,6 @@ $10x ^ 3$
 </ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations, leaving your answers as improper fractions where necessary. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5x - 11 = 34$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5x - 11  &= 34 \\\\
-5x       &= 34 + 11 \\\\
-5x       &= 45 \\\\
-x        &= \dfrac{45} {5} \\\\
-x        &= \dfrac{9 \times 5} {5} \\\\
-x        &= \dfrac{9 \times \cancel {5}} {\cancel {5}} \\\\
-x        &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{x}{2} - 3 = \dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac {x} {2} - 3   &= \dfrac {1} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + 3 \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{3 \times 2} {1 \times 2} \\\\
-\dfrac {x} {2}       &= \dfrac {1} {2} + \dfrac{6} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {1 + 6} {2} \\\\
-\dfrac {x} {2}       &= \dfrac {7} {2} \\\\
-x                    &= \dfrac {7} {2} \times 2 \\\\
-x                    &= \dfrac {7 \times 2} {2} \\\\
-x                    &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x                    &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3 + \dfrac{2x - 3}{7}  = 8$
-  
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3 + \dfrac {2x - 3} {7} &= 8 \\\\
-\dfrac {2x - 3} {7}     &= 8 - 3 \\\\
-\dfrac {2x - 3} {7}     &= 5 \\\\
-2x - 3                  &= 5 \times 7 \\\\
-2x - 3                  &= 35 \\\\
-2x                      &= 35 + 3 \\\\
-2x                      &= 38 \\\\
-x                       &= \dfrac {38} {2} \\\\
-x                       &= \dfrac {19 \times 2} {2} \\\\
-x                       &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-x                       &= 19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6x - 9 = 15 - 7x$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-6x - 9      &= 15 - 7x \\\\
-6x + 7x     &= 15 + 9 \\\\
-13x         &= 24 \\\\
-x           &= \dfrac {24} {13} \\\\
-x           &= 1 \ \dfrac {11} {13}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1 \ \dfrac {11} {13}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5(x - 6) = 25$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5(x - 6)      &= 25 \\\\
-x - 6         &= \dfrac{25} {5} \\\\
-x - 6         &= \dfrac {5 \times 5} {5} \\\\
-x - 6         &= \dfrac {\cancel{5} \times 5} {\cancel{5}} \\\\
-x - 6         &= 5 \\\\
-x             &= 5 + 6 \\\\
-x             &= 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x - 9 = \dfrac{1}{4}x + \dfrac{1}{2}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3x - 9                                              &= \dfrac {1} {4}x + \dfrac {1} {2} \\\\
-3x - \dfrac {x} {4}                                 &= \dfrac {1} {2} + 9 \\\\
-\dfrac {3x \times 4} {1 \times 4} - \dfrac {x} {4}  &= \dfrac {1} {2} + \dfrac {9 \times 2} {1 \times 2} \\\\
-\dfrac {12x} {4} - \dfrac {x} {4}                   &= \dfrac {1} {2} + \dfrac {18} {2} \\\\
-\dfrac {12x - x} {4}                                &= \dfrac {1 + 18} {2} \\\\
-\dfrac {11 x} {4}                                   &= \dfrac {19} {2} \\\\
-x                                                   &= \dfrac {19 \times 4} {2 \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2 \times 2} {2 \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2 \times \cancel {2}} {\cancel {2} \times 11} \\\\
-x                                                   &= \dfrac {19 \times 2} {11} \\\\
-x                                                   &= \dfrac {38} {11} \\\\
-x                                                   &= 3 \dfrac {5} {11}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \dfrac {5} {11}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

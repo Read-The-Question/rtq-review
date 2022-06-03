@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0099C17F-AE19-42C6-8237-2AEB93EC39A7</p>
 </div>
@@ -55,12 +55,12 @@ $13602$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4</p>
 </div>
@@ -102,7 +102,7 @@ $5745$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -194,7 +194,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C0D9FF0B-D58D-4B87-A15F-D131577FBD10</p>
 </div>
@@ -248,12 +248,12 @@ $0, 0, 1, 1$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>9522968F-B7E8-4C32-825B-5E203AB0B7B4</p>
 </div>
@@ -364,7 +364,7 @@ $15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -416,7 +416,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A</p>
 </div>
@@ -469,7 +469,7 @@ $0.4, \dfrac {3} {8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -517,7 +517,7 @@ $20306$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>86501673-7B9E-47F8-95C0-554BDF31C482</p>
 </div>
@@ -592,7 +592,7 @@ $25, 15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

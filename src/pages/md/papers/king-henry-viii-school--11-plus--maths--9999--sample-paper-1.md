@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -262,7 +262,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>72414C08-6F87-4B5B-B641-FBEEDD3094DD</p>
 </div>
@@ -304,7 +304,7 @@ $847$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -639,7 +639,7 @@ $3074$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4A850628-BFA5-4B3F-9B71-75D9E7F47CC7</p>
 </div>
@@ -687,7 +687,7 @@ $11.021$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

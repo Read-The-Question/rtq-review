@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2979,10 +2979,7 @@ $\dfrac {9} {2}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
+tinfer
 </li>
 <li>
 tdraw

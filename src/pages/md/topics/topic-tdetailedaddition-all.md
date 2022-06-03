@@ -1,11 +1,11 @@
 ---
 slug: "topics/topic-tdetailedaddition-all"
 title: "Topic - Detailedaddition - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>F067F26D-49E2-4623-9D90-C1C324D3EFB6</p>
 </div>
@@ -58,12 +58,12 @@ $3.154$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>535C0190-2EED-4B05-9AD7-6B1CA7FDBFD0</p>
 </div>
@@ -106,12 +106,12 @@ $4838$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>831DD0A4-2BC1-40DF-8B4E-CEEE70408C77</p>
 </div>
@@ -153,7 +153,7 @@ $2837$
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -205,7 +205,7 @@ $5152$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>98B67EA5-259E-41C7-A446-B2144A3E0059</p>
 </div>
@@ -247,12 +247,12 @@ $6363$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>54BD09C0-1C14-4564-B207-B912ADE229BB</p>
 </div>
@@ -294,12 +294,12 @@ $3334$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>505845A2-5C6F-4B31-8F40-6A5A68AB5C7E</p>
 </div>
@@ -342,12 +342,12 @@ $724$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E2A86E36-8634-4CA1-A662-F25074BFEB0A</p>
 </div>
@@ -396,12 +396,12 @@ $16.76$
 <p>colfes-school--11-plus--maths--9999--sample-paper</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C2195C4A-2637-4497-99BE-20BE5182D62B</p>
 </div>
@@ -513,7 +513,7 @@ $25.51$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -571,7 +571,7 @@ $6.919$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>FEB6FF21-DA3C-4EA7-9BFC-D865EE4C110A</p>
 </div>
@@ -613,12 +613,12 @@ $833$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>91AA0CF1-CAE1-412C-B6F7-861BC224E981</p>
 </div>
@@ -660,12 +660,12 @@ $827$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>87F5F983-B8A7-43D5-8EAD-FED0249D8CEF</p>
 </div>
@@ -707,12 +707,12 @@ $1002$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>6EBAFEDD-23AF-47C5-B0E1-C86FADD76AB3</p>
 </div>
@@ -754,12 +754,12 @@ $1019$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>99F0AC70-7AFE-46B0-B792-B267C85BC23F</p>
 </div>
@@ -802,12 +802,12 @@ $1267$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-e</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D8AE66C1-9AB8-4C7F-A023-1C17B53237CF</p>
 </div>
@@ -849,12 +849,12 @@ $2614$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>47979DA4-9E27-4688-B265-946E45767CF0</p>
 </div>
@@ -897,12 +897,12 @@ $425$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>74597BD7-D839-4E39-8951-91E71A917724</p>
 </div>
@@ -961,12 +961,12 @@ $12441$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8B8F79EA-B781-459D-9AD2-C626B4D1E664</p>
 </div>
@@ -1009,12 +1009,12 @@ $3926$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8182E8DE-7321-4258-BC0F-F59648F967F6</p>
 </div>
@@ -1056,12 +1056,12 @@ $6193$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>197537F7-393A-4C8B-8B56-6312B17559E2</p>
 </div>
@@ -1103,12 +1103,12 @@ $1582$
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EC7FC950-1EAB-48F3-B413-44019A2ADA46</p>
 </div>
@@ -1150,12 +1150,12 @@ $983$
 <p>forest-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3A9F8221-CAB3-43B7-8B3D-D445B9D187CA</p>
 </div>
@@ -1197,7 +1197,7 @@ $994$
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1389,7 +1389,7 @@ $607.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>ED44BDA5-2E01-40A7-9114-19FB9B161021</p>
 </div>
@@ -1434,12 +1434,12 @@ $1020$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>7897BC4A-518A-4A26-8B85-121160719E3D</p>
 </div>
@@ -1484,12 +1484,12 @@ $1130$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>7C019C3E-AD26-40DA-B445-DA91FABB7060</p>
 </div>
@@ -1531,12 +1531,12 @@ $3211$
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>087796C3-8F32-4D8C-888C-47E29D33BAED</p>
 </div>
@@ -1582,12 +1582,12 @@ $57821$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>44F3EA32-5F78-42AA-8ED5-BF62E947CB89</p>
 </div>
@@ -1637,12 +1637,12 @@ $9600$
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>72414C08-6F87-4B5B-B641-FBEEDD3094DD</p>
 </div>
@@ -1684,12 +1684,12 @@ $847$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4A850628-BFA5-4B3F-9B71-75D9E7F47CC7</p>
 </div>
@@ -1737,12 +1737,12 @@ $11.021$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>27A82972-44AA-4219-A026-A2BF4715AB49</p>
 </div>
@@ -1782,7 +1782,7 @@ $550000$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1844,7 +1844,7 @@ $624$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C483990B-675A-4689-B8D1-3C5BA95146F1</p>
 </div>
@@ -1899,12 +1899,12 @@ $541$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8A52B7FC-2EC1-45E0-AF4E-A45895830AEE</p>
 </div>
@@ -1947,12 +1947,12 @@ $4232$
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>562D6DED-BF9D-4385-8686-F5138019FDF9</p>
 </div>
@@ -1994,12 +1994,12 @@ $153$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4A70219D-15E0-4523-AEE1-D2D38F338E2C</p>
 </div>
@@ -2041,12 +2041,12 @@ $3007$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>F328E828-D228-4941-AE8E-26B756FDD136</p>
 </div>
@@ -2094,12 +2094,12 @@ $32.1$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>71D76844-B61A-4D8D-B008-B353E67F28F2</p>
 </div>
@@ -2147,12 +2147,12 @@ $32.91$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>090A6FE6-7729-47C2-8199-4DF3A7A01F95</p>
 </div>
@@ -2200,12 +2200,12 @@ $41.01$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>5EE4C124-D715-4700-8F41-4F8F242E9B73</p>
 </div>
@@ -2247,12 +2247,12 @@ $3010$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>7C9A90C7-B370-4CE6-AAE8-5A4564ED7D0C</p>
 </div>
@@ -2297,12 +2297,12 @@ $20.2$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EBC5C6F7-E9F8-41C9-972F-ECCAC89A2B8F</p>
 </div>
@@ -2347,12 +2347,12 @@ $21.01$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>2237EB48-F004-48E3-9BC6-DDA1298F8557</p>
 </div>
@@ -2397,12 +2397,12 @@ $29.11$
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>A01D9226-8E5B-48AC-A3E6-4771D9DB9450</p>
 </div>
@@ -2422,24 +2422,24 @@ $2002 + 999 =$
 <div class='working'>
 
 $
-\begin{aligned}
-&= 2002 + 999 \\\\
-&= 2002 + 1000 - 1 \\\\
-&= 3002 - 1 \\\\
-&= 3001 
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
 \begin{array}{cccccccccccccc}
     &   2   &   0   &   0   &   2 \\
 {}+ &       &   9   &   9   &   9 \\
 \hline
     &   3   &   0   &   0   &   1
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2002 + 999 \\\\
+&= 2002 + 1000 - 1 \\\\
+&= 3002 - 1 \\\\
+&= 3001 
+\end{aligned}
 $
 
 </div>
@@ -2456,12 +2456,12 @@ $3001$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>BB32B9D9-7CB8-439E-9106-789D65430E2C</p>
 </div>
@@ -2509,12 +2509,12 @@ $20.09$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D3CA1BFF-9986-4206-A614-A835DE6D9651</p>
 </div>
@@ -2562,12 +2562,12 @@ $20.72$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4D58B810-F314-4F6E-A315-4EF7D962232E</p>
 </div>
@@ -2615,12 +2615,12 @@ $27.02$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30</p>
 </div>
@@ -2640,24 +2640,24 @@ $2030 + 997 =$
 <div class='working'>
 
 $
-\begin{aligned}
-&= 2030 + 997 \\\\
-&= 2030 + 1000 - 3 \\\\
-&= 3030 - 3 \\\\
-&= 3027 
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
 \begin{array}{cccccccccccccc}
     &   2   &   0   &   3   &   0 \\
 {}+ &       &   9   &   9   &   7 \\
 \hline
     &   3   &   0   &   2   &   7
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2030 + 997 \\\\
+&= 2030 + 1000 - 3 \\\\
+&= 3030 - 3 \\\\
+&= 3027
+\end{aligned}
 $
 
 </div>
@@ -2674,12 +2674,12 @@ $3027$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>571596AE-291C-4BF6-878D-2BFC5E03FABC</p>
 </div>
@@ -2727,12 +2727,12 @@ $20.37$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>47EF3910-184D-4063-827E-ED18F0EB9305</p>
 </div>
@@ -2780,12 +2780,12 @@ $21$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4EAFF80F-7256-43B8-A10B-34AA93CA9A5C</p>
 </div>
@@ -2833,12 +2833,12 @@ $27.3$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>2B202816-7BC3-49F2-A3BE-51DDFB23F43E</p>
 </div>
@@ -2883,12 +2883,12 @@ $13253$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>DA79B2E9-0BFF-44E1-B3D9-27D062AF69FF</p>
 </div>
@@ -2932,12 +2932,12 @@ $9527$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D16CDAC8-C482-4BBC-99F9-36E24452D721</p>
 </div>
@@ -2979,12 +2979,12 @@ $132$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>89D18FC6-BE95-4CA5-836B-BE1241D11320</p>
 </div>
@@ -3026,12 +3026,12 @@ $111$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>AAE2F337-A772-4D21-9788-CB30BA238CE2</p>
 </div>
@@ -3079,12 +3079,12 @@ $20.14$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>600C47A7-A686-4820-963D-9CC3063754F1</p>
 </div>
@@ -3126,12 +3126,12 @@ $1725$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>46768229-11F0-453B-ACC8-5B9C11276EC1</p>
 </div>
@@ -3180,12 +3180,12 @@ $1080$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>6535F557-D651-4907-9B26-9B6E5BC0C1D5</p>
 </div>
@@ -3240,12 +3240,12 @@ $2026$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>21F86FF9-737E-4AF5-8F7F-6D8695AFFE38</p>
 </div>
@@ -3316,12 +3316,12 @@ $22$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EB1BCDF6-8704-4D26-A7B7-AC326F7CAE4A</p>
 </div>
@@ -3363,12 +3363,12 @@ $6579$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>29E1EA3D-2700-4C13-ACFD-A1AE84D725BE</p>
 </div>
@@ -3410,12 +3410,12 @@ $121$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B88CABDA-FA14-4FDA-B7C5-6D0F61369675</p>
 </div>
@@ -3457,12 +3457,12 @@ $300$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>485B20B1-A152-4AE8-9DBC-EE1976A732EA</p>
 </div>
@@ -3504,12 +3504,12 @@ $115$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>DBAB529D-B9BF-4414-9EA7-904E639ED390</p>
 </div>
@@ -3551,12 +3551,12 @@ $75$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>33EA5AA6-2BAC-4539-BE0C-64E83AA9931B</p>
 </div>
@@ -3598,12 +3598,12 @@ $94$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>18878C95-524E-4F4D-B0C2-DE63DF3546B1</p>
 </div>
@@ -3645,12 +3645,12 @@ $64$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4E88C08A-C6ED-4E55-B147-88ECF68BCD85</p>
 </div>
@@ -3692,12 +3692,12 @@ $85$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4A29DAD4-FA8C-4A60-83A6-DDAAF7BF39D2</p>
 </div>
@@ -3739,12 +3739,12 @@ $63$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>20771CCA-989E-4BE2-A656-7926FDD86207</p>
 </div>
@@ -3786,7 +3786,7 @@ $125$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3899,7 +3899,7 @@ $7, \ 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>FFAD2427-919C-438B-9726-234F1F3EA395</p>
 </div>
@@ -3948,7 +3948,7 @@ $27427$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -4007,7 +4007,7 @@ $9012213$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>84386E3C-25A2-4135-BDFE-C2794FEA4DB7</p>
 </div>
@@ -4052,12 +4052,12 @@ $849$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>58CA2EB4-D744-46BA-B87A-63CB72DC18DB</p>
 </div>
@@ -4106,12 +4106,12 @@ $11502$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_bs_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>0099C17F-AE19-42C6-8237-2AEB93EC39A7</p>
 </div>
@@ -4153,7 +4153,7 @@ $13602$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_bs_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4256,7 +4256,7 @@ $9502$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>F7E0583D-07FE-4CA1-A171-55FD2D1213F8</p>
 </div>
@@ -4298,12 +4298,12 @@ $9134$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>19341413-65A3-4BC8-B57B-2F00FE94B081</p>
 </div>
@@ -4345,12 +4345,12 @@ $3391$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>75B9E812-184B-487F-B1BE-CF32FECF07B6</p>
 </div>
@@ -4392,12 +4392,12 @@ $12221$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>29212A9E-1C25-4499-897A-E70C8D8D5B4C</p>
 </div>
@@ -4448,12 +4448,12 @@ $0.50$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E53AB2CA-6901-4720-8F5B-B9BCED54252C</p>
 </div>
@@ -4495,12 +4495,12 @@ $4245$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4A3F2681-E4DC-4880-AE93-D9D13C4BB0C7</p>
 </div>
@@ -4542,12 +4542,12 @@ $3104$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>744FDA58-C15E-47F8-AD35-CE0EF7F330D3</p>
 </div>
@@ -4589,7 +4589,7 @@ $7134$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -4650,7 +4650,7 @@ $0.80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>66F65F3C-8524-46CB-A174-4E42F5C32FBC</p>
 </div>
@@ -4692,12 +4692,12 @@ $5632$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8DE8F04E-F001-4FEC-A49B-F3494671DB81</p>
 </div>
@@ -4739,12 +4739,12 @@ $3023$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8E9E66B6-7CE6-4102-A286-D73A63EDE3CE</p>
 </div>
@@ -4795,12 +4795,12 @@ $1.746$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>BCFC8528-F790-40C9-A217-CE925D2A3259</p>
 </div>
@@ -4843,12 +4843,12 @@ $7392$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EFBED816-F000-46DA-9B90-25B7CC9B3AC0</p>
 </div>
@@ -4890,12 +4890,12 @@ $2344$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>28D1744E-7E31-44A3-B3C8-E75D18551420</p>
 </div>
@@ -4937,12 +4937,12 @@ $561$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
 </div>
@@ -4984,12 +4984,12 @@ $732$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C44CBD76-D13D-463B-AA1F-D81990B49022</p>
 </div>
@@ -5031,12 +5031,12 @@ $864$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B431476F-0542-422C-BC21-3B3A939BE4B2</p>
 </div>
@@ -5078,12 +5078,12 @@ $941$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B861F19A-C938-4447-8E3E-658832E76AC1</p>
 </div>
@@ -5125,12 +5125,12 @@ $1237$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>015DFF3A-EF9A-4D74-94DA-EDC2D94B9633</p>
 </div>
@@ -5172,12 +5172,12 @@ $902$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8BD87565-0F6C-48E1-86BB-F769CFA756B3</p>
 </div>
@@ -5226,12 +5226,12 @@ $219.41$
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8A517D2C-C64D-4CA7-A39C-E729124C801F</p>
 </div>
@@ -5273,12 +5273,12 @@ $790$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C1C99FCD-4F91-41A9-8CC0-D6656869C69A</p>
 </div>
@@ -5321,12 +5321,12 @@ $5581$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1C514F06-892C-4D6B-B88A-39AD11BE348B</p>
 </div>
@@ -5369,12 +5369,12 @@ $7929$
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EBBA8025-CCA0-4B2E-A205-D28C0E59A011</p>
 </div>
@@ -5417,12 +5417,12 @@ $1080$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3D3DA408-8186-4C87-A0D1-474EF05DE36F</p>
 </div>
@@ -5465,7 +5465,7 @@ $8000$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

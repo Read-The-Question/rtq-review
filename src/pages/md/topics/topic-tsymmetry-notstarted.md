@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsymmetry-notstarted"
 title: "Topic - Symmetry - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3452,10 +3452,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tlogic
+tinfer
 </li>
 <li>
 tdraw
@@ -9136,7 +9133,7 @@ tunassigned
 tsymmetry
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

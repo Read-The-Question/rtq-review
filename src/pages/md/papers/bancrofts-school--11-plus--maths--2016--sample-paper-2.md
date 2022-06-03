@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2016-sample-paper-2"
 title: "Bancrofts School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -293,7 +293,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>831DD0A4-2BC1-40DF-8B4E-CEEE70408C77</p>
 </div>
@@ -335,7 +335,7 @@ $2837$
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

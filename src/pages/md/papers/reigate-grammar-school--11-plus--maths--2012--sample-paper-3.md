@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>A01D9226-8E5B-48AC-A3E6-4771D9DB9450</p>
 </div>
@@ -33,24 +33,24 @@ $2002 + 999 =$
 <div class='working'>
 
 $
-\begin{aligned}
-&= 2002 + 999 \\\\
-&= 2002 + 1000 - 1 \\\\
-&= 3002 - 1 \\\\
-&= 3001 
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
 \begin{array}{cccccccccccccc}
     &   2   &   0   &   0   &   2 \\
 {}+ &       &   9   &   9   &   9 \\
 \hline
     &   3   &   0   &   0   &   1
 \end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2002 + 999 \\\\
+&= 2002 + 1000 - 1 \\\\
+&= 3002 - 1 \\\\
+&= 3001 
+\end{aligned}
 $
 
 </div>
@@ -67,7 +67,7 @@ $3001$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -316,7 +316,7 @@ $30.03$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>BB32B9D9-7CB8-439E-9106-789D65430E2C</p>
 </div>
@@ -364,12 +364,12 @@ $20.09$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D3CA1BFF-9986-4206-A614-A835DE6D9651</p>
 </div>
@@ -417,12 +417,12 @@ $20.72$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4D58B810-F314-4F6E-A315-4EF7D962232E</p>
 </div>
@@ -470,7 +470,7 @@ $27.02$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1409,7 +1409,7 @@ $52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5533A075-BAD7-4675-83E0-25352274D043</p>
 </div>
@@ -1543,7 +1543,7 @@ $\dfrac {13} {20}$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3665,7 +3665,7 @@ $119$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
 </div>
@@ -3713,7 +3713,7 @@ $56$
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tareaperimeter-notstarted"
 title: "Topic - Areaperimeter - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2007,6 +2007,61 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>0EECF7A5-9141-40B4-9FF1-7DC9F43A7624</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes $9 \ \text{litres}$ of paint to cover the surface of the cube on the left.
+
+![missing image](/papers/missing_image.svg)
+
+
+How many litres of paint would it take to cover the surface of the shape on the right?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>21315389-F252-49A5-83B3-6296A9B669CC</p>
 </div>
 <div class='topics'>
@@ -2539,6 +2594,150 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>52405CEB-6BF5-4540-B66B-59B339D30F72</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgraph
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The coordinates of the 4 vertices of a quadrilateral are:
+
+$(a - 3, b) \ (a, b) \ (a - 3, b + 2) \ (a, b + 2)$ 
+
+What shape is this?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A square of side length $3 \ \text{cm}$ is divided into three
+rectangles of equal size.
+
+The middle rectangle is removed and replaced on the side of the 
+original square to form an octagon as shown.
+
+How many times bigger is the perimeter of the octagon than 
+the perimeter of the original square?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6405,12 +6604,6 @@ TODOANSWER
 <li>
 tareaperimeter
 </li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
 </ul>
 </div>
 <div class='question question'>
@@ -8684,7 +8877,7 @@ TODOANSWER
 tareaperimeter
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>

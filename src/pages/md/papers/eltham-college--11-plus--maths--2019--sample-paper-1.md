@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-02 11:49:14
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>74597BD7-D839-4E39-8951-91E71A917724</p>
 </div>
@@ -74,7 +74,7 @@ $12441$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -141,9 +141,6 @@ $0.006$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -594,16 +591,7 @@ $4 \ \text{m}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttrialerror
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnumber
+tinfer
 </li>
 </ul>
 </div>
@@ -1259,9 +1247,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -1331,13 +1316,7 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>

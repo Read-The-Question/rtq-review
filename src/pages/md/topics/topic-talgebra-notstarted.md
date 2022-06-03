@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-notstarted"
 title: "Topic - Algebra - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -5710,6 +5710,136 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>AE6CEC73-FE89-4273-AA3F-B0F177F3971A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\text{Body Mass Index (BMI)} =
+\dfrac { \text {Mass in kg} } { \text{(Height in m)} ^ 2 }
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the mass of Patrick who has a height of $1.5 \ \text{m}$ and a BMI of $20$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the BMI of Bess who is $1.2 \ \text{m}$ tall and has a mass of $36 \ \text{kg}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>FB049761-7227-439C-A630-B3C55E399804</p>
 </div>
 <div class='topics'>
@@ -8951,64 +9081,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>FF3797DE-4165-44A2-8E20-D81444DC08F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Krishani draws a rectangle with area $12 \ \text{cm} ^ {2}$ and its sides are whole number lengths. Its perimeter is $14  \ \text{cm}$. 
-
-How long is the **longest** side?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>E746A07A-99C6-4560-9C98-E8B7D1056C67</p>
 </div>
 <div class='topics'>
@@ -9982,243 +10054,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-b</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>3F99FFBD-9694-4BED-AA6E-D13CBDE7D0A1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-<li>
-tnumber
-</li>
-<li>
-tlogic
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Tanya mixes cranberry juice and lemonade to make a refreshing drink.
-She uses $3$ times more lemonade than cranberry juice to make the drink.
-
-Tanya uses $759 \ \text{ml}$ of lemonade.
-
-How much of the drink does she make?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A drink is made by mixing fruit juice with water.
-$39 \ \text{ml}$ of fruit juice is needed to make $600 \ \text{ml}$ of the drink.
-
-How much water is needed make $800 \ \text{ml}$ of the drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a maths test pupils have to answer all $20$ questions. $3$ marks are awarded for each correct answer, 
-but $1$ mark is subtracted for each incorrect answer.
-
-Bobby answers $4$ more questions correctly than Tim, and between them they score $48$ marks in total. 
-How many questions did Tim answer correctly?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the mathematics puzzles below, the numbers in the square boxes are found by multiplying the two numbers in the circles it is 
-joined to together.
-
-Fill in all of the missing numbers in both the circles and the squares. The first puzzle has been solved for you as an example.
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
- 
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>highgate-school--11-plus--maths--9999--sample-paper-c</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -14970,6 +14805,58 @@ TODOANSWER
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6905E2DB-5FDA-4DBB-8B72-B34FBE60FDBB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Rex has $80$ books altogether. They are arranged on three shelves. If Rex moved seven books from the top shelf to the middle shelf and took eight books away from the bottom shelf, there would be an equal number of books on each shelf. 
+
+How many books are on the middle shelf originally?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -20696,230 +20583,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
-<p>0EE87929-F2CC-4426-8FA5-C13CAE3A2777</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bert and Chrissy are very good at maths and enjoy 'think of a number problems'.
-
-Bert asks Chrissy to think of a number, double it and add $5$.
-
-She says that the result is $33$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What was the number she thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Chrissy think of $=a$,
-
-$
-\begin{aligned}
-2a + 5 &= 33 \\\\
-2a     &= 33 - 5 \\\\
-2a     &= 28 \\\\
-a      &= \dfrac {28} {2} \\\\
-a      &= \dfrac {14 \times 2} {2} \\\\
-a      &= \dfrac {14 \times \cancel {2} } {\cancel {2} } \\\\
-a      &= 14
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Chrissy wants Bert to guess her favourite number.
-
-She asks him to write down $5$ numbers.
-
-He chooses $4 \quad 7 \quad 2 \quad 19$ and $8$
-
-Chrissy looks at the numbers and tells him that her favourite number is equal to the mean of the numbers, minus $7$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the mean of Bert's numbers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Mean} &= \dfrac { \text {sum of all the numbers} } { \text {total numbers} } \\\\
-             &= \dfrac {4 + 7 + 2 + 19 + 8} {5} \\\\
-             &= \dfrac {40} {5} \\\\
-             &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is Chrissy's favourite number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Chrissy's favourite number} &= \text{mean-7} \\\\
-                                   &= 8 - 7 \\\\
-                                   &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Circle any of the words below which describe Chrissy's favourite number.
-
-**prime number** $\quad$  **square number** $\quad$  **cube number**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {square}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {square}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
 <p>B6B76252-CCC5-4801-94D1-62EACE5B2AA6</p>
 </div>
 <div class='topics'>
@@ -26410,252 +26073,6 @@ Total CDs = 7 + 3
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>530C4350-38A0-441E-A078-0C428413AF90</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A *preble* is a set of three numbers in which the last number is the product of the first two numbers, for example $(3, 2, 6)$.
-
-Work out the missing number in each of these prebles.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(6, 1\dfrac{1}{3}, a) \qquad a = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(12, b, 15) \qquad b = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(c, 11, 1045) \qquad c = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(0.5, d, 28) \qquad d = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(0.4, e, 0.24) \qquad e = \text{\textunderscore \textunderscore \textunderscore}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

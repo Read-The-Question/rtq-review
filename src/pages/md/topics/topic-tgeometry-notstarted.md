@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-notstarted"
 title: "Topic - Geometry - Not Started"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -990,6 +990,59 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1C408E70-1672-4B43-A64A-51EFD6977DC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add the number of sides of a decagon to the number of 
+sides of a pentagon, then multiply by the number of faces of a cuboid. 
+
+What is your answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -10873,13 +10926,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -10983,13 +11030,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -15185,9 +15226,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgeometry
 </li>

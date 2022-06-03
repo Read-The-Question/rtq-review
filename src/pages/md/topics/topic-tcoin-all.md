@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcoin-all"
 title: "Topic - Coin - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,7 +58,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ak_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>08B091C3-398E-4C33-9232-9F1C961D0DD6</p>
 </div>
@@ -115,7 +115,7 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

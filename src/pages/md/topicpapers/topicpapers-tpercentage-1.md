@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "Topicpapers Tpercentage 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1946,7 +1946,7 @@ $28 \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>A90C3F95-34BB-4A90-BE07-EC587A05E006</p>
 </div>
@@ -2088,12 +2088,12 @@ $\dfrac {3} {8}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B434CCB5-281D-460F-B6D5-BD15AA6F27E7</p>
 </div>
@@ -2232,7 +2232,7 @@ $30 \%$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2356,6 +2356,427 @@ $\dfrac {3} {4}$
 </ul>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The information on a pack of ‘*Salmon pasta*’ is shown in the table.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$10 \ \text {g}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage of the ‘*Salmon pasta*’ is carbohydrate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
+
+What is the mass of ‘*Salmon pasta*’ in the whole pack?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will be the mass of fat in a pack of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Percentages**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write the missing numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$50\%$ of $80$ =
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 50\% \ \text{of} \ 80 \\\\
+&= \dfrac {50} {100} \times 80 \\\\
+&= \dfrac {50 \times 80}{100}  \\\\
+&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
+&= 5 \times 8 \\\\
+&= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$5\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$50\% \ \text{of} \ 80 = 40$ ,
+
+$
+\begin{aligned}
+&= 5\% \ \text{of} \ 80 \\\\
+&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
+&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {40}{10} \\\\
+&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$1\%$ of $80$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answer
+
+$5\% \ \text{of} \ 80 = 4$ ,
+
+$
+\begin{aligned}
+&= 1\% \text{ of } 80 \\\\
+&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
+&= \dfrac {5 \%}{5} \times 80  \\\\
+&= \dfrac {5\% \times 80} {5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{4}{5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $56\%$ of $80$
+
+You can use part (a) to help you.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using previous answers
+
+$50\% \ \text{of} \ 8 = 40$
+
+$5\% \ \text{of} \ 8 = 4$
+
+$1\% \ \text{of} \ 8 = \dfrac {4} {5}$
+
+$
+\begin{aligned}
+&= 56\% \text{ of } 80 \\\\
+&= (50\% + 5\% + 1\%) \times 80 \\\\
+&= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
+&= 40 + 4 + \dfrac {4} {5}  \\\\
+&= 44 + \dfrac {4} {5}  \\\\
+&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
+&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
+&= \dfrac {220 + 4} {5} \\\\
+&= \dfrac {224} {5} \\\\
+&= 44 \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44 \dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

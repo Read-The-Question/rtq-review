@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-all"
 title: "Topic - Geometry - All"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <ul class='question default-decimal'>
 <li>
@@ -436,7 +436,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>B245DB80-06AB-4146-8632-C2E68446994E</p>
 </div>
@@ -490,12 +490,12 @@ $4$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>D30F0974-2B38-4C59-B619-F9A967A19868</p>
 </div>
@@ -546,7 +546,7 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -613,7 +613,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1F0E1A23-FEB9-4030-8F80-C0D56311A323</p>
 </div>
@@ -667,7 +667,7 @@ $\text{a trapezium}$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -789,7 +789,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>04ACE684-9AE1-4A89-98F0-A8F72CA19665</p>
 </div>
@@ -840,12 +840,12 @@ TODOANSWER
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ar_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>4440F334-A112-481F-AB98-3D9AD28B54BF</p>
 </div>
@@ -971,7 +971,7 @@ $6$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1552,6 +1552,59 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1C408E70-1672-4B43-A64A-51EFD6977DC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add the number of sides of a decagon to the number of 
+sides of a pentagon, then multiply by the number of faces of a cuboid. 
+
+What is your answer?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -9247,7 +9300,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
 </div>
@@ -9304,7 +9357,7 @@ $20 \ \text {cm}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
 <div class='rag'>
-<p>rag_ga_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -9690,7 +9743,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>23FE15B1-A302-404D-8391-BAB850364409</p>
 </div>
@@ -9787,12 +9840,12 @@ $\text {Hexagon}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>79EF7634-1BD6-45D8-9785-D7E23DD4661D</p>
 </div>
@@ -9889,12 +9942,12 @@ $\text {Cuboid}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>1353944B-C2F8-4241-B1C0-A178453D7462</p>
 </div>
@@ -9935,12 +9988,12 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_na_pr question'>
+<div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
 <p>C2D737F9-91B0-47F7-90B0-65A55CE61B78</p>
 </div>
@@ -10066,7 +10119,7 @@ $\text {Octagon}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_pr</p>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -12750,13 +12803,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -12860,13 +12907,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -14627,7 +14668,7 @@ tgeometry
 tareaperimeter
 </li>
 <li>
-tcircle
+tcircleanswer
 </li>
 </ul>
 </div>
@@ -17327,9 +17368,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tgeometry
 </li>

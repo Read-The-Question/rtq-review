@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>D8AE66C1-9AB8-4C7F-A023-1C17B53237CF</p>
 </div>
@@ -55,7 +55,7 @@ $2614$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1363,7 +1363,7 @@ $58 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tpower
+tnumber
 </li>
 </ul>
 </div>

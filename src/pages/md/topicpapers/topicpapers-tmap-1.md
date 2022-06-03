@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmap-1"
 title: "Topicpapers Tmap 1"
-date: 2022-06-02 11:58:44
+date: 2022-06-03 15:11:08
 ---
 <div class='paper'>
 <div class='meta'>
@@ -180,6 +180,140 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:2:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8CBF5494-F5F7-4ABC-A405-92596AB4CB5E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmap
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a map of the roads in Askeshire.
+
+![missing image](/papers/missing_image.svg)
+
+
+The route from Catsworth to Dogsville via Alysford is written "CAD". 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+There has been a robbery in Alysford. The thieves are planning to go to Habsville Airport to flee the 
+country with their loot. The police want to go from Alysford to Habsville Airport by the 
+**shortest possible** route. What route should the police take? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The thieves also want to go from Alysford to Habsville Airport by the **shortest possible** route. However, the thieves also want to make sure that they don't travel on any of the roads being used by the police. What route should the thieves take? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:28</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>EFBED816-F000-46DA-9B90-25B7CC9B3AC0</p>
 </div>
@@ -55,7 +55,7 @@ $2344$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -799,9 +799,6 @@ $72$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 </ul>
@@ -1157,13 +1154,7 @@ $4325$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tpercentage
-</li>
-<li>
-tnumber
 </li>
 </ul>
 </div>
@@ -1345,10 +1336,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-ttable
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2729,9 +2717,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-talgebra
-</li>
 <li>
 tnumber
 </li>

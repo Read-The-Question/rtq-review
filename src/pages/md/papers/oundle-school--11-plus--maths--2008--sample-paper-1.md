@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-02 11:49:14
+date: 2022-06-03 15:00:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-02 11:49:14
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>562D6DED-BF9D-4385-8686-F5138019FDF9</p>
 </div>
@@ -55,7 +55,7 @@ $153$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

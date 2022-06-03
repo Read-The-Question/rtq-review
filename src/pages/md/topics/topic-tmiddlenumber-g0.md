@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tmiddlenumber-g0"
 title: "Topic - Middlenumber - G0"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -257,6 +257,56 @@ $\dfrac {15} {26}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>FCB6CEA1-F7E6-4747-8C98-E15D79B8A2AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is halfway between $-3$ and $8$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The number which is halfway between $-3$ and $8$ is \dfrac {(-3) + 8} {2}$
+
+$
+\begin{aligned}
+&= \dfrac {(-3) + 8} {2} \\\\
+&= \dfrac {5} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>5757E4AA-C7E9-4186-8F69-0AA3D64752CA</p>
 </div>
 <div class='topics'>
@@ -309,6 +359,59 @@ $0.142$
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A5529866-6896-4634-A0C7-7BA27DF46995</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is halfway between $120$ and $300$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Halfway between two numbers $= \dfrac{(\text{MAX} + \text{MIN})} {2}$
+
+$
+\begin{aligned}
+&= \dfrac {300 + 120} {2} \\\\
+&= \dfrac {420} {2} \\\\
+&= \dfrac {2 \times 210} {2} \\\\
+&= \dfrac {\cancel {2} \times 210} {\cancel {2}} \\\\
+&= 210
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$210$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

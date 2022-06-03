@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-notstarted"
 title: "Topic - Simpleword - Not Started"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1768,6 +1768,135 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>6AFECC09-483B-4A4D-AA47-2B41BC742CA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Starting with $-1$ give each letter of the alphabet a consecutive number with alternate signs.
+
+$A = -1, B = 2, C = -3, \ldots, Z = 26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My rabbit is called $\text{ANNA}$, what is the sum of the letters in her name?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My gerbil’s name is $\blacklozenge \text{AE}$. If the sum of the letter in her name is $-19$, what is the missing letter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>D8F3DE67-4A7C-4968-BA4C-FDC5DC751CDF</p>
 </div>
 <div class='topics'>
@@ -2595,6 +2724,56 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>AB82D7BB-6F34-4053-AC0A-D359B89A2F54</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $117$ be subtracted from $1200$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>6F116C3D-FA3B-4099-92C3-8F7387914956</p>
 </div>
 <div class='topics'>
@@ -3318,6 +3497,70 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>898F9830-29F9-40A4-A201-53DD8BBB856A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I choose three numbers from this number
+square, including one number from each row
+and one number from each column.
+
+![missing image](/papers/missing_image.svg)
+
+
+I then multiply the three numbers together.
+
+What is the largest possible product?
+
+- $96$
+- $105$
+- $162$
+- $504$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>7DB65EDC-8295-4BCC-8299-ACF2FFD390A4</p>
 </div>
 <div class='topics'>
@@ -3705,6 +3948,74 @@ $\pounds 3.24$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>8FC6B80B-0784-4E21-8E3D-76A86D6208DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $31$ days in July. Each day throughout July I picked $300\ \text{g}$ of raspberries from my garden.
+
+What was the total weight of the raspberries I picked that month? Give your answer in kilograms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text { day }           & : 300 \text {g} \\\\
+1 \text { day } \times 31 & : 300 \text {g} \times 31 \\\\
+31 \text { days }         & : 9300 \text {g} \\\\
+$
+
+Total weight of the raspberries = $9300$ grams.
+
+Now convert the grams into kilograms
+
+1g = $\dfrac {1} {1000} \text {kg}$ then,
+
+9300g = $9300 \times \dfrac {1} {1000} \text {kg}$
+
+$
+\begin{aligned}
+&= 9300 \times \dfrac {1} {1000} \\\\
+&= \dfrac {9300} {1000} \\\\
+&= \dfrac {93 \cancel {00}} {10 \cancel {00}} \\\\
+&= \dfrac {93} {10} \\\\
+&= 9.3 \text{kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.3 \text{kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>31FC660E-D13F-432D-A6ED-CC48AC82481E</p>
 </div>
 <div class='topics'>
@@ -3843,6 +4154,61 @@ Sara starts her maths homework at $4.30 \ \text{pm}$ and she finishes it at $6.1
 During that time she watches 'Neighbours' for $25 \ \text{minutes}$ and 
 she speaks to her friend Jean on the telephone for $20 \ \text{minutes}$. 
 How long is Sara actually working on her maths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the opposite faces on a dice is always $7$.
+Jack places  three dice on a table as shown in the diagram. 
+What is the total score of the faces that Jack cannot see?
+
+![missing image](/papers/missing_image.svg)
+  
 
 </div>
 <div class='workings'>
@@ -4230,6 +4596,66 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>46FBAC30-D970-49C2-BA30-0B60DA1F29F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the sum of all the prime numbers between $30$ and $50$
+
+A: $152$
+
+B: $168$
+
+C: $197$
+
+D: $199$
+
+E: $201$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>25B7489E-1FE7-44CA-A7DF-6961551621C6</p>
 </div>
 <div class='topics'>
@@ -4468,6 +4894,65 @@ TODOANSWER
 
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6F4D9A9-A53C-459D-9B81-794E066BC16F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+testimate
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jenny is given 3 large jigsaw puzzles for Christmas which get muddled together. The first contains $496$ pieces, the second $812$ pieces and the third $984$ pieces.
+
+By rounding each of these numbers to the nearest $100$, **write down** a simple sum you can do to estimate the total number of jigsaw pieces there are all together.
+
+Sum: 
+
+Answer: *My estimate of the total number of jigsaw pieces is*
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

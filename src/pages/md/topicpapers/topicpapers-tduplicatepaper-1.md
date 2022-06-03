@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tduplicatepaper-1"
 title: "Topicpapers Tduplicatepaper 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>

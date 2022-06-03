@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -63,7 +63,7 @@ $1080$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>87BBBF95-BF05-4710-8206-4E337956FB22</p>
 </div>
@@ -106,7 +106,7 @@ $696$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

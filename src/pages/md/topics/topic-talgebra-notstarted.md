@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-notstarted"
 title: "Topic - Algebra - Not Started"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -6205,6 +6205,64 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>E7E057EF-4470-4D6F-A4C3-197E843CA436</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Bacteria**
+
+Some bacteria are growing in a dish in a laboratory.
+
+Each day the number of bacteria doubles.
+
+On February $1 \text{st}$ there are $200$ bacteria.
+
+On what day does the number of bacteria first become more than one million?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>45D6CC57-CF40-4978-B0E0-366243A0E33D</p>
 </div>
 <div class='topics'>
@@ -8649,6 +8707,56 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square. What is the smallest number that Anastasia could have thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C5C3BAF3-583A-4F15-9F82-00938336CDCD</p>
 </div>
 <div class='topics'>
@@ -8992,6 +9100,59 @@ Bill and Ben are packing Easter eggs in crates. They have a total of $103$ Easte
 After a while Bill has filled $5$ crates and has $12$ Easter eggs left over, and Ben has filled $3$ crates and has $19$ Easter eggs still to pack.
 
 How many Easter eggs fit in each crate? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>38EAF1FA-664F-4D77-A761-828C6A2BCC05</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dan is colouring in lined paper to make stripes across the page.
+He colours first the $12 \text{th}$ line red and then every alternate line up to and including  the $18 \text{th}$ line.
+
+How many lines did he coloured red? 
 
 </div>
 <div class='workings'>
@@ -10378,6 +10539,85 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>C79D8DA3-388C-41C9-AB78-2E9C21A3E585</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between the teeth are also $1 \ \text{mm}$ wide.
+
+How long is the comb in centimetres?
+
+![missing image](/papers/missing_image.svg)
+  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Width of a tooth $= 1 \ \text {mm}$
+
+Total width of teeth $= 100 \times 1 \ \text {mm}$
+
+Total width of gaps $= 99 \times 1 \ \text {mm}$
+
+The total length of comb $= \text{length of} (\text {teeth} \ + \ \text {gaps})$
+
+$
+\begin{aligned}
+&= 100 \ \text {mm} + 99 \ \text {mm} \\\\
+&= 199 \ \text {mm}
+\end{aligned}
+$
+
+$1$ mm $= \dfrac {1} {10} \ \text {cm}$
+
+then,
+
+$199$ mm $= 199 \times \dfrac {1} {10} \ \text {cm}$
+
+$
+\begin{aligned}
+&= 199 \times \dfrac {1} {10} \\\\
+&= \dfrac {199} {10} \\\\
+&= 19.9 \text {cm}
+\end{aligned}
+$
+
+the length of the comb $= 1.99 \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.9 \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>277680C6-9DE8-4939-9C31-D456D52387D8</p>
 </div>
 <div class='topics'>
@@ -10882,6 +11122,211 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>AC236317-D21F-483C-A5A1-F0E255CD5A9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here's a rule to combine two numbers: multiply each number by itself, then add these two numbers together; finally add together the digits of this answer. For example $5$ and $8$ combine to give $17$ because $(5\times5)+(8\times8)=89$ and then $8+9=17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What do you get when you combine $3$ and $7$ using this rule?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I’m thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can’t find a number, Mia wins.
+
+If Mia says the number $3$, what number should Julian choose?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If Mia says the number $9$, what number should Julian choose?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>82F136F6-5184-409C-BDA6-5C0D88B646FF</p>
 </div>
 <div class='topics'>
@@ -10995,6 +11440,68 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CD9EAC9B-F7F6-484E-833B-8FF927046A32</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three different, positive odd numbers add together to make $23$. What is the smallest possible value of the largest of the three numbers? 
+
+A: $7$ 
+
+B: $9$ 
+
+C: $11$ 
+
+D: $13$ 
+
+E: $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the three odd numbers $n, \ n + 2, \ n + 4$
+
+As per the question,
+
+$
+\begin{aligned}
+n + n + 2 + n + 4 &= 23 \\\\
+3 n + 6           &= 23 \\\\
+3 n               &= 23 - 6 \\\\
+3 n               &= 17 \\\\
+n                 &= \dfrac {17} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -11312,6 +11819,157 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1B731222-A765-409B-84F4-B8431906BC85</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number. 
+
+My number is a $\bold{multiple\:of\: 4}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd $\huge\Box$
+
+My number could be odd or even $\huge\Box$
+
+Explain how you know. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a **different** number. 
+
+My number is a $\bold{factor\: of\: 20}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd  $\huge\Box$
+
+My number could be odd or even  $\huge\Box$
+
+Explain how you know.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

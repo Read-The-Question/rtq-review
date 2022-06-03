@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tlcm-notstarted"
 title: "Topic - Lcm - Not Started"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -497,9 +497,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

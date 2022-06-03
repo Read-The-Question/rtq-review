@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "Topicpapers Talgebra 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -7337,6 +7337,165 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>363E5CBB-213E-4351-8897-5C4B37E23565</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are some instructions for a number-cruncher machine:
+
+$
+\boxed{\text { INPUT } } \longrightarrow
+\boxed{\text { Multiply by } 5 \ } \longrightarrow
+\boxed{\text { Add } 1 \ } \longrightarrow
+\boxed{\text { OUTPUT }}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the **output** if the input number is $3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Output}  &= 3 \times 5 + 1 \\\\
+                &= 15 + 1 \\\\
+                &= 16
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the **input** if the output number is $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Input} \times 5 + 1  &= 36 \\\\
+\text {Input}               &= \dfrac {36 - 1} {5} \\\\
+                            &= \dfrac {35} {5} \\\\
+                            &= \dfrac {7 \times 5} {5} \\\\
+                            &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 7
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Molly says: "The **output** number is **ALWAYS** an **EVEN** number."
+
+Give an example to show that Molly is **WRONG**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If we input an even number and multiply by $5$ the answer will be an even number but if we add $1$ the result will always be an odd number.
+
+Lets's input $= 4$
+
+$4 \times 5 + 1 = 21$
+
+Hence, Molly is WRONG.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
@@ -7562,6 +7721,64 @@ TODOANSWER
 
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E7E057EF-4470-4D6F-A4C3-197E843CA436</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Bacteria**
+
+Some bacteria are growing in a dish in a laboratory.
+
+Each day the number of bacteria doubles.
+
+On February $1 \text{st}$ there are $200$ bacteria.
+
+On what day does the number of bacteria first become more than one million?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -9118,6 +9335,222 @@ $64$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E0E9D923-E176-4223-B0A1-C3789A643CE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John is repeating a two-step calcualtion, using a 'number machine' to multiply by $7$ and then subtract $3$.
+
+His number machine work like this:
+
+INPUT %symbol% [$\times 7$] %symbol% [-3] %symbol% OUTPUT
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the OUTPUT if John uses $12$ as his INPUT?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {OUTPUT}  &= (12 \times 7) - 3 \\\\
+                &= 84 - 3 \\\\
+                &= 81
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John obtains an OUTPUT of $39$. What was his INPUT?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let input $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+(a \times 7) - 3    &= 39 \\\\
+7a                  &= 39 + 3 \\\\
+a                   &= \dfrac {42} {7} \\\\
+a                   &= \dfrac {6 \times 7} {7} \\\\
+a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
+a                   &= 6
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Casey is using a different 'multiply then add' number machine. When she inputs $3$, the output is $26$. When the input is $5$, 
+the output is $36$.
+
+$3$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $26$
+$5$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $36$
+
+Fill in the unknown values for Casey's number machines, so you obtain the same input and output values as she did.
+
+INPUT %symbol% [$\times \ldots$] %symbol% [$+ \ldots$] %symbol% OUTPUT
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Lets's solve it for first equation.
+
+$
+\begin {aligned}
+&= (3 \times 5) + 11 \\\\
+&= 15 + 11 \\\\
+&= 26
+\end {aligned}
+$
+
+Lets's solve it for second equation.
+
+$
+\begin {aligned}
+&= (5 \times 5) + 11 \\\\
+&= 25 + 11 \\\\
+&= 36
+\end {aligned}
+$
+
+The OUTPUT is obtained by multiplying the input by $5$ and then adding the result by $11$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {INPUT} \times 5 + 11 = \text {OUTPUT}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What OUTPUT will Caseys obtain, when the INPUT is $4$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {OUTPUT}  &= (4 \times 5) + 11 \\\\
+                &= 20 + 11 \\\\
+                &= 31
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -10980,6 +11413,56 @@ $\dfrac {9} {2}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square. What is the smallest number that Anastasia could have thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
@@ -11114,7 +11597,7 @@ $5$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>ACBD2F74-0174-460D-93C5-F21245389B8B</p>
+<p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
 </div>
 <div class='topics'>
 <ul>
@@ -11125,420 +11608,58 @@ talgebra
 </div>
 <div class='question question'>
 
-Kieran thinks of a number.
-He doubles it and adds $6$.
-He then divides it by $2$.
-The answer is $8$.
-What was his original number?
+Here is a pattern made from grey and white tiles.
 
-- $5$
-- $11$
-- $20$
-- $-2$ 
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+A shape in the pattern has $28$ grey tiles.
+
+How many white tiles does it have?
+
+-  $28$
+-  $15$
+-  $14$
+-  $9$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the number Kieran thought of $= a$
+After oberserving the pattern, the white tiles are one more than half of the black tiles.
 
-As per the question,
+As per the pattern,
 
 $
 \begin{aligned}
-\dfrac {a \times 2 + 6} {2}                                  &= 8 \\\\
-\dfrac {2a + 6} {2}                                          &= 8 \\\\
-2a + 6                                                       &= 8 \times 2 \\\\
-2a + 6                                                       &= 16 \\\\
-2a                                                           &= 16 -6 \\\\
-2a                                                           &= 10 \\\\
-a                                                            &= \dfrac {10} {2} \\\\
-a                                                            &= \dfrac {5 \times 2} {2} \\\\
-a                                                            &= \dfrac {5 \times \cancel{2}} {\cancel{2}} \\\\
-a                                                            &= 5
+\text{No. of white tiles}                      &= \dfrac {\text{No. of Black tiles}} {2} + 1 \\\\
+                                               &= \dfrac {28} {2} + 1 \\\\
+                                               &= \dfrac {2 \times 14} {2} + 1 \\\\
+                                               &= \dfrac {\cancel{2} \times 14} {\cancel{2}} + 1 \\\\
+                                               &= 14 + 1 \\\\
+                                               &= 15
 \end{aligned}
 $
-
-The original number Kieran thought of $= 5$
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>A</p>
+<p>B</p>
 </div>
 <div class='answer'>
 
-$5$
+$15$
 
 </div>
 </div>
 
 <div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>083271E8-99C6-43BF-A7F3-B01D009B385F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When two numbers are added together the total is $32$. When the same two numbers are subtracted the result is $6$.
-
-Find the two numbers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first number $= a$
-
-Let the second number $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-a + b                    &= 32 \\\\
-a - b                    &= 6
-\end{aligned}
-$
-
-There are two variables, $a$ and $b$. Let's eliminate to reduce it to just one variable.
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
-a + b - (a - b)          &= 32 - 6 \\\\
-a + b - a + b            &= 26 \\\\
-2b                       &= 26 \\\\
-b                        &= \dfrac {26} {2} \\\\
-b                        &= 13
-\end{aligned}
-$
-
-Let's substitute the value of $b$ in one of the initial equations.
-
-$
-\begin{aligned} 
-a + b                    &= 32 \\\\
-a + 13                   &= 32 \\\\
-a                        &= 32 - 13 \\\\
-a                        &= 19
-\end{aligned}
-$
-
-First number $= 19$
-
-Second number $= 13$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19 \ \text{and} \ 13$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>CFC461D1-AF24-4C9B-9A0D-E298AE0E6C8F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sophie thinks of a number, doubles it and adds $8$.
-
-The answer was $26$. What was the number she was thinking of? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number Sophie thought of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 2 + 8                                      &= 26 \\\\
-a \times 2                                          &= 26 - 8 \\\\
-2a                                                  &= 18 \\\\
-a                                                   &= \dfrac {18} {2} \\\\
-a                                                   &= \dfrac {9 \times 2} {2} \\\\
-a                                                   &= \dfrac {9 \times \cancel{2}} {\cancel{2}} \\\\
-a                                                   &= 9
-\end{aligned}
-$
-
-The number Sophie thought of $= 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>FA67D082-5CDC-4989-99AB-D53A992CDC1B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When my age is divided by $2, 3, 4$ or $6$ there is always a remainder of $1$. 
-But when divided by $7$ there is no remainder.
-
-How old am I? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>0A8B9A61-BA92-4D10-A336-920B6CC84AFF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the Cybercafe you can buy Gigaburgers and cans of Megapop.
-
-$1$ Gigaburger and $2$ Megapops cost $\pounds 2.80$ 
-
-![missing image](/papers/missing_image.svg)
-
-
-$2$ Gigaburgers and $5$ Megapops costs $\pounds 6.10$ 
-
-![missing image](/papers/missing_image.svg)
-
-
-Find the cost of:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1$ glass of Megapop
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of Megapop (in $\text{pounds}$) $= m$
-
-Let the cost of Gigaburger (in $\text{pounds}$) $= g$
-
-As per the question,
-
-$
-\begin{aligned} 
-g + 2m                    &= 2.8 \\\\
-2g + 4m                   &= 5.6 \\\\
-2g + 5m                   &= 6.1
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-
-Multiply the first equation by $2$.
-
-$
-\begin{aligned} 
-2 \times g + 2 \times 2m     &= 2 \times 2.8 \\\\
-2g + 4m                      &= 5.6
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned}
-2g + 5m - (2g + 4m)        &= \pounds 6.1 - \pounds 5.6 \\\\
-2g + 5m - 2g - 4m          &= 0.50 \\\\
-m                          &= \pounds 0.50
-\end{aligned}
-$
-
-Cost of 1 can of Megapop $= \pounds 0.50$
-
-</div>
-<div class='working'>
-
-Alternative solution
-
-Let the cost of Megapop (in $\text{pounds}$) $= m$
-
-Let the cost of Gigaburger (in $\text{pounds}$) $= g$
-
-As per the question,
-
-$
-\begin{aligned}
-g + 2m                    &= 2.8 \ \ \text {or,} \\\\
-2g + 4m                   &= 5.6 \\\\
-2g + 5m                   &= 6.1
-\end{aligned}
-$
-
-$
-\begin{array}{cccccccccccccc}
-    &   2g & + &   5m   &=\pounds 6.1 \\
-{}- &   2g & + &   4m   &=\pounds 5.6 \\
-\hline
-      &0 &+&   1m   &=\pounds 0.5 \\
-\end{array}
-$
-
-$1$ Megapop $= \pounds 0.50$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 0.50$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1$ Gigaburger
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Cost of 1 Gigaburger}  &= 2.8 - 2 \times 0.5 \\\\
-                             &= 2.8 - 1 \\\\
-                             &= \pounds 1.80
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.80$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:30</p>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

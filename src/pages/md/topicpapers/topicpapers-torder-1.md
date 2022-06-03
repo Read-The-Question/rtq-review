@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-1"
 title: "Topicpapers Torder 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2197,6 +2197,172 @@ $\text {E}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>3E8903AA-53A0-4F33-8BA4-B0C6D370EBE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each part of this question, write down the value in the list that is the biggest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$0.503, \quad 0.53, \quad 0.35, \quad 0.535, \quad 0.3555, \quad 0.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.535$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.535$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$\dfrac{3}{4}, \quad \dfrac{5}{6}, \quad \dfrac{8}{9}, \quad \dfrac{2}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $4, 6, 9, 3 = 36$
+
+$
+\begin{aligned}
+&= \dfrac {3} {4}, \quad \dfrac {5} {6}, \quad \dfrac {8} {9}, \quad \dfrac {2}{3} \\\\
+&= \dfrac {3 \times 9} {4 \times 9}, \quad \dfrac {5 \times 6} {6 \times 6}, \quad \dfrac {8 \times 4} {9 \times 4}, \quad \dfrac {2 \times 12} {3 \times 12} \\\\
+&= \dfrac {27} {36}, \quad \dfrac{30} {36}, \quad \dfrac {32} {36}, \quad \dfrac {24} {36}
+\end{aligned}
+$
+
+$\dfrac {32} {36} = \dfrac {8} {9}$ is the biggest.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {9}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$\dfrac{1}{4}$ of $21$, $\quad 50\%$ of $11$,$\quad \dfrac{1}{3}$ of $17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's convert all the numbers to fractions. 
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ 21, \quad 50 \% \ \text {of} \ 11,  \quad \dfrac {1} {3} \ \text {of} \ 17 \\\\
+&= \dfrac {1} {4} \times 21, \quad \dfrac {50} {100} \times 11,  \quad \dfrac {1} {3} \times 17 \\\\
+&= \dfrac {21} {4}, \quad \dfrac {50 \times 11} {100},  \quad \dfrac {17} {3} \\\\
+&= \dfrac {21} {4}, \quad \dfrac {11} {2},  \quad \dfrac {17} {3}
+\end{aligned}
+$
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $2, 4, 3 = 12$
+
+$
+\begin{aligned}
+&= \dfrac {21} {4}, \quad \dfrac {11} {2}, \quad \dfrac {17} {3} \\\\
+&= \dfrac {21 \times 3} {4 \times 3}, \quad \dfrac {11 \times 6} {2 \times 6}, \quad \dfrac {17 \times 4} {3 \times 4} \\\\
+&= \dfrac {63} {12}, \quad \dfrac {66} {12}, \quad \dfrac {68} {12}
+\end{aligned}
+$
+
+$\dfrac {68} {12} = \dfrac {17} {3} = \dfrac {1} {3} \ \text {of} \ 17$ is the biggest.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3} \ \text {of} \ 17$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
 </div>
 <div class='topics'>
@@ -3049,6 +3215,215 @@ $7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>707882F3-38A7-4427-B4A9-FC62D572DEA3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For each set of numbers put a circle around the smallest number and underline the largest number. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2.506    \quad 2.56    \quad 2.006    \quad 2.056    \quad 2.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{4} \quad \dfrac{6}{7} \quad \dfrac{7}{8} \quad \dfrac{8}{9} \quad \dfrac{1}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{9}{20} \quad 0.55 \quad \dfrac{3}{5} \quad 0.25 \quad \dfrac{53}{100}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+28 \ \text{cm} \quad 
+\dfrac{1}{5} \ \text{m} \quad
+2600 \ \text{mm} \quad
+0.28 \ \text{m} \quad
+25 \ \text{cm}
+$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,7 +60,7 @@ $1582$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>27ED8C2C-46AB-461E-A945-ED1CF215E1BD</p>
 </div>
@@ -102,7 +102,7 @@ $668$
 <p>forest-school--11-plus--maths--2020--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -457,9 +457,6 @@ $18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -503,10 +500,10 @@ $\text {Four million forty thousand four hundred forty}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tnumber
 </li>
 <li>
-tnumber
+tmiddlenumber
 </li>
 </ul>
 </div>

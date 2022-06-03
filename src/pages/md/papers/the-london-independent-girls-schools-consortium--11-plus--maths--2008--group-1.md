@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -64,7 +64,7 @@ $14002$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>F46BD077-5724-4B71-BA48-162435F7D628</p>
 </div>
@@ -106,7 +106,7 @@ $6646$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsimpleword-blocked"
 title: "Topic - Simpleword - Blocked"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -376,6 +376,101 @@ $3.6 \ \text {m} ^ 2$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2016--sample-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>6053AC7E-A234-4868-BF46-DDF058218EC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many biscuits are there in seven boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per the question, the number of biscuits in a box = 54,
+
+$
+\begin{aligned}
+\text{Biscuits in seven boxes} &= 54 \times 7 \\\\
+                               &= 378
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$378$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>BE1E370B-4981-405A-9E07-B8FEE8DB45BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A giant size toy box contains $400$ bricks. How many bricks will there be in $36$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the number of bricks in a box = 400,
+
+$
+\begin{aligned}
+\text{bricks in 7 boxes} &= 400 \times 7 \\\\
+                         &= 2800
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2800$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

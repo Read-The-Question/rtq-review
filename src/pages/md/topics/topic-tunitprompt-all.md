@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tunitprompt-all"
 title: "Topic - Unitprompt - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3094,10 +3094,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 <li>
 tunitprompt
@@ -3165,10 +3162,7 @@ $9.3 \text{kg}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 <li>
 tunitprompt

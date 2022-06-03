@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tnoexplanation-all"
 title: "Topic - Noexplanation - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -467,9 +467,6 @@ $2500 \ \text{cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -928,9 +925,6 @@ $2, 3$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1143,9 +1137,6 @@ $21$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1315,9 +1306,6 @@ $49.31$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1361,9 +1349,6 @@ $358903$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1406,9 +1391,6 @@ $9909999$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1454,9 +1436,6 @@ $29, 31, 37$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1504,9 +1483,6 @@ $6$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1553,10 +1529,7 @@ $1.3 \text{ litres}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tgeometry
 </li>
 <li>
 tnoexplanation
@@ -1716,9 +1689,6 @@ $13 \times 7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -1818,9 +1788,6 @@ $\text {Fairly unlikely}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2104,9 +2071,6 @@ $\text {Certain}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2200,9 +2164,6 @@ $42$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2341,9 +2302,6 @@ $84$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2386,9 +2344,6 @@ $9870$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2483,9 +2438,6 @@ $11$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2528,9 +2480,6 @@ $1237$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -2618,9 +2567,6 @@ $0.2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2707,9 +2653,6 @@ $0.7$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -2760,9 +2703,6 @@ $\text {d}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3020,9 +2960,6 @@ $17$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3065,9 +3002,6 @@ $\text {Four million forty thousand four hundred forty}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3112,9 +3046,6 @@ $2020020$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3157,9 +3088,6 @@ $2, 3$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3260,9 +3188,6 @@ $11.0009$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3408,9 +3333,6 @@ $15 {:} 35$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3455,9 +3377,6 @@ $5003$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3601,9 +3520,6 @@ $2.494$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3646,9 +3562,6 @@ $10236$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3715,9 +3628,6 @@ $7$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -3950,9 +3860,6 @@ $999$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -4318,9 +4225,6 @@ $76 \times 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -4363,9 +4267,6 @@ $400$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -4461,160 +4362,10 @@ $11$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>D0234A9E-B354-49F2-86CF-030A38955623</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing operations in the boxes:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-2 \longrightarrow \boxed{\ \times 5 \ } 
-\longrightarrow \boxed{\phantom {\ \times 3 \ }} 
-\longrightarrow \boxed{\ \times 3 \ } 
-\longrightarrow 39
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-${} +3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-${} +3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-7 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
-\longrightarrow \boxed{\ \div 3 \ }  
-\longrightarrow 5
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-${} +8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-${} +8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Give **both** solutions:
-
-$
-24 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
-\longrightarrow \boxed{\ \times 4 \ }
-\longrightarrow \boxed{\ - 6 \ } 
-\longrightarrow 26
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-${} \div 3 \ \text {and} \ {} - 16$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-${} \div 3 \ \text {and} \ {} - 16$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>04EBBA58-6647-40C9-8E46-0C41DA8751EB</p>
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -4952,9 +4703,6 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -5054,9 +4802,6 @@ $16$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -5253,9 +4998,6 @@ $\text{German}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

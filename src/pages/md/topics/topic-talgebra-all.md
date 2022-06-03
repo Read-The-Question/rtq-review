@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-talgebra-all"
 title: "Topic - Algebra - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -10688,6 +10688,165 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>363E5CBB-213E-4351-8897-5C4B37E23565</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are some instructions for a number-cruncher machine:
+
+$
+\boxed{\text { INPUT } } \longrightarrow
+\boxed{\text { Multiply by } 5 \ } \longrightarrow
+\boxed{\text { Add } 1 \ } \longrightarrow
+\boxed{\text { OUTPUT }}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the **output** if the input number is $3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Output}  &= 3 \times 5 + 1 \\\\
+                &= 15 + 1 \\\\
+                &= 16
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the **input** if the output number is $36$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Input} \times 5 + 1  &= 36 \\\\
+\text {Input}               &= \dfrac {36 - 1} {5} \\\\
+                            &= \dfrac {35} {5} \\\\
+                            &= \dfrac {7 \times 5} {5} \\\\
+                            &= \dfrac {7 \times \cancel {5}} {\cancel {5}} \\\\
+                            &= 7
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Molly says: "The **output** number is **ALWAYS** an **EVEN** number."
+
+Give an example to show that Molly is **WRONG**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+If we input an even number and multiply by $5$ the answer will be an even number but if we add $1$ the result will always be an odd number.
+
+Lets's input $= 4$
+
+$4 \times 5 + 1 = 21$
+
+Hence, Molly is WRONG.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
@@ -11017,6 +11176,64 @@ Two cats and three dogs would cost $\pounds 180$.
 One cat and four dogs would cost $\pounds 190$.
 
 Work out the total cost of three and seven dogs.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E7E057EF-4470-4D6F-A4C3-197E843CA436</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**Bacteria**
+
+Some bacteria are growing in a dish in a laboratory.
+
+Each day the number of bacteria doubles.
+
+On February $1 \text{st}$ there are $200$ bacteria.
+
+On what day does the number of bacteria first become more than one million?
 
 </div>
 <div class='workings'>
@@ -13432,6 +13649,222 @@ $64$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E0E9D923-E176-4223-B0A1-C3789A643CE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John is repeating a two-step calcualtion, using a 'number machine' to multiply by $7$ and then subtract $3$.
+
+His number machine work like this:
+
+INPUT %symbol% [$\times 7$] %symbol% [-3] %symbol% OUTPUT
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the OUTPUT if John uses $12$ as his INPUT?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {OUTPUT}  &= (12 \times 7) - 3 \\\\
+                &= 84 - 3 \\\\
+                &= 81
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+John obtains an OUTPUT of $39$. What was his INPUT?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let input $= a$
+
+As per the question,
+
+$
+\begin {aligned}
+(a \times 7) - 3    &= 39 \\\\
+7a                  &= 39 + 3 \\\\
+a                   &= \dfrac {42} {7} \\\\
+a                   &= \dfrac {6 \times 7} {7} \\\\
+a                   &= \dfrac {6 \times \cancel {7}} {\cancel {7}} \\\\
+a                   &= 6
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Casey is using a different 'multiply then add' number machine. When she inputs $3$, the output is $26$. When the input is $5$, 
+the output is $36$.
+
+$3$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $26$
+$5$ %symbol% [$\times {?}$] %symbol% [$+ {?}$] %symbol% $36$
+
+Fill in the unknown values for Casey's number machines, so you obtain the same input and output values as she did.
+
+INPUT %symbol% [$\times \ldots$] %symbol% [$+ \ldots$] %symbol% OUTPUT
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Lets's solve it for first equation.
+
+$
+\begin {aligned}
+&= (3 \times 5) + 11 \\\\
+&= 15 + 11 \\\\
+&= 26
+\end {aligned}
+$
+
+Lets's solve it for second equation.
+
+$
+\begin {aligned}
+&= (5 \times 5) + 11 \\\\
+&= 25 + 11 \\\\
+&= 36
+\end {aligned}
+$
+
+The OUTPUT is obtained by multiplying the input by $5$ and then adding the result by $11$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {INPUT} \times 5 + 11 = \text {OUTPUT}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What OUTPUT will Caseys obtain, when the INPUT is $4$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {OUTPUT}  &= (4 \times 5) + 11 \\\\
+                &= 20 + 11 \\\\
+                &= 31
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -17212,6 +17645,56 @@ $\dfrac {9} {2}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square. What is the smallest number that Anastasia could have thought of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C5C3BAF3-583A-4F15-9F82-00938336CDCD</p>
 </div>
 <div class='topics'>
@@ -17545,6 +18028,78 @@ The number I was thinking of $= 5$
 <div class='answer'>
 
 $5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a pattern made from grey and white tiles.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+A shape in the pattern has $28$ grey tiles.
+
+How many white tiles does it have?
+
+-  $28$
+-  $15$
+-  $14$
+-  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+After oberserving the pattern, the white tiles are one more than half of the black tiles.
+
+As per the pattern,
+
+$
+\begin{aligned}
+\text{No. of white tiles}                      &= \dfrac {\text{No. of Black tiles}} {2} + 1 \\\\
+                                               &= \dfrac {28} {2} + 1 \\\\
+                                               &= \dfrac {2 \times 14} {2} + 1 \\\\
+                                               &= \dfrac {\cancel{2} \times 14} {\cancel{2}} + 1 \\\\
+                                               &= 14 + 1 \\\\
+                                               &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$15$
 
 </div>
 </div>
@@ -17894,6 +18449,196 @@ $19 \ \text{and} \ 13$
 </div>
 </div>
 
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>53A4A036-DBD9-41E3-81C1-CB5259D2E33C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number must fit into the squares to make these sums correct?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$34 + \boxed{\phantom{91}} = 91$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number in the box $= a$
+
+$
+\begin{aligned}
+34 + a                                           &= 91 \\\\
+a                                                &= 91 - 34 \\\\
+a                                                &= 57
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$57$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$72 - \boxed{\phantom{39}} = 39$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number in the box $= a$
+
+$
+\begin{aligned}
+72 - a                                           &= 39 \\\\
+72 - 39                                          &= a \\\\
+a                                                &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{39}}  \times  7  = 119$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number in the box $= a$
+
+$
+\begin{aligned}
+a \times 7                                       &= 119 \\\\
+a                                                &= \dfrac {119} {7} \\\\
+a                                                &= \dfrac {17 \times 7} {7} \\\\
+a                                                &= \dfrac {17 \times \cancel{7}} {\cancel{7}} \\\\
+a                                                &= 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$448 \div \boxed{\phantom{39}} = 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number in the box $= a$
+
+$
+\begin{aligned}
+448 \div a                                       &= 8 \\\\
+448                                              &= 8 \times a\\\\
+\dfrac {448} {8}                                 &= a \\\\
+\dfrac {8 \times 56} {8}                         &= a \\\\
+\dfrac {\cancel{8} \times 56} {\cancel{8}}       &= a \\\\
+a                                                &= 56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -19133,6 +19878,59 @@ $7$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>38EAF1FA-664F-4D77-A761-828C6A2BCC05</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dan is colouring in lined paper to make stripes across the page.
+He colours first the $12 \text{th}$ line red and then every alternate line up to and including  the $18 \text{th}$ line.
+
+How many lines did he coloured red? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>FCC40EC8-3FDD-4BFA-B17E-BF9F97D55479</p>
 </div>
 <div class='topics'>
@@ -19297,6 +20095,63 @@ $6$
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DA8FA910-F7B0-4EDF-84B5-5986F11038C1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following?  $36 \div \boxed{?} = 4$
+
+- $32$
+- $8$
+- $9$
+- $12$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+36 \div a           &= 4 \\\\
+a                   &= \dfrac {36} {4} \\\\
+a                   &= \dfrac {4 \times 9} {4} \\\\
+a                   &= \dfrac {\cancel 4 \times 9} {\cancel 4} \\\\
+a                   &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -21732,6 +22587,85 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>C79D8DA3-388C-41C9-AB78-2E9C21A3E585</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A comb for horses has $100$ teeth, each $1 \ \text{mm}$ wide. The gaps between the teeth are also $1 \ \text{mm}$ wide.
+
+How long is the comb in centimetres?
+
+![missing image](/papers/missing_image.svg)
+  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Width of a tooth $= 1 \ \text {mm}$
+
+Total width of teeth $= 100 \times 1 \ \text {mm}$
+
+Total width of gaps $= 99 \times 1 \ \text {mm}$
+
+The total length of comb $= \text{length of} (\text {teeth} \ + \ \text {gaps})$
+
+$
+\begin{aligned}
+&= 100 \ \text {mm} + 99 \ \text {mm} \\\\
+&= 199 \ \text {mm}
+\end{aligned}
+$
+
+$1$ mm $= \dfrac {1} {10} \ \text {cm}$
+
+then,
+
+$199$ mm $= 199 \times \dfrac {1} {10} \ \text {cm}$
+
+$
+\begin{aligned}
+&= 199 \times \dfrac {1} {10} \\\\
+&= \dfrac {199} {10} \\\\
+&= 19.9 \text {cm}
+\end{aligned}
+$
+
+the length of the comb $= 1.99 \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.9 \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>277680C6-9DE8-4939-9C31-D456D52387D8</p>
 </div>
 <div class='topics'>
@@ -22124,6 +23058,67 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>738E804C-DF07-4608-919A-55C23079A59F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A menswear shop sells $7$ times as many white shirts as checked shirts. $72$ shirts are sold in total. How many white shirts are sold? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of checked shirts sold $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 7 a &= 72 \\\\
+8 a     &= 72 \\\\
+a       &= \dfrac {72} {8} \\\\
+a       &= \dfrac {8 \times 9} {8} \\\\
+a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a       &= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of white shirts sold} &= 7 \times a \\\\
+                                   &= 7 \times 9 \\\\
+                                   &= 63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -22747,6 +23742,73 @@ $46 \ \text{years}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tariq wants to use four planks of wood to make the top of a table.
+
+Each plank of wood is $14 \ \text{cm}$ wide.
+
+He wants the table to be $65 \ \text{cm}$ wide with **equal spaces** between the 
+planks of wood.
+
+![missing image](/papers/missing_image.svg)
+
+
+How much space should he leave between each of the planks of wood?
+
+Show your working. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the space between the planks (in $\text{cm}$) $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+14 \times 4 + 3 \times a &= 65 \\\\
+56 + 3 a                 &= 65 \\\\
+3 a                      &= 65 - 56 \\\\
+3 a                      &= 9 \\\\
+a                        &= \dfrac {9} {3} \\\\
+a                        &= \dfrac {3 \times 3} {3} \\\\
+a                        &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+a                        &= 3 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>3B3AE221-BCEB-494B-9366-3351D32DAFA2</p>
@@ -22891,6 +23953,77 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this subtraction, $P, Q, R, S$ and $T$ represent single digits.
+
+![missing image](/papers/missing_image.svg)
+
+
+%waffles%
+
+What is the value of $P + Q + S + T$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   7         &   \red {6}   &   2          &   \red{1}   &   \red{8} \\
+{}- &   \red{5}   &   3          &   \red {9}   &   9         &    6 \\
+\hline
+    &   2         &   2          &   2          &   2         &    2
+\end{array}
+$
+
+$
+\begin{aligned}
+P &= 5 \\\\
+Q &= 6 \\\\
+R &= 9 \\\\
+S &= 1 \\\\
+T &= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+P + Q + S + T &= 5 + 6 + 1 + 8 \\\\
+              &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -24198,6 +25331,211 @@ $14$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AC236317-D21F-483C-A5A1-F0E255CD5A9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here's a rule to combine two numbers: multiply each number by itself, then add these two numbers together; finally add together the digits of this answer. For example $5$ and $8$ combine to give $17$ because $(5\times5)+(8\times8)=89$ and then $8+9=17$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What do you get when you combine $3$ and $7$ using this rule?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I’m thinking of two different numbers. When I combine them using this rule, I get the answer $9$. What could my two numbers be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mia and Julian play a game. In the game, Mia chooses a whole number, and then Julian has to choose another whole number so that when he combines it with Mia's number using the rule above, the answer is $7$. If he can’t find a number, Mia wins.
+
+If Mia says the number $3$, what number should Julian choose?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If Mia says the number $9$, what number should Julian choose?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
@@ -24323,6 +25661,82 @@ $
 <div class='answer'>
 
 $112$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of five **different, positive** odd numbers is $85$. What’s the most that the largest number could be? 
+
+A: $69$ 
+
+B: $35$ 
+
+C: $25$ 
+
+D: $21$ 
+
+E: $17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the five numbers $n, \ n + 2, \ n + 4, \ n + 6, \ n + 8$
+
+As per the question,
+
+$
+\begin{aligned}
+n + n + 2 + n + 4 + n + 6 + n + 8 &= 85 \\\\
+5 n + 20                          &= 85 \\\\
+5 n                               &= 85 - 20 \\\\
+5 n                               &= 65 \\\\
+n                                 &= \dfrac {65} {5} \\\\
+n                                 &= \dfrac {13 \times 5} {5} \\\\
+n                                 &= \dfrac {13 \times \cancel {5}} {\cancel {5}} \\\\
+n                                 &= 13
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Largest number} &= n + 8 \\\\
+                       &= 13 + 8 \\\\
+                       &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$21$
 
 </div>
 </div>
@@ -24897,6 +26311,68 @@ $45$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CD9EAC9B-F7F6-484E-833B-8FF927046A32</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three different, positive odd numbers add together to make $23$. What is the smallest possible value of the largest of the three numbers? 
+
+A: $7$ 
+
+B: $9$ 
+
+C: $11$ 
+
+D: $13$ 
+
+E: $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the three odd numbers $n, \ n + 2, \ n + 4$
+
+As per the question,
+
+$
+\begin{aligned}
+n + n + 2 + n + 4 &= 23 \\\\
+3 n + 6           &= 23 \\\\
+3 n               &= 23 - 6 \\\\
+3 n               &= 17 \\\\
+n                 &= \dfrac {17} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>7C02F3E0-0B0D-4D18-94F1-36B11717F1F8</p>
@@ -25434,6 +26910,113 @@ $6$
 </div>
 </div>
 
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>31862070-31F4-4769-871C-B8B78E60185D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the next two questions write a number in the box which will make the statement true.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4 \times \Box = 36$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\Box - 13 = 32$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing value = $a$
+
+As per the question,
+
+$
+\begin{aligned}
+a - 13  &= 32 \\\\
+a       &= 32 + 13 \\\\
+a       &= 45 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -26340,6 +27923,157 @@ $4$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1B731222-A765-409B-84F4-B8431906BC85</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number. 
+
+My number is a $\bold{multiple\:of\: 4}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd $\huge\Box$
+
+My number could be odd or even $\huge\Box$
+
+Explain how you know. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a **different** number. 
+
+My number is a $\bold{factor\: of\: 20}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd  $\huge\Box$
+
+My number could be odd or even  $\huge\Box$
+
+Explain how you know.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -27855,6 +29589,147 @@ $7$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>D0234A9E-B354-49F2-86CF-030A38955623</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing operations in the boxes:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+2 \longrightarrow \boxed{\ \times 5 \ } 
+\longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \times 3 \ } 
+\longrightarrow 39
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} +3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} +3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+7 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \div 3 \ }  
+\longrightarrow 5
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} +8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} +8$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Give **both** solutions:
+
+$
+24 \longrightarrow \boxed{\phantom {\ \times 3 \ }} 
+\longrightarrow \boxed{\ \times 4 \ }
+\longrightarrow \boxed{\ - 6 \ } 
+\longrightarrow 26
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+${} \div 3 \ \text {and} \ {} - 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+${} \div 3 \ \text {and} \ {} - 16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>51C00E11-4522-456E-9573-8B2298390591</p>
 </div>
 <div class='topics'>
@@ -28284,6 +30159,125 @@ $6 \text{ cm}, \ 12 \text{ cm}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2BE1B352-38EE-45ED-B07A-12B3ABD5532C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%waffles%
+
+Starting with the number $6$ the operation $\spadesuit \ 3$ is applied followed by the operation $\spadesuit \ 1$ to give a final answer of $1$, as in this example below:
+
+$6 \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 1$
+
+Using the same operation for the diamond and triangle, find the missing numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = {?}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15 \div 3 - 1 \\\\
+&= 5 - 1 \\\\
+&= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+${?} \quad \spadesuit \quad 3 \quad \spadesuit \quad 1 = 8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing term $= a$
+
+$
+\begin{aligned}
+a \div 3 - 1 &= 8 \\\\
+a \div 3     &= 8 + 1 \\\\
+a \div 3     &= 9 \\\\
+a            &= 9 \times 3 \\\\
+a            &= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -29235,6 +31229,122 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0FE51052-D2CD-4586-8EBB-DB99CD3025CA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On an Autumn day the number of leaves on a tree at the end of the day is half the number at the start of the day. 
+A tree initially has $400000$ leaves. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many are left at the end of the second day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Leaves left at the end of second day} &= \dfrac {400000} {4} \\\\
+                                            &= \dfrac {100000 \times 4} {4} \\\\
+                                            &= \dfrac {100000 \times \cancel {4}} {\cancel {4}} \\\\
+                                            &= 100000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At the end of which day are there less than $2000$ leaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the day be $n$th day
+
+$
+\begin{aligned}
+\text{Day on which there are less than 2000 leaves} &= \dfrac {400000} {2^n} \\\\
+                                                    &= \dfrac {2000 \times 200} {2^n}
+\end{aligned}
+$
+
+Since $2^8 = 256$
+
+Hence $n = 8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>8F027A1E-78A4-45E0-BB41-9FAAB4D6B88A</p>
@@ -29329,6 +31439,52 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C8A77F0B-4C4D-421C-877B-72F489BBA0E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four lamp posts are in a straight line. The distance from each post to the next is $25 \ \text{m}$. 
+What is the distance from the first post to the last?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Distance from the first post to the last} &= 25 + 25 + 25 \\\\
+                                                 &= 75 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -29889,6 +32045,51 @@ $4$
 </div>
 </li>
 </ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B262AEAA-906F-455F-9F60-3F9875266B0B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Anna has $3$ brothers and $5$ sisters. Her brother Tom has $S$ sisters and $B$ brothers. What is the value of $S \times B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+S \times B &= 6 \times 2 \\\\
+           &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3</p>
 </div>

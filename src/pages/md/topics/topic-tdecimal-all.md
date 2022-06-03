@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tdecimal-all"
 title: "Topic - Decimal - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -977,7 +977,7 @@ $1.1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>CBA255A4-3DFD-4E56-A805-E215D0E3AA77</p>
 </div>
@@ -1030,7 +1030,7 @@ $5.28$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1206,7 +1206,7 @@ $25.51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>ECED2877-3C6B-4FB7-8C76-F0180A1A0C2B</p>
 </div>
@@ -1318,7 +1318,7 @@ $1.44$
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1376,7 +1376,7 @@ $6.919$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>8B7C2A09-7FD5-471D-906B-6A7472C1B209</p>
 </div>
@@ -1421,7 +1421,7 @@ $1.05$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1478,7 +1478,7 @@ $2.769$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>45B0D988-C243-47B2-B13A-EF1D6CB68016</p>
 </div>
@@ -1523,7 +1523,7 @@ $3.787$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3092,7 +3092,7 @@ $219.41$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C4CF7D3D-392A-4880-A5A1-150F9EF14E3B</p>
 </div>
@@ -3140,7 +3140,7 @@ $1.47$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

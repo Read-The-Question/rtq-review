@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-torder-g0"
 title: "Topic - Order - G0"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1314,6 +1314,172 @@ $\text {B}, \text {E}, \text {G}$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3E8903AA-53A0-4F33-8BA4-B0C6D370EBE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each part of this question, write down the value in the list that is the biggest.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$0.503, \quad 0.53, \quad 0.35, \quad 0.535, \quad 0.3555, \quad 0.5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.535$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.535$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$\dfrac{3}{4}, \quad \dfrac{5}{6}, \quad \dfrac{8}{9}, \quad \dfrac{2}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $4, 6, 9, 3 = 36$
+
+$
+\begin{aligned}
+&= \dfrac {3} {4}, \quad \dfrac {5} {6}, \quad \dfrac {8} {9}, \quad \dfrac {2}{3} \\\\
+&= \dfrac {3 \times 9} {4 \times 9}, \quad \dfrac {5 \times 6} {6 \times 6}, \quad \dfrac {8 \times 4} {9 \times 4}, \quad \dfrac {2 \times 12} {3 \times 12} \\\\
+&= \dfrac {27} {36}, \quad \dfrac{30} {36}, \quad \dfrac {32} {36}, \quad \dfrac {24} {36}
+\end{aligned}
+$
+
+$\dfrac {32} {36} = \dfrac {8} {9}$ is the biggest.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {9}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is biggest?
+
+$\dfrac{1}{4}$ of $21$, $\quad 50\%$ of $11$,$\quad \dfrac{1}{3}$ of $17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, let's convert all the numbers to fractions. 
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ 21, \quad 50 \% \ \text {of} \ 11,  \quad \dfrac {1} {3} \ \text {of} \ 17 \\\\
+&= \dfrac {1} {4} \times 21, \quad \dfrac {50} {100} \times 11,  \quad \dfrac {1} {3} \times 17 \\\\
+&= \dfrac {21} {4}, \quad \dfrac {50 \times 11} {100},  \quad \dfrac {17} {3} \\\\
+&= \dfrac {21} {4}, \quad \dfrac {11} {2},  \quad \dfrac {17} {3}
+\end{aligned}
+$
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+LCM for $2, 4, 3 = 12$
+
+$
+\begin{aligned}
+&= \dfrac {21} {4}, \quad \dfrac {11} {2}, \quad \dfrac {17} {3} \\\\
+&= \dfrac {21 \times 3} {4 \times 3}, \quad \dfrac {11 \times 6} {2 \times 6}, \quad \dfrac {17 \times 4} {3 \times 4} \\\\
+&= \dfrac {63} {12}, \quad \dfrac {66} {12}, \quad \dfrac {68} {12}
+\end{aligned}
+$
+
+$\dfrac {68} {12} = \dfrac {17} {3} = \dfrac {1} {3} \ \text {of} \ 17$ is the biggest.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3} \ \text {of} \ 17$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

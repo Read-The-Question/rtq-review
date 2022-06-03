@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tsequence-notstarted"
 title: "Topic - Sequence - Not Started"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3154,9 +3154,6 @@ $37 , \ 45$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

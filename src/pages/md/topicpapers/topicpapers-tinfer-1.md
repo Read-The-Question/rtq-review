@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-1"
 title: "Topicpapers Tinfer 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1059,6 +1059,61 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>F893794C-DE27-4BEB-A62F-716D66CD828F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+SUDOKU
+
+Complete the grid so that the numbers $1$ to $9$ occur (unrepeated) in every row, every column and every $3 \times 3$ square: 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>A6CEDBC5-69E1-4D70-B016-7C5B0AD35309</p>
 </div>
 <div class='topics'>
@@ -1344,6 +1399,265 @@ $50$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>03C355C4-4E8A-4762-80F6-AABE50488326</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are some number cards:
+
+![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+  
+
+You can use each card once to make the number $1735$, like this:
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the **biggest** number you can make with the four cards?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain why you **cannot** make an **even** number with the four cards.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+Use some of the four number cards to make numbers that are **as close as possible** to the numbers written below. 
+
+Examples
+
+$\bold{80}$   ![missing image](/papers/missing_image.svg)
+
+
+$\bold{30}$   ![missing image](/papers/missing_image.svg)
+
+
+You must **not** use the same card more than once in each answer.
+
+$\bold{50}$    ![missing image](/papers/missing_image.svg)
+
+
+$\bold{60}$    ![missing image](/papers/missing_image.svg)
+
+
+$\bold{4000}$  ![missing image](/papers/missing_image.svg)
+
+
+$\bold{1500}$  ![missing image](/papers/missing_image.svg)
+
+
+$\bold{1600}$   ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>FD15F30C-BFB8-4416-A0C4-58C911BF1D5E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The grid below is a magic square. Every row, column and diagonal must add to $1-5$.
+
+What value must be placed in the shaded box?
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>93D90ADD-9783-488E-8E72-B211E323F0BD</p>
@@ -1529,6 +1843,205 @@ $\text {B}, \text {E}, \text {G}$
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>476838F2-2384-4350-B7D7-F6D7A1D8855B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This question involves completing 'magic' squares. 
+A magic square is a grid of nine numbers arranged so that every row, every column and both diagonals have the same fixed total.
+
+For example:
+
+![missing image](/papers/missing_image.svg)
+
+
+In this magic square, each row, each column and each of the diagonals add to $15$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Insert the correct number in two empty positions to complete this magic square.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Insert the correct number in the two **unshaded** positions to part complete this magic square.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F9D90730-B835-4120-877B-85A2453B4E44</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the pyramid of bricks below the number on a brick equals the two numbers immediately below it multipled together as in this example.
+
+![missing image](/papers/missing_image.svg)
+
+
+Fill in the numbers on the three bricks to complete this pyramid.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>C4F9FDF3-39A5-4908-BCFD-108AC03779C8</p>
 </div>
 <div class='topics'>
@@ -1578,6 +2091,620 @@ TODOANSWER
 
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>554796A6-BBC1-4890-A803-004195C79D26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each of the grids below, the numbers in the four square boxes around each circle must be added together to give the number 
+in the circle. 
+
+For example, $5 + 4 + 3 + 2 = 14$, so:
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the three grids below with the correct number into each of the relevant squares or circles.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the network of grids below with the correct number into each of the relevant squares or circles.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the final network of grids below, the numbers must be all whole number greater than zero, 
+and **the same number must not appear more than once**.
+
+Complete this final network below with the correct number into each of the relevant squares or circles.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>76BD5A47-947B-4CFE-B2CF-BA3C6D19D985</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number $21$ can be written as the sum of three different prime numbers:
+
+$21 = 3 + 5 + 13$
+
+Show which numbers between $9$ and $19$ inclusive can be written as the sum of $3$ different prime numbers, 
+writing your answers in the spaces at the bottom of the page and using the gap between for rough work as necessary. 
+If it is not possible to make a particular number, tick the box on the right hand side.
+
+$
+\begin{aligned}
+9  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore  \qquad or not possible } \Box \\
+10  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+11  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+12  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+13  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+14  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+15  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+16  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+17  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+18  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+19  &= \text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \qquad or not possible } \Box \\
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>773529E9-DA1A-4D93-9988-8D587992A989</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Towers of blocks are made such that the number showing on each block above the bottom row is found by multiplying the numbers in the two blocks on which it stands.
+For example:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Fill in the missing numbers in the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A tower with five rows is made and the bottom row is:
+
+![missing image](/papers/missing_image.svg)
+
+
+Write down the number which will appear at the top of the tower.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>405CB4DE-C348-41DD-B2CE-ECA3400CD3A8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write each of the numbers $31, 32, 33, 34, 35$ and $36$ in the spaces below, using each number only once, to make all of the statements true.
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a multiple of $8$
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+has exactly four factors
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$ 
+is a square number
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a prime number
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a factor of $105$
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a multiple of $3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E3A87F3C-A2D9-4B78-8A0C-120D166FD8A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write each of the numbers $80, 81, 82, 83, 84$ and $85$ in the spaces below, using each number only once, to make all of the statements true.
+
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a square number
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$ 
+is a prime number
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a multiple of $5$
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is the product of two prime numbers
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is double a prime number
+
+$\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore } \qquad$
+is a multiple of $3$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1734,6 +2861,208 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CAFF3D6D-937B-4FE8-BF9B-D6B1B5F5F3E6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For each of the following questions you need to find a whole number between $0$ and $100$ that has all of the following properties.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When the number is divided by $5$ the remainder is $4$.
+
+When the number is divided by $6$ the remainder is $0$.
+
+When the number is divided by $7$ the remainder is $0$.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When the number is divided by $2$ the remainder is $1$.
+
+When the number is divided by $3$ the remainder is $1$.
+
+When the number is divided by $5$ the remainder is $0$.
+
+When the number is divided by $7$ the remainder is $1$.
+
+What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E0886D7E-0F31-4DCC-8C28-EB547F3D2CCF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Along any line drawn, the numbers in the two circles at the end of a line should multiply to make the number in the square between the two circles.
+
+Fill the remaining squares and circles with numbers obeying this rule. 
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>E0DF26E4-1A30-4BCD-84C9-1C135AACA602</p>
@@ -1795,6 +3124,63 @@ $25 \times 4$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>40C8B0FD-F107-42B6-BDA1-F483DFF88F67</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows Woody the ant setting off for a walk he took recently in search of food. 
+On this journey Woody walked a certain distance, and turned right. 
+Each time he turned right he walked $2 \ \text{metres}$ less than he did the time before.
+
+![missing image](/papers/missing_image.svg)
+
+
+On the last part of his journey before stopping he walked one metre. How far did he walk altogether? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2302,6 +3688,67 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>81B4C41C-68CA-4031-80C4-9B0781E8CF3C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Natasha is making a coloured tower as shown. 
+She has thirty six small cubes, with equal numbers of red $(R)$, blue $(B)$ and yellow $(Y)$. 
+Each row is of one colour, and no two rows which are next to each other are the same colour. 
+The top three rows are coloured as indicated.
+
+What colour must the bottom row be?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>0478E759-429B-44DC-B4CA-B3B10762A4CB</p>
 </div>
 <div class='topics'>
@@ -2350,6 +3797,221 @@ TODOANSWER
 
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F941C9EA-DDAA-4417-A0CE-D50F654E2752</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Harry invents a game which he calls King’s Digit.
+
+For any number he chooses, he works out all the whole numbers that divide exactly into it.
+
+For example, if he chooses the number $8$, then all the whole numbers that divide exactly into that are $1, 2, 4$ and $8$.
+These are called the factors of $8$.
+
+He then adds up these factors to find the King’s Digit.
+
+So the Kings digit of $8 = 1 + 2 + 4 + 8 = 15$
+
+Another example: the King’s Digit of $9$ is $1 + 3 + 9 = 13$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the Kings Digit of $16$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Kings Digit of a number $= 7$, what is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the King’s digit of a number $= 12$, there are two possible numbers.
+What are they?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The King’s digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2555,6 +4217,135 @@ $1537$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4113B329-3FF2-4CCB-9547-DFD49DC41DC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A perfect number is one in which all its factors (except the number itself) total to the number. 
+For example $6 = 1 + 2 + 3$ is a perfect number since the proper factors of $6$ are $1, 2$ and $3$ and they total to $6$. 
+$12$ is not a perfect number as its proper factors are $1, 2, 3, 4, 6$ and they total $16$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find one other perfect number between $20$ and $30$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+State whether a prime number can ever be perfect.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

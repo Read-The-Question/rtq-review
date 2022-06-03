@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ak-all"
 title: "Reviewer - Abhay Kandpal - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -954,53 +954,6 @@ $0$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>9E63C027-39DE-4488-870F-E7659D24D6F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract $2019$ from $9102$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9   &   1   &   0   &   2 \\
-{}- &   2   &   0   &   1   &   9 \\
-\hline
-    &   7   &   0   &   8   &   3
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7083$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>E6E5FA77-7AEA-4834-9C78-FD484B80C74D</p>
 </div>
 <div class='topics'>
@@ -1300,9 +1253,6 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -1912,10 +1862,7 @@ $2450$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2101,10 +2048,7 @@ $\pounds 14.25$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2385,59 +2329,6 @@ $\pounds 12$
 </ul>
 <div class='papername'>
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>E6633678-9EE4-47A2-BED4-97441525F089</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$-9 + 7 =$
-
--   $-16$
--   $2$
--   $-2$
--   $16$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= - 9 + 7 \\\\
-&= - 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$-2$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2874,10 +2765,7 @@ $60$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2972,10 +2860,7 @@ $\dfrac {1} {12}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3607,9 +3492,6 @@ $87$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -3970,10 +3852,7 @@ $210$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -4855,10 +4734,7 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -5347,10 +5223,7 @@ $7 \ \text {pm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -5417,10 +5290,7 @@ $3 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -5490,9 +5360,6 @@ $20$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -5625,10 +5492,7 @@ $\pounds 4.91$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -5686,10 +5550,7 @@ $22$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -6006,9 +5867,6 @@ $35$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -6259,9 +6117,6 @@ $\pounds 3.63$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -6863,10 +6718,7 @@ $\text {Perfect square}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 </ul>
 </div>
@@ -8722,9 +8574,6 @@ $76 \times 8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tnumber
 </li>
 <li>
@@ -8768,13 +8617,7 @@ $400$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
+talgebra
 </li>
 </ul>
 </div>
@@ -9140,10 +8983,7 @@ $10$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -10035,10 +9875,7 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -10660,10 +10497,7 @@ $\pounds 110$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 </ul>
 </div>
@@ -17492,53 +17326,6 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>CEA1032C-0FBA-4008-BC09-26A366EBB6D8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract: $91 - 25$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   9   &   1 \\
-{}- &   2   &   5 \\
-\hline
-    &   6   &   6
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$66$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>8C6A0833-0F7A-46D0-AE4D-33C291CC56D6</p>
 </div>
 <div class='topics'>
@@ -23359,53 +23146,6 @@ $103$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>216012EB-546B-44EF-A879-DBC7E51CF37C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $8709 - 637$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   8   &   7   &   0   &   9 \\
-{}- &       &   6   &   3   &   7 \\
-\hline
-    &   8   &   0   &   7   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8072$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

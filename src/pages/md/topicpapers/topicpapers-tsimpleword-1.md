@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-1"
 title: "Topicpapers Tsimpleword 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1936,6 +1936,78 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>798006C1-EFFC-4CDE-A766-6D959CB23317</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I need exactly $1 \ \text{litre}$ of water.
+
+I have a measuring jug that holds $400 \ \text{ml}$ when it is full.
+
+Explain how I can use my measuring jug to obtain $1 \ \text{litre}$ of water. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First, two full jugs of water will be taken
+
+$
+\begin{aligned}
+&= 400 + 400 \\\\
+&= 800 \ \text{ml}
+\end{aligned}
+$
+
+After this a half jug will be taken to complete 1 litre
+
+$
+\begin{aligned}
+&= \dfrac {400} {2} \\\\
+&= \dfrac {2 \times 200} {2} \\\\
+&= \dfrac {\cancel {2} \times 200} {\cancel {2}} \\\\
+&= 200 \ \text{ml}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Total} &= 800 + 200 \\\\
+             &= 1000 \ \text{ml} \\\\
+             &= \dfrac {1000} {1000} \ \text{litre} \\\\
+             &= \dfrac {\cancel {1000}} {\cancel {1000}} \ \text{litre} \\\\
+             &= 1 \ \text{litre}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac {1} {2} \ \text{jugs of water required}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>46664E26-E770-4B0F-B7E5-14B5277F63F5</p>
 </div>
 <div class='topics'>
@@ -2048,6 +2120,147 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3D14202B-0983-4EEB-953C-6370EBAE4255</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Lola buys as many first-class stamps as she can with a $\pounds 5$ note.
+
+First-class stamps cost $27 \text{p}$ ech.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many stamps did she get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Stamps she get} &= \pounds \dfrac {5} {27} \\\\
+                      &= \dfrac {5 \times 100 \text{p}} {27} \\\\
+                      &= \dfrac {500} {27} \\\\
+                      &= 18 \dfrac {14} {27} \\\\
+                      &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much money did she have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Money left} &= 500 - 18 \times 27 \\\\
+                  &= 500 - 486 \\\\
+                  &= 14 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Explain why your last answer must be less then $27 \text{p}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Because 500 is not a multiple of 27}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Because 500 is not a multiple of 27}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>18F0ED79-1C13-4B24-A57C-C53F88E71603</p>
@@ -2120,6 +2333,135 @@ $80 \%$ of $20 \%$ of $200$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6AFECC09-483B-4A4D-AA47-2B41BC742CA2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Starting with $-1$ give each letter of the alphabet a consecutive number with alternate signs.
+
+$A = -1, B = 2, C = -3, \ldots, Z = 26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My rabbit is called $\text{ANNA}$, what is the sum of the letters in her name?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+My gerbil’s name is $\blacklozenge \text{AE}$. If the sum of the letter in her name is $-19$, what is the missing letter?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -2223,6 +2565,57 @@ $36$
 
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>48FE059B-F621-4BF0-9F67-8B0D6C51C476</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At an England v Australia rugby match, there were $76432$ spectators.
+$8695$ of these spectators were supporting Australia, and the rest were supporting England.
+
+How many spectators were supporting England?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Spectators supporting England}  &= \text {Total spectators} - \text {Spectators supporting Australia} \\\\
+                                       &= 76432 - 8695 \\\\
+                                       &= 67737
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67737$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2591,6 +2984,179 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B4E2076D-5109-4020-882E-290B7C537FB7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A football club is planning a trip.
+
+The club hires $\bold{234}$ coaches. Each coach holds $\bold{52}$ passengers. 
+
+How many passengers is that altogether?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total passengers}    &= 234 \times 52 \\\\
+                            &= 12168
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12168$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The club wants to put one first aid kit into each of the $\bold{234}$ coaches.
+
+These first aid kits are sold in $\bold{boxes\:\:of\:\: 18}$. 
+
+How many boxes does the club need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Total boxes the club need}    &= \dfrac {234} {18} \\\\
+                                     &= \dfrac {13 \times 18} {18} \\\\
+                                     &= \dfrac {13 \times \cancel {18}} {\cancel {18}} \\\\
+                                     &= 13
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1379DE70-C5AB-45C5-84C7-55AE20A0CA8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You can buy a new calculator for $\bold{\pounds 1.25}$
+
+![missing image](/papers/missing_image.svg)
+
+
+In 1979 the same type of calculator cost $\bold{22\:\:times}$ as much as it costs now. 
+
+How much did the same type of calculator cost in 1979?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Cost of calculator in} \ 1979   &= 1.25 \times 22 \\\\
+                                       &= \pounds 27.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -3031,6 +3597,54 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D8C30162-96E0-42EB-B7B0-1420BAD3B2C7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A field is planted with cabbages in rows.
+Each row contains $22$ cabbage seeds and there are $39$ rows. How many cabbage seeds are there in the field?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, total seeds in a row $= 22$. So,
+
+$
+\begin{aligned}
+\text {Total seeds in 39 rows}    &= 39 \times 22 \\\\
+                                  &= 858
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$858$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
@@ -3073,6 +3687,51 @@ $146$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>019418D0-2051-4766-9C4C-2B49BE77FB1B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jordan has a collection of $1345$ marbles! He gives his friend $689$ of the marbles. How many does Jordan have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total no. of marbles left} &= 1345 - 689 \\\\
+                                  &= 656
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$656$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -3277,6 +3936,242 @@ $11, 2$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>3E96D6FA-660C-4279-AE21-6C9E0B4E1FC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+**For question 1 to 3 use this information:**
+
+**A box contains $\bold{54}$ biscuits of which $\bold{16}$ are chocolate**.
+
+How many biscuits are not chocolate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Not chocolate}   &= 54 - 16  \\\\
+           &= 38
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0A3E5DD3-7A11-483C-A187-0DA57B1DD81B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many people can have four biscuits each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {The number of people that can have four biscuit}     &= \dfrac {54} {4} \\\\
+                                                            &= 13.5
+\end{aligned}
+$
+
+$13$ people can have four biscuits each.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>6053AC7E-A234-4868-BF46-DDF058218EC1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many biscuits are there in seven boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+As per the question, the number of biscuits in a box = 54,
+
+$
+\begin{aligned}
+\text{Biscuits in seven boxes} &= 54 \times 7 \\\\
+                               &= 378
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$378$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>499AEBD4-DCE6-4F71-A016-875B17753D13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school has $336$ boys and $485$ girls. How many pupils is this altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total number of pupils}  &= 336 + 485 \\\\
+                                &= 821
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$821$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>BE1E370B-4981-405A-9E07-B8FEE8DB45BE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A giant size toy box contains $400$ bricks. How many bricks will there be in $36$ boxes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the number of bricks in a box = 400,
+
+$
+\begin{aligned}
+\text{bricks in 7 boxes} &= 400 \times 7 \\\\
+                         &= 2800
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2800$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>C9858780-383A-4690-AC16-06948BA34755</p>
 </div>
 <div class='topics'>
@@ -3432,6 +4327,54 @@ $504$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>6B95C5CE-23F2-4D24-AD35-37780B943565</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $143$ be subtracted from $855$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {855} {143} \\\\
+                        &= 5.97 \\\\
+                        &= 5
+\end{aligned}
+$
+
+$143$ can be subtracted five times from $855$ before we get to zero.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>63C986B2-7366-43DB-9578-126EFF77F687</p>
 </div>
 <div class='topics'>
@@ -3525,6 +4468,110 @@ $92$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1B18A3C6-92A4-4CA7-B86D-E416689C9FF1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each sweet weighs $450\ \text{mg}$. How much does the empty jar weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
+
+Let's convert the sweets weight into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 90 \times 450 \ \text {mg} \\\\
+                                   &= 90 \times \dfrac {450}{1000} \text {g} \\\\
+                                   &= 90 \times 0.45 \\\\
+                                   &= 40.5 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 162.5 - 40.5 \\\\
+                                   &= 122 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$122 \ \text {g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>96E4D14B-256B-459C-BF7E-0AF75C382FD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $137$ be subtracted from $1024$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1024} {137} \\\\
+                        &= 7.47 \\\\
+                        &= 7
+\end{aligned}
+$
+
+$137$ can be subtracted seven times from $1024$ before we get to zero.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3634,6 +4681,108 @@ $87$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4682EF96-21BF-4D04-8022-D5229E73F51C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A full sweet jar weighs $180.5\ \text{g}$. The jar contains $120$ sweets. Each sweet weighs $450\ \text{mg}$.
+How much does the empty jar weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
+
+Let's convert the sweets weight into $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
+                                   &= 120 \times \dfrac {450}{1000} \text {g} \\\\
+                                   &= 120 \times 0.45 \\\\
+                                   &= 54 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 180.5 - 54 \\\\
+                                   &= 126.5 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$126.5 \ \text {g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>13D1D0B6-B1C7-4010-8684-F52A0FF010A0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school has $1120$ pupils, $652$ pupils are boys. How many pupils are girls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total number of girls}   &= 1120 - 625 \\\\
+                                &= 495
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$495$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>CCCD812A-24DA-4BD6-91D0-49B271B1F8BC</p>
@@ -3730,6 +4879,101 @@ $40 \ \%$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F735C697-C1D6-4F28-881B-25D75A4D04A1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The UK population is approximately $66{,}482{,}000$. The population of London is $8.78 \ \text{million}$. How many people in the UK live outside London?
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Population outside London}    &= 66{,}482{,}000 - 8.78 \ \text{million} \\\\
+                                    &= 66482000 - 8780000 \\\\
+                                    &= 57{,}702{,}000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$57{,}702{,}000$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C354CC85-6043-4133-9B50-EDA130A479B3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $147$ be subtracted from $1270$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of times}  &= \dfrac {1270} {147} \\\\
+                        &= 8.63 \\\\
+                        &= 8
+\end{aligned}
+$
+
+$147$ can be subtracted eight times from $1270$ before we get to zero. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
 <p>1F8DFCED-55B0-441C-B4D6-0CEFC9911351</p>
@@ -3783,6 +5027,62 @@ $221$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
+<p>B49A2D25-54CB-4ACB-A269-1B71CCD90AA4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The full bottle weighs $160 \  \text{g}$. How much does the empty bottle weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. 
+
+The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
+
+Let's convert the pills weight to $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of pills}      &= 90 \times 250 \ \text{mg} \\\\
+                                   &= 90 \times \dfrac {250}{1000} \ \text {g} \\\\
+                                   &= 90 \times 0.25 \\\\
+                                   &= 22.5 \ \text {g} \\\\
+\text {Weight of empty bottle}     &= 160 - 22.5 \\\\
+                                   &= 137.5 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$137.5 \ \text {g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
 <p>576FEBF3-4204-4EE6-B775-864A333384B2</p>
 </div>
 <div class='topics'>
@@ -3826,6 +5126,56 @@ $264$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AB82D7BB-6F34-4053-AC0A-D359B89A2F54</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many times can $117$ be subtracted from $1200$ before we get to zero?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -3925,6 +5275,63 @@ $87$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F9E14616-3855-4C02-8422-69B65279E5DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A full sweet jar weighs $180.5 \ \text{g}$. The jar contains $120$ sweets. Each sweet weighs $450 \ \text{mg}$.
+How much does the empty jar weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. 
+
+The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
+
+Let's convert the sweets weight to $\text{g}$.
+
+$
+\begin{aligned}
+\text {Total weight of sweets}     &= 120 \times 450 \ \text{mg} \\\\
+                                   &= 120 \times \dfrac {450}{1000} \ \text {g} \\\\
+                                   &= 120 \times 0.45 \\\\
+                                   &= 54 \ \text {g} \\\\
+\text {Weight of empty jar }       &= 180.5 - 54 \\\\
+                                   &= 126.5 \ \text {g}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$126.5 \ \text {g}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:40</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4224,6 +5631,66 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest possible difference between two different nine digit numbers, 
+each of which includes all of the digits $1$ to $9$?
+
+*For example the two numbers could be:*
+
+$123456789$ and $987654321$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The smallest possible difference can be achieved by interchanging the ones and tens places.
+
+Let the first number $= 789456132$
+
+The second number $= 789456123$
+
+Difference of the two number
+
+$
+\begin{aligned}
+&= 789456132 - 789456123 \\\\
+&= 9
+\end{aligned}
+$
+
+So, the smallest possible difference between two nine digit number $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>23EFA4A7-D33C-4E18-906D-2E59D4849F16</p>
@@ -4279,6 +5746,119 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>898F9830-29F9-40A4-A201-53DD8BBB856A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I choose three numbers from this number
+square, including one number from each row
+and one number from each column.
+
+![missing image](/papers/missing_image.svg)
+
+
+I then multiply the three numbers together.
+
+What is the largest possible product?
+
+- $96$
+- $105$
+- $162$
+- $504$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3744A7E4-7F4F-4698-AC77-A1CC7027FFF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the British Army there are $4500$ men who are taller than $180 \ \text{cms}$. 
+Of these $750$ are taller than $190 \ \text{cms}$.
+
+How many men are there who are between $180$ and $190 \ \text{cms}$ tall? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{No. of men between 180 and 190}            &= \text{Men taller than 180} - \text{Men taller than 190} \\\\
+                                                 &= 4500 - 750 \\\\
+                                                 &= 3750
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3750$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -4578,6 +6158,54 @@ $960$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>437ABB0F-8D76-4639-A59E-6C56A371CF3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Three prime numbers multiply together to get $110$. What are they?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 2 \times 5 \times 11 \\\\
+&= 10 \times 11 \\\\
+&= 110
+\end {aligned}
+$
+
+Three prime numbers that multiply together to get $110$ are $2, 5, 11$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2, 5, 11$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>2287967E-4500-459C-959D-1FB4C7C5EC7A</p>
@@ -4625,6 +6253,74 @@ $\pounds 3.24$
 
 <div class='papername'>
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>8FC6B80B-0784-4E21-8E3D-76A86D6208DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $31$ days in July. Each day throughout July I picked $300\ \text{g}$ of raspberries from my garden.
+
+What was the total weight of the raspberries I picked that month? Give your answer in kilograms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text { day }           & : 300 \text {g} \\\\
+1 \text { day } \times 31 & : 300 \text {g} \times 31 \\\\
+31 \text { days }         & : 9300 \text {g} \\\\
+$
+
+Total weight of the raspberries = $9300$ grams.
+
+Now convert the grams into kilograms
+
+1g = $\dfrac {1} {1000} \text {kg}$ then,
+
+9300g = $9300 \times \dfrac {1} {1000} \text {kg}$
+
+$
+\begin{aligned}
+&= 9300 \times \dfrac {1} {1000} \\\\
+&= \dfrac {9300} {1000} \\\\
+&= \dfrac {93 \cancel {00}} {10 \cancel {00}} \\\\
+&= \dfrac {93} {10} \\\\
+&= 9.3 \text{kg}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9.3 \text{kg}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4742,6 +6438,114 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7C167B1E-F0A6-4DB8-B5D4-B84BFD3E2EC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total of the opposite faces on a dice is always $7$.
+Jack places  three dice on a table as shown in the diagram. 
+What is the total score of the faces that Jack cannot see?
+
+![missing image](/papers/missing_image.svg)
+  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>904D7204-A565-4D68-AF4B-D9D8FBD9EA55</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Three of the pieces are $147 \ \text{cm}$, $132.5 \ \text{cm}$ and $67 \ \text{cm}$. How long is the fourth piece? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+.
+
+$
+\begin{aligned}
+\text {Length of fourth piece} &= 5 \ \text {m} - (147 \ \text {cm} + 132.5 \ \text {cm} + 67 \ \text {cm}) \\\\
+                               &= 5 \ \text {m} - 346.5 \ \text {cm} \\\\
+                               &= 5 \ \text {m} - 3.465 \ \text {m} \\\\
+                               &= 1.535 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.535 \ \text {m}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -5037,6 +6841,137 @@ $15$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>50CD6363-A877-46A1-B8C7-F8385276B624</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number line starts at $-9$ and finishes at $11$.
+
+What number is $\dfrac{2}{5}$ of the way along the number line?
+
+![missing image](/papers/missing_image.svg)
+
+
+Show your working. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Effective length of the number line} &= 11 - (-9) \\\\
+                                           &= 11 + 9 \\\\
+                                           &= 20
+\end{aligned}
+$
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {2} {5} \times 20 \\\\
+&= \dfrac {2 \times 20} {5} \\\\
+&= \dfrac {2 \times 5 \times 4} {5} \\\\
+&= \dfrac {2 \times \cancel {5} \times 4} {\cancel {5}} \\\\
+&= 2 \times 4 \\\\
+&= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{So the number} &= - 9 + 8 \\\\
+                     &= - 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$- 1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bill has a bag containing $60$ sweets. He eats a half of the sweets himself and then gives away a third of the sweets that remain. How many sweets does Bill have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Sweets left}  &= \text {Total number of sweets} - (\text {Sweets Bill ate} + \text {Sweets he gives away}) \\\\
+                     &= 60 - \bigg(\dfrac {1} {2} \ \text {of} \ 60 + \dfrac {1} {3} \ \text {of} \ \bigg(\dfrac {1} {2} \ \text {of} \ 60 \bigg) \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {1} {2} \times 60 +\dfrac {1} {3} \times \bigg(\dfrac {1} {2} \times 60 \bigg) \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {60} {2} + \dfrac {1} {3} \times \bigg(\dfrac {60} {2} \bigg) \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times 2} {2} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times 2} {2}\bigg) \bigg) \\\\
+                     &= 60 - \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} + \dfrac {1} {3} \times \bigg(\dfrac {30 \times \cancel {2}} {\cancel {2}} \bigg) \bigg) \\\\
+                     &= 60 - \bigg(30 + \dfrac {1} {3} \times 30 \bigg) \\\\
+                     &= 60 - \bigg(30 + \dfrac {30} {3} \bigg) \\\\
+                     &= 60 - \bigg(30 + \dfrac {10 \times 3} {3} \bigg) \\\\
+                     &= 60 - \bigg(30 + \dfrac {10 \times \cancel {3}} {\cancel {3}} \bigg) \\\\
+                     &= 60 - (30 + 10) \\\\
+                     &= 60 - 40 \\\\
+                     &= 20
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>076F0F92-E64F-40AF-AD2C-146434B41156</p>
@@ -5248,6 +7183,232 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>46FBAC30-D970-49C2-BA30-0B60DA1F29F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the sum of all the prime numbers between $30$ and $50$
+
+A: $152$
+
+B: $168$
+
+C: $197$
+
+D: $199$
+
+E: $201$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7F144D39-FF9F-415B-BCF9-27AE13989004</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two **positive** whole numbers add together to make $23$. What is the smallest possible answer when the two numbers are multiplied together? 
+
+A: $132$ 
+
+B: $1$ 
+
+C: $42$ 
+
+D: $22$ 
+
+E: $23$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Smallest possible answer} &= 22 \times 1 \\\\
+                                &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FBA7D546-085C-4838-8C37-245F030BFC44</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A box of $92$ Smarties contains only reef, green and purple Smarties. If there are $37$ red Smarties and $29$ green Smarties how many purple Smarties does it contain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Purple Smarties}  &= \text {Total Smarties - (Red Smarties + Green Smarties)} \\\\
+                         &= 92 - (37 + 29) \\\\
+                         &= 92 - 66 \\\\
+                         &= 26
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E6F4D9A9-A53C-459D-9B81-794E066BC16F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+testimate
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jenny is given 3 large jigsaw puzzles for Christmas which get muddled together. The first contains $496$ pieces, the second $812$ pieces and the third $984$ pieces.
+
+By rounding each of these numbers to the nearest $100$, **write down** a simple sum you can do to estimate the total number of jigsaw pieces there are all together.
+
+Sum: 
+
+Answer: *My estimate of the total number of jigsaw pieces is*
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -5531,6 +7692,171 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hannah has $4$ pieces of string of lengths $1\text{m}$, $2\text{m}$, $3\text{m}$ and $5\text{m}$.
+
+She can join them together to make other lengths 
+
+e.g. to make $4\text{m}$ she can use $1\text{m} + 3\text{m}$
+
+She can use two or more pieces each time.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which pieces should she use to make the following lengths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$7\text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2 \ \text {m}, \ 5 \ \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {m}, \ 5 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+$9\text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text {m}, \ 3 \ \text {m}, \ 5 \ \text {m}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \ \text {m}, \ 3 \ \text {m}, \ 5 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the longest length she can make?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Longest length} &= 1 + 2 + 3 + 5 \\\\
+                       &= 11 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 \ \text {m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -6024,6 +8350,126 @@ $48 \text { kg}$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $27$ students in Mrs Din's class.
+
+Mrs Din buys $4$ boxes of chocolates.
+
+There are $36$ chocolates in each box.
+
+She shares out the chocolates equally amongst her $27$ students.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the number of chocolates each student receives.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of chocolates each student receives} &= \dfrac {\text {Total chocolates}} {\text {Total students}} \\\\
+                                                   &= \dfrac {36 \times 4} {27} \\\\
+                                                   &= \dfrac {9 \times 4 \times 4} {9 \times 3} \\\\
+                                                   &= \dfrac {\cancel {9} \times 4 \times 4} {\cancel {9} \times 3} \\\\
+                                                   &= \dfrac {16} {9} \\\\
+                                                   &= 5.3333
+\end{aligned}
+$
+
+Number of chocolates each student receive $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the number of chocolates left over.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of chocolates left over} &= 36 \times 4 - 27 \times 5 \\\\
+                                       &= 144 - 135 \\\\
+                                       &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -7581,3086 +10027,6 @@ $\dfrac {5} {9}$
 
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>F4ED2C3C-A52E-4DFA-B9E5-EDA177B567AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the first week of the screening of a new film a cinema sells $2140$ tickets. 
-
-In the second week it sells $320$ less tickets than the first week.
-
-In the third week it sells $210$ less tickets than the second week.
-
-How many tickets are sold over the three weeks?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, tickets sold
-
-$
-\begin{aligned}
-\text{Total ticket sold }                                         &= \text{First week} + \text{Second week} + \text{Third week} \\\\
-                                                                  &= 2140 + (2140 - 320) + (2140 - 320 - 210) \\\\                                                                 
-                                                                  &= 2140 + 1820 + 1610 \\\\
-                                                                  &= 3960 + 1610 \\\\
-                                                                  &= 5570
-\end{aligned}
-$
-
-Total tickets sold over three weeks $= 5570$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5570$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>40F554A0-24C8-450E-8BE8-E1659D2E8274</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martin the builder needs to build a wall $19$ bricks wide and $14$ bricks high. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many bricks will there be in the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 19 \times 14 \\\\
-                                                    &= 266
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$266$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He can lay 7 bricks every $5 \ \text{minutes}$. How long will it take him to build the wall? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {7} \times 5 \ \text{minutes} \\\\
-                                                    &= \dfrac {266} {7} \times 5 \\\\
-                                                    &= \dfrac {7 \times 38 \times 5} {7} \\\\
-                                                    &= \dfrac {\cancel{7} \times 38 \times 5} {\cancel{7}} \\\\
-                                                    &= 38 \times 5 \\\\
-                                                    &= 190 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 10 \\\\
-                                                    &= 3 \ \text{hours} \ 10 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>6D64BD13-96F2-4FFB-B6AA-B83638EF2A64</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A sunflower is one hundred and fifty centimetres tall.
-
-How tall will it be if its height increases by ten per cent?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the height is increased by $10\%$ then new height will be $100 + 10 = 110\%$ of the orginal price.
-
-Using this we get
-
-$
-\begin{aligned}
-\text{New Height}  &= 150  + 110 \% \text { of} \ 150 \\\\
-                   &= 150 + \dfrac {110} {100} \times 150 \\\\
-                   &= 150 + \dfrac {110 \times 150} {100} \\\\
-                   &= 150 + \dfrac {11 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-                   &= 150 + 11 \times 15 \\\\
-                   &= 150 + 165 \\\\
-                   &= 315 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$315 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C775D22B-A1A9-4C30-81F7-1A880E98C7B8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The table below shows which sports pupils in Year 7 name as their favourite.
-
-
-|   Football   |   Rugby   |   Hockey   |   Table Tennis   |   Badminton   |
-|:------------:|:---------:|:----------:|:----------------:|:-------------:|
-|  $48\%$      | $12\%$    |   $24\%$   |                  |   $8\%$       |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Prefer football or rugby?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subsubquestion'>
-
-Prefer table tennis?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If there are $50$ pupils in Year 7, how many prefer football?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>2D3887D2-B353-4878-B512-D95F4548DFE8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-One display cabinet holds $38$ DVDs. How many cabinets will be needed to hold $646$ DVDs? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the cabinets holding 646 DVDs $= a$,
-
-38 DVDs hold by one display cabinet,
-
-So,
-
-$
-\begin{aligned}
-a &= \dfrac {646} {38} \\\\
-a &= \dfrac {17 \times 38} {38} \\\\
-a &= \dfrac {17 \times \cancel {38} } {\cancel{38} } \\\\
-a &= 17
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>72D0FDA3-04D8-4534-BA0D-543FBA1D3379</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Lizzie gets $20 \%$ on a $10$-problem test, $80 \%$ on a $20$-problem test and $90 \%$ on a $30$-problem test. If the three tests are combined into one $60$-problem test, what percentage is her overall score?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Total marks scored by Lizzie,
-
-$
-\begin{aligned}
-&= \text{20% on 10-problem test}  + \text{80% on 20-problem test} + \text{90% on 30-problem test} \\\\
-&= \dfrac{20}{100} \times 10     + \dfrac{80}{100} \times 20   + \dfrac{90}{100} \times 30 \\\\
-
-\end{aligned}
-$
-
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>ABB3027C-A3A6-4680-A41E-B49861EF0A45</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I got $30 \%$ on a $10$-problem test, $70 \%$ on a $20$-problem test and $80 \%$ on a $30$-problem test.
-
-If the three tests are combined into one $60$-problem test, what percentage is my overall score?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Overall score}            &= 10\% \ \text{of} \ \text {10-problem-test} + 70\% \ \text{of} \ \text {20-problem-test} + 80\% \ \text{of}\ \text {30-problem-test} \\\\
-                                 &= \dfrac {10} {100} \times 10 + \dfrac {70} {100} \times 20 + \dfrac {80} {100} \times 30 \\\\
-                                 &= \dfrac {10 \times 10} {100} + \dfrac {70 \times 20} {100} + \dfrac {80 \times 30} {100} \\\\
-                                 &= \dfrac {10 \times 10} {100} + \dfrac {14 \times 5 \times 20} {20 \times 5} + \dfrac {20 \times 4 \times 6 \times 5} {20 \times 5} \\\\
-                                 &= \dfrac {1 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} + \dfrac {14 \times \cancel {5} \times \cancel {20}} {\cancel {20} \times \cancel {5}} + \dfrac {\cancel {20} \times 4 \times 6 \times \cancel {5}} {\cancel {20} \times \cancel {5}} \\\\
-                                 &= 1 + 14 + 6 \times 4 \\\\
-                                 &= 15 + 24 \\\\ 
-                                 &= 39 \\\\
-\text {Overall percentage}       &= \dfrac {39} {60} \times 100 \\\\
-                                 &= \dfrac {3 \times 13 \times 2 \times 5 \times 10} {2 \times 3 \times 10} \\\\
-                                 &= \dfrac {\cancel {3} \times 13 \times \cancel {2} \times 5 \times \cancel {10}} {\cancel {2} \times \cancel {3} \times \cancel {10}} \\\\
-                                 &= 13 \times 5 \\\\
-                                 &= 65 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$65 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>85AF4A82-D8F4-4C46-A7A4-17F82A02167C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ben's Dad was making a fence for their garden. He needed to buy a piece of wood that he could cut into $14$ equal parts. If each part had to be $114 \ \text{cm}$ long, what length would the piece of wood need to be?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Length of wood needed}           &= \text{Number of equal parts} \times \text{length of each part} 
-                                       &= 14 \times 114 \ \text{cm} \\\\
-                                       &= 1596 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1596 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>344D2219-6B52-4A1E-9CAC-AD845022B342</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The sum of the all the whole numbers from $1$ to $50$ inclusive is $1275$. Work out the sum of the whole numbers from $2$ and $51$ inclusive.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Sum of whole numbers $2$ to $51$ inclusive is
-
-Subtraction of $1$ from Sum of whole numbers $1$ to $50$ inclusive and Addition of $51$.
-
-Let's calculate
-
-$
-\begin{aligned}
-&= 1275 - 1 + 51\\
-&= 1274 + 51
-&= 1325 
-\end{aligned}
-$
-
-Sum of whole numbers $2$ to $51$ inclusive is $1325$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1325$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>E0F69367-13D4-422E-A7ED-7CE21DF00DB8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The cost of a calculator is $\pounds 6.79$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the cost of $28$ of these calculators.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Cost of 28 calculators $= \pounds 6.79 \times 28$
-
-Multiplying with decimal points is same as multiplying with two whole numbers. 
-
-$
-\begin{array}{cccccccccccccc}
-          &          &            & 6          & 7          & 9      \\
-{}        &          & \times     &            & 2          & 8      \\
-\hline                
-          &          & 5          & 4          & 3          & 2       \\
-          & 1        & 3          & 5          & 8          & 0       \\
-\hline                
-          & 1        & 9          & 0          & 1          & 2       \\
-\end{array}
-$
-
-Between the two numbers, the total number of digits after the decimal point is two.
-
-Let's account for the decimal point now.
-
-$= \pounds 190.12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 190.12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A college wants to buy $570$ calculators. They are sold in boxes of $50$. Work out the number of boxes the college should buy.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Number of boxes}             &= \dfrac {\text{Total calculatos to buy}} {\text{Calculators per box}} \\\\
-                                   &= \dfrac {570} {50} \\\\
-                                   &= \dfrac {57 \cancel 0} {5 \cancel 0} \\\\
-                                   &= \dfrac {57} {5} \\\\
-                                   &= 11 \dfrac {2} {5}
-\end{aligned}
-$
-
-For $570$ calculators the college needs,  $11$ whole boxes and $1$ more box for the remaining $20$ calculators = $12$ boxes.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$ Boxes
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>33898C6C-BC5D-41EC-8049-B334ED8C6544</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a class of $40$ pupils, $14$ failed the physical fitness test. What percentage of the class failed the test?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage of Pupil (Failed PI test)}      &= \dfrac {\text{No. of pupil (Failed PI test)}} {\text{Total pupil}} \times \text{Percentage} \\\\
-                                                 &= \dfrac{14}{40} \times 100 \% \\\\ 
-                                                 &= \dfrac{14 \times 100}{40} \\\\
-                                                 &= \dfrac{7 \times 2 \times 20 \times 5}{2 \times 20} \\\\
-                                                 &= \dfrac{7 \times \cancel {2} \times \cancel {20} \times 5}{ \cancel {2} \times \cancel {20} } \\\\
-                                                 &= 7 \times 5 \\\\
-                                                 &= 35 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35 \%$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>78014A49-10F8-489D-B6FC-B8F15474740B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In one week, the hens on the Billings family farm lay $389$ eggs. The eggs are packaged in boxes of twelve.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many boxes can be filled?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-12 \ \text {eggs}   &= 1 \ \text {box} \\\\
-1 \ \text {egg}     &= \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
-389 \ \text {eggs}  &= 389 \times \dfrac {1} {12} \ \text {of} \ 1 \ \text {box} \\\\
-                    &= 389 \times \dfrac {1} {12} \\\\
-                    &= \dfrac {389} {12} \\\\
-                    &= 32 \dfrac {5} {12}
-\end {aligned}
-$
-
-$32$ boxes can be filled.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text {boxes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many eggs are left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Number of Left over eggs}    &= \text {Total number of eggs} - \text {Total eggs in boxes} \\\\
-                                    &= 389 - (32 \times 12) \\\\
-                                    &= 389 - 384 \\\\
-                                    &= 5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The family keep eight of the filled boxes to give to friends. The rest are sold in the farm shop.
-
-What percentage of the filled boxes are sold in the farm shop?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Percentage of filled boxes sold in the farm shop}     &= \dfrac {32 - 8} {32} \ \text {of} \ 100 \\\\
-                                                             &= \dfrac {24} {32} \times 100 \\\\
-                                                             &= \dfrac {24 \times 100} {32} \\\\
-                                                             &= \dfrac {3 \times 8 \times 4 \times 25} {\cancel {8} \times \cancel {4}} \\\\
-                                                             &= \dfrac {3 \times \cancel {8} \times \cancel {4} \times 25} {8 \times 4} \\\\
-                                                             &= 3 \times 25 \\\\
-                                                             &= 75 \%
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$75 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A shop has an end-of-season sale. Everything is reduced by $15 \%$. A dress is originally priced at $\pounds 48$ (full price). What is the sale price of the dress?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the price is reduced by $15 \%$, then the sale price would be $100 - 15 = 85 \%$ of the original price.
-
-Let's use this to calculate the sale price.
-
-$
-\begin{aligned}
-\text{Sale price}  &= 85\% \ \text{of} \ \pounds 48 \\\\
-                   &= \dfrac {85 \times 48} { 100 } \\\\
-                   &= \dfrac {5 \times 17 \times 2 \times 24} {2 \times 5 \times 10} \\\\
-                   &= \dfrac {\cancel{5} \times 17 \times \cancel{2} \times 24} {\cancel{2} \times \cancel{5} \times 10 } \\\\
-                   &= \dfrac {17 \times 24} {10} \\\\
-                   &= \dfrac {408} {10} \\\\
-                   &= \pounds 40.8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 40.8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>DEE9F58F-6529-411D-BCA4-DD56685E4E5B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A concert hall has $128$ rows of $35$ seats.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many seats are there in the concert hall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin {aligned}
-\text {Total seats}  &= \text {No. of rows} \times \text {No. of seats in each row} \\\\
-                     &= 128 \times 35
-\end {aligned}
-$
-
-\begin {array}{cccccccccccccc}
-       &        &    1    &     2     &    8 \\
-       & \times &         &     3     &    5 \\
-\hline
-       &        &    6    &     4     &    0 \\
-       &    3   &    8    &     4     &    0 \\
-\hline
-       &    4   &    4    &     8     &    0
-\end {array}
-$
-
-Total number of seats in the concert hall $= 4480$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4480$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If the concert hall is $75\%$ full, how many seats are **empty**? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-If the concert is $75 \%$ full, then the hall is $(100 \% - 75 \%) = 25 \%$ empty.
-
-Using this we get,
-
-$
-\begin {aligned}
-\text {Empty seats}  &= 25 \% \ \text {of} \ 4480 \\\\
-                     &= \dfrac {25} {100} \times 4480 \\\\
-                     &= \dfrac {25 \times 4480} {100} \\\\
-                     &= \dfrac {25 \times 4 \times 1120} {25 \times 4} \\\\
-                     &= \dfrac {\cancel {25} \times \cancel {4} \times 1120} {\cancel {25} \times \cancel {4}} \\\\
-                     &= 1120
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1120$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>C4D8FFF9-4461-4B89-8BE3-4C402598EB60</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Patrick spends $\pounds 375.84$ on his electricity bill each year.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much is his bill each month?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per Question,
-
-Patrick spends $\pounds 375.84$ on his electricity bill each year
-
-Now, 
-
-$
-\begin{aligned}
-\text{Bill (Each month)}                        &= \dfrac {\text{Total Bill (in a year)}} {\text{ Number of months (in a year)}} \\\\
-                                                &= \dfrac {\pounds 375.84} {12} \\\\
-                                                &= \dfrac {\pounds375.84 \times 100} {12 \times 100} \\\\
-                                                &= \dfrac {37584} {1200} \\\\
-                                                &= \dfrac {12 \times 3132} {12 \times 100} \\\\
-                                                &= \dfrac {\cancel{12} \times 3132} {\cancel{12} \times 100} \\\\
-                                                &= \dfrac {3132} {100} \\\\
-                                                &= \pounds 31.32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 31.32$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much does his electricity bill cost him over five years?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-1 \ \text {year}             &= \pounds 375.84 \\\\
-1 \times 5 \ \text {years}   &= \pounds 375.84 \times 5 \\\\
-5 \ \text {years}            &= \pounds 1879.20                                                  
-\end{aligned}
-$
-
-Over five years his electricity bill will cost him $= \pounds 1879.20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1879.20$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>9E6D5208-4E0F-419C-BB64-315F2E4817E5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mark has $400$ football stickers. He sticks $70 \%$ into his football sticker book, swaps $25 \%$ with his friend Peter and gives the rest away. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage does he give away?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Percentage of stickers given away = 100 - stickers pasted - stickers swapped
-
-$
-\begin{aligned}
-&= 100 - 70 - 25 \\\\
-&= 100 - 95 \\\\
-&= 5 \%
-\end{aligned}
-$
-
-Percentage of stickers Mark gives away $= 5 \%$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many does he stick in his book?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total stickers $= 400$
-
-As per the question, Mark sticks 70 \% of his stickers in his book. 
-
-$
-\begin{aligned}
-&= 70 \% \ \text{of} \ 400 \\\\
-&= \dfrac {70} {100} \times 400 \\\\
-&= \dfrac {70 \times 400} {100} \\\\
-&= \dfrac {70 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 70 \times 4 \\\\
-&= 280
-\end{aligned}
-$
-
-Number of stickers he sticks in his book $= 280$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$280$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many does he give away?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total stickers $= 400$
-
-Mark gives away $5 \%$ of his stickers.
-
-$
-\begin{aligned}
-&= 5 \% \ \text{of} \ 400 \\\\
-&= \dfrac {5}{100} \times 400 \\\\
-&= \dfrac {5 \times 400} {100} \\\\
-&= \dfrac {5 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 5 \times 4 \\\\
-&= 20
-\end{aligned}
-$
-
-Number of stickers he gives away $= 20$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>27EFB859-4E01-4629-9090-039B54CC9BF6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a Tennis club $\dfrac {1} {9}$ of the players are left handed.
-                 
-There are three times as many players who wear glasses as there are who are left handed. What fraction of the players wear glasses? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Fraction wearing glasses}          &= 3 \times  \text{Left-handed players} \\\\
-                                          &= 3 \times \dfrac {1}{9} \\\\
-                                          &= \dfrac {3 \times 1} {9} \\\\
-                                          &= \dfrac {3 \times 1} {3 \times 3} \\\\
-                                          &= \dfrac {\cancel{3} \times 1} {\cancel{3} \times 3} \\\\
-                                          &= \dfrac {1} {3}
-\end{aligned}
-$
-
-The fraction of players wearing glasses $= \dfrac {1} {3}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {3}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C348B511-F106-439A-A97B-DC138894FA8E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a farm 80 sheep gave birth. $30\%$ of the sheep gave birth to two lambs. The rest of the sheep gave birth to one lamb.In total, how many lambs were born? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-sheeps who had 2 lamps 
-$
-\begin{aligned}
-&=30\% \times 80 \\\\
-&= \dfrac{30}{100}\times 80 \\\\
-&=3 \times 8 \\\\
-&= 24
-\end{aligned}
-$
-
-sheep gave birth to one lamb
-
-$
-\begin{aligned}
-&= 80-24 \\\\
-&= 56
-\end{aligned}
-$
-
-total lamps were born,
-
-$
-\begin{aligned}
-&= 56 + 24 \times 2 \\\\
-&= 56 + 48 \\\\
-&= 104
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$104$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>6014D0DC-121E-4166-AA88-61ECCE18CFBB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a tin of Roses, $8\%$ are “Purple Ones” (hazelnut &caramel). If the tin has a total of 250 chocolates, how many are **not** Purple Ones?  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to the question,
-
-$
-\begin{aligned}
-\text {Not Purple}  &=  \text {Total chocolates - Purple Ones} \\\\
-                    &=  250 - 8 \% \times 250 \\\\
-                    &=  250 - \dfrac {8} {100} \times 250 \\\\
-                    &=  250 - \dfrac {2 \times 4 \times 25 \times 10} {4 \times 25} \\\\
-                    &=  250 - \dfrac {2 \times \cancel{4} \times \cancel{25} \times 10} {\cancel{4} \times \cancel{25}} \\\\
-                    &=  250 - 2 \times 10 \\\\
-                    &=  250 - 20 \\\\
-                    &=  230
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$230$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>9F713E0D-70F0-4FA4-ABD0-C1978385B4BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a tin of Quality Street, $12\%$ are Coffee Crèmes. If the tin has a total of 250 chocolates, how many are **not** Coffee Crèmes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to the question,
-
-$
-\begin{aligned}
-\text{Not Coffee Crèmes,} &= Total Coffee Crèmes - Coffee Crèmes \\\\
-                          &= 250 - 12 \% \text{of} 250 \\\\
-                          &= 250 - \dfrac {12 \times 250} {100} \\\\
-                          &= 250 - \dfrac {12 \times 25 \cancel{0} } {10\cancel {0} } \\\\
-                          &= 250 - \dfrac {12 \times 5 \times \cancel {5} } {\cancel {5} \times 2} \\\\
-                          &= 250 - \dfrac {6 \times \cancel {2} \time 5} {\cancel {2} } \\\\
-                          &= 250 - 6 \times 5 \\\\
-                          &= 250 - 30 \\\\
-                          &= 220
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$220$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>B8DCCFD7-123E-4363-91EB-FDD6690FA383</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a giant tube of Fruit Pastilles, 20% are orange. If the tube has a total of 85 sweets, how many are **not** orange? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Not orange}  &= 85- 20\% \times 85 \\\\
-                    &= 85 - \dfrac {20} {100} \times 85 \\\\
-                    &= 85 - \dfrac {2 \cancel 0} {10 \cancel 0} \times 85 \\\\
-                    &= 85 - \dfrac {2 \times 17 \times 5} {2 \times 5} \\\\
-                    &= 85 - \dfrac {\cancel 2 \times 17 \times \cancel 5} {\cancel 2 \times \cancel 5} \\\\
-                    &= 85 - 17 \\\\
-                    &= 68
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$68$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EB3F1B83-16B7-4CB0-98B2-F96141CC8059</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10\%$ of $\pounds 83$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 10 \% \text { of } \pounds 83 \\\\
-&= \dfrac {10} {100} \times 83 \\\\
-&= \dfrac {10 \times 83} {100} \\\\
-&= \dfrac {1 \cancel {0} \times 83} {10 \cancel {0}} \\\\
-&= \dfrac {83} {10} \\\\
-&= \pounds 8.3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds{8.3}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$75\%$ of $44\ \text{kg}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 75 \% \text { of } 44 \text {kg} \\\\
-&= \dfrac {75} {100} \times 44 \\\\
-&= \dfrac {75 \times 44} {100} \\\\
-&= \dfrac {5 \times 3 \times 5 \times 2 \times 2 \times 11} {2 \times 5 \times 2 \times 5} \\\\
-&= \dfrac {\cancel {5} \times 3 \times \cancel {5} \times \cancel {2} \times \cancel {2} \times 11} {\cancel {2} \times \cancel {5} \times \cancel {2} \times \cancel {5}} \\\\
-&= 11 \times 3 \\\\
-&= 33 \text {kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33 \text {kg}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Increase $\pounds 120$ by $30\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 120 \times (1 + \dfrac {30} {100}) \\\\
-&= 120 \times (\dfrac {100 + 30} {100}) \\\\
-&= 120 \times (\dfrac {130} {100}) \\\\
-&= \dfrac {120 \times 130} {100} \\\\
-&= \dfrac {12 \cancel {0} \times 13 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-&= 12 \times 13 \\\\
-&= 156
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$156$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>44871CCE-80E9-4654-AF29-D474783C1D63</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In 1990 a new $5 \text{p}$ coin was minted. The old size weighs $5.65\ \text{g}$ while the new size weighs $3.25\ \text{g}$. How much lighter will your pocket be if it contains $\pounds 2$ worth of the new size coins instead of the old size. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Weight for older coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 5.65 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 5.65 \\\\
-                                 &= 2 \times 20 \times 5.65 \\\\
-                                 &= 226 \ \text {g}
-\end{aligned}
-$
-
-Weight for new coins
-
-$
-\begin{aligned}
-\text {Weight of \pounds 2 coin} &= \dfrac {\pounds 2} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 100 \ \text{p}} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times 5} {5} \times 3.25 \\\\
-                                 &= \dfrac {2 \times 20 \times \cancel {5}} {\cancel {5}} \times 3.25 \\\\
-                                 &= 2 \times 20 \times 3.25 \\\\
-                                 &= 130 \ \text {g}
-\end{aligned}
-$
-
-Difference of weight between older and new coins,
-
-$
-\begin{aligned}
-&= 226 - 130 \\\\
-&= 96 \ \text{g}                                   
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$96 \ \text{g}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A piece of string is $12.6 \ \text{cm}$ long. If a piece $3.75 \ \text{cm}$ is cut from it, 
-how long is the piece of string that remains? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{String (Remains)} &= \text{Sting (Total)} - \text{String (Cut)} \\\\
-&=  12.6 - 3.75 \\\\
-&=   8.85 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8.85 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>2085300E-35CB-4683-B8A1-2619BA04C321</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jennifer is assembling a wardrobe. The measurements for the 3 sections are given in different units. The first section is $30\,cm$ wide; the second section is $1.5\,m$ wide and the third section $150\,mm$ wide.How wide is whole wardrobe?Give your answer in cm. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required
-.
-
-As the answer is to be given in cm, let's convert all measurements into cms.
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total Width}& = \text{First (Section)} + \text{Second (Section)} + \text{Third (Section)} \\\\
-&= 30 \ \text{cm} + 1.5 \ \text{m} + 150 \ \text{mm} \\\\
-&= 30 \ \text{cm} + 1.5 \times 10 \ \text{cm} + \dfrac{150}{10}\ \text{cm} \\\\
-&= 30 + 15 + \dfrac{150}{10} \\\\
-&= 60 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>69A4F37D-67F6-4431-A926-35B71140C637</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Helen spends half her money on a dress. She then spends one-third of what is left on shoes.   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If she started with $\pounds 120$ how much does she have left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{cost of shoes} &= \dfrac {1}{3} \times \text{cost of the dress} \\\\
-&=  \dfrac {1}{3} \times   dfrac {1}{2} \times 120 \\\\
-&=  \dfrac {1}{6} \times 120 
-\end{aligned} 
-$
-
-$
-\begin{aligned}
-\text{Money (Left)} &= \text{Money (at Start) }- \text{Spend (for Dress + for Shoes)} \\\\
-&= 120 - (60 + 20) \\\\
-&= 120 - 80 \\\\
-&= \pounds 40
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 40$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is this as a fraction of what she started with?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Fraction of Amount (Left)} &=  \dfrac {\text {Money (Left)}}{\text {Money (Total)}} \\\\
-&= \dfrac {40}{120} \\\\
-&= \dfrac {40}{40 \times3 } \\\\
-&= \dfrac { \cancel{40}} { \cancel{40} \times3 } \\\\
-&=  \dfrac{1}{3}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{1}{3}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>D7A80376-0605-421E-8C3B-6A9A36B38446</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah won a large jar of sweets in a Christmas raffle. If there are $486$ sweets in the jar and she shares them equally with her $17$ classmates, how many do they each get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Sweets per person}       &= \dfrac {\text{Total sweets}} {\text{Total people}} \\\\
-                                &= \dfrac {486} {18} \\\\
-                                &= \dfrac {27 \times 18} {18} \\\\
-                                &= \dfrac {27 \times \cancel{18}} {\cancel{18}} \\\\
-                                &= 27
-
-\end{aligned}
-$
-
-Each person gets $27$ Sweets each.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>F6E175B5-9571-4201-8E17-818A77EA6BAE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sam and Alice have baked a cake.
-
-Sam eats $\dfrac{1}{4}$ of the cake.
-
-Alice eats $\dfrac{2}{5}$ of the cake.
-
-What fraction of the cake have they eaten altogether? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{The fraction eaten together} &= \text{cake eaten by Sam} +\text{cake eaten by Alice} \\\\
-&=  \dfrac{1}{4} + \dfrac{2}{5} \\\\
-&=  \dfrac{1 \times 5}{4  \times 5} + \dfrac{2 \times 4}{5 \times 4} \\\\
-&=  \dfrac{5}{20} + \dfrac{8}{20} \\\\
-&=  \dfrac{5 + 8} {20} \\\\
-&=  \dfrac{5 + 8} {20} \\\\
-&=  \dfrac{13}{20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{13}{20}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Lucy takes $2 \ \text{hours}$ and $25 \ \text{minutes}$ to walk up a mountain and 
-$1 \ \text{hour}$ and $45 \ \text{minutes}$ to walk down.
-
-For how long does she walk altogether? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{ Total time taken} &= \text{walk up}  + \text{walk down} \\\\
-&=  2 \ \text{hrs} \ \  25 \ \text{mins} +  1 \ \text{hrs} \ \  45 \ \text{mins}  \\\\
-&=  4 \ \text{hrs} \ \ 10 \ \text{mins} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \ \text{hrs} \ \ 10 \ \text{mins}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>2D3F5E62-8FD7-4F33-8609-8208FED8B677</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Bilal wants to divide $235 \ \text{m}$ of string equally between seven kites. 
-Work out how much string each kite would get, giving your answer 
-to one decimal place. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&=  \dfrac{235 \ \text{m}}{7} \\\\
-&=  \dfrac{235}{7} \\\\
-&=  33.57 \approx 33.6 \\\\
-&=  33.6 \ \text{m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33.6 \ \text{m}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1C1407AB-FAA5-4405-B150-73807FC42C74</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The Crystal Palace bridge has carried $300$ million cars since it was opened in 1964. 
-On average, roughly how many vehicles is this per month?
-
-- $50{,}000$
-- $500{,}000$
-- $5{,}000{,}000$
-- $6{,}000{,}000$
-- $60{,}000{,}000$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:11</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>3E0E5DE9-1583-44E0-BBF6-BB26C7321B11</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bus has $35$ passengers on board. At the first stop two-fifths get off and then $7$ people get on. 
-At the next stop a quarter of the people remaining on the bus get off and then $13$ get on. 
-How many passengers are there on the bus now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per question, 
-
-At the first stop two-fifths of the $35$ passengers got down and then $7$ people get on. 
-
-Let's put the above information in equation form and find out how many passengers were on the bus after the first stop. 
-
-$35 - \bigg({\dfrac {2}{5}} \ \text {of} \ 35 \bigg) + 7$
-
-Let's solve the equation.
-
-$
-\begin{aligned}
-& = 35 -  \bigg(\dfrac {2} {5} \times 35 \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times 35} {5} \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times 5 \times 7} {5} \bigg) + 7 \\\\
-& = 35 -  \bigg(\dfrac {2 \times \cancel {5} \times 7} {\cancel {5}} \bigg) + 7 \\\\
-& = 35 - (2 \times 7) + 7 \\\\
-& = 35 - 14 + 7 \\\\
-& = 28 \ \text {passengers}
-\end{aligned}
-$
-
-When the bus left for the next stop the count of passengers was $28$.
-
-At next stop a quarter i.e.,  $\dfrac {1}{4}$ of the $28$ remaining passengers from first stop got down and then $13$ people get on. 
-
-Let's put the above information in equation form and find the passengers at the next stop.
-
-$28 - \bigg({\dfrac {1}{4}} \ \text {of} \ 28 \bigg) + 13$
-
-$
-\begin{aligned}
-& = 28 -  \bigg(\dfrac {1} {4} \ \text {of} \ 28 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {1} {4} \times 28 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {1} {4} \times 4 \times 7 \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {4 \times 7} {4} \bigg) + 13 \\\\
-& = 28 -  \bigg(\dfrac {\cancel {4} \times 7} {\cancel {4} } \bigg) + 13 \\\\
-& = 28 - 7 + 13 \\\\
-& = 34 \ \text {passengers}
-\end{aligned}
-$
-
-$34$ passengers were on the bus after the next stop.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A01A640F-EDFD-4999-9FB4-D5CB13DE99BE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Barbie earns $\pounds 23450$ a year and her partner Ken earns $\pounds 700$ less than Barbie. 
-How much do the couple earn altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, 
-
-$
-\begin{aligned}
-\text{Total earning}  &= \text{Barbie earning} + \text{Ken earning} \\\\
-                      &= \text{Barbie} + \text{Barbie earning - 700}\\\\
-                      &= \text{23450} + \text{23450 - 700} \\\\
-                      &= 23450 + 22750 \\\\
-                      &= \pounds 46200
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 46200$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>C74F6145-1D9D-471D-9081-11DC74346EC6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The new TV channel, Lazy Living, broadcasts for $98 \ \text{hours}$ a week. 
-If two-sevenths of its output is devoted to make-over programmes and the rest to celebrity gossip, 
-for how many hours each week does the channel broadcast programmes on celebrity gossip?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-    \text{Make-over programmes}                     & = \dfrac {2} {7} \ \text {of \ } 98 \ \text{hours} \\\\
-    \text{Total Broadcast time}                     & = 98 \ \text{hours a week} \\\\
-    \text{Total Broadcast time} \ 98 \ \text{hours} & = \dfrac {7} {7} \\\\ 
-    \text{So, Celebrity gossip}                         & = \dfrac {7} {7} - \dfrac {2}{7}\ \text {of \ } 98 \ \ \text{hours} \\\\
-                                                    & = \dfrac {7-2} {7} \\\\
-                                                    & = \dfrac {5} {7}                                                    
-\end{aligned}
-$
-
-Let's find the total hours of celebrity gossip's broadcasted by the channel each week.
-
-$
-\begin{aligned}
-      & = \dfrac {5} {7} \ \text{\ of \ } 98 \ \text{hours}  \\\\
-      & = \dfrac {5} {7} \times 98  \\\\
-      & = \dfrac {5} {7} \times \dfrac {98} {1}   \\\\
-      & = \dfrac {5} {7} \times \dfrac {14 \times 7} {1} \\\\
-      & = \dfrac {5 \times 14 \times 7 } {7}  \\\\
-      & = \dfrac {5 \times 14 \times \cancel 7 } {\cancel 7} \\\\
-      & = 5 \times 14  \\\\
-      & = 70 \ \text{hours}                                
-\end{aligned}
-$
-
-Total hours of celebrity gossip programmes braodcasted by the channel each week $=70 \ \text{hours}
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$70 \ \text{hours}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4BE31404-8368-4FC0-AD60-34110662E9C4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A hospital nurse earns $\pounds 23080$ a year. Work out the annual salary of a consultant who earns four times 
-as much as a nurse.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Annual salary of a consultant } &= 4 \times \text{Annual salary of a nurse} \\\\
-                                       &= 4 \times \pounds 23080 \\\\
-                                       &= \pounds 92320
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 92320$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The lunch break at Harry's school lasts $60 \ \text{minutes}$.
-Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many minutes does he spend eating lunch?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} \ \text {of} \ 60 \ \text{min} \\\\
-&= \dfrac {1} {3} \ \times 60 \\\\\
-&= \dfrac {60} {3} \\\\\
-&= \dfrac {20 \times 3} {3} \\\\\
-&= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\\
-&= 20 \  \text {mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20 \ \text {mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He spends $75\%$ of the remaining time playing with his friends.
-
-How long does he spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
-&= \dfrac {75} {100} \times 40 \\\\
-&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
-&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
-&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
-&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
-&= 30 \ \text {min}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \ \text {min}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What percentage of his total lunch break does Harry spend playing with his friends?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {30} {60} \times 100 \\\\
-&= 50 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$50 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A sunflower is $150 \ \text{cm}$ tall.
-
-How tall will it be if its height increases by $10\%$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Height after an increase of 10\%}       &= 150 + 10 \% \ \text {of} \ 150 \\\\
-                                               &= 150 + \dfrac {10} {100} \times 150 \\\\
-                                               &= 150 + \dfrac {10 \times 150} {100} \\\\
-                                               &= 150 + \dfrac {1 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
-                                               &= 150 + 15 \\\\
-                                               &= 165
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$165$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a box of $24$ pens, one eighth are green, $25\%$ are red and the rest are blue.
-
-What fraction of the pens is blue? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
-                                       &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
-                                       &= 24 - (\dfrac {24} {8} + \dfrac {25 \times 24} {100}) \\\\
-                                       &= 24 - (\dfrac {8 \times 3} {8} + \dfrac {25 \times 4 \times 6} {25 \times 4}) \\\\
-                                       &= 24 - (\dfrac {\cancel {8} \times 3} {\cancel {8}} + \dfrac {\cancel {25} \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}}) \\\\
-                                       &= 24 - (3 + 6) \\\\
-                                       &= 24 - 9 \\\\
-                                       &= 15 \\\\
-\text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
-                                       &= \dfrac {\cancel {3} \times 5} {\cancel {3} \times 8} \\\\
-                                       &= \dfrac {5} {8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {5} {8}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

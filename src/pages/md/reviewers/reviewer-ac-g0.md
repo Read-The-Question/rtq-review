@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-ac-g0"
 title: "Reviewer - Chiliveru Aravind - G0"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -11,9 +11,6 @@ date: 2022-06-03 15:00:43
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>
@@ -527,53 +524,6 @@ $20$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>E427496D-BA02-4978-B12F-F605393AAD5C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $6431 - 729$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   6   &   4   &   3   &   1 \\
-{}- &       &   7   &   2   &   9 \\
-\hline
-    &   5   &   7   &   0   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5702$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>E397ADA6-9AD9-4F8E-BC83-A772525062F7</p>
 </div>
 <div class='topics'>
@@ -898,66 +848,6 @@ $3648$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>786BDB0D-CBC0-4ECA-99D4-240F8B350942</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $842 - 658$? 
-
-A: $184$ 
-
-B: $194$ 
-
-C: $294$ 
-
-D: $284$ 
-
-E: $394$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   8   &   4   &   2 \\
-{}- &   6   &   5   &   8 \\
-\hline
-    &   1   &   8   &   4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$184$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>39CD718E-4622-4E85-BC42-CE13D8EE9299</p>
 </div>
 <div class='topics'>
@@ -1175,53 +1065,6 @@ $\dfrac {3} {4}$
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>055DE59A-4055-438B-8C73-72735F2E10CB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$547 - 298 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-     &   5   &   4   &   7 \\
-{}-  &   2   &   9   &   8 \\
-\hline
-     &   2   &   4   &   9
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$249$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

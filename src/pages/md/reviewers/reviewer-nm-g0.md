@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-nm-g0"
 title: "Reviewer - Neeraj Mani - G0"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -896,53 +896,6 @@ $50.75$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>9761689F-1E58-44A0-BB21-EE140DDA3F74</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract $128 - 54$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   1   &   2   &   8 \\
-{}- &       &   5   &   4 \\
-\hline
-    &       &   7   &   4
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$74$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

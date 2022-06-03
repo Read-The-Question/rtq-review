@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-1"
 title: "Topicpapers Tgeometry 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -636,6 +636,49 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many edges does a cube have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

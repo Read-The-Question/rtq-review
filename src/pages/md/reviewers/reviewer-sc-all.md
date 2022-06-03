@@ -1,7 +1,7 @@
 ---
 slug: "reviewers/reviewer-sc-all"
 title: "Reviewer - Sahil Choudhary - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -3468,56 +3468,6 @@ $
 <div class='answer'>
 
 $2646$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>45B0D988-C243-47B2-B13A-EF1D6CB68016</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$7.257 - 3.47$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   7 \ .   &   2   &   5   &   7 \\
-{}- &   3 \ .   &   4   &   7   &   0 \\
-\hline
-    &   3 \ .   &   7   &   8   &   7
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.787$
 
 </div>
 </div>
@@ -7317,53 +7267,6 @@ $8.4$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>CAC5AF78-EA65-4D7A-8C3A-0B66CA30D7FD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract: $4125 - 837$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   4   &   1   &   2   &   5 \\
-{}- &       &   8   &   3   &   7 \\
-\hline
-    &   3   &   2   &   8   &   8
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3288$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>2CE07E4A-7062-4FF5-82E8-6A74B140FEA1</p>
 </div>
 <div class='topics'>
@@ -7405,54 +7308,6 @@ $13464$
 
 <div class='papername'>
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>87BBBF95-BF05-4710-8206-4E337956FB22</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tdetailedsubtraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$888 
--192$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   8   &   8   &   8 \\
-{}- &   1   &   9   &   2 \\
-\hline
-    &   6   &   9   &   6
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$696$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

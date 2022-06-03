@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tcircleanswer-all"
 title: "Topic - Circleanswer - All"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -600,6 +600,66 @@ $12 \%$
 
 <div class='papername'>
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F40CA335-0433-490A-BE1D-F7B5BDE3FC1E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle which of the following has a different value from the others:
+
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && 3 - (7 - 4) && ((3 - 7) - 4)
+\end{matrix} 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3 - 7 - 4 = -8$
+
+$(3 - 7) - 4 = (-4) - 4 = -8$
+
+$3 - (7 - 4) = 3 - (-3) = 3 + 3 = 6$
+
+$((3 - 7) - 4) = ((-4) - 4) = -8$
+
+Therefore,
+
+\begin{matrix}
+3 - 7 - 4 && (3 - 7) - 4 && \boxed{\green
+{3 - (7 - 4)}} && ((3 - 7) - 4)
+\end{matrix}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 - (7 - 4)$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

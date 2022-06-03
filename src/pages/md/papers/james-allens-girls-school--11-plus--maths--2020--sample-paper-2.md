@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <div class='paper'>
 <div class='meta'>
@@ -63,7 +63,7 @@ $1020$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>37A3857D-1166-4FAE-8AE1-8C8AD5E702DB</p>
 </div>
@@ -107,7 +107,7 @@ $166$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -322,10 +322,7 @@ $\pounds 3.24$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tsimpleword
 </li>
 <li>
 tunitprompt
@@ -1211,10 +1208,7 @@ $2$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+talgebra
 </li>
 <li>
 tunitprompt
@@ -1293,10 +1287,10 @@ $19.9 \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+trecipe
 </li>
 <li>
-tnumber
+tratio
 </li>
 </ul>
 </div>
@@ -1772,10 +1766,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tinfer
 </li>
 <li>
 ttrialerror

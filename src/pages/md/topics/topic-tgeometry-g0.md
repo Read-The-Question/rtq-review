@@ -1,7 +1,7 @@
 ---
 slug: "topics/topic-tgeometry-g0"
 title: "Topic - Geometry - G0"
-date: 2022-06-03 15:00:43
+date: 2022-06-03 16:22:31
 ---
 <ul class='question default-decimal'>
 <li>
@@ -199,6 +199,49 @@ D
 
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B941B131-14CE-4FE8-BB23-B3C009015796</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many edges does a cube have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

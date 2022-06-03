@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "Topicpapers Tdetailedmultiplication 1"
-date: 2022-06-03 15:11:08
+date: 2022-06-03 16:33:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -6169,7 +6169,7 @@ $20580$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_ga_g0 question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
 </div>
@@ -6214,7 +6214,7 @@ $11220$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ga_g0</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-03 16:22:31
+date: 2022-06-04 09:00:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -811,7 +811,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>A1637B6B-A4F4-4CCF-8A95-526289B76894</p>
 </div>
@@ -856,7 +856,7 @@ $18738$
 <p>kent-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

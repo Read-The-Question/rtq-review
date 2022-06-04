@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-03 16:22:31
+date: 2022-06-04 09:00:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -371,7 +371,7 @@ $(22 - 10 + 8) \div 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E44863F0-1211-418A-BC0A-D814CB3A5121</p>
 </div>
@@ -424,12 +424,12 @@ $37620$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_blocked question'>
 <div class='uuid'>
 <p>1F8FCC2E-7969-46DC-AD0C-AA18C14714DA</p>
 </div>
@@ -483,7 +483,7 @@ $24 \times 70 = 48 \times 35$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,61 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sara thinks of a number. 
+She subtracts twelve, then divides by two and then adds fifteen. 
+Her answer is $37$. What is the number that Sara first thought of? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a - 12} {2} + 15   &= 37 \\\\
+\dfrac {a - 12} {2}        &= 37 - 15 \\\\
+\dfrac {a - 12} {2}        &= 22 \\\\
+a - 12                     &= 22 \times 2 \\\\
+a                          &= 44 + 12 \\\\
+a                          &= 56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4229,163 +4284,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the three expressions below.
-
-$\boxed{3k}$     $\boxed{(4k+2)}$      $\boxed{k^2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-When **k = 6**, what is the value of each expression?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-First expression
-
-$
-\begin{aligned}
-&= 3 k \\\\
-&= 3 \times 6 \\\\
-&= 18
-\end{aligned}
-$
-
-Second expression
-
-$
-\begin{aligned}
-&= 4(k + 2) \\\\
-&= 4(6 + 2) \\\\
-&= 4 \times 8 \\\\
-&= 32
-\end{aligned}
-$
-
-Third expression
-
-$
-\begin{aligned}
-&= k ^ 2 \\\\
-&= (6) ^2 \\\\
-&= 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18, 32, 36$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-When $\bold{k = -10}$, what is the value of each expression?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-First expression
-
-$
-\begin{aligned}
-&= 3 k \\\\
-&= 3 \times - 10 \\\\
-&= - 30
-\end{aligned}
-$
-
-Second expression
-
-$
-\begin{aligned}
-&= 4(k + 2) \\\\
-&= 4(- 10 + 2) \\\\
-&= 4 \times - 8 \\\\
-&= - 32
-\end{aligned}
-$
-
-Third expression
-
-$
-\begin{aligned}
-&= k ^ 2 \\\\
-&= (- 10) ^2 \\\\
-&= 100
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-30, -32, 100$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

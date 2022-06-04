@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,74 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When  asked how   many  chickens and   cows  he had   on his   farm  Mr Brown refused  to answer   directly,   but   he did   say   that  the   total number   of heads was **30** and   the   total number   of legs  was **100** .  How   many  of each  was   there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of chickens $=x$ and number of cows $=y$
+
+A farmer has some chickens and some cows .He counted $30$ heads 
+
+$ 
+\begin{aligned}
+x + y = 30 \\\\
+x = 30 - y
+\end{aligned}
+$
+
+Each chicken  has 2 legs and cow has 4 legs 
+
+$
+\begin{aligned}
+2x + 4y = 100 \\\\
+x  + 2y = 50 \\\\
+30 - y + 2y = 50 \\\\
+y = 20 \text {cows}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+x = 30 - y \\\\
+x = 30 - 20 \\\\
+x = 10 \text {chickens}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \text{chickens}, 20 \text{cows}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3509,89 +3577,6 @@ $24 \ \text{coins}$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>A802EBFF-9616-4373-A0C4-AC740A707CD7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are twenty gifts stacked up into four piles. 
-
-The first pile has $3$ less than the second pile. 
-
-The second pile has two more than the third pile. 
-
-The fourth pile has twice as many as the second pile. 
-
-How many gifts are in each pile?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the gifts in third pile $= g$
-
-As per the question,
-
-Gifts in second pile $= g + 2$
-
-Gifts in first pile $= g + 2 - 3 = g - 1$
-
-Gifts in fourth pile $= 2 \times (g + 2) = 2g + 4$
-
-$
-\begin{aligned}
-g + g + 2 + g - 1 + 2g + 4      &= 20 \\\\
-5g + 5                          &= 20 \\\\
-5g                              &= 20 - 5 \\\\
-5g                              &= 15 \\\\
-g                               &= \dfrac{15}{5} \\\\
-g                               &= \dfrac{3 \times 5}{5} \\\\
-g                               &= \dfrac{3 \times \cancel{5}}{\cancel{5}} \\\\
-g                               &= 3
-\end{aligned}
-$
-
-Gifts in first pile $= g - 1 = 3 - 1 =2$
-
-Gifts in second pile $= g + 2 = 5$
-
-Gifts in third pile $= g = 3$
-
-Gifts in fourth pile $= 2g + 4 = 10$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Gifts in first pile $=2$
-
-Gifts in second pile $= 5$
-
-Gifts in third pile $= 3$
-
-Gifts in fourth pile $= 10$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

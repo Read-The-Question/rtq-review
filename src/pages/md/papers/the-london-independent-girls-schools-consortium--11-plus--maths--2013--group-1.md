@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -434,29 +434,7 @@ $45  \quad 53 \quad \boxed{\phantom{55}}  \quad 69$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} } 
-&&  \footnotesize {\maroonC
- {(+8)} }  
-&&  \footnotesize {\maroonC
- {(+8)} } \\
-45,  &&    53,  &&   \ldots,  &&   69
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {Missing number} &= 53 + 8 \\\\
-                       &= 61
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $8$. Hence, the sequence would be:

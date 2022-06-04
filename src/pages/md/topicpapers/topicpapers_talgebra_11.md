@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,89 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A802EBFF-9616-4373-A0C4-AC740A707CD7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are twenty gifts stacked up into four piles. 
+
+The first pile has $3$ less than the second pile. 
+
+The second pile has two more than the third pile. 
+
+The fourth pile has twice as many as the second pile. 
+
+How many gifts are in each pile?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the gifts in third pile $= g$
+
+As per the question,
+
+Gifts in second pile $= g + 2$
+
+Gifts in first pile $= g + 2 - 3 = g - 1$
+
+Gifts in fourth pile $= 2 \times (g + 2) = 2g + 4$
+
+$
+\begin{aligned}
+g + g + 2 + g - 1 + 2g + 4      &= 20 \\\\
+5g + 5                          &= 20 \\\\
+5g                              &= 20 - 5 \\\\
+5g                              &= 15 \\\\
+g                               &= \dfrac{15}{5} \\\\
+g                               &= \dfrac{3 \times 5}{5} \\\\
+g                               &= \dfrac{3 \times \cancel{5}}{\cancel{5}} \\\\
+g                               &= 3
+\end{aligned}
+$
+
+Gifts in first pile $= g - 1 = 3 - 1 =2$
+
+Gifts in second pile $= g + 2 = 5$
+
+Gifts in third pile $= g = 3$
+
+Gifts in fourth pile $= 2g + 4 = 10$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Gifts in first pile $=2$
+
+Gifts in second pile $= 5$
+
+Gifts in third pile $= 3$
+
+Gifts in fourth pile $= 10$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -3569,52 +3652,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>4F789E2C-F431-4D0D-81F6-47D727DDF8FA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An orange costs twice as much as an apple. Which one of the following does not cost the same as the other four?
-
-A  Two oranges and three apples
-B  Seven apples 
-C  One orange and five apples
-D  Three oranges and one apple
-E  Four oranges
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- One orange and five apples
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{One orange and five apples}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

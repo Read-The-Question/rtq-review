@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -950,33 +950,7 @@ $871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $77$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-77)} } 
-&&  \footnotesize {\maroonC
- {(-77)} }  
-&&  \footnotesize {\maroonC
- {(-77)} }   
-&&  \footnotesize {\maroonC
- {(-77)} }  \\
-871,  &&    794,  &&   717,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fourth number}        &= 717 - 77 \\\\
-                            &= 640 \\\\
-\text{Fifth number}         &= 640 - 77 \\\\
-                            &= 563
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $77$. Hence, the sequence would be:

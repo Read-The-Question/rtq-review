@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -334,35 +334,7 @@ $-2.0, -1.7, -1.4 , -1.1$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.3$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}
-&&  \footnotesize{\maroonC
-{(+0.3)}}  \\
--2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text{First missing number}   &= -1.1 + 0.3 \\\\
-                              &= -0.8 \\\\
-\text{Second missing number}  &= -0.8 + 0.3 \\\\
-                              &= -0.5
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
@@ -418,35 +390,7 @@ $15, 11,  7, 3$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
-15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text{First missing number}   &= 3 - 4 \\\\
-                              &= -1 \\\\
-\text{Second missing number}  &= -1 - 4 \\\\
-                              &= -5
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -502,43 +446,7 @@ $0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}
-&&  \footnotesize{\maroonC
-{(+ \dfrac {3} {5})}}  \\
-0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text{First missing number}   &= 1 \dfrac {4} {5} + \dfrac {3} {5} \\\\
-                              &= \dfrac {9} {5} + \dfrac {3} {5} \\\\
-                              &= \dfrac {9 + 3} {5} \\\\
-                              &= \dfrac {12} {5} \\\\
-                              &= 2 \dfrac {2} {5} \\\\
-\text{Second missing number}  &= 2 \dfrac {2} {5} + \dfrac {3} {5} \\\\
-                              &= \dfrac {12} {5} + \dfrac {3} {5} \\\\
-                              &= \dfrac {12 + 3} {5} \\\\
-                              &= \dfrac {15} {5} \\\\
-                              &= \dfrac {3 \times 5} {5} \\\\
-                              &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
-                              &= 3
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
@@ -602,33 +510,7 @@ $5, 8 , 13, 20$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin {matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}  \\
-5,  &&   8,  &&   13,  &&   20,  &&   \ldots  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text{First missing number}   &= 20 + 9 \\\\
-                              &= 29 \\\\
-\text{Second missing number}  &= 29 + 11 \\\\
-                              &= 40
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

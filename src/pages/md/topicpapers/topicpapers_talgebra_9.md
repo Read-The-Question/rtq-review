@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,81 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Gavin spends $\pounds 4.90$ on two items in a shop. One item cost $40 \text{p}$ more than the other.  How much did each item cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of First item as $= a$
+
+the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
+
+As per the question, 
+
+It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+\text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
+a + (a + \pounds 0.40)                            &= \pounds 4.90  \\\\ 
+a + a + 0.40                                      &= 4.90  \\\\
+2a + 0.40                                         &= 4.90 \\\\
+2a                                                &= 4.90 - 0.40 \\\\
+2a                                                &= 4.50 \\\\
+a                                                 &= \dfrac {4.50} {2} \\\\
+a                                                 &= \pounds 2.25
+\end{aligned}
+$
+
+Cost of the Item $1$ is $\pounds 2.25$
+
+Let's find cost of the Item $2$.
+
+$
+\begin{aligned}
+&= a + \pounds 0.40 \\\\
+&= 2.25 + 0.40 \\\\
+&= 2.65 \\\\
+&= \pounds 2.65
+\end{aligned}
+$
+
+Cost of the 2nd item is $\pounds 2.65$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.65$ and $\pounds 2.25$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -3896,74 +3971,6 @@ $1800 \text {metres}$
 
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When  asked how   many  chickens and   cows  he had   on his   farm  Mr Brown refused  to answer   directly,   but   he did   say   that  the   total number   of heads was **30** and   the   total number   of legs  was **100** .  How   many  of each  was   there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of chickens $=x$ and number of cows $=y$
-
-A farmer has some chickens and some cows .He counted $30$ heads 
-
-$ 
-\begin{aligned}
-x + y = 30 \\\\
-x = 30 - y
-\end{aligned}
-$
-
-Each chicken  has 2 legs and cow has 4 legs 
-
-$
-\begin{aligned}
-2x + 4y = 100 \\\\
-x  + 2y = 50 \\\\
-30 - y + 2y = 50 \\\\
-y = 20 \text {cows}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-x = 30 - y \\\\
-x = 30 - 20 \\\\
-x = 10 \text {chickens}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \text{chickens}, 20 \text{cows}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>

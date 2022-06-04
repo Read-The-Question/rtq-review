@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-8"
 title: "TopicPaper - Algebra - 8"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,76 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\dfrac {2} {5}$ of the children in a class are boys. There are $12$ girls in the class. How many boys are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of children $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
+c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
+c                                                    &= \dfrac {2a} {5} + 12 \\\\
+c - \dfrac {2c} {5}                                  &= 12 \\\\
+\dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
+\dfrac {5c - 2c} {5}                                 &= 12 \\\\
+3c                                                   &= 12 \times 5 \\\\
+c                                                    &= \dfrac {12 \times 5} {3} \\\\
+c                                                    &= \dfrac {3 \times 4 \times 5} {3} \\\\
+c                                                    &= \dfrac {\cancel{3} \times 4 \times 5} {\cancel{3}} \\\\
+c                                                    &= 20
+\end{aligned}
+$
+
+The total number of children in class $= 20$
+
+Let's find the total number of boys.
+
+$
+\begin{aligned}
+\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
+                                                &= 20 - 12 \\\\
+                                                &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -4877,81 +4947,6 @@ $8$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Gavin spends $\pounds 4.90$ on two items in a shop. One item cost $40 \text{p}$ more than the other.  How much did each item cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of First item as $= a$
-
-the cost of 2nd item is $a + 40 \text{p}$ or $a + \pounds 0.40$
-
-As per the question, 
-
-It is really important to use the right units in calculations and convert where required.
-
-
-$
-\begin{aligned}
-\text{Cost of item} \ 1 + \ \text{Cost of item} \ 2 &= \ \text{Total cost spend} \\\\ 
-a + (a + \pounds 0.40)                            &= \pounds 4.90  \\\\ 
-a + a + 0.40                                      &= 4.90  \\\\
-2a + 0.40                                         &= 4.90 \\\\
-2a                                                &= 4.90 - 0.40 \\\\
-2a                                                &= 4.50 \\\\
-a                                                 &= \dfrac {4.50} {2} \\\\
-a                                                 &= \pounds 2.25
-\end{aligned}
-$
-
-Cost of the Item $1$ is $\pounds 2.25$
-
-Let's find cost of the Item $2$.
-
-$
-\begin{aligned}
-&= a + \pounds 0.40 \\\\
-&= 2.25 + 0.40 \\\\
-&= 2.65 \\\\
-&= \pounds 2.65
-\end{aligned}
-$
-
-Cost of the 2nd item is $\pounds 2.65$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.65$ and $\pounds 2.25$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

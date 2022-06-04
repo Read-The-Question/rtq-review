@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1327,37 +1327,7 @@ $10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is increasing by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+3)}}  
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
-10,  &&    13,  &&  16,  && \ldots, && \ldots, &&   25,  &&   28 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 16 + 3 \\\\
-                                  &= 19 \\\\
-\text{Second missing number}      &= 19 + 3 \\\\
-                                  &= 22
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $3$. Hence, the sequence would be:
@@ -1415,39 +1385,7 @@ $29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is decreasing by $7$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}} 
-&&  \footnotesize{\maroonC
-{(-7)}}  
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
-29,  &&    22,  &&  15,  &&  8,  && \ldots,  && \ldots, &&   -13,  &&   -20 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 8 - 7 \\\\
-                                  &= 1 \\\\
-\text{Second missing number}      &= 1 - 7 \\\\
-                                  &= -6
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be:
@@ -1507,41 +1445,7 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times -2)}} 
-&&  \footnotesize{\maroonC
-{(\times -2)}}  
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}  \\
-1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= -8 \times -2 \\\\
-                               &= 16 \\\\
-\text{Second missing number}   &= 16 \times -2 \\\\
-                               &= -32
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:

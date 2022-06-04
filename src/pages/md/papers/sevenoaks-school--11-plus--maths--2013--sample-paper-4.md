@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -436,33 +436,7 @@ $1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textund
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}
-&&  \footnotesize{\maroonC
-{(+2)}}  \\
-1,  &&    3,  &&  5,  && \ldots,  && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}   &= 5 + 2 \\\\
-                              &= 7 \\\\
-\text{Second missing number}  &= 7 + 2 \\\\
-                              &= 9                             
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:

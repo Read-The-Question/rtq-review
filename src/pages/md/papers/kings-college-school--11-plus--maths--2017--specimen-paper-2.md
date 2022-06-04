@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -415,30 +415,7 @@ Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-    \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
-\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
-                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
-                            &= \dfrac {20} {32}
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $
@@ -725,7 +702,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B92A2396-20FB-4D73-84F6-53893C6F4B4E</p>
 </div>
@@ -769,7 +746,7 @@ $\pounds 212$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

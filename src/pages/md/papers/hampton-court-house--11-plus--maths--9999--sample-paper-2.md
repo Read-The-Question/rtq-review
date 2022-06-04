@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -642,41 +642,7 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $-3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} } 
-&&  \footnotesize {\maroonC
- {(-3)} }  
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
-28,  &&  25,  &&  22,  &&  19,  &&  16,  &&  13,  &&  10,  && \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 10 - 3 \\\\
-                                  &= 7 \\\\
-\text{Second missing number}      &= 7 - 3 \\\\
-                                  &= 4
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:

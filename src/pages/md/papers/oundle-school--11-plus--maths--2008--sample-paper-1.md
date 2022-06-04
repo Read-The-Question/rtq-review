@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -519,35 +519,7 @@ $4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $+6$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&&  \footnotesize{\maroonC
- { (+6)} }
-&   \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} }
-&&  \footnotesize{\maroonC
- { (+6)} } \\
-4,  &&    10,  &&  16,  &&   22,  &&  \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First Missing number}     &= 22 + 6 \\\\
-                                &= 28 \\\\
-\text{Second Missing number}    &= 28 + 6 \\\\
-                                &= 34
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $+6$. Hence, the sequence would be:
@@ -656,34 +628,7 @@ $12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $-5$. Hence, the sequence would be:
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
- { (-5) } }  
-&&  \footnotesize{\maroonC
- { (-5) } } 
-&&  \footnotesize{\maroonC
- { (-5) } } 
-&&  \footnotesize{\maroonC
- { (-5) } }  
-&&  \footnotesize{\maroonC
- { (-5) } } \\
-12,  &&    7,  &&  2,  &&  - 3,  &&  \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First Missing number}     &= - 3 - 5 \\\\
-                                &= - 8 \\\\
-\text{Second Missing number}    &= - 8 - 5 \\\\
-                                &= - 13
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-5$. Hence, the sequence would be:

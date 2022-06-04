@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,69 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C3BE9AFF-3897-4101-88BA-E1C514952C0C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison buys $6$ cups of coffee which cost $\pounds 2.20$ each, $4$ glasses of juice which cost $\pounds 1.15$ each 
+and some packets of crisps which cost $55 \text{p}$ each. She pays by giving the member of staff $\pounds 25$ and receives $\pounds 2.80$ in change.
+
+Using this information, complete the bill below by filling in the five spaces
+
+| $6$ cups of coffee costing $\pounds 2.20$ each         | $\pounds$ |
+|--------------------------------------------------------|-----------|
+| $4$ glasses of juice costing $\pounds 1.15$ each       | $\pounds$ |
+| $\ldots$ packets of crisps costing $55 \text{p}$ each  | $\pounds$ |
+| Total                                                  | $\pounds$ |
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4249,57 +4312,6 @@ $30$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>8E48E97E-BA10-4089-919F-C660C53FBEF5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Each time Peter runs around the school, he travels $\frac {1} {4}$ mile. How many times would he need to go around the school to run a total of $3.75\, miles$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-This can be solved using ratios.
-
-$
-\begin{aligned}
-1 \text{round} : \dfrac {1} {4} \text{mile} \\\\
-1 \text{round} : 0.25 \text{miles} \\\\
-1 \times 15 \text{rounds} : 0.25 \times 15 \text{miles} \\\\
-15 \text{rounds} : 3.75 \text{miles}
-
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 \text{rounds}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -792,37 +792,7 @@ $3, \quad 7, \quad 11, \quad 15, \quad 19, \quad \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}} 
-&&  \footnotesize{\maroonC
-{(+4)}}  
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+4)}}
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
-3,  &&  7,  &&  11,  &&  15,  &&  19,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 19 + 4 \\\\
-                                  &= 23 \\\\
-\text{Second missing number}      &= 23 + 4 \\\\
-                                  &= 27
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -880,35 +850,7 @@ $3, \quad 6, \quad 12, \quad 24, \quad \text{\textunderscore \textunderscore \te
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}} \\
-3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 24 \times 2 \\\\
-                                  &= 48 \\\\
-\text{Second missing number}      &= 48 \times 2 \\\\
-                                  &= 96
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -964,35 +906,7 @@ $3, \quad 5, \quad 9, \quad 15, \quad 23, \quad \text{\textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+2)}} 
-&&  \footnotesize{\maroonC
-{(+4)}}  
-&&  \footnotesize{\maroonC
-{(+6)}}   
-&&  \footnotesize{\maroonC
-{(+8)}}   
-&&  \footnotesize{\maroonC
-{(+10)}}
-&&  \footnotesize{\maroonC
-{(+12)}}  \\
-3,  &&  6,  &&  12,  &&  24,  &&  \ldots,  &&  \ldots  
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 23 + 10 \\\\
-                                  &= 33 \\\\
-\text{Second missing number}      &= 33 + 12 \\\\
-                                  &= 45
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

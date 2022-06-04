@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1294,31 +1294,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
-6,  &&   9,  &&   12,  &&   15,  &&   \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fifth term}     &= 15 + 3 \\\\
-                      &= 18
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:

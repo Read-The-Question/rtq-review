@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,65 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes two decorators $8$ days to paint a house.
+
+One is lazy and one is energetic.
+
+The energetic one could paint the house in $12$ days on his own.
+
+How many days would it take the lazy one to paint the house on his own?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4806,76 +4865,6 @@ $501$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>72FCEF04-0FAC-4FF2-B835-201FE7548490</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\dfrac {2} {5}$ of the children in a class are boys. There are $12$ girls in the class. How many boys are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of children $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Total children}                                &= \text{Total boys} + \text{Total girls} \\\\
-c                                                    &= \dfrac {2} {5} \times c + 12 \\\\
-c                                                    &= \dfrac {2a} {5} + 12 \\\\
-c - \dfrac {2c} {5}                                  &= 12 \\\\
-\dfrac {c \times 5} {1 \times 5} - \dfrac {2c} {5}   &= 12 \\\\
-\dfrac {5c - 2c} {5}                                 &= 12 \\\\
-3c                                                   &= 12 \times 5 \\\\
-c                                                    &= \dfrac {12 \times 5} {3} \\\\
-c                                                    &= \dfrac {3 \times 4 \times 5} {3} \\\\
-c                                                    &= \dfrac {\cancel{3} \times 4 \times 5} {\cancel{3}} \\\\
-c                                                    &= 20
-\end{aligned}
-$
-
-The total number of children in class $= 20$
-
-Let's find the total number of boys.
-
-$
-\begin{aligned}
-\text{Total number of boys}                     &= \text{Total children} - \text{Total girls} \\\\
-                                                &= 20 - 12 \\\\
-                                                &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-6"
 title: "TopicPaper - Algebra - 6"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,163 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>03B1D61C-7CBC-4E0B-A194-696178602F1C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the three expressions below.
+
+$\boxed{3k}$     $\boxed{(4k+2)}$      $\boxed{k^2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When **k = 6**, what is the value of each expression?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First expression
+
+$
+\begin{aligned}
+&= 3 k \\\\
+&= 3 \times 6 \\\\
+&= 18
+\end{aligned}
+$
+
+Second expression
+
+$
+\begin{aligned}
+&= 4(k + 2) \\\\
+&= 4(6 + 2) \\\\
+&= 4 \times 8 \\\\
+&= 32
+\end{aligned}
+$
+
+Third expression
+
+$
+\begin{aligned}
+&= k ^ 2 \\\\
+&= (6) ^2 \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18, 32, 36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+When $\bold{k = -10}$, what is the value of each expression?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First expression
+
+$
+\begin{aligned}
+&= 3 k \\\\
+&= 3 \times - 10 \\\\
+&= - 30
+\end{aligned}
+$
+
+Second expression
+
+$
+\begin{aligned}
+&= 4(k + 2) \\\\
+&= 4(- 10 + 2) \\\\
+&= 4 \times - 8 \\\\
+&= - 32
+\end{aligned}
+$
+
+Third expression
+
+$
+\begin{aligned}
+&= k ^ 2 \\\\
+&= (- 10) ^2 \\\\
+&= 100
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-30, -32, 100$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3927,65 +4084,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes two decorators $8$ days to paint a house.
-
-One is lazy and one is energetic.
-
-The energetic one could paint the house in $12$ days on his own.
-
-How many days would it take the lazy one to paint the house on his own?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:34</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

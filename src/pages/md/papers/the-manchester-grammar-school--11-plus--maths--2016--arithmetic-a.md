@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -231,31 +231,7 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+1.6)}} 
-&&  \footnotesize{\maroonC
-{(+1.6)}}  
-&&  \footnotesize{\maroonC
-{(+1.6)}}   
-&&  \footnotesize{\maroonC
-{(+1.6)}}  \\
-2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 4.3 + 1.6 \\\\
-                        &= 5.9
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $1.6$. Hence, the sequence would be:

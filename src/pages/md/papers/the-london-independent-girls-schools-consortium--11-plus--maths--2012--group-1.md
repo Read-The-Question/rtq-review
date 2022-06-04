@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -485,31 +485,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.2)}} 
-&&  \footnotesize{\maroonC
-{(+0.2)}}  
-&&  \footnotesize{\maroonC
-{(+0.2)}}   
-&&  \footnotesize{\maroonC
-{(+0.2)}}  \\
-\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}      &= 20.0 - 0.2 \\\\
-                        &= 19.8
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.2$. Hence, the sequence would be:

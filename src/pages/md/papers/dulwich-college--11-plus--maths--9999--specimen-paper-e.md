@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-06-04 17:30:11
+date: 2022-06-04 22:55:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1530,7 +1530,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tpercentage
+talgebra
 </li>
 </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-14"
 title: "TopicPaper - Algebra - 14"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,145 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>89CDFC1D-DCE2-4229-9070-5DBF40AD75CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jim runs a fruit stall at a local market.
+
+He sells oranges in packets of $3$ and apples in packets of $4$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+George buys $5$ packets of oranges and some packets of apples.
+
+In total he has $31$ pieces of fruit.
+
+How many packets of apples did George buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Chris buys $2$ more packets of apples than packets of oranges.
+
+In total he has $29$ pieces of fruit.
+
+How many packets of each type of fruit did Chris buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jamie buys $11$ packets of fruit.
+
+In total, he has $40$ pieces of fruit.
+
+How many more apples than oranges does he have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -3249,138 +3388,6 @@ $20 \ \text{coins}$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>3477EB4B-8C2A-4748-BA06-47119B363368</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bull and three cows costs $\pounds 1300$. Four bulls and eight cows cost $\pounds4000$. What is the cost of a bull?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of a bull (in $\text{\pounds}$) $= b$
-
-Let the cost of a cow (in $\text{\pounds}$) $= c$
-
-As per the question,
-
-$
-\begin{aligned} 
-b + 3c      &= 1300 \\\\
-4b + 8c     &= 4000         
-\end{aligned}
-$
-
-There are two variables, $b$ and $c$. Let's eliminate to reduce it to just one variable. Multiply the first equation by $4$ to eliminate $b$.
-
-$
-\begin{aligned} 
-b + 3c                      &= 1300 \\\\
-4 \times b + 4 \times 3c    &= 4 \times 1300 \\\\
-4b + 12c                    &= 5200
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
-4b + 12c                    &= 5200 \\\\
-4b + 8c                     &= 4000 \\\\
-4b + 12c - (4b + 8c)        &= 5200 - 4000 \\\\
-4b + 12c - 4b - 8c          &= 5200 - 4000 \\\\
-4c                          &= 1200 \\\\
-c                           &= \dfrac{1200}{4} \\\\
-c                           &= \pounds 300
-\end{aligned}
-$
-
-Cost of a cow $= \pounds 300$. 
-
-Let's substitute the value of $c$ in one of the initial equations to find the cost of a bull.
-
-$
-\begin{aligned} 
-b + 3c                      &= 1300  \\\\
-b + 3 \times 300            &= 1300 \\\\
-b + 900                     &= 1300 \\\\
-b                           &= 1300 - 900 \\\\
-b                           &= \pounds 400
-\end{aligned}
-$
-
-Cost of a bull $= \pounds 400$.
-
-</div>
-<div class='working'>
-
-Can we do better than the previous solution? If we look at the question, we only have to find the cost of a bull. 
-In the previous solution, we first found the cost of a cow and then we used that to find the cost of a bull.
-We can eliminate $c$ instead to directly find the cost of a bull.
-
-Let the cost of a bull in pounds $= b$
-
-Let the cost of a cow in pounds $= c$
-
-Let's eliminate again to reduce it to just one variable $b$. The LCM of $8$ and $3$ is $24$. 
-Multiply the first equation by $8$ and the second equation by $3$ to make the coeifficent of $c$ the same.
-
-$
-\begin{aligned} 
-b + 3c                      &= 1300 \\\\
-4b + 8c                     &= 4000 \\\\
-8 \times b + 8 \times 3c    &= 8 \times 1300 \\\\
-3 \times 4b + 3 \times 8c   &= 3 \times 4000 \\\\
-8b + 24c                    &= 10400 \\\\
-12b + 24c                   &= 12000
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned}
-8b + 24c                    &= 10400 \\\\
-12b + 24c                   &= 12000 \\\\
-12b + 24c - (8b + 24c)      &= 12000 - 10400 \\\\
-12b + 24c - 8b - 24c        &= 12000 - 10400 \\\\
-4b                          &= 1600 \\\\
-b                           &= \dfrac{1600}{4} \\\\
-b                           &= \pounds 400
-\end{aligned}
-$
-
-Cost of a bull $= \pounds 400$. 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 400$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

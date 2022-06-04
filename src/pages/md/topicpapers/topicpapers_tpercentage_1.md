@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -406,7 +406,7 @@ $80 \ %$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>5AB7D8D0-E985-4E30-9274-08BF092E3986</p>
 </div>
@@ -551,7 +551,7 @@ $92$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -702,84 +702,6 @@ $400$
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>76EED758-156E-462D-9D8B-24446C9E1E55</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bottle contains $150 \ \text{ml}$ of juice. 
-Alex drinks $50\%$ more than Jane and these two friends finish the bottle between them. Calculate how much Alex drinks.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Jane drinks $x \ \text{ml}$.
-
-As per the question,
-
-Juice drunk by Alex $= x + 50 \% \ \text{of} x$
-
-Then,
-
-$
-\begin{aligned}
-x + x + 50 \% \ \text{of} \ x                &= 150 \ \text{ml} \\\\
-2x + \dfrac {50x} {100}                      &= 150 \\\\
-2x + \dfrac {5 \cancel{0}x} {10 \cancel {0}} &= 150 \\\\
-2x + \dfrac {5x} {10}                        &= 150 \\\\
-\dfrac {20x + 5x} {10}                       &= 150 \\\\
-\dfrac {25x} {10}                            &= 150 \\\\
-25x                                          &= 150 \times 10 \\\\
-x                                            &= \dfrac {25 \times 6 \times 10} {25} \\\\
-x                                            &= \dfrac {\cancel {25} \times 6 \times 10} {\cancel {25}} \\\\
-x                                            &= 6 \times 10 \\\\
-x                                            &= 60 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Jane $= 60 \ \text {ml}$
-
-Juice drunk by Alex $= 60 + 50 \% \times 60$
-
-$
-\begin{aligned}
-&= 60 + \dfrac {50} {100} \times 60 \\\\
-&= 60 + \dfrac {3000} {100} \\\\
-&= 60 + \dfrac {30 \cancel{00}} {1 \cancel{00}} \\\\
-&= 90 \ \text {ml}
-\end{aligned}
-$
-
-Juice drunk by Alex $= 90 \ \text {ml}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$90 \ \text {ml}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>C2DA9491-EDDE-4593-8A44-2D8FCE3664C6</p>
 </div>
 <div class='topics'>
@@ -827,7 +749,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>4751D63D-6131-4E1E-BD76-5F3BF5800D72</p>
 </div>
@@ -871,7 +793,7 @@ $480$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1022,7 +944,7 @@ $60 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>B92A2396-20FB-4D73-84F6-53893C6F4B4E</p>
 </div>
@@ -1066,7 +988,7 @@ $\pounds 212$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1169,7 +1091,7 @@ $600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>CAE549F8-9EE0-4076-8DD3-5385034616A6</p>
 </div>
@@ -1215,12 +1137,12 @@ $1$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>80F4D32D-E7F6-4E7A-9776-DC2204D80BCA</p>
 </div>
@@ -1265,7 +1187,7 @@ $1.3$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

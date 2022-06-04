@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-06-04 17:31:48
+date: 2022-06-04 22:56:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,78 @@ date: 2022-06-04 17:31:48
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BD373007-66C1-4E42-B2DD-8E077A7F99DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a pattern made from grey and white tiles.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+A shape in the pattern has $28$ grey tiles.
+
+How many white tiles does it have?
+
+-  $28$
+-  $15$
+-  $14$
+-  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+After oberserving the pattern, the white tiles are one more than half of the black tiles.
+
+As per the pattern,
+
+$
+\begin{aligned}
+\text{No. of white tiles}                      &= \dfrac {\text{No. of Black tiles}} {2} + 1 \\\\
+                                               &= \dfrac {28} {2} + 1 \\\\
+                                               &= \dfrac {2 \times 14} {2} + 1 \\\\
+                                               &= \dfrac {\cancel{2} \times 14} {\cancel{2}} + 1 \\\\
+                                               &= 14 + 1 \\\\
+                                               &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3764,61 +3836,6 @@ $63$
 
 <div class='papername'>
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sara thinks of a number. 
-She subtracts twelve, then divides by two and then adds fifteen. 
-Her answer is $37$. What is the number that Sara first thought of? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {a - 12} {2} + 15   &= 37 \\\\
-\dfrac {a - 12} {2}        &= 37 - 15 \\\\
-\dfrac {a - 12} {2}        &= 22 \\\\
-a - 12                     &= 22 \times 2 \\\\
-a                          &= 44 + 12 \\\\
-a                          &= 56
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

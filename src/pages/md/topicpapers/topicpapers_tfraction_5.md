@@ -1,0 +1,3477 @@
+---
+slug: "papers/topicpapers-tfraction-5"
+title: "TopicPaper - Fraction - 5"
+date: 2022-06-04 12:05:01
+---
+<div class='paper'>
+<div class='meta'>
+<h3>boys</h3>
+<h3>foot</h3>
+<h3>Topic</h3>
+<h3></h3>
+<h3>TODO</h3>
+</div>
+
+# Section A
+<ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>B5D0A1DE-7CF1-4AB2-9B06-F68A87B0D915</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Change $0.76$ to a fraction in its simplest form.
+
+- $\dfrac{19}{25}$
+- $\dfrac{38}{50}$
+- $\dfrac{76}{100}$
+- $\dfrac{3}{4}$
+- $\dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.76 \\\\
+&=  \dfrac{76}{100} \\\\
+&=  \dfrac{19 \times 4}{25 \times 4} \\\\
+&=  \dfrac{19 \times \cancel{4}}{25 \times \cancel{4}} \\\\
+&=  \dfrac{19}{25}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$\dfrac{19}{25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>EC3E64BC-89F2-40BF-A533-FD22D897D87A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is two-fifths of $45$?
+
+- $9$
+- $18$
+- $27$
+- $5$
+- $10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= \text{the two-fifth of} \ 45 \\\\
+&= \dfrac{2}{5} \text{of} \ 45 \\\\
+&= \dfrac{2}{5} \times 45 \\\\
+&= \dfrac{2 \times 45}{5} \\\\
+&= \dfrac{2 \times 9 \times 5}{5} \\\\
+&= \dfrac{2 \times 9 \times \cancel{5}}{\cancel{5}} \\\\
+&= 2 \times 9 \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>055B29BD-B79C-4165-ABA0-871C50A3CE48</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{5}{7}$ of $112$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {7} \text { of } 112 \\\\
+&= \dfrac {5} {7} \times 112 \\\\
+&= \dfrac {5 \times 112} {7} \\\\
+&= \dfrac {5 \times 16 \times 7} {7} \\\\
+&= \dfrac {5 \times 16 \times \cancel {7}} {\cancel{7}} \\\\
+&= 16 \times 5 \\\\\
+&= 80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
+
+Note: the sides of the triangles are the same length as the sides of the hexagons.
+
+Find the fraction of the diagram that is shaded. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {19}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+& = \dfrac {1} {2}  \bigg ({\dfrac {1} {3} + \dfrac{1} {2} } \bigg) \\\\
+& = \dfrac {1} {2} \bigg (\dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
+& = \dfrac {1} {2} \bigg (\dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
+& = \dfrac {1} {2} \bigg (\dfrac {2 + 3} {6} \bigg) \\\\
+& = \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
+& = \dfrac {5} {12}
+\end{aligned}
+$
+
+The average of  $\dfrac {1} {3}$ and $\dfrac {1} {2} = \dfrac {5} {12}$
+
+So, fraction $\dfrac {5} {12}$ lies between $\dfrac {1} {3}$ and $\dfrac {1} {2}$.     
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {12}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which one of the following fractions is **not** equivalent to $\dfrac{3}{5}$.
+
+$\dfrac{12}{20}, \quad \dfrac{30}{50}, \quad \dfrac{18}{30}, \quad \dfrac{21}{35}, \quad \dfrac{9}{25}, \quad \dfrac{27}{45}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let' reduce the fractions by listing and canceling the common factors.
+
+$
+\begin{aligned}
+\dfrac {12} {20}, \quad \dfrac {30} {50}, \quad \dfrac {18} {30}, \quad \dfrac {21} {35}, \quad \dfrac {9} {25}, \quad \dfrac {27} {45} \\\\
+\dfrac {4 \times 3} {4 \times 5}, \quad \dfrac {30} {50}, \quad \dfrac {6 \times 3} {6 \times 5}, \quad \dfrac {7 \times 3} {7 \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {9 \times 3} {9 \times 5} \\\\
+\dfrac {\cancel {4} \times 3} {\cancel {4} \times 5}, \quad \dfrac {3 \cancel {0}} {5 \cancel {0}} , \quad \dfrac {\cancel {6} \times 3} {\cancel {6} \times 5}, \quad \dfrac {\cancel {7} \times 3} {\cancel {7} \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {\cancel {9} \times 3} {\cancel {9} \times 5} \\\\
+\dfrac {3} {5}, \quad \dfrac {3} {5} , \quad \dfrac {3} {5}, \quad \dfrac {3} {5}, \quad \dfrac {9} {25}, \quad \dfrac {3} {5}
+\end{aligned}
+$
+
+The fractions that is **not** equivalent to $\dfrac {3} {5}$ is $= \dfrac {9} {25}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
+                     &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+                     &= \dfrac {155 - 130} {3} \\\\
+                     &= \dfrac {25} {3} \\\\
+                     &= 8 \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \dfrac {1} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>943C751C-1BA0-4C56-92E2-2D4FE404BCEB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the following giving your answers in fractions. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2} + \dfrac{1}{4} =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F5BB2E80-58A6-4ACA-80C3-EEBED0513A81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is a half of three-quarters?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{half of three-quarters} \\\\
+&= \dfrac {1} {2} \times \dfrac {3} {4} \\\\
+&= \dfrac {1 \times 3} {2 \times 4} \\\\
+&= \dfrac {3} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3}{8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>786BE81B-1199-48F3-9C7D-7B52BFE15DCD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdraw
+</li>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$3$ lines of symmetry have been drawn on this equilateral triangle, dividing it Into sections. One section has been shaded.
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+
+What fraction of the triangle has been shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {6}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {6}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade in a further $\dfrac{1}{3}$ of the triangle.    
+                   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the triangle is now not shaded?
+
+Give your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} \\\\
+&= \dfrac {2 \times \cancel 2 } {3 \times \cancel 2 } \\\\
+&= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>85D814E8-ABEB-40A1-BDD2-6AA5FB8AEBB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The two school hockey teams are called Team Alpha and Team Beta
+
+Some information about the number of right-handed $(RH)$ and left-handed $(LH)$ players in each team is shown in the table below.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the table above.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the left-handed players are in Team Alpha?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+
+At the end of the term, a left-handed player from Team Beta moves into Team Alpha and a right-handed player from Team Alpha moves into Team Beta.
+
+Redraw the table to show the new teams.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The hockey pitch is $55 \ \text{metres}$ wide.
+
+During a practice, Anna runs a distance equivalent to $18$ widths of the pitch.
+
+Calculate this distance.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a list of fractions:
+
+$\dfrac{3}{4} \quad \dfrac{5}{8} \quad \dfrac{15}{11} \quad \dfrac{8}{12} \quad \dfrac{4}{5}$
+
+Choose from the list: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction which is greater than $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {3} {4}   &= 0.75 \\\\
+\dfrac {5} {8}   &= 0.62 \\\\
+\dfrac {15} {11} &= 1.36 \\\\
+\dfrac {8} {12}  &= 0.66 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+$\dfrac {15} {11}$ is greater than $1$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {15} {11}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction equivalent to $80\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+80\%             &= \dfrac {80} {100} \\\\
+                 &= 0.80 \\\\
+\dfrac {4} {5}   &= 0.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction equivalent to $0.75$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {3} {4} = 0.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+a fraction which is not in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {8} {12}   &= \dfrac {4 \times 2} {4 \times 3} \\\\
+                  &= \dfrac {\cancel{4} \times 2} {\cancel{4} \times 3} \\\\
+                  &= \dfrac {2} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>495D061F-FEDA-4E8C-AC46-B7FC73202FAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Two identical rectangles are divided into $15$ equal squares.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Shade $\dfrac{3}{5}$ of this rectangle:
+
+%image$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Shade $\dfrac{2}{3}$ of this rectangle:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Which is larger: $\dfrac{3}{5}$ or $\dfrac{2}{3}$
+
+Give a reason for your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac{2}{3}$
+
+</div>
+<div class='working'>
+
+\text{when we take LCM of both fraction we will get}
+$
+\begin{aligned}
+&=\dfrac{3}{5}     &&&&&&&   &=\dfrac{2}{3} \\\\
+&=\dfrac{3\times 3}{5\times3}    &&&&&&&  &=\dfrac{2\times 5}{3 \times 5} \\\\\
+&=\dfrac{9}{15}    &&&&&&&  &=\dfrac{10}{15} \\\\\
+\end{aligned}
+$
+
+So,
+$
+\dfrac{2}{3} > \dfrac{3}{5}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{2}{3}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Arrange these fractions in order from **smallest** to **largest**.
+
+$1 \dfrac{1}{3} \quad \dfrac{2}{3} \quad \dfrac{4}{5} \quad \dfrac{13}{15} \quad \dfrac{3}{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's make the denominator the same for all the numbers, so we can compare them.
+
+
+$
+\begin{aligned}
+1 \dfrac{1}{3} \quad \dfrac{2}{3} \quad \dfrac{4}{5} \quad \dfrac{13}{15} \quad \dfrac{3}{5} \\\\\\\
+\dfrac{4}{3} \quad \dfrac{2}{3} \quad \dfrac{4}{5} \quad \dfrac{13}{15} \quad \dfrac{3}{5} \\\\\\\
+\dfrac{4 \times 5}{3 \times 5} \quad \dfrac{2 \times 5}{3 \times 5} \quad \dfrac{4 \times 3}{5 \times 3} \quad \dfrac{13}{15} \quad \dfrac{3 \times 3}{5 \times 3} \\\\\\\
+\dfrac{20}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \quad \dfrac{9}{15} 
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+\dfrac{9}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \quad \dfrac{20}{15} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{9}{15} \quad \dfrac{10}{15} \quad \dfrac{12}{15} \quad \dfrac{13}{15} \quad \dfrac{20}{15} $
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>60D39524-723B-4DC7-B301-D1FC0BF667B9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{3} - \dfrac{1}{6}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {3} - \dfrac {1} {6} \\\\
+&= \dfrac {2 \times 2} {3 \times 2} - \dfrac {1} {6} \\\\
+&= \dfrac {4} {6} - \dfrac {1} {6} \\\\
+&= \dfrac {4 - 1} {6} \\\\
+&= \dfrac {3} {6} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{5} \times 3$
+
+Write your answer as a mixed number. 
+
+*(You may use the diagrams to help you.)*
+  
+![missing image](/papers/missing_image.svg)
+  
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {5} \times 3 \\\\
+&= \dfrac {2 \times 3} {5} \\\\
+&= \dfrac {6} {5} \\\\
+&= 1 \dfrac {1} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \dfrac {1} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5FA09A55-094D-4CB0-83D9-A30CEC5F4740</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A fraction of each circle has been shaded.
+
+Match the fraction to the correct place on the number line. One has been done for you.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AB57B98E-DD30-4A6A-A1FF-A4B60F3B7406</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+These are called nested squares. What fraction of this shape is shaded in?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>80F59E43-EAF8-4829-9B47-980C2D298D21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac {2} {7}$ of $315$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {7} \text { of } 315 \\\\
+&= \dfrac {2} {7} \times 315 \\\\
+&= \dfrac {2 \times 315} {7}   \\\\
+&= \dfrac {2 \times 45 \times 7} {7}   \\\\
+&= \dfrac {2 \times 45 \times \cancel{7}} {\cancel{7}}   \\\\
+&= 2 \times 45  \\\\
+&= 90
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$90$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2094CB63-4A8B-4A7D-935F-06B130312908</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag of eleven marbles five of them are green, two are yellow and the rest are purple.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the marbles are purple?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the two yellow marbles are both removed, what fraction of the 
+remaining marbles are green?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>18967D95-EFEA-48D8-9267-57C845CCC339</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the shape in this diagram is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade in three quarters of this diagram.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Look at the diagrams below and tick the correct statement.
+
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
+
+![missing table](/papers/missing_table.svg)
+
+
+Shape A has a greater fraction shaded than B.
+
+Shape B has a greater fraction shaded than A.
+
+Both A and B have the same fraction shaded.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0B9CBC4C-0737-4261-AD01-92F2DD154827</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the parallelogram below is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {8} {24} \\\\
+&= \dfrac {8} {8 \times 3} \\\\
+&= \dfrac {\cancel {8}} {\cancel {8} \times 3} \\\\
+&= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B5B49362-C409-4628-B777-B5B39EC20042</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of a minute is $40 \ \text{seconds}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+  
+There are $60 \ \text{seconds}$ in a minute, so
+
+$
+\begin{aligned}
+&= \dfrac{40}{60} \\\\
+&= \dfrac{20 \times 2}{20 \times 3} \\\\
+&= \dfrac{\cancel{20} \times 2}{\cancel{20} \times 3} \\\\
+&= \dfrac{2}{3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{2}{3}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>29315613-031C-43A5-881D-8518DC15DE73</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of this diagram is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D5BB3C02-1F2E-4924-93A5-458B27B8F317</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sweet is in the shape of a cube. It is made up of three layers of equal thickness, as shown in the diagram.
+What fraction of the outside is black?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>FE2AB576-06F8-49D8-AF99-928322211446</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $\dfrac{3}{8}$ of $48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {8} \text{ of } 48 \\\\
+&= \dfrac {3} {8} \times 48 \\\\
+&= \dfrac {3 \times 48} {8} \\\\
+&= \dfrac {3 \times 6 \times 8} {8} \\\\
+&= \dfrac {3 \times 6 \times \cancel{8}} {\cancel{8}} \\\\
+&= 3 \times 6 \\\\
+&= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>2F7A1B11-0659-49F6-BD2C-6F4144FB59D3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage of the circle is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the shape is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade $25 \%$ of the shape.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>9522968F-B7E8-4C32-825B-5E203AB0B7B4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $\dfrac{1}{7}$ of $35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {7} \text{ of } 35 \\\\
+&= \dfrac {1} {7} \times 35 \\\\
+&= \dfrac {35} {7} \\\\
+&= \dfrac { 5 \times 7} {7} \\\\
+&= \dfrac { 5 \times \cancel{7}} {\cancel{7}} \\\\
+&= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $\dfrac{3}{7}$ of $35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \text{ of } 35 \\\\
+&= \dfrac {3} {7} \times 35 \\\\
+&= \dfrac {3 \times 35} {7} \\\\
+&= \dfrac {3 \times 5 \times 7} {7} \\\\
+&= \dfrac {3 \times 5 \times \cancel{7}} {\cancel{7}} \\\\
+&= 3 \times 5  \\\\
+&= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle all the numbers below that are more than $\dfrac{1}{4}$?
+
+$0.2  \quad \dfrac{1}{5}  \quad 0.4  \quad \dfrac{3}{8}  \quad 0.027$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {4} = 0.25$
+
+| Number            |  Decimal          |  $> 0.25$    |
+|:-------:          |:-----------------:|:------------:|
+| $0.2$             | $0.2$             | No           |
+| $\dfrac{1}{5}$    | $0.2$             | No           |
+| $0.4$             | $0.4$             | Yes          |
+| $\dfrac{3}{8}$    | $0.375$           | Yes          |
+| $0.027$           | $0.027$           | No           |
+
+
+Based on the calculation above,
+
+Numbers more than $\dfrac {1} {4} = 0.4, \quad \dfrac {3} {8}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.4, \dfrac {3} {8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>79914FCA-BAC2-4507-8C7D-01EF4B61E0DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of this shape is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade two-fifths of this shape.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7A748D7C-3D23-4AF2-9630-1A0D40C6DB68</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\dfrac{3}{7}$  of $385$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \ \text {of} \ 385 \\\\
+&= \dfrac {3} {7} \times 385 \\\\
+&= \dfrac {3 \times 385} {7} \\\\
+&= \dfrac {3 \times 55 \times 7} {7} \\\\
+&= \dfrac {3 \times 55 \times \cancel {7}} {\cancel {7}} \\\\
+&= 3 \times 55 \\\\
+&= 165
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$165$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E709EA37-048F-4696-A4BE-A209DAEF9AE9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the shape is shaded?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {12} {16} \\\\
+&= \dfrac {3 \times 4} {4 \times 4} \\\\
+&= \dfrac {3 \times \cancel {4}} {4 \times \cancel {4}} \\\\
+&= \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>55EDBB73-0F13-4A5E-B7C4-543D1C506A2B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{5}{8}$ of $48$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{5}{8} \text{ of } 48 \\\\
+&= \dfrac{5}{8} \times 48 \\\\
+&= \dfrac{5 \times 48}{8} \\\\
+&= \dfrac{5 \times 6 \times 8}{8} \\\\
+&= \dfrac{5 \times 6 \times \cancel{8}}{\cancel{8}} \\\\
+&= 5 \times 6  \\\\
+&= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>45A231A8-13FE-4D37-B71A-F07B391EDE00</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{2}{3}$  of $81$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{2}{3} \ \text {of} \ 81 \\\\
+&= \dfrac {2} {3} \times 81 \\\\
+&= \dfrac {2 \times 81} {3} \\\\
+&= \dfrac {2 \times 27 \times 3} {3} \\\\
+&= \dfrac {2 \times 27 \times \cancel {3}} {\cancel {3}} \\\\
+&= 2 \times 27 \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5235BF01-DA75-4C84-A7A7-3B17AAB007EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kate asked some people to tell her their favourite character in the Wizard of Oz.
+
+Here is a pie chart showing her results:
+
+![missing image](/papers/missing_image.svg)
+
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage of the people she asked liked Toto best ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage of the people that liked Toto best} &= \dfrac {2} {8} \times 100 \\\\
+                                                     &= \dfrac {2 \times 100} {8} \\\\
+                                                     &= \dfrac {2 \times 25 \times 4} {2 \times 4} \\\\
+                                                     &= \dfrac {\cancel {2} \times 25 \times \cancel {4}} {\cancel {2} \times \cancel {4}} \\\\
+                                                     &= 25 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$24$ people said that they liked Dorothy best.
+
+How many more people liked Dorothy than the Scarecrow?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of people that liked Dorothy than the Scarecrow} &= 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>334659B0-F886-4B5E-B1FD-FF0FA7CB2959</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out two thirds of $54$. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {3} \ \text{of} \ 54 \\\\
+&= \dfrac {2}{3} \times 54 \\\\
+&= \dfrac {2 \times 54}{3} \\\\
+&= \dfrac {2 \times 18 \times 3} {3} \\\\
+&= \dfrac {2 \times 18 \times \cancel{3}} {\cancel{3}} \\\\
+&= 2 \times 18 \\\\
+&= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>14F26701-F24D-405B-AE41-7F50EFF71BAB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{5}$ of $45$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {3} {5} \ \text {of} \ 45 \\\\
+&=  \dfrac {3} {5} \times 45 \\\\
+&=  \dfrac {3 \times 45} {5} \\\\
+&=  \dfrac {3 \times 9 \times 5} {5} \\\\
+&=  \dfrac {3 \times 9 \times \cancel {5}} {\cancel {5}} \\\\
+&=  3 \times 9 \\\\
+&=  27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>49D8ACB2-95D8-4C74-84A2-9B30BF21E4DB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tpercentage
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade $75\%$ of this regular octagon.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade $\dfrac{5}{8}$ of this regular octagon.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is larger, $75\%$ or $\dfrac{5}{8}$?
+
+Give a reason for your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>EA1B0CA0-D56A-4468-B448-41B64C640240</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{4}$ of $72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \ \text {of} \ 72 \\\\
+&= \dfrac {3} {4} \times 72 \\\\
+&= \dfrac {3 \times 72}{4} \\\\
+&= \dfrac {3 \times 18 \times 4} {4} \\\\
+&= \dfrac {3 \times 18 \times \cancel{4}} {\cancel{4}} \\\\
+&= 3 \times 18 \\\\
+&= 54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>937A6461-7022-4489-B148-36A947FCAD60</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shade $\dfrac{3}{7}$ of the shape below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FF3E37F7-96DD-4E04-B676-7E81C801B314</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out one fifth of $180$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \text {One fifth of} \ 180 \\\\
+&=  \dfrac {1} {5} \times 180 \\\\
+&=  \dfrac {180} {5} \\\\
+&=  \dfrac {36 \times 5} {5} \\\\
+&=  \dfrac {36 \times \cancel {5}} {\cancel {5}} \\\\
+&=  36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out $\dfrac{5}{8}$ of $96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {5} {8} \ \text {of} \ 96 \\\\
+&=  \dfrac {5} {8} \times 96 \\\\
+&=  \dfrac {5 \times 96} {8} \\\\
+&=  \dfrac {5 \times 12 \times 8} {8} \\\\
+&=  \dfrac {5 \times 12 \times \cancel {8}} {\cancel {8}} \\\\
+&=  5 \times 12 \\\\
+&=  60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0DA91A78-9D3B-401D-88F2-BF5050E8FEF5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{8}$ of $72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{8} \times 72 \\\\
+&= \dfrca{3 \times 72}{4} \\\\
+&= \dfrac{3 \times 9 \times 8} {8} \\\\
+&= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
+&= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+</ul>
+</div>

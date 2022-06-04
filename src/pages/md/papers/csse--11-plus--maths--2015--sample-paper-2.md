@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-04 09:00:28
+date: 2022-06-04 12:03:18
 ---
 <div class='paper'>
 <div class='meta'>

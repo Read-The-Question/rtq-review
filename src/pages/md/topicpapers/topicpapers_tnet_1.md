@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -222,6 +222,244 @@ TODOANSWER
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9BF12B81-A11A-4FF1-B440-CD121C18231F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cube is unfolded so that its faces form the shape shown below. When the cube is folded up the numbers on opposite faces add up to 10.
+
+What are the missing numbers? 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4F1A59B3-6091-4F30-BE75-46B2D77DF1E7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are two views of the same cube:
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+Which of the views below show the same cube as in $A$ and $B$?
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+$\text{same} \ \ \boxed{\checkmark}$
+$\text{different} \ \ \boxed{\times}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagrams below show three different views of the same cube. 
+Which letter is on the face opposite $M$?
+
+![missing image](/papers/missing_image.svg)
+
+
+- $I$ 
+- $P$ 
+- $K$ 
+- $U$ 
+- $O$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+After assuming a cube , and pointing side we get that the opposite side of $M$ is $U$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$U$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>127AD8DA-CA4B-4030-BE37-B731348CB883</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cube has a different symbol printed on each face.
+
+The face with a circle is exactly opposite the face with a star.
+
+Circle the diagram below which **cannot** be a net of this cube.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

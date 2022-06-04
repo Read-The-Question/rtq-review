@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -405,6 +405,60 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>0E054B14-2436-4D6D-9E10-3C0CF4470C70</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Robert has $70$ identical cube bricks.
+
+He uses some of his bricks to make this cuboid: 
+
+![missing image](/papers/missing_image.svg)
+
+
+From his remaining bricks, he uses some to make the largest cube that he can.
+
+How many bricks does he use to make the cube?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Bricks used to make cube} &= 70 - 32 \\\\
+                                &= 38
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

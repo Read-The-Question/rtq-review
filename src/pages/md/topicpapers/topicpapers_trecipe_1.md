@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -795,6 +795,162 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
+<p>09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a recipe to make $6$ pancakes.
+
+![missing table](/papers/missing_table.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much of each ingredient is needed to make $18$ pancakes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Ingredient is needed to make $18$ pancakes = Each ingredient is needed to make $6$ pancakes $\times 3$
+
+$
+\begin{aligned}
+\text{The plain flour needed to make 18 pancakes} &= \text{The plain flour used to make 6 Pancakes} \times 3 \\\\
+&= 120 \ \text{gm} \times 3 \\\\
+&=  360 \ \text{gm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The Eggs needed to make 18 pancakes} &= \text{The Eggs used to make 6 Pancakes} \times 3 \\\\
+&= 3 \times 3 \\\\
+&= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{The milk needed to make 18 pancakes} &= \text{The  milk used to make 6 Pancakes} \times 3 \\\\
+&= 210 \ \text{ml} \times 3 \\\\
+&= 630 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$360 \ \text{gm} \ \text{Plain Flour} ,  9 \ \text{Eggs} , 630 \ \text{ml}  \ \text{milk}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much of each ingredient is needed to make $8$ pancakes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{ingredients required to make 8 pancakes} &= \text{ingredients needed to make 6 pancakes} + \text{ingredients needed to make 2 pancakes}  \\\\
+\text{As per the requirement} \\\\
+\text{ingredients required to make 2 pancakes} &= \dfrac{\text{ingredients required to make 6 pancakes}}{3} \\\\
+\text{The quantity of plain flour used to make} \ 2 \text{Pancakes} &= \dfrac{120}{3} \\\\
+&=  \dfrac{3 \times 40 }{3} \\\\
+&=  \dfrac{\cancel3 \times 40 }{\cancel 3} \\\\
+&=  40 \ \text{g} \\\\\\\\
+\text{The number of Eggs needed used to make} \ 2 \text{Pancakes} &= \dfrac{3}{3} \\\\
+&=  \dfrac{3}{3} \\\\
+&= 1 \\\\\\\\
+\text{The amount of milk needed used to make}  \ 2 \text{Pancakes} &= \dfrac{210}{3} \\\\
+&=  \dfrac{3 \times 70 }{3} \\\\
+&=  \dfrac{\cancel 3 \times 70 }{\cancel 3} \\\\
+&= 70 \ \text{ml}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{ingredients required to make 8 pancakes} &= \text{required to make 6 pancakes} + \text{required to make 2 pancakes}  \\\\
+&= \text{The quantity of plain flour needed to make} \ 8 \text{Pancakes} \\\\
+&= 120 \ \text{g} + 40 \ \text{g} \\\\
+&= 160 \ \text{g} \\\\\\\\
+\text{The number of Eggs needed to make} 8 \text{Pancakes} &= 3 + 1 \\\\
+&=  4 \ \text{Eggs} \\\\\\\\
+text{The amount of milk needed  to make} 8 \text{Pancakes} &= 210 \ \text{ml} + 70 \ \text{ml} \\\\
+&= 280 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \text{milk}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
 <p>E79F071C-7363-457A-AB2E-0827A05F9BF1</p>
 </div>
 <div class='topics'>
@@ -1439,6 +1595,206 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BFF5A30A-4A5A-4A25-AA76-D4DAB5685C90</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+trecipe
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jasper is making fairy cakes.   
+
+![missing image](/papers/missing_image.svg)
+
+
+A recipe to make 24 fairy cakes requires the following
+ingredients: 
+
+![missing table](/papers/missing_table.svg)
+
+
+$230 \ \text{grams}$ flour
+
+$230 \ \text{grams}$ butter
+
+$230 \ \text{grams}$ sugar
+
+$4$ eggs
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much flour is needed to make $12$ fairy cakes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Flour required to make 12 fairy cakes} &= \dfrac {230} {2} \\\\
+                                             &= \dfrac {115 \times 2} {2} \\\\
+                                             &= \dfrac {115 \times \cancel {2}} {\cancel {2}} \\\\
+                                             &= 115 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$115 \ \text{grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Jasper decides to make $36$ fairy cakes.
+
+Work out the amount of each ingredient which Jasper needs.
+
+![missing table](/papers/missing_table.svg)
+
+
+$\ \text{grams}$ flour
+
+$\ \text{grams}$ butter
+
+$\ \text{grams}$ sugar
+
+eggs
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Flour required} &= 230 \times \dfrac {3} {2} \\\\
+                      &= \dfrac {230 \times 3} {2} \\\\
+                      &= \dfrac {115 \times 2 \times 3} {2} \\\\
+                      &= \dfrac {115\times \cancel{2} \times 3} {\cancel{2}} \\\\
+                      &= 115 \times 3 \\\\
+                      &= 345 \ \text{grams}
+\end{aligned}
+$
+
+Similarly
+
+Butter required $= 345 \ \text{grams}$
+
+Sugar required $= 345 \ \text{grams}$
+
+$
+\begin{aligned}
+\text{Eggs required}  &= 4 \times \dfrac {3} {2} \\\\
+                      &= \dfrac {4 \times 3} {2} \\\\
+                      &= \dfrac {2 \times 2 \times 3} {2} \\\\
+                      &= \dfrac {2 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+                      &= 2 \times 3 \\\\
+                      &= 6
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$345 \ \text{grams}, \ 345 \ \text{grams} , \ 345 \ \text{grams}, \ 6$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The chocolate icing for $24$ cakes uses $60 \ \text{grams}$ of cocoa 
+powder. Jasper decides to put chocolate icing on only half of his $36$ fairy cakes.
+
+How much cocoa powder does he use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Cocoa powder used} &= 60 \times \dfrac {3} {4} \\\\
+                         &= \dfrac {60 \times 3} {4} \\\\
+                         &= \dfrac {15 \times 4 \times 3} {4} \\\\
+                         &= \dfrac {15 \times \cancel {4} \times 3} {\cancel {4}} \\\\
+                         &= 15 \times 3 \\\\
+                         &= 45 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \ \text{grams}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

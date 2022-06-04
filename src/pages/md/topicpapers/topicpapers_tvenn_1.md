@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -68,6 +68,60 @@ TODOANSWER
 
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9E55FA3D-C475-42CF-92A7-6D72EE9AAEDA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvenn
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Year $6$ class has $30$ pupils. There are $21$ who are right-handed. There are $16$ girls in the class.
+
+Not all the girls are right-handed.
+
+What is the smallest number of girls who are right-handed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:31</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -177,6 +231,60 @@ $23$
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>18366B1F-0D52-4406-9065-0C4E981ECC6E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tvenn
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mongle birds can be either pink or green. Some of them eat insects, but the rest prefer seeds. In a particular flock of Mongle birds, there are 17 green birds in total and 12 birds which eat seeds. 9 of the pink birds eat insects and 2 of the green ones eat seeds. How many birds are there in the flock?
+
+(You can use the table to help you)
+
+|           | Pink  | Green | **Total** |
+|:---------:|-------|-------|-----------|
+|   Seeds   |       |       |           |
+|  Insects  |       |       |           |
+| **Total** |       |       |           |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 + 14 + 19 + 17 \\\\
+&= 36 + 26 \\\\
+&= 62 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

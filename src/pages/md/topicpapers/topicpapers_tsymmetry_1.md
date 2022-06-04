@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tsymmetry-1"
 title: "TopicPaper - Symmetry - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -123,6 +123,120 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
+<p>702E6294-E08B-43C0-BB02-104BBD96CCF8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number of letters in the word PASTE that have line symmetry $i$s 
+
+- $5$
+- $4$
+- $3$
+- $2$
+- $1$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{In the word  ′ PASTE ′  letter  ′ p ′ and  ′ S ′has no line symmetry.} \\\\
+\text{In the word  ′ PASTE ′  letter  ′ A,T,S ′ has  line symmetry.} \\\\
+\therefore 3 \text{number of letters has line symmetry}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>c</p>
+</div>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>B2907727-9EAA-4EAE-B1D3-4715D0CA8813</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many of the six faces of a dice (shown below) have fewer than three lines of symmetry?
+
+![missing image](/papers/missing_image.svg)
+
+
+- $2$
+- $3$
+- $4$
+- $5$
+- $6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
 <p>31CF13C3-E473-4571-A175-50D8AB2E4A75</p>
 </div>
 <div class='topics'>
@@ -216,6 +330,49 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CF538E3C-9256-410E-8CF8-47DD610CDB1F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsymmetry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which of these letters do not look the same when reflected in the mirror line shown below?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {E, \ D, \ Z}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {E, \ D, \ Z}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

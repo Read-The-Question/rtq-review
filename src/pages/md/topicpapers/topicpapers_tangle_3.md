@@ -1,0 +1,1608 @@
+---
+slug: "papers/topicpapers-tangle-3"
+title: "TopicPaper - Angle - 3"
+date: 2022-06-04 12:05:01
+---
+<div class='paper'>
+<div class='meta'>
+<h3>boys</h3>
+<h3>foot</h3>
+<h3>Topic</h3>
+<h3></h3>
+<h3>TODO</h3>
+</div>
+
+# Section A
+<ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>F7B13CED-C215-4AE0-A046-CA11FC93E811</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the value of the angle labelled $x$ in the diagram below. The diagram is NOT drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>92AD100E-4F0C-43B3-8449-31A16D2E0DEA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the value of the angle labelled $x$ in the diagram below. 
+
+The diagram is not drawn to scale.
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E0755DC5-C021-4820-B018-FBD663D724BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The shape is made from a square and an equilateral triangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+Diagram not drawn to scale.
+
+What is the size of the reflex angle marked $p \degree$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One angle of a triangle is $30 \degree$. The second angle is twice the size of the third. What is the largest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the third angle $= a$
+
+As per the question, the second angle $= 2a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 2a + 30     &= 180  \\\\
+3a + 30         &= 180  \\\\
+3a              &= 180 - 30  \\\\
+3a              &= 150  \\\\
+a               &= \dfrac {150} {3}  \\\\
+a               &= \dfrac {50 \times 3} {3}  \\\\
+a               &= \dfrac {50 \times \cancel{3}}{\cancel{3}}   \\\\
+a               &= 50 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now. 
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle} &= 2a  \\\\
+&= 2 \times 50  \\\\
+&= 100  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The formula to work out the sum of the angles inside any shape is 
+
+$\text{Sum of angles} = 180 \degree \times \text{number of sides} - 360 \degree$
+
+For example,
+
+![missing image](/papers/missing_image.svg)
+
+
+$
+\begin{aligned} 
+a + b + c + d + e &= 180 \degree \times 5 - 360 \degree \\
+                  &= 900 \degree - 360 \degree \\
+                  &= 540 \degree
+\end{aligned}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $a$
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+a \degree + 120 \degree + 70 \degree + 60 \degree     &= 180 \degree \times 4 - 360 \degree \\\\
+a + 250                                               &= 720 - 360 \\\\
+a + 250                                               &= 360 \\\\
+a                                                     &= 360 - 250 \\\\
+a                                                     &= 110 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $b$
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+b \degree + b \degree + b \degree + 150 \degree + 120 \degree + 60 \degree     &= 180 \degree \times 6 - 360 \degree \\\\
+3b + 330                                                                       &= 1080 - 360 \\\\
+3b + 330                                                                       &= 720 \\\\
+3b                                                                             &= 720 - 330 \\\\
+3b                                                                             &= 360 \\\\
+b                                                                              &= \dfrac {390} {3} \\\\
+b                                                                              &= \dfrac {130 \times 3} {3} \\\\
+b                                                                              &= \dfrac {130 \times \cancel{3}} {\cancel{3}} \\\\
+b                                                                              &= 130 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$130 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $c$
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
+x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree        &= 180 \degree \times 8 - 360 \degree \\\\
+8x                                          &= 1440 - 360 \\\\
+8x                                          &= 1080 \\\\
+x                                           &= \dfrac {1080} {8} \\\\
+x                                           &= \dfrac {135 \times 8} {8} \\\\
+x                                           &= \dfrac {135 \times \cancel{8}} {\cancel{8}} \\\\
+x                                           &= 135 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+x \degree + c \degree        &= 180 \degree \\\\
+135 + c                      &= 180 \\\\
+c                            &= 180 - 135 \\\\
+c                            &= 45 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, two angles are the same and the third angle is THREE times bigger than either of the others.  What is the size of the biggest angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two equal angles $= a$
+
+As per the question, the third angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 3a      &= 180 \degree \\\\
+5a              &= 180 \\\\
+a               &= \dfrac {180} {5} \\\\
+a               &= \dfrac {36 \times 5} {5} \\\\
+a               &= \dfrac {36 \times \cancel{5}} {\cancel{5}} \\\\
+a               &= 36 \degree
+\end {aligned}
+$
+
+We know the size of the first angle now.
+
+However, we need to find the largest angle which is the third angle.
+
+$
+\begin {aligned}
+\text {Largest angle}   &= 3a \\\\
+                        &= 3 \times 36 \\\\
+                        &= 108 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2013--arithmetic-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what is the size of the third angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 39 + 81   &= 180 \\\\
+a + 120       &= 180 \\\\
+a             &= 180 - 120 \\\\
+a             &= 60 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A second triangle is isosceles, and one of its angles is $48\degree$. What are the TWO possible pairs of values for the other two angles?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+As the triangle is an isosceles triangle, there are two possiblities:
+
+The two missing angles are equal.
+
+Assuming this, we get
+
+Let the two missing angles $= a$.
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin {aligned}
+a + a + 48 \degree   &= 180 \degree \\\\
+2a + 48              &= 180 \\\\
+2a                   &= 180 - 48 \\\\
+2a                   &= 132 \\\\
+a                    &= \dfrac {132} {2} \\\\
+a                    &= 66 \degree
+\end {aligned}
+$
+
+The two angles are $66 \degree , 66 \degree$.
+
+Or, One of the missing angles is $= 48 \degree$.
+
+Let the third angle $= b$.
+
+$
+\begin {aligned}
+48 + 48 + b    &= 180 \degree \\\\
+96 + b         &= 180 \\\\
+b              &= 180 - 96 \\\\
+b              &= 84 \degree
+\end {aligned}
+$
+
+The two angles are $48 \degree, 84 \degree$. 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$66 \degree, 66 \degree$
+
+</div>
+<div class='answer'>
+
+$48 \degree, 84 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a third triangle ABC, angle $B$ is two times the size of angle $A$ and angle $C$ is $40\degree$ more than angle $A$. 
+What is the size of angle $A$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+A + B + C        &= 180 \degree \\\\
+A + 2A + 40 + A  &= 180 \\\\
+4A + 40          &= 180 \\\\
+4A               &= 180 - 40 \\\\
+A                &= \dfrac {160} {4} \\\\
+A                &= \dfrac {4 \times 40} {4} \\\\
+A                &= \dfrac {\cancel {4} \times 40} {\cancel {4} } \\\\
+A                &= 40 \degree
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One of the angles in a triangle is $40 \degree$. One of the remaining two angles is three times larger than the other angle. What is the largest angle in the triangle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller angle $= a$
+
+As per the question, the second angle $= 3a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 40 \degree     &= 180 \degree \\\\
+4a + 40                 &= 180  \\\\
+4a                      &= 180 - 40  \\\\
+4a                      &= 140  \\\\
+a                       &= \dfrac {140} {4}  \\\\
+a                       &= \dfrac {35 \times 4} {4}  \\\\
+a                       &= \dfrac {35 \times \cancel{4}}{\cancel{4}}   \\\\
+a                       &= 35 \degree
+\end{aligned}
+$
+
+We know the size of the third angle now.
+However, we need to find the largest angle which is the second angle.
+
+$
+\begin{aligned}
+\text{Largest angle}         &= 3a  \\\\
+                             &= 3 \times 35  \\\\
+                             &= 105  \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, the largest angle is two times the middle angle and the middle angle is three times the smallest angle. What is the size of the **largest** angle?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smallest angle $= a$
+
+As per the question, 
+
+Middle angle $= 3a$
+
+Largest angle $= 6a$
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 3a + 6a     &= 180 \\\\
+10a             &= 180 \\\\
+a               &= \dfrac {180} {10} \\\\
+a               &= \dfrac {18\cancel{0}} {1\cancel{0}} \\\\
+a               &= 18 \degree
+\end{aligned}
+$
+
+We know the size of the smallest angle now.
+
+However, we need to find the largest angle.
+
+$
+\begin{aligned}
+\text{Largest angle}    &= 6a \\\\
+                        &= 6 \times 18 \\\\
+                        &= 108 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$108 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows a triangle [not drawn to scale]. 
+
+Calculate each of the angles marked $x$ and $y$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+x + 63 \degree          &= 180 \degree  \\\\
+x                       &= 180 - 63 \\\\
+x                       &= 117 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$. 
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + 63 \degree + 88 \degree         &= 180 \degree \\\\
+y + 151                             &= 180 \\\\
+y                                   &= 180 - 151 \\\\
+y                                   &= 29 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$x = 117 \degree, \ \ y = 29 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>93995941-DF79-4306-A16E-1B3F36315184</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the size of the angle marked $χ$ in the diagram below? [diagram not drawn to scale]
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other angles in the triangle $=a, b$
+
+As we know, the sum of angles in a straight line is $180 \degree$.
+
+$
+\begin{aligned}
+a               &= 180 - 110 \\\\
+a              &= 70 \degree
+\end{aligned}
+$
+
+$
+\begin{aligned}
+b               &= 180 - 100 \\\\
+b              &= 80 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles in a triangle is $180 \degree$.
+
+$
+\begin{aligned}
+χ + a + b           &= 180 \\\\
+χ                   &= 180 - a - b \\\\
+χ                   &= 180 - 70 - 80 \\\\
+χ                   &= 180 - 150 \\\\
+χ                   &= 30 \degree \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7DEE085F-FD27-4FBE-B961-7848EFAF05B5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of $χ$ in the diagram below
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the other angle in the triangle $=a$
+
+As we know, the sum of angles in a straight line is $180 \degree$. So,
+
+$
+\begin{aligned}
+a + 110         &= 180 \\\\
+a               &= 180 - 110 \\\\
+a              &= 70 \degree
+\end{aligned}
+$
+
+As we know, the external angle is equal to its sum of opposite angles in a triangle. So,
+
+$
+\begin{aligned}
+χ                   &= 60 + 50 \\\\
+χ                   &= 110 \degree \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$110 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>D5EA307D-A637-466A-B45F-001616286B7A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angle in the triangle shown below:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Missing angle $+ \ 82 + 71 = 180$
+
+$
+\begin{aligned}
+&= 180 - 82 - 71 \\\\
+&= 180 - 153 \\\\
+&= 27 \degree
+\end{aligned}
+$
+
+Missing angle = $27 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>30F14B44-C370-42DC-ACB1-B6C24CB565FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the triangle below measure the side AB and the angle A
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>17360B83-7524-4915-9C57-EA134B592244</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram below the straight lines ABG and DEF are parallel. Lines CB and EG are also parallel. Find the angles marked 𝑎, 𝑏, 𝑐 in the diagram.
+
+*The diagram is not drawn accurately*.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Since $DEF \parallel ABG$ and EG is the transversal,
+
+$\angle BGE$ and $\angle GEF$ are alternate interior angles. So,
+$
+\begin{aligned}
+\angle GEF          &= \angle BGE \\\\
+a                   &= 28 \degree \\\\
+\end{aligned} 
+$
+
+Since $CB \parallel EG$ and ABG is the transversal,
+
+$\angle ABC$ and $\angle BGE$ are corresponding angles. So,
+$
+\begin{aligned}
+\angle ABC          &= \angle BGE \\\\
+b                   &= 28 \degree \\\\
+\end{aligned}
+$
+
+Since $DEF \parallel ABG$ and DB is the transversal,
+
+$\angle ABD and \angle BDF$ are alternate interior angles. So,
+
+$
+\begin{aligned}
+\angle ABD          &= \angle BDF \\\\
+b + c               &= 50 \\\\
+28 + c              &= 50 \\\\
+c                   &= 50 - 28 \\\\
+c                   &= 22 \degree
+\end{aligned} 
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>C3637EB3-06AC-44BA-B12B-9EC4A9565D76</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram below shows parts of two identical $n$ -sided regular polygons *ABCD...and ABPQ*...with the side AB common to both polygons. The sides DC and QP , when extended, meet at O with angle $C\hat{O}P = x$ .
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $n = 5$ , find $x$ .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What happens to the diagram when $n = 8$ ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $x =  120\degree$, find $n$ .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $x =  264\degree$, find $n$ .
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is an eqilateral triangle inside a rectangle.
+
+Calculate the value of angle $x$.
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+All angles of an equilateral triangle $= 60 \degree$
+
+All angles of a rectangle $= 90  \degree$
+
+As per the figure,
+
+$
+\begin{aligned}
+x + 60 + 14     &= 90 \\\\
+x + 74          &= 90 \\\\
+x               &= 90 - 74 \\\\
+x              &= 16 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7DCDB0A0-BAE3-4B88-AE9A-61CD1E101BC6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The triangle in the diagram below is isosceles. 
+
+Calculate angle **$x$**
+$\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:$
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a triangle, the exterior angle is always equal to the sum of the interior opposite angles.
+
+We also know that, in an isosceles triangle the two angles opposite to the equal side are congruent to each other.
+
+Exterior angle $= 134 \degree$
+
+Two angles of isosceles triangle $= x$
+
+$
+\begin{aligned}
+x + x                   &= 134 \\\\
+2x                      &= 134 \\\\
+x                       &= \dfrac{134} {2} \\\\
+x                       &= \dfrac{2 \times 67} {2} \\\\
+x                       &= \dfrac{\cancel {2} \times 67} {\cancel {2}} \\\\
+x                       &= 67 \degree
+\end{aligned}
+$
+
+The angle $x = 67 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$67 \degree$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+</ul>
+</div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1803,6 +1803,84 @@ $\pounds 54$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>B8231480-932C-4FB3-9B63-7AD293068E36</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprofit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is a sale at the local mobile phone shop. 
+Alex wants to buy a new phone which originally cost $\pounds 150$. 
+The prices of all the phones have been reduced by $20 \%$.
+
+What amount will Alex have to pay for his new phone?
+
+- $135.00$
+- $\pounds 149.70$
+- $\pounds 147.00$
+- $\pounds 130.00$
+- $\pounds 120.00$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Let's calculate discount price
+
+$
+\begin{aligned} 
+\text{Discount price}   &=  \text{Cost of new mobile} \times \text{Discount Percentage} \\\\
+                        &=  150 \times 20\% \\\\
+                        &=  150  \times  \dfrac{20}{100} \\\\
+                        &=  \dfrac{150 \times 20}{100} \\\\
+                        &=  \dfrac{15 \cancel{0} \times 2 \cancel{0}}{1 \cancel{0} \cancel{0}} \\\\
+                        &=  15 \times 2 \\\\
+                        &=  \pounds 30
+\end{aligned}
+$
+
+Let's calculate amount Alex have to pay
+
+$
+\begin{aligned} 
+\text{Amount Alex have to pay}     &= \text{Cost of new mobile} - \text{Discount price} \\\\
+                                   &= \pounds 150 - \pounds 30  \\\\
+                                   &= \pounds 120.00
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+$\pounds 120.00$ 
+
+</div>
+</div>
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

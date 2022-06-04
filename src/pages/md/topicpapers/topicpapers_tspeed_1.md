@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1504,6 +1504,124 @@ $6 \ \text{km}$
 </ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C080FD51-AF57-4871-AB17-719829BD7FA9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Julie and Sarika are doing a $24 \ \text{km}$ sponsored walk. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Julie can walk at $6 \ \text{km}$ per hour. How long will she take to finish the walk? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Time} = \dfrac {\text{Distance}} {\text{Speed}}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken by Julie}                          &= \dfrac {24 \ \text{km}} {6 \ \text{km per hour}} \\\\
+                                                    &= \dfrac {4 \times 6} {6} \\\\
+                                                    &= \dfrac {4 \times \cancel{6}} {\cancel{6}} \\\\
+                                                    &= 4 \ \text{hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text{hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sarika can walk at $4 \ \text{km}$ per hour. How far will she still have left to walk when Julie finishes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know,  Julie took $4$ hours to finish walking $24$ km.
+
+$
+\begin{aligned}
+\text{Reamining distance}                           &= \text{Total distance} - \text{Distance covered} \\\\
+                                                    &= 24 \ \text{km} - (\text{Speed} \times \text{Time}) \\\\
+                                                    &= 24 \ \text{km} - (4 \ \text{km per hour} \times 4 \ \text{hours}) \\\\
+                                                    &= 24 - 16 \\\\
+                                                    &= 8 \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{km}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:27</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

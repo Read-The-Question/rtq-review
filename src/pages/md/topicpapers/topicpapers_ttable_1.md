@@ -1,7 +1,7 @@
 ---
 slug: "papers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-06-04 09:11:20
+date: 2022-06-04 12:05:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -752,6 +752,118 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>A6F59E08-1DB7-4505-8204-919D1441BAF9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use each number from $1$ to $8$ once in the boxes to make all the calculations correct:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>E3A71500-A129-43F9-A384-7EBFC4A98DA7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete the table below by placing ticks in all the correct boxes.
+
+
+
+|        | **Square  Number**| **Cube  Number** | **Prime  Number** | **Factor  of 24**     | **Multiple  of 8**     |
+|----    |----------------    |--------------    |---------------    |---------------    |----------------    |
+| $4$      |                    |                  |                   |                   |                    |
+| $5$      |                    |                  |                   |                   |                    |
+| $8$      |                    |                  |                   |                   |                    |
+| $16$     |                    |                  |                   |                   |                    |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2214,6 +2326,62 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3CE16AAB-248E-44B3-ABA8-D8A3D4C8BEB1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In magic squares, the numbers in every row, column and the two diagonals add up to the same number. What is the **$\underline{sum}$** of the **$\underline{missing}$** numbers in the magic square below?
+
+
+| $4$             | $8$             | $9$             |
+|:---------:    |:---------:    |:---------:    |
+|                 | $7$             |                 |
+|                 |                 |                 |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

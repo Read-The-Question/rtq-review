@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tfraction-1"
+slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-04 12:05:01
+date: 2022-06-04 13:04:27
 ---
 <div class='paper'>
 <div class='meta'>

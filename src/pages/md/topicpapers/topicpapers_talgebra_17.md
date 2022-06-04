@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-talgebra-17"
+slug: "topicpapers/topicpapers-talgebra-17"
 title: "TopicPaper - Algebra - 17"
-date: 2022-06-04 12:05:01
+date: 2022-06-04 13:04:27
 ---
 <div class='paper'>
 <div class='meta'>

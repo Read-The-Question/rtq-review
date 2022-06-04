@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tmoney-3"
+slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-06-04 12:05:01
+date: 2022-06-04 13:04:27
 ---
 <div class='paper'>
 <div class='meta'>

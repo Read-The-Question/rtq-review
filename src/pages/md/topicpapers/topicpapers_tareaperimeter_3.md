@@ -1,7 +1,7 @@
 ---
-slug: "papers/topicpapers-tareaperimeter-3"
+slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "TopicPaper - Areaperimeter - 3"
-date: 2022-06-04 12:05:01
+date: 2022-06-04 13:04:27
 ---
 <div class='paper'>
 <div class='meta'>

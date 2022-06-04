@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-b"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper B"
-date: 2022-06-04 12:03:18
+date: 2022-06-04 13:02:52
 ---
 <div class='paper'>
 <div class='meta'>

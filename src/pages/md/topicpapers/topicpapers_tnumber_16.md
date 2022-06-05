@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-05 12:44:19
+date: 2022-06-05 14:04:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1595,7 +1595,7 @@ $63,401$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>5F6EBC17-59BB-4241-954E-B94AC553427C</p>
 </div>
@@ -1639,7 +1639,7 @@ $70, 5$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-06-05 12:44:19
+date: 2022-06-05 14:04:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1974,7 +1974,7 @@ $51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>88D05932-EA04-4EA0-8EB7-90462AA68E6E</p>
 </div>
@@ -2020,7 +2020,7 @@ $6$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

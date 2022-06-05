@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-05 12:42:38
+date: 2022-06-05 14:02:22
 ---
 <div class='paper'>
 <div class='meta'>

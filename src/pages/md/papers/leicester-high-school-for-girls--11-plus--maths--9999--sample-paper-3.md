@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-05 14:54:23
+date: 2022-06-05 17:30:36
 ---
 <div class='paper'>
 <div class='meta'>

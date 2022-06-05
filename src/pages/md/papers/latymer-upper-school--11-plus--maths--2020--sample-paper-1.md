@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-05 14:54:23
+date: 2022-06-05 17:30:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -628,7 +628,7 @@ $2{:}11 \ \text {pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E070C2A1-64F2-4FA6-942A-1E5DAEED8E25</p>
 </div>
@@ -684,7 +684,7 @@ $\dfrac {1} {15}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

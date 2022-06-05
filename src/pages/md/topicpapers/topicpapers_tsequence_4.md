@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-4"
 title: "TopicPaper - Sequence - 4"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2908,7 +2908,7 @@ $43, 37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
 </div>
@@ -3060,7 +3060,7 @@ $24, 3$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

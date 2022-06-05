@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,99 +14,6 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>18DB7E66-9E11-40BF-A69B-1B5CDE9C342B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $\dfrac{3}{4}$ of $96$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {4} \ \text {of} \ 96 \\\\
-&= \dfrac {3} {4} \times 96 \\\\
-&= \dfrac {3 \times 96} {4} \\\\
-&= \dfrac {3 \times 24 \times 4} {4} \\\\
-&= \dfrac {3 \times 24 \times \cancel{4}} {\cancel{4}} \\\\
-&= 3 \times 24 \\\\
-&= 72
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$72$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4CEC48DA-9BE7-4FD2-A909-5FABF34F36B2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What fraction of the shape below is shaded?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac{5} {8}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{5} {8}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
@@ -2912,6 +2819,102 @@ $\dfrac{3} {5}$
 
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>3A278338-B661-4BB9-886A-D1185D1179A5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $\frac {1} {3} - \frac {1} {6}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} - \dfrac {1} {6} \\\\
+&= \dfrac {1 \times 2} {3 \times 2} - \dfrac {1} {6} \\\\
+&= \dfrac {2} {6} - \dfrac {1} {6} \\\\
+&= \dfrac {2 - 1} {6} \\\\
+&= \dfrac {1} {6}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {6}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>B7E09540-6E26-4093-AD58-4A234B10122F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+Simplify $\dfrac {16} {20}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {16} {20} \\\\
+&= \dfrac {4 \times 4} {4 \times 5} \\\\
+&= \dfrac {\cancel {4} \times 4} {\cancel {4} \times 5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

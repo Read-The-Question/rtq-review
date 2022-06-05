@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 14:54:23
+date: 2022-06-05 17:30:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -903,7 +903,7 @@ $\pounds 1.33$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_blocked question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -948,7 +948,7 @@ $377$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-6"
 title: "TopicPaper - Simpleword - 6"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,50 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>7E1A5997-9BA0-4BE7-99CB-ACF5F977BCD0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number between $30$ and $40$ is both divisible by $3$ and $4$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The LCM of $3$ and $4$ is $12$. 
+
+Now let's find a number that is a multiple of the LCM and is between $30$ and $40$.
+
+$12 \times 3 = 36$ is between $30$ and $40$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -748,7 +748,7 @@ $0.092$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
 </div>
@@ -804,7 +804,7 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

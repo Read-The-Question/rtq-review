@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,109 +14,6 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>055B29BD-B79C-4165-ABA0-871C50A3CE48</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $\dfrac{5}{7}$ of $112$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {5} {7} \text { of } 112 \\\\
-&= \dfrac {5} {7} \times 112 \\\\
-&= \dfrac {5 \times 112} {7} \\\\
-&= \dfrac {5 \times 16 \times 7} {7} \\\\
-&= \dfrac {5 \times 16 \times \cancel {7}} {\cancel{7}} \\\\
-&= 16 \times 5 \\\\\
-&= 80
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
-
-Note: the sides of the triangles are the same length as the sides of the hexagons.
-
-Find the fraction of the diagram that is shaded. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
-&= \dfrac {7} {12 + 7} \\\\
-&= \dfrac {7} {19}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {19}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3543,6 +3440,99 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>18DB7E66-9E11-40BF-A69B-1B5CDE9C342B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{4}$ of $96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \ \text {of} \ 96 \\\\
+&= \dfrac {3} {4} \times 96 \\\\
+&= \dfrac {3 \times 96} {4} \\\\
+&= \dfrac {3 \times 24 \times 4} {4} \\\\
+&= \dfrac {3 \times 24 \times \cancel{4}} {\cancel{4}} \\\\
+&= 3 \times 24 \\\\
+&= 72
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$72$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4CEC48DA-9BE7-4FD2-A909-5FABF34F36B2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of the shape below is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac{5} {8}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{5} {8}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

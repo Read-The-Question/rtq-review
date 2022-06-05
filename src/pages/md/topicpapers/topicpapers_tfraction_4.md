@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,167 +14,6 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {2} {5} \text{ of } \pounds 2.50$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
-&= \dfrac {2} {5} \times 2.50 \\\\
-&= \dfrac {2 \times 2.50} {5} \\\\
-&= \dfrac {5} {5} \\\\
-&= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {3} {7} \text{ of }  35$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {7} \text { of } \pounds{35} \\\\
-&= \dfrac {3} {7} \times 35 \\\\
-&= \dfrac {3 \times 35} {7} \\\\
-&= \dfrac {3 \times 7 \times 5} {7} \\\\
-&= \dfrac {3 \times \cancel{7} \times 5} {\cancel{7}} \\\\
-&= 5 \times 3 \\\\
-&= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>237A2594-E539-4227-8976-A91F96C1B86B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate $\dfrac {3} {4} \times \dfrac {5} {7}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {4} \times \dfrac {5} {7} \\\\
-&= \dfrac {3 \times 5} {4 \times 7} \\\\
-&= \dfrac {15} {28}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {15} {28}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3960,6 +3799,109 @@ $18$
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>055B29BD-B79C-4165-ABA0-871C50A3CE48</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{5}{7}$ of $112$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {7} \text { of } 112 \\\\
+&= \dfrac {5} {7} \times 112 \\\\
+&= \dfrac {5 \times 112} {7} \\\\
+&= \dfrac {5 \times 16 \times 7} {7} \\\\
+&= \dfrac {5 \times 16 \times \cancel {7}} {\cancel{7}} \\\\
+&= 16 \times 5 \\\\\
+&= 80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$80$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+This diagram is made up of $7$ identical regular hexagons and $12$ identical equilateral triangles.
+
+Note: the sides of the triangles are the same length as the sides of the hexagons.
+
+Find the fraction of the diagram that is shaded. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {\text {Shaded portion} } {\text {Total portion} } \\\\
+&= \dfrac {7} {12 + 7} \\\\
+&= \dfrac {7} {19}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {19}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

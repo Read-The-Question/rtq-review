@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,111 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $27$ students in Miss Calculation’s class. Miss Calculation buys $4$ boxes of chocolates. There are $36$ chocolates in each box. She shares the chocolates out equally among her $27$ students. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many chocolates will each student receive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Each student will recieve}  &= \dfrac {36 \times 4} {27} \\\\
+                                   &= \dfrac {144} {27} \\\\
+                                   &= 5 \dfrac {9} {27}
+\end{aligned}
+$
+
+Each student will recieve $5$ chocolates.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many chocolates will be left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+By the above solution $9$ chococlates will be left over.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -2632,50 +2737,6 @@ $0{:}1$
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>7E1A5997-9BA0-4BE7-99CB-ACF5F977BCD0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number between $30$ and $40$ is both divisible by $3$ and $4$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The LCM of $3$ and $4$ is $12$. 
-
-Now let's find a number that is a multiple of the LCM and is between $30$ and $40$.
-
-$12 \times 3 = 36$ is between $30$ and $40$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

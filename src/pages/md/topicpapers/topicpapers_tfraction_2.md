@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2353,7 +2353,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1D00ADE6-0A22-42BA-A37B-296F856E8471</p>
 </div>
@@ -2459,7 +2459,7 @@ $0.35$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -2516,7 +2516,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>548C2E25-993D-4C02-82E6-2AA805905EE3</p>
 </div>
@@ -2556,7 +2556,7 @@ $\dfrac {27} {100}$
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -2753,64 +2753,6 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
-<p>9AA2E90D-7CEB-4445-8395-AC73877C9536</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $80\%$ of $\pounds535$
-
-A: $\pounds107$
-
-B: $\pounds372$
-
-C: $\pounds400$
-
-D: $\pounds418$
-
-E: $\pounds428$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {80} {100} \times 535 \\\\
-&= \dfrac {80 \times 535} {100} \\\\
-&= \dfrac {42800} {100} \\\\
-&= \dfrac {428 \cancel{00}} {1\cancel{00}} \\\\
-&=  \pounds 428
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 428$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
 <p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
 </div>
 <div class='topics'>
@@ -2870,7 +2812,7 @@ $99$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>E070C2A1-64F2-4FA6-942A-1E5DAEED8E25</p>
 </div>
@@ -2926,7 +2868,7 @@ $\dfrac {1} {15}$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3466,7 +3408,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>020A23C1-073B-42B7-991B-6538910EC0CF</p>
 </div>
@@ -3516,12 +3458,12 @@ $\dfrac {7} {16}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C9A69D3A-7B6D-43DE-9AB9-5AE02CE0F1EF</p>
 </div>
@@ -3633,7 +3575,7 @@ $\dfrac {1} {2}$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3733,6 +3675,56 @@ $\dfrac {3} {4}$
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which fraction is half way between $\dfrac{3}{7}$ and $\dfrac{4}{7}$?
+
+Give your answer in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {3} {7} + \dfrac {4} {7}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {7}} {2} \\\\
+&= \dfrac {7} {7 \times 2} \\\\
+&= \dfrac {\cancel {7}} {\cancel {7} \times 2} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:23</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

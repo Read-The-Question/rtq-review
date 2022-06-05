@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdate-1"
 title: "TopicPaper - Date - 1"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -442,7 +442,7 @@ $\text {Wednesday}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_blocked question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -487,7 +487,7 @@ $377$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_blocked</p>
 </div>
 </div>
 </li>

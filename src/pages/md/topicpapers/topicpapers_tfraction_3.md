@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,56 +14,6 @@ date: 2022-06-05 14:56:01
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which fraction is half way between $\dfrac{3}{7}$ and $\dfrac{4}{7}$?
-
-Give your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {3} {7} + \dfrac {4} {7}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {7}} {2} \\\\
-&= \dfrac {7} {7 \times 2} \\\\
-&= \dfrac {\cancel {7}} {\cancel {7} \times 2} \\\\
-&= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -595,7 +545,7 @@ $\dfrac{19}{10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
 </div>
@@ -637,7 +587,19 @@ Calculate the following:
 $\dfrac{1}{7} \times \dfrac{4}{3}$ 
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$
+\begin{aligned}
+&= \dfrac {1} {7} \times \dfrac {4} {3} \\\\
+&= \dfrac {1 \times 4} {7 \times 3} \\\\
+&= \dfrac {4} {21}
+\end{aligned}
+$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -760,7 +722,7 @@ $\dfrac {35} {33}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1588,65 +1550,6 @@ $23$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>1A84B2C9-4A73-42D5-8C02-943A1F327DCC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-What fraction of this flag is shaded?How many more rectangles need to be shaded to fill $\dfrac{2}{3}$ of the flag?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {\text{Total boxes}}  \\\\
-                                            &= \dfrac {5} {6 \times 5} \\\\
-                                            &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
-                                            &= \dfrac {1} {6} \\\\
-\text{Rectangles required}                  &= \dfrac {2} {3} \ \text{of} \ 30 - 5 \\\\
-                                            &= \dfrac {2 \times 30} {3} - 5 \\\\
-                                            &= \dfrac {60} {3} - 5 \\\\
-                                            &= \dfrac {20 \times 3} {3} - 5 \\\\
-                                            &= \dfrac {20 \times \cancel{3}} {\cancel{3}} - 5 \\\\
-                                            &= 20 - 5 \\\\
-                                            &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{Fraction of flag shaded} = \dfrac {1} {6}$
-
-$\text{Required rectangle to be shaded} = 15$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3524,6 +3427,167 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {2} {5} \text{ of } \pounds 2.50$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {5} \text { of } \pounds{2.50} \\\\
+&= \dfrac {2} {5} \times 2.50 \\\\
+&= \dfrac {2 \times 2.50} {5} \\\\
+&= \dfrac {5} {5} \\\\
+&= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {3} {7} \text{ of }  35$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \text { of } \pounds{35} \\\\
+&= \dfrac {3} {7} \times 35 \\\\
+&= \dfrac {3 \times 35} {7} \\\\
+&= \dfrac {3 \times 7 \times 5} {7} \\\\
+&= \dfrac {3 \times \cancel{7} \times 5} {\cancel{7}} \\\\
+&= 5 \times 3 \\\\
+&= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>237A2594-E539-4227-8976-A91F96C1B86B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Evaluate $\dfrac {3} {4} \times \dfrac {5} {7}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {4} \times \dfrac {5} {7} \\\\
+&= \dfrac {3 \times 5} {4 \times 7} \\\\
+&= \dfrac {15} {28}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {15} {28}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

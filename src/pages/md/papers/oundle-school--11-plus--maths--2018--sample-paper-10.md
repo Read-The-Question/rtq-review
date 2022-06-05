@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-10"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 10"
-date: 2022-06-05 14:54:23
+date: 2022-06-05 17:30:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -964,7 +964,7 @@ $2 \times 3 \times 5 \times 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>31BD2044-3056-47C9-8E05-88DECA154BCC</p>
 </div>
@@ -1006,7 +1006,19 @@ Calculate the following:
 $\dfrac{1}{7} \times \dfrac{4}{3}$ 
 
 </div>
+<div class='workings'>
+<div class='working'>
 
+$
+\begin{aligned}
+&= \dfrac {1} {7} \times \dfrac {4} {3} \\\\
+&= \dfrac {1 \times 4} {7 \times 3} \\\\
+&= \dfrac {4} {21}
+\end{aligned}
+$
+
+</div>
+</div>
 <div class='answers'>
 <div class='answer'>
 
@@ -1129,7 +1141,7 @@ $\dfrac {35} {33}$
 <p>oundle-school--11-plus--maths--2018--sample-paper-10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

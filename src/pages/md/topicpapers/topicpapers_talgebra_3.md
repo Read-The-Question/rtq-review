@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-3"
 title: "TopicPaper - Algebra - 3"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -671,7 +671,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
 </div>
@@ -732,7 +732,7 @@ $39$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

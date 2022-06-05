@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-05 14:54:23
+date: 2022-06-05 17:30:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -919,7 +919,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tfraction
+tpercentage
 </li>
 </ul>
 </div>

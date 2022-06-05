@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-05 14:56:01
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>2ED209A4-4A2F-4B4F-975D-685105DF2587</p>
 </div>
@@ -80,7 +80,7 @@ $11, 12 \dfrac{1}{2}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

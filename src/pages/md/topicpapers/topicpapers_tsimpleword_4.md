@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-06-05 14:56:01
+date: 2022-06-05 17:32:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -378,6 +378,65 @@ $5570$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1A84B2C9-4A73-42D5-8C02-943A1F327DCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+What fraction of this flag is shaded?How many more rectangles need to be shaded to fill $\dfrac{2}{3}$ of the flag?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of flag shaded}              &= \dfrac {\text{Count of Shaded boxes}} {\text{Total boxes}}  \\\\
+                                            &= \dfrac {5} {6 \times 5} \\\\
+                                            &= \dfrac {\cancel{5}} {6 \times \cancel{5}} \\\\
+                                            &= \dfrac {1} {6} \\\\
+\text{Rectangles required}                  &= \dfrac {2} {3} \ \text{of} \ 30 - 5 \\\\
+                                            &= \dfrac {2 \times 30} {3} - 5 \\\\
+                                            &= \dfrac {60} {3} - 5 \\\\
+                                            &= \dfrac {20 \times 3} {3} - 5 \\\\
+                                            &= \dfrac {20 \times \cancel{3}} {\cancel{3}} - 5 \\\\
+                                            &= 20 - 5 \\\\
+                                            &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Fraction of flag shaded} = \dfrac {1} {6}$
+
+$\text{Required rectangle to be shaded} = 15$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3342,111 +3401,6 @@ $68$
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>8BD8C6A9-6A7F-4A9C-95F8-A5F6238FE933</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $27$ students in Miss Calculation’s class. Miss Calculation buys $4$ boxes of chocolates. There are $36$ chocolates in each box. She shares the chocolates out equally among her $27$ students. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many chocolates will each student receive?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Each student will recieve}  &= \dfrac {36 \times 4} {27} \\\\
-                                   &= \dfrac {144} {27} \\\\
-                                   &= 5 \dfrac {9} {27}
-\end{aligned}
-$
-
-Each student will recieve $5$ chocolates.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many chocolates will be left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-By the above solution $9$ chococlates will be left over.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

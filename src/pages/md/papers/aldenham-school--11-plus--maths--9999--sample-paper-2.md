@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1692,7 +1692,35 @@ $-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+5)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}   
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
+-8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 7 + 5 \\\\
+                                &= 12 \\\\
+\text{Second missing number}       &= 12 + 5 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $5$. Hence, the sequence would be:
@@ -1748,7 +1776,35 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-8)}} 
+&&  \footnotesize{\maroonC
+{(-8)}}  
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}   
+&&  \footnotesize{\maroonC
+{(-8)}}  \\
+61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 53 - 8 \\\\
+                                &= 45 \\\\
+\text{Second missing number}       &= 37 - 8 \\\\
+                                &= 29
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
@@ -1804,7 +1860,35 @@ $240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}} 
+&&  \footnotesize{\maroonC
+{(\div 2)}}  
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}   
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 120 \div 2 \\\\
+                                &= 60 \\\\
+\text{Second missing number}       &= 15 \div 2 \\\\
+                                &= 7.5
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -292,7 +292,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $-6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-6)} } 
+&&  \footnotesize {\maroonC
+ {(-6)} }  
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }  \\
+98,  &&  92,  &&  86,  &&   80,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 80 - 6 \\\\
+                                  &= 74 \\\\
+\text{Second missing number}      &= 74 - 6 \\\\
+                                  &= 68
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-6$. Hence, the sequence would be:
@@ -351,7 +379,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+1)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+6)} }  \\
+1,  &&  2,  &&  4,  &&   7,  &&   11  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 11 + 5 \\\\
+                                  &= 16 \\\\
+\text{Second missing number}      &= 16 + 6 \\\\
+                                  &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

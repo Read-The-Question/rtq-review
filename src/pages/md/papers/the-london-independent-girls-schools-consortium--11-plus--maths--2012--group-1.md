@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,7 +60,7 @@ $9134$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>2BA9B8DF-A971-4697-A7FF-EFAA12385B1E</p>
 </div>
@@ -103,7 +103,7 @@ $8760$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -409,7 +409,7 @@ $1.006$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>55EDBB73-0F13-4A5E-B7C4-543D1C506A2B</p>
 </div>
@@ -454,7 +454,7 @@ $30$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -485,7 +485,31 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $0.2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.2)}} 
+&&  \footnotesize{\maroonC
+{(+0.2)}}  
+&&  \footnotesize{\maroonC
+{(+0.2)}}   
+&&  \footnotesize{\maroonC
+{(+0.2)}}  \\
+\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}      &= 20.0 - 0.2 \\\\
+                        &= 19.8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.2$. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -107,7 +107,7 @@ $3087$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>E404FC05-74EB-4BA5-8AA5-F7BB56EC041E</p>
 </div>
@@ -149,7 +149,7 @@ $4571$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -434,7 +434,29 @@ $45  \quad 53 \quad \boxed{\phantom{55}}  \quad 69$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $8$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+8)} } 
+&&  \footnotesize {\maroonC
+ {(+8)} }  
+&&  \footnotesize {\maroonC
+ {(+8)} } \\
+45,  &&    53,  &&   \ldots,  &&   69
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 53 + 8 \\\\
+                       &= 61
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $8$. Hence, the sequence would be:
@@ -477,7 +499,7 @@ $61$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>334659B0-F886-4B5E-B1FD-FF0FA7CB2959</p>
 </div>
@@ -522,7 +544,7 @@ $36$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1148,7 +1170,7 @@ $-7 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>C179DA31-EC27-44EF-BADC-28D2F433E9BA</p>
 </div>
@@ -1261,7 +1283,7 @@ $1 \text {st} \ \text {November} \ 1998$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

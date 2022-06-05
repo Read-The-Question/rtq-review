@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-04 22:55:11
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>BCFC8528-F790-40C9-A217-CE925D2A3259</p>
 </div>
@@ -56,7 +56,7 @@ $7392$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -195,7 +195,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>18DB7E66-9E11-40BF-A69B-1B5CDE9C342B</p>
 </div>
@@ -240,7 +240,7 @@ $72$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -266,7 +266,31 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}
+&&  \footnotesize{\maroonC
+{(-7)}}  \\
+83,  &&   76,  &&   69,  &&   62,  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next missing number}  &= 62 - 7 \\\\
+                            &= 55
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -629,7 +653,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>4CEC48DA-9BE7-4FD2-A909-5FABF34F36B2</p>
 </div>
@@ -667,7 +691,7 @@ $\dfrac{5} {8}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

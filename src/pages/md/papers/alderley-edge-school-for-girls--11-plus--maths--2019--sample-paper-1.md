@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -422,7 +422,37 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3 + 5 \\\\
+                                  &= 8 \\\\
+\text {Second missing number}     &= 5 + 8 \\\\
+                                  &= 13
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
@@ -1396,7 +1426,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>6EA572FE-FB00-44DD-A787-BAF1F99D3A04</p>
 </div>
@@ -1449,7 +1479,7 @@ $-16$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1505,7 +1535,7 @@ $349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>E050D127-B790-44E2-8C2E-2E52B8429BCE</p>
 </div>
@@ -1540,7 +1570,7 @@ $8521$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

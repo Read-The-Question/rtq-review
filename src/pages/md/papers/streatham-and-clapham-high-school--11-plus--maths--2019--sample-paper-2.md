@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -641,7 +641,7 @@ $28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>ACCD452C-167D-4F04-A496-755F5523D582</p>
 </div>
@@ -697,7 +697,7 @@ $52.55$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -2254,7 +2254,38 @@ Which of these is not part of the sequence?
 
 As per the question,
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+12)}}
+&&  \footnotesize{\maroonC
+{(+24)}}  
+&&  \footnotesize{\maroonC
+{(+48)}}  \\
+1,  &&    2,  &&  \ldots,  &&   \ldots,  &&   \ldots   && \ldots   &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First  number}       &= 3 \\\\
+\text{Second  number}      &= 6 \\\\
+\text{third  number}       &= 12 \\\\
+\text{fourth  number}      &= 24 \\\\
+\text{fifth  number}       &= 48 \\\\
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -442,7 +442,31 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+94,  &&    \ldots,  &&  80,  &&   73, && 66
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}        &= 94 - 7 \\\\
+                             &= 87
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:

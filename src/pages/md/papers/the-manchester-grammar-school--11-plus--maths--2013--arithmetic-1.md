@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1048,7 +1048,33 @@ In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three d
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is increasing by 1 more than the difference between the previous numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(+1)}} 
+&&  \footnotesize{\maroonC{(+2)}}  
+&&  \footnotesize{\maroonC{(+3)}}   
+&&  \footnotesize{\maroonC{(+4)}}  \\
+2,  &&    3,  &&    5,  &&   8,  &&   12
+\end{matrix}
+$
+
+Or it can also written as 
+
+$2 + (1+2+3+4) =12$
+
+So,
+
+$2 + (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9) \\
+= 2 + 45 = 47$
+
+$47 + (10 + 11 + 12 + 13 + 14) = 45 + 60  = 107$
+
+The first three digist number in the sequence will be $107$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by 1 more than the difference between the previous numbers. Hence, the sequence would be:

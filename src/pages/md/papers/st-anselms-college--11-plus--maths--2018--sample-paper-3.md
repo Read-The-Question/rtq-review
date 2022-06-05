@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -958,7 +958,35 @@ $1 \,\,\, 7 \,\,\,  13 \,\,\,  20 \,\,\,   27$     ...     ...
 <div class='working'>
 
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{ \red{ (+6) } } 
+&&  \footnotesize{ \red{ (+6) } }  
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }   
+&&  \footnotesize{ \red{ (+6) } }  \\
+1,  &&    7,  &&  13,  &&   20,  &&   27  && \ldots && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 27 + 6 \\\\
+                              &= 33
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 33 + 6 \\\\
+                              &= 39
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $6$. Hence, the sequence would be:

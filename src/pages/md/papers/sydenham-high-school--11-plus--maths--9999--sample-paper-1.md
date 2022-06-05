@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -274,7 +274,28 @@ $15, \quad 21, \quad 27, \quad 33, \quad 39, \quad \boxed{\phantom{39}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $\times{+6}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }
+&&  \footnotesize { \red { (+6) }  \\
+15,  &&    21,  &&  27,  &&   33,  &&    39  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number}   &= 39 + 6 \\\\
+                         &= 45
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\times{+6}$. Hence, the sequence would be:

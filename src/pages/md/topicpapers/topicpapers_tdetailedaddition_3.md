@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-3"
 title: "TopicPaper - Detailedaddition - 3"
-date: 2022-06-04 22:56:45
+date: 2022-06-05 10:47:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -418,7 +418,7 @@ $1.746$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>BCFC8528-F790-40C9-A217-CE925D2A3259</p>
 </div>
@@ -461,7 +461,7 @@ $7392$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -560,7 +560,7 @@ $561$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>1F0A2433-D525-48CE-81FF-096EB10509BF</p>
 </div>
@@ -602,7 +602,7 @@ $732$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

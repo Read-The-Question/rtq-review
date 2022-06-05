@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -258,7 +258,33 @@ $7, \quad 9, \quad 11, \quad 13, \quad 15,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+2)} } 
+&&  \footnotesize {\maroonC
+ {(+2)} }  
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} }   
+&&  \footnotesize {\maroonC
+ {(+2)} } \\
+7,  &&    9,  &&  11,  &&   13,  &&   15  &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 15 + 2 \\\\
+                       &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -312,7 +338,31 @@ $-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $-4$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-4)} } 
+&&  \footnotesize {\maroonC
+ {(-4)} }  
+&&  \footnotesize {\maroonC
+ {(-4)} }   
+&&  \footnotesize {\maroonC
+ {(-4)} } \\
+-1,  &&    -5,  &&  -9,  &&   -13,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= -13 - 4 \\\\
+                       &= -17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-4$. Hence, the sequence would be:
@@ -364,7 +414,31 @@ $1, \quad 8, \quad 27, \quad 64,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+\footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(2 ^ 3)} } 
+&&  \footnotesize {\maroonC
+ {(3 ^ 3)} }  
+&&  \footnotesize {\maroonC
+ {(4 ^ 3)} }   
+&&  \footnotesize {\maroonC
+ {(5 ^ 3)} } \\
+1,  &&    8,  &&  27,  &&   64,   &&   \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Missing number} &= 5 ^ 3 \\\\
+                       &= 125
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

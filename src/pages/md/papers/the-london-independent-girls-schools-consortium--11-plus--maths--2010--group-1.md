@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,7 +67,7 @@ $11502$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>FF7A0514-3250-4D1B-A9AC-ED6F5A811E07</p>
 </div>
@@ -116,7 +116,7 @@ $2709$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -276,7 +276,7 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>FE2AB576-06F8-49D8-AF99-928322211446</p>
 </div>
@@ -321,7 +321,7 @@ $18$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -371,7 +371,31 @@ $5.5, \quad  5.8, \quad  6.1, \quad  6.4, \quad  \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}} 
+&&  \footnotesize{\maroonC
+{(+0.3)}}  
+&&  \footnotesize{\maroonC
+{(+0.3)}}   
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 6.4 + 0.3 \\\\
+                        &= 6.7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
@@ -423,7 +447,31 @@ $3, \quad  6, \quad  12, \quad  24, \quad  \text{\textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}} 
+&&  \footnotesize{\maroonC
+{(\times 2)}}  
+&&  \footnotesize{\maroonC
+{(\times 2)}}   
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}       &= 24 \times 2 \\\\
+                        &= 48
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:

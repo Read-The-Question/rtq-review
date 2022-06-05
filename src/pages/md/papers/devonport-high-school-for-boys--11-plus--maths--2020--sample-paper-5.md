@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -572,7 +572,31 @@ $47, 40, 33, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-7)} } 
+&&  \footnotesize {\maroonC
+ {(-7)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-7)} }  \\
+47,  &&    40,  &&  33,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Next number}                 &= 26 - 7 \\\\
+                                   &= 19
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:

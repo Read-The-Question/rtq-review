@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -789,7 +789,33 @@ $-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+-2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 26 + 7 \\\\
+                        &= 33
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -843,7 +869,33 @@ $43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-6)}} 
+&&  \footnotesize{\maroonC
+{(-6)}}  
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}   
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 43 - 6 \\\\
+                        &= 37
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $6$. Hence, the sequence would be:
@@ -897,7 +949,33 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(3)}} 
+&&  \footnotesize{\maroonC
+{(5)}}  
+&&  \footnotesize{\maroonC
+{(7)}}   
+&&  \footnotesize{\maroonC
+{(9)}}   
+&&  \footnotesize{\maroonC
+{(11)}}  \\
+2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 17 + 9 \\\\
+                        &= 26
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:

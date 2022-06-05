@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1772,7 +1772,37 @@ $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \qua
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}   
+&&  \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+3)}}  
+&&  \footnotesize{\maroonC
+{(+3)}}  \\
+7,  &&    10,  &&  \ldots,  &&   16, &&    19,  &&  \ldots,  && 25
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 10 + 3 \\\\
+                                &= 13 \\\\
+\text{Second missing number}       &= 19 + 3 \\\\
+                                &= 22
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -1830,7 +1860,37 @@ $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}
+&&  \footnotesize{\maroonC
+{(\div 2)}}  \\
+192,  &&    96,  &&  48,  &&  \ldots,  &&   12, &&   6,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 48 \div 2 \\\\
+                                &= 24 \\\\
+\text{Second missing number}       &= 6 \div 2 \\\\
+                                &= 3
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:

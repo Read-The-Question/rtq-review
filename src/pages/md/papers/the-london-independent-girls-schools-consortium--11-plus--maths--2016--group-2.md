@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -275,7 +275,35 @@ $5, 11, 23, 47, \boxed{\phantom{11}}, \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+6)} }
+&&  \footnotesize {\maroonC
+ {(+12)} }
+&&  \footnotesize {\maroonC
+ {(+24)} }
+&&  \footnotesize {\maroonC
+ {(+48)} }
+&&  \footnotesize {\maroonC
+ {(+96)} }  \\
+5,  &&   11,  &&  23,  &&   47, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First number}          &= 47 + 48 \\\\
+                             &= 95 \\\\
+\text{Second number}         &= 95 + 96 \\\\
+                             &= 191
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next number is calculated by multiplying $2$ to the difference. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -497,7 +497,35 @@ $5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}} 
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}   
+&&  \footnotesize{\maroonC
+{(1 \dfrac{1}{2})}}  \\
+5,  && 6\dfrac{1}{2}, && 8, && 9\dfrac{1}{2}, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9\dfrac{1}{2} + 1 \dfrac{1}{2} \\\\
+                                  &= 11 \\\\
+\text{Second missing number}      &= 11 + 1 \dfrac{1}{2} \\\\
+                                  &= 12 \dfrac{1}{2}
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:

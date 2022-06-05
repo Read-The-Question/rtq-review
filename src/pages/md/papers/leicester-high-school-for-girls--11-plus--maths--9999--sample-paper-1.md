@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2674,7 +2674,35 @@ $7, 14, 21, 28,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $7$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+7)} } 
+&&  \footnotesize {\maroonC
+ {(+7)} }  
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }   
+&&  \footnotesize {\maroonC
+ {(+7)} }  \\
+7,  &&    14,  &&  21,  &&   28,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 28 + 7 \\\\
+                                  &= 35 \\\\
+\text{Second missing number}      &= 35 + 7 \\\\
+                                  &= 42
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -2730,7 +2758,35 @@ $3, 6, 12, 24,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 2)} } 
+&&  \footnotesize {\maroonC
+ {(\times 2)} }  
+&&  \footnotesize {\maroonC
+ {(\times 2)} }   
+&&  \footnotesize {\maroonC
+ {(\times 2)} }   
+&&  \footnotesize {\maroonC
+ {(\times 2)} }  \\
+3,  &&    6,  &&  12,  &&   24,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 24 \times 2 \\\\
+                                  &= 48 \\\\
+\text{Second missing number}      &= 48 \times 2 \\\\
+                                  &= 96
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -2786,7 +2842,33 @@ $50, 41, 33, 26,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-9)} } 
+&&  \footnotesize {\maroonC
+ {(-8)} }  
+&&  \footnotesize {\maroonC
+ {(-7)} }   
+&&  \footnotesize {\maroonC
+ {(-6)} }   
+&&  \footnotesize {\maroonC
+ {(-5)} }  \\
+50,  &&    41,  &&  33,  &&   26,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 26 - 6 \\\\
+                                  &= 20 \\\\
+\text{Second missing number}      &= 20 - 5 \\\\
+                                  &= 15
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

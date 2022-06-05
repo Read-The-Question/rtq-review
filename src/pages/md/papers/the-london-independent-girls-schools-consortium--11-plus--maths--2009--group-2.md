@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -395,7 +395,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $+9$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+9)} } 
+&&  \footnotesize {\maroonC
+ {(+9)} }  
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} }   
+&&  \footnotesize {\maroonC
+ {(+9)} } \\
+15,  &&  24,  &&  33,  &&  42,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 42 + 9 \\\\
+                                  &= 51 \\\\
+\text{Second missing number}      &= 51 + 9 \\\\
+                                  &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $+9$. Hence, the sequence would be:
@@ -455,7 +483,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $+0.3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+0.3)} } 
+&&  \footnotesize {\maroonC
+ {(+0.3)} }  
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} }   
+&&  \footnotesize {\maroonC
+ {(+0.3)} } \\
+2.2,  &&  2.5,  &&  2.8,  &&  3.1,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 3.1 + 0.3 \\\\
+                                  &= 3.4 \\\\
+\text{Second missing number}      &= 3.4 + 0.3 \\\\
+                                  &= 3.7
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $+0.3$. Hence, the sequence would be:
@@ -515,7 +571,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(\times 3)} } 
+&&  \footnotesize {\maroonC
+ {(\times 3)} }  
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} }   
+&&  \footnotesize {\maroonC
+ {(\times 3)} } \\
+\dfrac {1} {3},  &&  1,  &&  3,  &&  9,  &&  \ldots,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 9 \times 3 \\\\
+                                  &= 27 \\\\
+\text{Second missing number}      &= 27 \times 3 \\\\
+                                  &= 81
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1028,7 +1028,35 @@ $16 \quad 13 \quad 10 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}
+&&  \footnotesize{\maroonC
+{(-3)}}  \\
+16,  &&    13,  &&  10,  &&   7,  && \ldots,  && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First Missing number}     &= 7 - 3 \\\\
+                                &= 4 \\\\
+\text{Second Missing number}    &= 4 - 3 \\\\
+                                &= 1
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -1084,7 +1112,33 @@ $1 \quad 4 \quad 9 \quad 16 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+3)} }
+&&  \footnotesize {\maroonC
+ {(+5)} }
+&&  \footnotesize {\maroonC
+ {(+7)} }
+&&  \footnotesize {\maroonC
+ {(+9)} }
+&&  \footnotesize {\maroonC
+ {(+11)} } \\
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 16 + 9 \\\\
+                                  &= 25 \\\\
+\text{Second missing number}      &= 25 + 11 \\\\
+                                  &= 36
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

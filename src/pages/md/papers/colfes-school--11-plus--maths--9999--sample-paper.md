@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -802,7 +802,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+2)}}  \\
+7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 13 + 2 \\\\
+                                &= 15 \\\\
+\text{Second missing number}    &= 15 + 2 \\\\
+                                &= 17
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -862,7 +890,35 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $-9$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}
+&&  \footnotesize{\maroonC
+{(-9)}}  \\
+105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
+\end {matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 78 - 9 \\\\
+                                &= 69 \\\\
+\text{Second missing number}    &= 69 - 9 \\\\
+                                &= 60
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-9$. Hence, the sequence would be:

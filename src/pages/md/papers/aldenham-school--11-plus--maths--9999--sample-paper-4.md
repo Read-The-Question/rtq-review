@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -973,7 +973,7 @@ $0.22$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
 </div>
@@ -1099,7 +1099,7 @@ $12 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1208,7 +1208,35 @@ $-3 \quad 1 \quad 5 \quad 9 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}  \\
+-3,  &&    1,  &&  5,  &&   9,  &&   \ldots, && \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 9 + 4 \\\\
+                                   &= 13 \\\\
+\text {Second missing number}      &= 13 + 4 \\\\
+                                   &= 17
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -1264,7 +1292,35 @@ $32 \quad 26 \quad  \ldots \quad  14 \quad  \ldots \quad 2$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-6)}}
+&&  \footnotesize{\maroonC
+{(-6)}}
+&&  \footnotesize{\maroonC
+{(-6)}}
+&&  \footnotesize{\maroonC
+{(-6)}}
+&&  \footnotesize{\maroonC
+{(-6)}}  \\
+32,  &&    26,  && \ldots, &&  14,  &&   \ldots,  && 2
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}        &= 26 - 6 \\\\
+                                    &= 20 \\\\
+\text {Second missing number}       &= 14 - 6 \\\\
+                                    &= 8
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $6$. Hence, the sequence would be:
@@ -1320,7 +1376,35 @@ $3 \quad 6 \quad 12 \quad \ldots \quad 48 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+3,  &&    6,  &&  12,   &&   \ldots, && 48, &&  \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 12 \times 2 \\\\
+                                   &= 24 \\\\
+\text {Second missing number}      &= 48 \times 2 \\\\
+                                   &= 96
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -1376,7 +1460,37 @@ $1 \quad 4 \quad \ldots \quad 16 \quad 25 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+It is a sequence of square numbers.
+
+$
+\begin {matrix}
+$   \footnotesize{\maroonC
+{(1^2)}}
+&&  \footnotesize{\maroonC
+{(2^2)}}
+&&  \footnotesize{\maroonC
+{(3^2)}}
+&&  \footnotesize{\maroonC
+{(4^2)}}
+&&  \footnotesize{\maroonC
+{(5^2)}}  \\
+&&  \footnotesize{\maroonC
+{(6^2)}}  \\
+1, && 4, && \ldots, && 16, && 25, && \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text {First missing number}       &= 3^2 \\\\
+                                   &= 9 \\\\
+\text {Second missing number}      &= 6^2 \\\\
+                                   &= 36
+\end {aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 It is a sequence of square numbers.

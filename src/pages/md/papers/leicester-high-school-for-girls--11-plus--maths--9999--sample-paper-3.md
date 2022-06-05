@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-04 22:55:11
+date: 2022-06-05 10:46:02
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1930,7 +1930,35 @@ $3, 6, 9, 12,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+3)} } 
+&&  \footnotesize {\maroonC
+ {(+3)} }  
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+3)} }   
+&&  \footnotesize {\maroonC
+ {(+3)} } \\
+3,  &&    6,  &&  9,  &&   12,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 12 + 3 \\\\
+                                  &= 15 \\\\
+\text{Second missing number}      &= 15 + 3 \\\\
+                                  &= 18
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -1986,7 +2014,35 @@ $2, 7, 12, 17,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+The difference between the terms is $5$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+5)} } 
+&&  \footnotesize {\maroonC
+ {(+5)} }  
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} }   
+&&  \footnotesize {\maroonC
+ {(+5)} } \\
+2,  &&    7,  &&  12,  &&   17,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 17 + 5 \\\\
+                                  &= 22 \\\\
+\text{Second missing number}      &= 22 + 5 \\\\
+                                  &= 27
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $5$. Hence, the sequence would be:
@@ -2042,7 +2098,35 @@ $1, 4, 9, 16,$ ____, _____
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+\footnotesize {\maroonC
+ {(1 ^ 2)} } 
+&&  \footnotesize {\maroonC
+ {(2 ^ 2)} }  
+&&  \footnotesize {\maroonC
+ {(3 ^ 2)} }   
+&&  \footnotesize {\maroonC
+ {(4 ^ 2)} }   
+&&  \footnotesize {\maroonC
+ {(5 ^ 2)} }
+&&  \footnotesize {\maroonC
+ {(6 ^ 2)} } \\ 
+1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 ^ 2 \\\\
+                                  &= 25 \\\\
+\text{Second missing number}      &= 6 ^ 2 \\\\
+                                  &= 36
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $
@@ -2098,7 +2182,35 @@ $29, 23, 18, 14, 11,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+Let
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-6)} } 
+&&  \footnotesize {\maroonC
+ {(-5)} }  
+&&  \footnotesize {\maroonC
+ {(-4)} }   
+&&  \footnotesize {\maroonC
+ {(-3)} }   
+&&  \footnotesize {\maroonC
+ {(-2)} }
+&&  \footnotesize {\maroonC
+ {(-1)} } \\
+29,  &&    23,  &&  18,  &&   14,  &&   11  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 11 - 2 \\\\
+                                  &= 9 \\\\
+\text{Second missing number}      &= 9 - 1 \\\\
+                                  &= 8
+\end{aligned}
+$
+s find the difference between the consecutive terms of the sequence.
 
 
 $

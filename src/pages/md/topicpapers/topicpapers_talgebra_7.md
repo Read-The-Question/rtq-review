@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,178 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>BBCD2C22-8E36-4026-91D7-7A505D12588B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$\text{Two}$ girls were on a sponsored walk from Pangbourne to Goring.
+
+One of them gave up $5 \ \text{km}$ after she had passed the half-way check-point.
+
+She was then $10 \ \text{km}$ from Goring.
+
+How far apart are the towns?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BB2373FF-1D5B-413C-8160-D9BBA4F4E551</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mrs Jones prints books.
+
+![missing image](/papers/missing_image.svg)
+
+
+Jon pays $\bold{\pounds 4.35}$ for his book, **including the cover**.
+
+How many **pages** are in his book?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of pages $=a$
+
+It is really important to use the right units in calculations and convert where required.
+. Let's convert pounds in pence.
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a + 75 \text{p} &= \pounds 4.35 \\\\
+3 \times a + 75 \text{p} &= 4.35 \times 100 \text{p} \\\\
+3 \times a + 75          &= 435 \\\\
+3 \times a               &= 435 - 75 \\\\
+3 \times a               &= 360 \\\\
+a                        &= \dfrac {360} {3} \\\\
+a                        &= \dfrac {120 \times 3} {3} \\\\
+a                        &= \dfrac {120 \times \cancel {3}} {\cancel {3}} \\\\
+a                        &= 120
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$120$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>103E8B78-355F-4A7A-8DC9-7F421908B991</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy ate $100$ cookies in $\text{five}$ days. Each day he ate $6$ more then the day before. How many cookies did he eat on the first day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4639,232 +4811,6 @@ $4.5$
 </ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations, giving your answers as whole numbers or fractions. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x -7 = 5x + 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John picked strawberries every day for $7$ days. Each day after the first day, he picked $5$ more strawberries than the day before. In total he picked $175$ strawberries. How many strawberries did John pick on the last day? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
-x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
-(x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
-7x + 105                                                                &= 175 \\\\
-7x                                                                      &= 175 - 105 \\\\
-7x                                                                      &= 70 \\\\
-x                                                                       &= 10 \\\\
-x + 30                                                                  &= 10 + 30 \\\\
-                                                                        &= 40
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>33950D66-0394-4747-B53F-98D8262D12EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A school has $995$ pupils. If there are $7$ less girls than boys, how many boys are there in the school?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of boys $= b$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{No. of boys}                                              &= \text{Total pupil} - \text{No. of girls} \\\\
-b                                                               &= 995 - (b - 7) \\\\
-b                                                               &= 995 - b + 7 \\\\
-b + b                                                           &= 995 + 7 \\\\
-2b                                                              & = 1002 \\\\
-b                                                               &= \dfrac {1002} {2} \\\\
-b                                                               &= \dfrac {2 \times 501} {2} \\\\
-b                                                               &= \dfrac {\cancel{2} \times 501} {\cancel{2}} \\\\
-b                                                               &= 501
-\end{aligned}
-$
-
-Number of boys in the school $= 501$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$501$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

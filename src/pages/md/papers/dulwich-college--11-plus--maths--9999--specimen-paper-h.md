@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-h"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper H"
-date: 2022-06-05 11:48:39
+date: 2022-06-05 12:42:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -208,7 +208,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>91007B07-FD0E-4150-A5EA-C49F1D222022</p>
 </div>
@@ -253,7 +253,7 @@ $630$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

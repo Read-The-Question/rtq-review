@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 11:48:39
+date: 2022-06-05 12:42:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1415,7 +1415,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>62EBBCE2-9848-414A-BC40-2347F24A0383</p>
 </div>
@@ -1459,7 +1459,7 @@ $14$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

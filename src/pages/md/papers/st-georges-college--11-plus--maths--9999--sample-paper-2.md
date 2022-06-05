@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-05 11:48:39
+date: 2022-06-05 12:42:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -694,7 +694,7 @@ $\pounds1.52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
 </div>
@@ -814,7 +814,7 @@ $51$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

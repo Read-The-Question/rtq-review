@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 11:48:39
+date: 2022-06-05 12:42:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -292,7 +292,7 @@ $1.1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>DE45D210-6CFF-44A8-8BF2-A7AB019EE549</p>
 </div>
@@ -344,12 +344,12 @@ $\dfrac{1}{10}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3F78446A-189F-4A34-981D-45191F1D3768</p>
 </div>
@@ -398,7 +398,7 @@ $\dfrac{1} {4}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1132,7 +1132,7 @@ $48,63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>72C59585-EC33-41D5-9631-E7F5A7E0158B</p>
 </div>
@@ -1185,7 +1185,7 @@ $4 \dfrac{47}{60}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

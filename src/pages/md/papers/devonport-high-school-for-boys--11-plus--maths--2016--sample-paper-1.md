@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-05 11:48:39
+date: 2022-06-05 12:42:38
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2060,7 +2060,7 @@ $45 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C625F0D2-40A1-40A7-8F67-17E21612BD81</p>
 </div>
@@ -2102,7 +2102,7 @@ $\dfrac {4}{5}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

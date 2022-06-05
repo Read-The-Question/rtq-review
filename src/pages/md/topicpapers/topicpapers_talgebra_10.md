@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,284 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A7490F93-7479-4839-A126-AA134B1AEB90</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I  think of a  number   multiply it by  **3**  and   then  subtract **8** . If the   answer   is  **-5**    ,  what  number   did   I  start with? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the  number be $ = a$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times a - 8    &= - 5 \\\\
+3 \times a        &= 8 - 5 \\\\
+3 \times a        &= 3 \\\\
+a                 &= \dfrac {3} {3} \\\\
+a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
+a                 &= 1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An approximate method   of deciding how   much  sleep a  young person   needs is to subtract their  age   from **33** and divide   by **2**.   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How   much  sleep does  an eleven   year  old   need?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+&= \dfrac {33 - 11} {2} \\\\
+&= \dfrac {22} {2} \\\\
+&= 11 \ \text {hours}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11 \ \text {hours}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How   old   is a  person   who   needs 5  hours sleep?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the age of that person be $=x$
+
+$
+\begin{aligned}
+\dfrac {33 - x} {2} = 5 \\\\
+            33 - x  = 5 \times 2 \\\\
+            33 - x  = 10 \\\\
+                 x  = 23 \text {year}
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$23 \text {year}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How   old   is the   person   who   needs no sleep at all?  (If   the   formula  is correct!)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$33$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Does  it make  sense to use   the   formula  for   older people?  Give  a  reason   for   your  answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>301495E4-984D-4E5B-B022-507BD60D3235</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nine  bus   stops are   equally  spaced   along a  bus   route.   The   distance from  the   first to the   third is **600**  metres.  How   far   is it from  the   first to the   last? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+According to question ,
+
+Distance between first and third bus $600 \text {metres}$
+
+Distance between first and second bus will be $300 \text {metres}$
+
+So, distance between first and last bus will be ,
+
+$
+\begin{aligned}
+&= 300 \times 9 \\\\
+&= 1800 \text {metres}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1800 \text {metres}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
@@ -3401,182 +3679,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6F7C552E-E005-44B5-8C86-47CAB7CF711F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A shop sells bananas and pears. 
-
-Max buys $1$ banana and $2$ pears. He paid $94 \text{p}$. 
-
-Emily buys $1$ banana and $1$ pear. She paid $62 \text{p}$. 
-
-How much does $1$ banana cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the cost of banana $= a \text{p}$
-
-As per the question,
-
-Cost of pear $= 62p - a$
-
-$
-\begin{aligned}
-a + 2(62 - a)       &= 94 \\\\
-a + 124 - 2a        &= 94 \\\\
-124 - 94            &= 2a -a \\\\
-30                  &= a \\\\
-a                   &= 30 \text{p}
-\end{aligned}
-$
-
-The cost of banana $= 30 \text{p}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \text{p}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>BB2EEC2A-FFEA-4BE1-89E7-4509E48E88A8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Benjamin walks dogs to earn some money. The formula below can be used to work out his pay.
-
-![missing image](/papers/missing_image.svg)
-
-
-Benjamin worked all day on Monday. He walked $13$ dogs before lunch and $15$ dogs afterwards.
-
-Work out Benjamin's pay on Monday.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Benjamin pay on monday}       &= \pounds 12 + \pounds 1.5 \times (13+12) \\\\
-                                    &= \pounds 12 + \pounds 1.5 \times 25 \\\\
-                                    &= \pounds 12 + \pounds 37.5 \\\\
-\text{Benjamin pay on monday}       &= \pounds 49.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 49.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are a number of coins on a table. One quarter of the coins show heads.
-
-If I turn over two coins, then one third show heads. How many coins are there altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of coins $= c$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
-2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
-2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
-2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
-2                       &= \dfrac{4c - 3c}{12} \\\\
-2                       &= \dfrac{c}{12} \\\\
-\dfrac{c}{12}           &= 2 \\\\
-c                       &= 2 \times 12 \\\\
-c                       &= 24 \ \text{coins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24 \ \text{coins}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:0</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

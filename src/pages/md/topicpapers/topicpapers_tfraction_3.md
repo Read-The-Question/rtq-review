@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,225 +14,6 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>C9A69D3A-7B6D-43DE-9AB9-5AE02CE0F1EF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate, giving your answer as simply as possible
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{5}{12} + \dfrac{4}{12}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {5} {12} + \dfrac {4} {12} \\\\
-&= \dfrac {5 + 4} {12} \\\\
-&= \dfrac {9} {12} \\\\
-&= \dfrac {3 \times 3} {3 \times 4} \\\\
-&= \dfrac {\cancel {3} \times 3} {\cancel {3} \times 4} \\\\
-&= \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{6} + \dfrac{1}{3}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {6} + \dfrac {1} {3} \\\\
-&= \dfrac {1} {6} + \dfrac {1 \times 2} {3 \times 2} \\\\
-&= \dfrac {1} {6} + \dfrac {2} {6} \\\\
-&= \dfrac {1 + 2} {6} \\\\
-&= \dfrac {3} {6} \\\\
-&= \dfrac {3} {2 \times 3} \\\\
-&= \dfrac {\cancel {3}} {2 \times \cancel{3}} \\\\
-&= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5797CE1A-0696-49CB-A444-FE9B9FFE110D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Complete the table below, giving fractions in their lowest terms.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} \times 2 \ \dfrac {1} {4} \\\\
-&= \dfrac {1} {3} \times \dfrac {9} {4} \\\\
-&= \dfrac {9} {3 \times 4} \\\\
-&= \dfrac {3 \times 3} {3 \times 4} \\\\
-&= \dfrac {\cancel 3 \times 3} {\cancel 3 \times 4} \\\\
-&= \dfrac {3} {4}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3529,6 +3310,220 @@ $\dfrac {7} {1000}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1AC37420-ED76-46DB-8EA0-B4C20BC0B176</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{7}\times\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \times \dfrac {1} {2} \\\\
+&= \dfrac {3 \times 1} {7 \times 2} \\\\
+&= \dfrac {3} {14}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {14}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{7}\div\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
+&= \dfrac {3} {7} \times \dfrac {2} {1} \\\\
+&= \dfrac {3 \times 2} {7 \times 1} \\\\
+&= \dfrac {6} {7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {6} {7}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>90552CD9-4926-45A0-94A8-264B18306EE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $4\dfrac{1}{4}-2\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 4 \dfrac {1} {4} - 2 \dfrac {1} {2} \\\\
+&= \dfrac {17} {4} - \dfrac {5} {2} \\\\
+&= \dfrac {17} {4} - \dfrac {5 \times 2} {2 \times 2} \\\\
+&= \dfrac {17} {4} - \dfrac {10} {4} \\\\
+&= \dfrac {17 - 10} {4} \\\\
+&= \dfrac {7} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>00594CC4-DB7B-458D-945E-CC2A6F291884</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of $2.4 \ \text{litres}$ is $400 \ \text{ml}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

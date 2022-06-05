@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,342 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tim, David and Alison are given some money by their grandfather. Tim gets twice as much as David and three times as much as Alison. If they get $\pounds 49.50$ in total, how much do they each get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the money Tim received $= a$.
+
+According to the question,
+
+Money David recieved $= \dfrac {a} {2}$.
+
+Money Alison recieved $= \dfrac {a} {3}$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
+\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
+\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
+\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
+11a                                                                                                     &= 49.50 \times 6 \\\\
+a                                                                                                       &= \dfrac {297} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
+a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
+a                                                                                                       &= \pounds 27
+\end {aligned}
+$
+
+Money Tim received $= \pounds 27$.
+
+Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
+
+Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27, \pounds 13.5, \pounds 9$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. What are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the smaller number $= a$.
+
+The larger number $= 2a$.
+
+As per the question,
+
+$
+\begin{aligned}
+a + 2a  &= 87 \\\\
+3a      &= 87 \\\\
+a       &= \dfrac {87} {3} \\\\
+a       &= \dfrac {29 \times 3} {3} \\\\
+a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
+a       &= 29
+\end{aligned}
+$
+
+Smaller Number $= 29$.
+
+Larger number $= 2 \times 29 = 58$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29, 58$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6AE9FEC7-9C45-4A0D-B701-A93F8EB055D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the value of for each of the following equations: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5x - 8 = 27$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5x - 8 &= 27 \\\\
+5x     &= 27 + 8 \\\\
+5x     &= 35 \\\\
+x      &= \dfrac {35} {5} \\\\
+x      &= \dfrac {5 \times 7} {5} \\\\
+x      &= \dfrac {\cancel {5} \times 7} {\cancel {5} } \\\\
+x      &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5(2x + 4) = 50$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5(2x + 4)    &= 50   \\\\
+2x + 4       &= \dfrac {50} {5} \\\\
+2x + 4       &= \dfrac {5 \times 10} {5} \\\\
+2x + 4       &= \dfrac {\cancel {5} \times 10} {\cancel {5} } \\\\
+2x + 4       &= 10 \\\\
+2x           &= 10 - 4 \\\\
+x            &= 6 \\\\
+x            &= \dfrac{2 \times 3} {2} \\\\
+x            &= \dfrac{\cancel {2} \times 3} {\cancel {2} } \\\\
+x            &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12x = 5x + 28$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12x      &= 5x + 28 \\\\
+12x - 5x &= 28 \\\\
+8x       &= 28 \\\\
+x        &= \dfrac {28} {8} \\\\
+x        &= \dfrac {8 \times 3} {8} \\\\ 
+x        &= \dfrac {\cancel {8} \times 3} {\cancel {8} } \\\\ 
+x        &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac {5x} {4} + 3 = 13$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {5x} {4} + 3 &= 13 \\\\
+\dfrac {5x} {4}     &= 13 - 3 \\\\
+\dfrac {5x} {4}     &= 10 \\\\
+5x                  &= 10 \times 4 \\\\
+5x                  &= 40 \\\\
+x                   &= \dfrac {40} {5} \\\\
+x                   &= \dfrac {5 \times 8} {5} \\\\
+x                   &= \dfrac {\cancel {5} \times 8} {\cancel {5} } \\\\
+x                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
@@ -3696,284 +4032,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A7490F93-7479-4839-A126-AA134B1AEB90</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I  think of a  number   multiply it by  **3**  and   then  subtract **8** . If the   answer   is  **-5**    ,  what  number   did   I  start with? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the  number be $ = a$
-
-As per the question,
-
-$
-\begin{aligned}
-3 \times a - 8    &= - 5 \\\\
-3 \times a        &= 8 - 5 \\\\
-3 \times a        &= 3 \\\\
-a                 &= \dfrac {3} {3} \\\\
-a                 &= \dfrac {\cancel {3}} {\cancel {3}} \\\\
-a                 &= 1
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An approximate method   of deciding how   much  sleep a  young person   needs is to subtract their  age   from **33** and divide   by **2**.   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How   much  sleep does  an eleven   year  old   need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-$
-\begin{aligned}
-&= \dfrac {33 - 11} {2} \\\\
-&= \dfrac {22} {2} \\\\
-&= 11 \ \text {hours}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11 \ \text {hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How   old   is a  person   who   needs 5  hours sleep?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the age of that person be $=x$
-
-$
-\begin{aligned}
-\dfrac {33 - x} {2} = 5 \\\\
-            33 - x  = 5 \times 2 \\\\
-            33 - x  = 10 \\\\
-                 x  = 23 \text {year}
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23 \text {year}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How   old   is the   person   who   needs no sleep at all?  (If   the   formula  is correct!)
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$33$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Does  it make  sense to use   the   formula  for   older people?  Give  a  reason   for   your  answer.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {No, it does not make sense to use the formula for older people because above 33 we will get negitive value}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>301495E4-984D-4E5B-B022-507BD60D3235</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Nine  bus   stops are   equally  spaced   along a  bus   route.   The   distance from  the   first to the   third is **600**  metres.  How   far   is it from  the   first to the   last? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-According to question ,
-
-Distance between first and third bus $600 \text {metres}$
-
-Distance between first and second bus will be $300 \text {metres}$
-
-So, distance between first and last bus will be ,
-
-$
-\begin{aligned}
-&= 300 \times 9 \\\\
-&= 1800 \text {metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1800 \text {metres}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

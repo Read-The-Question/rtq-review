@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-05 11:50:18
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B</p>
 </div>
@@ -122,12 +122,12 @@ $\dfrac{1} {5}$
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>61B03D89-9853-44BC-9E53-E103CF15A454</p>
 </div>
@@ -174,127 +174,7 @@ $1 \dfrac {1} {2}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>61908545-B559-4781-ABB5-3C8BDBA19C3C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{}{18} + \dfrac{1}{18} = \dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing value $= a$
-
-$
-\begin {aligned}
-\dfrac {a} {18} + \dfrac {1} {18}     &= \dfrac {1} {2} \\\\
-\dfrac {a} {18} + \dfrac {1} {18}     &= \dfrac {1 \times 9} {2 \times 9} \\\\
-\dfrac {a + 1} {18}                   &= \dfrac {9} {18} \\\\
-a + 1                                 &= 9 \\\\
-a                                     &= 9 - 1 \\\\
-a                                     &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{}{24} + \dfrac{1}{3} = \dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing value $= a$
-
-$
-\begin {aligned}
-\dfrac {a} {24} + \dfrac {1} {3}                       &= \dfrac {1} {2} \\\\
-\dfrac {a} {24} + \dfrac {1 \times 8} {3 \times 8}     &= \dfrac {1 \times 12} {2 \times 12} \\\\
-\dfrac {a} {24} + \dfrac {8} {24}                      &= \dfrac {12} {24} \\\\
-\dfrac {a + 8} {24}                                    &= \dfrac {12} {24} \\\\
-a + 8                                                  &= 12 \\\\
-a                                                      &= 12 - 8 \\\\
-a                                                      &= 4
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -470,7 +350,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>DF2452BE-A907-4F55-9C53-1A472B3B035D</p>
 </div>
@@ -522,7 +402,7 @@ $\dfrac {4} {5}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -1885,7 +1765,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
 </div>
@@ -1933,7 +1813,7 @@ $\dfrac {1} {2}$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -2302,99 +2182,7 @@ $8 \dfrac{19} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill the spaces to make all these fractions equal:
-
-$\dfrac{}{3} \quad = 
-\quad \dfrac{2}{6} \quad = 
-\quad \dfrac{}{18} \quad = 
-\quad \dfrac{7}{} \quad = 
-\quad \dfrac{}{60}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing numerator $= a,b,c$
-
-Let the missing denominator $= d$
-
-$
-\begin{aligned}
-\dfrac {a} {3} &= \dfrac {2} {6} \\\\
-a              &= \dfrac {2 \times 3} {6} \\\\
-a              &= \dfrac {6} {6} \\\\
-a              &= \dfrac {\cancel {6}} {\cancel {6}} \\\\
-a              &= 1
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\dfrac {b} {18} &= \dfrac {2} {6} \\\\
-b               &= \dfrac {2 \times 18} {6} \\\\
-b               &= \dfrac {2 \times 3 \times 6} {2 \times 3} \\\\
-b               &= \dfrac {\cancel {2} \times \cancel {3} \times 6} {\cancel {2} \times \cancel {3}} \\\\
-b               &= 6
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\dfrac {7} {d}          &= \dfrac {2} {6} \\\\
-\dfrac {7 \times 6} {2} &= d \\\\
-d                       &= \dfrac {7 \times 6} {2} \\\\
-d                       &= \dfrac {7 \times 2 \times 3} {2} \\\\
-d                       &= \dfrac {7 \times \cancel {2} \times 3} {\cancel {2}} \\\\
-d                       &= 7 \times 3 \\\\
-d                       &= 21
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\dfrac {c} {60}  &= \dfrac {2} {6} \\\\
-c                &= \dfrac {2 \times 60} {6} \\\\
-c                &= \dfrac {2 \times 6 \times 10} {6} \\\\
-c                &= \dfrac {2 \times \cancel {6} \times 10} {\cancel {6}} \\\\
-c                &= 2 \times 10 \\\\
-c                &= 20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1,6,21,20$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
 </div>
@@ -2541,7 +2329,7 @@ $\dfrac {7} {32}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -2598,7 +2386,7 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>808FAEC9-4B00-478E-8303-8F93C22B2CF3</p>
 </div>
@@ -2643,12 +2431,12 @@ $128$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>DE45D210-6CFF-44A8-8BF2-A7AB019EE549</p>
 </div>
@@ -2700,12 +2488,12 @@ $\dfrac{1}{10}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>3F78446A-189F-4A34-981D-45191F1D3768</p>
 </div>
@@ -2754,12 +2542,12 @@ $\dfrac{1} {4}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>72C59585-EC33-41D5-9631-E7F5A7E0158B</p>
 </div>
@@ -2812,12 +2600,12 @@ $4 \dfrac{47}{60}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1EEEA032-210A-436A-8BB3-E73A8E6AAA51</p>
 </div>
@@ -2867,12 +2655,12 @@ $\dfrac{1}{10}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C</p>
 </div>
@@ -2922,12 +2710,12 @@ $\dfrac {1} {4}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1F02583C-62DE-41D0-94CE-10909D755CAE</p>
 </div>
@@ -2980,7 +2768,7 @@ $4 \dfrac{47}{60}$
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3263,7 +3051,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
 </div>
@@ -3308,7 +3096,7 @@ $14$
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3368,7 +3156,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>1C823272-E371-4E16-B0B1-DCFDB64A4ADF</p>
 </div>
@@ -3413,7 +3201,7 @@ $\dfrac {13} {24}$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3469,178 +3257,7 @@ $\dfrac {61} {36}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>23E98A7C-586C-492D-8FCB-9E1A4B2FD4CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in these fraction calculations.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{3}{5} + \dfrac{\boxed{\phantom{3}}}{5} = \dfrac{9}{10}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {3} {5} + \dfrac {a} {10}                      &= \dfrac {9} {10} \\\\
-\dfrac {3 \times 2} {5 \times 2} + \dfrac {a} {10}    &= \dfrac {9} {10} \\\\
-\dfrac {6} {10} + \dfrac {a} {10}                     &= \dfrac {9} {10} \\\\
-\dfrac {6 + a} {10}                                   &= \dfrac {9} {10} \\\\
-6 + a                                                 &= 9 \\\\
-a                                                     &= 9 - 6 \\\\
-a                                                     &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{2}{7} + \dfrac{3}{10} =
-\dfrac{\boxed{\phantom{3}}}{70}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {2} {7} + \dfrac {3} {10}                                        &= \dfrac {a} {10} \\\\
-\dfrac {2 \times 10} {7 \times 10} + \dfrac {3 \times 7} {10 \times 7}  &= \dfrac {a} {10} \\\\
-\dfrac {20} {70} + \dfrac {21} {70}                                     &= \dfrac {a} {10} \\\\
-\dfrac {20 + 21} {70}                                                   &= \dfrac {a} {10} \\\\
-\dfrac {a} {10}                                                         &= \dfrac {41} {70} \\\\
-a                                                                       &= \dfrac {41} {70} \times 10 \\\\
-a                                                                       &= \dfrac {41 \times 10} {70} \\\\
-a                                                                       &= \dfrac {41 \times 1 \cancel{0}} {7 \cancel{0}} \\\\
-a                                                                       &= \dfrac {41} {7}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {41} {7}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{5} + \dfrac{3}{4} =
-\dfrac{19}{\boxed{\phantom{3}}}$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {1} {5} + \dfrac {3} {4}                                         &= \dfrac {19} {a} \\\\
-\dfrac {1 \times 4} {5 \times 4} + \dfrac {3 \times 5} {4 \times 5}     &= \dfrac {19} {a} \\\\
-\dfrac {4} {20} + \dfrac {15} {20}                                      &= \dfrac {19} {a} \\\\
-\dfrac {4 + 15} {20}                                                    &= \dfrac {19} {a} \\\\
-\dfrac {19} {20}                                                        &= \dfrac {19} {a} \\\\
-\dfrac {1} {20}                                                         &= \dfrac {1} {a} \\\\
-a                                                                       &= 20
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>62EBBCE2-9848-414A-BC40-2347F24A0383</p>
 </div>
@@ -3684,12 +3301,12 @@ $14$
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>C625F0D2-40A1-40A7-8F67-17E21612BD81</p>
 </div>
@@ -3731,7 +3348,7 @@ $\dfrac {4}{5}$
 <p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:38</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3830,7 +3447,7 @@ $\dfrac {4}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>49429AE6-0143-4CCB-BB81-78DE7CA4E8F7</p>
 </div>
@@ -3870,6 +3487,141 @@ $\dfrac {2}{3}$
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g2 question'>
+<div class='uuid'>
+<p>55815068-841C-40AD-BCEE-2DE99DEED918</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which fraction is $\dfrac {28} {35}$ equivalent to?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {28} {35} \\\\
+&= \dfrac {7 \times 4} {7 \times 5} \\\\
+&= \dfrac {\cancel {7} \times 4} {\cancel {7} \times 5} \\\\
+&= \dfrac {4}{5} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4}{5}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g2 question'>
+<div class='uuid'>
+<p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+What fraction of the shape is shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {4} {6}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {6}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $1.9$ as a fraction?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 1.9 \\\\
+&= \dfrac {19} {10}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {19} {10}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:36</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

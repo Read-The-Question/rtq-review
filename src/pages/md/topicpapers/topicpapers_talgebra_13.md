@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-13"
 title: "TopicPaper - Algebra - 13"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,177 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>39086DA3-F713-45C2-91F7-217AC5ABF006</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You multiply a number by itself. You then multiply the new number by three. The answer is $192$.
+
+What is your starting number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+(a \times a) \times 3 &= 192 \\\\
+a ^ 2                 &= \dfrac {192} {3} \\\\
+a ^ 2                 &= \dfrac {64 \times 3} {3} \\\\
+a ^ 2                 &= \dfrac {64 \times \cancel {3}} {\cancel {3}} \\\\
+a ^ 2                 &= 64 \\\\
+a                     &= \sqrt 64 \\\\
+a                     &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DCF1FE2D-8937-40A2-8F2F-5103646889A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A box contains $48$ pieces of fruit. Five eighths of them are apples and the rest of them are pears. How many pears are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Number of apples} &= \dfrac {5} {8} \times 48 \\\\
+                        &= \dfrac {5 \times 48} {8} \\\\
+                        &= \dfrac {5 \times 6 \times 8} {8} \\\\
+                        &= \dfrac {5 \times 6 \times \cancel {8}} {\cancel {8}} \\\\
+                        &= 5 \times 6 \\\\
+                        &= 30
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of pears}  &= 48 - 30 \\\\
+                        &= 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6B4DB8FD-6576-491E-B677-B12E7FA822F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing table](/papers/missing_table.svg)
+
+
+Brendan and Sophie got $\pounds 0.20$ change when they paid with $\pounds 5$ for some tomatoes, green peppers and cucumbers which they bought at a farm stand.
+
+They bought $5$ tomatoes, which weighed $2 \ \text{pounds}$ altogether. 
+
+They bought two more tomatoes than green peppers.
+
+How many cucumbers did they buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3058,451 +3229,6 @@ $1$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>E14872CA-A458-40F9-8C07-62F2E9C9CC11</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps in the calculations below.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15 + \boxed{\phantom{555}} = 13 \times 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number in the gap $= a$.
-
-$
-\begin{aligned}
-15 + a                                       &= 13 \times 2 \\\\
-15 + a                                       &= 26 \\\\
-a                                            &= 26 - 15 \\\\
-a                                            &= 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15 + \boxed{11} = 13 \times 2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2 + (4 \times 5) = 27 - \boxed{\phantom{555}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number in the gap $= b$.
-
-$
-\begin{aligned}
-2 + (4 \times 5)                             &= 27 - b \\\\
-2 + 20                                       &= 27 - b \\\\
-22                                           &= 27 - b \\\\
-b                                            &= 27 - 22 \\\\
-b                                            &= 5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 + (4 \times 5) = 27 - \boxed{5}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\boxed{\phantom{555}} \times 12 =  18 \div 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number in the gap $= c$.
-
-$
-\begin{aligned}
-c \times 12  &= 18 \div 3 \\\\
-c \times 12  &= \dfrac {18} {3} \\\\
-c            &= \dfrac {18} {3 \times 12} \\\\
-c            &= \dfrac {2 \times 3 \times 3} {3 \times 2 \times 2 \times 3} \\\\
-c            &= \dfrac {\cancel {2} \times \cancel {3} \times  \cancel {3}} {\cancel {3} \times \cancel {2} \times \cancel {3} \times 2} \\\\
-c            &= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>0F690421-C9C5-4DB3-9C6A-89E4566CA3CB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number machine below changes numbers according to the rule
-
-**divide by $4$ then add $6$**
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the **output** number if the input is $20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= (20 \div 4) + 6 \\\\
-&= 5 + 6 \\\\
-&= 11
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the **output** number if the input is $6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= (6 \div 4) + 6 \\\\
-&= 1.5 + 6 \\\\
-&= 7.5
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7.5$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the list below, circle the type of input numbers which will 
-always give whole number output numbers.
-
-- odd 
-- even 
-- multiples of 4 
-- prime numbers
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-multiples of $4$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-multiples of $4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the **input** number if the output is $18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the input number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-(a \div 4) + 6 &= 18 \\\\
-a \div 4       &= 18 - 6 \\\\
-a \div 4       &= 12 \\\\
-a              &= 12 \times 4 \\\\
-a              &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A number is put through the number machine twice.
-
-After the second time, the output number is $9$.
-
-Work out the original input number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the input number $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-(((a \div 4) + 6)\div 4) + 6 &= 9 \\\\
-((a \div 4) + 6)\div 4       &= 9 - 6 \\\\
-((a \div 4) + 6)\div 4       &= 3 \\\\
-(a \div 4) + 6               &= 3 \times 4 \\\\
-(a \div 4) + 6               &= 12 \\\\
-a \div 4                     &= 12 - 6 \\\\
-a \div 4                     &= 6 \\\\
-a                            &= 6 \times 4 \\\\
-a                            &= 24
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>38BA54B1-2465-413D-86CA-0E4B69E83BBB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-At SuperMart, a packet of jam tarts costs $\pounds 1.20$.
-
-This week, there is a special offer:
-
-*If you buy one packet, you can buy a second packet at half price.*
-
-Erika needs to buy $13$ packets of jam tarts.
-
-Using the special offer, how much will it cost Erika to buy $13$ packets?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

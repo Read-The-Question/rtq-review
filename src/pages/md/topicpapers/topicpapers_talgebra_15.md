@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-15"
 title: "TopicPaper - Algebra - 15"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,274 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>A19BFD7F-4748-4122-BDBF-42DCC2932E75</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In an arithmetic test, $4$ marks were given for each correct answer and a mark was deducted for each wrong answer. Tim got $17$ questions right and $3$ questions wrong. How many marks did he obtain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Marks for a correct answer}           &= 4 \\\\
+\text{Total correct answers}                &= 17 \\\\
+\text{Marks}                                &= 17 \times 4 \\\\
+\text{Marks deducted for a wrong answer}    &= 1 \\\\
+\text{Total wrong answers}                  &= 3 \\\\
+\text{Marks deducted}                       &= 3 \times 1 \\\\
+\text{Final Marks}                          &= (17 \times 4) - (3 \times 1) \\\\
+                                            &= 68 - 3 \\\\
+                                            &= 65
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>4DACC7C4-808D-4D5B-9F08-E7D2914E09BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nigel spent $\pounds 71$ on CDs, some costing $\pounds 8$ each, and the rest $\pounds 5$ each. He bought more of the dearer ones. How many CDs did he buy altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of the expensive CDs $= d$
+
+Let the count of the cheaper CDs $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+8d + 5c     &= 71 \\\\
+d           &> c
+\end{aligned}
+$
+
+We have got $2$ variables and so we need $2$ equations to solve them. 
+Here we have got $2$ equations but the second one is an inequality equation, so we 
+can't use elimination or substitution to solve the equations.
+
+This can be solved instead by using trial and error but applying conditions to narrow down options.
+
+We know $d > c$, so let's start with the biggest value possible for $d$.
+If $d$ is $9$, that will equate to $8 \times 9 = 72$ and thats more than total spent $71$, so the biggest possible value for $d$ is $8$.
+
+
+Let's try for $d = 8$.
+
+$
+\begin{aligned}
+8d + 5c             &= 71 \\\\
+8 \times 8 + 5c     &= 71 \\\\
+64 + 5c             &= 71 \\\\
+5c                  &= 71 - 64 \\\\
+5c                  &= 7
+\end{aligned}
+$
+
+$7$ is not exactly divisible by $5$ and so this value of $d$ is not the solution.
+
+Let's try for $d = 7$.
+
+$
+\begin{aligned}
+8d + 5c             &= 71 \\\\
+8 \times 7 + 5c     &= 71 \\\\
+56 + 5c             &= 71 \\\\
+5c                  &= 71 - 56 \\\\
+5c                  &= 15 \\\\
+c                   &= \dfrac{15}{5} \\\\
+c                   &= \dfrac{5 \times 3}{5} \\\\
+c                   &= \dfrac{\cancel{5} \times 3}{\cancel{5}} \\\\
+c                   &= 3
+\end{aligned}
+$
+
+For $d = 7$, we have a solution where $c = 3$ and it satisfies the inequality $d > c$ too. So we have our solution.
+
+Let's find the total CDs count.
+
+$
+\begin{aligned}
+c                    &= 3 \\\\
+d                    &= 7 \\\\
+\text{Total CDs}     &= 7 + 3 \\\\
+                     &= 10
+\end{aligned}
+$
+
+<!--
+Bebs explanation
+
+We know that the total of the CDs was $\pounds 71. If we name the number of the more expensive CDs a and the cheaper CDs b, we can form an equation.
+8a + 5b = 71
+a > b
+As the cost of the cheaper CDs are $\pounds 5, however many of these CDs Nigel buys, the cost of them will always be a multiple of 5. This means it will end in 5 or 0.
+If $\pounds 71 and the total cost of the expensive CDs Nigel buys, don't subtract to a result which is a multiple of 5, some money would be left over.
+This means that we need to find which numbers the cost of the expensive CDs could end with so all the $\pounds 71 is spent.
+To get from 71 to a number ending with 0, you could subtract 1.
+To get from 71 to a number ending with 5, you could subtract 6.
+This means that the total cost of the expensive CDs will either end in the number 6 or 1. We now need to find a multiple of 8 ending in 6 0r 1 which is less than 71.
+8 * 1 = 8 (doesn't end in 6 or 1)
+8 * 2 = 16 (ends in 6)
+8 * 3 = 24 (doesn't end in 6 or 1)
+8 * 4 = 32 (doesn't end in 6 or 1)
+8 * 5 = 40 (doesn't end in 6 or 1)
+8 * 6 = 48 (doesn't end in 6 or 1)
+8 * 7 = 56 (ends in 6)
+8 * 8 = 64 (doesn't end in 6 or 1)
+8 * 9 = 72 (greater than 71)
+8 * 10 = 80 (greater than 71)
+We have now discovered that there are either 2 or 7 of the more expensive CDs.
+If there were 2, the cost of them would be $\pounds 16. This would mean that the cost of the cheaper CDs would be $\pounds 71 - $\pounds 16 which is $\pounds 55. There would be 11 of the cheaper CDs.
+However, the questions states that he bought more of the dearer (more expensive) CDs. This means that he bought 7 of the more expensive CDs which would cost $\pounds 56. The cost of the cheaper CDs would be $\pounds 71 - $\pounds 56 which is $\pounds 15. There would be 3 of the cheaper CDs.
+We need to find the total number of the CDs which would be 7 + 3 which is 10 CDs.
+
+answer = 10
+
+d = 7
+c = 3
+
+Total CDs = 7 + 3
+
+= 10 CDs 
+-->
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+10
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sum of $90$ pence is made up of equal numbers of $1 \text{p}$ coins, $2 \text{p}$ coins, $5 \text{p}$ coins and $10 \text{p}$ coins. How many coins are there in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of coins of each denomination $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+1 \times c + 2 \times c + 5 \times c + 10 \times c       &= 90\\\\
+c + 2c + 5c + 10c                                        &= 90 \\\\
+18c                                                      &= 90 \\\\
+c                                                        &= \dfrac {90} {18} \\\\
+c                                                        &= \dfrac {5 \times 18} { 18} \\\\
+c                                                        &= \dfrac {5 \times \cancel{18}} { \cancel{18} } \\\\
+c                                                        &= 5
+\end{aligned}
+$
+
+There are $5$ coins of each type and $4$ different types of coins.
+
+$
+\begin{aligned}
+\text{Total coins}     &=  5 \times 4  \\\\
+                       &= 20 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -4362,299 +4630,6 @@ $43$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Five friends raise $\pounds 400$ for their favourite charity. 
-Alan collects $\pounds 74$  and Bilal raises $\pounds 86$. 
-Chloe collects twice as much as David who raises three times as much as Emily. How much did Chloe collect?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Emily's collection (in $\pounds$) $= a$. Then,
-
-David's collection $= 3a$
-
-Chloe's collection $= 6a$
-
-As per the question,
-
-$
-\begin{aligned}  
-74 + 86 + 6a + 3a + a   &= 400 \\\\
-160 + 10a               &= 400 \\\\
-10a                     &= 400 - 160 \\\\
-10a                     &= 240 \\\\
-a                       &= \dfrac {240} {10} \\\\
-a                       &= \pounds 24
-\end{aligned}
-$
-
-Emily's collection $= \pounds 24$
-
-Let's find Chloe's collection.
-
-$
-\begin{aligned}  
-\text{Chloe's collection} &= 6a \\\\
-                          &= 6 \times 24 \\\\
-                          &= \pounds 144
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 144$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the calories provided by the cake (in calories) $= c$
-
-Let the calories provided by the biscuit (in calories) $= b$
-
-As per the question,
-
-$
-\begin{aligned} 
-c + 2b      &= 450 \\\\
-2c + 3b     &= 800         
-\end{aligned}
-$
-
-We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
-But which one should we eliminate? 
-
-If we look at the question again, we only need the 
-calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
-
-Multiply the first equation by $2$.
-
-$
-\begin{aligned}
-c + 2b                          &= 450 \\\\
-2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
-2c + 4b                         &= 900
-\end{aligned}
-$
-
-Subtract the second equation from the first to reduce it to one variable.
-
-$
-\begin{aligned}
-2c + 4b                 &= 900 \\\\
-2c + 3b                 &= 800    \\\\
-2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
-2c + 4b - 2c - 3b       &= 100 \\\\
-b                       &= 100  \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the biscuit $= 100  \ \text {calories}$
-
-</div>
-<div class='working'>
-
-What if we eliminate $b$ instead?
-
-This approach is less efficient as we will have to calculate one extra value to get the answer.
-
-Let's eliminate to reduce it to just one variable. 
-
-The LCM of $2$ and $3$ is $6$.
-Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
-
-$
-\begin{aligned} 
-c + 2b                          &= 450 \\\\
-2c + 3b                         &= 800  \\\\   
-3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
-2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
-3c + 6b                         &= 1050 \\\\
-4c + 6b                         &= 1600  \\\\   
-\end{aligned}
-$
-
-Subtract the first equation from the second to reduce it to one variable.
-
-$
-\begin{aligned}
-3c + 6b                 &= 1350 \\\\
-4c + 6b                 &= 1600  \\\\ 
-4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
-4c + 6b - 3c - 6b       &= 250  \\\\ 
-c                       &= 250 \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the cake $= 250 \ \text {calories}$. 
-
-Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
-
-$
-\begin{aligned} 
-c + 2b                          &= 450 \\\\
-250 + 2b                        &= 450 \\\\
-2b                              &= 450 - 250 \\\\
-2b                              &= 200 \\\\
-b                               &= \dfrac{200}{2} \\\\
-b                               &=  100  \ \text {calories}
-\end{aligned}
-$
-
-Calories provided by the biscuit $= 100  \ \text {calories}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$100  \ \text {calories}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-<li>
-tcoin
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a bag of money to take to the bank I have only $5 \text{p}$, $10 \text{p}$ and $20 \text{p}$ coins.
-
-I have twice as many $20 \text{p}$ coins as $10 \text{p}$ coins and half as many $5 \text{p}$ coins as $10 \text{p}$ coins.
-
-If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of $5 \text{p}$ coins $= a$. Then,
-
-Number of $10 \text{p}$ coins $= 2a$
-
-Number of $20 \text{p}$ coins $= 4a$
-
-It is really important to convert into the right units. 
-The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
-
-As per the question,
-
-$
-\begin{aligned}  
-5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
-5a + 20a + 80a                              &= 15.75 \times 100 \ \text {p} \\\\
-5a + 20a + 80a                              &= 1575 \\\\
-105a                                        &= 1575 \\\\
-a                                           &= \dfrac {1575} {105} \\\\
-a                                           &= \dfrac {21 \times 5 \times 15} {21 \times 5} \\\\
-a                                           &= \dfrac {\cancel{21} \times \cancel{5} \times 15} {\cancel{21} \times \cancel{5}} \\\\
-a                                           &= 15
-\end{aligned}
-$
-
-Number of $5 \ \text{p}$ coins $= 15$
-
-Let's find the number of $20 \ \text{p}$ coins.
-
-$
-\begin {aligned}
-20 \ \text{p} \text{ coins}   &= 4a \\\\
-                              &= 4 \times 15 \\\\
-                              &= 60
-\end {aligned}
-$
-
-Number of $20 \ \text{p}$ coins $= 60$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

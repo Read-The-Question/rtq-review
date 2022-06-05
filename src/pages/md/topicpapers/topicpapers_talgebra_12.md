@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-12"
 title: "TopicPaper - Algebra - 12"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,378 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look carefully at the following five supermarket offers:
+
+A Buy one get one free.
+B Buy one get the second for half price.
+C Buy two get one free.
+D Buy four and pay only for three.
+E One-third off all prices.
+
+Two pairs of these offers actually give the same value for money. Write down the letters representing both of these pairs in the spaces below:
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money, and
+
+$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let's take the original price $=a$
+
+Now let's find the number of items one gets in each of the offer and the money one has to pay for it.
+
+**Offer A : Buy one get one free.** 
+
+Items $=2$ 
+
+  Pay $=a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}   \\\\
+    2                             & : a             \\\\
+    \dfrac {2}{2}                 & : \dfrac {a}{2} \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {a}{2} \\\\
+    1                             & : \dfrac {a}{2} 
+\end{aligned}
+$
+
+**Offer B : Buy one get the second for half price.** 
+
+Items $=2$ 
+
+  Pay $=a + \dfrac{a}{2}$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}                                    \\\\
+    2                             & : a + \dfrac {a}{2}                               \\\\
+    2                             & : \dfrac {a}{1} + \dfrac {a}{2}                   \\\\
+    2                             & : \dfrac {a \times 2}{1 \times 2} + \dfrac {a}{2} \\\\
+    2 \times \dfrac{1}{2}         & : \dfrac {2a  + a} {2} \times  \dfrac{1}{2}       \\\\
+    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {3a} {4}                                 \\\\
+    1                             & : \dfrac {3a}{4}                                  
+\end{aligned}
+$
+
+
+**Offer C : Buy two get one free.** 
+
+Items $=3$ 
+
+  Pay $=2a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}       \\\\
+    3                             & : 2a                \\\\
+    \dfrac {3}{3}                 & : \dfrac {2a}{3}    \\\\
+    \dfrac {\cancel 3}{\cancel 3} & : \dfrac {2a}{3}    \\\\
+    1                             & : \dfrac {2a}{3} 
+\end{aligned}
+$
+
+
+**Offer D : Buy four and pay only for three.** 
+
+Items $=4$ 
+
+  Pay $=3a$
+
+$
+\begin{aligned} 
+    \text{Item}                   & : \text{Price}     \\\\
+    4                             & : 3a              \\\\
+    \dfrac {4}{4}                 & : \dfrac {3a} {4} \\\\    
+    \dfrac {\cancel 4}{\cancel 4} & : \dfrac {3a} {4} \\\\
+    1                             & : \dfrac {3a}{4}  
+\end{aligned}
+$
+
+
+**Offer E : One-third off all prices** 
+
+Items $=1$ 
+
+  Pay $=a - \dfrac {1}{3}$
+
+
+$
+\begin{aligned} 
+    \text{Item} & : \text{Price}                                    \\\\
+    1           & : a - \dfrac {1}{3}                               \\\\
+    1           & : \dfrac {a}{1} - \dfrac {1}{3}                   \\\\
+    1           & : \dfrac {a \times 3}{1 \times 3} - \dfrac {1}{3} \\\\
+    1           & : \dfrac {3a} {3} -  \dfrac{1}{3}                 \\\\
+    1           & : \dfrac {3a - 1} {3}                             \\\\
+    1           & : \dfrac {2a}{3}                                  
+\end{aligned}
+$
+
+Ratio of one item cost under the offers:
+
+$
+\begin{aligned} 
+\text {Offer A} &= \dfrac {a}{2} \\\\
+\text {Offer B} &= \dfrac {3a}{4} \\\\
+\text {Offer C} &= \dfrac {2a}{3}  \\\\
+\text {Offer D} &= \dfrac {3a}{4} \\\\
+\text {Offer E} &= \dfrac {2a}{3}  \\\\    
+\end{aligned}
+$
+
+As we can see above,
+
+$B = D$ and $C = E$
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
+
+$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>821275C1-8DB4-4E05-91B4-87F51A34EDD4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four friends, Alwyn, Bax, Coates and Delius have lunch together. Although each eats a differently priced snack, 
+they share the bill equally. Yesterday, this resulted in Alwyn paying $\pounds 1$ less than the cost of his snack, 
+Bax paying $\pounds 3$ more, Coates $\pounds 4$ less and Delius paid $\pounds 4$. 
+What was the actual price of the snack that each friend ordered?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+All four friends shared the bill equally. 
+
+Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
+
+
+
+
+
+
+
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5E9CF149-3391-4F75-9A25-67E4CCFAB6DA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For each of the number machines below write down the letter:
+
+![missing table](/papers/missing_table.svg)
+
+
+A if the answer is always even
+
+B if the answer is always odd
+
+C if the answer is sometimes odd and sometimes even
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
@@ -3288,177 +3660,6 @@ TODOANSWER
 </ul>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:34</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>39086DA3-F713-45C2-91F7-217AC5ABF006</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-You multiply a number by itself. You then multiply the new number by three. The answer is $192$.
-
-What is your starting number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-(a \times a) \times 3 &= 192 \\\\
-a ^ 2                 &= \dfrac {192} {3} \\\\
-a ^ 2                 &= \dfrac {64 \times 3} {3} \\\\
-a ^ 2                 &= \dfrac {64 \times \cancel {3}} {\cancel {3}} \\\\
-a ^ 2                 &= 64 \\\\
-a                     &= \sqrt 64 \\\\
-a                     &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>DCF1FE2D-8937-40A2-8F2F-5103646889A4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A box contains $48$ pieces of fruit. Five eighths of them are apples and the rest of them are pears. How many pears are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of apples} &= \dfrac {5} {8} \times 48 \\\\
-                        &= \dfrac {5 \times 48} {8} \\\\
-                        &= \dfrac {5 \times 6 \times 8} {8} \\\\
-                        &= \dfrac {5 \times 6 \times \cancel {8}} {\cancel {8}} \\\\
-                        &= 5 \times 6 \\\\
-                        &= 30
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of pears}  &= 48 - 30 \\\\
-                        &= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6B4DB8FD-6576-491E-B677-B12E7FA822F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing table](/papers/missing_table.svg)
-
-
-Brendan and Sophie got $\pounds 0.20$ change when they paid with $\pounds 5$ for some tomatoes, green peppers and cucumbers which they bought at a farm stand.
-
-They bought $5$ tomatoes, which weighed $2 \ \text{pounds}$ altogether. 
-
-They bought two more tomatoes than green peppers.
-
-How many cucumbers did they buy?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:18</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

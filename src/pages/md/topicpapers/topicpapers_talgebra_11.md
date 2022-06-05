@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,182 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>6F7C552E-E005-44B5-8C86-47CAB7CF711F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A shop sells bananas and pears. 
+
+Max buys $1$ banana and $2$ pears. He paid $94 \text{p}$. 
+
+Emily buys $1$ banana and $1$ pear. She paid $62 \text{p}$. 
+
+How much does $1$ banana cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of banana $= a \text{p}$
+
+As per the question,
+
+Cost of pear $= 62p - a$
+
+$
+\begin{aligned}
+a + 2(62 - a)       &= 94 \\\\
+a + 124 - 2a        &= 94 \\\\
+124 - 94            &= 2a -a \\\\
+30                  &= a \\\\
+a                   &= 30 \text{p}
+\end{aligned}
+$
+
+The cost of banana $= 30 \text{p}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \text{p}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>BB2EEC2A-FFEA-4BE1-89E7-4509E48E88A8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Benjamin walks dogs to earn some money. The formula below can be used to work out his pay.
+
+![missing image](/papers/missing_image.svg)
+
+
+Benjamin worked all day on Monday. He walked $13$ dogs before lunch and $15$ dogs afterwards.
+
+Work out Benjamin's pay on Monday.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Benjamin pay on monday}       &= \pounds 12 + \pounds 1.5 \times (13+12) \\\\
+                                    &= \pounds 12 + \pounds 1.5 \times 25 \\\\
+                                    &= \pounds 12 + \pounds 37.5 \\\\
+\text{Benjamin pay on monday}       &= \pounds 49.5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 49.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>DC7231D7-DE01-44F0-83B3-D79030A58E4C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are a number of coins on a table. One quarter of the coins show heads.
+
+If I turn over two coins, then one third show heads. How many coins are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of coins $= c$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{c}{4} + 2        &= \dfrac{c}{3} \\\\
+2                       &= \dfrac{c}{3} - \dfrac{c}{4} \\\\
+2                       &= \dfrac{c \times 4}{3 \times 4} - \dfrac{c \times 3}{4 \times 3} \\\\
+2                       &= \dfrac{4c}{12} - \dfrac{3c}{12} \\\\
+2                       &= \dfrac{4c - 3c}{12} \\\\
+2                       &= \dfrac{c}{12} \\\\
+\dfrac{c}{12}           &= 2 \\\\
+c                       &= 2 \times 12 \\\\
+c                       &= 24 \ \text{coins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{coins}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -3280,378 +3456,6 @@ $12$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>245B324A-6DAB-4088-BFC8-09EDBB1D03E1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look carefully at the following five supermarket offers:
-
-A Buy one get one free.
-B Buy one get the second for half price.
-C Buy two get one free.
-D Buy four and pay only for three.
-E One-third off all prices.
-
-Two pairs of these offers actually give the same value for money. Write down the letters representing both of these pairs in the spaces below:
-
-$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money, and
-
-$\text{\textunderscore \textunderscore \textunderscore}$ and $\text{\textunderscore \textunderscore \textunderscore}$ give the same value for money.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let's take the original price $=a$
-
-Now let's find the number of items one gets in each of the offer and the money one has to pay for it.
-
-**Offer A : Buy one get one free.** 
-
-Items $=2$ 
-
-  Pay $=a$
-
-$
-\begin{aligned} 
-    \text{Item}                   & : \text{Price}   \\\\
-    2                             & : a             \\\\
-    \dfrac {2}{2}                 & : \dfrac {a}{2} \\\\
-    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {a}{2} \\\\
-    1                             & : \dfrac {a}{2} 
-\end{aligned}
-$
-
-**Offer B : Buy one get the second for half price.** 
-
-Items $=2$ 
-
-  Pay $=a + \dfrac{a}{2}$
-
-$
-\begin{aligned} 
-    \text{Item}                   & : \text{Price}                                    \\\\
-    2                             & : a + \dfrac {a}{2}                               \\\\
-    2                             & : \dfrac {a}{1} + \dfrac {a}{2}                   \\\\
-    2                             & : \dfrac {a \times 2}{1 \times 2} + \dfrac {a}{2} \\\\
-    2 \times \dfrac{1}{2}         & : \dfrac {2a  + a} {2} \times  \dfrac{1}{2}       \\\\
-    \dfrac {\cancel 2}{\cancel 2} & : \dfrac {3a} {4}                                 \\\\
-    1                             & : \dfrac {3a}{4}                                  
-\end{aligned}
-$
-
-
-**Offer C : Buy two get one free.** 
-
-Items $=3$ 
-
-  Pay $=2a$
-
-$
-\begin{aligned} 
-    \text{Item}                   & : \text{Price}       \\\\
-    3                             & : 2a                \\\\
-    \dfrac {3}{3}                 & : \dfrac {2a}{3}    \\\\
-    \dfrac {\cancel 3}{\cancel 3} & : \dfrac {2a}{3}    \\\\
-    1                             & : \dfrac {2a}{3} 
-\end{aligned}
-$
-
-
-**Offer D : Buy four and pay only for three.** 
-
-Items $=4$ 
-
-  Pay $=3a$
-
-$
-\begin{aligned} 
-    \text{Item}                   & : \text{Price}     \\\\
-    4                             & : 3a              \\\\
-    \dfrac {4}{4}                 & : \dfrac {3a} {4} \\\\    
-    \dfrac {\cancel 4}{\cancel 4} & : \dfrac {3a} {4} \\\\
-    1                             & : \dfrac {3a}{4}  
-\end{aligned}
-$
-
-
-**Offer E : One-third off all prices** 
-
-Items $=1$ 
-
-  Pay $=a - \dfrac {1}{3}$
-
-
-$
-\begin{aligned} 
-    \text{Item} & : \text{Price}                                    \\\\
-    1           & : a - \dfrac {1}{3}                               \\\\
-    1           & : \dfrac {a}{1} - \dfrac {1}{3}                   \\\\
-    1           & : \dfrac {a \times 3}{1 \times 3} - \dfrac {1}{3} \\\\
-    1           & : \dfrac {3a} {3} -  \dfrac{1}{3}                 \\\\
-    1           & : \dfrac {3a - 1} {3}                             \\\\
-    1           & : \dfrac {2a}{3}                                  
-\end{aligned}
-$
-
-Ratio of one item cost under the offers:
-
-$
-\begin{aligned} 
-\text {Offer A} &= \dfrac {a}{2} \\\\
-\text {Offer B} &= \dfrac {3a}{4} \\\\
-\text {Offer C} &= \dfrac {2a}{3}  \\\\
-\text {Offer D} &= \dfrac {3a}{4} \\\\
-\text {Offer E} &= \dfrac {2a}{3}  \\\\    
-\end{aligned}
-$
-
-As we can see above,
-
-$B = D$ and $C = E$
-
-$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
-
-$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
-
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\underline {\text {B}}$ and  $\underline {\text {D}}$ give the same value for money, and
-
-$\underline {\text {C}}$ and  $\underline {\text {E}}$ give the same value for money.
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>821275C1-8DB4-4E05-91B4-87F51A34EDD4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four friends, Alwyn, Bax, Coates and Delius have lunch together. Although each eats a differently priced snack, 
-they share the bill equally. Yesterday, this resulted in Alwyn paying $\pounds 1$ less than the cost of his snack, 
-Bax paying $\pounds 3$ more, Coates $\pounds 4$ less and Delius paid $\pounds 4$. 
-What was the actual price of the snack that each friend ordered?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-All four friends shared the bill equally. 
-
-Delius paid $\pounds 4$. So, all four friends paid $\pounds 4$ each.
-
-
-
-
-
-
-
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5E9CF149-3391-4F75-9A25-67E4CCFAB6DA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-For each of the number machines below write down the letter:
-
-![missing table](/papers/missing_table.svg)
-
-
-A if the answer is always even
-
-B if the answer is always odd
-
-C if the answer is sometimes odd and sometimes even
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

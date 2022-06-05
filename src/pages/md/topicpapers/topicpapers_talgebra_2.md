@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-2"
 title: "TopicPaper - Algebra - 2"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,284 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>AE2C9A13-AA3C-4DE9-BE15-092A3939D5C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$88 + \boxed{\phantom{23}} = 173$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(17 \times 2) - (27 \times 0) = \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1.25 - \boxed{\phantom{23}} = 0.75$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{23}} \times 0.25 = 1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$64 \div 8 = 32 \div \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(3 \times 2 \times 1) - (3 + 2 + 1) = \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -2393,6 +2671,98 @@ $0$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill the spaces to make all these fractions equal:
+
+$\dfrac{}{3} \quad = 
+\quad \dfrac{2}{6} \quad = 
+\quad \dfrac{}{18} \quad = 
+\quad \dfrac{7}{} \quad = 
+\quad \dfrac{}{60}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing numerator $= a,b,c$
+
+Let the missing denominator $= d$
+
+$
+\begin{aligned}
+\dfrac {a} {3} &= \dfrac {2} {6} \\\\
+a              &= \dfrac {2 \times 3} {6} \\\\
+a              &= \dfrac {6} {6} \\\\
+a              &= \dfrac {\cancel {6}} {\cancel {6}} \\\\
+a              &= 1
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {b} {18} &= \dfrac {2} {6} \\\\
+b               &= \dfrac {2 \times 18} {6} \\\\
+b               &= \dfrac {2 \times 3 \times 6} {2 \times 3} \\\\
+b               &= \dfrac {\cancel {2} \times \cancel {3} \times 6} {\cancel {2} \times \cancel {3}} \\\\
+b               &= 6
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {7} {d}          &= \dfrac {2} {6} \\\\
+\dfrac {7 \times 6} {2} &= d \\\\
+d                       &= \dfrac {7 \times 6} {2} \\\\
+d                       &= \dfrac {7 \times 2 \times 3} {2} \\\\
+d                       &= \dfrac {7 \times \cancel {2} \times 3} {\cancel {2}} \\\\
+d                       &= 7 \times 3 \\\\
+d                       &= 21
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {c} {60}  &= \dfrac {2} {6} \\\\
+c                &= \dfrac {2 \times 60} {6} \\\\
+c                &= \dfrac {2 \times 6 \times 10} {6} \\\\
+c                &= \dfrac {2 \times \cancel {6} \times 10} {\cancel {6}} \\\\
+c                &= 2 \times 10 \\\\
+c                &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1,6,21,20$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
 <p>A0F502EF-3E48-4DA9-AB5F-D68A04931962</p>
@@ -3944,236 +4314,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>9DAE794C-CF08-4F74-8EFC-2D71F9F2C7E9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-B + A + T = $17$ 
-
-C + A + T = $25$
-
-C + O + A + T = $29$
-
-What is the value of B + O + A + T?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>525C894A-5EBF-4ED1-9A7A-B508E1FF1203</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On Planet Pythagoras, the people use a different money system to us.
-
-$\text{One pog}$ is worth $\text{four pings}$ 
-
-$\text{Three pings}$ are worth $\text{five paz}$
-
-Convert the following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\text{3 pog =}$ _____ $\text{pings}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\text{40 paz}$ = ____________ $\text{pog}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-3 paz = ____________ pog
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

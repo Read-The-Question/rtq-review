@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-3"
 title: "TopicPaper - Algebra - 3"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,236 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>9DAE794C-CF08-4F74-8EFC-2D71F9F2C7E9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+B + A + T = $17$ 
+
+C + A + T = $25$
+
+C + O + A + T = $29$
+
+What is the value of B + O + A + T?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>525C894A-5EBF-4ED1-9A7A-B508E1FF1203</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On Planet Pythagoras, the people use a different money system to us.
+
+$\text{One pog}$ is worth $\text{four pings}$ 
+
+$\text{Three pings}$ are worth $\text{five paz}$
+
+Convert the following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{3 pog =}$ _____ $\text{pings}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\text{40 paz}$ = ____________ $\text{pog}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+3 paz = ____________ pog
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -1269,6 +1499,177 @@ $31$
 </ul>
 <div class='papername'>
 <p>csse--11-plus--maths--2017--sample-paper-4:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>23E98A7C-586C-492D-8FCB-9E1A4B2FD4CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the missing numbers in these fraction calculations.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{5} + \dfrac{\boxed{\phantom{3}}}{5} = \dfrac{9}{10}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {5} + \dfrac {a} {10}                      &= \dfrac {9} {10} \\\\
+\dfrac {3 \times 2} {5 \times 2} + \dfrac {a} {10}    &= \dfrac {9} {10} \\\\
+\dfrac {6} {10} + \dfrac {a} {10}                     &= \dfrac {9} {10} \\\\
+\dfrac {6 + a} {10}                                   &= \dfrac {9} {10} \\\\
+6 + a                                                 &= 9 \\\\
+a                                                     &= 9 - 6 \\\\
+a                                                     &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{2}{7} + \dfrac{3}{10} =
+\dfrac{\boxed{\phantom{3}}}{70}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {2} {7} + \dfrac {3} {10}                                        &= \dfrac {a} {10} \\\\
+\dfrac {2 \times 10} {7 \times 10} + \dfrac {3 \times 7} {10 \times 7}  &= \dfrac {a} {10} \\\\
+\dfrac {20} {70} + \dfrac {21} {70}                                     &= \dfrac {a} {10} \\\\
+\dfrac {20 + 21} {70}                                                   &= \dfrac {a} {10} \\\\
+\dfrac {a} {10}                                                         &= \dfrac {41} {70} \\\\
+a                                                                       &= \dfrac {41} {70} \times 10 \\\\
+a                                                                       &= \dfrac {41 \times 10} {70} \\\\
+a                                                                       &= \dfrac {41 \times 1 \cancel{0}} {7 \cancel{0}} \\\\
+a                                                                       &= \dfrac {41} {7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {41} {7}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{5} + \dfrac{3}{4} =
+\dfrac{19}{\boxed{\phantom{3}}}$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {1} {5} + \dfrac {3} {4}                                         &= \dfrac {19} {a} \\\\
+\dfrac {1 \times 4} {5 \times 4} + \dfrac {3 \times 5} {4 \times 5}     &= \dfrac {19} {a} \\\\
+\dfrac {4} {20} + \dfrac {15} {20}                                      &= \dfrac {19} {a} \\\\
+\dfrac {4 + 15} {20}                                                    &= \dfrac {19} {a} \\\\
+\dfrac {19} {20}                                                        &= \dfrac {19} {a} \\\\
+\dfrac {1} {20}                                                         &= \dfrac {1} {a} \\\\
+a                                                                       &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -3202,188 +3603,6 @@ $\dfrac {9} {2}$
 </ul>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Anastasia thinks of a positive integer, which Barry then doubles. Next, Charlie trebles Barry’s number. Finally, Damien multiplies Charlie’s number by six. Eve notices that the sum of these four numbers is a perfect square. What is the smallest number that Anastasia could have thought of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate this expression: 
-
-$5(6x + 7y - 8z)$
-
-$x = 9$ 
-
-$y = 3$
-
-$z = 6$
-
-- $95$
-- $120$
-- $135$
-- $180$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5 (6x + 7y - 8z) \\\\
-&= 5 (6 \times 9 + 7 \times 3 - 8 \times 6) \\\\
-&= 5 (54 + 21 - 48) \\\\
-&= 5 \times 27 \\\\
-&= 135
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$135$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>07071090-243A-4C15-B778-53C51DA63E26</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a number.
-I multiply it by $4$ and add $3$ to it.
-My solution is $23$.
-
-What is my number?
-
--  $5$
--  $80$
--  $6.5$
--  $8.75$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number I am thinking of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 4 + 3                                  &= 23 \\\\
-a \times 4                                      &= 23 - 3 \\\\
-4a                                              & = 20 \\\\
-a                                               &= \dfrac {20} {4} \\\\
-a                                               &= \dfrac {5 \times 4} {4} \\\\
-a                                               &= \dfrac {5 \times \cancel{4}} {\cancel{4}} \\\\
-a                                               &= 5
-\end{aligned}
-$
-
-The number I was thinking of $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

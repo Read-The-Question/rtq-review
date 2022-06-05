@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -945,7 +945,7 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -1068,7 +1068,7 @@ $124.08$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -1849,7 +1849,7 @@ $\text{Twenty one thousand one hundred seventy one}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
+<div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>242AC8B9-7333-4772-A4E2-A8579262210F</p>
 </div>
@@ -1969,7 +1969,7 @@ $51$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

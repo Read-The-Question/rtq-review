@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-8"
 title: "TopicPaper - Algebra - 8"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,232 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve the following equations, giving your answers as whole numbers or fractions. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x -7 = 5x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 x - 7    &= 5 x + 7 \\\\
+3 x - 5 x  &= 7 + 7 \\\\
+- 2 x      &= 14 \\\\
+x          &= - \dfrac {14} {2} \\\\
+x          &= - \dfrac {7 \times 2} {2} \\\\
+x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+x          &= - 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
+\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
+\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
+\dfrac{x}{6}                                                    &= 8 \\\\
+x                                                               &= 8 \times 6 \\\\
+                                                                &= 48
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John picked strawberries every day for $7$ days. Each day after the first day, he picked $5$ more strawberries than the day before. In total he picked $175$ strawberries. How many strawberries did John pick on the last day? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{let the number of strawberies picked on firstday = x}
+x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
+(x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
+7x + 105                                                                &= 175 \\\\
+7x                                                                      &= 175 - 105 \\\\
+7x                                                                      &= 70 \\\\
+x                                                                       &= 10 \\\\
+x + 30                                                                  &= 10 + 30 \\\\
+                                                                        &= 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>33950D66-0394-4747-B53F-98D8262D12EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A school has $995$ pupils. If there are $7$ less girls than boys, how many boys are there in the school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of boys $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{No. of boys}                                              &= \text{Total pupil} - \text{No. of girls} \\\\
+b                                                               &= 995 - (b - 7) \\\\
+b                                                               &= 995 - b + 7 \\\\
+b + b                                                           &= 995 + 7 \\\\
+2b                                                              & = 1002 \\\\
+b                                                               &= \dfrac {1002} {2} \\\\
+b                                                               &= \dfrac {2 \times 501} {2} \\\\
+b                                                               &= \dfrac {\cancel{2} \times 501} {\cancel{2}} \\\\
+b                                                               &= 501
+\end{aligned}
+$
+
+Number of boys in the school $= 501$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$501$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -4611,342 +4837,6 @@ $10, 11, 9$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Tim, David and Alison are given some money by their grandfather. Tim gets twice as much as David and three times as much as Alison. If they get $\pounds 49.50$ in total, how much do they each get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the money Tim received $= a$.
-
-According to the question,
-
-Money David recieved $= \dfrac {a} {2}$.
-
-Money Alison recieved $= \dfrac {a} {3}$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total money they recieved}                                                                       &= \pounds 49.50 \\\\
-a + \dfrac {a} {2} + \dfrac {a} {3}                                                                     &= 49.50 \\\\
-\dfrac {6 \times a} {1 \times 6} + \dfrac {a \times 3} {2 \times 3} + \dfrac {a \times 2} {3 \times 2}  &= 49.50 \\\\
-\dfrac {6a} {6} + \dfrac {3a} {6} + \dfrac {2a} {6}                                                     &= 49.50 \\\\
-\dfrac {6a + 3a + 2a} {6}                                                                               &= 49.50 \\\\
-11a                                                                                                     &= 49.50 \times 6 \\\\
-a                                                                                                       &= \dfrac {297} {11} \\\\
-a                                                                                                       &= \dfrac {27 \times 11} {11} \\\\
-a                                                                                                       &= \dfrac {27 \times \cancel {11}} {\cancel {11}} \\\\
-a                                                                                                       &= \pounds 27
-\end {aligned}
-$
-
-Money Tim received $= \pounds 27$.
-
-Money David recieved $= \dfrac {27} {2} = \pounds 13.5$.
-
-Money Alison recieved $= \dfrac {27} {3} = \pounds 9$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 27, \pounds 13.5, \pounds 9$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two numbers have a sum of $87$. The larger of the numbers is twice the smaller. What are the two numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the smaller number $= a$.
-
-The larger number $= 2a$.
-
-As per the question,
-
-$
-\begin{aligned}
-a + 2a  &= 87 \\\\
-3a      &= 87 \\\\
-a       &= \dfrac {87} {3} \\\\
-a       &= \dfrac {29 \times 3} {3} \\\\
-a       &= \dfrac {29 \times \cancel {3}} {\cancel {3}} \\\\
-a       &= 29
-\end{aligned}
-$
-
-Smaller Number $= 29$.
-
-Larger number $= 2 \times 29 = 58$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29, 58$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>6AE9FEC7-9C45-4A0D-B701-A93F8EB055D9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the value of for each of the following equations: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5x - 8 = 27$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5x - 8 &= 27 \\\\
-5x     &= 27 + 8 \\\\
-5x     &= 35 \\\\
-x      &= \dfrac {35} {5} \\\\
-x      &= \dfrac {5 \times 7} {5} \\\\
-x      &= \dfrac {\cancel {5} \times 7} {\cancel {5} } \\\\
-x      &= 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5(2x + 4) = 50$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-5(2x + 4)    &= 50   \\\\
-2x + 4       &= \dfrac {50} {5} \\\\
-2x + 4       &= \dfrac {5 \times 10} {5} \\\\
-2x + 4       &= \dfrac {\cancel {5} \times 10} {\cancel {5} } \\\\
-2x + 4       &= 10 \\\\
-2x           &= 10 - 4 \\\\
-x            &= 6 \\\\
-x            &= \dfrac{2 \times 3} {2} \\\\
-x            &= \dfrac{\cancel {2} \times 3} {\cancel {2} } \\\\
-x            &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12x = 5x + 28$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-12x      &= 5x + 28 \\\\
-12x - 5x &= 28 \\\\
-8x       &= 28 \\\\
-x        &= \dfrac {28} {8} \\\\
-x        &= \dfrac {8 \times 3} {8} \\\\ 
-x        &= \dfrac {\cancel {8} \times 3} {\cancel {8} } \\\\ 
-x        &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac {5x} {4} + 3 = 13$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac {5x} {4} + 3 &= 13 \\\\
-\dfrac {5x} {4}     &= 13 - 3 \\\\
-\dfrac {5x} {4}     &= 10 \\\\
-5x                  &= 10 \times 4 \\\\
-5x                  &= 40 \\\\
-x                   &= \dfrac {40} {5} \\\\
-x                   &= \dfrac {5 \times 8} {5} \\\\
-x                   &= \dfrac {\cancel {5} \times 8} {\cancel {5} } \\\\
-x                   &= 8
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

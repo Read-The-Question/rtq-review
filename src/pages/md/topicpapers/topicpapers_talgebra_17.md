@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-17"
 title: "TopicPaper - Algebra - 17"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,301 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>21D2A583-FB30-4094-B30F-00057B5E3942</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find all the solutions to the following pairs of simultaneous equations.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2x+3y=24$
+
+$3x-2y=10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$2x+3xy=24$
+
+$3x-2xy=10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find all the *integers x, y, z* which satisfy:
+
+$2xy+3xz=24$
+
+$3xy-2xz=10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ben has $$\pounds 68$. He gives a quarter of this to his sister. How much does he have left?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total money = $\pounds 68$
+
+Money left with Ben = Total money - $\dfrac {1} {4} \ \text{of} \ \pounds 68$
+
+$
+\begin{aligned}
+&= 68 - (\dfrac {1} {4} \times 68) \\\\
+&= 68 - \dfrac {68} {4} \\\\
+&= 68 - \dfrac {17 \times 4} {4} \\\\
+&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
+&= 68 - 17 \\\\
+&= \pounds 51
+\end{aligned}
+$
+
+Money left with Ben $= \pounds 51$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 51$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When two fifths of the class are absent, there are $18$ pupil; present. What is the total number of pupils in the class?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the total number of pupils be $t$
+
+As per the question,
+
+Pupil present = $18$
+
+Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
+
+Total pupil = pupil present + pupil absent
+
+$
+\begin{aligned}
+t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
+t                                                               &= 18 + \dfrac {2t} {5} \\\\
+t - \dfrac {2t} {5}                                             &= 18 \\\\
+\dfrac{t \times 5} {1 \times 5} - \dfrac {2t} {5}               &= 18 \\\\
+\dfrac{5t - 2t} {5}                                             &= 18 \\\\
+\dfrac{3t} {5}                                                  &= 18 \\\\
+3t                                                              &= 18 \times 5 \\\\
+t                                                               &= \dfrac {18 \times 5} {3} \\\\
+t                                                               &= \dfrac {3 \times 6 \times 5} {3} \\\\
+t                                                               &= \dfrac {\cancel {3} \times 6 \times 5} {\cancel {3}} \\\\
+t                                                               &= 6 \times 5 \\\\
+t                                                               &= 30
+\end{aligned}
+$
+
+Total number of pupils in the class = $30$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>

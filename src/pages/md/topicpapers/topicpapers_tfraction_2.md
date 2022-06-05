@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,141 +14,6 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>55815068-841C-40AD-BCEE-2DE99DEED918</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which fraction is $\dfrac {28} {35}$ equivalent to?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {28} {35} \\\\
-&= \dfrac {7 \times 4} {7 \times 5} \\\\
-&= \dfrac {\cancel {7} \times 4} {\cancel {7} \times 5} \\\\
-&= \dfrac {4}{5} 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4}{5}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:38</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-What fraction of the shape is shaded?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac {4} {6}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {6}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $1.9$ as a fraction?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 1.9 \\\\
-&= \dfrac {19} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {19} {10}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:36</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -297,7 +162,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>6A0B028F-8983-4046-BA81-D33149CB1A3B</p>
 </div>
@@ -341,7 +206,7 @@ $\dfrac {5} {8}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -399,7 +264,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_g0 question'>
+<div class='question_envelope rag_wf_g2 question'>
 <div class='uuid'>
 <p>91007B07-FD0E-4150-A5EA-C49F1D222022</p>
 </div>
@@ -444,7 +309,7 @@ $630$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 </div>
 </li>
@@ -3649,6 +3514,225 @@ $\dfrac {7} {16}$
 
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C9A69D3A-7B6D-43DE-9AB9-5AE02CE0F1EF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate, giving your answer as simply as possible
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{5}{12} + \dfrac{4}{12}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {5} {12} + \dfrac {4} {12} \\\\
+&= \dfrac {5 + 4} {12} \\\\
+&= \dfrac {9} {12} \\\\
+&= \dfrac {3 \times 3} {3 \times 4} \\\\
+&= \dfrac {\cancel {3} \times 3} {\cancel {3} \times 4} \\\\
+&= \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{1}{6} + \dfrac{1}{3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {6} + \dfrac {1} {3} \\\\
+&= \dfrac {1} {6} + \dfrac {1 \times 2} {3 \times 2} \\\\
+&= \dfrac {1} {6} + \dfrac {2} {6} \\\\
+&= \dfrac {1 + 2} {6} \\\\
+&= \dfrac {3} {6} \\\\
+&= \dfrac {3} {2 \times 3} \\\\
+&= \dfrac {\cancel {3}} {2 \times \cancel{3}} \\\\
+&= \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5797CE1A-0696-49CB-A444-FE9B9FFE110D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete the table below, giving fractions in their lowest terms.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} \times 2 \ \dfrac {1} {4} \\\\
+&= \dfrac {1} {3} \times \dfrac {9} {4} \\\\
+&= \dfrac {9} {3 \times 4} \\\\
+&= \dfrac {3 \times 3} {3 \times 4} \\\\
+&= \dfrac {\cancel 3 \times 3} {\cancel 3 \times 4} \\\\
+&= \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

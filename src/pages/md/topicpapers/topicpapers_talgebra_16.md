@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,299 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FCFAFC6F-1712-4B57-99C9-697FE6184648</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Five friends raise $\pounds 400$ for their favourite charity. 
+Alan collects $\pounds 74$  and Bilal raises $\pounds 86$. 
+Chloe collects twice as much as David who raises three times as much as Emily. How much did Chloe collect?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Emily's collection (in $\pounds$) $= a$. Then,
+
+David's collection $= 3a$
+
+Chloe's collection $= 6a$
+
+As per the question,
+
+$
+\begin{aligned}  
+74 + 86 + 6a + 3a + a   &= 400 \\\\
+160 + 10a               &= 400 \\\\
+10a                     &= 400 - 160 \\\\
+10a                     &= 240 \\\\
+a                       &= \dfrac {240} {10} \\\\
+a                       &= \pounds 24
+\end{aligned}
+$
+
+Emily's collection $= \pounds 24$
+
+Let's find Chloe's collection.
+
+$
+\begin{aligned}  
+\text{Chloe's collection} &= 6a \\\\
+                          &= 6 \times 24 \\\\
+                          &= \pounds 144
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 144$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>839261B7-4E0B-4FF5-A157-78F5DDA2504D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If one cake and two biscuits provide $450 \ \text {calories}$ and two cakes and three biscuits provide $800 \ \text {calories}$, how many $\ \text{calories}$ are provided by one biscuit?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the calories provided by the cake (in calories) $= c$
+
+Let the calories provided by the biscuit (in calories) $= b$
+
+As per the question,
+
+$
+\begin{aligned} 
+c + 2b      &= 450 \\\\
+2c + 3b     &= 800         
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+But which one should we eliminate? 
+
+If we look at the question again, we only need the 
+calories provided by the biscuit, so let's eliminate $c$ so we can directly calculate the value for $b$.
+
+Multiply the first equation by $2$.
+
+$
+\begin{aligned}
+c + 2b                          &= 450 \\\\
+2 \times c  + 2 \times 2b       &= 2 \times 450 \\\\
+2c + 4b                         &= 900
+\end{aligned}
+$
+
+Subtract the second equation from the first to reduce it to one variable.
+
+$
+\begin{aligned}
+2c + 4b                 &= 900 \\\\
+2c + 3b                 &= 800    \\\\
+2c + 4b -(2c + 3b)      &= 900 - 800 \\\\
+2c + 4b - 2c - 3b       &= 100 \\\\
+b                       &= 100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+<div class='working'>
+
+What if we eliminate $b$ instead?
+
+This approach is less efficient as we will have to calculate one extra value to get the answer.
+
+Let's eliminate to reduce it to just one variable. 
+
+The LCM of $2$ and $3$ is $6$.
+Multiply the first equation by $3$ and the second equation by $2$ to make the coeifficent of $b$ the same.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+2c + 3b                         &= 800  \\\\   
+3 \times c + 3 \times 2b        &= 3 \times 450 \\\\
+2 \times 2c + 2 \times 3b       &= 2 \times 800  \\\\    
+3c + 6b                         &= 1050 \\\\
+4c + 6b                         &= 1600  \\\\   
+\end{aligned}
+$
+
+Subtract the first equation from the second to reduce it to one variable.
+
+$
+\begin{aligned}
+3c + 6b                 &= 1350 \\\\
+4c + 6b                 &= 1600  \\\\ 
+4c + 6b - (3c + 6b)     &= 1600 - 1350  \\\\ 
+4c + 6b - 3c - 6b       &= 250  \\\\ 
+c                       &= 250 \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the cake $= 250 \ \text {calories}$. 
+
+Let's substitute the value of $c$ in one of the initial equations to find the calories provided by the biscuit.
+
+$
+\begin{aligned} 
+c + 2b                          &= 450 \\\\
+250 + 2b                        &= 450 \\\\
+2b                              &= 450 - 250 \\\\
+2b                              &= 200 \\\\
+b                               &= \dfrac{200}{2} \\\\
+b                               &=  100  \ \text {calories}
+\end{aligned}
+$
+
+Calories provided by the biscuit $= 100  \ \text {calories}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$100  \ \text {calories}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>EE1F9669-3D5F-4C89-85B1-F004C01C7CF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+<li>
+tcoin
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a bag of money to take to the bank I have only $5 \text{p}$, $10 \text{p}$ and $20 \text{p}$ coins.
+
+I have twice as many $20 \text{p}$ coins as $10 \text{p}$ coins and half as many $5 \text{p}$ coins as $10 \text{p}$ coins.
+
+If the bag contains $\pounds 15.75$, how many $20 \text{p}$ coins are there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of $5 \text{p}$ coins $= a$. Then,
+
+Number of $10 \text{p}$ coins $= 2a$
+
+Number of $20 \text{p}$ coins $= 4a$
+
+It is really important to convert into the right units. 
+The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
+
+As per the question,
+
+$
+\begin{aligned}  
+5 \times a + 10 \times 2a + 20 \times 4a    &= \pounds 15.75 \\\\
+5a + 20a + 80a                              &= 15.75 \times 100 \ \text {p} \\\\
+5a + 20a + 80a                              &= 1575 \\\\
+105a                                        &= 1575 \\\\
+a                                           &= \dfrac {1575} {105} \\\\
+a                                           &= \dfrac {21 \times 5 \times 15} {21 \times 5} \\\\
+a                                           &= \dfrac {\cancel{21} \times \cancel{5} \times 15} {\cancel{21} \times \cancel{5}} \\\\
+a                                           &= 15
+\end{aligned}
+$
+
+Number of $5 \ \text{p}$ coins $= 15$
+
+Let's find the number of $20 \ \text{p}$ coins.
+
+$
+\begin {aligned}
+20 \ \text{p} \text{ coins}   &= 4a \\\\
+                              &= 4 \times 15 \\\\
+                              &= 60
+\end {aligned}
+$
+
+Number of $20 \ \text{p}$ coins $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -4017,301 +4310,6 @@ $12$
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>21D2A583-FB30-4094-B30F-00057B5E3942</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find all the solutions to the following pairs of simultaneous equations.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2x+3y=24$
-
-$3x-2y=10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2x+3xy=24$
-
-$3x-2xy=10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find all the *integers x, y, z* which satisfy:
-
-$2xy+3xz=24$
-
-$3xy-2xz=10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>EF6C4BDF-FB5F-47E7-A7CA-14BDC56D176E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ben has $$\pounds 68$. He gives a quarter of this to his sister. How much does he have left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total money = $\pounds 68$
-
-Money left with Ben = Total money - $\dfrac {1} {4} \ \text{of} \ \pounds 68$
-
-$
-\begin{aligned}
-&= 68 - (\dfrac {1} {4} \times 68) \\\\
-&= 68 - \dfrac {68} {4} \\\\
-&= 68 - \dfrac {17 \times 4} {4} \\\\
-&= 68 - \dfrac {17 \times \cancel {4}} {\cancel {4}} \\\\
-&= 68 - 17 \\\\
-&= \pounds 51
-\end{aligned}
-$
-
-Money left with Ben $= \pounds 51$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>F4722F0A-FE19-4DC1-BE2D-4BA0FACA8523</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-When two fifths of the class are absent, there are $18$ pupil; present. What is the total number of pupils in the class?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the total number of pupils be $t$
-
-As per the question,
-
-Pupil present = $18$
-
-Pupil absent = $\dfrac {2} {5} \ \text{of} \ t$
-
-Total pupil = pupil present + pupil absent
-
-$
-\begin{aligned}
-t                                                               &= 18 + \dfrac {2} {5} \times t \\\\
-t                                                               &= 18 + \dfrac {2t} {5} \\\\
-t - \dfrac {2t} {5}                                             &= 18 \\\\
-\dfrac{t \times 5} {1 \times 5} - \dfrac {2t} {5}               &= 18 \\\\
-\dfrac{5t - 2t} {5}                                             &= 18 \\\\
-\dfrac{3t} {5}                                                  &= 18 \\\\
-3t                                                              &= 18 \times 5 \\\\
-t                                                               &= \dfrac {18 \times 5} {3} \\\\
-t                                                               &= \dfrac {3 \times 6 \times 5} {3} \\\\
-t                                                               &= \dfrac {\cancel {3} \times 6 \times 5} {\cancel {3}} \\\\
-t                                                               &= 6 \times 5 \\\\
-t                                                               &= 30
-\end{aligned}
-$
-
-Total number of pupils in the class = $30$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

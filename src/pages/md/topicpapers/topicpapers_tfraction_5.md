@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-05 11:50:18
+date: 2022-06-05 12:44:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,277 +14,6 @@ date: 2022-06-05 11:50:18
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>173A89D2-2138-4943-AFAE-53768C9E5BC0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a patio made up of square concrete slabs. The shaded ones are cracked.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-TODOSUBQUESTION
-a) What fraction of the total number of slabs is cracked?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Fraction of slabs cracked}        &= \dfrac{\text{Cracked slabs}}{\text{Total slabs}} \\\\
-                                        &= \dfrac{7}{24}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{7}{24}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-b) Each slab measures $\dfrac{1}{2}$ metre by $\dfrac{1}{2}$ metre. What is the area of one slab, **in** $\text{cm}^2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Area of one slab}         &= \text{length} \times \text{width} \\\\
-                                &= \dfrac{1}{2} \times 100 \times \dfrac{1}{2} \times 100 \ \text{cm}^2 \\\\
-                                &= \dfrac{100 \times 100}{2 \times 2} \\\\
-                                &= \dfrac{100 \times 25 \times 4}{4} \\\\
-                                &= \dfrac{100 \times 25 \times \cancel{4}}{\cancel{4}} \\\\
-                                &= 100 \times 25
-\text{Area of one slab}         &= 2500 \ \text{cm}^2 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2500 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-c) If it is decided to cement over the cracked slabs, what area, **in** $\text{cm}^2$, needs to be cemented?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total number of cracked slabs $= 7$
-
-Area of each slab $= 2500 \ \text{cm}^2$
-
-Area of cement required $=$ Total cracked slabs $\times$ Area of each slab
-                        $= 7 \times 2500$
-                        $=17500 \ \text{cm}^2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$=17500 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>B5D0A1DE-7CF1-4AB2-9B06-F68A87B0D915</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Change $0.76$ to a fraction in its simplest form.
-
-- $\dfrac{19}{25}$
-- $\dfrac{38}{50}$
-- $\dfrac{76}{100}$
-- $\dfrac{3}{4}$
-- $\dfrac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.76 \\\\
-&=  \dfrac{76}{100} \\\\
-&=  \dfrac{19 \times 4}{25 \times 4} \\\\
-&=  \dfrac{19 \times \cancel{4}}{25 \times \cancel{4}} \\\\
-&=  \dfrac{19}{25}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$\dfrac{19}{25}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>EC3E64BC-89F2-40BF-A533-FD22D897D87A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is two-fifths of $45$?
-
-- $9$
-- $18$
-- $27$
-- $5$
-- $10$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \text{the two-fifth of} \ 45 \\\\
-&= \dfrac{2}{5} \text{of} \ 45 \\\\
-&= \dfrac{2}{5} \times 45 \\\\
-&= \dfrac{2 \times 45}{5} \\\\
-&= \dfrac{2 \times 9 \times 5}{5} \\\\
-&= \dfrac{2 \times 9 \times \cancel{5}}{\cancel{5}} \\\\
-&= 2 \times 9 \\\\
-&= 18
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3574,6 +3303,246 @@ $60$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0DA91A78-9D3B-401D-88F2-BF5050E8FEF5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{8}$ of $72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{8} \times 72 \\\\
+&= \dfrca{3 \times 72}{4} \\\\
+&= \dfrac{3 \times 9 \times 8} {8} \\\\
+&= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
+&= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number in the list below that is closest to $\dfrac{1}{2}$
+                                                      
+$\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {1} {2} = 0.5$
+
+Let's convert all the numbers to decimal.
+
+$
+\begin {aligned}
+&= \dfrac {1} {5}, \quad \dfrac {3} {7}, \quad \dfrac {5} {9}, \quad \dfrac {7} {11} \\\\
+&= 0.2, \quad 0.42, \quad 0.55, \quad 0.63
+\end {aligned}
+$
+
+$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {9}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>D3411CD6-FB91-4D05-A6E9-7517D376C522</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Shade $40\%$ of the shape below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of the large square below is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

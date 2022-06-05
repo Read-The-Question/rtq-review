@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1280,31 +1280,7 @@ $7, \quad 15, \quad 23, \quad 31, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(+8)} } 
-&&  \footnotesize {\maroonC
- {(+8)} }  
-&&  \footnotesize {\maroonC
- {(+8)} }   
-&&  \footnotesize {\maroonC
- {(+8)} } \\
-7,  &&    15,  &&  23,  &&   31,  &&   \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text {Missing number} &= 31 + 8 \\\\
-                       &= 39
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $8$. Hence, the sequence would be:
@@ -1356,35 +1332,7 @@ $42, \quad 33, \quad 24, \quad \ldots, \quad 6, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $-9$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-9)} } 
-&&  \footnotesize {\maroonC
- {(-9)} }  
-&&  \footnotesize {\maroonC
- {(-9)} }   
-&&  \footnotesize {\maroonC
- {(-9)} }
-&&  \footnotesize {\maroonC
- {(-9)} } \\
-42,  &&    33,  &&  24,  &&   \ldots  &&   6,  &&   \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 24 - 9 \\\\
-                                  &= 15 \\\\
-\text{Second missing number}      &= 6 - 9 \\\\
-                                  &= -3
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-9$. Hence, the sequence would be:

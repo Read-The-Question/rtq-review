@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -947,33 +947,7 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $123$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-123)} } 
-&&  \footnotesize {\maroonC
- {(-123)} }  
-&&  \footnotesize {\maroonC
- {(-123)} }   
-&&  \footnotesize {\maroonC
- {(-123)} }  \\
-951,  &&    828,  &&  705,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fourth number}        &= 705 - 123 \\\\
-                            &= 582 \\\\
-\text{Fifth number}         &= 582 - 123 \\\\
-                            &= 459
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $123$. Hence, the sequence would be:

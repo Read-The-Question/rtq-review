@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-3"
 title: "TopicPaper - Order - 3"
-date: 2022-06-05 14:04:01
+date: 2022-06-05 14:56:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -835,31 +835,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.2)}} 
-&&  \footnotesize{\maroonC
-{(+0.2)}}  
-&&  \footnotesize{\maroonC
-{(+0.2)}}   
-&&  \footnotesize{\maroonC
-{(+0.2)}}  \\
-\boxed{\phantom{\ 55.5 \ }}, && 20.0, &&  20.2, &&  20.4
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}      &= 20.0 - 0.2 \\\\
-                        &= 19.8
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.2$. Hence, the sequence would be:

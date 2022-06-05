@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -415,30 +415,7 @@ Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-    \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
-\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
-                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
-                            &= \dfrac {20} {32}
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

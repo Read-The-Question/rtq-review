@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -280,26 +280,7 @@ $101, \quad 86, \quad 74, \quad 65, \quad \ldots, \quad 56$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC{(-15)}}
-&&  \footnotesize{\maroonC{(-12)}}
-&&  \footnotesize{\maroonC{(-9)}}
-&&  \footnotesize{\maroonC{(-6)}}
-&&  \footnotesize{\maroonC{(-3)}} \\
-101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 65 - 6 \\\\
-                        &= 59
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

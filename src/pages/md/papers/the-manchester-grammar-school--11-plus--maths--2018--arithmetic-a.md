@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -130,26 +130,7 @@ $2.3, \quad 3.4, \quad 4.7, \quad 6.2, \quad \ldots, \quad 9.8$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC {(+1.1)}} 
-&&  \footnotesize {\maroonC {(+1.3)}}  
-&&  \footnotesize {\maroonC {(1.5)}}   
-&&  \footnotesize {\maroonC {(+1.7)}}  
-&&  \footnotesize {\maroonC {(+1.9)}} \\
-2.3,  &&    3.4,  &&    4.7,  &&   6.2,  &&   \ldots,  &&   9.8
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 6.2 + 1.7 \\\\
-                        &= 7.9
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

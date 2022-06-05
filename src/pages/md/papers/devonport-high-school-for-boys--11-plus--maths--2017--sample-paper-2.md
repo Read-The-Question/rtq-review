@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -954,33 +954,7 @@ $991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $127$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-127)} } 
-&&  \footnotesize {\maroonC
- {(-127)} }  
-&&  \footnotesize {\maroonC
- {(-127)} }   
-&&  \footnotesize {\maroonC
- {(-127)} }  \\
-991,  &&    864,  &&  737,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fourth number}        &= 737 - 127 \\\\
-                            &= 610 \\\\
-\text{Fifth number}         &= 610 - 127 \\\\
-                            &= 483
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $127$. Hence, the sequence would be:

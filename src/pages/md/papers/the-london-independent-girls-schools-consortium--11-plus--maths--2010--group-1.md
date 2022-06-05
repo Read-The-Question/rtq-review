@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -371,31 +371,7 @@ $5.5, \quad  5.8, \quad  6.1, \quad  6.4, \quad  \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.3)}} 
-&&  \footnotesize{\maroonC
-{(+0.3)}}  
-&&  \footnotesize{\maroonC
-{(+0.3)}}   
-&&  \footnotesize{\maroonC
-{(+0.3)}}  \\
-5.5, &&  5.8, &&  6.1, &&  6.4, &&  \text{\textunderscore \textunderscore \textunderscore}
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next number}       &= 6.4 + 0.3 \\\\
-                        &= 6.7
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
@@ -447,31 +423,7 @@ $3, \quad  6, \quad  12, \quad  24, \quad  \text{\textunderscore \textunderscore
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}  
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-3, &&  6, &&  12, &&  24, &&  \text{\textunderscore \textunderscore \textunderscore}
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next number}       &= 24 \times 2 \\\\
-                        &= 48
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:

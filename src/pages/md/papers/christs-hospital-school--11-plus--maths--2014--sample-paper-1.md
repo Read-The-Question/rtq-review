@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -255,35 +255,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 19 + 4\\\\
-                               &= 23 \\\\
-\text {Second missing number}  &= 23 + 4\\\\
-                               &= 27
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -342,35 +314,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 12 \div 2 \\\\
-                               &= 6 \\\\
-\text {Second missing number}  &= 6 \div 2 \\\\
-                               &= 3
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
@@ -429,35 +373,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 11 + 5\\\\
-                               &= 16 \\\\
-\text {Second missing number}  &= 16 + 6\\\\
-                               &= 22
-\end {aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:

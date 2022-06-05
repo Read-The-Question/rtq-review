@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2245,43 +2245,7 @@ What is the sum of the next three terms in the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{\times 2 - 3 }}
-&&  \footnotesize{\maroonC
-{\times 2 - 3 }} 
-&&  \footnotesize{\maroonC
-{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC
-{\times 2 - 3 }}   
-&&  \footnotesize{\maroonC
-{\times 2 - 3 }}  \\
-4,  &&    5,  &&  7,  &&   \ldots, &&    \ldots,  &&  \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= 7 \times 2 - 3 \\\\
-                               &= 14 - 3 \\\\     
-                               &= 11 \\\\
-\text{Second missing number}   &= 11 \times 2 - 3 \\\\
-                               &= 22 - 3 \\\\     
-                               &= 19 \\\\
-\text{Third missing number}    &= 19 \times 2 - 3 \\\\
-                               &= 38 - 3 \\\\ 
-                               &= 35 \\\\
-\text{The sum of the next three terms in the sequence}  &= \text{First missing number} + \text{Second missing number} + \text{Third missing number} \\\\
-&=  11 + 16 + 39 \\\\
-&=  65
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:

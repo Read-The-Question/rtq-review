@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -323,89 +323,7 @@ $1, \quad 2, \quad 4, \quad 8, \quad \ldots, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+4)}}  
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+4)}}   
-&&  \footnotesize{\maroonC
-{(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 15 + 4 \\\\
-                                    &= 19 \\\\
-\text{Second missing number}        &= 19 + 4 \\\\
-                                    &= 23 \\\\
-\text{Third missing number}         &= 23 + 4 \\\\
-                                    &= 27                                 
-\end{aligned}
-$
-
-rtq_abbr_md_sequence_find_difference_note
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}} 
-&&  \footnotesize{\maroonC
-{(-6)}}  
-&&  \footnotesize{\maroonC
-{(-5)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
-53,  &&   46,  &&  40,  &&   35,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 35 - 4 \\\\
-                                    &= 31 \\\\
-\text{Second missing number}        &= 31 - 3 \\\\
-                                    &= 28
-\text{Third missing number}         &= 28 - 2 \\\\
-                                    &= 26 
-\end{aligned}
-$
-
-rtq_abbr_md_sequence_find_difference_note
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-1,  &&    2,  &&  4,  &&   8,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 8 \times 2 \\\\
-                                    &= 16 \\\\
-\text{Second missing number}        &= 16 \times 2 \\\\
-                                    &= 32
-\text{Third missing number}         &= 32 \times 2 \\\\
-                                    &= 64
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -435,60 +353,7 @@ $
 \end{aligned}
 $
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}} 
-&&  \footnotesize{\maroonC
-{(-6)}}  
-&&  \footnotesize{\maroonC
-{(-5)}}   
-&&  \footnotesize{\maroonC
-{(-4)}}  \\
-53,  &&   46,  &&  40,  &&   35,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 35 - 4 \\\\
-                                    &= 31 \\\\
-\text{Second missing number}        &= 31 - 3 \\\\
-                                    &= 28
-\text{Third missing number}         &= 28 - 2 \\\\
-                                    &= 26 
-\end{aligned}
-$
-
-rtq_abbr_md_sequence_find_difference_note
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-1,  &&    2,  &&  4,  &&   8,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 8 \times 2 \\\\
-                                    &= 16 \\\\
-\text{Second missing number}        &= 16 \times 2 \\\\
-                                    &= 32
-\text{Third missing number}         &= 32 \times 2 \\\\
-                                    &= 64
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $
@@ -516,33 +381,7 @@ $
 \end{aligned}
 $
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}} 
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}   
-&&  \footnotesize{\maroonC
-{(\times 2)}}  \\
-1,  &&    2,  &&  4,  &&   8,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}         &= 8 \times 2 \\\\
-                                    &= 16 \\\\
-\text{Second missing number}        &= 16 \times 2 \\\\
-                                    &= 32
-\text{Third missing number}         &= 32 \times 2 \\\\
-                                    &= 64
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $

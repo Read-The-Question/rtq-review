@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1713,31 +1713,7 @@ $5.4, \quad 5.8, \quad 6.2, \quad 6.6, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(+0.4)} } 
-&&  \footnotesize {\maroonC
- {(+0.4)} }  
-&&  \footnotesize {\maroonC
- {(+0.4)} }   
-&&  \footnotesize {\maroonC
- {(+0.4)} }  \\
-5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next number}        &= 6.6 + 0.4 \\\\
-                          &= 7.0
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.4$. Hence, the sequence would be:
@@ -1789,27 +1765,7 @@ $1.3, \quad 1.23, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $0.07$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-0.07)} }   
-&&  \footnotesize {\maroonC
- {(-0.07)} }  \\
-1.3,  &&    1.23, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next number}        &= 1.23 - 0.07 \\\\
-                          &= 1.16
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.07$. Hence, the sequence would be:
@@ -1864,35 +1820,7 @@ $\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(+4)} } 
-&&  \footnotesize {\maroonC
- {(+4)} }  
-&&  \footnotesize {\maroonC
- {(+4)} }   
-&&  \footnotesize {\maroonC
- {(+4)} }   
-&&  \footnotesize {\maroonC
- {(+4)} }   
-&&  \footnotesize {\maroonC
- {(+4)} }  \\
-\ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Seventh term in the sequence}        &= 18 + 4 + 4 \\\\
-                                           &= 26
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:

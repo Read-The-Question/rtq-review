@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1324,37 +1324,7 @@ $28,\ 25,\ 22,\    13,\ 10.$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $-3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-3)} } 
-&&  \footnotesize {\maroonC
- {(-3)} }  
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }   
-&&  \footnotesize {\maroonC
- {(-3)} }
-&&  \footnotesize {\maroonC
- {(-3)} }  \\
-28,  &&  25,  &&  22,  &&  \ldots,  &&  \ldots,  &&  13,  &&  10
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 22 - 3 \\\\
-                                  &= 19 \\\\
-\text{Second missing number}      &= 19 - 3 \\\\
-                                  &= 16
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -1412,37 +1382,7 @@ $3,\ 4,\ 6,\ 9,\ 13,  31$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(+1)} } 
-&&  \footnotesize {\maroonC
- {(+2)} }  
-&&  \footnotesize {\maroonC
- {(+3)} }   
-&&  \footnotesize {\maroonC
- {(+4)} }   
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }
-&&  \footnotesize {\maroonC
- {(+7)} } \\
-3,  &&  4,  &&  6,  &&  9,  &&  13,  &&  \ldots,  &&  \ldots,  &&  31
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 13 + 5 \\\\
-                                  &= 18 \\\\
-\text{Second missing number}      &= 18 + 6 \\\\
-                                  &= 24
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 $
@@ -1494,37 +1434,7 @@ $5,\ -10,\ 20,  -160,\ 320$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {\times (-2)} } 
-&&  \footnotesize {\maroonC
- {\times (-2)} }  
-&&  \footnotesize {\maroonC
- {\times (-2)} }   
-&&  \footnotesize {\maroonC
- {\times (-2)} }   
-&&  \footnotesize {\maroonC
- {\times (-2)} }
-&&  \footnotesize {\maroonC
- {\times (-2)} } \\
-5,  &&  -10,  &&  20,  &&  \ldots,  &&  \ldots,  &&  -160,  &&  -320
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 20 \times (-2) \\\\
-                                  &= -40 \\\\
-\text{Second missing number}      &= -40 \times (-2) \\\\
-                                  &= 80
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-06-05 14:02:22
+date: 2022-06-05 14:54:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -266,31 +266,7 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-Let
-
-The difference between the terms is $7$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
-83,  &&   76,  &&   69,  &&   62,  &&   \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next missing number}  &= 62 - 7 \\\\
-                            &= 55
-\end{aligned}
-$
-s find the difference between the consecutive terms of the sequence.
+Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:

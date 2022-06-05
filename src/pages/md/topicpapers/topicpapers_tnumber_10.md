@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,307 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $36$ can be written as a product of $2 \text{'s}$ and $3 \text{'s}$ i.e.
-$2 \times 2 \times 3 \times 3 = 36$ and $48$ can be written as $2 \times 2 \times 2 \times 2 \times 3 = 48$. 
-Write the following numbers in a similar way.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$108$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1944$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate the following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$empty$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$207 + 1989 + 24.2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 207 + 1989 + 24.2 \\\\
-&= 2220.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2220.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1806 - 924$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= 1806 - 924 \\\\
-&= 882
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$882$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$624 \times 37$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= 624 \times 37 \\\\
-&= 23,088
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23,088$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7322 \div 14$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7322 \div 14 \\\\
-&= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
-&= 523
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$523$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -681,166 +380,6 @@ $11$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Express $36$ as a product of its prime factors.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Prime factors of $36 = 1, 2 \ \text {and} \ 3$
-
-$36$ as a product of its prime factors $= 2 \times 2 \times 3 \times 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2 \times 2 \times 3 \times 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the largest of the common factors of $24$ and $36$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
-
-Factors of $36$ (< 24) $= 1, 2, 3, 4, 6, 9, \bold {12}, 18$
-
-The largest common factors of $24$ and $36 = 12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many seconds are there in $\dfrac {1} {4} \ \text{of} \ \dfrac {1} {6} \ \text{of} \  \dfrac {1} {8}$ of a day?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $60$ minutes have $60$ seconds. 
-
-$1$ day = $(24 x 60 x 60)$ seconds.
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {1} {4} \ \text {of} \ \dfrac {1} {6} \ \text {of} \ \dfrac {1} {8} \ \text {of} \ 1 \ \text {day} \\\\ 
-&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60 \\\\\
-&= \dfrac {24 \times 60 \times 60} {4 \times 6 \times 8} \\\\
-&= \dfrac {6 \times 4 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
-&= \dfrac {\cancel {8} \times 3 \times \cancel {4} \times 15 \times \cancel {6} \times 10} {\cancel {4} \times \cancel {6} \times \cancel {8}} \\\\
-&= 3 \times 15 \times 10 \\\\
-&= 45 \times 10 \\\\
-&= 450 \ \text {seconds}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$450 \ \text {seconds}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4620,6 +4159,340 @@ $203170$
 
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>2CBA0E15-9CA5-4D50-9647-E8DA79C9D4AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate $0.871 - 0.39 + 1.4$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+According to BIDMAS,
+
+$
+\begin{aligned}
+&= 0.871 - 0.39 + 1.4 \\\\
+&= 0.871 + 1.01 \\\\
+&= 1.881
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.881$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1AA79E0A-DA4E-4F61-A71A-BF25667CDA50</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill  in the   missing  numbers  in this  division
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>744CC2DF-DAE1-4383-90BC-F461E38BCEE1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What  number   is half  way   between **3.2** and **5.6**?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3.2 + 5.6 } {2} \\\\
+&= \dfrac {8.8} {2} \\\\
+&= \dfrac {4.4 \times 2} {2} \\\\
+&= \dfrac {4.4 \times \cancel{2}} {\cancel {2}} \\\\
+&= 4.4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What  number   is half  way   between **-6** and **+4**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {-6 + 4} {2} \\\\
+&= \dfrac {-2} {2} \\\\
+&= -1
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>AD7DC95D-4C48-4334-802C-9077E25D2E24</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete these calculations  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+**21 $\times$ 6 + 9 $\times$ 6 =         $\times$ 6 **
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$
+
+$
+\begin{aligned}
+21 \times 6 + 9 \times 6   &= a \times 6 \\\\
+(21 + 9) \times 6          &= a \times 6 \\\\
+a                          &= \dfrac {(21 + 9) \times 6} {6} \\\\  
+a                          &= \dfrac {30 \times \cancel {6}} {\cancel {6}} \\\\
+a                          &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+**17 $\times$ 14 + 16 $\times$ 7 =       $\times$ 7 +      $\times$ 7**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $= a$ 
+
+$
+\begin{aligned}
+17 \times 14 + 16 \times 7                &=  a \times 7 + a \times 7 \\\\
+238 + 102                                 &=  7a + 7a \\\\
+14a                                       &=  350 \\\\
+a                                         &= \dfrac {350} {14} \\\\
+a                                         &= \dfrac {14 \times 25} {14} \\\\
+a                                         &= \dfrac {\cancel {14} \times 25} {\cancel {14}} \\\\
+a                                         &= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

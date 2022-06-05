@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,58 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>20E85746-0B74-4085-B598-68F104A85A9D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down a number between $0.3$ and $\dfrac{2}{5}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= (0.3 + \dfrac {2} {5}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {2} {5}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {2 \times 2} {5 \times 2}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {4} {10}) \div 2 \\\\
-&= (\dfrac {3 + 4} {10}) \div 2 \\\\
-&= \dfrac {7} {10} \times \dfrac {1} {2} \\\\
-&= \dfrac {7} {10 \times 2} \\\\
-&= \dfrac {7} {20} \\\\
-&= 0.35
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.35$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -4820,6 +4768,136 @@ $17$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the highest common factor (HCF) of $66$ and $30$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the lowest common multiple (LCM) of $12$ and $8$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

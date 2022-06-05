@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,158 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>173A89D2-2138-4943-AFAE-53768C9E5BC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a patio made up of square concrete slabs. The shaded ones are cracked.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+TODOSUBQUESTION
+a) What fraction of the total number of slabs is cracked?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Fraction of slabs cracked}        &= \dfrac{\text{Cracked slabs}}{\text{Total slabs}} \\\\
+                                        &= \dfrac{7}{24}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{7}{24}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+b) Each slab measures $\dfrac{1}{2}$ metre by $\dfrac{1}{2}$ metre. What is the area of one slab, **in** $\text{cm}^2$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Area of one slab}         &= \text{length} \times \text{width} \\\\
+                                &= \dfrac{1}{2} \times 100 \times \dfrac{1}{2} \times 100 \ \text{cm}^2 \\\\
+                                &= \dfrac{100 \times 100}{2 \times 2} \\\\
+                                &= \dfrac{100 \times 25 \times 4}{4} \\\\
+                                &= \dfrac{100 \times 25 \times \cancel{4}}{\cancel{4}} \\\\
+                                &= 100 \times 25
+\text{Area of one slab}         &= 2500 \ \text{cm}^2 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2500 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+c) If it is decided to cement over the cracked slabs, what area, **in** $\text{cm}^2$, needs to be cemented?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Total number of cracked slabs $= 7$
+
+Area of each slab $= 2500 \ \text{cm}^2$
+
+Area of cement required $=$ Total cracked slabs $\times$ Area of each slab
+                        $= 7 \times 2500$
+                        $=17500 \ \text{cm}^2$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$=17500 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3422,54 +3574,6 @@ $60$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>0DA91A78-9D3B-401D-88F2-BF5050E8FEF5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out $\dfrac{3}{8}$ of $72$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{3}{8} \times 72 \\\\
-&= \dfrca{3 \times 72}{4} \\\\
-&= \dfrac{3 \times 9 \times 8} {8} \\\\
-&= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
-&= 27
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

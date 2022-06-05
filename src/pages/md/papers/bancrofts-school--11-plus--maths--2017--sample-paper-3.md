@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-05 10:46:02
+date: 2022-06-05 11:48:39
 ---
 <div class='paper'>
 <div class='meta'>

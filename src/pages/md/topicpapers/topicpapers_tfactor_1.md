@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfactor-1"
 title: "TopicPaper - Factor - 1"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -782,6 +782,109 @@ $1, 7, 49$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>FCFEBCEB-D29D-4BCB-BA8F-8E658B694739</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Express $36$ as a product of its prime factors.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Prime factors of $36 = 1, 2 \ \text {and} \ 3$
+
+$36$ as a product of its prime factors $= 2 \times 2 \times 3 \times 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \times 2 \times 3 \times 3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the largest of the common factors of $24$ and $36$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Factors of $24 = 1, 2, 3, 4, 6, 8, \bold {12}, 24$
+
+Factors of $36$ (< 24) $= 1, 2, 3, 4, 6, 9, \bold {12}, 18$
+
+The largest common factors of $24$ and $36 = 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

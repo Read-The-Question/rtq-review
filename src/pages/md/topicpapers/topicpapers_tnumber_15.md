@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-15"
 title: "TopicPaper - Number - 15"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,465 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>283D33E8-E4AF-4295-A01E-F5EF9BA7A56E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sally has the number machine shown below.
-
-![missing image](/papers/missing_image.svg)
-
-
-Complete the table of input and output numbers for Sally’s machine.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Imogen has a different number machine which produced the following table of input and output numbers.
-
-![missing table](/papers/missing_table.svg)
-
-
-Unfortunately, the labels have fallen off Imogen’s machine.
-
-Write suitable labels on the diagram below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Summer has correctly used her calculator to work out that
-
-$17 \times 538 = 9146$
-
-Without doing any long multiplication or division, use Summer’s calculation to work out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$17 \times 540$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 17 \times 540 \\\\
-&= 17 \times (538 + 2) \\\\
-&= 17 \times 538 + 17 \times 2 \\\\
-&= 9146 + 17 \times 2 \\\\
-&= 9146 + 34 \\\\
-&= 9180
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9180$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$27 \times 538$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 27 \times 538 \\\\
-&= (10 + 17) \times 538 \\\\
-&= 10 \times 538 + 17 \times 538 \\\\
-&= 5380 + 9146 \\\\
-&= 14526
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14526$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9146 \div 34$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 9146 \div 34 \\\\
-&= \dfrac {9146} {34} \\\\
-&= \dfrac {17 \times 2 \times 269} {17 \times 2} \\\\
-&= \dfrac {\cancel {17} \times \cancel {2} \times 269} {\cancel {17} \times \cancel {2}} \\\\
-&= 269
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$269$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>8CA178E1-3E53-4A12-A620-3A797155DEEC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Given that $7.84 \times 6 = 46.8$, work out the value of $7.84 \times 18$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-7.84 \times 6             &= 46.8 \\\\
-7.84 \times 6 \times 3    &= 46.8 \times 3 \\\\
-7.84 \times 18            &= 140.4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140.4$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5D9766EF-08AE-488D-9646-593722B91E32</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The number machine below changes numbers according to the rule:
-
-**multiply by $3$, then add $6$**
-
-![missing image](/papers/missing_image.svg)
-
-
-Complete the input and output numbers for the machine.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are two possible function machines which will give results shown below. 
-
-Work out both possible answers.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_oldpr question'>
 <div class='uuid'>
@@ -4418,6 +3959,227 @@ $0.35$
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= (13 \times 6) - (62 - 35) \\\\
+&= 78 - 27 \\\\
+&= 51
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number three hundred and eight thousand, five hundred and twenty.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$308520$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$308520$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sum has been set out correctly to give the answer $67$? 
+
+- $8 + 4 \times 6 - 5$
+- $(8 + 4) \times (6 - 5)$
+- $(8 + 4) \times 6 - 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using **BIDMAS**,
+
+$
+\begin{aligned}
+\text{Option A}     &= 8 + 4 \times 6 - 5 \\\\
+                    &= 8 + 24 - 5 \\\\
+                    &= 32 - 5 \\\\
+                    &= 27 \neq 67
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Option B}     &= (8 + 4) \times (6 - 5) \\\\
+                    &= 12 \times 1 \\\\
+                    &= 12 \neq 67
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Option C}     &= (8 + 4) \times 6 - 5 \\\\
+                    &= 12 \times 6  - 5 \\\\
+                    &= 72 - 5 \\\\
+                    &= 67
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$(8 + 4) \times 6 - 5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \text{mm}$ giving your answer in $\text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
+
+Let's convert all the measurements into the same unit $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+&= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
+&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
+&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
+&= 231 \ \text{cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$231 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

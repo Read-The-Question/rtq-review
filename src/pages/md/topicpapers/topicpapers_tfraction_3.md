@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1221,6 +1221,148 @@ $\dfrac{-2}{5}$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_blocked question'>
+<div class='uuid'>
+<p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{fraction}$ between $0.8$ and $0.9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {0.8 + 0.9} {2} \\\\
+&= \dfrac {1.7} {2} \\\\
+&= \dfrac {1.7 \times 10} {2 \times 10} \\\\
+&= \dfrac {17} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{decimal}$ between $\dfrac{2}{5}$ and $\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {\dfrac {4 + 5} {10}} {2} \\\\
+&= \dfrac {9} {10 \times 2} \\\\
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative solution 
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
+&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
+&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
+&= \dfrac {0.4 + 0.5} {2} \\\\
+&= \dfrac {0.9} {2} \\\\
+&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
+&= \dfrac {9} {20}
+&= \dfrac {9} {20}\\\\
+&= 0.45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_blocked</p>
 </div>
 </div>
 </li>
@@ -3384,118 +3526,6 @@ $\dfrac {7} {1000}$
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>1AC37420-ED76-46DB-8EA0-B4C20BC0B176</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{3}{7}\times\dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3} {7} \times \dfrac {1} {2} \\\\
-&= \dfrac {3 \times 1} {7 \times 2} \\\\
-&= \dfrac {3} {14}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {14}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{3}{7}\div\dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
-
-$
-\begin{aligned}
-&= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
-&= \dfrac {3} {7} \times \dfrac {2} {1} \\\\
-&= \dfrac {3 \times 2} {7 \times 1} \\\\
-&= \dfrac {6} {7}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {6} {7}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

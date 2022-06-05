@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,258 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>41B81C3E-9640-4ED3-8BF8-AE96297D64EA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+At a railway station there are two platforms. At one platform, trains leave every $24 \ \text{minutes}$ and at 
+the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{a.m.}$, what time is it when trains next leave both platforms at the same time?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A train takes $3 \ \text{hours} \ 40 \ \text{minutes}$ to travel from York to London. It arrives at $18{:}00$ 
+having been delayed by $45 \ \text{minutes}$. At what time did it leave York?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A clock shows $14{:}27$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long is it since $10{:}32$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+APTQ,
+
+$
+\begin{aligned}
+\text{Time gap between} \ ( 10:32 ) \ \text{and}  \ ( 14:27 )\\\\
+\text{Let}  \ (10:32)  \ \text{be initial time}  , \text{and} \  (14:27) \  \text{final time} \\\\
+\text{Time takes by the clock to become} \ (11:00) \ \text{From initial time} &= (11:00 - 10:32) \\\\
+&= 28 \text{mins} \\\\\\\\
+\text{Time takes by the clock to become} \  (12:00 ) \  \text{From} \ (11:00) &= (12:00 - 11:00) \\\\
+&= 1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become}  \ (13:00)\  \text{From}  \ (12:00) &= (13:00 - 12:00) \\\\
+&=  1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become} \  (14:00 ) \ \text{From} \  (13:00) &= (14:00 - 13:00) \\\\
+&=  1 \text{hrs} \\\\\\\\
+\text{Time takes by the clock to become} \  (14:27 ) \ \text{From} \  (14:00) &= (14:00 - 14:27) \\\\
+&= 00:27 \text{hrs} \\\\\
+\text{Then add all the time difference between the time gaps} \\\\
+&=  28 \text{mins} + 1 \text{hrs}  + 1 \text{hrs} + 1 \text{hrs} + 00:27 \text{hrs} \\\\
+&=  3 \ \text{hrs} \ \ 55  \ \text{mins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \ \text{hrs} \ \ 55  \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long is it until midnight?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{As we know the midnight will be at} &=  24:00 \\\\
+&=  24:00 - 14:27 \\\\
+&=  9 \ \text{hrs} \ \  33 \ \text{mins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text{hrs} \ \  33 \ \text{mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_blocked question'>
 <div class='uuid'>
@@ -3385,235 +3637,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On their sports day, five girls took part in the $400 \ \text{metres}$ race.
-
-Their times were recorded in the table below.
-
-![missing table](/papers/missing_table.svg)
-
-
-name        time taken
-Angie      1 min 18 secs
-Bella      1 min 25 secs
-Clemmie    1 min 13 secs
-Davina     1 min 22 secs
-Erin       1 min 19 secs
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Who came second in the race?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Who finished $6 \ \text{seconds}$ ahead of Erin?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many seconds behind the winner was the person who came last?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The school concert starts at $2{:}45 \ \text{p.m}$.
-
-It lasts for $2 \ \text{hours}$ and $28 \ \text{minutes}$ and, in addition, there is an interval of $20 \ \text{minutes}$.
-
-At what time does the concert end?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {End time of concert}  &= \text {Start time of concert} + (\text {Duration of concert} + \text {Interval}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
-                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
-                             &= 5 {:} 33 \ \text {p.m.}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5 {:} 33 \ \text {p.m.}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

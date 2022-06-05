@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-2"
 title: "TopicPaper - Time - 2"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1263,6 +1263,62 @@ $7 \ \text {pm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I start counting at $19$ and go up to $89$.
+I take one second to say each number.
+How long do I take altogether?
+
+A                      B                     C                     D                     E
+$70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
+                    &= 89 - 20 \\\\
+                    &= 71 \ \text {seconds}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$71 \ \text {seconds}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3252,116 +3308,6 @@ $276 \text{seconds}$
 
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is $387 \ \text{minutes}$ in hours and minutes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 387 \\\\
-&= 60 \times 6 + 27 \\\\
-&= 6 \ \text{hours} \ 27 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text{hours} \ 27 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Change $9.6 \ \text{hours}$ into minutes.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1 \ \text{hour} = 60 \ \text{minutes}$
-
-$
-\begin{aligned}
-&= 9.6 \times 60 \\\\
-&= 576 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$576 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

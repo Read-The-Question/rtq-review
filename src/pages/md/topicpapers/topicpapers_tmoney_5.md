@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-5"
 title: "TopicPaper - Money - 5"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,59 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>1D648663-782C-480E-8F13-27198C60558A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-
-I have FIVE coins in my pocket. 
-
-They add up to 77 \text{p}$.
-
-What are the coins?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-One $50 \text{p}$ coin.
-Two $10 \text{p}$ coins.
-One $5 \text{p}$ coin.
-One $2 \text{p}$ coin.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-One $50 \text{p}$ coin.
-Two $10 \text{p}$ coins.
-One $5 \text{p}$ coin.
-One $2 \text{p}$ coin.
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-6"
 title: "TopicPaper - Number - 6"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3482,62 +3482,6 @@ $1349$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>C19E035E-6FA3-4F56-B785-07483C6DD4DD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I start counting at $19$ and go up to $89$.
-I take one second to say each number.
-How long do I take altogether?
-
-A                      B                     C                     D                     E
-$70 \ \text{seconds}$ $71 \ \text{seconds}$ $72 \ \text{seconds}$ $73 \ \text{seconds}$ $74 \ \text{seconds}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Total time}  &= (89 - 19 + 1) \times 1 \ \text {second} \\\\
-                    &= 89 - 20 \\\\
-                    &= 71 \ \text {seconds}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$71 \ \text {seconds}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>CC62F717-09D2-42A3-9042-C2C7C102D1E6</p>
@@ -4745,6 +4689,58 @@ $84$
 
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>20E85746-0B74-4085-B598-68F104A85A9D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down a number between $0.3$ and $\dfrac{2}{5}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= (0.3 + \dfrac {2} {5}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {2} {5}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {2 \times 2} {5 \times 2}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {4} {10}) \div 2 \\\\
+&= (\dfrac {3 + 4} {10}) \div 2 \\\\
+&= \dfrac {7} {10} \times \dfrac {1} {2} \\\\
+&= \dfrac {7} {10 \times 2} \\\\
+&= \dfrac {7} {20} \\\\
+&= 0.35
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.35$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

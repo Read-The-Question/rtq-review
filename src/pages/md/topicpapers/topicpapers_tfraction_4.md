@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,118 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>1AC37420-ED76-46DB-8EA0-B4C20BC0B176</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{7}\times\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \times \dfrac {1} {2} \\\\
+&= \dfrac {3 \times 1} {7 \times 2} \\\\
+&= \dfrac {3} {14}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {14}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{3}{7}\div\dfrac{1}{2}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+$
+\begin{aligned}
+&= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
+&= \dfrac {3} {7} \times \dfrac {2} {1} \\\\
+&= \dfrac {3 \times 2} {7 \times 1} \\\\
+&= \dfrac {6} {7}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {6} {7}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3788,158 +3900,6 @@ $15$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>173A89D2-2138-4943-AFAE-53768C9E5BC0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows a patio made up of square concrete slabs. The shaded ones are cracked.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-TODOSUBQUESTION
-a) What fraction of the total number of slabs is cracked?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Fraction of slabs cracked}        &= \dfrac{\text{Cracked slabs}}{\text{Total slabs}} \\\\
-                                        &= \dfrac{7}{24}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{7}{24}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-b) Each slab measures $\dfrac{1}{2}$ metre by $\dfrac{1}{2}$ metre. What is the area of one slab, **in** $\text{cm}^2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Area of one slab}         &= \text{length} \times \text{width} \\\\
-                                &= \dfrac{1}{2} \times 100 \times \dfrac{1}{2} \times 100 \ \text{cm}^2 \\\\
-                                &= \dfrac{100 \times 100}{2 \times 2} \\\\
-                                &= \dfrac{100 \times 25 \times 4}{4} \\\\
-                                &= \dfrac{100 \times 25 \times \cancel{4}}{\cancel{4}} \\\\
-                                &= 100 \times 25
-\text{Area of one slab}         &= 2500 \ \text{cm}^2 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2500 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-c) If it is decided to cement over the cracked slabs, what area, **in** $\text{cm}^2$, needs to be cemented?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Total number of cracked slabs $= 7$
-
-Area of each slab $= 2500 \ \text{cm}^2$
-
-Area of cement required $=$ Total cracked slabs $\times$ Area of each slab
-                        $= 7 \times 2500$
-                        $=17500 \ \text{cm}^2$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$=17500 \ \text{cm}^2$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

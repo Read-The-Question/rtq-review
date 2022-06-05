@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-5"
 title: "TopicPaper - Time - 5"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,235 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5116C593-B84B-4E1A-B0A4-93B1D9786F62</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On their sports day, five girls took part in the $400 \ \text{metres}$ race.
+
+Their times were recorded in the table below.
+
+![missing table](/papers/missing_table.svg)
+
+
+name        time taken
+Angie      1 min 18 secs
+Bella      1 min 25 secs
+Clemmie    1 min 13 secs
+Davina     1 min 22 secs
+Erin       1 min 19 secs
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who came second in the race?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Who finished $6 \ \text{seconds}$ ahead of Erin?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many seconds behind the winner was the person who came last?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>0EFEAB67-5E19-4D70-9808-049CC51102F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The school concert starts at $2{:}45 \ \text{p.m}$.
+
+It lasts for $2 \ \text{hours}$ and $28 \ \text{minutes}$ and, in addition, there is an interval of $20 \ \text{minutes}$.
+
+At what time does the concert end?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {End time of concert}  &= \text {Start time of concert} + (\text {Duration of concert} + \text {Interval}) \\\\
+                             &= 2 {:} 45 \ \text {p.m.} + (2 \ \text {hours} \ 28 \ \text {minutes} + 20 \ \text {minutes}) \\\\
+                             &= 2 {:} 45 \ \text {p.m.} + 2 \ \text {hours} \ 48 \ \text {minutes} \\\\
+                             &= 5 {:} 33 \ \text {p.m.}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 {:} 33 \ \text {p.m.}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>

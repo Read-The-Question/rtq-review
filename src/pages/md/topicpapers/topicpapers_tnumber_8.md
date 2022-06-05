@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-8"
 title: "TopicPaper - Number - 8"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,136 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tlcm
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the highest common factor (HCF) of $66$ and $30$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the lowest common multiple (LCM) of $12$ and $8$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -4194,148 +4064,6 @@ $13.579$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_blocked question'>
-<div class='uuid'>
-<p>002CE465-5C32-4749-89F4-8D638E9BD366</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmiddlenumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{fraction}$ between $0.8$ and $0.9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {0.8 + 0.9} {2} \\\\
-&= \dfrac {1.7} {2} \\\\
-&= \dfrac {1.7 \times 10} {2 \times 10} \\\\
-&= \dfrac {17} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {17} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{decimal}$ between $\dfrac{2}{5}$ and $\dfrac{1}{2}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
-&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
-&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
-&= \dfrac {\dfrac {4 + 5} {10}} {2} \\\\
-&= \dfrac {9} {10 \times 2} \\\\
-&= \dfrac {9} {20}\\\\
-&= 0.45
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative solution 
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {2} {5} + \dfrac {1} {2}} {2} \\\\
-&= \dfrac {\dfrac {2 \times 2} {5 \times 2} + \dfrac {1 \times 5} {2 \times 5}} {2} \\\\
-&= \dfrac {\dfrac {4} {10} + \dfrac {5} {10}} {2} \\\\
-&= \dfrac {0.4 + 0.5} {2} \\\\
-&= \dfrac {0.9} {2} \\\\
-&= \dfrac {0.9 \times 10} {2 \times 10} \\\\
-&= \dfrac {9} {20}
-&= \dfrac {9} {20}\\\\
-&= 0.45
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.45$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_blocked</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>F8F71719-B8FE-49B3-959A-E92F9F76A185</p>
@@ -5019,6 +4747,92 @@ $0.875$
 </ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>C9CA13E4-19C8-43F4-8B78-574D18F42665</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the number $\text{thirty three thousand and thirty three}$ in figures. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$33033$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33033$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>ECD5D5F6-E162-4A8A-B46F-374A00E238E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\text{two thousand, four hundred and five plus one thousand, eight hundred and twenty seven}$ in words?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2005 + 1827 \\\\
+&= 3832 \\\\
+&= \text{three thousand, eight hundred thirty two}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{three thousand, eight hundred thirty two}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

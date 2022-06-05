@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,496 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at these numbers and the multiplications:
-
-$
-\begin{aligned}
-49 &= 7 \times 7\\
-4489 &= 67 \times 67\\
-444889 &= 667 \times 667
-\end{aligned}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Use the pattern to fill in the spaces below:
-
-$44448889 = \ldots \times \ldots$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$44448889 = 6667 \times 6667$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44448889 = 6667 \times 6667$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What will be the tenth number in the list?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-The tenth number would contain ten $4s$, nine $8s$ and one $9$
-
-The tenth number would be $=44444444448888888889$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
- $44444444448888888889$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What will be the square root of this number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$44444444448888888889 = 6666666667 \times 6666666667$
-
-Hence the square root would be $= 6666666667$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6666666667$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>E909E88A-3D58-42B1-A05B-AA2C4278F1EB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the answers to: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5412  + 6948$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   4   &   1   &   2 \\
-{}+ &   6   &   9   &   4   &   8 \\
-\hline
- 1  &   2   &   3   &   6   &   0
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12360$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$5021 - 3879$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-    &   5   &   0   &   2   &   1 \\
-{}- &   3   &   8   &   7   &   9 \\
-\hline
-    &   1   &   1   &   4   &   2
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1142$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the answers to: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$8 \times 3 - 10 + 6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS
-
-$
-\begin{array}{cccccccccccccc}
-&= 8 \times 3 - 10 + 6 \\\\
-&=  24 - 4 \\\\
-&= 20
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$72 \div 9 \times 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS
-
-$
-\begin{array}{cccccccccccccc}
-&= 72 \dfrac{7}{9} \\\\
-&=  9 \times 8 \times \dfrac{7}{9} \\\\
-&=  \cancel{9} \times 8 \times \dfrac{7}{\cancel9} \\\\
-&=  8 \times 7 \\\\
-&= 56
-\end{array}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>A8254932-C5B4-4454-AA48-5D0F9228C890</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find, giving your answers in cm: 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$12 \ \text{m} + 37 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-
-$
-\begin{aligned}
-&= 12 \ \text{m} + 37 \ \text{cm} \\\\
-&= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
-&= 1237 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1237 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$6.3 \ \text{km} - 140 \ \text{m}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-
-$
-\begin{aligned}
-&= 6.3 \ \text{km} - 140 \ \text{m} \\\\
-&= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
-&= 6300 \ \text{m} - 140 \ \text{m} \\\\
-&= 6160 \ \text{m} \\\\
-&= 6160 \times 100 \ \text{cm} \\\\
-&= 616000 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$616000 \ \text{m}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3405,6 +2915,223 @@ $30$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>E7C66B09-5BA0-4B5C-BA6E-344436152AFE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the sum of: $9, 99, 999$ and $9999$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+          &     &     &     &  9 \\
+          &     &     &  9  &  9 \\
+          &     &  9  &  9  &  9 \\
+{}+       &  9  &  9  &  9  &  9 \\
+\hline
+       1  &  1  &  1  &  0  &  6
+\end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
+                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
+                        &= 11110 - 4 \\\\
+                        &= 11106 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11106$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>3FA0F030-E4AF-438E-983D-E94A03478CD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total attendance at Premier League football matches last season was $13766753$. 
+
+Round this number to the nearest ten thousand.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>17EBE603-FE66-4DF1-A566-229E356FE83D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use the fact that $96815 \times 123 = 11908245$ to work out $96816  \times 123$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= 96816 \times 123 \\\\
+&= (96815 + 1) \times 123 \\\\
+&= (96815 \times 123) + (1 \times 123) \\\\
+&= 11908245 + 123 \\\\
+&= 11908368
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11908368$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1A11854F-0304-4DF8-AF45-682DB61E74B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the spaces with one of $+, - , \times, \div$  to make each statement correct
+
+$8  \ \text{\textunderscore \textunderscore \textunderscore} \  2 = 5 \ \text{\textunderscore \textunderscore \textunderscore} \ 2$
+
+$4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\textunderscore \textunderscore \textunderscore} \ 5$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

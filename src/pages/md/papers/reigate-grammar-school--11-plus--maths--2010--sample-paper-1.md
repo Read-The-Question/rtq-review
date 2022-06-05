@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-05 10:46:02
+date: 2022-06-05 11:48:39
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1216,7 +1216,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tfraction
 </li>
 <li>
 tmiddlenumber

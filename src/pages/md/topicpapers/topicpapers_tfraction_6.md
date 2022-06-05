@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,54 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>0DA91A78-9D3B-401D-88F2-BF5050E8FEF5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out $\dfrac{3}{8}$ of $72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{3}{8} \times 72 \\\\
+&= \dfrca{3 \times 72}{4} \\\\
+&= \dfrac{3 \times 9 \times 8} {8} \\\\
+&= \dfrac{3 \times 9 \times \cancel{8}} {\cancel{8}} \\\\
+&= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -296,6 +344,61 @@ $\dfrac{5} {8}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>57857312-9D34-4AE2-9A5C-5DCF6B0AF748</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between a tenth of $5$ and a fifth of $10$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Difference}  &= \text {One fifth of} \ 10 - \text {One tenth of} \ 5 \\\\
+                    &= \dfrac {1} {5} \ \text {of} \ 10 - \dfrac {1} {10} \ \text {of} \ 5 \\\\
+                    &= \dfrac {1} {5} \times 10 - \dfrac {1} {10} \times 5 \\\\
+                    &= \dfrac {10} {5} - \dfrac {5} {10} \\\\
+                    &= \dfrac {2 \times 5} {5} - \dfrac {5} {2 \times 5} \\\\
+                    &= \dfrac {2 \times \cancel {5}} {\cancel {5}} - \dfrac {\cancel {5}} {2 \times \cancel {5}} \\\\
+                    &= 2 - \dfrac {1} {2} \\\\
+                    &= \dfrac {2 \times 2} {1 \times 2} - \dfrac {1} {2} \\\\
+                    &= \dfrac {4} {2} - \dfrac {1} {2} \\\\
+                    &= \dfrac {4 - 1} {2} \\\\
+                    &= \dfrac {3} {2} \\\\
+                    &= 1.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.5$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -2746,263 +2849,6 @@ $63$
 
 <div class='papername'>
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>A1E3093E-6A93-4CB8-A627-77D10D5C257A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A bag contains coloured balls. There are **4 red**, **2 blue** and **1 green** in the bag.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of the balls are **red**?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Fraction of red balls}    &= \dfrac {Number of red balls} {Total numbe of balls} \\\\
-                                &= \dfrac {4} {4 + 2 + 1} \\\\
-                                &= \dfrac {4} {7}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {7}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many **green** balls must be **added** to the bag if the fraction of **green** is now $1/3$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of green balls to be added = $a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {1 + a} {7 + a}                  &= \dfrac {1} {3} \\\\
-3 \times \left ( 1 + a \right )         &= 7 + a \\\\
-3 + 3 \times a                          &= 7 + a \\\\
-3 + 3a                                  &= 7 + a \\\\
-3a - a                                  &= 7 - 3 \\\\
-2a                                      &= 4 \\\\
-a                                 &= \dfrac{4} {2} \\\\
-a                                 &= \dfrac{2 \times 2} {2} \\\\
-a                                 &= \dfrac{\cancel 2 \times 2} {\cancel 2} \\\\
-a                                 &= 2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many **blue** balls must be **added** to $\underbar {the bag you started with}$ if the 
-fraction of blue is now $1/2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of blue balls to be added = $a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {2 + a} {7 + a}                  &= \dfrac {1} {2} \\\\
-2 \times \left ( 2 + a \right )         &= 7 + a \\\\
-4 + 2 \times a                          &= 7 + a \\\\
-4 + 2a                                  &= 7 + a \\\\
-2a - a                                  &= 7 - 4 \\\\
-a                                      &= 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many **red** balls must be **removed** from $\underbar {the bag you started with}$ if the percentage of **green** is now $25\%$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of red balls to be removed = $a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {1} {7 - a}                      &= 25 \% \\\\
-\dfrac {1} {7 - a}                      &= \dfrac {25} {100} \\\\
-\dfrac {1} {7 - a}                      &= \dfrac {25} {25 \times 4} \\\\
-\dfrac {1} {7 - a}                      &= \dfrac {\cancel {25}} {\cancel {25} \times 4} \\\\
-\dfrac {1} {7 - a}                      &= \dfrac {1} {4} \\\\
-7 -a                                    &= 4 \\\\
-a                                       &= 7 - 4 \\\\
-a                                       &= 3 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>C18FCA7C-4FCC-4CEF-A7BC-74F2C643EE3C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ravi has $32$ sweets. He eats $24$ of them. What fraction of the sweets has he eaten? Write your answer in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {24} {32} \\\\
-&= \dfrac {8 \times 3} {8 \times 4} \\\\
-&= \dfrac {\cancel {8} \times 3} {\cancel {8} \times 4} \\\\
-&= \dfrac {3} {4} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {4}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

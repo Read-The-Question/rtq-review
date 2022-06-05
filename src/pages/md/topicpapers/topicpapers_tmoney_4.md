@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-4"
 title: "TopicPaper - Money - 4"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2661,61 +2661,6 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_wf_oldpr question'>
-<div class='uuid'>
-<p>57857312-9D34-4AE2-9A5C-5DCF6B0AF748</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the difference between a tenth of $5$ and a fifth of $10$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Difference}  &= \text {One fifth of} \ 10 - \text {One tenth of} \ 5 \\\\
-                    &= \dfrac {1} {5} \ \text {of} \ 10 - \dfrac {1} {10} \ \text {of} \ 5 \\\\
-                    &= \dfrac {1} {5} \times 10 - \dfrac {1} {10} \times 5 \\\\
-                    &= \dfrac {10} {5} - \dfrac {5} {10} \\\\
-                    &= \dfrac {2 \times 5} {5} - \dfrac {5} {2 \times 5} \\\\
-                    &= \dfrac {2 \times \cancel {5}} {\cancel {5}} - \dfrac {\cancel {5}} {2 \times \cancel {5}} \\\\
-                    &= 2 - \dfrac {1} {2} \\\\
-                    &= \dfrac {2 \times 2} {1 \times 2} - \dfrac {1} {2} \\\\
-                    &= \dfrac {4} {2} - \dfrac {1} {2} \\\\
-                    &= \dfrac {4 - 1} {2} \\\\
-                    &= \dfrac {3} {2} \\\\
-                    &= 1.5
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
 <p>010B7105-7B4C-491B-A097-C3E59F66C07F</p>
@@ -3680,6 +3625,59 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>1D648663-782C-480E-8F13-27198C60558A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+I have FIVE coins in my pocket. 
+
+They add up to 77 \text{p}$.
+
+What are the coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

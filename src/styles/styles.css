@@ -164,6 +164,20 @@ img {
     background-color: lightcoral;
 }
 
+.rag_ak_blocked, 
+.rag_ar_blocked 
+.rag_ad_blocked, 
+.rag_bs_blocked,
+.rag_ga_blocked,
+.rag_jn_blocked, 
+.rag_na_blocked, 
+.rag_nj_blocked, 
+.rag_up_blocked,
+.rag_wf_blocked  {
+    background-color: darkorchid;
+}
+
+
 .rag_ak_pr, 
 .rag_ar_pr 
 .rag_ad_pr, 
@@ -176,7 +190,7 @@ img {
 .rag_wf_pr  {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
-    background-color: lightpink;
+    background-color: hotpink;
 }
 
 .rag_ak_g0, 
@@ -192,6 +206,7 @@ img {
     background-color: rgba(173, 255, 47, 0.2);
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
+    background-color: lightpink;
 }
 
 .rag_ak_g1, 

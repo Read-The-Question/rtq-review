@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,116 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BA7A2E5A-F0B6-4120-988C-2F8865BF4B44</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $387 \ \text{minutes}$ in hours and minutes?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 387 \\\\
+&= 60 \times 6 + 27 \\\\
+&= 6 \ \text{hours} \ 27 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6 \ \text{hours} \ 27 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Change $9.6 \ \text{hours}$ into minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{hour} = 60 \ \text{minutes}$
+
+$
+\begin{aligned}
+&= 9.6 \times 60 \\\\
+&= 576 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$576 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -682,6 +792,63 @@ $18{:}27$
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_oldpr question'>
+<div class='uuid'>
+<p>B436492B-ADE1-4E62-B5CC-10E5C7D215FC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many seconds are there in $\dfrac {1} {4} \ \text{of} \ \dfrac {1} {6} \ \text{of} \  \dfrac {1} {8}$ of a day?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, $1$ day has $24$ hours, $1$ hour has $60$ minutes and $60$ minutes have $60$ seconds. 
+
+$1$ day = $(24 x 60 x 60)$ seconds.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {1} {4} \ \text {of} \ \dfrac {1} {6} \ \text {of} \ \dfrac {1} {8} \ \text {of} \ 1 \ \text {day} \\\\ 
+&= \dfrac {1} {4} \times  \dfrac {1} {6} \times  \dfrac {1} {8} \times 24 \times 60 \times 60 \\\\\
+&= \dfrac {24 \times 60 \times 60} {4 \times 6 \times 8} \\\\
+&= \dfrac {6 \times 4 \times 4 \times 15 \times 6 \times 10} {4 \times 6 \times 8} \\\\
+&= \dfrac {\cancel {8} \times 3 \times \cancel {4} \times 15 \times \cancel {6} \times 10} {\cancel {4} \times \cancel {6} \times \cancel {8}} \\\\
+&= 3 \times 15 \times 10 \\\\
+&= 45 \times 10 \\\\
+&= 450 \ \text {seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$450 \ \text {seconds}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -3196,258 +3363,6 @@ $8 {:}19$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>41B81C3E-9640-4ED3-8BF8-AE96297D64EA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-At a railway station there are two platforms. At one platform, trains leave every $24 \ \text{minutes}$ and at 
-the other every $30 \ \text{minutes}$. If trains leave both platforms at $9 \ \text{a.m.}$, what time is it when trains next leave both platforms at the same time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A train takes $3 \ \text{hours} \ 40 \ \text{minutes}$ to travel from York to London. It arrives at $18{:}00$ 
-having been delayed by $45 \ \text{minutes}$. At what time did it leave York?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_blocked question'>
-<div class='uuid'>
-<p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A clock shows $14{:}27$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long is it since $10{:}32$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-APTQ,
-
-$
-\begin{aligned}
-\text{Time gap between} \ ( 10:32 ) \ \text{and}  \ ( 14:27 )\\\\
-\text{Let}  \ (10:32)  \ \text{be initial time}  , \text{and} \  (14:27) \  \text{final time} \\\\
-\text{Time takes by the clock to become} \ (11:00) \ \text{From initial time} &= (11:00 - 10:32) \\\\
-&= 28 \text{mins} \\\\\\\\
-\text{Time takes by the clock to become} \  (12:00 ) \  \text{From} \ (11:00) &= (12:00 - 11:00) \\\\
-&= 1 \text{hrs} \\\\\\\\
-\text{Time takes by the clock to become}  \ (13:00)\  \text{From}  \ (12:00) &= (13:00 - 12:00) \\\\
-&=  1 \text{hrs} \\\\\\\\
-\text{Time takes by the clock to become} \  (14:00 ) \ \text{From} \  (13:00) &= (14:00 - 13:00) \\\\
-&=  1 \text{hrs} \\\\\\\\
-\text{Time takes by the clock to become} \  (14:27 ) \ \text{From} \  (14:00) &= (14:00 - 14:27) \\\\
-&= 00:27 \text{hrs} \\\\\
-\text{Then add all the time difference between the time gaps} \\\\
-&=  28 \text{mins} + 1 \text{hrs}  + 1 \text{hrs} + 1 \text{hrs} + 00:27 \text{hrs} \\\\
-&=  3 \ \text{hrs} \ \ 55  \ \text{mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hrs} \ \ 55  \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long is it until midnight?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{As we know the midnight will be at} &=  24:00 \\\\
-&=  24:00 - 14:27 \\\\
-&=  9 \ \text{hrs} \ \  33 \ \text{mins}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \ \text{hrs} \ \  33 \ \text{mins}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-05 10:47:37
+date: 2022-06-05 11:50:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,227 +14,6 @@ date: 2022-06-05 10:47:37
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= (13 \times 6) - (62 - 35) \\\\
-&= 78 - 27 \\\\
-&= 51
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write in figures the number three hundred and eight thousand, five hundred and twenty.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$308520$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$308520$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which sum has been set out correctly to give the answer $67$? 
-
-- $8 + 4 \times 6 - 5$
-- $(8 + 4) \times (6 - 5)$
-- $(8 + 4) \times 6 - 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using **BIDMAS**,
-
-$
-\begin{aligned}
-\text{Option A}     &= 8 + 4 \times 6 - 5 \\\\
-                    &= 8 + 24 - 5 \\\\
-                    &= 32 - 5 \\\\
-                    &= 27 \neq 67
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Option B}     &= (8 + 4) \times (6 - 5) \\\\
-                    &= 12 \times 1 \\\\
-                    &= 12 \neq 67
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Option C}     &= (8 + 4) \times 6 - 5 \\\\
-                    &= 12 \times 6  - 5 \\\\
-                    &= 72 - 5 \\\\
-                    &= 67
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$(8 + 4) \times 6 - 5$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \text{mm}$ giving your answer in $\text{cm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required
-. The three lengths are given in multiple units.
-
-Let's convert all the measurements into the same unit $\text{cm}$.
-
-As per the question,
-
-$
-\begin{aligned}
-&= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
-&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
-&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
-&= 231 \ \text{cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$231 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -3600,6 +3379,380 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $2000 - 12 + 20 - 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1996$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the average of $\frac {1}{2}$ and $\frac {1}{3}$ ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{ \left ( \dfrac{1} {2} + \dfrac {1} {3} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {2 \times 3} + \dfrac {2} {3 \times 2} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {6} + \dfrac {2} {6} \right )} {2} \\\\
+&= \dfrac{\dfrac{5} {6}} {2} \\\\
+&= \dfrac{5} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{5} {12}$
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>CA482938-C102-4F2D-A7B8-FB6B678BE1CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete the following table. The first one has been done for you. **(leave all fractions in their lowest form)**
+
+| Fraction                | Decimal         | Percentage     |
+|:-----------------:    |:---------:    |:------------:    |
+|  $\frac{7}{10}$         |  $0.7$          |    $70$        |
+|  $\frac{2}{5}$          |                 |                |
+|                         |  $0.65$         |                |
+| $\frac{17}{25}$         |                 |                |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank does the following calculations. Mark his work by putting a tick of a cross in the boxes, to indicate which Frank has correct and which he has wrong.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$22 - 7 \times = 45$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10 \times 2 + 7 \times 7 = 69$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \times 2 + 7 \times 7 \\\\
+&= 20 + 49 \\\
+&= 69
+\end{aligned}
+$
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 + 3 \times 7 - 3 = 30$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 + 3 \times 7 - 3 \\\\
+&= 12 + 21 - 3 \\\\
+&= 33 - 3 \\\\
+&= 30
+\end{aligned}
+$
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$30 \div 3 + 2 = 6$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 \div 3 + 2 \\\\
+&= \dfrac {30}{3} + 2 \\\\
+&= \dfrac {3 \times 10}{3} + 2 \\\\
+&= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
+&= 10 + 2 \\\\
+&= 12 \ \cancel {=} \ 6
+\end{aligned}
+$
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 24 \div 4 - 3 \times 2 \\\\
+&= \dfrac {24} {4} - 3 \times 2 \\\\
+&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
+&= 6 - 6 \\\\
+&= 0
+\end{aligned}
+$
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

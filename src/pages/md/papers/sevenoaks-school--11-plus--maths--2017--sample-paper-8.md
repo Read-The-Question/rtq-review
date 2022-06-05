@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-05 10:46:02
+date: 2022-06-05 11:48:39
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1290,7 +1290,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tfactor
 </li>
 </ul>
 </div>
@@ -1932,7 +1932,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tnumber
+ttime
 </li>
 </ul>
 </div>

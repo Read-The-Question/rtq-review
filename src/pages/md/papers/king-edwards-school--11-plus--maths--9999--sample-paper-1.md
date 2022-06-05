@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 10:46:02
+date: 2022-06-05 11:48:39
 ---
 <div class='paper'>
 <div class='meta'>
@@ -284,7 +284,7 @@ $41976$
 <div class='topics'>
 <ul>
 <li>
-tnumber
+ttime
 </li>
 </ul>
 </div>

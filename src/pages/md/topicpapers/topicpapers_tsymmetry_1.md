@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-1"
 title: "TopicPaper - Symmetry - 1"
-date: 2022-06-09 11:15:04
+date: 2022-06-09 16:53:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -271,7 +271,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -300,7 +300,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -373,20 +373,23 @@ $\text {E, \ D, \ Z}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("CF538E3C-9256-410E-8CF8-47DD610CDB1F", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='CF538E3C-9256-410E-8CF8-47DD610CDB1F'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:6</p>
 </div>

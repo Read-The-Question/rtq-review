@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-testimate-1"
 title: "TopicPaper - Estimate - 1"
-date: 2022-06-09 11:15:04
+date: 2022-06-09 16:53:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -105,20 +105,23 @@ $2500 \ \text{cm}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='162AA59F-08CC-4B9C-8C47-3D255B74EFFE'>Initial</p>
+</div>
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:3</p>
 </div>

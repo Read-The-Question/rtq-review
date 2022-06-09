@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-09 11:12:57
+date: 2022-06-09 16:51:16
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,20 +61,23 @@ $9$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='DA8FA910-F7B0-4EDF-84B5-5986F11038C1'>Initial</p>
+</div>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -424,20 +427,23 @@ $2$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA'>Initial</p>
+</div>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -676,20 +682,23 @@ $4$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("D7E33A04-DE0A-4485-AE44-E675DE38579E", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("D7E33A04-DE0A-4485-AE44-E675DE38579E", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("D7E33A04-DE0A-4485-AE44-E675DE38579E", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("D7E33A04-DE0A-4485-AE44-E675DE38579E", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='D7E33A04-DE0A-4485-AE44-E675DE38579E'>Initial</p>
+</div>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

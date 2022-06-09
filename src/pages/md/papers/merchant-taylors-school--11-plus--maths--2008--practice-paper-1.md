@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-06-09 11:12:57
+date: 2022-06-09 16:51:16
 ---
 <div class='paper'>
 <div class='meta'>
@@ -47,20 +47,23 @@ $400$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='8F9DB9B1-6CAE-44A6-8A7E-2E6C0B41C39E'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -104,7 +107,7 @@ tnoexplanation
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -132,7 +135,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -160,20 +163,23 @@ $11$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("87FAE991-A5BF-4CBE-B67D-C2936D4737F8", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='87FAE991-A5BF-4CBE-B67D-C2936D4737F8'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -330,20 +336,23 @@ $7$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("6608C680-BF3B-41A9-B171-C598733FE00F", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("6608C680-BF3B-41A9-B171-C598733FE00F", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("6608C680-BF3B-41A9-B171-C598733FE00F", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("6608C680-BF3B-41A9-B171-C598733FE00F", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("6608C680-BF3B-41A9-B171-C598733FE00F", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("6608C680-BF3B-41A9-B171-C598733FE00F", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("6608C680-BF3B-41A9-B171-C598733FE00F", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("6608C680-BF3B-41A9-B171-C598733FE00F", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='6608C680-BF3B-41A9-B171-C598733FE00F'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -385,7 +394,7 @@ Write down the next two terms in each of the sequences below:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -443,7 +452,7 @@ $25, 28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -499,7 +508,7 @@ $45, 39$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -556,20 +565,23 @@ $720, 5040$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("65E4DD31-75F5-4B37-BDCC-461B16363C6D", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='65E4DD31-75F5-4B37-BDCC-461B16363C6D'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -611,7 +623,7 @@ Fill in the missing operations in the boxes:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -644,7 +656,7 @@ ${} +3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -676,7 +688,7 @@ ${} +8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -711,20 +723,23 @@ ${} \div 3 \ \text {and} \ {} - 16$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("D0234A9E-B354-49F2-86CF-030A38955623", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("D0234A9E-B354-49F2-86CF-030A38955623", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("D0234A9E-B354-49F2-86CF-030A38955623", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("D0234A9E-B354-49F2-86CF-030A38955623", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("D0234A9E-B354-49F2-86CF-030A38955623", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("D0234A9E-B354-49F2-86CF-030A38955623", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("D0234A9E-B354-49F2-86CF-030A38955623", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("D0234A9E-B354-49F2-86CF-030A38955623", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='D0234A9E-B354-49F2-86CF-030A38955623'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -769,7 +784,7 @@ Each pupil in a class were asked their favourite colour. The bar graph shows the
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -797,7 +812,7 @@ $\text {Purple}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -825,20 +840,23 @@ $6$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("E9BAB955-4373-41E3-B08D-F252C334A4C5", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("E9BAB955-4373-41E3-B08D-F252C334A4C5", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("E9BAB955-4373-41E3-B08D-F252C334A4C5", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("E9BAB955-4373-41E3-B08D-F252C334A4C5", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("E9BAB955-4373-41E3-B08D-F252C334A4C5", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("E9BAB955-4373-41E3-B08D-F252C334A4C5", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("E9BAB955-4373-41E3-B08D-F252C334A4C5", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("E9BAB955-4373-41E3-B08D-F252C334A4C5", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='E9BAB955-4373-41E3-B08D-F252C334A4C5'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -886,7 +904,7 @@ The following table shows the runs that Michael scored in each of the $11$ crick
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -922,7 +940,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -997,7 +1015,7 @@ If you roll an ordinary six sided die what is the probability of obtaining:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1023,7 +1041,7 @@ If you roll an ordinary six sided die what is the probability of obtaining:
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_up_red subsubquestion'>
+<div class='question_envelope rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1051,7 +1069,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subsubquestion'>
+<div class='question_envelope rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1092,7 +1110,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1128,7 +1146,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_up_red subsubquestion'>
+<div class='question_envelope rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1166,7 +1184,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subsubquestion'>
+<div class='question_envelope rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1250,7 +1268,7 @@ How much will she earn if she sells:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1284,7 +1302,7 @@ $\pounds 11500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1319,20 +1337,23 @@ $26 \ \text {computers}$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("51C00E11-4522-456E-9573-8B2298390591", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("51C00E11-4522-456E-9573-8B2298390591", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("51C00E11-4522-456E-9573-8B2298390591", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("51C00E11-4522-456E-9573-8B2298390591", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("51C00E11-4522-456E-9573-8B2298390591", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("51C00E11-4522-456E-9573-8B2298390591", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("51C00E11-4522-456E-9573-8B2298390591", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("51C00E11-4522-456E-9573-8B2298390591", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='51C00E11-4522-456E-9573-8B2298390591'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -1374,7 +1395,7 @@ Find:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1411,7 +1432,7 @@ $168$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1450,20 +1471,23 @@ $85 \ \text{centimeters}$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("180F757E-01D0-440D-A6AD-2B7A83661632", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("180F757E-01D0-440D-A6AD-2B7A83661632", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("180F757E-01D0-440D-A6AD-2B7A83661632", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("180F757E-01D0-440D-A6AD-2B7A83661632", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("180F757E-01D0-440D-A6AD-2B7A83661632", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("180F757E-01D0-440D-A6AD-2B7A83661632", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("180F757E-01D0-440D-A6AD-2B7A83661632", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("180F757E-01D0-440D-A6AD-2B7A83661632", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='180F757E-01D0-440D-A6AD-2B7A83661632'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -1508,7 +1532,7 @@ Find the size of the angle, in degrees, turned by the **minute** hand of a clock
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1536,7 +1560,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1569,20 +1593,23 @@ $120 \degree$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("8D9C54BC-6E17-4740-929F-C604E748B5B7", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("8D9C54BC-6E17-4740-929F-C604E748B5B7", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("8D9C54BC-6E17-4740-929F-C604E748B5B7", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("8D9C54BC-6E17-4740-929F-C604E748B5B7", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("8D9C54BC-6E17-4740-929F-C604E748B5B7", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("8D9C54BC-6E17-4740-929F-C604E748B5B7", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("8D9C54BC-6E17-4740-929F-C604E748B5B7", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("8D9C54BC-6E17-4740-929F-C604E748B5B7", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='8D9C54BC-6E17-4740-929F-C604E748B5B7'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -1630,7 +1657,7 @@ The above diagram shows a solid box.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1664,7 +1691,7 @@ $18 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1699,20 +1726,23 @@ $216 \ \text {cm}^2$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("BB81BF83-EBB0-482C-B728-A09A6CBDE335", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='BB81BF83-EBB0-482C-B728-A09A6CBDE335'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -1762,20 +1792,23 @@ $\dfrac {3} {4}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -1831,7 +1864,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1869,7 +1902,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1956,7 +1989,7 @@ She shares out the chocolates equally amongst her $27$ students.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1995,7 +2028,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2029,20 +2062,23 @@ $9$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='660AD016-0BD4-49EF-94D6-8C0BF6ACD4D2'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2090,7 +2126,7 @@ From the numbers in the ring write down all the
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2118,7 +2154,7 @@ $9, 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2146,7 +2182,7 @@ $8, 64$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2174,7 +2210,7 @@ $3, 41$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2202,20 +2238,23 @@ $8, 28$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("04EBBA58-6647-40C9-8E46-0C41DA8751EB", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='04EBBA58-6647-40C9-8E46-0C41DA8751EB'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2257,7 +2296,7 @@ Given that $a = 2, b = 3$ and $c = 4$, find the value of the following expressio
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2292,7 +2331,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2329,7 +2368,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2365,20 +2404,23 @@ $- \dfrac {4} {9}$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='4B5F6372-24C1-4AAF-A08A-4D8CEE309DA6'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2420,7 +2462,7 @@ The number of insects in a colony doubles each week. If there were $100$ insects
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2454,7 +2496,7 @@ $6400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2499,20 +2541,23 @@ $10$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='C37C682E-26E5-4DA2-98A6-BB49C4AEA7A6'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2557,7 +2602,7 @@ What are the length and width of a rectangle:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2611,7 +2656,7 @@ $16 \text{ cm}, \ 8 \text{ cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2639,7 +2684,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2736,7 +2781,7 @@ Using the same operation for the diamond and triangle, find the missing numbers.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2770,7 +2815,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2808,20 +2853,23 @@ $27$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("2BE1B352-38EE-45ED-B07A-12B3ABD5532C", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='2BE1B352-38EE-45ED-B07A-12B3ABD5532C'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2876,20 +2924,23 @@ $6$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("49F70149-6E7A-4A5E-9D2E-9FBDD68F2349", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='49F70149-6E7A-4A5E-9D2E-9FBDD68F2349'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -2955,7 +3006,7 @@ London          ,$10{:}45$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2988,7 +3039,7 @@ $1 \ \text {hour} \ 30 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3021,20 +3072,23 @@ $11{:}20$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='A665B0B4-EBC8-4304-BDFA-28CF12D417AD'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -3081,20 +3135,23 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("89AF4456-05DF-454E-9602-66C48E68886D", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("89AF4456-05DF-454E-9602-66C48E68886D", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("89AF4456-05DF-454E-9602-66C48E68886D", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("89AF4456-05DF-454E-9602-66C48E68886D", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("89AF4456-05DF-454E-9602-66C48E68886D", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("89AF4456-05DF-454E-9602-66C48E68886D", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("89AF4456-05DF-454E-9602-66C48E68886D", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("89AF4456-05DF-454E-9602-66C48E68886D", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='89AF4456-05DF-454E-9602-66C48E68886D'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -3143,7 +3200,7 @@ She pays for her apples with a $\pounds 5$ note.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3178,7 +3235,7 @@ $\pounds 2.76$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3218,7 +3275,7 @@ $1600 \text { p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3254,7 +3311,7 @@ $\pounds 24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3385,7 +3442,7 @@ At noon the temperature is $3$ degrees Celsius and it rises at a steady $1.5$ de
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3419,7 +3476,7 @@ $7.5 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3457,20 +3514,23 @@ $- 18 \degree C$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("12BD4A22-072D-4543-95F1-81147B89584D", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("12BD4A22-072D-4543-95F1-81147B89584D", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("12BD4A22-072D-4543-95F1-81147B89584D", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("12BD4A22-072D-4543-95F1-81147B89584D", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("12BD4A22-072D-4543-95F1-81147B89584D", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("12BD4A22-072D-4543-95F1-81147B89584D", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("12BD4A22-072D-4543-95F1-81147B89584D", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("12BD4A22-072D-4543-95F1-81147B89584D", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='12BD4A22-072D-4543-95F1-81147B89584D'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -3513,7 +3573,7 @@ watch started going backwards at the correct rate. What is the real time if my w
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3546,7 +3606,7 @@ $10{:}38 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3579,20 +3639,23 @@ $11{:}05 \ \text{a.m}$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='0B2DDF0F-855E-489C-A9C7-EF1107955CE1'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>
@@ -3646,20 +3709,23 @@ $1537$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6'>Initial</p>
+</div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1</p>
 </div>

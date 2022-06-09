@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2017-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2017 - Arithmetic A"
-date: 2022-06-09 11:12:57
+date: 2022-06-09 16:51:16
 ---
 <div class='paper'>
 <div class='meta'>
@@ -47,20 +47,23 @@ $308520$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("39E20826-B8B1-4C4D-AF60-A2D391BC499E", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='39E20826-B8B1-4C4D-AF60-A2D391BC499E'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -108,20 +111,23 @@ $252$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("6277A78F-503A-4B75-B993-9B2E55B696CD", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("6277A78F-503A-4B75-B993-9B2E55B696CD", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("6277A78F-503A-4B75-B993-9B2E55B696CD", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("6277A78F-503A-4B75-B993-9B2E55B696CD", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("6277A78F-503A-4B75-B993-9B2E55B696CD", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("6277A78F-503A-4B75-B993-9B2E55B696CD", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("6277A78F-503A-4B75-B993-9B2E55B696CD", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("6277A78F-503A-4B75-B993-9B2E55B696CD", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='6277A78F-503A-4B75-B993-9B2E55B696CD'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -232,20 +238,23 @@ $20$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("5CAE2035-ACFB-4976-9866-CE0FF0A09401", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='5CAE2035-ACFB-4976-9866-CE0FF0A09401'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -308,20 +317,23 @@ $\dfrac {2} {3}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("51948298-6710-4968-BC7A-6F04A5AA66B1", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("51948298-6710-4968-BC7A-6F04A5AA66B1", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("51948298-6710-4968-BC7A-6F04A5AA66B1", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("51948298-6710-4968-BC7A-6F04A5AA66B1", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("51948298-6710-4968-BC7A-6F04A5AA66B1", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("51948298-6710-4968-BC7A-6F04A5AA66B1", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("51948298-6710-4968-BC7A-6F04A5AA66B1", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("51948298-6710-4968-BC7A-6F04A5AA66B1", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='51948298-6710-4968-BC7A-6F04A5AA66B1'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -374,20 +386,23 @@ $96$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("ED448CD6-9057-4F77-BD62-61F1272214D8", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("ED448CD6-9057-4F77-BD62-61F1272214D8", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("ED448CD6-9057-4F77-BD62-61F1272214D8", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("ED448CD6-9057-4F77-BD62-61F1272214D8", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("ED448CD6-9057-4F77-BD62-61F1272214D8", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("ED448CD6-9057-4F77-BD62-61F1272214D8", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("ED448CD6-9057-4F77-BD62-61F1272214D8", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("ED448CD6-9057-4F77-BD62-61F1272214D8", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='ED448CD6-9057-4F77-BD62-61F1272214D8'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -436,20 +451,23 @@ $\dfrac {21} {25}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='4CE5D9AF-DB65-40AF-8AA6-0F980B75AB57'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -523,20 +541,23 @@ $(8 + 4) \times 6 - 5$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("5D4FC6CE-AFCE-4118-A16D-21C14C304F1B", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -594,20 +615,23 @@ $231 \ \text{cm}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("F990AB7B-48EF-4668-8814-D68C1917C568", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("F990AB7B-48EF-4668-8814-D68C1917C568", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("F990AB7B-48EF-4668-8814-D68C1917C568", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("F990AB7B-48EF-4668-8814-D68C1917C568", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("F990AB7B-48EF-4668-8814-D68C1917C568", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("F990AB7B-48EF-4668-8814-D68C1917C568", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("F990AB7B-48EF-4668-8814-D68C1917C568", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("F990AB7B-48EF-4668-8814-D68C1917C568", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='F990AB7B-48EF-4668-8814-D68C1917C568'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -656,20 +680,23 @@ $\pounds 5.04$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("81E1B098-E3D4-4FFB-8782-94935FEFD938", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("81E1B098-E3D4-4FFB-8782-94935FEFD938", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("81E1B098-E3D4-4FFB-8782-94935FEFD938", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("81E1B098-E3D4-4FFB-8782-94935FEFD938", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("81E1B098-E3D4-4FFB-8782-94935FEFD938", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("81E1B098-E3D4-4FFB-8782-94935FEFD938", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("81E1B098-E3D4-4FFB-8782-94935FEFD938", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("81E1B098-E3D4-4FFB-8782-94935FEFD938", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='81E1B098-E3D4-4FFB-8782-94935FEFD938'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -724,20 +751,23 @@ $4.5 \ \text {kg}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -882,20 +912,23 @@ $28$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("99B771D4-952B-4603-BB61-6A63F668BA1F", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("99B771D4-952B-4603-BB61-6A63F668BA1F", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("99B771D4-952B-4603-BB61-6A63F668BA1F", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("99B771D4-952B-4603-BB61-6A63F668BA1F", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("99B771D4-952B-4603-BB61-6A63F668BA1F", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("99B771D4-952B-4603-BB61-6A63F668BA1F", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("99B771D4-952B-4603-BB61-6A63F668BA1F", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("99B771D4-952B-4603-BB61-6A63F668BA1F", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='99B771D4-952B-4603-BB61-6A63F668BA1F'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -973,20 +1006,23 @@ $1200 \ \text {cm}^2$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("4F58585B-5B01-496D-8865-FFF0FEAC8FD6", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='4F58585B-5B01-496D-8865-FFF0FEAC8FD6'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1061,20 +1097,23 @@ $48 \ \text{cm}^2$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("99D0FFC6-A645-4175-8EA6-1E27EC96521C", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='99D0FFC6-A645-4175-8EA6-1E27EC96521C'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1180,20 +1219,23 @@ $\pounds 2.80$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("E18F355F-E6B9-4D2A-922F-0959DD6D4280", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='E18F355F-E6B9-4D2A-922F-0959DD6D4280'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1279,20 +1321,23 @@ $6 \ \text {m}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("728683E0-0172-4C1B-B996-DE78A22F8120", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("728683E0-0172-4C1B-B996-DE78A22F8120", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("728683E0-0172-4C1B-B996-DE78A22F8120", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("728683E0-0172-4C1B-B996-DE78A22F8120", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("728683E0-0172-4C1B-B996-DE78A22F8120", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("728683E0-0172-4C1B-B996-DE78A22F8120", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("728683E0-0172-4C1B-B996-DE78A22F8120", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("728683E0-0172-4C1B-B996-DE78A22F8120", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='728683E0-0172-4C1B-B996-DE78A22F8120'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1358,20 +1403,23 @@ $14$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("7913B5DC-FF48-4EA0-824B-86C5FEC03FF7", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='7913B5DC-FF48-4EA0-824B-86C5FEC03FF7'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1433,20 +1481,23 @@ $60$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("B2D61F27-0340-481E-A898-0EB99514A60B", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("B2D61F27-0340-481E-A898-0EB99514A60B", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("B2D61F27-0340-481E-A898-0EB99514A60B", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("B2D61F27-0340-481E-A898-0EB99514A60B", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("B2D61F27-0340-481E-A898-0EB99514A60B", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("B2D61F27-0340-481E-A898-0EB99514A60B", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("B2D61F27-0340-481E-A898-0EB99514A60B", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("B2D61F27-0340-481E-A898-0EB99514A60B", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='B2D61F27-0340-481E-A898-0EB99514A60B'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>
@@ -1526,20 +1577,23 @@ $10$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("3A2365AD-70B7-45DF-8397-B6EF9E526FF8", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='3A2365AD-70B7-45DF-8397-B6EF9E526FF8'>Initial</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a</p>
 </div>

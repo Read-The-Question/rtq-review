@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-06-09 11:15:04
+date: 2022-06-09 16:53:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -175,20 +175,23 @@ $18$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("7B83BD4F-38FE-4088-BDD0-C94A2203662F", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='7B83BD4F-38FE-4088-BDD0-C94A2203662F'>Initial</p>
+</div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:31</p>
 </div>
@@ -242,7 +245,23 @@ $23$
 </div>
 </div>
 
-
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='submitReview("050EE19D-DD2B-4EAE-B94A-09B3971155EF", "PR", "PRG")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='submitReview("050EE19D-DD2B-4EAE-B94A-09B3971155EF", "PR", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='submitReview("050EE19D-DD2B-4EAE-B94A-09B3971155EF", "PR", "PRR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='submitReview("050EE19D-DD2B-4EAE-B94A-09B3971155EF", "PR", "PRA")'>PRA</button>
+</li>
+</ul>
+<p class='review_status initial' id='050EE19D-DD2B-4EAE-B94A-09B3971155EF'>Initial</p>
+</div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:18</p>
 </div>

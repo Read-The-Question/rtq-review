@@ -403,10 +403,30 @@ button.rag_prr {
     background-color: red;
 }
 
-
-
 li.review button:hover {
     background-color: #555;
     color: white;
-  }
-  
+}
+
+p.review_status { 
+    padding: 20px;
+    padding-left: 40px;
+    color: white;
+}
+
+p.review_status.loading { 
+    background-color: orange;
+}
+
+p.review_status.success { 
+    background-color: green;
+}
+
+p.review_status.error { 
+    background-color: red;
+}
+
+p.review_status.initial { 
+    background-color: transparent;
+    visibility: hidden;
+}

@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-09 11:12:57
+date: 2022-06-09 16:51:16
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,7 +45,7 @@ Complete the following:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -78,7 +78,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -111,7 +111,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -144,7 +144,7 @@ $108$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -179,7 +179,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -215,7 +215,7 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_red subquestion'>
+<div class='question_envelope rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -250,20 +250,23 @@ $7$
 </div>
 </li>
 </ul>
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='5DDCED17-6E3E-47C2-9B8E-D083D0B1AA2C'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -311,20 +314,23 @@ $847$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("72414C08-6F87-4B5B-B641-FBEEDD3094DD", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='72414C08-6F87-4B5B-B641-FBEEDD3094DD'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -372,20 +378,23 @@ $352$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("3E1C545C-0F27-4EDE-98F5-FDF05E60B28B", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='3E1C545C-0F27-4EDE-98F5-FDF05E60B28B'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -433,20 +442,23 @@ $247$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("A00B68F4-B761-41D3-B3E2-1CCF1D2A567B", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='A00B68F4-B761-41D3-B3E2-1CCF1D2A567B'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -494,20 +506,23 @@ $1725$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("D342F86C-24E3-46D4-8A92-0F41A2141E7F", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='D342F86C-24E3-46D4-8A92-0F41A2141E7F'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -555,20 +570,23 @@ $4734$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("672ED6D1-CC3D-4A63-A7FF-473FEF56BC49", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='672ED6D1-CC3D-4A63-A7FF-473FEF56BC49'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -713,20 +731,23 @@ $3074$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("51009A67-A32F-47AB-8235-58A743394681", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("51009A67-A32F-47AB-8235-58A743394681", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("51009A67-A32F-47AB-8235-58A743394681", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("51009A67-A32F-47AB-8235-58A743394681", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("51009A67-A32F-47AB-8235-58A743394681", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("51009A67-A32F-47AB-8235-58A743394681", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("51009A67-A32F-47AB-8235-58A743394681", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("51009A67-A32F-47AB-8235-58A743394681", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='51009A67-A32F-47AB-8235-58A743394681'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -780,20 +801,23 @@ $11.021$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("4A850628-BFA5-4B3F-9B71-75D9E7F47CC7", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='4A850628-BFA5-4B3F-9B71-75D9E7F47CC7'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -844,20 +868,23 @@ $1.774$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -907,20 +934,23 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='F432AD9A-242A-4CE5-A114-1BB951BB20B5'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -964,20 +994,23 @@ $15 {:} 35$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='DBB8C89C-F97B-4199-91D5-98FAE00EFC21'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1026,20 +1059,23 @@ $02 {:} 20 \ \text {p.m.}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='2AF9BF1A-6E92-4492-9B1C-3C71893FDA24'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1086,20 +1122,23 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='74EEEB13-FE38-4F2F-92DC-B391E32A54D9'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1145,20 +1184,23 @@ $5003$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("62D1BE3E-7DD3-4592-8B0F-5021FC8A908E", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='62D1BE3E-7DD3-4592-8B0F-5021FC8A908E'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1204,20 +1246,23 @@ $\text {Ten thousand two hundred and three}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("83D238DF-A974-41B9-BF90-F6A3A08200A6", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("83D238DF-A974-41B9-BF90-F6A3A08200A6", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("83D238DF-A974-41B9-BF90-F6A3A08200A6", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("83D238DF-A974-41B9-BF90-F6A3A08200A6", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("83D238DF-A974-41B9-BF90-F6A3A08200A6", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("83D238DF-A974-41B9-BF90-F6A3A08200A6", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("83D238DF-A974-41B9-BF90-F6A3A08200A6", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("83D238DF-A974-41B9-BF90-F6A3A08200A6", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='83D238DF-A974-41B9-BF90-F6A3A08200A6'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1600,20 +1645,23 @@ $1.03$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("64B2B518-673B-4F9A-BA1E-841430517583", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("64B2B518-673B-4F9A-BA1E-841430517583", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("64B2B518-673B-4F9A-BA1E-841430517583", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("64B2B518-673B-4F9A-BA1E-841430517583", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("64B2B518-673B-4F9A-BA1E-841430517583", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("64B2B518-673B-4F9A-BA1E-841430517583", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("64B2B518-673B-4F9A-BA1E-841430517583", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("64B2B518-673B-4F9A-BA1E-841430517583", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='64B2B518-673B-4F9A-BA1E-841430517583'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1659,20 +1707,23 @@ $\dfrac {27} {100}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("548C2E25-993D-4C02-82E6-2AA805905EE3", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("548C2E25-993D-4C02-82E6-2AA805905EE3", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("548C2E25-993D-4C02-82E6-2AA805905EE3", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("548C2E25-993D-4C02-82E6-2AA805905EE3", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("548C2E25-993D-4C02-82E6-2AA805905EE3", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("548C2E25-993D-4C02-82E6-2AA805905EE3", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("548C2E25-993D-4C02-82E6-2AA805905EE3", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("548C2E25-993D-4C02-82E6-2AA805905EE3", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='548C2E25-993D-4C02-82E6-2AA805905EE3'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1722,20 +1773,23 @@ $6798$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("814A48A6-788C-4EB8-9113-8A0722371A72", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("814A48A6-788C-4EB8-9113-8A0722371A72", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("814A48A6-788C-4EB8-9113-8A0722371A72", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("814A48A6-788C-4EB8-9113-8A0722371A72", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("814A48A6-788C-4EB8-9113-8A0722371A72", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("814A48A6-788C-4EB8-9113-8A0722371A72", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("814A48A6-788C-4EB8-9113-8A0722371A72", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("814A48A6-788C-4EB8-9113-8A0722371A72", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='814A48A6-788C-4EB8-9113-8A0722371A72'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1784,20 +1838,23 @@ $2.494$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("FDD3F15E-48E0-4F86-B10C-AF2F1115F60F", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='FDD3F15E-48E0-4F86-B10C-AF2F1115F60F'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1907,20 +1964,23 @@ $120$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("955F6A4C-B51E-4DEB-94C3-02E89591FFC4", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='955F6A4C-B51E-4DEB-94C3-02E89591FFC4'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1971,20 +2031,23 @@ $111$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("6DA9F5A4-F475-42E3-A25E-62049134FBC4", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='6DA9F5A4-F475-42E3-A25E-62049134FBC4'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2037,20 +2100,23 @@ $12$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("37A3DF42-1B85-4931-843A-6A0DA7076F88", "rag_wf_g2", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("37A3DF42-1B85-4931-843A-6A0DA7076F88", "G2", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("37A3DF42-1B85-4931-843A-6A0DA7076F88", "rag_wf_g2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("37A3DF42-1B85-4931-843A-6A0DA7076F88", "G2", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("37A3DF42-1B85-4931-843A-6A0DA7076F88", "rag_wf_g2", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("37A3DF42-1B85-4931-843A-6A0DA7076F88", "G2", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("37A3DF42-1B85-4931-843A-6A0DA7076F88", "rag_wf_g2", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("37A3DF42-1B85-4931-843A-6A0DA7076F88", "G2", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='37A3DF42-1B85-4931-843A-6A0DA7076F88'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2104,20 +2170,23 @@ $40$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("66F011FD-DFE1-4337-8556-F1E6A13528AA", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("66F011FD-DFE1-4337-8556-F1E6A13528AA", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("66F011FD-DFE1-4337-8556-F1E6A13528AA", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("66F011FD-DFE1-4337-8556-F1E6A13528AA", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("66F011FD-DFE1-4337-8556-F1E6A13528AA", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("66F011FD-DFE1-4337-8556-F1E6A13528AA", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("66F011FD-DFE1-4337-8556-F1E6A13528AA", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("66F011FD-DFE1-4337-8556-F1E6A13528AA", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='66F011FD-DFE1-4337-8556-F1E6A13528AA'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2164,20 +2233,23 @@ $\text {Pentagon}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("A1B06F9E-6353-4842-9636-091EF34AA971", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("A1B06F9E-6353-4842-9636-091EF34AA971", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("A1B06F9E-6353-4842-9636-091EF34AA971", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("A1B06F9E-6353-4842-9636-091EF34AA971", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("A1B06F9E-6353-4842-9636-091EF34AA971", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("A1B06F9E-6353-4842-9636-091EF34AA971", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("A1B06F9E-6353-4842-9636-091EF34AA971", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("A1B06F9E-6353-4842-9636-091EF34AA971", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='A1B06F9E-6353-4842-9636-091EF34AA971'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2222,20 +2294,23 @@ $\text {Cuboid}$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("E357F926-98BE-49CA-A8E3-205475456DA0", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("E357F926-98BE-49CA-A8E3-205475456DA0", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("E357F926-98BE-49CA-A8E3-205475456DA0", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("E357F926-98BE-49CA-A8E3-205475456DA0", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("E357F926-98BE-49CA-A8E3-205475456DA0", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("E357F926-98BE-49CA-A8E3-205475456DA0", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("E357F926-98BE-49CA-A8E3-205475456DA0", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("E357F926-98BE-49CA-A8E3-205475456DA0", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='E357F926-98BE-49CA-A8E3-205475456DA0'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2294,20 +2369,23 @@ $20$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='EBA5AF22-8DEA-43F8-A6C6-CA6BCB94F1E3'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2364,20 +2442,23 @@ $21$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("7CF85E54-C3FE-4D36-8D4E-EFDA111557AD", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='7CF85E54-C3FE-4D36-8D4E-EFDA111557AD'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2429,20 +2510,23 @@ $987$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("6226AC8D-FE2D-4404-80C6-B5657566AEF2", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='6226AC8D-FE2D-4404-80C6-B5657566AEF2'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2489,20 +2573,23 @@ $233$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("DF2ED620-4CF1-49DA-B107-4A09B973A98C", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='DF2ED620-4CF1-49DA-B107-4A09B973A98C'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2549,20 +2636,23 @@ $14$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("415EE546-AD6B-4E59-B886-A3241928E529", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("415EE546-AD6B-4E59-B886-A3241928E529", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("415EE546-AD6B-4E59-B886-A3241928E529", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("415EE546-AD6B-4E59-B886-A3241928E529", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("415EE546-AD6B-4E59-B886-A3241928E529", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("415EE546-AD6B-4E59-B886-A3241928E529", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("415EE546-AD6B-4E59-B886-A3241928E529", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("415EE546-AD6B-4E59-B886-A3241928E529", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='415EE546-AD6B-4E59-B886-A3241928E529'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2629,20 +2719,23 @@ $46$
 </div>
 </div>
 
+<div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='clickMe("5AD43B4B-E920-4612-9106-152878ACCB28", "rag_wf_g0", "PRCR")'>PRG</button>
+<button class='review rag_prg' onClick='submitReview("5AD43B4B-E920-4612-9106-152878ACCB28", "G1", "PRG")'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='clickMe("5AD43B4B-E920-4612-9106-152878ACCB28", "rag_wf_g0", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' onClick='submitReview("5AD43B4B-E920-4612-9106-152878ACCB28", "G1", "PRCR")'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='clickMe("5AD43B4B-E920-4612-9106-152878ACCB28", "rag_wf_g0", "PRCR")'>PRR</button>
+<button class='review rag_prr' onClick='submitReview("5AD43B4B-E920-4612-9106-152878ACCB28", "G1", "PRR")'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='clickMe("5AD43B4B-E920-4612-9106-152878ACCB28", "rag_wf_g0", "PRCR")'>PRA</button>
+<button class='review rag_pra' onClick='submitReview("5AD43B4B-E920-4612-9106-152878ACCB28", "G1", "PRA")'>PRA</button>
 </li>
 </ul>
+<p class='review_status initial' id='5AD43B4B-E920-4612-9106-152878ACCB28'>Initial</p>
+</div>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

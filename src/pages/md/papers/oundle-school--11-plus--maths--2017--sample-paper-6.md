@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-06-09 17:20:21
+date: 2022-06-09 21:28:37
 ---
 <div class='paper'>
 <div class='meta'>

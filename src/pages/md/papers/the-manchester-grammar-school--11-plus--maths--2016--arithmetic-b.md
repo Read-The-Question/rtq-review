@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic B"
-date: 2022-06-09 16:51:16
+date: 2022-06-09 17:20:21
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-09 16:51:16
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>33EF32F3-D1A0-4738-855C-B10DF6AC9DAE</p>
 </div>
@@ -81,7 +81,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>55046BCF-986C-4B10-8755-12B513004787</p>
 </div>
@@ -247,7 +247,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>2C26352A-4AA1-46CE-9387-78C69FD25973</p>
 </div>
@@ -424,7 +424,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9A449407-B624-4651-8801-CA2BF9009826</p>
 </div>
@@ -593,7 +593,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>E328737F-AC5D-4423-9C7F-68AF92098440</p>
 </div>
@@ -772,7 +772,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>E1768276-92F9-4E5D-AAA3-89AD38377054</p>
 </div>
@@ -959,7 +959,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>40511CB4-2926-4FAB-88C3-80D38B031B18</p>
 </div>
@@ -1173,7 +1173,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>D85E03ED-CA5D-4BCD-9BFC-07122EEEE5DB</p>
 </div>
@@ -1549,7 +1549,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9C47F6E7-B85D-44F3-8F0D-59F57D3BDDA4</p>
 </div>
@@ -1794,7 +1794,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>EBDFF16C-1229-47C0-965D-D17A4C4BEF3A</p>
 </div>
@@ -1866,7 +1866,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>5CA04718-0BCC-4934-A4C9-34DF7F4CB8B1</p>
 </div>

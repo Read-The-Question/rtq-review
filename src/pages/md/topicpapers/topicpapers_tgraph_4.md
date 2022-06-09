@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-4"
 title: "TopicPaper - Graph - 4"
-date: 2022-06-09 16:53:27
+date: 2022-06-09 17:22:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-09 16:53:27
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>0EEF8AB9-09E5-4D5B-92C1-12FAB99C91A3</p>
 </div>
@@ -223,7 +223,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>311E34AE-BC3D-4AC4-B9FA-4E8966D0CEE4</p>
 </div>
@@ -277,7 +277,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>5ADEA136-019A-4E7C-B16A-63B5124BEC21</p>
 </div>
@@ -405,7 +405,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>C0E51095-8AB7-4748-BD96-B55749B71271</p>
 </div>
@@ -574,7 +574,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>2104C7A2-1214-4D54-8DFE-CE848DCDA6F4</p>
 </div>
@@ -715,7 +715,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>CEA80618-09C7-44A0-9012-28683BA7B7F2</p>
 </div>
@@ -827,7 +827,7 @@ $10 \ \text {seconds}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>ECFBCE10-5838-4562-AE69-F3CDE6D78A37</p>
 </div>
@@ -880,7 +880,7 @@ $D(3,5)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>19D1A71C-91C4-4B84-AFB5-93282AFDD08B</p>
 </div>
@@ -1051,7 +1051,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>C7718EC4-3E45-4D6F-B095-C4FF78D39AA3</p>
 </div>
@@ -1304,7 +1304,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>61621283-59ED-4A9F-BDA2-637F90FC18D0</p>
 </div>
@@ -1438,7 +1438,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>2A91D484-E765-4276-A44E-C07149A5989A</p>
 </div>
@@ -1648,7 +1648,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9CEAF2A5-C2F2-4496-8770-B93CA96DA05C</p>
 </div>
@@ -1828,7 +1828,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>27D7E6D4-E918-429C-AF9B-1D9C6F56CED1</p>
 </div>
@@ -2073,7 +2073,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>E4C34EB0-9A68-4889-A896-853EB3C27ECF</p>
 </div>
@@ -2292,7 +2292,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>4CF4ADEE-21C3-4F3F-A36C-A92F4BD3A8BD</p>
 </div>
@@ -2463,7 +2463,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>0AA4832F-AC4C-431A-8845-96C3A5575326</p>
 </div>
@@ -2652,7 +2652,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>F68DA46A-CDEF-4AC9-8CF1-9CF2DBA98C9E</p>
 </div>
@@ -2826,7 +2826,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>F2B8FCBA-AD86-432E-87CA-842903B91EE0</p>
 </div>
@@ -3033,7 +3033,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9EDD8D35-8424-45C8-B1FF-CFBFDD3627CF</p>
 </div>
@@ -3256,7 +3256,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>C36C23BF-EE03-46D4-9D6A-103DE6C75AAE</p>
 </div>
@@ -3474,7 +3474,7 @@ $\text {To get some rest}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>6444D5F4-833F-41FE-AB65-4A1CD0E2999B</p>
 </div>
@@ -3740,7 +3740,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>8A1BFE79-13B6-4A0B-B47B-91961D20F040</p>
 </div>
@@ -3996,7 +3996,7 @@ $325 \ \text{oranges}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>698F3943-AD9F-4055-A94D-925AE85FB739</p>
 </div>
@@ -4132,7 +4132,7 @@ $10 {:} 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>B451FD98-E1A7-4078-B5CF-1452704D1933</p>
 </div>
@@ -4339,7 +4339,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>4FCFA3D3-B720-42EC-B376-2654E57E07E1</p>
 </div>
@@ -4395,7 +4395,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>395DF37D-FEC8-4CFD-82C4-94F8F2511914</p>
 </div>
@@ -4526,7 +4526,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>280E7C77-5220-40B0-A761-5C610EFC2777</p>
 </div>
@@ -4589,7 +4589,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>4F4FE7EB-B2E3-4D21-8CA4-F4341E32CD16</p>
 </div>
@@ -4721,7 +4721,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>E9667C9E-6065-45A3-AD7E-26B2A51FAA6E</p>
 </div>
@@ -4850,7 +4850,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>2EED48C7-7BA7-4631-AED3-E5F00C38418B</p>
 </div>
@@ -5009,7 +5009,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>502A4691-4288-43F1-8153-A0DC09739A79</p>
 </div>
@@ -5111,7 +5111,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>C0634E40-539F-4205-B87B-9E4788001DD8</p>
 </div>
@@ -5222,7 +5222,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9A2A1777-417D-49C1-AB3C-7F2038A4159A</p>
 </div>
@@ -5323,7 +5323,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>6A832CBB-FCBF-459E-B0DE-9FE907F53EE3</p>
 </div>
@@ -5423,7 +5423,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>7A9A591C-6121-427E-B503-1776A10FA7D9</p>
 </div>
@@ -5529,7 +5529,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>A26B41B2-48A9-4EA8-928F-0999668C04BC</p>
 </div>
@@ -5659,7 +5659,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>B0C0EE8F-CA66-4212-92F4-84B3D4096E58</p>
 </div>
@@ -5759,7 +5759,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>46D20755-F2DA-4D4B-830A-AAC8B912B62D</p>
 </div>
@@ -5922,7 +5922,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>31C4B7BA-269C-4EBF-AE87-E84194F1E4B5</p>
 </div>
@@ -6083,7 +6083,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>ACECB589-B56B-4093-9365-99249BC76B65</p>
 </div>

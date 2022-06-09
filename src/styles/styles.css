@@ -75,119 +75,24 @@ img {
     border-style: solid;
 }
 
-.rag_ak_xx, 
-.rag_ar_xx 
-.rag_ad_xx, 
-.rag_bs_xx,
-.rag_ga_xx,
-.rag_jn_xx, 
-.rag_na_xx, 
-.rag_nj_xx, 
-.rag_up_xx,
-.rag_wf_xx  {
-    background-color: lightcoral;
-}
-
-.question_envelope.question.rag_red {
-    /* background-color: rgba(255, 0, 0, 0.4); */
-    background-color: lightcoral;
-}
-
-.question_envelope.question.rag_amber {
-    /* background-color: rgba(255, 255, 0, 0.2);; */
-    background-color: lightsalmon;
-    /* background-color: greenyellow; */
-    /* background-color: lightgoldenrodyellow; */
-
-}
-
-.question_envelope.question.rag_green {
-    /* background-color: rgba(0, 255, 0, 0.2); */
-    /* background-color: lightgreen; */
-
-}
-
-.question_envelope.question.rag_prs {
-    /* background-color: rgba(0, 255, 0, 0.2); */
-    /* background-color: lightgreen; */
-
-}
-
-.question_envelope.question.rag_up_notstarted {
-    /* background-color: rgba(0, 255, 0, 0.2); */
-    /* background-color: lightgreen; */
+.question_envelope.question.rag_notstarted  {
     background-color: dimgray;
 }
 
-.question_envelope.question.rag_prb {
-    /* background-color: rgba(0, 255, 0, 0.2); */
-    /* background-color: lightgreen; */
-    background-color: lightgreen;
-}
-
-.rag_ak_notstarted, 
-.rag_ar_notstarted 
-.rag_ad_notstarted, 
-.rag_bs_notstarted,
-.rag_ga_notstarted,
-.rag_jn_notstarted, 
-.rag_na_notstarted, 
-.rag_nj_notstarted, 
-.rag_up_notstarted,
-.rag_wf_notstarted  {
-    background-color: dimgray;
-}
-
-.rag_ak_amber, 
-.rag_ar_amber 
-.rag_ad_amber, 
-.rag_bs_amber,
-.rag_ga_amber,
-.rag_jn_amber, 
-.rag_na_amber, 
-.rag_nj_amber, 
-.rag_up_amber,
-.rag_wf_amber  {
+.question_envelope.question.rag_amber  {
     background-color: lightsalmon;
 }
 
-.rag_ak_red, 
-.rag_ar_red 
-.rag_ad_red, 
-.rag_bs_red,
-.rag_ga_red,
-.rag_jn_red, 
-.rag_na_red, 
-.rag_nj_red, 
-.rag_up_red,
-.rag_wf_red  {
+.question_envelope.question.rag_red  {
     background-color: lightcoral;
 }
 
-.rag_ak_blocked, 
-.rag_ar_blocked 
-.rag_ad_blocked, 
-.rag_bs_blocked,
-.rag_ga_blocked,
-.rag_jn_blocked, 
-.rag_na_blocked, 
-.rag_nj_blocked, 
-.rag_up_blocked,
-.rag_wf_blocked  {
+.question_envelope.question.rag_blocked  {
     background-color: darkkhaki;
 }
 
 
-.rag_ak_oldpr, 
-.rag_ar_oldpr 
-.rag_ad_oldpr, 
-.rag_bs_oldpr,
-.rag_ga_oldpr,
-.rag_jn_oldpr, 
-.rag_na_oldpr, 
-.rag_nj_oldpr, 
-.rag_up_oldpr,
-.rag_wf_oldpr  {
+.question_envelope.question.rag_oldpr  {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
     /* background-color: hotpink; */
@@ -195,31 +100,13 @@ img {
     background-color: rgba(153, 50, 204, 0.2);
 }
 
-.rag_ak_pr, 
-.rag_ar_pr 
-.rag_ad_pr, 
-.rag_bs_pr,
-.rag_ga_pr,
-.rag_jn_pr, 
-.rag_na_pr, 
-.rag_nj_pr, 
-.rag_up_pr,
-.rag_wf_pr  {
+.question_envelope.question.rag_pr  {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
     background-color: hotpink;
 }
 
-.rag_ak_g0, 
-.rag_ar_g0 
-.rag_ad_g0, 
-.rag_bs_g0,
-.rag_ga_g0,
-.rag_jn_g0, 
-.rag_na_g0, 
-.rag_nj_g0, 
-.rag_up_g0,
-.rag_wf_g0  {
+.question_envelope.question.rag_g0  {
     /* background-color: rgba(173, 255, 47, 0.2); */
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
@@ -227,31 +114,13 @@ img {
     background-color: paleturquoise;
 }
 
-.rag_ak_g1, 
-.rag_ar_g1 
-.rag_ad_g1, 
-.rag_bs_g1,
-.rag_ga_g1,
-.rag_jn_g1, 
-.rag_na_g1, 
-.rag_nj_g1, 
-.rag_up_g1,
-.rag_wf_g1  {
+.question_envelope.question.rag_g1  {
     background-color: rgba(173, 255, 47, 0.2);
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
 }
 
-.rag_ak_g2, 
-.rag_ar_g2 
-.rag_ad_g2, 
-.rag_bs_g2,
-.rag_ga_g2,
-.rag_jn_g2, 
-.rag_na_g2, 
-.rag_nj_g2, 
-.rag_up_g2,
-.rag_wf_g2  {
+.question_envelope.question.rag_g2  {
     background-color: rgba(173, 255, 47, 0.4);
 
     /* background-color: rgba(0, 255, 0, 0.2); */
@@ -259,20 +128,16 @@ img {
     /* background-color: greenyellow; */
 }
 
-.rag_ak_g3, 
-.rag_ar_g3 
-.rag_ad_g3, 
-.rag_bs_g3,
-.rag_ga_g3,
-.rag_jn_g3, 
-.rag_na_g3, 
-.rag_nj_g3, 
-.rag_up_g3,
-.rag_wf_g3  {
+.question_envelope.question.rag_g3  {
     background-color: rgba(173, 255, 47, 0.6);
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
+}
+
+.question_envelope.question.rag_green {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
 }
 
 .answer {
@@ -430,3 +295,4 @@ p.review_status.initial {
     background-color: transparent;
     visibility: hidden;
 }
+

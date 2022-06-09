@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 1"
-date: 2022-06-09 16:51:16
+date: 2022-06-09 17:20:21
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-09 16:51:16
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>9A80AAB9-90F5-4D50-BC70-1F8AD5560BEF</p>
 </div>
@@ -144,7 +144,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>95F6D6F5-E4AD-4943-BD2B-2B4C13844FDF</p>
 </div>
@@ -313,7 +313,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>BACFCB19-39F3-4C53-A587-DB78185D71FF</p>
 </div>
@@ -635,7 +635,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>241B6BB0-E65A-4B3B-BA06-6F3CAB142E11</p>
 </div>
@@ -804,7 +804,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>1AA32F50-94E7-47F7-99F0-C81C908264D0</p>
 </div>
@@ -938,7 +938,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>A641125A-5D93-4A29-9FD1-F5D61C72CFA8</p>
 </div>
@@ -1110,7 +1110,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>717B9951-16E9-4952-A95E-F8B48B2F3DD9</p>
 </div>
@@ -1355,7 +1355,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>42D143E4-CBC4-4F62-99AC-B6A6F8EB1C16</p>
 </div>
@@ -1490,7 +1490,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_up_notstarted question'>
+<div class='question_envelope rag_notstarted question'>
 <div class='uuid'>
 <p>F1FC3F2D-CE54-40A5-B6DA-982CB73B6FC7</p>
 </div>

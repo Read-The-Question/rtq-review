@@ -11,20 +11,9 @@ async function submitReviewAsync(uuid, sheet, rag) {
 
     setStatusWithTimeout(review_status, "Submitting. Please wait ...", "loading", 0);
 
-	// const response = await fetch(
-	// 	'https://read-the-question-20220609.herokuapp.com/rag',
-	// 	{
-	// 		method: 'POST',
-    //         body: JSON.stringify(body),
-	// 		headers: {
-    //             'Content-Type': 'application/json',
-	// 		}
-	// 	}
-	// );
-
     try {
         const response = await fetch(
-            'http://localhost:5000/rag',
+            'https://read-the-question-20220609.herokuapp.com/rag',
             {
                 method: 'POST',
                 body: JSON.stringify(body),
@@ -33,6 +22,18 @@ async function submitReviewAsync(uuid, sheet, rag) {
                 }
             }
         );
+            
+
+        // const response = await fetch(
+        //     'http://localhost:5000/rag',
+        //     {
+        //         method: 'POST',
+        //         body: JSON.stringify(body),
+        //         headers: {
+        //             'Content-Type': 'application/json',
+        //         }
+        //     }
+        // );
     
         if (!response.ok) {
             const body = await response.json();

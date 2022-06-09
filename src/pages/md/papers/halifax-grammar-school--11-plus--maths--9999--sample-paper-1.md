@@ -1,7 +1,7 @@
 ---
 slug: "papers/halifax-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Halifax Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,20 @@ $9$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("DA8FA910-F7B0-4EDF-84B5-5986F11038C1", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -132,6 +146,7 @@ $60 \ \text {cm}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -187,6 +202,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -254,6 +270,7 @@ $12$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -313,6 +330,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -357,6 +375,7 @@ $k + 30$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -405,6 +424,20 @@ $2$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("B315E5A3-9E66-4B4F-9F2D-71EDA8CF3DDA", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -495,6 +528,7 @@ $a = 68 \degree$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -587,6 +621,7 @@ $30\% \text{ of } \ 30$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -641,6 +676,20 @@ $4$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("D7E33A04-DE0A-4485-AE44-E675DE38579E", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1</p>
 </div>

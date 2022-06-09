@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -54,6 +54,20 @@ $1080$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("EBBA8025-CCA0-4B2E-A205-D28C0E59A011", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("EBBA8025-CCA0-4B2E-A205-D28C0E59A011", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("EBBA8025-CCA0-4B2E-A205-D28C0E59A011", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("EBBA8025-CCA0-4B2E-A205-D28C0E59A011", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -102,6 +116,20 @@ $696$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("87BBBF95-BF05-4710-8206-4E337956FB22", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("87BBBF95-BF05-4710-8206-4E337956FB22", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("87BBBF95-BF05-4710-8206-4E337956FB22", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("87BBBF95-BF05-4710-8206-4E337956FB22", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -171,6 +199,20 @@ $196$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("4260496C-5CFD-4DCF-AD5E-0942547499C8", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("4260496C-5CFD-4DCF-AD5E-0942547499C8", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("4260496C-5CFD-4DCF-AD5E-0942547499C8", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("4260496C-5CFD-4DCF-AD5E-0942547499C8", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -218,6 +260,7 @@ $3$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -270,6 +313,20 @@ $71685$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("79F23A29-1172-45A2-8516-2EE7A4E3916B", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("79F23A29-1172-45A2-8516-2EE7A4E3916B", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("79F23A29-1172-45A2-8516-2EE7A4E3916B", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("79F23A29-1172-45A2-8516-2EE7A4E3916B", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -323,6 +380,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -372,6 +430,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -423,6 +482,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -466,6 +526,7 @@ $42008 \\\\ 957992$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -517,6 +578,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -561,7 +623,7 @@ tunit
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -595,7 +657,7 @@ $51000 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -627,6 +689,20 @@ $5.1 \ \text{m}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("556DD2D4-6885-4122-8082-119CA4B4EC96", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("556DD2D4-6885-4122-8082-119CA4B4EC96", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("556DD2D4-6885-4122-8082-119CA4B4EC96", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("556DD2D4-6885-4122-8082-119CA4B4EC96", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -678,6 +754,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -743,6 +820,7 @@ $5\%$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -796,6 +874,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -837,7 +916,7 @@ Write each of these amounts to the nearest hundred pounds:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -865,7 +944,7 @@ $\pounds 700$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -893,7 +972,7 @@ $\pounds 2,900$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -921,6 +1000,7 @@ $\pounds 90,100$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -969,6 +1049,7 @@ $\dfrac {3} {4}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1021,7 +1102,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1059,7 +1140,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1097,6 +1178,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1151,7 +1233,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1189,7 +1271,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1227,7 +1309,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1265,6 +1347,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1345,6 +1428,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1384,6 +1468,7 @@ $789 \quad < \quad 798 \quad < \quad 879 \quad < \quad 897 \quad < \quad 978 \qu
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1445,6 +1530,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1497,6 +1583,20 @@ $8000$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3D3DA408-8186-4C87-A0D1-474EF05DE36F", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3D3DA408-8186-4C87-A0D1-474EF05DE36F", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3D3DA408-8186-4C87-A0D1-474EF05DE36F", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3D3DA408-8186-4C87-A0D1-474EF05DE36F", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1550,6 +1650,20 @@ $4.744$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("07CD4B67-7485-4B17-AF5E-4254EB60E880", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("07CD4B67-7485-4B17-AF5E-4254EB60E880", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("07CD4B67-7485-4B17-AF5E-4254EB60E880", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("07CD4B67-7485-4B17-AF5E-4254EB60E880", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1608,6 +1722,20 @@ $\pounds 1.6$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("5C46037A-9D8E-4709-A27D-EC329D33E470", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("5C46037A-9D8E-4709-A27D-EC329D33E470", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("5C46037A-9D8E-4709-A27D-EC329D33E470", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("5C46037A-9D8E-4709-A27D-EC329D33E470", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1658,6 +1786,20 @@ $8.40 \ \text{cm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("09339FC7-5927-4473-9600-A2EBB5E14701", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("09339FC7-5927-4473-9600-A2EBB5E14701", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("09339FC7-5927-4473-9600-A2EBB5E14701", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("09339FC7-5927-4473-9600-A2EBB5E14701", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1711,6 +1853,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1757,6 +1900,7 @@ $28.4 \ \text{cm}^2$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1798,7 +1942,7 @@ There are $40$ coloured counters in a box. Half of them are red, one-fifth are y
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1838,7 +1982,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1872,6 +2016,20 @@ $\dfrac {3} {10}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3167920D-0D61-408D-81BB-04D02838D8D1", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3167920D-0D61-408D-81BB-04D02838D8D1", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3167920D-0D61-408D-81BB-04D02838D8D1", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3167920D-0D61-408D-81BB-04D02838D8D1", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1934,6 +2092,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1986,6 +2145,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2047,6 +2207,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2111,6 +2272,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -2174,6 +2336,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1</p>

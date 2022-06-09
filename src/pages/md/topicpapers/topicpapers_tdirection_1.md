@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdirection-1"
 title: "TopicPaper - Direction - 1"
-date: 2022-06-05 17:32:11
+date: 2022-06-09 11:15:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,6 +57,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:19</p>
@@ -124,6 +125,7 @@ Angle $= 60\ \text{degrees}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:16</p>

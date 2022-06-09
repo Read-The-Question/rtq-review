@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -51,6 +51,20 @@ $6193$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("8182E8DE-7321-4258-BC0F-F59648F967F6", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("8182E8DE-7321-4258-BC0F-F59648F967F6", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("8182E8DE-7321-4258-BC0F-F59648F967F6", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("8182E8DE-7321-4258-BC0F-F59648F967F6", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -98,6 +112,20 @@ $1133$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("FE609046-D51F-4260-81E9-8F3CB1D00ECE", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("FE609046-D51F-4260-81E9-8F3CB1D00ECE", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("FE609046-D51F-4260-81E9-8F3CB1D00ECE", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("FE609046-D51F-4260-81E9-8F3CB1D00ECE", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -145,6 +173,20 @@ $1768$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD", "rag_wf_g2", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD", "rag_wf_g2", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD", "rag_wf_g2", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("DE07B6AC-5AFC-4D12-8EA1-711FCC1302CD", "rag_wf_g2", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -195,6 +237,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -241,7 +284,7 @@ The temperatures in some places, one night last winter are shown on the map.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -267,7 +310,7 @@ The temperatures in some places, one night last winter are shown on the map.
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -295,7 +338,7 @@ $\text {Edinburgh}, \ \text {Plymouth}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -333,7 +376,7 @@ $12 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -363,6 +406,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -404,7 +448,7 @@ tnumber
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -439,7 +483,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -467,7 +511,7 @@ You may use more than one pair of brackets in each statement.
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -502,7 +546,7 @@ $2 + 3 \times (4 + 5) = 29$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -539,6 +583,7 @@ $(2 + 3) \times (4 + 5) = 45$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -580,7 +625,7 @@ tnumber
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -614,7 +659,7 @@ $56 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -651,7 +696,7 @@ $75 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -685,6 +730,20 @@ $\dfrac {3} {5}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("F28875CA-296F-4209-9C81-2B07A43BF4E5", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("F28875CA-296F-4209-9C81-2B07A43BF4E5", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("F28875CA-296F-4209-9C81-2B07A43BF4E5", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("F28875CA-296F-4209-9C81-2B07A43BF4E5", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -754,6 +813,20 @@ $\pounds 5.06$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("DE7C4BE1-D757-49FA-A818-1AF3DF2ECEEC", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("DE7C4BE1-D757-49FA-A818-1AF3DF2ECEEC", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("DE7C4BE1-D757-49FA-A818-1AF3DF2ECEEC", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("DE7C4BE1-D757-49FA-A818-1AF3DF2ECEEC", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -802,7 +875,7 @@ From the numbers in the list, write down:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -830,7 +903,7 @@ $43$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -858,7 +931,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -893,7 +966,7 @@ $24, 44$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -919,6 +992,20 @@ $17$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("7C785172-CCF2-4BDA-BF7D-65D283EB76B5", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("7C785172-CCF2-4BDA-BF7D-65D283EB76B5", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("7C785172-CCF2-4BDA-BF7D-65D283EB76B5", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("7C785172-CCF2-4BDA-BF7D-65D283EB76B5", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -972,7 +1059,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1010,7 +1097,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1048,7 +1135,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1086,7 +1173,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1124,6 +1211,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1165,7 +1253,7 @@ Write these numbers in order of size. Start with the smallest number.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1193,7 +1281,7 @@ $0.067, \quad 0.56, \quad 0.6, \quad 0.605, \quad 0.65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1236,6 +1324,20 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3306136E-D11A-4185-B4BA-DAE22322A70E", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3306136E-D11A-4185-B4BA-DAE22322A70E", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3306136E-D11A-4185-B4BA-DAE22322A70E", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3306136E-D11A-4185-B4BA-DAE22322A70E", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1287,6 +1389,20 @@ $45$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("C2DA9491-EDDE-4593-8A44-2D8FCE3664C6", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("C2DA9491-EDDE-4593-8A44-2D8FCE3664C6", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("C2DA9491-EDDE-4593-8A44-2D8FCE3664C6", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("C2DA9491-EDDE-4593-8A44-2D8FCE3664C6", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>
@@ -1332,7 +1448,7 @@ to find the value of
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1369,7 +1485,7 @@ $87.38$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1407,6 +1523,20 @@ $340$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("21D2BF8B-CBA9-43C7-99F2-36A0C829C26F", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("21D2BF8B-CBA9-43C7-99F2-36A0C829C26F", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("21D2BF8B-CBA9-43C7-99F2-36A0C829C26F", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("21D2BF8B-CBA9-43C7-99F2-36A0C829C26F", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1450,7 +1580,7 @@ tmoney
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1489,7 +1619,7 @@ $\pounds 8.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1527,6 +1657,20 @@ $\pounds 4.80$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("625C28CB-BB72-429B-8620-05BA56753590", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("625C28CB-BB72-429B-8620-05BA56753590", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("625C28CB-BB72-429B-8620-05BA56753590", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("625C28CB-BB72-429B-8620-05BA56753590", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1582,7 +1726,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1620,7 +1764,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1658,6 +1802,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>epsom-college--11-plus--maths--9999--sample-paper-1</p>
 </div>

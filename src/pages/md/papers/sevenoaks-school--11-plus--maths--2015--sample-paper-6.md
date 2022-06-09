@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,7 +45,7 @@ Danielle went to the store to buy stationery for school. She bought four rulers,
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -93,7 +93,7 @@ $408 \text{p}$ or $\pounds 4.08$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -135,6 +135,7 @@ $\pounds 5.92$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -182,6 +183,7 @@ $1596 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -258,6 +260,7 @@ $\pounds 2.65$ and $\pounds 2.25$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -314,6 +317,7 @@ $1325$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -355,7 +359,7 @@ Find the missing numbers in the sequences below:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -410,7 +414,7 @@ $3$ and $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -464,7 +468,7 @@ $7$ and $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -518,7 +522,7 @@ $32$ and $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -570,6 +574,7 @@ $9$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -628,6 +633,7 @@ $\pounds 290$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -690,6 +696,7 @@ $20 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -775,6 +782,7 @@ $750 \text{ ml}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -823,6 +831,7 @@ $1$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -896,6 +905,7 @@ $2$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -983,6 +993,7 @@ $24$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -1153,6 +1164,7 @@ Point D
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -1203,6 +1215,7 @@ $18{:}27$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -1266,6 +1279,7 @@ $\dfrac {4} {9}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -1332,6 +1346,7 @@ $50$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -1495,6 +1510,7 @@ $21$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
 </div>
@@ -1547,6 +1563,7 @@ E
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>
@@ -1696,6 +1713,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -47,7 +47,7 @@ Fill in the blanks so that the calculation on the left is equal to the calculati
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -81,7 +81,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -116,6 +116,7 @@ $90$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -169,6 +170,7 @@ $30$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -218,6 +220,20 @@ $\dfrac{2}{3}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("E16D6325-36FF-464C-8198-472884A6720D", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("E16D6325-36FF-464C-8198-472884A6720D", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("E16D6325-36FF-464C-8198-472884A6720D", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("E16D6325-36FF-464C-8198-472884A6720D", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -267,6 +283,7 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -331,6 +348,7 @@ $8, 27$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -378,6 +396,20 @@ $23$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("30C9339F-2AC2-4BC2-A71D-BD9F13ABB2A2", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -432,6 +464,7 @@ $42$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -500,6 +533,7 @@ $13, 14$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -550,6 +584,7 @@ $27$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -604,6 +639,7 @@ $30 \ \text{years}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -654,6 +690,7 @@ $57 \text{p}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -709,6 +746,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -772,6 +810,7 @@ $30 \text{p}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -829,6 +868,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -885,6 +925,7 @@ $\pounds 49.5$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -929,7 +970,7 @@ The table shows the distances in miles between some towns in the West country.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -957,7 +998,7 @@ Bristol
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -991,6 +1032,7 @@ $3$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1052,6 +1094,7 @@ $24 \ \text{coins}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -1136,6 +1179,7 @@ Gifts in fourth pile $= 10$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1179,7 +1223,7 @@ In *Mathsland* currency is arranged in alphas, betas and gammas where
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1218,7 +1262,7 @@ $521 \ \text{Gammas}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1269,6 +1313,7 @@ $7 \ \text{Alphas} + 17 \ \text{Betas} + 4 \ \text{Gammas}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1309,6 +1354,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -1366,6 +1412,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1416,6 +1463,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -1470,6 +1518,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -1539,6 +1588,7 @@ $10 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1591,6 +1641,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
@@ -1647,7 +1698,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1685,7 +1736,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1723,6 +1774,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -1768,7 +1820,7 @@ talgebra
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1802,7 +1854,7 @@ $
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1842,7 +1894,7 @@ $1 + 3 + 5 + 7 + 9 + 11 = 36 = 6^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1877,7 +1929,7 @@ $1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 = 169 = 13^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1911,7 +1963,7 @@ $
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1947,7 +1999,7 @@ $31 + 33 + 35 + 37 + 39 + 41 = 216 = 6^3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1982,7 +2034,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2034,6 +2086,7 @@ $3,1 \ \text{and} \ 2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -2091,7 +2144,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2129,7 +2182,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2167,7 +2220,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2205,7 +2258,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2243,7 +2296,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2281,7 +2334,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2319,6 +2372,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -2377,7 +2431,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2415,7 +2469,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2453,7 +2507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2491,6 +2545,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -2557,7 +2612,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2595,7 +2650,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2642,7 +2697,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2690,6 +2745,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>
@@ -2749,7 +2805,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2785,7 +2841,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2823,7 +2879,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2861,7 +2917,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2899,7 +2955,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2937,7 +2993,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2978,7 +3034,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3016,7 +3072,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3054,6 +3110,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1</p>
 </div>

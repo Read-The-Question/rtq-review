@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,7 +57,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -95,7 +95,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -133,7 +133,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -171,7 +171,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -209,7 +209,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -247,7 +247,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -285,6 +285,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -332,6 +333,20 @@ $6084$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("4EC513E6-3767-4725-924F-C36F3605A1EC", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("4EC513E6-3767-4725-924F-C36F3605A1EC", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("4EC513E6-3767-4725-924F-C36F3605A1EC", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("4EC513E6-3767-4725-924F-C36F3605A1EC", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -381,6 +396,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -432,6 +448,20 @@ $34306$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -481,6 +511,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -533,7 +564,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -575,7 +606,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -615,7 +646,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -657,6 +688,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -708,7 +740,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -748,7 +780,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -786,6 +818,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -835,6 +868,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -888,6 +922,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -939,7 +974,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -977,7 +1012,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1015,7 +1050,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1056,7 +1091,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1094,6 +1129,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1145,7 +1181,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1185,7 +1221,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1228,6 +1264,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1279,7 +1316,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1320,7 +1357,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1362,7 +1399,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1404,6 +1441,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1455,7 +1493,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1493,7 +1531,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1531,6 +1569,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1583,6 +1622,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -1639,7 +1679,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1677,7 +1717,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1715,6 +1755,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1770,6 +1811,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -1821,7 +1863,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1863,7 +1905,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1901,7 +1943,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1941,7 +1983,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1981,6 +2023,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2032,6 +2075,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -2087,6 +2131,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2139,6 +2184,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2190,7 +2236,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2231,7 +2277,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2271,7 +2317,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2313,6 +2359,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2366,7 +2413,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2404,7 +2451,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2442,6 +2489,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2502,6 +2550,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2558,7 +2607,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2596,7 +2645,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2634,7 +2683,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2672,6 +2721,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2728,6 +2778,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -2787,6 +2838,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2838,6 +2890,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -2896,6 +2949,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -2947,7 +3001,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2985,7 +3039,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3023,7 +3077,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3061,6 +3115,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3115,6 +3170,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -3177,6 +3233,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3228,7 +3285,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3272,7 +3329,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3310,7 +3367,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3350,6 +3407,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3401,7 +3459,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3446,7 +3504,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3488,7 +3546,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3532,6 +3590,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3587,7 +3646,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3625,7 +3684,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3663,7 +3722,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3701,6 +3760,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3760,6 +3820,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -3811,7 +3872,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3847,7 +3908,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3885,7 +3946,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3926,7 +3987,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3967,6 +4028,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
 </div>
@@ -4025,6 +4087,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>

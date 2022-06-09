@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-06-05 17:32:11
+date: 2022-06-09 11:15:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:29</p>
 </div>
@@ -110,6 +111,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:14</p>
@@ -163,6 +165,7 @@ E
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:16</p>
@@ -220,6 +223,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:12</p>
 </div>
@@ -274,6 +278,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:27</p>
@@ -343,6 +348,7 @@ $\text{different} \ \ \boxed{\times}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:4</p>
 </div>
@@ -397,6 +403,7 @@ $U$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:6</p>
@@ -457,6 +464,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:29</p>

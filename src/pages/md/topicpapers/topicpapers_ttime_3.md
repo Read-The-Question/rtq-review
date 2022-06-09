@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-3"
 title: "TopicPaper - Time - 3"
-date: 2022-06-05 17:32:11
+date: 2022-06-09 11:15:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,241 @@ date: 2022-06-05 17:32:11
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $463 \ \text{minutes}$ in hours and minutes ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+463 &= 60 \times 7 + 43 \\\\
+    &= 7 \ \text{hours} \ 43 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{hours} \ 43 \ \text{minutes}$
+
+</div>
+</div>
+
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("DBC1958C-C043-4319-9AE7-09CEA696EBC9", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("DBC1958C-C043-4319-9AE7-09CEA696EBC9", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("DBC1958C-C043-4319-9AE7-09CEA696EBC9", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("DBC1958C-C043-4319-9AE7-09CEA696EBC9", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>FFA405AA-B004-43FE-A6D8-72C925702C2D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterborough to Oxford. He left Peterborough at $11.45  \ \text{am}$. At what time did he arrive in Oxford? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+1:10
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1:10$
+
+</div>
+</div>
+
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("FFA405AA-B004-43FE-A6D8-72C925702C2D", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("FFA405AA-B004-43FE-A6D8-72C925702C2D", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("FFA405AA-B004-43FE-A6D8-72C925702C2D", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("FFA405AA-B004-43FE-A6D8-72C925702C2D", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>154BD462-2E71-4EBE-AD0B-A1A972F20268</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Change $4.6 \ \text{minutes}$ into seconds. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \text {minute}                    &= 60 \text{seconds} \\\\
+4.6 \text {minutes}                 &= 4.6 \times 60 \text{seconds} \\\\
+                                    &= 276 \text{seconds}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$276 \text{seconds}$
+
+</div>
+</div>
+
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("154BD462-2E71-4EBE-AD0B-A1A972F20268", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("154BD462-2E71-4EBE-AD0B-A1A972F20268", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("154BD462-2E71-4EBE-AD0B-A1A972F20268", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("154BD462-2E71-4EBE-AD0B-A1A972F20268", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>4EB55D89-BF4F-47CA-A07F-BC5A04143A7B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$2008$ is a leap year, and this year the $29 \text{th}$ of February falls on a Friday. On what day of the week will the $29 \text{th}$ of February fall in the next leap year  $(2012)$ ? (Remember there are $366$ days in a leap year).
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Wednesday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Wednesday}$
+
+</div>
+</div>
+
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("4EB55D89-BF4F-47CA-A07F-BC5A04143A7B", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("4EB55D89-BF4F-47CA-A07F-BC5A04143A7B", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("4EB55D89-BF4F-47CA-A07F-BC5A04143A7B", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("4EB55D89-BF4F-47CA-A07F-BC5A04143A7B", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_wf_g0 question'>
 <div class='uuid'>
@@ -47,7 +282,7 @@ ttime
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -81,7 +316,7 @@ $6 \ \text{hours} \ 27 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -114,6 +349,20 @@ $576 \ \text{minutes}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("BA7A2E5A-F0B6-4120-988C-2F8865BF4B44", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("BA7A2E5A-F0B6-4120-988C-2F8865BF4B44", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("BA7A2E5A-F0B6-4120-988C-2F8865BF4B44", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("BA7A2E5A-F0B6-4120-988C-2F8865BF4B44", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -165,6 +414,20 @@ $8{:}37 \text{am}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3568C8D0-C035-4738-8BE0-B0BC876E29B4", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3568C8D0-C035-4738-8BE0-B0BC876E29B4", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3568C8D0-C035-4738-8BE0-B0BC876E29B4", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3568C8D0-C035-4738-8BE0-B0BC876E29B4", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:29</p>
 </div>
@@ -210,6 +473,20 @@ $27 \ \text{minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("27309122-5511-4842-BA1A-FDCDE985F81B", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("27309122-5511-4842-BA1A-FDCDE985F81B", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("27309122-5511-4842-BA1A-FDCDE985F81B", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("27309122-5511-4842-BA1A-FDCDE985F81B", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:24</p>
 </div>
@@ -257,6 +534,20 @@ $36 \ \text{minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("0F642196-79F1-4CFA-BF49-1BD4515A47BD", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("0F642196-79F1-4CFA-BF49-1BD4515A47BD", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("0F642196-79F1-4CFA-BF49-1BD4515A47BD", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("0F642196-79F1-4CFA-BF49-1BD4515A47BD", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:25</p>
 </div>
@@ -306,6 +597,20 @@ $3{:}18 \ \text{pm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("219060A7-EC1A-4ED0-B135-50542C15C7B7", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("219060A7-EC1A-4ED0-B135-50542C15C7B7", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("219060A7-EC1A-4ED0-B135-50542C15C7B7", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("219060A7-EC1A-4ED0-B135-50542C15C7B7", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:20</p>
 </div>
@@ -354,6 +659,20 @@ $36$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("B72AF037-E752-4BED-91CE-38848837F037", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("B72AF037-E752-4BED-91CE-38848837F037", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("B72AF037-E752-4BED-91CE-38848837F037", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("B72AF037-E752-4BED-91CE-38848837F037", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:21</p>
 </div>
@@ -403,6 +722,20 @@ $2{:}32 \ \text{pm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("434CD114-4752-47E2-A24B-B5229509F3BD", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("434CD114-4752-47E2-A24B-B5229509F3BD", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("434CD114-4752-47E2-A24B-B5229509F3BD", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("434CD114-4752-47E2-A24B-B5229509F3BD", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:20</p>
 </div>
@@ -457,6 +790,20 @@ $1440 \ \text{minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("535DDC7C-F46C-4FFD-AF90-E1FC89C96B9F", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:21</p>
 </div>
@@ -511,6 +858,20 @@ $1440 \ \text{minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("9004924A-FAFE-4C44-A7D2-20DAF504FB5B", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("9004924A-FAFE-4C44-A7D2-20DAF504FB5B", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("9004924A-FAFE-4C44-A7D2-20DAF504FB5B", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("9004924A-FAFE-4C44-A7D2-20DAF504FB5B", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:3</p>
 </div>
@@ -559,6 +920,7 @@ $9{:}02 \ \text{am}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:9</p>
@@ -614,7 +976,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -652,7 +1014,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -690,6 +1052,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:13</p>
 </div>
@@ -739,6 +1102,20 @@ $01{:}52 \ \text {P.M}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("71A87121-8B24-43F3-8CA2-5883E0DFF79B", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("71A87121-8B24-43F3-8CA2-5883E0DFF79B", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("71A87121-8B24-43F3-8CA2-5883E0DFF79B", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("71A87121-8B24-43F3-8CA2-5883E0DFF79B", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:3</p>
 </div>
@@ -789,6 +1166,7 @@ $18{:}27$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:12</p>
@@ -847,6 +1225,7 @@ $450 \ \text {seconds}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:14</p>
 </div>
@@ -896,6 +1275,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:14</p>
@@ -947,6 +1327,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:19</p>
 </div>
@@ -996,6 +1377,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:4</p>
@@ -1047,6 +1429,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
@@ -1097,6 +1480,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
@@ -1146,6 +1530,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:4</p>
@@ -1203,6 +1588,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:9</p>
 </div>
@@ -1255,6 +1641,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:11</p>
 </div>
@@ -1296,7 +1683,7 @@ ttime
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1327,7 +1714,7 @@ $12 {:} 19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1368,6 +1755,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:13</p>
 </div>
@@ -1407,6 +1795,7 @@ $2 {:} 25$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:9</p>
@@ -1472,7 +1861,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1510,7 +1899,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1548,7 +1937,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1586,6 +1975,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:4</p>
 </div>
@@ -1630,7 +2020,7 @@ My clock shows the following time. Both hours and minutes are multiples of 3, as
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1658,7 +2048,7 @@ $ 12:06 $
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1699,7 +2089,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1737,6 +2127,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:6</p>
 </div>
@@ -1791,7 +2182,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1829,7 +2220,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1867,6 +2258,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
@@ -1908,7 +2300,7 @@ I start watching a film at $6:55\,pm$ and turn the television off at $9:35\,pm$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1946,7 +2338,7 @@ $150  \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1981,6 +2373,7 @@ $30 \ \text {minutes}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
@@ -2052,7 +2445,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2090,7 +2483,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2128,6 +2521,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:2</p>
 </div>
@@ -2176,6 +2570,7 @@ $115  \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:5</p>
@@ -2241,7 +2636,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2279,7 +2674,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2317,7 +2712,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2355,6 +2750,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:2</p>
 </div>
@@ -2399,7 +2795,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2438,7 +2834,7 @@ $4 \ \text{hour} 15 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2480,6 +2876,7 @@ $\pounds 25.5$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:5</p>
 </div>
@@ -2538,6 +2935,7 @@ $33600$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:17</p>
 </div>
@@ -2592,7 +2990,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2630,7 +3028,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2668,7 +3066,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2706,6 +3104,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:32</p>
 </div>
@@ -2748,7 +3147,7 @@ In fact the ferry left $17 \ \text{minutes}$ late and arrived at Calais at $0911
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2783,7 +3182,7 @@ $08:02$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2822,7 +3221,7 @@ $69 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2859,6 +3258,7 @@ $11 \ \text{ mins}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:14</p>
 </div>
@@ -2901,7 +3301,7 @@ by a cycling stage and finishes with a running stage.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2938,7 +3338,7 @@ $2:04 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2973,7 +3373,7 @@ $154 \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3008,361 +3408,12 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>5524FAA7-FB72-4F72-9E44-56391F23074B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My watch is set to show the correct time at $12$ noon on Wednesday. 
-
-It gains $4 \ \text{minutes}$ every $3 \ \text{hours}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What time does the watch show when the correct time is $12$ noon on Friday, assuming the watch has not been reset again?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The watch is reset again to show the correct time at $12$ noon on Friday. 
-What is the correct time when the watch is showing $19{:}40$ on Friday night?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>87CBCB6E-A278-487F-905C-D1C419C06E43</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Abigail gets up at $07{:}40$ in the morning. 
-
-$25 \ \text{minutes}$ later she starts her breakfast, which takes $10 \ \text{minutes}$ to finish. 
-
-She then leaves for school.  Her journey takes $35 \ \text{minutes}$ in total. 
-
-She arrives $5 \ \text{minutes}$ late for registration. 
-
-At what time is registration?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Registration time}      &= 7{:}40 \ \text{am} + 25 \ \text{minutes} + 10 \ \text{minutes} + 35 \ \text{minutes} - 5 \ \text{minutes} \\\\
-                              &= 7{:}40 \ \text{am} + 65 \ \text{minutes}   \\\\
-                              &= 8{:}45 \ \text{am}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8{:}45 \ \text{am}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>D29FD65A-D00C-4231-B577-33E395594EC4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A clock is $18 \ \text{minutes}$ slow, but is gaining $7 \dfrac{1}{2} \ \text{seconds}$ every hour. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long will it take for the clock to show the correct time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\text{Time taken to show correct time}  &= \dfrac{Time lag}{Time gain every hour} \\\\
-                                        &= \dfrac{18 \times 60} {7 \dfrac{1}{2}} \\\\
-                                        &= \dfrac{18 \times 60}{\dfrac{15}{2}} \\\\
-                                        &= \dfrac{18 \times 60 \times 2}{15} \\\\
-                                        &= \dfrac{18 \times 15 \times 4 \times 2}{15} \\\\
-                                        &= 18 \times 4 \times 2 \\\\
-\text{Time taken to show correct time}  &= 144 \ \text{hours}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$144 \ \text{hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_red subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Another clock is $30 \ \text{minutes}$ fast, but is losing $11 \dfrac{1}{4} \ \text{seconds}$ per hour.
-
-How many minutes fast will the second clock be when the first clock shows the right time?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\text{Time taken to show correct time}  &= \dfrac{Time fast}{Time loss every hour} \\\\
-                                        &= \dfrac{30 \times 60} {11 \dfrac{1}{4}} \\\\
-                                        &= \dfrac{30 \times 60}{\dfrac{45}{4}} \\\\
-                                        &= \dfrac{30 \times 60 \times 4}{45} \\\\
-                                        &= \dfrac{3 \times 10 \times 15 \times 4 \times 4}{3 \times 15} \\\\
-                                        &= \dfrac{\cancel{3} \times 10 \times \cancel{15} \times 4 \times 4}{\cancel{3} \times \cancel{15}} \\\\
-                                        &= 10 \times 4 \times 4 \\\\
-\text{Time taken to show correct time}  &= 160 \ \text{hours}
-$
-
-Time difference between first and second clock = $160 - 144 \ \text{hours}$
-                                               = $16 \ \text{hours}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16 \ \text{hours}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_up_notstarted question'>
-<div class='uuid'>
-<p>F7E38796-7CE2-4B74-B0B7-1F485FC1C56E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-My journey to school takes $47 \ \text{minutes}$. If I set off at $07{:}32$ what time will I arrive at school?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{The time I arrive school}         &= 07{:}32 + 47 \ \text{minutes} \\\\
-\text{The time I arrive school}         &= 8 {:}19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 {:}19$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

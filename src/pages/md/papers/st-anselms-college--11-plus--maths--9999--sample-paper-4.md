@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,6 +45,7 @@ $\text {Two hundred forty-three thousand six hundred \ km}^2$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -84,6 +85,7 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
@@ -149,7 +151,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -187,7 +189,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -225,7 +227,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -263,6 +265,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -304,7 +307,7 @@ I buy 5 items which cost $\pounds 12.98$ each.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -338,7 +341,7 @@ $\pounds 64.9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -366,6 +369,7 @@ $\pounds 64.9$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -410,7 +414,7 @@ I live $5.2\,km$ from Anfield.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -444,7 +448,7 @@ $5200 \ \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -480,7 +484,7 @@ $1.2 \ \text{km}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -518,6 +522,7 @@ $0.75 \ \text{miles}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -562,7 +567,7 @@ A man starts work at $08:15$. He then has a break from $10:15$ to $10:35$. After
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -601,7 +606,7 @@ $4 \ \text{hour} 15 \ \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -643,6 +648,7 @@ $\pounds 25.5$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -684,7 +690,7 @@ Solve the following:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -723,7 +729,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -761,6 +767,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -802,7 +809,7 @@ Write the next two numbers for each of the following sequences.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -856,7 +863,7 @@ $89, 94$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -910,7 +917,7 @@ $-11, -26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -964,7 +971,7 @@ $2, 1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1019,6 +1026,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1063,7 +1071,7 @@ Complete the spaces shown by dotted lines below.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1110,7 +1118,7 @@ $111, 92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1159,6 +1167,7 @@ $58, 2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1204,6 +1213,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
@@ -1256,6 +1266,7 @@ $\text {North}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1300,7 +1311,7 @@ A number of Year $7$ pupils were asked to choose a favourite subject from a list
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1328,7 +1339,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1362,7 +1373,7 @@ $62$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1390,6 +1401,7 @@ $\text{Food technology}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1431,7 +1443,7 @@ Tickets for the zoo cost $\pounds 12.50$ for adults and $\pounds 8.00$ for child
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1465,7 +1477,7 @@ $\pounds 75.00$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1500,7 +1512,7 @@ $\pounds 69.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1536,6 +1548,7 @@ $\pounds 2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1599,7 +1612,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1637,7 +1650,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1675,7 +1688,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1713,7 +1726,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1751,6 +1764,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1804,6 +1818,20 @@ $68$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("B8DCCFD7-123E-4363-91EB-FDD6690FA383", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("B8DCCFD7-123E-4363-91EB-FDD6690FA383", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("B8DCCFD7-123E-4363-91EB-FDD6690FA383", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("B8DCCFD7-123E-4363-91EB-FDD6690FA383", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -1848,7 +1876,7 @@ Round each of the following numbers to the accuracy given in brackets.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1876,7 +1904,7 @@ $\text{133}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1904,7 +1932,7 @@ $\text{12000}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1930,6 +1958,20 @@ $124.08$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("05BC7A40-020B-420A-83C8-4F58121795F4", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("05BC7A40-020B-420A-83C8-4F58121795F4", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("05BC7A40-020B-420A-83C8-4F58121795F4", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("05BC7A40-020B-420A-83C8-4F58121795F4", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1974,6 +2016,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -2013,6 +2056,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
@@ -2069,6 +2113,7 @@ $1.8 \ \text{m}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -2122,6 +2167,7 @@ $\pounds 20.74$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -2167,7 +2213,7 @@ $1 \,\,\,\,\, 5 \,\,\,\,\, 8 \,\,\,\,\, 9 \,\,\,\,\, 17 \,\,\,\,\, 23 \,\,\,\,\,
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2195,7 +2241,7 @@ $9, 25, 81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2223,7 +2269,7 @@ $8, 125, 1000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2251,7 +2297,7 @@ $5, 9, 25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2277,6 +2323,20 @@ $\text{Prime Number}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("B500989A-95BC-48E9-99DE-F777B5042D16", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("B500989A-95BC-48E9-99DE-F777B5042D16", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("B500989A-95BC-48E9-99DE-F777B5042D16", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("B500989A-95BC-48E9-99DE-F777B5042D16", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -2320,7 +2380,7 @@ $Number \,\, A \,\, = 12 \,\, \times \,\, Number \,\, B \,\, and \,\,  Number \,
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2352,7 +2412,7 @@ $\dfrac {1} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2385,7 +2445,7 @@ $36 \  \text{times}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2413,7 +2473,7 @@ $\dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2442,6 +2502,7 @@ $2, 24, 72$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>
 </div>
@@ -2499,6 +2560,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4</p>

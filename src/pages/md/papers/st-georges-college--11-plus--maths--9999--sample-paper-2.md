@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-05 17:30:36
+date: 2022-06-09 11:12:57
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,7 +45,7 @@ Calculate
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -80,7 +80,7 @@ $660$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -115,7 +115,7 @@ $257$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -154,7 +154,7 @@ $4891$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -190,6 +190,7 @@ $687$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -239,6 +240,7 @@ $\text{Twenty one thousand one hundred seventy one}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -280,7 +282,7 @@ A jumbo jet can take 324 passengers.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -330,7 +332,7 @@ $9072$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -358,6 +360,7 @@ $100 = 9100$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -402,7 +405,7 @@ Convert
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -438,7 +441,7 @@ $dfrac{3}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -474,6 +477,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -521,6 +525,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
@@ -573,6 +578,7 @@ $\pounds 8.30$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -614,7 +620,7 @@ Ruth wants to buy three bracelets at $\pounds 1.29$ each and a birthday card for
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -650,7 +656,7 @@ $\pounds 4.72$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -685,6 +691,7 @@ $\pounds1.52$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -726,7 +733,7 @@ Write down
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -754,7 +761,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -782,7 +789,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -808,6 +815,20 @@ $51$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("242AC8B9-7333-4772-A4E2-A8579262210F", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("242AC8B9-7333-4772-A4E2-A8579262210F", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("242AC8B9-7333-4772-A4E2-A8579262210F", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("242AC8B9-7333-4772-A4E2-A8579262210F", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -865,7 +886,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -903,7 +924,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -941,7 +962,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -979,7 +1000,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1017,6 +1038,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1058,7 +1080,7 @@ Write down the next two numbers in the following sequences?
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1112,7 +1134,7 @@ $\dfrac{1}{2}, \dfrac{1}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1168,6 +1190,7 @@ $-1, -7$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1210,7 +1233,7 @@ by a cycling stage and finishes with a running stage.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1247,7 +1270,7 @@ $2:04 \ \text{pm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1282,7 +1305,7 @@ $154 \text{minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1317,6 +1340,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1369,6 +1393,7 @@ $42 \text{toffees}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
@@ -1429,6 +1454,7 @@ $\pounds 54$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1484,6 +1510,7 @@ $60 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1534,6 +1561,7 @@ $\pounds 14,000$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1575,7 +1603,7 @@ Helen spends half her money on a dress. She then spends one-third of what is lef
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1621,7 +1649,7 @@ $\pounds 40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1657,6 +1685,7 @@ $\dfrac{1}{3}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1704,7 +1733,7 @@ The base of Sarah's fish tank is $60\,cm$ long and $20\,cm$ wide.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1738,7 +1767,7 @@ $1200 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1774,7 +1803,7 @@ $36000 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1813,6 +1842,7 @@ $31.33 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -1856,7 +1886,7 @@ Simplify your answer where possible.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1893,7 +1923,7 @@ $\dfrac {10}{21}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1928,7 +1958,7 @@ $\dfrac {123}{20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1964,6 +1994,7 @@ $\dfrac {7}{2}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -2016,6 +2047,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
@@ -2070,6 +2102,7 @@ $9$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -2114,6 +2147,7 @@ $16.848$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
@@ -2164,6 +2198,7 @@ $36 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -2211,7 +2246,7 @@ Geraldo's rectangular garden has $4$ equally sized triangular-shaped flower beds
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2246,7 +2281,7 @@ $9\text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2279,7 +2314,7 @@ $240 \ \text{m}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2313,6 +2348,7 @@ $204 \ \text{m}^2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>
 </div>
@@ -2362,6 +2398,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2</p>

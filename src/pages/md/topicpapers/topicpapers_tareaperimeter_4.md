@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-4"
 title: "TopicPaper - Areaperimeter - 4"
-date: 2022-06-05 17:32:11
+date: 2022-06-09 11:15:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -58,6 +58,7 @@ $4x + 3$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:27</p>
 </div>
@@ -113,6 +114,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:7</p>
@@ -176,6 +178,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
@@ -228,6 +231,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:23</p>
@@ -288,6 +292,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:35</p>
@@ -354,6 +359,7 @@ $72$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:17</p>
 </div>
@@ -407,6 +413,20 @@ $1$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("A9164CFF-D274-477E-B9D2-26D22F572507", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("A9164CFF-D274-477E-B9D2-26D22F572507", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("A9164CFF-D274-477E-B9D2-26D22F572507", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("A9164CFF-D274-477E-B9D2-26D22F572507", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:0:6</p>
 </div>
@@ -466,6 +486,7 @@ $98$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-8:0:6</p>
@@ -538,6 +559,20 @@ $\dfrac{45}{4}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("EE39E7C4-5AC8-49F1-9A96-C9762A697117", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("EE39E7C4-5AC8-49F1-9A96-C9762A697117", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("EE39E7C4-5AC8-49F1-9A96-C9762A697117", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("EE39E7C4-5AC8-49F1-9A96-C9762A697117", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2018--sample-paper-9:0:6</p>
 </div>
@@ -585,7 +620,7 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -621,7 +656,7 @@ $4 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -661,7 +696,7 @@ $2 \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -693,6 +728,20 @@ $24 \text{m}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -764,6 +813,20 @@ $28 \ \text{cm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("9F69A09F-DC67-4C65-9482-73903E4F9BB4", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("9F69A09F-DC67-4C65-9482-73903E4F9BB4", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("9F69A09F-DC67-4C65-9482-73903E4F9BB4", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("9F69A09F-DC67-4C65-9482-73903E4F9BB4", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:6</p>
 </div>
@@ -834,6 +897,20 @@ $32 \ \text{cm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("FB99253B-2684-4954-B0CD-C244509033ED", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("FB99253B-2684-4954-B0CD-C244509033ED", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("FB99253B-2684-4954-B0CD-C244509033ED", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("FB99253B-2684-4954-B0CD-C244509033ED", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:6</p>
 </div>
@@ -899,6 +976,20 @@ $76 \text{m}^{2}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:28</p>
 </div>
@@ -966,6 +1057,20 @@ $24 \ \text{cm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("4AFBC40F-1638-4EA4-8624-F4D2729AD1A4", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("4AFBC40F-1638-4EA4-8624-F4D2729AD1A4", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("4AFBC40F-1638-4EA4-8624-F4D2729AD1A4", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("4AFBC40F-1638-4EA4-8624-F4D2729AD1A4", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:1</p>
 </div>
@@ -1010,7 +1115,7 @@ talgebra
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1053,7 +1158,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1090,6 +1195,7 @@ $105 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:12</p>
 </div>
@@ -1155,6 +1261,7 @@ $92 \ \text{m}^{2}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:15</p>
 </div>
@@ -1209,7 +1316,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1248,7 +1355,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1284,7 +1391,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1323,7 +1430,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subsubquestion'>
+<div class='question_envelope rag_up_red subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1365,6 +1472,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
@@ -1421,6 +1529,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:22</p>
@@ -1482,6 +1591,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:13</p>
 </div>
@@ -1540,6 +1650,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:11</p>
 </div>
@@ -1596,6 +1707,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:9</p>
 </div>
@@ -1648,6 +1760,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:10</p>
@@ -1711,6 +1824,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:15</p>
@@ -1778,6 +1892,7 @@ $50$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:14</p>
 </div>
@@ -1823,7 +1938,7 @@ talgebra
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1861,7 +1976,7 @@ $P = 2 (a + b)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1896,6 +2011,7 @@ $P = 30 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:12</p>
 </div>
@@ -1961,6 +2077,7 @@ $1.96 \text{m}^2$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:13</p>
 </div>
@@ -2019,6 +2136,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:14</p>
 </div>
@@ -2076,6 +2194,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:15</p>
@@ -2142,6 +2261,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:24</p>
 </div>
@@ -2189,7 +2309,7 @@ Mr Howden is landscaping his garden, the shape of which is illustrated below.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2224,7 +2344,7 @@ $42 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2264,6 +2384,7 @@ $83 \ \text {m} ^ 2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:9</p>
 </div>
@@ -2313,6 +2434,7 @@ $19.4 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:14</p>
@@ -2365,6 +2487,7 @@ $18 \ \text {cm} ^ 2$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:15</p>
@@ -2431,6 +2554,7 @@ $98 \ \text {cm} ^ 2$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:16</p>
 </div>
@@ -2487,6 +2611,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:10</p>
 </div>
@@ -2540,6 +2665,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:13</p>
 </div>
@@ -2584,7 +2710,7 @@ In this question the shapes are NOT drawn to scale.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2626,7 +2752,7 @@ $46 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2666,7 +2792,7 @@ $96 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2718,6 +2844,7 @@ $81 \text{cm}^2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
@@ -2762,7 +2889,7 @@ I want to draw a square in which the perimeter (total length around the outside)
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2805,7 +2932,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2856,6 +2983,20 @@ $6$
 </div>
 </li>
 </ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("7133C4B6-24EB-4420-92C7-0A0CC3F6411E", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("7133C4B6-24EB-4420-92C7-0A0CC3F6411E", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("7133C4B6-24EB-4420-92C7-0A0CC3F6411E", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("7133C4B6-24EB-4420-92C7-0A0CC3F6411E", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
@@ -2900,7 +3041,7 @@ In this question the shapes are NOT drawn to scale.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2941,7 +3082,7 @@ $62 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2997,7 +3138,7 @@ $35 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3041,7 +3182,7 @@ $154 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3094,6 +3235,7 @@ $52 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:11</p>
 </div>
@@ -3159,6 +3301,7 @@ $500$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:22</p>
 </div>
@@ -3211,7 +3354,7 @@ The total volume of the solid is $56\,cm^3$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3254,7 +3397,7 @@ $2 \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3293,6 +3436,7 @@ $144 \text {cm}^2$
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:14</p>
 </div>

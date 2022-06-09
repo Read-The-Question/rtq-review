@@ -359,3 +359,54 @@ img {
 
     /* display: none; */
 }
+
+
+ul.review {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    /* width: 100%; */
+
+    /* border: 1px solid #e7e7e7; */
+    /* background-color: #f3f3f3; */
+  
+}
+
+li.review {
+    display: inline;
+    padding: 20px;
+}
+
+button.review {
+    padding: 20px 20px;
+}
+
+button.rag_prg {
+    padding: 20px 20px;
+    background-color: #04AA6D;
+}
+
+button.rag_prcr {
+    padding: 20px 20px;
+    background-color: yellow;
+}
+
+
+button.rag_pra {
+    padding: 20px 20px;
+    background-color: orange;
+}
+
+
+button.rag_prr {
+    padding: 20px 20px;
+    background-color: red;
+}
+
+
+
+li.review button:hover {
+    background-color: #555;
+    color: white;
+  }
+  

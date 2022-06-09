@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-2"
 title: "TopicPaper - Time - 2"
-date: 2022-06-05 17:32:11
+date: 2022-06-09 11:15:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,465 @@ date: 2022-06-05 17:32:11
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_up_notstarted question'>
+<div class='uuid'>
+<p>5F835DBB-CCED-48B0-B76D-D2F01B1FC0FB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A new design for a novelty watch gives the time in $24-\text{hour}$ clock format by showing a particular combination of lights 
+below a set of numbers. The lit-up numbers are added together to find the actual time, with the first row showing the hour and the second row displaying the minutes.
+
+For example, the display below represents the time $05{:}26$ since: 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the time in ($24-\text{hour}$ format) represented by the display:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Mark the grid below to show the time "a quarter to ten in the evening"
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate how long it is between the times displayed on watch A and watch B below:
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_wf_g0 question'>
+<div class='uuid'>
+<p>87100C80-7419-46D8-A123-F5A2D5ECF629</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sleeper train leaves London at $22{:}45$ and reaches Aberdeen at $06{:}30$ the next morning.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out how long the journey takes in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken}           &= 6{:}30 - 22{:}45 \\\\
+                            &= 7{:}45 \\\\
+                            &= 7 \ \text{hours} \ 45 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{hours} \ 45 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A jumbo jet also leaves London at $22{:}45$ and takes a total of $11 \ \text{hours } 35 \ \text{minutes}$ to fly to Hong Kong. 
+Hong Kong is $7 \ \text{hours}$ ahead of London (i.e., when the time is $13{:}00$ in London, it is $20{:}00$ in Hong Kong).
+
+Work out what the local time is in Hong Kong when the flight lands. Give your answer in $24 \ \text{hour}$ format.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Time taken}               &= 22{:}45 + 11 \ \text{hours} \ 35 \ \text{minutes} \\\\
+                                &= 10{:}20 \\\\
+\text{Hong Kong's local time}   &= 10{:}20 + 7 \ \text{hours} \\\\
+                                &= 17{:}20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17:20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("87100C80-7419-46D8-A123-F5A2D5ECF629", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("87100C80-7419-46D8-A123-F5A2D5ECF629", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("87100C80-7419-46D8-A123-F5A2D5ECF629", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("87100C80-7419-46D8-A123-F5A2D5ECF629", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_blocked question'>
+<div class='uuid'>
+<p>7108AA2C-B831-419E-BE02-D136ECF3569E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John takes the train to school from Brixton to West Dulwich every day. Here is part of his train timetable:
+
+|                        |        |        |        |        |
+|:----------------------:|:------:|:------:|:------:|:------:|
+| **London Victoria**    | $0740$ | $0755$ | $0809$ | $0825$ |
+| **Brixton**            | $0747$ | $0802$ | $0816$ | $0832$ |
+| **Herne Hill**         | $0749$ | $0804$ | $0818$ | $0834$ |
+| **West Dulwich**       | $0752$ | $0807$ | $0821$ | $0837$ |
+| **Sydenham Hill**      | $0754$ | $0809$ | $0823$ | $0839$ |
+| **Penge East**         | $0757$ | $0812$ | $0826$ | $0842$ |
+| **Kent House**         | $0759$ | $0814$ | $0828$ | $0844$ |
+| **Beckenham Junction** | $0801$ | $0816$ | $0830$ | $0846$ |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is an $8 \ \text{minute}$ walk from John’s house to Brixton station, 
+and a $6 \ \text{minute}$ walk from West Dulwich to his form room at Dulwich College. 
+Work out what time John will arrive at his form room if he leaves home at $0805$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+John takes time to reach station $= 8 \ \text{minutes}$
+
+John leaves home at $0805$.
+
+John will reach station at $0805 + 8 = 0813$
+
+John will get his next train at $0816$
+
+The train reaches West Dulwich station at $0821$
+
+John takes to reach at his form room $= 6 \ \text {minutes}$
+
+John will reach at his form room at $0821 + 6 = 0827$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0827$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_up_red subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On another day, John leaves home at $0803$, but the $0809$ train from London Victoria is cancelled. 
+Work out how many minutes late John will be for registration, which starts at $0835$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The $0809$ train is cancelled.
+
+The next train is at $0832$
+
+As shown in the table,
+
+The train will reach West Dulwich at $0837$
+
+As we know John takes $6 \ \ text{minutes}$ to reach his form room.
+
+therefore,
+
+He will reach at $0837 + 6 = 0843$
+
+He will be $0843 - 0835 = 8 \ \text {minutes}$ for registration.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_up_notstarted question'>
 <div class='uuid'>
@@ -60,7 +519,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -98,7 +557,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -137,6 +596,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:8</p>
 </div>
@@ -178,7 +638,7 @@ ttime
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -215,7 +675,7 @@ $8.52 \ \text {a.m.}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -250,6 +710,20 @@ $5.44 \ \text {p.m.}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("E5936295-077E-4EE6-87AB-C6DED7D9335C", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("E5936295-077E-4EE6-87AB-C6DED7D9335C", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("E5936295-077E-4EE6-87AB-C6DED7D9335C", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("E5936295-077E-4EE6-87AB-C6DED7D9335C", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -310,6 +784,20 @@ $2 \ \text{h} \ 25 \ \text{mins}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("03952778-72AD-4E86-8E4A-7B00AAE69AF0", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("03952778-72AD-4E86-8E4A-7B00AAE69AF0", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("03952778-72AD-4E86-8E4A-7B00AAE69AF0", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("03952778-72AD-4E86-8E4A-7B00AAE69AF0", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:0:10</p>
 </div>
@@ -359,6 +847,20 @@ $2.10 \ \text{pm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("2AD0DE35-98B6-4AE3-A7ED-E6A0CF80546F", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
@@ -408,6 +910,20 @@ $111 \ \text {minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3B9E3192-6FF2-484F-BED6-93245E471DBE", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3B9E3192-6FF2-484F-BED6-93245E471DBE", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3B9E3192-6FF2-484F-BED6-93245E471DBE", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3B9E3192-6FF2-484F-BED6-93245E471DBE", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:0:10</p>
 </div>
@@ -471,6 +987,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>forest-school--11-plus--maths--2020--sample-paper-3:0:18</p>
 </div>
@@ -522,6 +1039,20 @@ $92 \ \text{minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("395B7BEF-3DD7-44D2-946A-7CA43359808F", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("395B7BEF-3DD7-44D2-946A-7CA43359808F", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("395B7BEF-3DD7-44D2-946A-7CA43359808F", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("395B7BEF-3DD7-44D2-946A-7CA43359808F", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:28</p>
 </div>
@@ -574,6 +1105,7 @@ $336 \text { hours}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:0:4</p>
 </div>
@@ -615,6 +1147,7 @@ TODOANSWER
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:0:22</p>
@@ -672,6 +1205,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
@@ -713,7 +1247,7 @@ Daniela is travelling from London to Birmingham.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -747,7 +1281,7 @@ $189500 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -773,6 +1307,20 @@ $12{:}43$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("19E5F575-DF01-4149-AD44-58F295B08731", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("19E5F575-DF01-4149-AD44-58F295B08731", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("19E5F575-DF01-4149-AD44-58F295B08731", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("19E5F575-DF01-4149-AD44-58F295B08731", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -829,7 +1377,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -867,7 +1415,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -905,6 +1453,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
@@ -951,6 +1500,20 @@ $6 \ \text {hours} \ 12 \ \text {minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("251849A4-EE0C-47E3-BB34-4CEBC3CC1509", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("251849A4-EE0C-47E3-BB34-4CEBC3CC1509", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("251849A4-EE0C-47E3-BB34-4CEBC3CC1509", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("251849A4-EE0C-47E3-BB34-4CEBC3CC1509", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
@@ -1005,7 +1568,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1043,7 +1606,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1083,6 +1646,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
@@ -1131,6 +1695,20 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("95AA3A28-967A-4FCB-91EC-525305242C25", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("95AA3A28-967A-4FCB-91EC-525305242C25", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("95AA3A28-967A-4FCB-91EC-525305242C25", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("95AA3A28-967A-4FCB-91EC-525305242C25", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:13</p>
 </div>
@@ -1174,7 +1752,7 @@ Subtract the child’s age in years from $30$, then divide the result by $2$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1214,7 +1792,7 @@ $11 \ \text {hours}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1256,6 +1834,20 @@ $7 \ \text {pm}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("2703C7F6-30C9-4C88-BEED-BD1AB762A00C", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("2703C7F6-30C9-4C88-BEED-BD1AB762A00C", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("2703C7F6-30C9-4C88-BEED-BD1AB762A00C", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("2703C7F6-30C9-4C88-BEED-BD1AB762A00C", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -1314,6 +1906,7 @@ $71 \ \text {seconds}$
 </div>
 </div>
 
+
 <div class='papername'>
 <p>king-edwards-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
@@ -1363,6 +1956,20 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("F432AD9A-242A-4CE5-A114-1BB951BB20B5", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
@@ -1406,6 +2013,20 @@ $15 {:} 35$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("DBB8C89C-F97B-4199-91D5-98FAE00EFC21", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
@@ -1454,6 +2075,20 @@ $02 {:} 20 \ \text {p.m.}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("2AF9BF1A-6E92-4492-9B1C-3C71893FDA24", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
@@ -1500,6 +2135,20 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("74EEEB13-FE38-4F2F-92DC-B391E32A54D9", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
@@ -1551,6 +2200,20 @@ $55800 \ \text {seconds}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:5</p>
 </div>
@@ -1597,6 +2260,7 @@ $13{:}13$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:16</p>
@@ -1658,6 +2322,7 @@ TODOANSWER
 </div>
 </div>
 
+
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:10</p>
 </div>
@@ -1709,7 +2374,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1747,7 +2412,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1787,7 +2452,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1825,6 +2490,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:28</p>
 </div>
@@ -1880,6 +2546,20 @@ $2{:}11 \ \text {pm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3015408A-F8DE-420C-933E-A2482DB10D38", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3015408A-F8DE-420C-933E-A2482DB10D38", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3015408A-F8DE-420C-933E-A2482DB10D38", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3015408A-F8DE-420C-933E-A2482DB10D38", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:9</p>
 </div>
@@ -1937,7 +2617,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1975,7 +2655,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2013,7 +2693,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2051,6 +2731,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:24</p>
 </div>
@@ -2106,6 +2787,20 @@ $12{:}28 \ \text {pm}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("3206AC5E-10AC-4792-AC6F-6BBD072B959C", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("3206AC5E-10AC-4792-AC6F-6BBD072B959C", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("3206AC5E-10AC-4792-AC6F-6BBD072B959C", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("3206AC5E-10AC-4792-AC6F-6BBD072B959C", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:8</p>
 </div>
@@ -2155,7 +2850,7 @@ $12.10\ \text{BBC News; Weather}$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2188,7 +2883,7 @@ $25 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2226,6 +2921,20 @@ $5 \ \text{minutes}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("A46C6B3B-4687-4639-A219-3C51136C0FB1", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("A46C6B3B-4687-4639-A219-3C51136C0FB1", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("A46C6B3B-4687-4639-A219-3C51136C0FB1", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("A46C6B3B-4687-4639-A219-3C51136C0FB1", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -2288,7 +2997,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2326,7 +3035,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2364,7 +3073,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2402,6 +3111,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
@@ -2459,7 +3169,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2497,7 +3207,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2535,7 +3245,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2573,7 +3283,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2612,6 +3322,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
@@ -2669,6 +3380,20 @@ $5{:}55 \ \text{am}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("7A398F6B-C825-4D14-888B-7DE1673A5240", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("7A398F6B-C825-4D14-888B-7DE1673A5240", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("7A398F6B-C825-4D14-888B-7DE1673A5240", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("7A398F6B-C825-4D14-888B-7DE1673A5240", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
@@ -2714,6 +3439,7 @@ $48000 \ \text {times per minute}$
 
 </div>
 </div>
+
 
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:3</p>
@@ -2780,7 +3506,7 @@ London          ,$10{:}45$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2813,7 +3539,7 @@ $1 \ \text {hour} \ 30 \ \text {minutes}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2844,6 +3570,20 @@ $11{:}20$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("A665B0B4-EBC8-4304-BDFA-28CF12D417AD", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -2888,7 +3628,7 @@ watch started going backwards at the correct rate. What is the real time if my w
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2921,7 +3661,7 @@ $10{:}38 \ \text{a.m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2952,6 +3692,20 @@ $11{:}05 \ \text{a.m}$
 </div>
 
 </div>
+</li>
+</ul>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("0B2DDF0F-855E-489C-A9C7-EF1107955CE1", "rag_wf_g0", "PRCR")'>PRA</button>
 </li>
 </ul>
 <div class='papername'>
@@ -3005,7 +3759,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3043,7 +3797,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3081,7 +3835,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_red subquestion'>
+<div class='question_envelope rag_up_red subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3119,6 +3873,7 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:25</p>
 </div>
@@ -3170,144 +3925,22 @@ $2 \ \text {hours} \ 37 \ \text {minutes}$
 </div>
 </div>
 
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' onClick='clickMe("EDEC9010-CA4E-4456-BF0A-E30E81B8226D", "rag_wf_g0", "PRCR")'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' onClick='clickMe("EDEC9010-CA4E-4456-BF0A-E30E81B8226D", "rag_wf_g0", "PRCR")'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' onClick='clickMe("EDEC9010-CA4E-4456-BF0A-E30E81B8226D", "rag_wf_g0", "PRCR")'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' onClick='clickMe("EDEC9010-CA4E-4456-BF0A-E30E81B8226D", "rag_wf_g0", "PRCR")'>PRA</button>
+</li>
+</ul>
 <div class='papername'>
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>DBC1958C-C043-4319-9AE7-09CEA696EBC9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $463 \ \text{minutes}$ in hours and minutes ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-463 &= 60 \times 7 + 43 \\\\
-    &= 7 \ \text{hours} \ 43 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7 \ \text{hours} \ 43 \ \text{minutes}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>FFA405AA-B004-43FE-A6D8-72C925702C2D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Melanie’s father took $1 \ \text{hr} \ 25 \ \text{mins}$ to drive from Peterborough to Oxford. He left Peterborough at $11.45  \ \text{am}$. At what time did he arrive in Oxford? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-1:10
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1:10$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_wf_g0 question'>
-<div class='uuid'>
-<p>154BD462-2E71-4EBE-AD0B-A1A972F20268</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Change $4.6 \ \text{minutes}$ into seconds. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-1 \text {minute}                    &= 60 \text{seconds} \\\\
-4.6 \text {minutes}                 &= 4.6 \times 60 \text{seconds} \\\\
-                                    &= 276 \text{seconds}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$276 \text{seconds}$
-
-</div>
-</div>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

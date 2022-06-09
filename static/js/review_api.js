@@ -1,10 +1,7 @@
 const submitReview = (uuid, sheet, rag) => {
-    console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
+    // console.log(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`)
     // alert(`Submit review for: UUID: ${uuid}, sheet: ${sheet}, Review RAG: ${rag}`);
-
-    // body = {uuid, sheet, rag};
     submitReviewAsync(uuid, sheet, rag);
-    // .then(response => response.json());
 }
 
 async function submitReviewAsync(uuid, sheet, rag) {
@@ -13,31 +10,44 @@ async function submitReviewAsync(uuid, sheet, rag) {
     const review_status = document.getElementById(uuid);
 
     setStatusWithTimeout(review_status, "Submitting. Please wait ...", "loading", 0);
-    // review_status.innerText = "Updating ...";
 
-	const response = await fetch(
-		'https://httpbin.org/post',
-		{
-			method: 'POST',
-            body: body,
-			headers: {
-                'Accept': 'application/json'
-			}
-		}
-	);
+	// const response = await fetch(
+	// 	'https://read-the-question-20220609.herokuapp.com/rag',
+	// 	{
+	// 		method: 'POST',
+    //         body: JSON.stringify(body),
+	// 		headers: {
+    //             'Content-Type': 'application/json',
+	// 		}
+	// 	}
+	// );
 
-	if (!response.ok) {
-        setStatusWithTimeout(review_status, "Error while submitting!", "error", 4000);
-        // alert(`HTTP error! status: ${response.status}`);
-	} else {
-        // alert(`HTTP success! status: ${response.status}`);
-        setStatusWithTimeout(review_status, "Success", "success", 4000);
+    try {
+        const response = await fetch(
+            'http://localhost:5000/rag',
+            {
+                method: 'POST',
+                body: JSON.stringify(body),
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            }
+        );
+    
+        if (!response.ok) {
+            const body = await response.json();
+            console.log(`HTTP success! ${body}`);
+    
+            setStatusWithTimeout(review_status, `Error: ${body.reason}`, "error", 3000);
+            // alert(`HTTP error! status: ${response.status}`);
+        } else {
+            // alert(`HTTP success! status: ${response.status}`);
+            setStatusWithTimeout(review_status, "Success", "success", 3000);
+        }
+    } catch(e) {
+        console.error(e);
+        setStatusWithTimeout(review_status, `Error: ${e.message}`, "error", 3000);
     }
-
-	// const data = await response.json();
-    // console.log(data);
-
-    // alert(`HTTP success! ${data}`);
 }
 
 const setStatusWithTimeout = (element, startState, statusClassName, timer) => {

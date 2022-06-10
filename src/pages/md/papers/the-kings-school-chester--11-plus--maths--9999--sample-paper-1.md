@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-1"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -239,19 +239,27 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("BCABF532-DB4D-44EA-893A-A8CB7914EE55", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BCABF532-DB4D-44EA-893A-A8CB7914EE55' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("BCABF532-DB4D-44EA-893A-A8CB7914EE55", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BCABF532-DB4D-44EA-893A-A8CB7914EE55' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("BCABF532-DB4D-44EA-893A-A8CB7914EE55", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BCABF532-DB4D-44EA-893A-A8CB7914EE55' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("BCABF532-DB4D-44EA-893A-A8CB7914EE55", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='BCABF532-DB4D-44EA-893A-A8CB7914EE55' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='BCABF532-DB4D-44EA-893A-A8CB7914EE55'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='BCABF532-DB4D-44EA-893A-A8CB7914EE55' id='FORM-BCABF532-DB4D-44EA-893A-A8CB7914EE55' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BCABF532-DB4D-44EA-893A-A8CB7914EE55'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1</p>

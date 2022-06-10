@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-5"
 title: "TopicPaper - Money - 5"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -72,19 +72,27 @@ $189 \text{p}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("43EF5D79-3FD1-422A-BD9F-D7DC37283EA9", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("43EF5D79-3FD1-422A-BD9F-D7DC37283EA9", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("43EF5D79-3FD1-422A-BD9F-D7DC37283EA9", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("43EF5D79-3FD1-422A-BD9F-D7DC37283EA9", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' id='FORM-43EF5D79-3FD1-422A-BD9F-D7DC37283EA9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-43EF5D79-3FD1-422A-BD9F-D7DC37283EA9'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:17</p>
@@ -672,19 +680,27 @@ $6$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("37D61EFA-7D37-4E7B-87AC-FE2256B7021C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='37D61EFA-7D37-4E7B-87AC-FE2256B7021C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("37D61EFA-7D37-4E7B-87AC-FE2256B7021C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='37D61EFA-7D37-4E7B-87AC-FE2256B7021C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("37D61EFA-7D37-4E7B-87AC-FE2256B7021C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='37D61EFA-7D37-4E7B-87AC-FE2256B7021C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("37D61EFA-7D37-4E7B-87AC-FE2256B7021C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='37D61EFA-7D37-4E7B-87AC-FE2256B7021C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='37D61EFA-7D37-4E7B-87AC-FE2256B7021C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='37D61EFA-7D37-4E7B-87AC-FE2256B7021C' id='FORM-37D61EFA-7D37-4E7B-87AC-FE2256B7021C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-37D61EFA-7D37-4E7B-87AC-FE2256B7021C'>Initial</p>
 </div>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:0</p>

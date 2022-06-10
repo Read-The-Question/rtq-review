@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1079,19 +1079,27 @@ $64$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("17BF339B-7079-4966-BEB2-8B3FF23FA92A", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("17BF339B-7079-4966-BEB2-8B3FF23FA92A", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("17BF339B-7079-4966-BEB2-8B3FF23FA92A", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("17BF339B-7079-4966-BEB2-8B3FF23FA92A", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='17BF339B-7079-4966-BEB2-8B3FF23FA92A'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='17BF339B-7079-4966-BEB2-8B3FF23FA92A' id='FORM-17BF339B-7079-4966-BEB2-8B3FF23FA92A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-17BF339B-7079-4966-BEB2-8B3FF23FA92A'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:1</p>

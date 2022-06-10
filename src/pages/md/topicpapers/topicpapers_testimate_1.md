@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-testimate-1"
 title: "TopicPaper - Estimate - 1"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -108,19 +108,27 @@ $2500 \ \text{cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("162AA59F-08CC-4B9C-8C47-3D255B74EFFE", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='162AA59F-08CC-4B9C-8C47-3D255B74EFFE'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='162AA59F-08CC-4B9C-8C47-3D255B74EFFE' id='FORM-162AA59F-08CC-4B9C-8C47-3D255B74EFFE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-162AA59F-08CC-4B9C-8C47-3D255B74EFFE'>Initial</p>
 </div>
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:3</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-3"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 3"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -295,19 +295,27 @@ $51$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("644EEE25-F82A-4DD4-A616-390BB876F410", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='644EEE25-F82A-4DD4-A616-390BB876F410' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("644EEE25-F82A-4DD4-A616-390BB876F410", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='644EEE25-F82A-4DD4-A616-390BB876F410' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("644EEE25-F82A-4DD4-A616-390BB876F410", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='644EEE25-F82A-4DD4-A616-390BB876F410' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("644EEE25-F82A-4DD4-A616-390BB876F410", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='644EEE25-F82A-4DD4-A616-390BB876F410' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='644EEE25-F82A-4DD4-A616-390BB876F410'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='644EEE25-F82A-4DD4-A616-390BB876F410' id='FORM-644EEE25-F82A-4DD4-A616-390BB876F410' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-644EEE25-F82A-4DD4-A616-390BB876F410'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
@@ -738,19 +746,27 @@ $\pounds 1.85$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("768047AF-2D34-4B56-88E6-802A32B95806", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='768047AF-2D34-4B56-88E6-802A32B95806' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("768047AF-2D34-4B56-88E6-802A32B95806", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='768047AF-2D34-4B56-88E6-802A32B95806' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("768047AF-2D34-4B56-88E6-802A32B95806", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='768047AF-2D34-4B56-88E6-802A32B95806' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("768047AF-2D34-4B56-88E6-802A32B95806", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='768047AF-2D34-4B56-88E6-802A32B95806' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='768047AF-2D34-4B56-88E6-802A32B95806'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='768047AF-2D34-4B56-88E6-802A32B95806' id='FORM-768047AF-2D34-4B56-88E6-802A32B95806' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-768047AF-2D34-4B56-88E6-802A32B95806'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
@@ -885,19 +901,27 @@ $100.08$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("50218989-87F6-450D-87C8-BF8DFB4F2B75", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("50218989-87F6-450D-87C8-BF8DFB4F2B75", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("50218989-87F6-450D-87C8-BF8DFB4F2B75", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("50218989-87F6-450D-87C8-BF8DFB4F2B75", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='50218989-87F6-450D-87C8-BF8DFB4F2B75'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='50218989-87F6-450D-87C8-BF8DFB4F2B75' id='FORM-50218989-87F6-450D-87C8-BF8DFB4F2B75' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-50218989-87F6-450D-87C8-BF8DFB4F2B75'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
@@ -1066,19 +1090,27 @@ $\dfrac {2} {5}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CA0467B7-80F4-4714-91E9-93A58BF64E09", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CA0467B7-80F4-4714-91E9-93A58BF64E09", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CA0467B7-80F4-4714-91E9-93A58BF64E09", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CA0467B7-80F4-4714-91E9-93A58BF64E09", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CA0467B7-80F4-4714-91E9-93A58BF64E09'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='CA0467B7-80F4-4714-91E9-93A58BF64E09' id='FORM-CA0467B7-80F4-4714-91E9-93A58BF64E09' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CA0467B7-80F4-4714-91E9-93A58BF64E09'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>
@@ -2246,19 +2278,27 @@ $0.175 \ \text{m}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("815D7E74-0B4C-4E99-99F9-117582F86F67", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='815D7E74-0B4C-4E99-99F9-117582F86F67' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("815D7E74-0B4C-4E99-99F9-117582F86F67", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='815D7E74-0B4C-4E99-99F9-117582F86F67' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("815D7E74-0B4C-4E99-99F9-117582F86F67", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='815D7E74-0B4C-4E99-99F9-117582F86F67' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("815D7E74-0B4C-4E99-99F9-117582F86F67", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='815D7E74-0B4C-4E99-99F9-117582F86F67' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='815D7E74-0B4C-4E99-99F9-117582F86F67'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='815D7E74-0B4C-4E99-99F9-117582F86F67' id='FORM-815D7E74-0B4C-4E99-99F9-117582F86F67' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-815D7E74-0B4C-4E99-99F9-117582F86F67'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3</p>

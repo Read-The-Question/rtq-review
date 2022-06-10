@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -136,19 +136,27 @@ $38 \ \text {cm} ^ 2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' id='FORM-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
@@ -335,19 +343,27 @@ $362880$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' id='FORM-D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>
@@ -1354,19 +1370,27 @@ $18954$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("589E5E44-10C8-4537-8ED7-9C02B0A0532C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("589E5E44-10C8-4537-8ED7-9C02B0A0532C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("589E5E44-10C8-4537-8ED7-9C02B0A0532C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("589E5E44-10C8-4537-8ED7-9C02B0A0532C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='589E5E44-10C8-4537-8ED7-9C02B0A0532C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='589E5E44-10C8-4537-8ED7-9C02B0A0532C' id='FORM-589E5E44-10C8-4537-8ED7-9C02B0A0532C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-589E5E44-10C8-4537-8ED7-9C02B0A0532C'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2</p>

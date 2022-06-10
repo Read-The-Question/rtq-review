@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmap-1"
 title: "TopicPaper - Map - 1"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -241,19 +241,27 @@ $3$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' id='FORM-F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F3FE85C7-5723-4CB9-9B62-A9CAE0BCF6D3'>Initial</p>
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:14</p>
@@ -309,19 +317,27 @@ $8$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CCC7B672-4F8B-43F1-AA68-9BD75C7362B1", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CCC7B672-4F8B-43F1-AA68-9BD75C7362B1", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CCC7B672-4F8B-43F1-AA68-9BD75C7362B1", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CCC7B672-4F8B-43F1-AA68-9BD75C7362B1", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' id='FORM-CCC7B672-4F8B-43F1-AA68-9BD75C7362B1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CCC7B672-4F8B-43F1-AA68-9BD75C7362B1'>Initial</p>
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:15</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,19 +66,27 @@ $3027$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' id='FORM-67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-67DCFA37-B5D4-4843-92BC-4CB8CEEB8F30'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -137,19 +145,27 @@ $1033$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C09205D6-59E5-4AB9-B3B3-3609A0CB4402", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C09205D6-59E5-4AB9-B3B3-3609A0CB4402' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C09205D6-59E5-4AB9-B3B3-3609A0CB4402", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C09205D6-59E5-4AB9-B3B3-3609A0CB4402' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C09205D6-59E5-4AB9-B3B3-3609A0CB4402", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C09205D6-59E5-4AB9-B3B3-3609A0CB4402' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C09205D6-59E5-4AB9-B3B3-3609A0CB4402", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C09205D6-59E5-4AB9-B3B3-3609A0CB4402' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C09205D6-59E5-4AB9-B3B3-3609A0CB4402'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='C09205D6-59E5-4AB9-B3B3-3609A0CB4402' id='FORM-C09205D6-59E5-4AB9-B3B3-3609A0CB4402' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C09205D6-59E5-4AB9-B3B3-3609A0CB4402'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -218,19 +234,27 @@ $40600$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7322C665-D596-48C2-84C7-1030D938DAE1", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7322C665-D596-48C2-84C7-1030D938DAE1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7322C665-D596-48C2-84C7-1030D938DAE1", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7322C665-D596-48C2-84C7-1030D938DAE1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7322C665-D596-48C2-84C7-1030D938DAE1", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7322C665-D596-48C2-84C7-1030D938DAE1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7322C665-D596-48C2-84C7-1030D938DAE1", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7322C665-D596-48C2-84C7-1030D938DAE1' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7322C665-D596-48C2-84C7-1030D938DAE1'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7322C665-D596-48C2-84C7-1030D938DAE1' id='FORM-7322C665-D596-48C2-84C7-1030D938DAE1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7322C665-D596-48C2-84C7-1030D938DAE1'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -405,19 +429,27 @@ $50.75$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("42073645-B85D-44D2-B12C-2CD2DF1CD58F", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='42073645-B85D-44D2-B12C-2CD2DF1CD58F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("42073645-B85D-44D2-B12C-2CD2DF1CD58F", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='42073645-B85D-44D2-B12C-2CD2DF1CD58F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("42073645-B85D-44D2-B12C-2CD2DF1CD58F", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='42073645-B85D-44D2-B12C-2CD2DF1CD58F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("42073645-B85D-44D2-B12C-2CD2DF1CD58F", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='42073645-B85D-44D2-B12C-2CD2DF1CD58F' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='42073645-B85D-44D2-B12C-2CD2DF1CD58F'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='42073645-B85D-44D2-B12C-2CD2DF1CD58F' id='FORM-42073645-B85D-44D2-B12C-2CD2DF1CD58F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42073645-B85D-44D2-B12C-2CD2DF1CD58F'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -475,19 +507,27 @@ $20.37$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("571596AE-291C-4BF6-878D-2BFC5E03FABC", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='571596AE-291C-4BF6-878D-2BFC5E03FABC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("571596AE-291C-4BF6-878D-2BFC5E03FABC", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='571596AE-291C-4BF6-878D-2BFC5E03FABC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("571596AE-291C-4BF6-878D-2BFC5E03FABC", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='571596AE-291C-4BF6-878D-2BFC5E03FABC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("571596AE-291C-4BF6-878D-2BFC5E03FABC", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='571596AE-291C-4BF6-878D-2BFC5E03FABC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='571596AE-291C-4BF6-878D-2BFC5E03FABC'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='571596AE-291C-4BF6-878D-2BFC5E03FABC' id='FORM-571596AE-291C-4BF6-878D-2BFC5E03FABC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-571596AE-291C-4BF6-878D-2BFC5E03FABC'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -545,19 +585,27 @@ $21$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("47EF3910-184D-4063-827E-ED18F0EB9305", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='47EF3910-184D-4063-827E-ED18F0EB9305' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("47EF3910-184D-4063-827E-ED18F0EB9305", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='47EF3910-184D-4063-827E-ED18F0EB9305' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("47EF3910-184D-4063-827E-ED18F0EB9305", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='47EF3910-184D-4063-827E-ED18F0EB9305' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("47EF3910-184D-4063-827E-ED18F0EB9305", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='47EF3910-184D-4063-827E-ED18F0EB9305' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='47EF3910-184D-4063-827E-ED18F0EB9305'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='47EF3910-184D-4063-827E-ED18F0EB9305' id='FORM-47EF3910-184D-4063-827E-ED18F0EB9305' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-47EF3910-184D-4063-827E-ED18F0EB9305'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -615,19 +663,27 @@ $27.3$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("4EAFF80F-7256-43B8-A10B-34AA93CA9A5C", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("4EAFF80F-7256-43B8-A10B-34AA93CA9A5C", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("4EAFF80F-7256-43B8-A10B-34AA93CA9A5C", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("4EAFF80F-7256-43B8-A10B-34AA93CA9A5C", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' id='FORM-4EAFF80F-7256-43B8-A10B-34AA93CA9A5C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4EAFF80F-7256-43B8-A10B-34AA93CA9A5C'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1241,19 +1297,27 @@ Smallest $= \dfrac {3} {5}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("51D8875F-8112-439E-9983-2C3C35DDC20B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='51D8875F-8112-439E-9983-2C3C35DDC20B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("51D8875F-8112-439E-9983-2C3C35DDC20B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='51D8875F-8112-439E-9983-2C3C35DDC20B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("51D8875F-8112-439E-9983-2C3C35DDC20B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='51D8875F-8112-439E-9983-2C3C35DDC20B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("51D8875F-8112-439E-9983-2C3C35DDC20B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='51D8875F-8112-439E-9983-2C3C35DDC20B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='51D8875F-8112-439E-9983-2C3C35DDC20B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='51D8875F-8112-439E-9983-2C3C35DDC20B' id='FORM-51D8875F-8112-439E-9983-2C3C35DDC20B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-51D8875F-8112-439E-9983-2C3C35DDC20B'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1469,19 +1533,27 @@ $\pounds 43.75$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A1C5A3A8-776A-4AE7-A826-842521976016", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A1C5A3A8-776A-4AE7-A826-842521976016' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A1C5A3A8-776A-4AE7-A826-842521976016", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A1C5A3A8-776A-4AE7-A826-842521976016' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A1C5A3A8-776A-4AE7-A826-842521976016", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A1C5A3A8-776A-4AE7-A826-842521976016' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A1C5A3A8-776A-4AE7-A826-842521976016", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A1C5A3A8-776A-4AE7-A826-842521976016' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A1C5A3A8-776A-4AE7-A826-842521976016'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A1C5A3A8-776A-4AE7-A826-842521976016' id='FORM-A1C5A3A8-776A-4AE7-A826-842521976016' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A1C5A3A8-776A-4AE7-A826-842521976016'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1603,19 +1675,27 @@ $160$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1B5D8F8D-C8DE-4749-80CE-805DE7791F8B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1B5D8F8D-C8DE-4749-80CE-805DE7791F8B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1B5D8F8D-C8DE-4749-80CE-805DE7791F8B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1B5D8F8D-C8DE-4749-80CE-805DE7791F8B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' id='FORM-1B5D8F8D-C8DE-4749-80CE-805DE7791F8B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1B5D8F8D-C8DE-4749-80CE-805DE7791F8B'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1677,19 +1757,27 @@ $23$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("2FBBFEB4-886D-4E5F-A72B-7176F96FCF55", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("2FBBFEB4-886D-4E5F-A72B-7176F96FCF55", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("2FBBFEB4-886D-4E5F-A72B-7176F96FCF55", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("2FBBFEB4-886D-4E5F-A72B-7176F96FCF55", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' id='FORM-2FBBFEB4-886D-4E5F-A72B-7176F96FCF55' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2FBBFEB4-886D-4E5F-A72B-7176F96FCF55'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1764,19 +1852,27 @@ $33$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("F74409E6-423C-450E-BDFB-21338241A8A0", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F74409E6-423C-450E-BDFB-21338241A8A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("F74409E6-423C-450E-BDFB-21338241A8A0", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F74409E6-423C-450E-BDFB-21338241A8A0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("F74409E6-423C-450E-BDFB-21338241A8A0", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F74409E6-423C-450E-BDFB-21338241A8A0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("F74409E6-423C-450E-BDFB-21338241A8A0", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F74409E6-423C-450E-BDFB-21338241A8A0' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='F74409E6-423C-450E-BDFB-21338241A8A0'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='F74409E6-423C-450E-BDFB-21338241A8A0' id='FORM-F74409E6-423C-450E-BDFB-21338241A8A0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F74409E6-423C-450E-BDFB-21338241A8A0'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -1892,19 +1988,27 @@ $\dfrac {17} {20}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7F7BEB1F-1352-462D-862B-8AEFB56B58F6", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F7BEB1F-1352-462D-862B-8AEFB56B58F6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7F7BEB1F-1352-462D-862B-8AEFB56B58F6", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F7BEB1F-1352-462D-862B-8AEFB56B58F6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7F7BEB1F-1352-462D-862B-8AEFB56B58F6", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F7BEB1F-1352-462D-862B-8AEFB56B58F6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7F7BEB1F-1352-462D-862B-8AEFB56B58F6", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7F7BEB1F-1352-462D-862B-8AEFB56B58F6' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7F7BEB1F-1352-462D-862B-8AEFB56B58F6'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7F7BEB1F-1352-462D-862B-8AEFB56B58F6' id='FORM-7F7BEB1F-1352-462D-862B-8AEFB56B58F6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F7BEB1F-1352-462D-862B-8AEFB56B58F6'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2091,19 +2195,27 @@ $0.21, \quad 0.201, \quad 0.021$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1A62C45F-6E91-4DB6-A919-79615DA30CE9", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1A62C45F-6E91-4DB6-A919-79615DA30CE9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1A62C45F-6E91-4DB6-A919-79615DA30CE9", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1A62C45F-6E91-4DB6-A919-79615DA30CE9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1A62C45F-6E91-4DB6-A919-79615DA30CE9", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1A62C45F-6E91-4DB6-A919-79615DA30CE9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1A62C45F-6E91-4DB6-A919-79615DA30CE9", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1A62C45F-6E91-4DB6-A919-79615DA30CE9' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1A62C45F-6E91-4DB6-A919-79615DA30CE9'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='1A62C45F-6E91-4DB6-A919-79615DA30CE9' id='FORM-1A62C45F-6E91-4DB6-A919-79615DA30CE9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1A62C45F-6E91-4DB6-A919-79615DA30CE9'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2234,19 +2346,27 @@ $12$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7C3DC077-F159-440D-95DC-21DDF801F0B4", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7C3DC077-F159-440D-95DC-21DDF801F0B4", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7C3DC077-F159-440D-95DC-21DDF801F0B4", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7C3DC077-F159-440D-95DC-21DDF801F0B4", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7C3DC077-F159-440D-95DC-21DDF801F0B4'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7C3DC077-F159-440D-95DC-21DDF801F0B4' id='FORM-7C3DC077-F159-440D-95DC-21DDF801F0B4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C3DC077-F159-440D-95DC-21DDF801F0B4'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2301,19 +2421,27 @@ $\dfrac {8} {9}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C5B7F2AD-605F-4ECB-8F47-F359264257D8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C5B7F2AD-605F-4ECB-8F47-F359264257D8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C5B7F2AD-605F-4ECB-8F47-F359264257D8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C5B7F2AD-605F-4ECB-8F47-F359264257D8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C5B7F2AD-605F-4ECB-8F47-F359264257D8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C5B7F2AD-605F-4ECB-8F47-F359264257D8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C5B7F2AD-605F-4ECB-8F47-F359264257D8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C5B7F2AD-605F-4ECB-8F47-F359264257D8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C5B7F2AD-605F-4ECB-8F47-F359264257D8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='C5B7F2AD-605F-4ECB-8F47-F359264257D8' id='FORM-C5B7F2AD-605F-4ECB-8F47-F359264257D8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C5B7F2AD-605F-4ECB-8F47-F359264257D8'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2368,19 +2496,27 @@ $\dfrac {1} {40}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("6FCF87BC-7FC0-4143-8311-AE5B7D93E916", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6FCF87BC-7FC0-4143-8311-AE5B7D93E916' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("6FCF87BC-7FC0-4143-8311-AE5B7D93E916", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6FCF87BC-7FC0-4143-8311-AE5B7D93E916' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("6FCF87BC-7FC0-4143-8311-AE5B7D93E916", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6FCF87BC-7FC0-4143-8311-AE5B7D93E916' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("6FCF87BC-7FC0-4143-8311-AE5B7D93E916", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='6FCF87BC-7FC0-4143-8311-AE5B7D93E916' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='6FCF87BC-7FC0-4143-8311-AE5B7D93E916'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='6FCF87BC-7FC0-4143-8311-AE5B7D93E916' id='FORM-6FCF87BC-7FC0-4143-8311-AE5B7D93E916' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6FCF87BC-7FC0-4143-8311-AE5B7D93E916'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2440,19 +2576,27 @@ $1.354$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A4A02C1D-8BBA-436D-A1CF-94DD32988031", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A4A02C1D-8BBA-436D-A1CF-94DD32988031' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A4A02C1D-8BBA-436D-A1CF-94DD32988031", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A4A02C1D-8BBA-436D-A1CF-94DD32988031' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A4A02C1D-8BBA-436D-A1CF-94DD32988031", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A4A02C1D-8BBA-436D-A1CF-94DD32988031' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A4A02C1D-8BBA-436D-A1CF-94DD32988031", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A4A02C1D-8BBA-436D-A1CF-94DD32988031' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A4A02C1D-8BBA-436D-A1CF-94DD32988031'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A4A02C1D-8BBA-436D-A1CF-94DD32988031' id='FORM-A4A02C1D-8BBA-436D-A1CF-94DD32988031' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A4A02C1D-8BBA-436D-A1CF-94DD32988031'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2520,19 +2664,27 @@ $14$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("98B9C18C-5D45-4158-A859-9750F91F8CE8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("98B9C18C-5D45-4158-A859-9750F91F8CE8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("98B9C18C-5D45-4158-A859-9750F91F8CE8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("98B9C18C-5D45-4158-A859-9750F91F8CE8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='98B9C18C-5D45-4158-A859-9750F91F8CE8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' id='FORM-98B9C18C-5D45-4158-A859-9750F91F8CE8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-98B9C18C-5D45-4158-A859-9750F91F8CE8'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2582,19 +2734,27 @@ $60$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7C81779B-E92C-4725-B417-DA7968C3341A", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7C81779B-E92C-4725-B417-DA7968C3341A", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7C81779B-E92C-4725-B417-DA7968C3341A", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7C81779B-E92C-4725-B417-DA7968C3341A", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7C81779B-E92C-4725-B417-DA7968C3341A'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' id='FORM-7C81779B-E92C-4725-B417-DA7968C3341A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C81779B-E92C-4725-B417-DA7968C3341A'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2679,19 +2839,27 @@ $13 \ \text{and} \ 5$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("4C9A3109-398C-46C7-B66E-8EC1E868DD8C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4C9A3109-398C-46C7-B66E-8EC1E868DD8C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("4C9A3109-398C-46C7-B66E-8EC1E868DD8C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4C9A3109-398C-46C7-B66E-8EC1E868DD8C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("4C9A3109-398C-46C7-B66E-8EC1E868DD8C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4C9A3109-398C-46C7-B66E-8EC1E868DD8C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("4C9A3109-398C-46C7-B66E-8EC1E868DD8C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4C9A3109-398C-46C7-B66E-8EC1E868DD8C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='4C9A3109-398C-46C7-B66E-8EC1E868DD8C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='4C9A3109-398C-46C7-B66E-8EC1E868DD8C' id='FORM-4C9A3109-398C-46C7-B66E-8EC1E868DD8C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4C9A3109-398C-46C7-B66E-8EC1E868DD8C'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2836,19 +3004,27 @@ $\dfrac {303} {1000}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("33B18564-2700-4A22-A3AA-9917139FFDB7", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='33B18564-2700-4A22-A3AA-9917139FFDB7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("33B18564-2700-4A22-A3AA-9917139FFDB7", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='33B18564-2700-4A22-A3AA-9917139FFDB7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("33B18564-2700-4A22-A3AA-9917139FFDB7", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='33B18564-2700-4A22-A3AA-9917139FFDB7' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("33B18564-2700-4A22-A3AA-9917139FFDB7", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='33B18564-2700-4A22-A3AA-9917139FFDB7' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='33B18564-2700-4A22-A3AA-9917139FFDB7'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='33B18564-2700-4A22-A3AA-9917139FFDB7' id='FORM-33B18564-2700-4A22-A3AA-9917139FFDB7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-33B18564-2700-4A22-A3AA-9917139FFDB7'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -2999,19 +3175,27 @@ $0.175$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("79605F19-A405-4B74-8D91-26315B811459", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='79605F19-A405-4B74-8D91-26315B811459' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("79605F19-A405-4B74-8D91-26315B811459", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='79605F19-A405-4B74-8D91-26315B811459' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("79605F19-A405-4B74-8D91-26315B811459", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='79605F19-A405-4B74-8D91-26315B811459' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("79605F19-A405-4B74-8D91-26315B811459", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='79605F19-A405-4B74-8D91-26315B811459' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='79605F19-A405-4B74-8D91-26315B811459'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='79605F19-A405-4B74-8D91-26315B811459' id='FORM-79605F19-A405-4B74-8D91-26315B811459' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-79605F19-A405-4B74-8D91-26315B811459'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -3118,19 +3302,27 @@ Cylinder
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C51D4882-FD86-449B-BC74-E90265EBA237", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C51D4882-FD86-449B-BC74-E90265EBA237", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C51D4882-FD86-449B-BC74-E90265EBA237", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C51D4882-FD86-449B-BC74-E90265EBA237", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C51D4882-FD86-449B-BC74-E90265EBA237'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' id='FORM-C51D4882-FD86-449B-BC74-E90265EBA237' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C51D4882-FD86-449B-BC74-E90265EBA237'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -3784,19 +3976,27 @@ $\text{Closest number to} \ 60 = 58 \\\\
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E74386F9-853B-41A1-A1B6-1E43F7517043", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E74386F9-853B-41A1-A1B6-1E43F7517043' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E74386F9-853B-41A1-A1B6-1E43F7517043", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E74386F9-853B-41A1-A1B6-1E43F7517043' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E74386F9-853B-41A1-A1B6-1E43F7517043", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E74386F9-853B-41A1-A1B6-1E43F7517043' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E74386F9-853B-41A1-A1B6-1E43F7517043", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E74386F9-853B-41A1-A1B6-1E43F7517043' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E74386F9-853B-41A1-A1B6-1E43F7517043'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='E74386F9-853B-41A1-A1B6-1E43F7517043' id='FORM-E74386F9-853B-41A1-A1B6-1E43F7517043' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E74386F9-853B-41A1-A1B6-1E43F7517043'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -3958,19 +4158,27 @@ $24 \text{m}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='80A03144-6FE7-47FE-80C3-2CE1292F70D2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='80A03144-6FE7-47FE-80C3-2CE1292F70D2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='80A03144-6FE7-47FE-80C3-2CE1292F70D2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("80A03144-6FE7-47FE-80C3-2CE1292F70D2", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='80A03144-6FE7-47FE-80C3-2CE1292F70D2' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='80A03144-6FE7-47FE-80C3-2CE1292F70D2'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='80A03144-6FE7-47FE-80C3-2CE1292F70D2' id='FORM-80A03144-6FE7-47FE-80C3-2CE1292F70D2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-80A03144-6FE7-47FE-80C3-2CE1292F70D2'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4310,19 +4518,27 @@ $8640$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("EA145F02-7976-40D3-B801-9CB40DAF3F47", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EA145F02-7976-40D3-B801-9CB40DAF3F47' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("EA145F02-7976-40D3-B801-9CB40DAF3F47", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EA145F02-7976-40D3-B801-9CB40DAF3F47' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("EA145F02-7976-40D3-B801-9CB40DAF3F47", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EA145F02-7976-40D3-B801-9CB40DAF3F47' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("EA145F02-7976-40D3-B801-9CB40DAF3F47", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EA145F02-7976-40D3-B801-9CB40DAF3F47' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='EA145F02-7976-40D3-B801-9CB40DAF3F47'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='EA145F02-7976-40D3-B801-9CB40DAF3F47' id='FORM-EA145F02-7976-40D3-B801-9CB40DAF3F47' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EA145F02-7976-40D3-B801-9CB40DAF3F47'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4385,19 +4601,27 @@ The $100$th symbol is $=$ &
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("11864F13-15AE-442B-A8E6-F4F08A54A7D5", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("11864F13-15AE-442B-A8E6-F4F08A54A7D5", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("11864F13-15AE-442B-A8E6-F4F08A54A7D5", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("11864F13-15AE-442B-A8E6-F4F08A54A7D5", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='11864F13-15AE-442B-A8E6-F4F08A54A7D5'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' id='FORM-11864F13-15AE-442B-A8E6-F4F08A54A7D5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-11864F13-15AE-442B-A8E6-F4F08A54A7D5'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4452,19 +4676,27 @@ $\pounds 2.80$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B474E464-5AEF-419A-9B3D-08581A43D0DE", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B474E464-5AEF-419A-9B3D-08581A43D0DE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B474E464-5AEF-419A-9B3D-08581A43D0DE", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B474E464-5AEF-419A-9B3D-08581A43D0DE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B474E464-5AEF-419A-9B3D-08581A43D0DE", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B474E464-5AEF-419A-9B3D-08581A43D0DE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B474E464-5AEF-419A-9B3D-08581A43D0DE", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B474E464-5AEF-419A-9B3D-08581A43D0DE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B474E464-5AEF-419A-9B3D-08581A43D0DE'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='B474E464-5AEF-419A-9B3D-08581A43D0DE' id='FORM-B474E464-5AEF-419A-9B3D-08581A43D0DE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B474E464-5AEF-419A-9B3D-08581A43D0DE'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4641,19 +4873,27 @@ $820$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B97B18CD-B34D-453F-BF68-4ECBC5621406", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B97B18CD-B34D-453F-BF68-4ECBC5621406' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B97B18CD-B34D-453F-BF68-4ECBC5621406", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B97B18CD-B34D-453F-BF68-4ECBC5621406' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B97B18CD-B34D-453F-BF68-4ECBC5621406", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B97B18CD-B34D-453F-BF68-4ECBC5621406' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B97B18CD-B34D-453F-BF68-4ECBC5621406", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B97B18CD-B34D-453F-BF68-4ECBC5621406' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B97B18CD-B34D-453F-BF68-4ECBC5621406'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='B97B18CD-B34D-453F-BF68-4ECBC5621406' id='FORM-B97B18CD-B34D-453F-BF68-4ECBC5621406' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B97B18CD-B34D-453F-BF68-4ECBC5621406'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4726,19 +4966,27 @@ $9$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("72AA9961-FE6B-438D-AEFB-1F49998E249D", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("72AA9961-FE6B-438D-AEFB-1F49998E249D", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("72AA9961-FE6B-438D-AEFB-1F49998E249D", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("72AA9961-FE6B-438D-AEFB-1F49998E249D", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='72AA9961-FE6B-438D-AEFB-1F49998E249D'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' id='FORM-72AA9961-FE6B-438D-AEFB-1F49998E249D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-72AA9961-FE6B-438D-AEFB-1F49998E249D'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4798,19 +5046,27 @@ $804 \text{m}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' id='FORM-99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-99BB0D36-DE72-4B67-8BBB-1A6770ADCF2D'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
@@ -4874,19 +5130,27 @@ $600 \text{g}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("5B8D18CD-2CFA-4594-8C03-B6723148134E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5B8D18CD-2CFA-4594-8C03-B6723148134E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("5B8D18CD-2CFA-4594-8C03-B6723148134E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5B8D18CD-2CFA-4594-8C03-B6723148134E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("5B8D18CD-2CFA-4594-8C03-B6723148134E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5B8D18CD-2CFA-4594-8C03-B6723148134E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("5B8D18CD-2CFA-4594-8C03-B6723148134E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5B8D18CD-2CFA-4594-8C03-B6723148134E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='5B8D18CD-2CFA-4594-8C03-B6723148134E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='5B8D18CD-2CFA-4594-8C03-B6723148134E' id='FORM-5B8D18CD-2CFA-4594-8C03-B6723148134E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5B8D18CD-2CFA-4594-8C03-B6723148134E'>Initial</p>
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>

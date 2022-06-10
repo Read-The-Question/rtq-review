@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-1"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 1"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -255,19 +255,27 @@ $342$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("6EFFBA2C-28FA-44ED-B737-5420543F31C9", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("6EFFBA2C-28FA-44ED-B737-5420543F31C9", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("6EFFBA2C-28FA-44ED-B737-5420543F31C9", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("6EFFBA2C-28FA-44ED-B737-5420543F31C9", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='6EFFBA2C-28FA-44ED-B737-5420543F31C9'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' id='FORM-6EFFBA2C-28FA-44ED-B737-5420543F31C9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6EFFBA2C-28FA-44ED-B737-5420543F31C9'>Initial</p>
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>

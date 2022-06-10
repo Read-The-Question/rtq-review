@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-1"
 title: "TopicPaper - Graph - 1"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -198,19 +198,27 @@ $50$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' id='FORM-42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42D01A3A-E963-4FEF-8EF6-1CDE382F6FD0'>Initial</p>
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:22</p>
@@ -552,19 +560,27 @@ $54$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C1B53CEE-9E06-4975-9A59-4BA0A87006B1", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C1B53CEE-9E06-4975-9A59-4BA0A87006B1", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C1B53CEE-9E06-4975-9A59-4BA0A87006B1", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C1B53CEE-9E06-4975-9A59-4BA0A87006B1", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C1B53CEE-9E06-4975-9A59-4BA0A87006B1'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='C1B53CEE-9E06-4975-9A59-4BA0A87006B1' id='FORM-C1B53CEE-9E06-4975-9A59-4BA0A87006B1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C1B53CEE-9E06-4975-9A59-4BA0A87006B1'>Initial</p>
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:20</p>

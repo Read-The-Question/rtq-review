@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -336,19 +336,27 @@ $6084$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("4EC513E6-3767-4725-924F-C36F3605A1EC", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4EC513E6-3767-4725-924F-C36F3605A1EC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("4EC513E6-3767-4725-924F-C36F3605A1EC", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4EC513E6-3767-4725-924F-C36F3605A1EC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("4EC513E6-3767-4725-924F-C36F3605A1EC", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4EC513E6-3767-4725-924F-C36F3605A1EC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("4EC513E6-3767-4725-924F-C36F3605A1EC", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4EC513E6-3767-4725-924F-C36F3605A1EC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='4EC513E6-3767-4725-924F-C36F3605A1EC'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='4EC513E6-3767-4725-924F-C36F3605A1EC' id='FORM-4EC513E6-3767-4725-924F-C36F3605A1EC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4EC513E6-3767-4725-924F-C36F3605A1EC'>Initial</p>
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>
@@ -454,19 +462,27 @@ $34306$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' id='FORM-CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12'>Initial</p>
 </div>
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4</p>

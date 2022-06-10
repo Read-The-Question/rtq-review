@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-1"
 title: "TopicPaper - Infer - 1"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1908,19 +1908,27 @@ $\text {B}, \text {E}, \text {G}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("93D90ADD-9783-488E-8E72-B211E323F0BD", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("93D90ADD-9783-488E-8E72-B211E323F0BD", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("93D90ADD-9783-488E-8E72-B211E323F0BD", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("93D90ADD-9783-488E-8E72-B211E323F0BD", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='93D90ADD-9783-488E-8E72-B211E323F0BD'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='93D90ADD-9783-488E-8E72-B211E323F0BD' id='FORM-93D90ADD-9783-488E-8E72-B211E323F0BD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-93D90ADD-9783-488E-8E72-B211E323F0BD'>Initial</p>
 </div>
 <div class='papername'>
 <p>csse--11-plus--maths--2015--sample-paper-1:0:20</p>
@@ -3223,19 +3231,27 @@ $25 \times 4$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E0DF26E4-1A30-4BCD-84C9-1C135AACA602", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E0DF26E4-1A30-4BCD-84C9-1C135AACA602' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E0DF26E4-1A30-4BCD-84C9-1C135AACA602", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E0DF26E4-1A30-4BCD-84C9-1C135AACA602' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E0DF26E4-1A30-4BCD-84C9-1C135AACA602", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E0DF26E4-1A30-4BCD-84C9-1C135AACA602' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E0DF26E4-1A30-4BCD-84C9-1C135AACA602", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E0DF26E4-1A30-4BCD-84C9-1C135AACA602' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E0DF26E4-1A30-4BCD-84C9-1C135AACA602'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='E0DF26E4-1A30-4BCD-84C9-1C135AACA602' id='FORM-E0DF26E4-1A30-4BCD-84C9-1C135AACA602' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E0DF26E4-1A30-4BCD-84C9-1C135AACA602'>Initial</p>
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:0:9</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -54,19 +54,27 @@ $5231$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("8DE47A62-7114-45C8-BDFA-30D56A899EEE", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='8DE47A62-7114-45C8-BDFA-30D56A899EEE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("8DE47A62-7114-45C8-BDFA-30D56A899EEE", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='8DE47A62-7114-45C8-BDFA-30D56A899EEE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("8DE47A62-7114-45C8-BDFA-30D56A899EEE", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='8DE47A62-7114-45C8-BDFA-30D56A899EEE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("8DE47A62-7114-45C8-BDFA-30D56A899EEE", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='8DE47A62-7114-45C8-BDFA-30D56A899EEE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='8DE47A62-7114-45C8-BDFA-30D56A899EEE'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='8DE47A62-7114-45C8-BDFA-30D56A899EEE' id='FORM-8DE47A62-7114-45C8-BDFA-30D56A899EEE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8DE47A62-7114-45C8-BDFA-30D56A899EEE'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -167,19 +175,27 @@ $8352$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("97EE15E8-9288-4DDB-829A-51AC5EF7F93D", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='97EE15E8-9288-4DDB-829A-51AC5EF7F93D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("97EE15E8-9288-4DDB-829A-51AC5EF7F93D", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='97EE15E8-9288-4DDB-829A-51AC5EF7F93D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("97EE15E8-9288-4DDB-829A-51AC5EF7F93D", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='97EE15E8-9288-4DDB-829A-51AC5EF7F93D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("97EE15E8-9288-4DDB-829A-51AC5EF7F93D", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='97EE15E8-9288-4DDB-829A-51AC5EF7F93D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='97EE15E8-9288-4DDB-829A-51AC5EF7F93D'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='97EE15E8-9288-4DDB-829A-51AC5EF7F93D' id='FORM-97EE15E8-9288-4DDB-829A-51AC5EF7F93D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-97EE15E8-9288-4DDB-829A-51AC5EF7F93D'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -286,19 +302,27 @@ $2 \times 2 \times 2 \times 7$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' id='FORM-43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -344,19 +368,27 @@ $\text {Money left} = \pounds (330 - X)$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' id='FORM-0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -461,19 +493,27 @@ $18$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("454E0C83-23ED-4839-B389-520CDF891C9D", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("454E0C83-23ED-4839-B389-520CDF891C9D", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("454E0C83-23ED-4839-B389-520CDF891C9D", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("454E0C83-23ED-4839-B389-520CDF891C9D", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='454E0C83-23ED-4839-B389-520CDF891C9D'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='454E0C83-23ED-4839-B389-520CDF891C9D' id='FORM-454E0C83-23ED-4839-B389-520CDF891C9D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-454E0C83-23ED-4839-B389-520CDF891C9D'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -531,19 +571,27 @@ $36$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("ED309A66-2530-46D2-8CA4-5B7E8924A943", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='ED309A66-2530-46D2-8CA4-5B7E8924A943' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("ED309A66-2530-46D2-8CA4-5B7E8924A943", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='ED309A66-2530-46D2-8CA4-5B7E8924A943' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("ED309A66-2530-46D2-8CA4-5B7E8924A943", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='ED309A66-2530-46D2-8CA4-5B7E8924A943' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("ED309A66-2530-46D2-8CA4-5B7E8924A943", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='ED309A66-2530-46D2-8CA4-5B7E8924A943' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='ED309A66-2530-46D2-8CA4-5B7E8924A943'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='ED309A66-2530-46D2-8CA4-5B7E8924A943' id='FORM-ED309A66-2530-46D2-8CA4-5B7E8924A943' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ED309A66-2530-46D2-8CA4-5B7E8924A943'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -599,19 +647,27 @@ $67737$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("48FE059B-F621-4BF0-9F67-8B0D6C51C476", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='48FE059B-F621-4BF0-9F67-8B0D6C51C476' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("48FE059B-F621-4BF0-9F67-8B0D6C51C476", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='48FE059B-F621-4BF0-9F67-8B0D6C51C476' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("48FE059B-F621-4BF0-9F67-8B0D6C51C476", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='48FE059B-F621-4BF0-9F67-8B0D6C51C476' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("48FE059B-F621-4BF0-9F67-8B0D6C51C476", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='48FE059B-F621-4BF0-9F67-8B0D6C51C476' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='48FE059B-F621-4BF0-9F67-8B0D6C51C476'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='48FE059B-F621-4BF0-9F67-8B0D6C51C476' id='FORM-48FE059B-F621-4BF0-9F67-8B0D6C51C476' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-48FE059B-F621-4BF0-9F67-8B0D6C51C476'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -670,19 +726,27 @@ $\pounds 1158$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("60A40A72-24E4-471F-A028-152B28477469", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='60A40A72-24E4-471F-A028-152B28477469' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("60A40A72-24E4-471F-A028-152B28477469", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='60A40A72-24E4-471F-A028-152B28477469' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("60A40A72-24E4-471F-A028-152B28477469", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='60A40A72-24E4-471F-A028-152B28477469' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("60A40A72-24E4-471F-A028-152B28477469", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='60A40A72-24E4-471F-A028-152B28477469' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='60A40A72-24E4-471F-A028-152B28477469'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='60A40A72-24E4-471F-A028-152B28477469' id='FORM-60A40A72-24E4-471F-A028-152B28477469' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-60A40A72-24E4-471F-A028-152B28477469'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -761,19 +825,27 @@ $30 \ \text {cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("61C1A420-8257-47F8-8AF9-90E715F64BCC", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("61C1A420-8257-47F8-8AF9-90E715F64BCC", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("61C1A420-8257-47F8-8AF9-90E715F64BCC", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("61C1A420-8257-47F8-8AF9-90E715F64BCC", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='61C1A420-8257-47F8-8AF9-90E715F64BCC'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='61C1A420-8257-47F8-8AF9-90E715F64BCC' id='FORM-61C1A420-8257-47F8-8AF9-90E715F64BCC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-61C1A420-8257-47F8-8AF9-90E715F64BCC'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -844,19 +916,27 @@ $4$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("4EC0680A-34C3-42F7-A969-84F026ED93EE", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("4EC0680A-34C3-42F7-A969-84F026ED93EE", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("4EC0680A-34C3-42F7-A969-84F026ED93EE", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("4EC0680A-34C3-42F7-A969-84F026ED93EE", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='4EC0680A-34C3-42F7-A969-84F026ED93EE'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='4EC0680A-34C3-42F7-A969-84F026ED93EE' id='FORM-4EC0680A-34C3-42F7-A969-84F026ED93EE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4EC0680A-34C3-42F7-A969-84F026ED93EE'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -919,19 +999,27 @@ $48$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("38069E88-D243-49CC-BCD6-9BF82C104E6B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='38069E88-D243-49CC-BCD6-9BF82C104E6B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("38069E88-D243-49CC-BCD6-9BF82C104E6B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='38069E88-D243-49CC-BCD6-9BF82C104E6B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("38069E88-D243-49CC-BCD6-9BF82C104E6B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='38069E88-D243-49CC-BCD6-9BF82C104E6B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("38069E88-D243-49CC-BCD6-9BF82C104E6B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='38069E88-D243-49CC-BCD6-9BF82C104E6B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='38069E88-D243-49CC-BCD6-9BF82C104E6B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='38069E88-D243-49CC-BCD6-9BF82C104E6B' id='FORM-38069E88-D243-49CC-BCD6-9BF82C104E6B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-38069E88-D243-49CC-BCD6-9BF82C104E6B'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1046,19 +1134,27 @@ $704$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("806E7350-15D2-4B6E-9C5E-E0D38AE38C74", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='806E7350-15D2-4B6E-9C5E-E0D38AE38C74' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("806E7350-15D2-4B6E-9C5E-E0D38AE38C74", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='806E7350-15D2-4B6E-9C5E-E0D38AE38C74' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("806E7350-15D2-4B6E-9C5E-E0D38AE38C74", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='806E7350-15D2-4B6E-9C5E-E0D38AE38C74' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("806E7350-15D2-4B6E-9C5E-E0D38AE38C74", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='806E7350-15D2-4B6E-9C5E-E0D38AE38C74' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='806E7350-15D2-4B6E-9C5E-E0D38AE38C74'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='806E7350-15D2-4B6E-9C5E-E0D38AE38C74' id='FORM-806E7350-15D2-4B6E-9C5E-E0D38AE38C74' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-806E7350-15D2-4B6E-9C5E-E0D38AE38C74'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1293,19 +1389,27 @@ $27 \ \text {minutes}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("78560253-2BD8-42B2-8E55-911BFF244038", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='78560253-2BD8-42B2-8E55-911BFF244038' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("78560253-2BD8-42B2-8E55-911BFF244038", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='78560253-2BD8-42B2-8E55-911BFF244038' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("78560253-2BD8-42B2-8E55-911BFF244038", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='78560253-2BD8-42B2-8E55-911BFF244038' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("78560253-2BD8-42B2-8E55-911BFF244038", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='78560253-2BD8-42B2-8E55-911BFF244038' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='78560253-2BD8-42B2-8E55-911BFF244038'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='78560253-2BD8-42B2-8E55-911BFF244038' id='FORM-78560253-2BD8-42B2-8E55-911BFF244038' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-78560253-2BD8-42B2-8E55-911BFF244038'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1404,19 +1508,27 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("19818B2F-9086-4F00-9201-4F75D3C5194C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='19818B2F-9086-4F00-9201-4F75D3C5194C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("19818B2F-9086-4F00-9201-4F75D3C5194C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='19818B2F-9086-4F00-9201-4F75D3C5194C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("19818B2F-9086-4F00-9201-4F75D3C5194C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='19818B2F-9086-4F00-9201-4F75D3C5194C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("19818B2F-9086-4F00-9201-4F75D3C5194C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='19818B2F-9086-4F00-9201-4F75D3C5194C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='19818B2F-9086-4F00-9201-4F75D3C5194C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='19818B2F-9086-4F00-9201-4F75D3C5194C' id='FORM-19818B2F-9086-4F00-9201-4F75D3C5194C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-19818B2F-9086-4F00-9201-4F75D3C5194C'>Initial</p>
 </div>
 <div class='papername'>
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1</p>

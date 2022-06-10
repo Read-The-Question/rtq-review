@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tlcm-1"
 title: "TopicPaper - Lcm - 1"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>

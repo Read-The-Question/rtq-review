@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -292,19 +292,27 @@ $613$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' id='FORM-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E'>Initial</p>
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
@@ -662,19 +670,27 @@ $3$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("28FC31CE-4F0F-40E8-993C-6AB248B233EF", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='28FC31CE-4F0F-40E8-993C-6AB248B233EF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("28FC31CE-4F0F-40E8-993C-6AB248B233EF", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='28FC31CE-4F0F-40E8-993C-6AB248B233EF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("28FC31CE-4F0F-40E8-993C-6AB248B233EF", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='28FC31CE-4F0F-40E8-993C-6AB248B233EF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("28FC31CE-4F0F-40E8-993C-6AB248B233EF", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='28FC31CE-4F0F-40E8-993C-6AB248B233EF' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='28FC31CE-4F0F-40E8-993C-6AB248B233EF'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='28FC31CE-4F0F-40E8-993C-6AB248B233EF' id='FORM-28FC31CE-4F0F-40E8-993C-6AB248B233EF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-28FC31CE-4F0F-40E8-993C-6AB248B233EF'>Initial</p>
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
@@ -949,19 +965,27 @@ $16.25$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("3A0149EE-424F-4F81-9623-9D7932C23AE0", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3A0149EE-424F-4F81-9623-9D7932C23AE0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("3A0149EE-424F-4F81-9623-9D7932C23AE0", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3A0149EE-424F-4F81-9623-9D7932C23AE0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("3A0149EE-424F-4F81-9623-9D7932C23AE0", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3A0149EE-424F-4F81-9623-9D7932C23AE0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("3A0149EE-424F-4F81-9623-9D7932C23AE0", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3A0149EE-424F-4F81-9623-9D7932C23AE0' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='3A0149EE-424F-4F81-9623-9D7932C23AE0'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='3A0149EE-424F-4F81-9623-9D7932C23AE0' id='FORM-3A0149EE-424F-4F81-9623-9D7932C23AE0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3A0149EE-424F-4F81-9623-9D7932C23AE0'>Initial</p>
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
@@ -1017,19 +1041,27 @@ $1$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CAE549F8-9EE0-4076-8DD3-5385034616A6", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CAE549F8-9EE0-4076-8DD3-5385034616A6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CAE549F8-9EE0-4076-8DD3-5385034616A6", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CAE549F8-9EE0-4076-8DD3-5385034616A6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CAE549F8-9EE0-4076-8DD3-5385034616A6", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CAE549F8-9EE0-4076-8DD3-5385034616A6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CAE549F8-9EE0-4076-8DD3-5385034616A6", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='CAE549F8-9EE0-4076-8DD3-5385034616A6' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CAE549F8-9EE0-4076-8DD3-5385034616A6'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='CAE549F8-9EE0-4076-8DD3-5385034616A6' id='FORM-CAE549F8-9EE0-4076-8DD3-5385034616A6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CAE549F8-9EE0-4076-8DD3-5385034616A6'>Initial</p>
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>
@@ -1445,19 +1477,27 @@ $6!$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' id='FORM-FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB'>Initial</p>
 </div>
 <div class='papername'>
 <p>oundle-school--11-plus--maths--2016--sample-paper-4</p>

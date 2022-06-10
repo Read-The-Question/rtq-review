@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -283,19 +283,27 @@ $\pounds 7.95$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("AED1CAB4-1114-4003-8768-AEE3317FB324", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("AED1CAB4-1114-4003-8768-AEE3317FB324", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("AED1CAB4-1114-4003-8768-AEE3317FB324", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("AED1CAB4-1114-4003-8768-AEE3317FB324", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='AED1CAB4-1114-4003-8768-AEE3317FB324'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' id='FORM-AED1CAB4-1114-4003-8768-AEE3317FB324' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AED1CAB4-1114-4003-8768-AEE3317FB324'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -572,19 +580,27 @@ $29, 40$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("D33DC09F-B58A-476F-A745-66D21A031401", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("D33DC09F-B58A-476F-A745-66D21A031401", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("D33DC09F-B58A-476F-A745-66D21A031401", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("D33DC09F-B58A-476F-A745-66D21A031401", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='D33DC09F-B58A-476F-A745-66D21A031401'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' id='FORM-D33DC09F-B58A-476F-A745-66D21A031401' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D33DC09F-B58A-476F-A745-66D21A031401'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -706,19 +722,27 @@ $11$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("9059ED0D-559C-4990-8449-866D2BE0C151", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9059ED0D-559C-4990-8449-866D2BE0C151' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("9059ED0D-559C-4990-8449-866D2BE0C151", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9059ED0D-559C-4990-8449-866D2BE0C151' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("9059ED0D-559C-4990-8449-866D2BE0C151", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9059ED0D-559C-4990-8449-866D2BE0C151' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("9059ED0D-559C-4990-8449-866D2BE0C151", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='9059ED0D-559C-4990-8449-866D2BE0C151' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='9059ED0D-559C-4990-8449-866D2BE0C151'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='9059ED0D-559C-4990-8449-866D2BE0C151' id='FORM-9059ED0D-559C-4990-8449-866D2BE0C151' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9059ED0D-559C-4990-8449-866D2BE0C151'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -864,19 +888,27 @@ $1600 \ \text {ml}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' id='FORM-99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -1333,19 +1365,27 @@ $12$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("FCFEBCEB-D29D-4BCB-BA8F-8E658B694739", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("FCFEBCEB-D29D-4BCB-BA8F-8E658B694739", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("FCFEBCEB-D29D-4BCB-BA8F-8E658B694739", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("FCFEBCEB-D29D-4BCB-BA8F-8E658B694739", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' id='FORM-FCFEBCEB-D29D-4BCB-BA8F-8E658B694739' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FCFEBCEB-D29D-4BCB-BA8F-8E658B694739'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -1407,19 +1447,27 @@ $\pounds 40.8$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' id='FORM-0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0BAFBFBE-6008-4AB7-9DEE-8458A5AD3F8C'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -1546,19 +1594,27 @@ $83 \ \text {m} ^ 2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' id='FORM-42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -1689,19 +1745,27 @@ $2.5 \ \text{cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1A1812C5-1C82-4D03-9C73-E24D2D47600B", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1A1812C5-1C82-4D03-9C73-E24D2D47600B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1A1812C5-1C82-4D03-9C73-E24D2D47600B", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1A1812C5-1C82-4D03-9C73-E24D2D47600B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1A1812C5-1C82-4D03-9C73-E24D2D47600B", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1A1812C5-1C82-4D03-9C73-E24D2D47600B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1A1812C5-1C82-4D03-9C73-E24D2D47600B", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1A1812C5-1C82-4D03-9C73-E24D2D47600B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1A1812C5-1C82-4D03-9C73-E24D2D47600B'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='1A1812C5-1C82-4D03-9C73-E24D2D47600B' id='FORM-1A1812C5-1C82-4D03-9C73-E24D2D47600B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1A1812C5-1C82-4D03-9C73-E24D2D47600B'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -1836,19 +1900,27 @@ $36 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("05657E57-5AAE-47F6-9CCF-40E96CD77C36", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='05657E57-5AAE-47F6-9CCF-40E96CD77C36' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("05657E57-5AAE-47F6-9CCF-40E96CD77C36", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='05657E57-5AAE-47F6-9CCF-40E96CD77C36' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("05657E57-5AAE-47F6-9CCF-40E96CD77C36", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='05657E57-5AAE-47F6-9CCF-40E96CD77C36' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("05657E57-5AAE-47F6-9CCF-40E96CD77C36", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='05657E57-5AAE-47F6-9CCF-40E96CD77C36' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='05657E57-5AAE-47F6-9CCF-40E96CD77C36'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='05657E57-5AAE-47F6-9CCF-40E96CD77C36' id='FORM-05657E57-5AAE-47F6-9CCF-40E96CD77C36' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-05657E57-5AAE-47F6-9CCF-40E96CD77C36'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>
@@ -2016,19 +2088,27 @@ $450 \ \text {seconds}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B436492B-ADE1-4E62-B5CC-10E5C7D215FC", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B436492B-ADE1-4E62-B5CC-10E5C7D215FC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B436492B-ADE1-4E62-B5CC-10E5C7D215FC", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B436492B-ADE1-4E62-B5CC-10E5C7D215FC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B436492B-ADE1-4E62-B5CC-10E5C7D215FC", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B436492B-ADE1-4E62-B5CC-10E5C7D215FC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B436492B-ADE1-4E62-B5CC-10E5C7D215FC", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='B436492B-ADE1-4E62-B5CC-10E5C7D215FC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B436492B-ADE1-4E62-B5CC-10E5C7D215FC'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='B436492B-ADE1-4E62-B5CC-10E5C7D215FC' id='FORM-B436492B-ADE1-4E62-B5CC-10E5C7D215FC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B436492B-ADE1-4E62-B5CC-10E5C7D215FC'>Initial</p>
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8</p>

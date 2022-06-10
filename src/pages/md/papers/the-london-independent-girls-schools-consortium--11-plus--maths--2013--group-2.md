@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -54,19 +54,27 @@ $4245$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E53AB2CA-6901-4720-8F5B-B9BCED54252C", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E53AB2CA-6901-4720-8F5B-B9BCED54252C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E53AB2CA-6901-4720-8F5B-B9BCED54252C", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E53AB2CA-6901-4720-8F5B-B9BCED54252C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E53AB2CA-6901-4720-8F5B-B9BCED54252C", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E53AB2CA-6901-4720-8F5B-B9BCED54252C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E53AB2CA-6901-4720-8F5B-B9BCED54252C", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='E53AB2CA-6901-4720-8F5B-B9BCED54252C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E53AB2CA-6901-4720-8F5B-B9BCED54252C'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='E53AB2CA-6901-4720-8F5B-B9BCED54252C' id='FORM-E53AB2CA-6901-4720-8F5B-B9BCED54252C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E53AB2CA-6901-4720-8F5B-B9BCED54252C'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -118,19 +126,27 @@ $2667$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("71E46C1E-EB31-4BC0-814D-006D8DCB4F85", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='71E46C1E-EB31-4BC0-814D-006D8DCB4F85' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("71E46C1E-EB31-4BC0-814D-006D8DCB4F85", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='71E46C1E-EB31-4BC0-814D-006D8DCB4F85' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("71E46C1E-EB31-4BC0-814D-006D8DCB4F85", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='71E46C1E-EB31-4BC0-814D-006D8DCB4F85' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("71E46C1E-EB31-4BC0-814D-006D8DCB4F85", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='71E46C1E-EB31-4BC0-814D-006D8DCB4F85' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='71E46C1E-EB31-4BC0-814D-006D8DCB4F85'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='71E46C1E-EB31-4BC0-814D-006D8DCB4F85' id='FORM-71E46C1E-EB31-4BC0-814D-006D8DCB4F85' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-71E46C1E-EB31-4BC0-814D-006D8DCB4F85'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -182,19 +198,27 @@ $2926$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("13C212DA-1B00-41C9-A793-554C99254956", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='13C212DA-1B00-41C9-A793-554C99254956' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("13C212DA-1B00-41C9-A793-554C99254956", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='13C212DA-1B00-41C9-A793-554C99254956' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("13C212DA-1B00-41C9-A793-554C99254956", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='13C212DA-1B00-41C9-A793-554C99254956' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("13C212DA-1B00-41C9-A793-554C99254956", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='13C212DA-1B00-41C9-A793-554C99254956' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='13C212DA-1B00-41C9-A793-554C99254956'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='13C212DA-1B00-41C9-A793-554C99254956' id='FORM-13C212DA-1B00-41C9-A793-554C99254956' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-13C212DA-1B00-41C9-A793-554C99254956'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -358,19 +382,27 @@ $29.07$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("EB20817A-B886-4825-8C98-41B71915025C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EB20817A-B886-4825-8C98-41B71915025C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("EB20817A-B886-4825-8C98-41B71915025C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EB20817A-B886-4825-8C98-41B71915025C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("EB20817A-B886-4825-8C98-41B71915025C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EB20817A-B886-4825-8C98-41B71915025C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("EB20817A-B886-4825-8C98-41B71915025C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EB20817A-B886-4825-8C98-41B71915025C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='EB20817A-B886-4825-8C98-41B71915025C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='EB20817A-B886-4825-8C98-41B71915025C' id='FORM-EB20817A-B886-4825-8C98-41B71915025C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EB20817A-B886-4825-8C98-41B71915025C'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -421,19 +453,27 @@ $48$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("20A45DB5-153C-4BAE-BAB2-5E40D2045B0E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("20A45DB5-153C-4BAE-BAB2-5E40D2045B0E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("20A45DB5-153C-4BAE-BAB2-5E40D2045B0E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("20A45DB5-153C-4BAE-BAB2-5E40D2045B0E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' id='FORM-20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-20A45DB5-153C-4BAE-BAB2-5E40D2045B0E'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -490,19 +530,27 @@ $1.05$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CEB88377-E568-4AA9-86C7-30EC02DF65EB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CEB88377-E568-4AA9-86C7-30EC02DF65EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CEB88377-E568-4AA9-86C7-30EC02DF65EB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CEB88377-E568-4AA9-86C7-30EC02DF65EB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CEB88377-E568-4AA9-86C7-30EC02DF65EB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CEB88377-E568-4AA9-86C7-30EC02DF65EB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CEB88377-E568-4AA9-86C7-30EC02DF65EB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CEB88377-E568-4AA9-86C7-30EC02DF65EB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CEB88377-E568-4AA9-86C7-30EC02DF65EB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='CEB88377-E568-4AA9-86C7-30EC02DF65EB' id='FORM-CEB88377-E568-4AA9-86C7-30EC02DF65EB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CEB88377-E568-4AA9-86C7-30EC02DF65EB'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -557,19 +605,27 @@ $27$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("14F26701-F24D-405B-AE41-7F50EFF71BAB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='14F26701-F24D-405B-AE41-7F50EFF71BAB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("14F26701-F24D-405B-AE41-7F50EFF71BAB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='14F26701-F24D-405B-AE41-7F50EFF71BAB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("14F26701-F24D-405B-AE41-7F50EFF71BAB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='14F26701-F24D-405B-AE41-7F50EFF71BAB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("14F26701-F24D-405B-AE41-7F50EFF71BAB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='14F26701-F24D-405B-AE41-7F50EFF71BAB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='14F26701-F24D-405B-AE41-7F50EFF71BAB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='14F26701-F24D-405B-AE41-7F50EFF71BAB' id='FORM-14F26701-F24D-405B-AE41-7F50EFF71BAB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-14F26701-F24D-405B-AE41-7F50EFF71BAB'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -630,19 +686,27 @@ $8, 14, 21$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("50CE6371-E3A6-4DD2-8DE3-54A80451672D", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='50CE6371-E3A6-4DD2-8DE3-54A80451672D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("50CE6371-E3A6-4DD2-8DE3-54A80451672D", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='50CE6371-E3A6-4DD2-8DE3-54A80451672D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("50CE6371-E3A6-4DD2-8DE3-54A80451672D", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='50CE6371-E3A6-4DD2-8DE3-54A80451672D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("50CE6371-E3A6-4DD2-8DE3-54A80451672D", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='50CE6371-E3A6-4DD2-8DE3-54A80451672D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='50CE6371-E3A6-4DD2-8DE3-54A80451672D'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='50CE6371-E3A6-4DD2-8DE3-54A80451672D' id='FORM-50CE6371-E3A6-4DD2-8DE3-54A80451672D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-50CE6371-E3A6-4DD2-8DE3-54A80451672D'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -769,19 +833,27 @@ $\pounds 13.14$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("17131C86-8915-4E9B-A3C5-B02B1A2A9B0F", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("17131C86-8915-4E9B-A3C5-B02B1A2A9B0F", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("17131C86-8915-4E9B-A3C5-B02B1A2A9B0F", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("17131C86-8915-4E9B-A3C5-B02B1A2A9B0F", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' id='FORM-17131C86-8915-4E9B-A3C5-B02B1A2A9B0F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-17131C86-8915-4E9B-A3C5-B02B1A2A9B0F'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -908,19 +980,27 @@ $- 5 \degree \ \text {C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' id='FORM-D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -1090,19 +1170,27 @@ $5$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("9AAD47A6-8EDE-49FB-B47D-803015F12A99", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9AAD47A6-8EDE-49FB-B47D-803015F12A99' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("9AAD47A6-8EDE-49FB-B47D-803015F12A99", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9AAD47A6-8EDE-49FB-B47D-803015F12A99' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("9AAD47A6-8EDE-49FB-B47D-803015F12A99", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9AAD47A6-8EDE-49FB-B47D-803015F12A99' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("9AAD47A6-8EDE-49FB-B47D-803015F12A99", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='9AAD47A6-8EDE-49FB-B47D-803015F12A99' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='9AAD47A6-8EDE-49FB-B47D-803015F12A99'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='9AAD47A6-8EDE-49FB-B47D-803015F12A99' id='FORM-9AAD47A6-8EDE-49FB-B47D-803015F12A99' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9AAD47A6-8EDE-49FB-B47D-803015F12A99'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -1727,19 +1815,27 @@ $9 \ \text {years} \ 6 \ \text {months}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B7C56077-26E4-4AD6-8A1B-F22F480D40B8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B7C56077-26E4-4AD6-8A1B-F22F480D40B8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B7C56077-26E4-4AD6-8A1B-F22F480D40B8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B7C56077-26E4-4AD6-8A1B-F22F480D40B8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B7C56077-26E4-4AD6-8A1B-F22F480D40B8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B7C56077-26E4-4AD6-8A1B-F22F480D40B8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B7C56077-26E4-4AD6-8A1B-F22F480D40B8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B7C56077-26E4-4AD6-8A1B-F22F480D40B8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B7C56077-26E4-4AD6-8A1B-F22F480D40B8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='B7C56077-26E4-4AD6-8A1B-F22F480D40B8' id='FORM-B7C56077-26E4-4AD6-8A1B-F22F480D40B8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B7C56077-26E4-4AD6-8A1B-F22F480D40B8'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -1897,19 +1993,27 @@ $14743$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E8C05D4B-FC99-4F83-90B0-9C5637283900", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E8C05D4B-FC99-4F83-90B0-9C5637283900' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E8C05D4B-FC99-4F83-90B0-9C5637283900", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E8C05D4B-FC99-4F83-90B0-9C5637283900' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E8C05D4B-FC99-4F83-90B0-9C5637283900", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E8C05D4B-FC99-4F83-90B0-9C5637283900' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E8C05D4B-FC99-4F83-90B0-9C5637283900", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E8C05D4B-FC99-4F83-90B0-9C5637283900' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E8C05D4B-FC99-4F83-90B0-9C5637283900'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='E8C05D4B-FC99-4F83-90B0-9C5637283900' id='FORM-E8C05D4B-FC99-4F83-90B0-9C5637283900' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E8C05D4B-FC99-4F83-90B0-9C5637283900'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -2114,19 +2218,27 @@ $608$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B87F60E9-CD24-4B59-933C-CDE3117D3989", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B87F60E9-CD24-4B59-933C-CDE3117D3989' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B87F60E9-CD24-4B59-933C-CDE3117D3989", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B87F60E9-CD24-4B59-933C-CDE3117D3989' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B87F60E9-CD24-4B59-933C-CDE3117D3989", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B87F60E9-CD24-4B59-933C-CDE3117D3989' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B87F60E9-CD24-4B59-933C-CDE3117D3989", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B87F60E9-CD24-4B59-933C-CDE3117D3989' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B87F60E9-CD24-4B59-933C-CDE3117D3989'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='B87F60E9-CD24-4B59-933C-CDE3117D3989' id='FORM-B87F60E9-CD24-4B59-933C-CDE3117D3989' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B87F60E9-CD24-4B59-933C-CDE3117D3989'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>
@@ -3329,19 +3441,27 @@ $11$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' id='FORM-CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CF4913E5-8BA6-4226-ADB7-9C2E24CEECCB'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2</p>

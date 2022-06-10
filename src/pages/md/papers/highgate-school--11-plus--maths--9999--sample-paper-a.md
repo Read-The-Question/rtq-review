@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -272,19 +272,27 @@ $\pounds 3.60, \pounds 1.20$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E61C8C9B-56DA-468B-93C1-334429701990", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E61C8C9B-56DA-468B-93C1-334429701990' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E61C8C9B-56DA-468B-93C1-334429701990", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E61C8C9B-56DA-468B-93C1-334429701990' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E61C8C9B-56DA-468B-93C1-334429701990", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E61C8C9B-56DA-468B-93C1-334429701990' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E61C8C9B-56DA-468B-93C1-334429701990", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E61C8C9B-56DA-468B-93C1-334429701990' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E61C8C9B-56DA-468B-93C1-334429701990'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='E61C8C9B-56DA-468B-93C1-334429701990' id='FORM-E61C8C9B-56DA-468B-93C1-334429701990' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E61C8C9B-56DA-468B-93C1-334429701990'>Initial</p>
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>
@@ -538,19 +546,27 @@ $\pounds 360$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A6500005-118B-466A-8D63-6650ABAEA7AA", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A6500005-118B-466A-8D63-6650ABAEA7AA", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A6500005-118B-466A-8D63-6650ABAEA7AA", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A6500005-118B-466A-8D63-6650ABAEA7AA", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A6500005-118B-466A-8D63-6650ABAEA7AA'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A6500005-118B-466A-8D63-6650ABAEA7AA' id='FORM-A6500005-118B-466A-8D63-6650ABAEA7AA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A6500005-118B-466A-8D63-6650ABAEA7AA'>Initial</p>
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--9999--sample-paper-a</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -54,19 +54,27 @@ $64$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("18878C95-524E-4F4D-B0C2-DE63DF3546B1", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='18878C95-524E-4F4D-B0C2-DE63DF3546B1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("18878C95-524E-4F4D-B0C2-DE63DF3546B1", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='18878C95-524E-4F4D-B0C2-DE63DF3546B1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("18878C95-524E-4F4D-B0C2-DE63DF3546B1", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='18878C95-524E-4F4D-B0C2-DE63DF3546B1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("18878C95-524E-4F4D-B0C2-DE63DF3546B1", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='18878C95-524E-4F4D-B0C2-DE63DF3546B1' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='18878C95-524E-4F4D-B0C2-DE63DF3546B1'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='18878C95-524E-4F4D-B0C2-DE63DF3546B1' id='FORM-18878C95-524E-4F4D-B0C2-DE63DF3546B1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-18878C95-524E-4F4D-B0C2-DE63DF3546B1'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -118,19 +126,27 @@ $25$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("922FBC24-0E68-4CEB-9A30-4049190D32C2", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='922FBC24-0E68-4CEB-9A30-4049190D32C2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("922FBC24-0E68-4CEB-9A30-4049190D32C2", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='922FBC24-0E68-4CEB-9A30-4049190D32C2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("922FBC24-0E68-4CEB-9A30-4049190D32C2", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='922FBC24-0E68-4CEB-9A30-4049190D32C2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("922FBC24-0E68-4CEB-9A30-4049190D32C2", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='922FBC24-0E68-4CEB-9A30-4049190D32C2' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='922FBC24-0E68-4CEB-9A30-4049190D32C2'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='922FBC24-0E68-4CEB-9A30-4049190D32C2' id='FORM-922FBC24-0E68-4CEB-9A30-4049190D32C2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-922FBC24-0E68-4CEB-9A30-4049190D32C2'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -182,19 +198,27 @@ $306$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("8666EE2B-31C3-4AED-9993-A4014E4810C3", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='8666EE2B-31C3-4AED-9993-A4014E4810C3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("8666EE2B-31C3-4AED-9993-A4014E4810C3", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='8666EE2B-31C3-4AED-9993-A4014E4810C3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("8666EE2B-31C3-4AED-9993-A4014E4810C3", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='8666EE2B-31C3-4AED-9993-A4014E4810C3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("8666EE2B-31C3-4AED-9993-A4014E4810C3", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='8666EE2B-31C3-4AED-9993-A4014E4810C3' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='8666EE2B-31C3-4AED-9993-A4014E4810C3'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='8666EE2B-31C3-4AED-9993-A4014E4810C3' id='FORM-8666EE2B-31C3-4AED-9993-A4014E4810C3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8666EE2B-31C3-4AED-9993-A4014E4810C3'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -293,19 +317,27 @@ $24024$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("DFFF4069-B7D4-401D-90CC-7DEA7B300388", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DFFF4069-B7D4-401D-90CC-7DEA7B300388' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("DFFF4069-B7D4-401D-90CC-7DEA7B300388", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DFFF4069-B7D4-401D-90CC-7DEA7B300388' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("DFFF4069-B7D4-401D-90CC-7DEA7B300388", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DFFF4069-B7D4-401D-90CC-7DEA7B300388' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("DFFF4069-B7D4-401D-90CC-7DEA7B300388", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DFFF4069-B7D4-401D-90CC-7DEA7B300388' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='DFFF4069-B7D4-401D-90CC-7DEA7B300388'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='DFFF4069-B7D4-401D-90CC-7DEA7B300388' id='FORM-DFFF4069-B7D4-401D-90CC-7DEA7B300388' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DFFF4069-B7D4-401D-90CC-7DEA7B300388'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -350,19 +382,27 @@ $600$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7C19DA98-914F-4E7A-AFD9-38F202A08A32", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7C19DA98-914F-4E7A-AFD9-38F202A08A32", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7C19DA98-914F-4E7A-AFD9-38F202A08A32", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7C19DA98-914F-4E7A-AFD9-38F202A08A32", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7C19DA98-914F-4E7A-AFD9-38F202A08A32'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' id='FORM-7C19DA98-914F-4E7A-AFD9-38F202A08A32' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C19DA98-914F-4E7A-AFD9-38F202A08A32'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -423,19 +463,27 @@ $30$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' id='FORM-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -548,19 +596,27 @@ $111 \text{ kg}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("169B3F23-EB06-4E0D-9414-80C1BA4C87CC", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='169B3F23-EB06-4E0D-9414-80C1BA4C87CC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("169B3F23-EB06-4E0D-9414-80C1BA4C87CC", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='169B3F23-EB06-4E0D-9414-80C1BA4C87CC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("169B3F23-EB06-4E0D-9414-80C1BA4C87CC", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='169B3F23-EB06-4E0D-9414-80C1BA4C87CC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("169B3F23-EB06-4E0D-9414-80C1BA4C87CC", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='169B3F23-EB06-4E0D-9414-80C1BA4C87CC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='169B3F23-EB06-4E0D-9414-80C1BA4C87CC'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='169B3F23-EB06-4E0D-9414-80C1BA4C87CC' id='FORM-169B3F23-EB06-4E0D-9414-80C1BA4C87CC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-169B3F23-EB06-4E0D-9414-80C1BA4C87CC'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -878,19 +934,27 @@ $13, 4$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("DF2455A7-D708-47AC-8218-FA13D8012E7B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DF2455A7-D708-47AC-8218-FA13D8012E7B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("DF2455A7-D708-47AC-8218-FA13D8012E7B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DF2455A7-D708-47AC-8218-FA13D8012E7B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("DF2455A7-D708-47AC-8218-FA13D8012E7B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DF2455A7-D708-47AC-8218-FA13D8012E7B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("DF2455A7-D708-47AC-8218-FA13D8012E7B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DF2455A7-D708-47AC-8218-FA13D8012E7B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='DF2455A7-D708-47AC-8218-FA13D8012E7B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='DF2455A7-D708-47AC-8218-FA13D8012E7B' id='FORM-DF2455A7-D708-47AC-8218-FA13D8012E7B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DF2455A7-D708-47AC-8218-FA13D8012E7B'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>
@@ -1126,19 +1190,27 @@ $\pounds 32$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B997FB3B-115F-4CC3-BC0E-C9D91855E806", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B997FB3B-115F-4CC3-BC0E-C9D91855E806' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B997FB3B-115F-4CC3-BC0E-C9D91855E806", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B997FB3B-115F-4CC3-BC0E-C9D91855E806' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B997FB3B-115F-4CC3-BC0E-C9D91855E806", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B997FB3B-115F-4CC3-BC0E-C9D91855E806' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B997FB3B-115F-4CC3-BC0E-C9D91855E806", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B997FB3B-115F-4CC3-BC0E-C9D91855E806' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B997FB3B-115F-4CC3-BC0E-C9D91855E806'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='B997FB3B-115F-4CC3-BC0E-C9D91855E806' id='FORM-B997FB3B-115F-4CC3-BC0E-C9D91855E806' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B997FB3B-115F-4CC3-BC0E-C9D91855E806'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5</p>

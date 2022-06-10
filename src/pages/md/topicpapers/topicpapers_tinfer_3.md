@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-3"
 title: "TopicPaper - Infer - 3"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1260,19 +1260,27 @@ $10201, 11111$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' id='FORM-84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-84BB684C-DA25-4560-9BAE-CF5CC5ABDCB8'>Initial</p>
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:39</p>

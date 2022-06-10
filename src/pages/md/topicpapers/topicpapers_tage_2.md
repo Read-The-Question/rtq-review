@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-2"
 title: "TopicPaper - Age - 2"
-date: 2022-06-09 21:30:43
+date: 2022-06-10 08:50:43
 ---
 <div class='paper'>
 <div class='meta'>
@@ -211,19 +211,27 @@ $48$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("6C90D298-28FD-41C8-A233-C293F44572FA", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("6C90D298-28FD-41C8-A233-C293F44572FA", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("6C90D298-28FD-41C8-A233-C293F44572FA", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("6C90D298-28FD-41C8-A233-C293F44572FA", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='6C90D298-28FD-41C8-A233-C293F44572FA'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='6C90D298-28FD-41C8-A233-C293F44572FA' id='FORM-6C90D298-28FD-41C8-A233-C293F44572FA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6C90D298-28FD-41C8-A233-C293F44572FA'>Initial</p>
 </div>
 <div class='papername'>
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:14</p>

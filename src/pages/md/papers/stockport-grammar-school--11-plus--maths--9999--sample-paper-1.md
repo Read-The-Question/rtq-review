@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -121,19 +121,27 @@ $624$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("42B172FC-BBD5-4557-9351-313D4B254286", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("42B172FC-BBD5-4557-9351-313D4B254286", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("42B172FC-BBD5-4557-9351-313D4B254286", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("42B172FC-BBD5-4557-9351-313D4B254286", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='42B172FC-BBD5-4557-9351-313D4B254286'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='42B172FC-BBD5-4557-9351-313D4B254286' id='FORM-42B172FC-BBD5-4557-9351-313D4B254286' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42B172FC-BBD5-4557-9351-313D4B254286'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -253,19 +261,27 @@ $32$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("096AA73E-3271-49CC-97D7-2319FEA61B14", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='096AA73E-3271-49CC-97D7-2319FEA61B14' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("096AA73E-3271-49CC-97D7-2319FEA61B14", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='096AA73E-3271-49CC-97D7-2319FEA61B14' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("096AA73E-3271-49CC-97D7-2319FEA61B14", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='096AA73E-3271-49CC-97D7-2319FEA61B14' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("096AA73E-3271-49CC-97D7-2319FEA61B14", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='096AA73E-3271-49CC-97D7-2319FEA61B14' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='096AA73E-3271-49CC-97D7-2319FEA61B14'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='096AA73E-3271-49CC-97D7-2319FEA61B14' id='FORM-096AA73E-3271-49CC-97D7-2319FEA61B14' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-096AA73E-3271-49CC-97D7-2319FEA61B14'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -381,19 +397,27 @@ $1142$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E909E88A-3D58-42B1-A05B-AA2C4278F1EB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E909E88A-3D58-42B1-A05B-AA2C4278F1EB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E909E88A-3D58-42B1-A05B-AA2C4278F1EB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E909E88A-3D58-42B1-A05B-AA2C4278F1EB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E909E88A-3D58-42B1-A05B-AA2C4278F1EB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' id='FORM-E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E909E88A-3D58-42B1-A05B-AA2C4278F1EB'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -513,19 +537,27 @@ $56$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("D49D9EA7-E52B-4221-A409-AFE1EB8E46AE", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("D49D9EA7-E52B-4221-A409-AFE1EB8E46AE", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("D49D9EA7-E52B-4221-A409-AFE1EB8E46AE", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("D49D9EA7-E52B-4221-A409-AFE1EB8E46AE", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' id='FORM-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -612,19 +644,27 @@ $56$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("951CBD50-7F78-4C31-A0CE-F1A79F52C7B4", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("951CBD50-7F78-4C31-A0CE-F1A79F52C7B4", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("951CBD50-7F78-4C31-A0CE-F1A79F52C7B4", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("951CBD50-7F78-4C31-A0CE-F1A79F52C7B4", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' id='FORM-951CBD50-7F78-4C31-A0CE-F1A79F52C7B4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-951CBD50-7F78-4C31-A0CE-F1A79F52C7B4'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -748,19 +788,27 @@ $616000 \ \text{m}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A8254932-C5B4-4454-AA48-5D0F9228C890", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A8254932-C5B4-4454-AA48-5D0F9228C890", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A8254932-C5B4-4454-AA48-5D0F9228C890", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A8254932-C5B4-4454-AA48-5D0F9228C890", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A8254932-C5B4-4454-AA48-5D0F9228C890'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' id='FORM-A8254932-C5B4-4454-AA48-5D0F9228C890' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A8254932-C5B4-4454-AA48-5D0F9228C890'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -817,19 +865,27 @@ $0.35$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1B375F52-BB72-4EF8-8C9F-B427D6323875", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1B375F52-BB72-4EF8-8C9F-B427D6323875", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1B375F52-BB72-4EF8-8C9F-B427D6323875", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1B375F52-BB72-4EF8-8C9F-B427D6323875", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1B375F52-BB72-4EF8-8C9F-B427D6323875'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' id='FORM-1B375F52-BB72-4EF8-8C9F-B427D6323875' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1B375F52-BB72-4EF8-8C9F-B427D6323875'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -890,19 +946,27 @@ $58 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A34D1AFD-1A13-4C1A-8344-2A8E62131D4A", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A34D1AFD-1A13-4C1A-8344-2A8E62131D4A", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A34D1AFD-1A13-4C1A-8344-2A8E62131D4A", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A34D1AFD-1A13-4C1A-8344-2A8E62131D4A", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' id='FORM-A34D1AFD-1A13-4C1A-8344-2A8E62131D4A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A34D1AFD-1A13-4C1A-8344-2A8E62131D4A'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -965,19 +1029,27 @@ $\dfrac{13}{20}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("F6E175B5-9571-4201-8E17-818A77EA6BAE", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F6E175B5-9571-4201-8E17-818A77EA6BAE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("F6E175B5-9571-4201-8E17-818A77EA6BAE", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F6E175B5-9571-4201-8E17-818A77EA6BAE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("F6E175B5-9571-4201-8E17-818A77EA6BAE", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F6E175B5-9571-4201-8E17-818A77EA6BAE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("F6E175B5-9571-4201-8E17-818A77EA6BAE", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='F6E175B5-9571-4201-8E17-818A77EA6BAE' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='F6E175B5-9571-4201-8E17-818A77EA6BAE'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='F6E175B5-9571-4201-8E17-818A77EA6BAE' id='FORM-F6E175B5-9571-4201-8E17-818A77EA6BAE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F6E175B5-9571-4201-8E17-818A77EA6BAE'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1050,19 +1122,27 @@ $\pounds 1.33$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' id='FORM-F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1286,19 +1366,27 @@ $64 \ \text{cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' id='FORM-7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1357,19 +1445,27 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' id='FORM-1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1C00F2F2-8AF4-4FC9-9257-D3BF315B5AD8'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1421,19 +1517,27 @@ $1000$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("75F310E6-BEA4-40F1-997F-C89D0ADB9052", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='75F310E6-BEA4-40F1-997F-C89D0ADB9052' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("75F310E6-BEA4-40F1-997F-C89D0ADB9052", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='75F310E6-BEA4-40F1-997F-C89D0ADB9052' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("75F310E6-BEA4-40F1-997F-C89D0ADB9052", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='75F310E6-BEA4-40F1-997F-C89D0ADB9052' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("75F310E6-BEA4-40F1-997F-C89D0ADB9052", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='75F310E6-BEA4-40F1-997F-C89D0ADB9052' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='75F310E6-BEA4-40F1-997F-C89D0ADB9052'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='75F310E6-BEA4-40F1-997F-C89D0ADB9052' id='FORM-75F310E6-BEA4-40F1-997F-C89D0ADB9052' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-75F310E6-BEA4-40F1-997F-C89D0ADB9052'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1481,19 +1585,27 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("B997CEC0-1CE9-4FA7-9498-ABBF735994C3", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("B997CEC0-1CE9-4FA7-9498-ABBF735994C3", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("B997CEC0-1CE9-4FA7-9498-ABBF735994C3", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("B997CEC0-1CE9-4FA7-9498-ABBF735994C3", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='B997CEC0-1CE9-4FA7-9498-ABBF735994C3'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' id='FORM-B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B997CEC0-1CE9-4FA7-9498-ABBF735994C3'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1561,19 +1673,27 @@ $56 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("473B53F9-0065-4183-A92E-E456B6396E3B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='473B53F9-0065-4183-A92E-E456B6396E3B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("473B53F9-0065-4183-A92E-E456B6396E3B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='473B53F9-0065-4183-A92E-E456B6396E3B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("473B53F9-0065-4183-A92E-E456B6396E3B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='473B53F9-0065-4183-A92E-E456B6396E3B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("473B53F9-0065-4183-A92E-E456B6396E3B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='473B53F9-0065-4183-A92E-E456B6396E3B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='473B53F9-0065-4183-A92E-E456B6396E3B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='473B53F9-0065-4183-A92E-E456B6396E3B' id='FORM-473B53F9-0065-4183-A92E-E456B6396E3B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-473B53F9-0065-4183-A92E-E456B6396E3B'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1629,19 +1749,27 @@ $33.6 \ \text{m}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("2D3F5E62-8FD7-4F33-8609-8208FED8B677", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2D3F5E62-8FD7-4F33-8609-8208FED8B677' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("2D3F5E62-8FD7-4F33-8609-8208FED8B677", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2D3F5E62-8FD7-4F33-8609-8208FED8B677' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("2D3F5E62-8FD7-4F33-8609-8208FED8B677", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2D3F5E62-8FD7-4F33-8609-8208FED8B677' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("2D3F5E62-8FD7-4F33-8609-8208FED8B677", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='2D3F5E62-8FD7-4F33-8609-8208FED8B677' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='2D3F5E62-8FD7-4F33-8609-8208FED8B677'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='2D3F5E62-8FD7-4F33-8609-8208FED8B677' id='FORM-2D3F5E62-8FD7-4F33-8609-8208FED8B677' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2D3F5E62-8FD7-4F33-8609-8208FED8B677'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1707,19 +1835,27 @@ $150 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("98FB3AC6-2728-458B-AA28-1E5EF428AAFB", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("98FB3AC6-2728-458B-AA28-1E5EF428AAFB", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("98FB3AC6-2728-458B-AA28-1E5EF428AAFB", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("98FB3AC6-2728-458B-AA28-1E5EF428AAFB", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='98FB3AC6-2728-458B-AA28-1E5EF428AAFB'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='98FB3AC6-2728-458B-AA28-1E5EF428AAFB' id='FORM-98FB3AC6-2728-458B-AA28-1E5EF428AAFB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-98FB3AC6-2728-458B-AA28-1E5EF428AAFB'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -1836,19 +1972,27 @@ $16$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("DA555D7B-4C28-473F-BFDF-B353CBC6895D", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DA555D7B-4C28-473F-BFDF-B353CBC6895D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("DA555D7B-4C28-473F-BFDF-B353CBC6895D", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DA555D7B-4C28-473F-BFDF-B353CBC6895D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("DA555D7B-4C28-473F-BFDF-B353CBC6895D", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DA555D7B-4C28-473F-BFDF-B353CBC6895D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("DA555D7B-4C28-473F-BFDF-B353CBC6895D", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DA555D7B-4C28-473F-BFDF-B353CBC6895D' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='DA555D7B-4C28-473F-BFDF-B353CBC6895D'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='DA555D7B-4C28-473F-BFDF-B353CBC6895D' id='FORM-DA555D7B-4C28-473F-BFDF-B353CBC6895D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DA555D7B-4C28-473F-BFDF-B353CBC6895D'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2166,19 +2310,27 @@ $-7 \degree \text{C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("051F2794-DFF8-4792-8C27-24EC80D9363E", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='051F2794-DFF8-4792-8C27-24EC80D9363E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("051F2794-DFF8-4792-8C27-24EC80D9363E", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='051F2794-DFF8-4792-8C27-24EC80D9363E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("051F2794-DFF8-4792-8C27-24EC80D9363E", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='051F2794-DFF8-4792-8C27-24EC80D9363E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("051F2794-DFF8-4792-8C27-24EC80D9363E", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='051F2794-DFF8-4792-8C27-24EC80D9363E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='051F2794-DFF8-4792-8C27-24EC80D9363E'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='051F2794-DFF8-4792-8C27-24EC80D9363E' id='FORM-051F2794-DFF8-4792-8C27-24EC80D9363E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-051F2794-DFF8-4792-8C27-24EC80D9363E'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2318,19 +2470,27 @@ $\dfrac{3}{4}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("6F96E3F8-8999-42DE-A8DF-52DA739B2658", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("6F96E3F8-8999-42DE-A8DF-52DA739B2658", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("6F96E3F8-8999-42DE-A8DF-52DA739B2658", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("6F96E3F8-8999-42DE-A8DF-52DA739B2658", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='6F96E3F8-8999-42DE-A8DF-52DA739B2658'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='6F96E3F8-8999-42DE-A8DF-52DA739B2658' id='FORM-6F96E3F8-8999-42DE-A8DF-52DA739B2658' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6F96E3F8-8999-42DE-A8DF-52DA739B2658'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2491,19 +2651,27 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' id='FORM-09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-09BBDC89-DC25-4B2D-8897-3DFC6DEDAC0A'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2574,19 +2742,27 @@ $53$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("998DABA8-00BE-4F0A-8D36-19CCA9E7D239", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("998DABA8-00BE-4F0A-8D36-19CCA9E7D239", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("998DABA8-00BE-4F0A-8D36-19CCA9E7D239", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("998DABA8-00BE-4F0A-8D36-19CCA9E7D239", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='998DABA8-00BE-4F0A-8D36-19CCA9E7D239'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='998DABA8-00BE-4F0A-8D36-19CCA9E7D239' id='FORM-998DABA8-00BE-4F0A-8D36-19CCA9E7D239' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-998DABA8-00BE-4F0A-8D36-19CCA9E7D239'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2674,19 +2850,27 @@ $65$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("168D08D9-86C1-42D7-8F94-A59D2E34B478", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='168D08D9-86C1-42D7-8F94-A59D2E34B478' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("168D08D9-86C1-42D7-8F94-A59D2E34B478", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='168D08D9-86C1-42D7-8F94-A59D2E34B478' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("168D08D9-86C1-42D7-8F94-A59D2E34B478", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='168D08D9-86C1-42D7-8F94-A59D2E34B478' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("168D08D9-86C1-42D7-8F94-A59D2E34B478", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='168D08D9-86C1-42D7-8F94-A59D2E34B478' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='168D08D9-86C1-42D7-8F94-A59D2E34B478'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='168D08D9-86C1-42D7-8F94-A59D2E34B478' id='FORM-168D08D9-86C1-42D7-8F94-A59D2E34B478' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-168D08D9-86C1-42D7-8F94-A59D2E34B478'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -2771,19 +2955,27 @@ $
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C5226DA6-11EF-48BE-8568-05BE0F93C04B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C5226DA6-11EF-48BE-8568-05BE0F93C04B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C5226DA6-11EF-48BE-8568-05BE0F93C04B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C5226DA6-11EF-48BE-8568-05BE0F93C04B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C5226DA6-11EF-48BE-8568-05BE0F93C04B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C5226DA6-11EF-48BE-8568-05BE0F93C04B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C5226DA6-11EF-48BE-8568-05BE0F93C04B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C5226DA6-11EF-48BE-8568-05BE0F93C04B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C5226DA6-11EF-48BE-8568-05BE0F93C04B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='C5226DA6-11EF-48BE-8568-05BE0F93C04B' id='FORM-C5226DA6-11EF-48BE-8568-05BE0F93C04B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C5226DA6-11EF-48BE-8568-05BE0F93C04B'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -3107,19 +3299,27 @@ $\pounds 1.70$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7C7B09CA-32E5-42A1-9057-06F6895DD676", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7C7B09CA-32E5-42A1-9057-06F6895DD676", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7C7B09CA-32E5-42A1-9057-06F6895DD676", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7C7B09CA-32E5-42A1-9057-06F6895DD676", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7C7B09CA-32E5-42A1-9057-06F6895DD676'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7C7B09CA-32E5-42A1-9057-06F6895DD676' id='FORM-7C7B09CA-32E5-42A1-9057-06F6895DD676' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C7B09CA-32E5-42A1-9057-06F6895DD676'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -3258,19 +3458,27 @@ $18 \ \text{cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("DC2F2A73-6A15-47D6-9058-3966F167DE33", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("DC2F2A73-6A15-47D6-9058-3966F167DE33", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("DC2F2A73-6A15-47D6-9058-3966F167DE33", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("DC2F2A73-6A15-47D6-9058-3966F167DE33", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='DC2F2A73-6A15-47D6-9058-3966F167DE33'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='DC2F2A73-6A15-47D6-9058-3966F167DE33' id='FORM-DC2F2A73-6A15-47D6-9058-3966F167DE33' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DC2F2A73-6A15-47D6-9058-3966F167DE33'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -3334,19 +3542,27 @@ $60$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("33003293-7D63-4EEE-98E2-B0957B77805A", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='33003293-7D63-4EEE-98E2-B0957B77805A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("33003293-7D63-4EEE-98E2-B0957B77805A", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='33003293-7D63-4EEE-98E2-B0957B77805A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("33003293-7D63-4EEE-98E2-B0957B77805A", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='33003293-7D63-4EEE-98E2-B0957B77805A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("33003293-7D63-4EEE-98E2-B0957B77805A", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='33003293-7D63-4EEE-98E2-B0957B77805A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='33003293-7D63-4EEE-98E2-B0957B77805A'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='33003293-7D63-4EEE-98E2-B0957B77805A' id='FORM-33003293-7D63-4EEE-98E2-B0957B77805A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-33003293-7D63-4EEE-98E2-B0957B77805A'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>
@@ -3609,19 +3825,27 @@ $1, 2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("39F565E5-A22B-4C7B-8F60-9AC45AFB6764", "PR", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("39F565E5-A22B-4C7B-8F60-9AC45AFB6764", "PR", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("39F565E5-A22B-4C7B-8F60-9AC45AFB6764", "PR", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("39F565E5-A22B-4C7B-8F60-9AC45AFB6764", "PR", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='39F565E5-A22B-4C7B-8F60-9AC45AFB6764'>Initial</p>
+
+<form class='review' data-sheet='PR' data-uuid='39F565E5-A22B-4C7B-8F60-9AC45AFB6764' id='FORM-39F565E5-A22B-4C7B-8F60-9AC45AFB6764' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-39F565E5-A22B-4C7B-8F60-9AC45AFB6764'>Initial</p>
 </div>
 <div class='papername'>
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1</p>

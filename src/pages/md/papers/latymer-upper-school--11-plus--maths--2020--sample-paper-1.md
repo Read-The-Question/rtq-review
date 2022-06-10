@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-09 21:28:37
+date: 2022-06-10 08:47:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,19 +67,27 @@ $541$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("C483990B-675A-4689-B8D1-3C5BA95146F1", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='C483990B-675A-4689-B8D1-3C5BA95146F1' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("C483990B-675A-4689-B8D1-3C5BA95146F1", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='C483990B-675A-4689-B8D1-3C5BA95146F1' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("C483990B-675A-4689-B8D1-3C5BA95146F1", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='C483990B-675A-4689-B8D1-3C5BA95146F1' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("C483990B-675A-4689-B8D1-3C5BA95146F1", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='C483990B-675A-4689-B8D1-3C5BA95146F1' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='C483990B-675A-4689-B8D1-3C5BA95146F1'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='C483990B-675A-4689-B8D1-3C5BA95146F1' id='FORM-C483990B-675A-4689-B8D1-3C5BA95146F1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C483990B-675A-4689-B8D1-3C5BA95146F1'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -144,19 +152,27 @@ $417$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("9EDB1A87-432E-4FAB-815F-0D114B4570AD", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='9EDB1A87-432E-4FAB-815F-0D114B4570AD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("9EDB1A87-432E-4FAB-815F-0D114B4570AD", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='9EDB1A87-432E-4FAB-815F-0D114B4570AD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("9EDB1A87-432E-4FAB-815F-0D114B4570AD", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='9EDB1A87-432E-4FAB-815F-0D114B4570AD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("9EDB1A87-432E-4FAB-815F-0D114B4570AD", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='9EDB1A87-432E-4FAB-815F-0D114B4570AD' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='9EDB1A87-432E-4FAB-815F-0D114B4570AD'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='9EDB1A87-432E-4FAB-815F-0D114B4570AD' id='FORM-9EDB1A87-432E-4FAB-815F-0D114B4570AD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9EDB1A87-432E-4FAB-815F-0D114B4570AD'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -224,19 +240,27 @@ $8800$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("D3AA05D7-151A-4527-BEEA-EC5A2A270C0F", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("D3AA05D7-151A-4527-BEEA-EC5A2A270C0F", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("D3AA05D7-151A-4527-BEEA-EC5A2A270C0F", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("D3AA05D7-151A-4527-BEEA-EC5A2A270C0F", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' id='FORM-D3AA05D7-151A-4527-BEEA-EC5A2A270C0F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D3AA05D7-151A-4527-BEEA-EC5A2A270C0F'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -424,19 +448,27 @@ $99$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("3A3AB715-05E4-4635-8C9A-641EC20949C8", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("3A3AB715-05E4-4635-8C9A-641EC20949C8", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("3A3AB715-05E4-4635-8C9A-641EC20949C8", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("3A3AB715-05E4-4635-8C9A-641EC20949C8", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='3A3AB715-05E4-4635-8C9A-641EC20949C8'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='3A3AB715-05E4-4635-8C9A-641EC20949C8' id='FORM-3A3AB715-05E4-4635-8C9A-641EC20949C8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3A3AB715-05E4-4635-8C9A-641EC20949C8'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -507,19 +539,27 @@ $7$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("212E224E-5582-4831-B6B2-47F9B128497C", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='212E224E-5582-4831-B6B2-47F9B128497C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("212E224E-5582-4831-B6B2-47F9B128497C", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='212E224E-5582-4831-B6B2-47F9B128497C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("212E224E-5582-4831-B6B2-47F9B128497C", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='212E224E-5582-4831-B6B2-47F9B128497C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("212E224E-5582-4831-B6B2-47F9B128497C", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='212E224E-5582-4831-B6B2-47F9B128497C' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='212E224E-5582-4831-B6B2-47F9B128497C'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='212E224E-5582-4831-B6B2-47F9B128497C' id='FORM-212E224E-5582-4831-B6B2-47F9B128497C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-212E224E-5582-4831-B6B2-47F9B128497C'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -593,19 +633,27 @@ $400$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("3322EA7C-DA09-4452-AAFA-C64EAE93EE30", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3322EA7C-DA09-4452-AAFA-C64EAE93EE30' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("3322EA7C-DA09-4452-AAFA-C64EAE93EE30", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3322EA7C-DA09-4452-AAFA-C64EAE93EE30' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("3322EA7C-DA09-4452-AAFA-C64EAE93EE30", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3322EA7C-DA09-4452-AAFA-C64EAE93EE30' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("3322EA7C-DA09-4452-AAFA-C64EAE93EE30", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3322EA7C-DA09-4452-AAFA-C64EAE93EE30' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='3322EA7C-DA09-4452-AAFA-C64EAE93EE30'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='3322EA7C-DA09-4452-AAFA-C64EAE93EE30' id='FORM-3322EA7C-DA09-4452-AAFA-C64EAE93EE30' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3322EA7C-DA09-4452-AAFA-C64EAE93EE30'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -671,19 +719,27 @@ $27 \times 9$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("FB115BA3-7098-49AF-867D-F1D690B2872B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='FB115BA3-7098-49AF-867D-F1D690B2872B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("FB115BA3-7098-49AF-867D-F1D690B2872B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='FB115BA3-7098-49AF-867D-F1D690B2872B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("FB115BA3-7098-49AF-867D-F1D690B2872B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='FB115BA3-7098-49AF-867D-F1D690B2872B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("FB115BA3-7098-49AF-867D-F1D690B2872B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='FB115BA3-7098-49AF-867D-F1D690B2872B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='FB115BA3-7098-49AF-867D-F1D690B2872B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='FB115BA3-7098-49AF-867D-F1D690B2872B' id='FORM-FB115BA3-7098-49AF-867D-F1D690B2872B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FB115BA3-7098-49AF-867D-F1D690B2872B'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -743,19 +799,27 @@ $2{:}11 \ \text {pm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("3015408A-F8DE-420C-933E-A2482DB10D38", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3015408A-F8DE-420C-933E-A2482DB10D38' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("3015408A-F8DE-420C-933E-A2482DB10D38", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3015408A-F8DE-420C-933E-A2482DB10D38' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("3015408A-F8DE-420C-933E-A2482DB10D38", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3015408A-F8DE-420C-933E-A2482DB10D38' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("3015408A-F8DE-420C-933E-A2482DB10D38", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3015408A-F8DE-420C-933E-A2482DB10D38' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='3015408A-F8DE-420C-933E-A2482DB10D38'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='3015408A-F8DE-420C-933E-A2482DB10D38' id='FORM-3015408A-F8DE-420C-933E-A2482DB10D38' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3015408A-F8DE-420C-933E-A2482DB10D38'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -821,19 +885,27 @@ $\dfrac {1} {15}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("E070C2A1-64F2-4FA6-942A-1E5DAEED8E25", "G2", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("E070C2A1-64F2-4FA6-942A-1E5DAEED8E25", "G2", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("E070C2A1-64F2-4FA6-942A-1E5DAEED8E25", "G2", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("E070C2A1-64F2-4FA6-942A-1E5DAEED8E25", "G2", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25'>Initial</p>
+
+<form class='review' data-sheet='G2' data-uuid='E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' id='FORM-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E070C2A1-64F2-4FA6-942A-1E5DAEED8E25'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -966,19 +1038,27 @@ $\pounds 4.91$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("4EC4603B-A686-444D-BCC6-4FF6758A4EF6", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4EC4603B-A686-444D-BCC6-4FF6758A4EF6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("4EC4603B-A686-444D-BCC6-4FF6758A4EF6", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4EC4603B-A686-444D-BCC6-4FF6758A4EF6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("4EC4603B-A686-444D-BCC6-4FF6758A4EF6", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4EC4603B-A686-444D-BCC6-4FF6758A4EF6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("4EC4603B-A686-444D-BCC6-4FF6758A4EF6", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4EC4603B-A686-444D-BCC6-4FF6758A4EF6' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='4EC4603B-A686-444D-BCC6-4FF6758A4EF6'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='4EC4603B-A686-444D-BCC6-4FF6758A4EF6' id='FORM-4EC4603B-A686-444D-BCC6-4FF6758A4EF6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4EC4603B-A686-444D-BCC6-4FF6758A4EF6'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1041,19 +1121,27 @@ $22$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("7F144D39-FF9F-415B-BCF9-27AE13989004", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F144D39-FF9F-415B-BCF9-27AE13989004' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("7F144D39-FF9F-415B-BCF9-27AE13989004", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F144D39-FF9F-415B-BCF9-27AE13989004' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("7F144D39-FF9F-415B-BCF9-27AE13989004", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F144D39-FF9F-415B-BCF9-27AE13989004' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("7F144D39-FF9F-415B-BCF9-27AE13989004", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7F144D39-FF9F-415B-BCF9-27AE13989004' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='7F144D39-FF9F-415B-BCF9-27AE13989004'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='7F144D39-FF9F-415B-BCF9-27AE13989004' id='FORM-7F144D39-FF9F-415B-BCF9-27AE13989004' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F144D39-FF9F-415B-BCF9-27AE13989004'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1127,19 +1215,27 @@ $112$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("140F0395-4212-4458-B2B7-7AF063D4D08B", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='140F0395-4212-4458-B2B7-7AF063D4D08B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("140F0395-4212-4458-B2B7-7AF063D4D08B", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='140F0395-4212-4458-B2B7-7AF063D4D08B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("140F0395-4212-4458-B2B7-7AF063D4D08B", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='140F0395-4212-4458-B2B7-7AF063D4D08B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("140F0395-4212-4458-B2B7-7AF063D4D08B", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='140F0395-4212-4458-B2B7-7AF063D4D08B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='140F0395-4212-4458-B2B7-7AF063D4D08B'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='140F0395-4212-4458-B2B7-7AF063D4D08B' id='FORM-140F0395-4212-4458-B2B7-7AF063D4D08B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-140F0395-4212-4458-B2B7-7AF063D4D08B'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1284,19 +1380,27 @@ $21$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' id='FORM-DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1369,19 +1473,27 @@ $132 \ \text{cm} ^ 2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' id='FORM-5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -1726,19 +1838,27 @@ $-40, 80$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("1E711B1E-BF58-4C8C-8D4F-CE063BF29752", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1E711B1E-BF58-4C8C-8D4F-CE063BF29752' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("1E711B1E-BF58-4C8C-8D4F-CE063BF29752", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1E711B1E-BF58-4C8C-8D4F-CE063BF29752' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("1E711B1E-BF58-4C8C-8D4F-CE063BF29752", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1E711B1E-BF58-4C8C-8D4F-CE063BF29752' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("1E711B1E-BF58-4C8C-8D4F-CE063BF29752", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1E711B1E-BF58-4C8C-8D4F-CE063BF29752' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='1E711B1E-BF58-4C8C-8D4F-CE063BF29752'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='1E711B1E-BF58-4C8C-8D4F-CE063BF29752' id='FORM-1E711B1E-BF58-4C8C-8D4F-CE063BF29752' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1E711B1E-BF58-4C8C-8D4F-CE063BF29752'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -2536,19 +2656,27 @@ $15$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("938E522F-43A3-44CB-9551-C2D9CF301F50", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='938E522F-43A3-44CB-9551-C2D9CF301F50' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("938E522F-43A3-44CB-9551-C2D9CF301F50", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='938E522F-43A3-44CB-9551-C2D9CF301F50' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("938E522F-43A3-44CB-9551-C2D9CF301F50", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='938E522F-43A3-44CB-9551-C2D9CF301F50' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("938E522F-43A3-44CB-9551-C2D9CF301F50", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='938E522F-43A3-44CB-9551-C2D9CF301F50' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='938E522F-43A3-44CB-9551-C2D9CF301F50'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='938E522F-43A3-44CB-9551-C2D9CF301F50' id='FORM-938E522F-43A3-44CB-9551-C2D9CF301F50' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-938E522F-43A3-44CB-9551-C2D9CF301F50'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>
@@ -2608,19 +2736,27 @@ $85 \ \text{cm} ^ 2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' onClick='submitReview("A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7", "G1", "PRG")'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' onClick='submitReview("A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7", "G1", "PRCR")'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' onClick='submitReview("A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7", "G1", "PRR")'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' onClick='submitReview("A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7", "G1", "PRA")'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
-<p class='review_status initial' id='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7'>Initial</p>
+
+<form class='review' data-sheet='G1' data-uuid='A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' id='FORM-A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7'>Initial</p>
 </div>
 <div class='papername'>
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1</p>

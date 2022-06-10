@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-2"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 2"
-date: 2022-06-10 10:47:30
+date: 2022-06-10 15:21:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-10 10:47:30
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AAF65CC9-5279-4F5B-B1ED-55EDBBE85A8B</p>
 </div>
@@ -51,7 +51,7 @@ All the measurements in the following diagram are given in centimetres
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -94,7 +94,7 @@ $42 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -167,7 +167,7 @@ $38 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D0CECCF8-E55D-4AB8-BA2B-E8B0728E9C24</p>
 </div>
@@ -201,7 +201,7 @@ So $\text{FAB } 3 = 6$ because $3 \times 2 \times 1 = 6$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -229,7 +229,7 @@ $120$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -266,7 +266,7 @@ $\text {FAB} \ 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -305,7 +305,7 @@ $110$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -374,7 +374,7 @@ $362880$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6985EE7A-C7F7-4045-AF01-B9B001667366</p>
 </div>
@@ -438,7 +438,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -481,7 +481,7 @@ $2000 \ \text {kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -534,7 +534,7 @@ $1200 \ \text {kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -593,7 +593,7 @@ $9 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D7F85DE9-50FB-4FF8-8109-B722467E136F</p>
 </div>
@@ -660,7 +660,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -686,7 +686,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -715,7 +715,7 @@ $| \ \ |(|) \ |(|)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -747,7 +747,7 @@ $|(| |) \ |(|(|))$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -797,7 +797,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E96F9980-E746-44A5-BF5E-740293EF65A9</p>
 </div>
@@ -844,7 +844,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -884,7 +884,7 @@ $12$ apples
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -933,7 +933,7 @@ $10$ loaves
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1039,7 +1039,7 @@ $8$ fish
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B2840747-46F0-4E96-BFB6-23B78D10FEA6</p>
 </div>
@@ -1184,7 +1184,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>589E5E44-10C8-4537-8ED7-9C02B0A0532C</p>
 </div>
@@ -1221,7 +1221,7 @@ Use this information to answer the following questions
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1257,7 +1257,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1293,7 +1293,7 @@ $9.477$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1331,7 +1331,7 @@ $3.51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1401,7 +1401,7 @@ $18954$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E1F4C1E8-FFC5-4E95-A3DD-7D43355F3770</p>
 </div>
@@ -1458,7 +1458,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1508,7 +1508,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1565,7 +1565,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C1EE3E84-DC2E-4C19-A416-2A6035D47A47</p>
 </div>
@@ -1626,7 +1626,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1662,7 +1662,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1703,7 +1703,7 @@ $-3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1756,7 +1756,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1807,7 +1807,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1864,7 +1864,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1900,7 +1900,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1936,7 +1936,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1988,7 +1988,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2054,7 +2054,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B47F258B-B664-46F7-A478-546D5D3A016B</p>
 </div>
@@ -2109,7 +2109,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2169,7 +2169,7 @@ $90  \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2218,7 +2218,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2269,7 +2269,7 @@ $50000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2332,7 +2332,7 @@ $12500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2381,7 +2381,7 @@ $\dfrac {1}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2453,7 +2453,7 @@ Ratio of Rurns and Diameters is smaller
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B283FEE5-8695-4B69-9E3B-FAC317A0C93E</p>
 </div>
@@ -2502,7 +2502,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2579,7 +2579,7 @@ $100 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2644,7 +2644,7 @@ $25 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2726,7 +2726,7 @@ $160 \ \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2788,7 +2788,7 @@ $1000 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9EE40186-B13A-47E3-8C0F-173A981163C9</p>
 </div>
@@ -2839,7 +2839,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2879,7 +2879,7 @@ $(4,3)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -2950,7 +2950,7 @@ $T$-step : $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -3003,7 +3003,7 @@ $(2, 4)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>

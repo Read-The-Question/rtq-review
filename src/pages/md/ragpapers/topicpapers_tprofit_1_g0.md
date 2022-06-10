@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-g0"
 title: "TopicPaper - Profit - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B9A0C103-F37E-45E0-8E72-914E65E4982D</p>
 </div>
@@ -77,7 +77,7 @@ $\pounds 98$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>83FF262B-C3C2-446A-888D-017561433336</p>
 </div>
@@ -111,7 +111,7 @@ This is the sign in a shop:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -151,7 +151,7 @@ $\dfrac {1} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -189,7 +189,7 @@ $\pounds 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -256,7 +256,7 @@ $\pounds 12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>1AAFE106-7AAC-4CDC-A29A-4F1C26310DB8</p>
 </div>
@@ -328,7 +328,7 @@ $\pounds 57.85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AEFC7170-49BA-433E-8F3B-1767FD16C053</p>
 </div>
@@ -406,7 +406,7 @@ $\pounds 38250$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DC500CC0-5255-4C48-9B31-D96DA44379AE</p>
 </div>
@@ -478,7 +478,7 @@ $\pounds 140.55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E3968AD3-9BB4-40FA-8CF4-DCE9AADD831D</p>
 </div>
@@ -550,7 +550,7 @@ $\pounds 161.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D9679475-899C-4D1A-87C4-D5CC0437D309</p>
 </div>
@@ -642,7 +642,7 @@ $\pounds 450$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>CC2CF032-912C-4CD7-AF4B-1BB85DC56BD4</p>
 </div>
@@ -716,7 +716,7 @@ $15.81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3AFA86B0-9BFB-41F8-900A-072D2C1A833D</p>
 </div>
@@ -795,7 +795,7 @@ $210$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F83507F2-235E-4ABA-AC49-C50C6D08899E</p>
 </div>
@@ -827,7 +827,7 @@ In a sale, normal prices were reduced by $35 \%$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -868,7 +868,7 @@ $\pounds 390$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -911,7 +911,7 @@ $\pounds 400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -989,7 +989,7 @@ $\pounds 1193.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>123B050C-DB35-4294-97F0-0DCBAFF89F1E</p>
 </div>
@@ -1072,7 +1072,7 @@ $\pounds 75$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7B238D76-DC32-4173-81A3-114829891742</p>
 </div>

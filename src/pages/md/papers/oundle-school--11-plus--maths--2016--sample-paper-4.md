@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-06-10 10:47:30
+date: 2022-06-10 15:21:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-10 10:47:30
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
 </div>
@@ -48,7 +48,7 @@ Work out the following
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -81,7 +81,7 @@ $24.33 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -114,7 +114,7 @@ $1591$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -147,7 +147,7 @@ $49984 \ \text{kilometers}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -180,7 +180,7 @@ $0.06825 \ \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -215,7 +215,7 @@ $3.27 \ \text{metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -253,7 +253,7 @@ $- 13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -323,7 +323,7 @@ $613$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CBA3EE58-4A9C-41FF-86FB-842D05DDE041</p>
 </div>
@@ -365,7 +365,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -404,7 +404,7 @@ $\dfrac {13} {60}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -440,7 +440,7 @@ TODOANSWER
 </div>
 <ul class='subsubquestion lower-roman'>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -478,7 +478,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subsubquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -529,7 +529,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
 </div>
@@ -561,7 +561,7 @@ If $a = 9, b = -2$ and $c = -7$, find the value of the following expressions
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -596,7 +596,7 @@ $126$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -631,7 +631,7 @@ $- 98$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -701,7 +701,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
@@ -756,7 +756,7 @@ $65$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
 </div>
@@ -782,7 +782,7 @@ For the questions below, form an equation from the given information and solve i
 
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -824,7 +824,7 @@ $-43$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -871,7 +871,7 @@ $100$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -917,7 +917,7 @@ $+ 4, \ -4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -996,7 +996,7 @@ $16.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g2 question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CAE549F8-9EE0-4076-8DD3-5385034616A6</p>
 </div>
@@ -1072,7 +1072,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3B2F88FB-098F-446B-A5EA-C78BF6D5E9A0</p>
 </div>
@@ -1124,7 +1124,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
 </div>
@@ -1182,7 +1182,7 @@ $\dfrac{5}{11}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E282A566-3F9E-4A8A-BA38-2034EE0DB396</p>
 </div>
@@ -1229,7 +1229,7 @@ TODOANSWER
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1267,7 +1267,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1305,7 +1305,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1353,7 +1353,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FEC8C763-EFA3-46AF-9101-FA2EFBA27CDB</p>
 </div>
@@ -1388,7 +1388,7 @@ $356241$ is a number which contains the digits from one to six, each appearing o
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1418,7 +1418,7 @@ $123456, \ 654321$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1446,7 +1446,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>

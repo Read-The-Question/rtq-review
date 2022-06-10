@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-g0"
 title: "TopicPaper - Simpleword - 6 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7E1A5997-9BA0-4BE7-99CB-ACF5F977BCD0</p>
 </div>
@@ -74,7 +74,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0FADA51B-A6F3-4289-B08E-8C19C335C6A4</p>
 </div>
@@ -146,7 +146,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3D2E7488-20B5-4B96-84D7-95DE7A4100B6</p>
 </div>
@@ -220,7 +220,7 @@ $1105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>82493CCD-0442-4D34-8D6E-A55C61D88DF4</p>
 </div>
@@ -302,7 +302,7 @@ $600 \ \text{ml}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E2FDFBE8-D93C-4E13-8DDB-87CE62F1BAF5</p>
 </div>
@@ -342,7 +342,7 @@ The numbers around the outside are in grams (g), and the numbers inside the circ
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -372,7 +372,7 @@ $70 \ \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -438,7 +438,7 @@ $2.75 \ \text {oz}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2EAFF991-0339-4DCB-B936-D87259A62353</p>
 </div>
@@ -474,7 +474,7 @@ A $10 \text{p}$ coin has a diameter of $25 \ \text{mm}$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -511,7 +511,7 @@ $1 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -547,7 +547,7 @@ $\pounds 4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -584,7 +584,7 @@ $40000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -655,7 +655,7 @@ $\pounds 4000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>84995481-1A2F-4667-8846-F97B143D48F4</p>
 </div>
@@ -687,7 +687,7 @@ There are $45$ teachers at The Peterford School . $\frac {4} {9}$ of them were g
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -728,7 +728,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -801,7 +801,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9F5604EB-F79E-4CB6-8EE3-55D385FB760A</p>
 </div>

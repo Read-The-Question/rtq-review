@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g0"
 title: "TopicPaper - Fraction - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
 </div>
@@ -79,7 +79,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>76567C03-AF5A-4917-9FAE-4EAFF191E689</p>
 </div>
@@ -159,7 +159,7 @@ $\dfrac{3} {10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
 </div>
@@ -191,7 +191,7 @@ Calculate:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -230,7 +230,7 @@ $\dfrac{44} {25}$ or $1 \dfrac{19} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -302,7 +302,7 @@ $8 \dfrac{19} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>62E0F078-7FB5-44EC-BC99-CC28C10BCB5C</p>
 </div>
@@ -379,7 +379,7 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FF3E51F2-06D2-40A3-93F2-BC83DD8C2835</p>
 </div>
@@ -455,7 +455,7 @@ $\dfrac {61} {36}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
@@ -527,7 +527,7 @@ $\dfrac {1} {12}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_rag_notfound question'>
 <div class='uuid'>
 <p>744C2018-EF2B-4DE6-BB19-3D288E88E4DE</p>
 </div>
@@ -599,7 +599,7 @@ $\dfrac {4}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
 </div>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-7-g0"
 title: "TopicPaper - Fraction - 7 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7569895A-16BF-4154-8A52-95D367FEA01A</p>
 </div>

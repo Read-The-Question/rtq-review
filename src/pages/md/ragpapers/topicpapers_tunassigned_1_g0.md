@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-1-g0"
 title: "TopicPaper - Unassigned - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>6E9FF898-0A1B-40C2-A5E3-7FA5D07C17D8</p>
 </div>
@@ -84,7 +84,7 @@ $49$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2D142A42-5829-4132-A5C5-363CD6339B26</p>
 </div>
@@ -119,7 +119,7 @@ Bob is very proud of his new car. It is $370 \ \text{cm}$ long.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -153,7 +153,7 @@ $3.7 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -221,7 +221,7 @@ $3700 \ \text {mm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>33005D34-3FFB-4599-866E-73D0421ED42B</p>
 </div>
@@ -295,7 +295,7 @@ $2400 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9329E7E2-579A-4C3D-BDB9-73615C4009D5</p>
 </div>
@@ -363,7 +363,7 @@ $11$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8F3672CB-7B07-47D0-9892-C621FC3A2EE8</p>
 </div>

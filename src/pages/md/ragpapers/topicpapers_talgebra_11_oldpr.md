@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-oldpr"
 title: "TopicPaper - Algebra - 11 - OLDPR"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>33003293-7D63-4EEE-98E2-B0957B77805A</p>
 </div>
@@ -89,7 +89,7 @@ $60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1B3F4C98-47C5-4822-9812-B9AD2C131A7A</p>
 </div>
@@ -176,7 +176,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>85473E1B-41B4-4C2F-8183-407C3B81B2F5</p>
 </div>
@@ -262,7 +262,7 @@ $-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>B4811CE8-001C-4E89-B5D6-B3377D1B9012</p>
 </div>
@@ -359,7 +359,7 @@ $900$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>ED008E3F-8F7E-4C9F-9A58-76EFAE55003D</p>
 </div>
@@ -448,7 +448,7 @@ $70$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8F65EFC2-3A6B-4CAA-94E2-F2E6C6BB69F5</p>
 </div>
@@ -537,7 +537,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8F7E2B54-63AD-42F0-AD22-0B1036DA619C</p>
 </div>
@@ -622,7 +622,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>34E90EE8-F186-4B70-B1BF-498352434A48</p>
 </div>
@@ -723,7 +723,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B5F307B0-90F4-4C09-A5E1-8ABB595A2010</p>
 </div>
@@ -803,7 +803,7 @@ $8$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>96B75922-DE58-4EFF-BB3F-2AE920BF563A</p>
 </div>
@@ -883,7 +883,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>041A050A-D326-4793-8BA0-8D47A9552390</p>
 </div>
@@ -959,7 +959,7 @@ $0$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>85EB3724-4385-40C7-99FC-BD96F06DD4F3</p>
 </div>
@@ -1063,7 +1063,7 @@ $3 \ \text{and} 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A44515A9-1C0B-4A2E-99CA-D73054BD487E</p>
 </div>

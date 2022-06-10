@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tclock-1-g0"
 title: "TopicPaper - Clock - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9A2CE487-4367-455E-A627-FFFE0C8FF292</p>
 </div>
@@ -79,7 +79,7 @@ $45 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7F4A6D5C-6E5A-4FD1-98FB-FBD8DE3BFC66</p>
 </div>
@@ -153,7 +153,7 @@ $165 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>14F5E25E-982B-4BD0-99BF-68170A5DA82C</p>
 </div>
@@ -229,7 +229,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4FAE2ECB-8394-4207-9FAD-04BFD8BDE179</p>
 </div>
@@ -303,7 +303,7 @@ $255 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8D9C54BC-6E17-4740-929F-C604E748B5B7</p>
 </div>
@@ -338,7 +338,7 @@ Find the size of the angle, in degrees, turned by the **minute** hand of a clock
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -366,7 +366,7 @@ $30 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -433,7 +433,7 @@ $120 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>98FB3AC6-2728-458B-AA28-1E5EF428AAFB</p>
 </div>

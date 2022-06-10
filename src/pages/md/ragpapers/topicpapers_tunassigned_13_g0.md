@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-13-g0"
 title: "TopicPaper - Unassigned - 13 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
 </div>
@@ -40,7 +40,7 @@ Insert an inequality sign $<$ or $>$ to make the following statements correct:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -89,7 +89,7 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>

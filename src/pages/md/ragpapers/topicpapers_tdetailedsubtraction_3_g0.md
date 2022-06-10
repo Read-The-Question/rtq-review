@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-3-g0"
 title: "TopicPaper - Detailedsubtraction - 3 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D1D231EE-FD6E-4511-A774-A7768DAB3B3D</p>
 </div>
@@ -78,7 +78,7 @@ $447$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>07CD4B67-7485-4B17-AF5E-4254EB60E880</p>
 </div>

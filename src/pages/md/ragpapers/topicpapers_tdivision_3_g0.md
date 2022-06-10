@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-3-g0"
 title: "TopicPaper - Division - 3 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>17BF339B-7079-4966-BEB2-8B3FF23FA92A</p>
 </div>

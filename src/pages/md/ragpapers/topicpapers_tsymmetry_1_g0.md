@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-g0"
 title: "TopicPaper - Symmetry - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>CF538E3C-9256-410E-8CF8-47DD610CDB1F</p>
 </div>

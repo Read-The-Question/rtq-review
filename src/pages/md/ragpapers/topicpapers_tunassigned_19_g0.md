@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-19-g0"
 title: "TopicPaper - Unassigned - 19 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B2B533E5-F5B6-48FF-A96C-1BFB3BF4BBAA</p>
 </div>

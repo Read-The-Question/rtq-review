@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-oldpr"
 title: "TopicPaper - Temperature - 1 - OLDPR"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -78,7 +78,7 @@ $61 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
 </div>
@@ -110,7 +110,7 @@ On $1 \text{st}$ January the temperature in London was $-2 \degree \text{C}$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -149,7 +149,7 @@ $14 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0"
 title: "TopicPaper - Areaperimeter - 2 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
 </div>
@@ -91,7 +91,7 @@ $18,14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
 </div>
@@ -184,7 +184,7 @@ $28 cm ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
 </div>
@@ -219,7 +219,7 @@ A right angled triangle is shown below. It is not drawn to scale.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -252,7 +252,7 @@ $14.8 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -328,7 +328,7 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
 </div>
@@ -418,7 +418,7 @@ $55 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
@@ -500,7 +500,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
 </div>
@@ -578,7 +578,7 @@ $12 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>786619B1-FD62-4472-B91E-8153392F2D10</p>
 </div>
@@ -657,7 +657,7 @@ $6 \ \text {cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
 </div>
@@ -728,7 +728,7 @@ $48 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
@@ -810,7 +810,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
@@ -887,7 +887,7 @@ $3 a + 2 b$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
 </div>
@@ -930,7 +930,7 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -966,7 +966,7 @@ $20 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1022,7 +1022,7 @@ $60 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1106,7 +1106,7 @@ $1.6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -1207,7 +1207,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
 </div>
@@ -1242,7 +1242,7 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1279,7 +1279,7 @@ $2 (h + w)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1355,7 +1355,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -1460,7 +1460,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
 </div>
@@ -1543,7 +1543,7 @@ $58 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
 </div>
@@ -1583,7 +1583,7 @@ Find:
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1619,7 +1619,7 @@ $160 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -1693,7 +1693,7 @@ $196 \ \text {cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BD44A344-8EDA-4BCD-978F-FE8E11154BA8</p>
 </div>
@@ -1791,7 +1791,7 @@ $50 \ \text{cm} ^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FA3111F3-33F1-4247-9DB3-34AB4A300F6F</p>
 </div>
@@ -1906,7 +1906,7 @@ $4 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A4235F04-280E-476A-BD32-2553DE1134CA</p>
 </div>
@@ -2002,7 +2002,7 @@ $54 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DF8291DD-BFBC-4F7B-A1AB-30A8DDB08EFF</p>
 </div>

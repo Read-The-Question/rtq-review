@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-4-g0"
 title: "TopicPaper - Detailedmultiplication - 4 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
@@ -99,7 +99,7 @@ $196$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0BBE4126-D528-4588-9AF9-F9CE49056600</p>
 </div>
@@ -164,7 +164,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3114740D-C53A-49EC-B433-2572189ED29D</p>
 </div>
@@ -229,7 +229,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F858DC13-E706-4D45-B60D-CF904A6C3072</p>
 </div>
@@ -299,7 +299,7 @@ $432$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7A1BE18D-7F3E-4C3E-BBB5-57FB9BEA3BF1</p>
 </div>
@@ -369,7 +369,7 @@ $9800$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>56E5E6AF-A895-45C2-A9F6-20497B067AAE</p>
 </div>

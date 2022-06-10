@@ -88,9 +88,8 @@ img {
 }
 
 .question_envelope.question.rag_blocked  {
-    background-color: darkkhaki;
+    background-color: crimson;
 }
-
 
 .question_envelope.question.rag_oldpr  {
     /* background-color: rgba(0, 255, 0, 0.2); */
@@ -111,7 +110,12 @@ img {
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
     /* background-color: lightpink; */
-    background-color: paleturquoise;
+    background-color: lightpink;
+    /* background-color: hotpink; */
+    /* background-color:  rgba(173, 255, 47, 0.2); */
+    /* background-color:  rgba(173, 255, 47, 0.4);; */
+    /* background-color: rgba(173, 255, 47, 1.0); */
+    /* background-color: greenyellow; */
 }
 
 .question_envelope.question.rag_g1  {
@@ -136,8 +140,39 @@ img {
 }
 
 .question_envelope.question.rag_green {
+    background-color: rgba(173, 255, 47, 1.0);
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    background-color: lightgreen;
+}
+
+.question_envelope.question.rag_prcr {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
+    background-color: yellow;
+}
+
+.question_envelope.question.rag_prcc {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: paleturquoise;
+}
+
+.question_envelope.question.rag_prg {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: greenyellow;
+}
+
+.question_envelope.question.rag_prbd {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: crimson;
+}
+
+.question_envelope.question.rag_prr {
+    /* background-color: rgba(0, 255, 0, 0.2); */
+    /* background-color: lightgreen; */
+    background-color: red;
 }
 
 .answer {

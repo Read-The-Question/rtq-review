@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tlcm-1"
 title: "TopicPaper - Lcm - 1"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-10 10:50:09
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>42A023B5-3C67-4C83-9439-341ADE408EE2</p>
 </div>

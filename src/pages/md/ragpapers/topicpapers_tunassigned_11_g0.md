@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-11-g0"
 title: "TopicPaper - Unassigned - 11 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84</p>
 </div>
@@ -43,7 +43,7 @@ Write down the prime factorisation of the following numbers
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -71,7 +71,7 @@ $2 \times 2 \times 3 \times 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -133,7 +133,7 @@ $2 \times 3 \times 5 \times 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
 </div>
@@ -205,7 +205,7 @@ Octagon and Trapezium
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB</p>
 </div>
@@ -292,7 +292,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>314AC472-EE1E-42D7-A310-5BCAE66FD04A</p>
 </div>

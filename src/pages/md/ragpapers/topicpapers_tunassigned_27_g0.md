@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-27-g0"
 title: "TopicPaper - Unassigned - 27 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>260A8FA4-A3C9-40B3-AD55-381D318722C2</p>
 </div>
@@ -79,7 +79,7 @@ $32.4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B62D4CCE-C62F-4AF6-B681-ED5467D4528C</p>
 </div>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-1-g0"
 title: "TopicPaper - Statistics - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5614DA7B-6653-4819-8562-EDB2A90A83C7</p>
 </div>
@@ -90,7 +90,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E127726D-DDB2-4A3F-99BF-CFACF66B8527</p>
 </div>
@@ -179,7 +179,7 @@ $10  \ \text{kg}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>359E9CAF-B6FE-434F-9191-AF9614CF6D12</p>
 </div>

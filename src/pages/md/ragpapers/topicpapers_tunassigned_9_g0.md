@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-9-g0"
 title: "TopicPaper - Unassigned - 9 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>814A48A6-788C-4EB8-9113-8A0722371A72</p>
 </div>
@@ -79,7 +79,7 @@ $6798$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FDD3F15E-48E0-4F86-B10C-AF2F1115F60F</p>
 </div>
@@ -152,7 +152,7 @@ $2.494$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A1B06F9E-6353-4842-9636-091EF34AA971</p>
 </div>
@@ -223,7 +223,7 @@ $\text {Pentagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E357F926-98BE-49CA-A8E3-205475456DA0</p>
 </div>
@@ -292,7 +292,7 @@ $\text {Cuboid}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>415EE546-AD6B-4E59-B886-A3241928E529</p>
 </div>
@@ -363,7 +363,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
 </div>
@@ -437,7 +437,7 @@ $3.284$m
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
 </div>

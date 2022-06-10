@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-3-g0"
 title: "TopicPaper - Graph - 3 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E9BAB955-4373-41E3-B08D-F252C334A4C5</p>
 </div>
@@ -40,7 +40,7 @@ Each pupil in a class were asked their favourite colour. The bar graph shows the
 </div>
 <ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>
@@ -68,7 +68,7 @@ $\text {Purple}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
 </ul>

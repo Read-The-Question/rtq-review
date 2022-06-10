@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-1-g0"
 title: "TopicPaper - Division - 1 - G0"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5335FE7D-FC7B-4924-9AEF-7FC56FBDDF28</p>
 </div>
@@ -78,7 +78,7 @@ $1.54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8CE05634-6A49-4F35-A3BA-F011513512BF</p>
 </div>
@@ -151,7 +151,7 @@ $234$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E7D87D0E-C3CD-41D6-B46D-3D3D31B7DEFC</p>
 </div>
@@ -224,7 +224,7 @@ $1050$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9A3D9E21-52B8-4FAF-B576-1B242FC6F65F</p>
 </div>
@@ -303,7 +303,7 @@ $0.4103$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>11E67077-E5D7-4AAB-8230-3443578B97AB</p>
 </div>
@@ -382,7 +382,7 @@ $0.4103$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>76853B80-475C-45FC-8F30-B40957F57E47</p>
 </div>
@@ -453,7 +453,7 @@ $0.0023$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>21C67B7B-044B-4F38-8EF5-F6242FC9D5FE</p>
 </div>
@@ -525,7 +525,7 @@ $312$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4B064430-A3B1-49A5-B5A7-D36E815440A4</p>
 </div>
@@ -596,7 +596,7 @@ $8.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 question'>
+<div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>628DBEF5-EE6D-47CA-960E-7D8EA91EEDF3</p>
 </div>

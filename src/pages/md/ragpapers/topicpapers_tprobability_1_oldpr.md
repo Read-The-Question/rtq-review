@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-oldpr"
 title: "TopicPaper - Probability - 1 - OLDPR"
-date: 2022-06-10 10:50:09
+date: 2022-06-10 15:24:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
 </div>

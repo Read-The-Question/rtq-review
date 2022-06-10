@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-06-10 08:47:55
+date: 2022-06-10 09:06:39
 ---
 <div class='paper'>
 <div class='meta'>

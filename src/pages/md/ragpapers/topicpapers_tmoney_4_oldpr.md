@@ -1,0 +1,408 @@
+---
+slug: "ragpapers/topicpapers-tmoney-4-oldpr"
+title: "TopicPaper - Money - 4 - OLDPR"
+date: 2022-06-10 10:50:09
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>6B84438A-B59E-4370-8EA5-017FA8C5AADA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$85$ people go to the school concert. They pay $\pounds 1.30$ each. 
+
+How much money is collected?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total money collected}    &= \text{No. of people} \times \text{Payment per person} \\\\
+                                &= 85 \times \pounds 1.30 \\\\
+                                &= 85 \times 1.3 \\\\
+\text{Total money collected}    &= \pounds 110.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 110.50$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6B84438A-B59E-4370-8EA5-017FA8C5AADA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6B84438A-B59E-4370-8EA5-017FA8C5AADA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6B84438A-B59E-4370-8EA5-017FA8C5AADA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='6B84438A-B59E-4370-8EA5-017FA8C5AADA' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='6B84438A-B59E-4370-8EA5-017FA8C5AADA' id='FORM-6B84438A-B59E-4370-8EA5-017FA8C5AADA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-6B84438A-B59E-4370-8EA5-017FA8C5AADA'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>ED194211-094B-4A65-A8B1-1480273C455A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+John paid a total of $\pounds 5.15$ for a jar of coffee, a carton of milk and a bag of sugar. 
+The jar of coffee cost $\pounds 3.69$ and the carton of milk cost $89 \text{p}$. How much did the bag of sugar cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of sugar}       &= \text {Total cost} - \text {Cost of coffee} - \text {Cost of milk} \\\\
+                            &= \pounds 5.15 - \pounds 3.69 - 89 \text {p} \\\\
+                            &= \pounds 5.15 - \pounds 3.69 - \pounds 0.89 \\\\
+                            &= 5.15 - 4.58 \\\\
+\text {Cost of sugar}       &= \pounds 0.57 = 57 \text {p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$57 \text{p}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='ED194211-094B-4A65-A8B1-1480273C455A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='ED194211-094B-4A65-A8B1-1480273C455A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='ED194211-094B-4A65-A8B1-1480273C455A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='ED194211-094B-4A65-A8B1-1480273C455A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='ED194211-094B-4A65-A8B1-1480273C455A' id='FORM-ED194211-094B-4A65-A8B1-1480273C455A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ED194211-094B-4A65-A8B1-1480273C455A'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Matthew buys $2$ sandwiches and a cookie with a $\pounds 5$ note.
+
+How much change does he receive?
+
+![missing table](/papers/missing_table.svg)
+
+                   
+<!--
+Price List
+Sandwich $\pounds 1.49
+Cookie $\pounds 0.69
+Ice Lolly $\pounds 0.49
+Soda $\pounds 0.9
+-->
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{The total change} &= \text{The total amount he has} - (\text{cost of  2 sandwiches} + \text{cost of  a cookie}) \\\\
+&=  \pounds 5 - (2 \times \pounds 1.49 + \pounds 0.69) \\\\
+&=  5 - (2.98 + 0.69) \\\\
+&=  5 - 3.67 \\\\
+&=  1.33 \\\\
+&=  \pounds 1.33
+\end{aligned}
+$
+
+Change he recieves =  $\pounds 1.33$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.33$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' id='FORM-F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F37ABF50-3392-4D3A-8B06-B6F2AC2D84EC'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>B997CEC0-1CE9-4FA7-9498-ABBF735994C3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is better value, $600 \ \text{g}$ for $\pounds 3$ or $500 \ \text{g}$ for $\pounds 2.75$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$\text{By comparing equal mass}$,
+$600 \ \text{g} \  \text{for} \  \pounds 3  \ \text{is better value than}  \ 500 \ \text{g} \  \text{for} \  \pounds 2.75$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600 \ \text{g} \ \text{for} \ \pounds 3$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B997CEC0-1CE9-4FA7-9498-ABBF735994C3' id='FORM-B997CEC0-1CE9-4FA7-9498-ABBF735994C3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B997CEC0-1CE9-4FA7-9498-ABBF735994C3'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>408AD078-3ADB-4663-A156-51E85E253962</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The local bakery sells muffins at $85 \text{p}$ each. I have $\pounds 15$ to spend. How many muffins can I buy? 
+
+- $17$
+- $16$
+- $15$
+- $14$
+- $20$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Let the number of muffins I can buy be $=a$
+
+$
+\begin{aligned}
+\text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\\\
+85 \times a                                                      &= \pounds 15   \\\\\
+85 \times a                                                      &= 1500 \text{pence} \\\\
+a                                                                &= \dfrac{1500}{85} \\\\
+a                                                                &= \dfrac{300 \times 5}{17 \times 5} \\\\
+a                                                                &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\\\
+a                                                                &= \dfrac{300}{17} \\\\
+a                                                                &= 17 \dfrac {11} {17} \\\\
+a                                                                &= \approx 17
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$17$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='408AD078-3ADB-4663-A156-51E85E253962' id='FORM-408AD078-3ADB-4663-A156-51E85E253962' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-408AD078-3ADB-4663-A156-51E85E253962'>Initial</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+</ul>

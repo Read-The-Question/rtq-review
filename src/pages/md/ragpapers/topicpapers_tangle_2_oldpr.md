@@ -1,0 +1,1061 @@
+---
+slug: "ragpapers/topicpapers-tangle-2-oldpr"
+title: "TopicPaper - Angle - 2 - OLDPR"
+date: 2022-06-10 10:50:09
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles by calculation. The diagrams are not to scale:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= a$
+
+As per the diagram it is a right angle. The sum of a right angle $= 90 \degree$
+
+$
+\begin {aligned}
+a + 44 \degree                 &= 90 \degree \\\\
+a                              &= 90 \degree - 44 \degree \\\\
+a                              &= 46 \degree
+\end {aligned}
+$
+
+Missing angle $= 46 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing angle $= b$
+
+As we know, the sum of angles on a straight line is $180 \degree$ 
+
+As per the diagram,
+
+$
+\begin {aligned}
+b + 48 \degree + 67 \degree    &= 180 \degree \\\\
+b + 115 \degree                &= 180 \degree \\\\
+b                              &= 180 \degree - 115 \degree \\\\
+b                              &= 65 \degree
+\end {aligned}
+$
+
+Missing angle $= 65 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$65 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The sum of a complete angle is $360 \degree$ 
+
+As per the diagram,
+
+$
+\begin {aligned}
+d + 140 \degree + 160 \degree &= 360 \degree \\\\
+d + 300                       &= 360 \\\\
+d                             &= 360 - 300 \\\\
+d                             &= 60 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8A00786C-8FA5-49F0-B059-E903FB36850E' id='FORM-8A00786C-8FA5-49F0-B059-E903FB36850E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8A00786C-8FA5-49F0-B059-E903FB36850E'>Initial</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the size of the missing angles
+
+(DIAGRAMS ARE NOT DRAWN TO SCALE)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the angle in one full turn is $= 360 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 76 \degree + 87 \degree + 113 \degree &= 360 \degree \\\\
+a + 276                                   &= 360 \\\\
+a                                         &= 360 - 276 \\\\
+a                                         &= 84 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of interior angles of a quadrilateral is $= 360 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+b + 101 \degree + 74 \degree + 67 \degree &= 360 \degree \\\\
+b + 242                                   &= 360 \\\\
+b                                         &= 360 - 242 \\\\
+b                                         &= 118 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$118 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $= 180 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+c + 69 \degree + 54 \degree  &= 180 \degree \\\\
+c + 123                      &= 180 \\\\
+c                            &= 180 - 123 \\\\
+c                            &= 57 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$57 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles of a triangle is $= 180 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+d + 63 \degree + 38 \degree  &= 180 \degree \\\\
+d + 101                      &= 180 \\\\
+d                            &= 180 - 101 \\\\
+d                            &= 79 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$79 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram, the triangle is an isosceles triangle. 
+
+We know that angles opposite the equal side are always equal.
+
+We also know that the sum of all angles $= 180 \degree$
+
+$
+\begin{aligned}
+e + (2 \times 71 \degree)    &= 180 \degree \\\\
+e + 142                      &= 180 \\\\
+e                            &= 180 - 142 \\\\
+e                            &= 38 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' id='FORM-8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D'>Initial</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a triangle, one of the angles is $45$ degrees. The other two angles in the triangle are in the ratio $4 : 5$. How big is the largest angle in the triangle? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+4x \degrees + 5x  \degrees+ 45 \degrees                     &= 180 \degrees \\\\
+9x + 45                                                     &= 180 \\\\
+9x                                                          &= 180 - 45 \\\\
+9x                                                          &= 135 \\\\
+x                                                           &= 15 \\\\
+5x                                                          &= 5 \times 15 \\\\
+5x                                                          &=75 \degrees
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \degrees$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2A28B44D-4B73-46C1-955A-1029E0F22147' id='FORM-2A28B44D-4B73-46C1-955A-1029E0F22147' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2A28B44D-4B73-46C1-955A-1029E0F22147'>Initial</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The picture shows a tipper truck.
+
+![missing image](/papers/missing_image.svg)
+`
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the angles marked $a$ and $b$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of the angles in a triangle is $180 \ \text {degrees}$. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 80 + 70  &= 180 \\\\
+a            &= 180 - 80 - 70 \\\\
+a            &= 180 - 150 \\\\
+a            &= 30 \ \text {degrees}
+\end {aligned}
+$
+
+Let's find the angle marked $b$.
+
+As we know, the sum of angles on a straight line is $180 \ \text {degrees}$.
+
+As per the diagram,
+
+$
+\begin {aligned}
+b + 70  &= 180 \\\\
+b       &= 180 - 70 \\\\
+b       &= 110 \ \text {degrees}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text {degrees}, 110 \ \text {degrees}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The $80 \degree$ angle decreases to $75 \degree$ as the tipper tips further. What happens to angle $c$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, the sum of angles on a straight line is $180 \ \text {degrees}$. So,
+
+As per the question,
+
+$
+\begin {aligned}
+c + 75  &= 180 \\\\
+c       &= 180 - 75 \\\\
+c       &= 105 \ \text {degrees}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105 \ \text {degrees}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='802A33FA-D4AC-4248-BE3E-09CA75FF7E82' id='FORM-802A33FA-D4AC-4248-BE3E-09CA75FF7E82' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-802A33FA-D4AC-4248-BE3E-09CA75FF7E82'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram below (not to scale), find the angles marked $x$ and $y$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know in a triangle, the sum of two interior angles is equal to sum of opposite exterior angle. So,
+
+As per the diagram,
+
+$
+\begin{aligned}
+x   &= 84 \degree + 52 \degree \\\\
+x   &= 136 \degree
+\end{aligned}
+$
+
+As we know, the sum of angles on a strainght line is $180 \degree$ ,
+
+As per the diagram,
+
+$
+\begin{aligned}
+y + x           &= 180 \degree \\\\
+y + 136 \degree &= 180 \degree \\\\
+y               &= 180 \degree - 136 \degree \\\\
+y               &= 44 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\begin{aligned}
+x &= 136 \degree \\
+y &= 44 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='3E301085-F062-490D-99FF-D572D1FB6E58' id='FORM-3E301085-F062-490D-99FF-D572D1FB6E58' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3E301085-F062-490D-99FF-D572D1FB6E58'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two angles of a quadrilateral are $95 \degree$ and $75 \degree$. 
+Which of the following could be the difference of the other two angles?
+
+
+- $190$
+- $180$
+- $195$
+- $200$
+- $205$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question 
+
+$
+\begin{aligned}
+\text{Sum of the angles of a quadrilateral} =360\degree \\\\
+\text{lets other two angle be 'a'} \\\\
+a + a + 95 + 75 &= 360 \\\\
+2a + 95 + 75 &= 360 \\\\
+2a + 170     &= 360 \\\\
+2a           &= 360 - 170 \\\\
+2a           &= 190
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$190$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' id='FORM-B6391AE6-AFDE-4F0B-865B-5BD6985A8B78' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B6391AE6-AFDE-4F0B-865B-5BD6985A8B78'>Initial</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr question'>
+<div class='uuid'>
+<p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a rectangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+All measurements on the diagram are in centimetres. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin{aligned}
+x - 1 &= 4 \\\\
+x     &= 4 + 1 \\\\
+x     &= 5
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Here is a triangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+Find the size of the angle marked $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+y + 2y + 3y &= 180 \degree \\\\
+6y          &= 180 \degree \\\\
+y           &= \dfrac {180} {6} \\\\
+y           &= \dfrac {30 \times 6} {6} \\\\
+y           &= \dfrac {30 \times \cancel {6} } {\cancel {6} } \\\\
+y           &= 30 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='C7288C8F-5D25-4733-9478-7992288F6CD7' id='FORM-C7288C8F-5D25-4733-9478-7992288F6CD7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C7288C8F-5D25-4733-9478-7992288F6CD7'>Initial</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+</ul>

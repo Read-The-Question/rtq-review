@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -383,7 +383,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$123 \ \text {m} ^ 2$
+The area of the lawn is $=$ $123 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -426,7 +426,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 20.40$
+Mr Green spends $=$ $\pounds 20.40$
 
 </div>
 </div>
@@ -478,7 +478,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$240$
+The number of paving stones needed is $=$ $240$
 
 </div>
 </div>
@@ -535,7 +535,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 360$
+The total cost is $=$ $\pounds 360$
 
 </div>
 </div>
@@ -639,7 +639,7 @@ Cost of paintballs = $\pounds 42
 <div class='answers'>
 <div class='answer'>
 
-700
+Tim uses %s paintballs. $=$ 700
 
 </div>
 </div>
@@ -682,7 +682,7 @@ c  = $15 \ \text{l}$
 <div class='answers'>
 <div class='answer'>
 
-75
+Janice uses %s litres of hot water. $=$ 75
 
 </div>
 </div>

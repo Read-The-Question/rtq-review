@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g2"
 title: "TopicPaper - Fraction - 1 - G2"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -827,7 +827,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{1} {4}$
+%B $=$ $\dfrac{1} {4}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-1-oldpr"
 title: "TopicPaper - Unassigned - 1 - OLDPR"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -215,7 +215,7 @@ a trapezium
 <div class='answers'>
 <div class='answer'>
 
-$\text{a trapezium}$
+A $=$ $\text{a trapezium}$
 
 </div>
 </div>
@@ -291,7 +291,7 @@ $4$
 <div class='answers'>
 <div class='answer'>
 
-$4$
+C $=$ $4$
 
 </div>
 <div class='answer'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0"
 title: "TopicPaper - Algebra - 15 - G0"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1959,7 +1959,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$250  \ \text{cm}$
+\text{Largest piece} $=$ $250  \ \text{cm}$
 
 </div>
 </div>

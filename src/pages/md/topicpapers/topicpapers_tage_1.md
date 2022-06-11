@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -39,6 +39,8 @@ If Tom is half his mum’s age and together their ages add up to $72$, how old i
 
 Let Tom's age $= a$
 
+Tom's mum’s age $=2a$
+
 As per the question,
 
 $
@@ -48,18 +50,18 @@ a + 2a                     &= 72 \\\\
 a                          &= \dfrac {72} {3} \\\\
 a                          &= \dfrac {24 \times 3} {3} \\\\
 a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
-a                          &= 24
+a                          &= 24 \ \text{years}
 \end {aligned}
 $
 
-Tom's age $= 24$.
+Tom's age $= 24 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \ \text{years}$
 
 </div>
 </div>
@@ -298,47 +300,39 @@ Guy is half as old as Gerald, who is three times older than Gill. If the sum of 
 
 Let Gill's age $= a$
 
+Gerald's age $= 3a$
+
+Guy's age $= \dfrac {3a} {2}$
+
 As per the question,
 
 $
 \begin {aligned}
-\text {Gerald's age}    &= 3 \times \text {older than Gill} \\\\
-                        &= 3 a \\\\
-\text {Guy's age}       &= \text {half as old as Gerald} \\\\
-                        &= \dfrac {1} {2} \times 3 a
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}   &= 99 \\\\
 3a + \dfrac {3a} {2} + a                                        &= 99 \\\\
 4a + \dfrac {3a} {2}                                            &= 99 \\\\
-\dfrac {4a \times 2} {1 \times 2} + \dfrac {3a} {2}             &= 99 \\\\
+\dfrac {4a \times 2} {2} + \dfrac {3a} {2}                      &= 99 \\\\
 \dfrac {8a} {2} + \dfrac {3a} {2}                               &= 99 \\\\
-\dfrac {8a + 3a} {2}                                            &= 99 \\\\
 \dfrac {11a} {2}                                                &= 99 \\\\
-11a                                                             &= 99 \times 2 \\\\
 a                                                               &= \dfrac {99 \times 2} {11} \\\\
 a                                                               &= \dfrac {11 \times 9 \times 2} {11} \\\\
 a                                                               &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
-a                                                               &= 9 \times 2 \\\\
-a                                                               &= 18
+a                                                               &= 18 \ \text {years}
 \end {aligned}
 $
 
-$\text {Gill's age} = 18 \ \text {years}$
+Gill's age $= 18 \ \text {years}$
 
-Let's find Gerald and Guy's age.
+Let's find Gerald's and Guy's age.
 
 $
 \begin {aligned}
-\text {Gerald's age}    &= 3 \times 18 \\\\
+\text {Gerald's age}    &= 3a \\\\
+                        &= 3 \times 18 \\\\
                         &= 54 \ \text {years} \\\\
 \text {Guy's age}       &= \dfrac {3a} {2} \\\\
-                        &= \dfrac {54} {2} \\\\
-                        &= \dfrac {2 \times 27} {2} \\\\
-                        &= \dfrac {\cancel {2} \times 27} {\cancel {2}} \\\\
+                        &= \dfrac {3 \times 18} {2} \\\\
+                        &= \dfrac {3 \times 2 \times 9} {2} \\\\
+                        &= \dfrac {3 \times \cancel {2} \times 9} {\cancel {2}} \\\\
                         &= 27 \ \text {years}
 \end {aligned}
 $
@@ -348,13 +342,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin {aligned}
-\text {Gill}   &= 18 \ \text {years} \\\\
-\text {Guy}    &= 27 \ \text {years} \\\\
-\text {Gerald} &= 54 \ \text {years}
-\end {aligned}
-$
+Gill $=$ $18 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Gerald $=$ $54 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Guy $=$ $27 \ \text {years}$
 
 </div>
 </div>
@@ -443,18 +441,19 @@ How much older is Anna than Callum?
 <div class='workings'>
 <div class='working'>
 
-Let Anna be $a$ year older than Callum.
+Let Brian's age $= a$
 
-As per the question,
+Anna's age $= a - 3$
+
+Callum's age $= a - 7$
 
 $
-\begin{aligned}
-a &= 7 - 3 \\\\
-  &= 4 \ \text {years}
-\end{aligned}
+\begin {aligned}
+\text{Difference between Anna and Callum} &= (a - 3) - (a - 7) \\\\
+                                          &= a - 3 -a + 7 \\\\
+                                          &= 4 \ \text{years}
+\end {aligned}
 $
-
-Anna is $4$ years older than Callum.
 
 </div>
 </div>
@@ -485,18 +484,20 @@ How many times older is Dad than Dave?
 <div class='workings'>
 <div class='working'>
 
+Derek's age $= 15 \ \text{years}$
+
 $
 \begin{aligned}
-\text{Times Dave is older than his dad}  &= \dfrac {\text {Age of Derek's dad}} {\text {Dave's age}} \\\\
-                                         &= \dfrac {15 \times 3} {15 - 6} \\\\
-                                         &= \dfrac {15 \times 3} {9} \\\\
-                                         &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
-                                         &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
-                                         &= 5
+\text{Dad versus Dave}  &= \dfrac {\text {Derek's dad's age}} {\text {Dave's age}} \\\\
+                        &= \dfrac {15 \times 3} {15 - 6} \\\\
+                        &= \dfrac {15 \times 3} {9} \\\\
+                        &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                        &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                        &= 5
 \end{aligned}
 $
 
-Dad is $5$ times older than Dave.
+Derek's dad is $5$ times older than Dave.
 
 </div>
 </div>
@@ -527,9 +528,9 @@ How old is Emily?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Emily $= a$
+Let Emily's age $= a$
 
-Age of Emily’s aunt Ingrid $= 4a$
+Ingrid's age $= 4a$
 
 As per the question,
 
@@ -540,18 +541,18 @@ a + 4a &= 60 \\\\
 a      &= \dfrac {60} {5} \\\\
 a      &= \dfrac {12 \times 5} {5} \\\\
 a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
-a      &= 12
+a      &= 12 \ \text{years}
 \end{aligned}
 $
 
-Emily is $12$ years old.
+Emily's age $= 12 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$12 \ \text{years}$
 
 </div>
 </div>
@@ -574,33 +575,33 @@ How old is Sara?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Sara $= a$.
+Let Sara's age $= a$.
 
 Sanjay's age $= a - 2$.
 
-Sasha's age $= a - 2 - 5 = a - 7$.
+Sasha's age $= a - 2 - 5$
 
 As per the question,
 
 $
 \begin{aligned}
-a - 2 + a - 7 &= 31 \\\\
-2a - 9        &= 31 \\\\
-2a            &= 31 + 9 \\\\
-2a            &= 40 \\\\
-a             &= \dfrac {40} {2} \\\\
-a             &= 20
+a - 2 + a - 2 -5  &= 31 \\\\
+2a - 9            &= 31 \\\\
+2a                &= 31 + 9 \\\\
+2a                &= 40 \\\\
+a                 &= \dfrac {40} {2} \\\\
+a                 &= 20 \ \text{years}
 \end{aligned}
 $
 
-Sara is $20$ years old.
+Sara's age $= 20 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$20 \ \text{years}$
 
 </div>
 </div>
@@ -672,19 +673,19 @@ $
 \begin{aligned}
 a + 4     &= 2(a - 4) \\\\
 a + 4     &= 2a - 8 \\\\
-2a - a    &= 8 + 4 \\\\ 
-a         &= 12 \\\\ 
+2a - a    &= 8 + 4 \\\\
+a         &= 12 \ \text{years}\\\\
 \end{aligned}
 $
 
-Sam's current age $=12$
+Sam's current age $=12 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$12 \ \text{years}$
 
 </div>
 </div>

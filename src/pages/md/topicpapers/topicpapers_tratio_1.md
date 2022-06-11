@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2115,7 +2115,7 @@ Cost of paintballs = $\pounds 42
 <div class='answers'>
 <div class='answer'>
 
-700
+Tim uses %s paintballs. $=$ 700
 
 </div>
 </div>
@@ -2158,7 +2158,7 @@ c  = $15 \ \text{l}$
 <div class='answers'>
 <div class='answer'>
 
-75
+Janice uses %s litres of hot water. $=$ 75
 
 </div>
 </div>

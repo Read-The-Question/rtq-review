@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1444,47 +1444,39 @@ Guy is half as old as Gerald, who is three times older than Gill. If the sum of 
 
 Let Gill's age $= a$
 
+Gerald's age $= 3a$
+
+Guy's age $= \dfrac {3a} {2}$
+
 As per the question,
 
 $
 \begin {aligned}
-\text {Gerald's age}    &= 3 \times \text {older than Gill} \\\\
-                        &= 3 a \\\\
-\text {Guy's age}       &= \text {half as old as Gerald} \\\\
-                        &= \dfrac {1} {2} \times 3 a
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Gerald's age} + \text {Guy's age} + \text {Gill's age}   &= 99 \\\\
 3a + \dfrac {3a} {2} + a                                        &= 99 \\\\
 4a + \dfrac {3a} {2}                                            &= 99 \\\\
-\dfrac {4a \times 2} {1 \times 2} + \dfrac {3a} {2}             &= 99 \\\\
+\dfrac {4a \times 2} {2} + \dfrac {3a} {2}                      &= 99 \\\\
 \dfrac {8a} {2} + \dfrac {3a} {2}                               &= 99 \\\\
-\dfrac {8a + 3a} {2}                                            &= 99 \\\\
 \dfrac {11a} {2}                                                &= 99 \\\\
-11a                                                             &= 99 \times 2 \\\\
 a                                                               &= \dfrac {99 \times 2} {11} \\\\
 a                                                               &= \dfrac {11 \times 9 \times 2} {11} \\\\
 a                                                               &= \dfrac {\cancel {11} \times 9 \times 2} {\cancel {11}} \\\\
-a                                                               &= 9 \times 2 \\\\
-a                                                               &= 18
+a                                                               &= 18 \ \text {years}
 \end {aligned}
 $
 
-$\text {Gill's age} = 18 \ \text {years}$
+Gill's age $= 18 \ \text {years}$
 
-Let's find Gerald and Guy's age.
+Let's find Gerald's and Guy's age.
 
 $
 \begin {aligned}
-\text {Gerald's age}    &= 3 \times 18 \\\\
+\text {Gerald's age}    &= 3a \\\\
+                        &= 3 \times 18 \\\\
                         &= 54 \ \text {years} \\\\
 \text {Guy's age}       &= \dfrac {3a} {2} \\\\
-                        &= \dfrac {54} {2} \\\\
-                        &= \dfrac {2 \times 27} {2} \\\\
-                        &= \dfrac {\cancel {2} \times 27} {\cancel {2}} \\\\
+                        &= \dfrac {3 \times 18} {2} \\\\
+                        &= \dfrac {3 \times 2 \times 9} {2} \\\\
+                        &= \dfrac {3 \times \cancel {2} \times 9} {\cancel {2}} \\\\
                         &= 27 \ \text {years}
 \end {aligned}
 $
@@ -1494,13 +1486,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin {aligned}
-\text {Gill}   &= 18 \ \text {years} \\\\
-\text {Guy}    &= 27 \ \text {years} \\\\
-\text {Gerald} &= 54 \ \text {years}
-\end {aligned}
-$
+Gill $=$ $18 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Gerald $=$ $54 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Guy $=$ $27 \ \text {years}$
 
 </div>
 </div>

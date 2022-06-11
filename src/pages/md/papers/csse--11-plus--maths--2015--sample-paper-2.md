@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -507,18 +507,19 @@ How much older is Anna than Callum?
 <div class='workings'>
 <div class='working'>
 
-Let Anna be $a$ year older than Callum.
+Let Brian's age $= a$
 
-As per the question,
+Anna's age $= a - 3$
+
+Callum's age $= a - 7$
 
 $
-\begin{aligned}
-a &= 7 - 3 \\\\
-  &= 4 \ \text {years}
-\end{aligned}
+\begin {aligned}
+\text{Difference between Anna and Callum} &= (a - 3) - (a - 7) \\\\
+                                          &= a - 3 -a + 7 \\\\
+                                          &= 4 \ \text{years}
+\end {aligned}
 $
-
-Anna is $4$ years older than Callum.
 
 </div>
 </div>
@@ -549,18 +550,20 @@ How many times older is Dad than Dave?
 <div class='workings'>
 <div class='working'>
 
+Derek's age $= 15 \ \text{years}$
+
 $
 \begin{aligned}
-\text{Times Dave is older than his dad}  &= \dfrac {\text {Age of Derek's dad}} {\text {Dave's age}} \\\\
-                                         &= \dfrac {15 \times 3} {15 - 6} \\\\
-                                         &= \dfrac {15 \times 3} {9} \\\\
-                                         &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
-                                         &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
-                                         &= 5
+\text{Dad versus Dave}  &= \dfrac {\text {Derek's dad's age}} {\text {Dave's age}} \\\\
+                        &= \dfrac {15 \times 3} {15 - 6} \\\\
+                        &= \dfrac {15 \times 3} {9} \\\\
+                        &= \dfrac {5 \times 3 \times 3} {3 \times 3} \\\\
+                        &= \dfrac {5 \times \cancel {3} \times \cancel {3}} {\cancel {3} \times \cancel {3}} \\\\
+                        &= 5
 \end{aligned}
 $
 
-Dad is $5$ times older than Dave.
+Derek's dad is $5$ times older than Dave.
 
 </div>
 </div>
@@ -591,9 +594,9 @@ How old is Emily?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Emily $= a$
+Let Emily's age $= a$
 
-Age of Emily’s aunt Ingrid $= 4a$
+Ingrid's age $= 4a$
 
 As per the question,
 
@@ -604,18 +607,18 @@ a + 4a &= 60 \\\\
 a      &= \dfrac {60} {5} \\\\
 a      &= \dfrac {12 \times 5} {5} \\\\
 a      &= \dfrac {12 \times \cancel {5}} {\cancel {5}} \\\\
-a      &= 12
+a      &= 12 \ \text{years}
 \end{aligned}
 $
 
-Emily is $12$ years old.
+Emily's age $= 12 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$12 \ \text{years}$
 
 </div>
 </div>
@@ -638,33 +641,33 @@ How old is Sara?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Sara $= a$.
+Let Sara's age $= a$.
 
 Sanjay's age $= a - 2$.
 
-Sasha's age $= a - 2 - 5 = a - 7$.
+Sasha's age $= a - 2 - 5$
 
 As per the question,
 
 $
 \begin{aligned}
-a - 2 + a - 7 &= 31 \\\\
-2a - 9        &= 31 \\\\
-2a            &= 31 + 9 \\\\
-2a            &= 40 \\\\
-a             &= \dfrac {40} {2} \\\\
-a             &= 20
+a - 2 + a - 2 -5  &= 31 \\\\
+2a - 9            &= 31 \\\\
+2a                &= 31 + 9 \\\\
+2a                &= 40 \\\\
+a                 &= \dfrac {40} {2} \\\\
+a                 &= 20 \ \text{years}
 \end{aligned}
 $
 
-Sara is $20$ years old.
+Sara's age $= 20 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$20 \ \text{years}$
 
 </div>
 </div>

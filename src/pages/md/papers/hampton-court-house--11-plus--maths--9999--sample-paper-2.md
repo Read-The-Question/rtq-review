@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2576,12 +2576,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$54 \ \text {cm}$
+Perimeter $=$ $54 \ \text {cm}$
 
 </div>
 <div class='answer'>
 
-$108 \ \text {cm} ^ 2$
+Area $=$ $108 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -2649,12 +2649,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$46 \ \text {cm}$
+Perimeter $=$ $46 \ \text {cm}$
 
 </div>
 <div class='answer'>
 
-$108 \ \text {cm} ^ 2$
+Area $=$ $108 \ \text {cm} ^ 2$
 
 </div>
 </div>

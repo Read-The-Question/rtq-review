@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-oldpr"
 title: "TopicPaper - Simpleword - 4 - OLDPR"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <ul class='question default-decimal'>
 <li>

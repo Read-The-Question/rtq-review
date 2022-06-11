@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-4"
 title: "TopicPaper - Algebra - 4"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1306,17 +1306,17 @@ Amrit gets $9 \times 1 = 9$ sweets.
 <div class='answers'>
 <div class='answer'>
 
-$9$
+Amrit $=$ $9$
 
 </div>
 <div class='answer'>
 
-$3$
+Brenda $=$ $3$
 
 </div>
 <div class='answer'>
 
-$1$
+Clare $=$ $1$
 
 </div>
 </div>

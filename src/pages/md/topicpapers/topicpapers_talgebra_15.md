@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-15"
 title: "TopicPaper - Algebra - 15"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4098,7 +4098,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$250  \ \text{cm}$
+\text{Largest piece} $=$ $250  \ \text{cm}$
 
 </div>
 </div>

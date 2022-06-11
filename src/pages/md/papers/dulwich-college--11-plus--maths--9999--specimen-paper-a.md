@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2438,19 +2438,19 @@ $
 \begin{aligned}
 a + 4     &= 2(a - 4) \\\\
 a + 4     &= 2a - 8 \\\\
-2a - a    &= 8 + 4 \\\\ 
-a         &= 12 \\\\ 
+2a - a    &= 8 + 4 \\\\
+a         &= 12 \ \text{years}\\\\
 \end{aligned}
 $
 
-Sam's current age $=12$
+Sam's current age $=12 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$12$
+$12 \ \text{years}$
 
 </div>
 </div>

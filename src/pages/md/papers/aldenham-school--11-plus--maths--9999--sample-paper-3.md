@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -762,6 +762,8 @@ If Tom is half his mum’s age and together their ages add up to $72$, how old i
 
 Let Tom's age $= a$
 
+Tom's mum’s age $=2a$
+
 As per the question,
 
 $
@@ -771,18 +773,18 @@ a + 2a                     &= 72 \\\\
 a                          &= \dfrac {72} {3} \\\\
 a                          &= \dfrac {24 \times 3} {3} \\\\
 a                          &= \dfrac {24 \times \cancel{3}} {\cancel{3}} \\\\
-a                          &= 24
+a                          &= 24 \ \text{years}
 \end {aligned}
 $
 
-Tom's age $= 24$.
+Tom's age $= 24 \ \text{years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$24$
+$24 \ \text{years}$
 
 </div>
 </div>

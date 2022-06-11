@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2214,17 +2214,17 @@ Amrit gets $9 \times 1 = 9$ sweets.
 <div class='answers'>
 <div class='answer'>
 
-$9$
+Amrit $=$ $9$
 
 </div>
 <div class='answer'>
 
-$3$
+Brenda $=$ $3$
 
 </div>
 <div class='answer'>
 
-$1$
+Clare $=$ $1$
 
 </div>
 </div>

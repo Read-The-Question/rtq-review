@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "TopicPaper - Areaperimeter - 3"
-date: 2022-06-11 18:07:21
+date: 2022-06-11 20:31:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1307,12 +1307,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$54 \ \text {cm}$
+Perimeter $=$ $54 \ \text {cm}$
 
 </div>
 <div class='answer'>
 
-$108 \ \text {cm} ^ 2$
+Area $=$ $108 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -1380,12 +1380,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$46 \ \text {cm}$
+Perimeter $=$ $46 \ \text {cm}$
 
 </div>
 <div class='answer'>
 
-$108 \ \text {cm} ^ 2$
+Area $=$ $108 \ \text {cm} ^ 2$
 
 </div>
 </div>
@@ -1660,7 +1660,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$123 \ \text {m} ^ 2$
+The area of the lawn is $=$ $123 \ \text {m} ^ 2$
 
 </div>
 </div>
@@ -1703,7 +1703,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 20.40$
+Mr Green spends $=$ $\pounds 20.40$
 
 </div>
 </div>
@@ -1755,7 +1755,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$240$
+The number of paving stones needed is $=$ $240$
 
 </div>
 </div>
@@ -1812,7 +1812,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 360$
+The total cost is $=$ $\pounds 360$
 
 </div>
 </div>

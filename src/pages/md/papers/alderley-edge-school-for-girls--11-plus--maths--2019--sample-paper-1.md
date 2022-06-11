@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-11 18:04:39
+date: 2022-06-11 20:28:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1043,7 +1043,7 @@ a trapezium
 <div class='answers'>
 <div class='answer'>
 
-$\text{a trapezium}$
+A $=$ $\text{a trapezium}$
 
 </div>
 </div>
@@ -1580,7 +1580,7 @@ $4$
 <div class='answers'>
 <div class='answer'>
 
-$4$
+C $=$ $4$
 
 </div>
 <div class='answer'>

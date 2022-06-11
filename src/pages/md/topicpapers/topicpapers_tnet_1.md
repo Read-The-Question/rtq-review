@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-06-10 15:24:37
+date: 2022-06-11 08:33:54
 ---
 <div class='paper'>
 <div class='meta'>

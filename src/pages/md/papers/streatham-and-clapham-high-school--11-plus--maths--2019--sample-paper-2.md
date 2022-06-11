@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-10 15:21:55
+date: 2022-06-11 08:31:06
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-06-11 08:31:06
+date: 2022-06-11 10:07:00
 ---
 <div class='paper'>
 <div class='meta'>

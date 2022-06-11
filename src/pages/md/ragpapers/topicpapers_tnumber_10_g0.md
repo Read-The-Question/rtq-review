@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-g0"
 title: "TopicPaper - Number - 10 - G0"
-date: 2022-06-11 08:33:54
+date: 2022-06-11 10:09:45
 ---
 <ul class='question default-decimal'>
 <li>

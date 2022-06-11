@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-3"
 title: "TopicPaper - Infer - 3"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,1094 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>1E9F03BA-7298-4606-953B-9C6149610C9A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the triangles shown below each number is the sum of the two numbers directly underneath it. 
+For example, $26 = 12 + 14$ and $5 = 1 + 4$.
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the triangle of numbers:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Complete the triangle of numbers:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>CC1826DB-EA13-490B-A322-57640558FD22</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ten runners, numbered $5$ to $14$ inclusive, take part in a race. There were no tied positions.
+
+Winston watched the race but forgot to write down the positions of the runners. Fortunately Winston is a mathematician and he remembered one fact about the number of each competitor. List all possible numbers of the competitors in the spaces below. Hence complete the table showing the final positions in the race.
+
+-  $1 \text{st}$ Prime number
+-  $2 \text{nd}$ Factor of $24$
+-  $3 \text{rd}$ Cube number
+-  $4 \text{th}$ Multiple of $5$
+-  $5 \text{th}$ Factor of $187$
+-  $6 \text{th}$ Two-digit even number in which the first digit is smaller than the second
+-  $7 \text{th}$ Two-digit number in which both digits are square numbers 
+-  $8 \text{th}$ Number which has exactly four factors
+-  $9 \text{th}$ A square number
+-  $10 \text{th}$ A number which is greater than $10$
+
+![missing table](/papers/missing_table.svg)
+
+
+Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>37C4C1C3-5248-4DBC-B3C2-4232E8337CE6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Freddie writes down all whole numbers between 1 and 1000 inclusive:
+
+$1, 2, 3, 4, \ldots, 9, 10, 11, 12, 13, \ldots,99, 100, 101, 102, 103, \ldots, 999, 1000$.
+
+How many individual digits does he write down?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C879CF61-B2A9-4CA6-B2AF-A48ACAE5D01E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two shapes are said to be **similar** if one is an exact enlargement of the other. 
+For example, triangles $A$ and $B$ are similar because the width of $B$ is $1.5$ times the width of $A$, and the height of $B$ 
+is also $1.5$ times the height of $A$.
+
+On the other hand, triangles $A$ and $C$ are not similar because the width of $C$ is three times that of $A$ but the height of $C$ 
+is only twice that of $A$.
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+Which two rectangles in the list below are similar? 
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>36C75B5F-BB13-4FEA-9598-8E6F7DA4161C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If it is a cold rainy day then I wear a raincoat. If it is a warm rainy day then I carry an umbrella. 
+If I wear my raincoat then I also wear either gloves or a hat but not both. 
+If I carry an umbrella I always wear gloves and sometimes wear my hat as well. 
+I never carry an umbrella and wear my raincoat on the same day. 
+For each of the following, state whether it is definitely true, false or uncertain.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a warm rainy day. I wear my raincoat and a hat.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a warm rainy day. I carry my umbrella and wear a hat but no gloves.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+It is a cold rainy day. I wear my raincoat, hat and no gloves.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>BD641DBE-5C22-47AF-A25A-9ED62232148A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each number puzzle below, the numbers along each side of the shape add up to the seme total.
+
+For example, in this number square each side adds to $12$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In this number triangle, the numbers $1, 2, 3, 4, 5$ and $6$ are used once each.
+
+Complete the triangle so that the numbers along each side add up to $9$
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In this number pentagon, the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$ are used once each.
+
+Complete the pentagon so that the numbers along each side add up to $14$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>744963C1-F8DB-4582-94F4-AEB54852B642</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sarah spilt juice all over her calculator. 
+Now only the five buttons shown work, as well as the equals and clear buttons.
+
+is the clear button
+is the equals button. 
+
+The other working buttons are:
+
+![missing image](/papers/missing_image.svg)
+
+
+Buttons can be used as many times as you like.
+
+Starting with the clear button, show how to use five more buttons to make the answer shown. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+\boxed{\text{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+= 45
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 6 \times 8 - 3 \\\\
+&= 48 - 3 \\\\
+&= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, \ \times , \ 8, \ - , \ 3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+\boxed{\text{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+= 1
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$
+\boxed{\text{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+\boxed{\phantom{C}} \
+= 32
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>EF772DB8-181A-467F-884A-3382460EC096</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This is a loose sheet from a newspaper with $64$ pages. What is the missing page number?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B47A2C17-B027-4202-BD09-DE9352D0DDD5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In each diagram the numbers in any two circles add up to the 
+number in the square in between them. A completed example is given 
+in the diagram on the left. Complete the diagram on the right.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the following pattern, you can only move from a letter to a 
+letter immediately below it but slightly to the side in the next line.
+
+![missing image](/papers/missing_image.svg)
+
+
+One route from $L$ to $W$ is $LMOSW$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a route from $L$ to $Y$ that goes through $Q$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {LNQUY}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {LNQUY}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down all the possible routes from $L$ to $W$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many possible routes are there from $L$ to $X$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$6$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' id='FORM-4049C025-C8E3-420D-90F0-FEE76BCC81C5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4049C025-C8E3-420D-90F0-FEE76BCC81C5'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
@@ -4286,6 +5374,523 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>AA02C779-6E49-4D2F-8D65-2EDC86AD2B21</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sequence of rectangles is drawn and the first three rectangles are as follows, with their length and width shown in each case.
+
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
+
+The perimeters and areas of each rectangle are noted in the table below.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw small sketches of the **next two** rectangles, marking the length and width on each sketch. 
+Write the perimeter and area of each rectangle in the answer boxes. 
+(Note: Your sketches do not need to be drawn to scale as they **will not** be marked for accuracy.)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What rectangle number has a perimeter of $162$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the area of rectangle number $30$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C686FBF3-62A1-494A-BEBF-D04AC95F61EC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ger puts a cube against the floor and the walls in the corner of his room, as in diagram $1$, then paints the faces that he can see.
+**He therefore paints three faces**.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the second corner he puts four cubes in a square on the floor in the corner and then puts one cube on top in the corner too as 
+shown in diagram $2$. If he paints all the faces he can see now, how many faces does he paint on the cubes in this corner?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the third corner he puts nine cubes in a square on the floor in the corner and then puts four cubes on top of the nine and then finally puts one cube on top of the four cubes. If he paints all the faces he can see here, how many faces does he paint on the cubes in this corner?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In the last corner he starts with $16$ cubes in a square on the floor in the corner and then puts nine cubes on top and then 
+four on top of those and finally one on top of the four in the corner. If he paints all the faces he can see now, 
+how many faces does he paint on the cubes in this last corner?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-b:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='uuid'>
+<p>D9AB702D-8938-485D-92AD-A2B07C1AFB23</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On the planet Zorgon, the natives have a special sort of arithmetic using the symbol ![missing image](/papers/missing_image.svg)
+ 
+
+$3$ ![missing image](/papers/missing_image.svg)
+ $4$ means add $3$ and $4$ and then add on the product of $3$ and $4$, so
+
+$3$ ![missing image](/papers/missing_image.svg)
+  $4$ = $3 + 4 + (3 \times 4) = 19$
+
+And similarly, $2$ ![missing image](/papers/missing_image.svg)
+  $6 = 2 + 6 + (2 \times 6) = 20$ 
+
+Find the values of
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$5$ ![missing image](/papers/missing_image.svg)
+  $7$ = $5 + 7 + (5 \times 7) = 47$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$0$ ![missing image](/papers/missing_image.svg)
+  $9$ = $0 + 9 + (0 \times 9) = 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If $χ$ ![missing image](/papers/missing_image.svg)
+  $2 + 23$ find the value of $χ$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+χ ![missing image](/papers/missing_image.svg)
+  2            &= 23 \\\\
+χ + 2 + (χ \times 2)    &= 23 \\\\
+χ + 2 + 2χ              &= 23 \\\\
+3χ + 2                  &= 23 \\\\
+3χ                      &= 23 - 2 \\\\
+3χ                      &= 21 \\\\
+χ                       &= \dfrac {21} {3} \\\\
+χ                       &= \dfrac {3 \times 7} {3} \\\\
+χ                       &= \dfrac {\cancel {3} \times 7} {\cancel {3}} \\\\
+χ                       &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$χ = 7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

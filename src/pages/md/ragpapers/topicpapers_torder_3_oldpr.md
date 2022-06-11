@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-oldpr"
 title: "TopicPaper - Order - 3 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -295,6 +295,83 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+torder
+</li>
+<li>
+tnoexplanation
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the number that will be in the middle when the numbers below are written in size order.
+
+$0.63 \quad 0.06 \quad 0.4 \quad 0.603 \quad 0.64$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's first arrange the sequence in ascending order.
+
+$0.06, \quad 0.4 \quad 0.603 \quad 0.63  \quad 0.64$
+
+Hence, it can be observed that $0.603$ is in the middle while arranged in ascending order.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.603$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' id='FORM-1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

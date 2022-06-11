@@ -1,9 +1,954 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Mr Howden is landscaping his garden, the shape of which is illustrated below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the total perimeter of the garden.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Perimeter of the Garden}  &= \text {Sum of all sides} \\\\
+                                 &= 5 \ \text {m} + (12 - 7) \ \text {m} + (9 - 5) \ \text {m} + 12 \ \text {m} + 9 \ \text {m} + 7 \ \text {m} \\\\
+                                 &= 5 + 5 + 4 + 12 + 9 + 7 \\\\
+                                 &= 42 \ \text {m}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$42 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the total area of the garden. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+On decomposing the shape of the garden, we find  2 regular rectangles.
+
+Area of a rectangle $= $ length $\times$ width.
+
+$
+\begin {aligned}
+\text {Area of the garden}  &= \text {Area of the first rectangle} + \text {Area of the second rectangle} \\\\
+                            &= (7 \ \text {m} \times 5 \ \text {m}) + (12 \ \text {m} \times (9 - 5) \ \text {m}) \\\\
+                            &= (7 \times 5) + (12 \times 4) \\\\
+                            &= 35 + 48 \\\\
+                            &= 83 \ \text {m} ^ 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$83 \ \text {m} ^ 2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' id='FORM-42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42954A1C-6B9E-44EB-8DE6-AF6D5A8B69A3'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>408B312B-6431-4F80-A288-66DBFDD7A7F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the perimeter of this rectangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
+                                  &= 2 \times (3.6 \ \text {cm} + 6.1 \ \text {cm}) \\\\
+                                  &= 2 \times 9.7 \\\\
+                                  &= 19.4 \ \text {cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19.4 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='408B312B-6431-4F80-A288-66DBFDD7A7F3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='408B312B-6431-4F80-A288-66DBFDD7A7F3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='408B312B-6431-4F80-A288-66DBFDD7A7F3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='408B312B-6431-4F80-A288-66DBFDD7A7F3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='408B312B-6431-4F80-A288-66DBFDD7A7F3' id='FORM-408B312B-6431-4F80-A288-66DBFDD7A7F3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-408B312B-6431-4F80-A288-66DBFDD7A7F3'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>BF1E2A8F-F5C7-4634-912A-F66697436636</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the area of this right-angled triangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Area of a triangle}  &= \dfrac {\text {base} \times \text {height}} {2} \\\\
+                            &= \dfrac {8 \ \text {cm} \times 4.5 \ \text {cm}} {2} \\\\
+                            &= \dfrac {2 \times 4 \times 4.5} {2} \\\\
+                            &= \dfrac {\cancel {2} \times 4 \times 4.5} {\cancel {2}} \\\\
+                            &= 4 \times 4.5 \\\\
+                            &= 18 \ \text {cm} ^ 2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BF1E2A8F-F5C7-4634-912A-F66697436636' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BF1E2A8F-F5C7-4634-912A-F66697436636' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BF1E2A8F-F5C7-4634-912A-F66697436636' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='BF1E2A8F-F5C7-4634-912A-F66697436636' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='BF1E2A8F-F5C7-4634-912A-F66697436636' id='FORM-BF1E2A8F-F5C7-4634-912A-F66697436636' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BF1E2A8F-F5C7-4634-912A-F66697436636'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of wire $42 \ \text{cm}$ long is bent into the shape of a rectangle. If the rectangle is twice as long as it is wide, what is its area?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The length of the rectangle is twice its width.
+
+Let the width of the rectangle $= w$.
+
+$
+\begin {aligned}
+\text {Perimeter}                          &= \text {Total length of the wire} \\\\
+2 \times (\text {length} + \text {width})  &= 42 \ \text {cm} \\\\
+2 \times (2w + w)                          &= 42 \\\\
+2 \times 3w                                &= 42 \\\\
+6w                                         &= 42 \\\\
+w                                          &= \dfrac {42} {6} \\\\
+w                                          &= \dfrac {7 \times 6} {6} \\\\
+w                                          &= \dfrac {7 \times \cancel {6}} {\cancel {6}} \\\\
+w                                          &= 7 \ \text {cm} \\\\
+\text {Area of a rectangle}                &= \text {length} \times \text {width} \\\\
+                                           &= (2 \times 7) \times 7 \\\\
+                                           &= 14 \times 7 \\\\
+                                           &= 98 \ \text {cm} ^ 2
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$98 \ \text {cm} ^ 2$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' id='FORM-AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AC6EBE4A-8D1B-4267-BD03-E8044D4BB3DC'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>527152F8-094F-4AFE-A50B-4595C903532F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question the shapes are NOT drawn to scale. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter (the total length around the outside of the shape) of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter of a rectangle} = 2 \times (\text{length} + \text{width})$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Perimeter}    &= 2 \times (14 + 9) \\\\
+&= 2 \times 23 \\\\
+&= 46 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$46 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Area of a rectangle} = \text{length} \times \text{width}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area}     &= 12 \times 8 \\\\
+&= 96 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$96 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A square has a perimeter of $36 \ \text{cm}$. Find its area.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter of a square} = 4 \times \text{Side}$
+
+As per the question,
+
+$
+\begin{aligned}
+4 \times \text{Side}  &= 36 \ \text{cm} \\\\
+Side           &= \dfrac{36}{4} \ \text{cm} \\\\
+Side           &= \dfrac{4 \times 9}{4} \\\\
+Side           &= \dfrac{\cancel{4} \times 9}{\cancel{4}} \\\\
+Side           &= 9 \ \text{cm}
+\end{aligned}
+$
+
+
+$
+\begin{aligned}
+\text{Area of a square} &= \text{Side}^2 \\\\
+&= 9^2 \\\\
+&= 81 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$81 \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='527152F8-094F-4AFE-A50B-4595C903532F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='527152F8-094F-4AFE-A50B-4595C903532F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='527152F8-094F-4AFE-A50B-4595C903532F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='527152F8-094F-4AFE-A50B-4595C903532F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='527152F8-094F-4AFE-A50B-4595C903532F' id='FORM-527152F8-094F-4AFE-A50B-4595C903532F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-527152F8-094F-4AFE-A50B-4595C903532F'>Initial</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>8E4B5715-53BB-42A4-9945-FBB59D2C6806</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this question the shapes are NOT drawn to scale. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the perimeter (the total length around the outside of the shape) of the rectangle below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+As per the question,
+
+$
+\begin{aligned}
+&= 2 \times (22 + 9) \\\\
+&= 2 \times 31 \\\\
+&= 62 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$62 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The perimeter of the rectangle below is $120 \ \text{cm}$. Find its *area*.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the length of the rectangle $= t \text{cm}$
+
+$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+
+$
+\begin{aligned}
+120                                         &= 2 \times (25 + t) \\\\
+2 \times (25 + t)                           &= 120 \\\\
+25 + t                                      &= \dfrac{120}{2} \\\\
+25 + t                                      &= \dfrac{60 \times 2}{2} \\\\
+25 + t                                      &= \dfrac{60 \times \cancel{2}}{\cancel{2}} \\\\
+25 + t                                      &= 60 \\\\
+t                                           &= 60 - 25 \\\\
+t                                           &= 35 \ \text{cm}
+\text{width}                                &= 35 \ \text{cm}
+\end{aligned}
+$
+
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+$
+\begin{aligned}
+&= 25 \times 35 \\\\
+&= 875 \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the *area* of the shape below:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of shape}            &= \text{Area of rectangle L} + \text{Area of rectangle R} \\\\
+                                &= \text{length1} \times \text{width1} + \text{length2} \times \text{width2} \\\\
+                                &= (17 - 6) \times 8 + 6 \times 11 \\\\
+                                &= 11 \times 8 + 6 \times 11 \\\\
+                                &= 88 + 66 \\\\
+                                &= 154 \ \text{cm}^2
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$154 \ \text{cm}^2$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The square below has an area of $169 \ \text{cm}^2$. Find its perimeter.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side of square = $a \ \text{cm}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{side} \times \text{side}         &= \text{Area} \\\\
+a \times a          &= 169 \\\\
+a \times a          &= 13 \times 13 \\\\
+a                   &= 13 \ \text{cm}
+\end{aligned}
+$
+
+Let's find the perimeter of the square.
+
+$
+\begin{aligned}
+\text{Perimeter}        &= 4 \times \text{side} \\\\
+                        &= 4 \times a \\\\
+                        &= 4 \times 13 \\\\
+                        &= 52 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$52 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8E4B5715-53BB-42A4-9945-FBB59D2C6806' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8E4B5715-53BB-42A4-9945-FBB59D2C6806' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8E4B5715-53BB-42A4-9945-FBB59D2C6806' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='8E4B5715-53BB-42A4-9945-FBB59D2C6806' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8E4B5715-53BB-42A4-9945-FBB59D2C6806' id='FORM-8E4B5715-53BB-42A4-9945-FBB59D2C6806' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8E4B5715-53BB-42A4-9945-FBB59D2C6806'>Initial</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>196B7FB7-BE4D-4577-B993-353DAB477794</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+tunitprompt
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $20 \ \text{cm}$ by $30 \ \text{cm}$ carpet tiles are needed to cover a $5 \ \text{m}$ by $6 \ \text{m}$ rectangular floor? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The Floor measurement is given in metres while the tile measurement is given in cm.
+
+Let's convert the wall measurements into $\text{cm}$.
+
+$\text{Area} = \text{length} \times \text{width}$
+
+
+$
+\begin{aligned}
+\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+                        &= \dfrac {5 \ \text{m} \times 6 \ \text{m} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
+                        &= \dfrac {5 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm} } { 20 \ \text{cm} \times 30 \ \text{cm} } \\\\
+                        &= \dfrac {5 \times 100 \times 6 \times 100 } { 20  \times 30 } \\\\
+                        &= \dfrac {5 \times 100 \times 2 \times 3 \times 10 \times 10 } { 2 \times 10  \times 3 \times 10 } \\\\
+                        &= \dfrac {500 \times \cancel{2} \times cancel{3} \times {100}} {\cancel{2} \cancel{10} \times \cancel{3} \times \cancel{10}} \\\\
+                        &= 500
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$500$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='196B7FB7-BE4D-4577-B993-353DAB477794' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='196B7FB7-BE4D-4577-B993-353DAB477794' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='196B7FB7-BE4D-4577-B993-353DAB477794' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='196B7FB7-BE4D-4577-B993-353DAB477794' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='196B7FB7-BE4D-4577-B993-353DAB477794' id='FORM-196B7FB7-BE4D-4577-B993-353DAB477794' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-196B7FB7-BE4D-4577-B993-353DAB477794'>Initial</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
@@ -618,6 +1563,97 @@ $28$
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
+<p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A roll of wallpaper is $10 \ \text{m}$ long and $0.6 \ \text{m}$ wide. How many rolls of 
+wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide?
+
+- $5$
+- $4$
+- $7$
+- $10$
+- $11$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
+&=  8 \times 3 \\\\
+&=  24 \ \text{m}^2 \\\\
+\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
+&=10 \times 0.6 \\\\
+&=  6 \ \text{m}^2 \\\\
+\text{Number of sheets required} \\\\
+&=  \dfrac{24}{6} \\\\
+&=  \dfrac{4 \times 6}{6} \\\\
+&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
+&= 4 \ \text{sheets}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' id='FORM-9A5410BD-3EE5-409F-8688-DA50768205F0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9A5410BD-3EE5-409F-8688-DA50768205F0'>Initial</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
 <p>A2279230-AADE-4793-B27A-4810B6805DE7</p>
 </div>
 <div class='topics'>
@@ -1168,216 +2204,6 @@ $80 \ \text{cm}$
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>AA6E0084-63AD-4E84-B181-6CAB6581076E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The area of the shaded inner square.
-
-- $16 \ \text{cm}^2$
-- $64 \ \text{cm}^2$  
-- $32 \ \text{cm}^2$   
-- $48 \ \text{cm}^2$  
-- $20 \ \text{cm}^2$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Area of the shaded inner square} &= \text{side} \times \text{side} \\\\
-                                       &= 8 \times 8 \\\\
-                                       &= 64 \ \text{cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>G</p>
-</div>
-<div class='answer'>
-
-$64 \ \text{cm}^2$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='AA6E0084-63AD-4E84-B181-6CAB6581076E' id='FORM-AA6E0084-63AD-4E84-B181-6CAB6581076E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AA6E0084-63AD-4E84-B181-6CAB6581076E'>Initial</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>C3229D2F-CF27-4E5A-A8CC-334AD15D2A96</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the area of a square with a perimeter of $36 \ \text{cm}$.
-
-Find the perimeter of a square with an area of $121 \ \text{cm}^2$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-First part of the question,
-
-Let's calculate the length of each side of square.
-
-$
-\begin{aligned}
-4 \times \text {Side}  &= \text {Perimeter} \\\\
-4 \times \text {Side}  &= 36 \text {cm} \\\\
-\text {Side}           &= \dfrac {36} {4} \\\\
-\text {Side}           &= \dfrac {9 \times 4} {4} \\\\
-\text {Side}           &= \dfrac {9 \times \cancel{4}} {\cancel{4}} \\\\
-\text {Side}           &= 9 \text { cm}
-\end{aligned}
-$
-
-Now, Let's calculate Area of square of side $9$ cm.
-
-$
-\begin{aligned}
-\text {Area} &= \text {Side} \times \text { Side} \\\\
-             &= 9 \text { cm} \times 9 \text { cm} \\\\
-\text {Area} &= 81 \text { cm}^2
-\end{aligned}
-$
-
-Second part of the question,
-
-Let's calculate the length of each side of square.
-
-$
-\begin{aligned}
-\text {Side} \times \text { Side} &= \text {Area} \\\\
-\text {Side} \times \text { Side} &= 121 \text {cm}^2 \\\\
-\text {Side}^2                    &= 121 \text {cm}^2 \\\\
-\text {Side}                      &= \sqrt{121 \text {cm}^2} \\\\
-\text {Side}                      &= \sqrt{11 \text { cm} \times 11 \text { cm}} \\\\
-\text {Side}                      &= 11 \text { cm}
-\end{aligned}
-$
-
-Now, Let's calculate Perimeter of square of side $11$ cm.
-
-$
-\begin{aligned}
-\text {Perimeter}      &= \text {Side} \times 4 \\\\
-                       &= 11 \text { cm} \times 4 \\\\
-\text {Perimeter}      &= 44 \text { cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$81 \text { cm}^2 $
-
-</div>
-<div class='answer'>
-
-$44 \text { cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' id='FORM-C3229D2F-CF27-4E5A-A8CC-334AD15D2A96' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C3229D2F-CF27-4E5A-A8CC-334AD15D2A96'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

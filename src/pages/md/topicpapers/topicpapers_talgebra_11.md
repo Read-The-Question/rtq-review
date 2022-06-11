@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,547 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Winston thinks of two different whole numbers that add together to make $20$ and multiply to give $84$. What are his two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the numbers Winston thinks $= a,b$
+
+As per the question,
+
+$a \times b = 84$
+
+$a + b = 20$
+
+We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
+
+- Both the numbers should be smaller than $20$
+- The product of the $2$ numbers is $84$ 
+- The sum of the $2$ numbers is $20$.
+
+Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
+
+Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
+
+| Factors   |  Sum  | Numbers $< 20$    |
+|:-------:  |:----: |:---------------:  |
+| $6, 14$   | $20$  |       Yes         |
+| $7, 12$   | $19$  |       Yes         |
+
+A quick check shows that $6$ and $14$ meets all the criteria above.
+
+*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*
+
+The two numbers which Winston thinks $= 6,14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6,14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The result is $66$. What was his original number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the new number he thought of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 9 - 15     &= 66 \\\\
+a \times 9          &= 66 + 15 \\\\
+a \times 9          &= 81 \\\\
+a                   &= \dfrac {81} {9} \\\\
+a                   &= \dfrac {9 \times 9} {9} \\\\
+a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
+a                   &= 9
+\end{aligned}
+$
+
+The new number he thought $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' id='FORM-CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CC0F7948-FB93-4B7D-B62E-499490AD2FB6'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $3$ moos in a quack and $13$ quacks in an oink.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many moos are there in $3$ quacks and $1$ oink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= \text{Moos in 3 quacks} + \text{Moos in 1 oink} \\\\
+&= 3 \times 3 + 1 \times 13 \ \text{quacks} \\\\
+&= 9 + 1 \times 13 \times 3 \\\\
+&= 9 + 39 \\\\
+&= 48 \ \text{Moos}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48 \ \text{Moos}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What fraction of an oink does $9$ moos represent?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Fraction of oink} &= \dfrac{\text{Number of moos Given}} {\text{Total number of moos}} \\\\
+                        &= \dfrac{9}{13 \times 3} \\\\
+                        &= \dfrac{3 \times 3}{13 \times 3} \\\\
+                        &= \dfrac{3 \times \cancel{3}}{13 \times \cancel{3}} \\\\
+                        &= \dfrac{3}{13}
+\end{aligned}
+$
+
+Fraction of 9 moos of an oink $=\dfrac{3}{13}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{13}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$800$ moos are sorted into piles $2$ oinks high. How many complete piles will there be and how many moos and quacks will be left over?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total number of piles}    &= \dfrac{\text{Total number of Moos}}{\text{Number of moos per pile}} \\\\
+                                &= \dfrac{800}{2 \times 13 \times 3} \\\\
+                                &= \dfrac{2 \times 400}{2 \times 13 \times 3} \\\\
+                                &= \dfrac{\cancel{2} \times 400}{\cancel{2} \times 13 \times 3} \\\\
+                                &= \dfrac{400}{39} \\\\
+                                &= 10 \dfrac{10}{39} \\\\
+                                &= 10 \ \text{piles} + 10 \ \text{Moos} \\\\
+\text{Total number of piles}    &= 10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>21351831-A19D-4760-A527-66A717B27407</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The instruction `$a  b$' means multiply $a$ by $b$, then add on $a$. For example: 
+
+$5  2 = 5 \times 2 + 5 = 10 + 5 = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the value of 
+
+$4  3 =$
+
+$4  0 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the value of $b$ if $3  b = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+TODOSUBQUESTION
+What is the value of $a$ if $a  a = 20$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(a  b)  c$ means work out $(a  b)$ first and then work out "your answer" $c$.
+
+For example: 
+
+$(5  2)  3$ means do $5  2 = 5 \times 2 + 5 = 15$ first, then work out
+$15  3 = 15 \times 3 + 15 = 45 + 15 = 60 $
+
+Work out $(2  3)  4 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -2511,6 +3052,71 @@ $900$
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>80925746-893F-4F01-BA51-BF11E12AEDBE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+ 
+
+A train display shows letters by lighting cells in a grid, such as the letter ‘o’ shown. 
+A letter is made **bold** by also lighting any unlit cell immediately to the 
+right of one in the normal letter. How many cells are lit in a **bold** ‘o’?
+
+![missing image](/papers/missing_image.svg)
+
+
+- $22$
+- $24$
+- $26$
+- $28$
+- $30$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>F76B40C9-E94E-4682-9F9E-D4DDAFE42591</p>
 </div>
 <div class='topics'>
@@ -3670,333 +4276,6 @@ $\pounds 7,\pounds 1,\pounds 1$
 </div>
 <div class='papername'>
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a Maths test Freddie gets $37$ more marks than George. If Freddie gets $61$, what mark does George get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let George's marks $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a + 37      & = 61 \\\\
-a           & = 61 - 37 \\\\
-a           & = 24
-\end{aligned}
-$
-
-Marks George got $= 24$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' id='FORM-226E8E2D-19C1-4607-A921-E9F025A6322B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-226E8E2D-19C1-4607-A921-E9F025A6322B'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I think of a number, double it, take the answer away from $41$, and I am left with $3$. What number did I think of?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number = $a$
-
-As per the question,
-
-$
-\begin{aligned}
-41 - 2a     &= 3 \\\\
-2a          & = 41 - 3 \\\\
-2a          & = 38 \\\\
-a           & = \dfrac {38} {2} \\\\
-a           & = \dfrac {19 \times 2} {2} \\\\
-a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
-a           & = 19
-\end{aligned}
-$
-
-The number I thought was $19$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' id='FORM-DACF41B7-F660-4A37-8522-2D3B2583F3CA' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DACF41B7-F660-4A37-8522-2D3B2583F3CA'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>4F9F9262-A677-46E7-BF67-C0017CAB35B7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A large crate holds twelve cartons of milk whereas a small crate holds only four cartons. 
-I have five large crates and twenty small crates available. 
-What is the smallest number of crates in total that I could use to store $110$ cartons of milk?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-A large crate = 12 cartons of milk
-
-A small crate = 4 cartons of milk
-
-Available crates = 5 large + 20 small
-
-Total milk cartons = 110
-
-To have smallest crate count, we need to use maximum available large crates i.e., $5$ crates first and 
-then calculate the number of smaller crates needed for the rest of the milk cartons. 
-
-Let's take the count of small crates as = $s$
-
-$(5 \ \text {crates} \times 12 \ \text {cartons}) + ( s \times 4) = 110 \ \text {cartons}$ 
-
-$
-\begin{aligned}
-60  + s \times 4 & = 110 \\\\
-4s               & = 110 - 60 \\\\
-4s               & = 50 \\\\
-s                & = \dfrac {48 + 2} {4} \\\\
-s                & = \dfrac {48} {4} + \dfrac {2} {4} \\\\
-s                & = \dfrac {12 \times 4} {4} + \dfrac {2} {2 \times 2} \\\\
-s                & = \dfrac {12 \times \cancel 4} {\cancel {4}} + \dfrac {\cancel {2}} {2 \times \cancel {2}} \\\\
-s                & = 12 + \dfrac {1}{2} \\\\
-s                & = 12 + \dfrac {1} {2} \ \text {crates}
-\end{aligned}
-$
-
-We have to use a full crate so $\dfrac {1} {2}$ crate $=  1$ extra crate.
-
-$12 + 1 \ \text {crates} = 13 \$ crates
-
-Let's find the smallest number of crates in total to store $110$ cartons of milk.
-
-$5$ large crates $+ 13$ small crates $= 18$ crates
-
-The smallest number of crates needed in total to store $110$ cartons of milk $= 18$ crates.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$18$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ravi has two sisters, Harsha and Harpreet. He likes to share out his sweets unfairly. 
-One day he gives Harsha twice as many as he gives himself, and he gives Harpreet half 
-as many as he gives himself. 
-If there are $42$ sweets in total how many does Ravi get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the count of sweets Ravi has = $a$. 
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
-2a + \dfrac {a} {2} + a                            &= 42 \\\\
-3a + \dfrac {a} {2}                                &= 42 \\\\
-\dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
-\dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
-\dfrac {6a + a} {2}                                &= 42 \\\\
-\dfrac {7a} {2}                                    &= 42 \\\\
-7a                                                 &= 42 \times 2 \\\\
-a                                                  &= \dfrac {42 \times 2} {7} \\\\
-a                                                  &= \dfrac {\cancel 7 \times 6 \times 2} {\cancel 7} \\\\
-a                                                  &= 6 \times 2 \\\\
-a                                                  &= 12
-\end{aligned}
-$
-
-Total number of sweets Ravi got $= 12$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' id='FORM-7F32C156-E6CA-40AB-9A96-8977312C93E4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7F32C156-E6CA-40AB-9A96-8977312C93E4'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

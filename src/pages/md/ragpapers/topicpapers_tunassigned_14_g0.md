@@ -1,13 +1,13 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-14-g0"
 title: "TopicPaper - Unassigned - 14 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>6982898E-1D09-4D16-AF1F-A1690147F770</p>
+<p>75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6</p>
 </div>
 <div class='topics'>
 <ul>
@@ -15,265 +15,20 @@ date: 2022-06-11 10:09:45
 tunassigned
 </li>
 <li>
-tunitprompt
+tpercentage
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many centimetres are there in five kilometres?
-
-![missing image](/papers/missing_image.svg)
+What is $0.78$ as a percentage? 
 
 
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5 \ \text{kilometres}
-&= 5 \times 100000 \ \text {cm}\\\\
-&= 500000 \ \text {cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$500000 \ \text {cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many times does two hundred go into one million?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {1000000} {200} \\\\
-&= \dfrac {5000 \times 200} {200} \\\\
-&= \dfrac {5000 \times \cancel{200} } {\cancel{200} } \\\\
-&= 5000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5000$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6982898E-1D09-4D16-AF1F-A1690147F770' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6982898E-1D09-4D16-AF1F-A1690147F770' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6982898E-1D09-4D16-AF1F-A1690147F770' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='6982898E-1D09-4D16-AF1F-A1690147F770' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='6982898E-1D09-4D16-AF1F-A1690147F770' id='FORM-6982898E-1D09-4D16-AF1F-A1690147F770' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6982898E-1D09-4D16-AF1F-A1690147F770'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>1745EB65-D406-49A7-B609-AA0C27FEF72C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tdecimal
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate 
-
-**$28.3 - 1.64 + 0.57$** 
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  28.3 - 1.64 + 0.57 \\\\
-&=  26.66 + 0.57 \\\\
-&=  27.23
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$27.23$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1745EB65-D406-49A7-B609-AA0C27FEF72C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1745EB65-D406-49A7-B609-AA0C27FEF72C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1745EB65-D406-49A7-B609-AA0C27FEF72C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1745EB65-D406-49A7-B609-AA0C27FEF72C' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='1745EB65-D406-49A7-B609-AA0C27FEF72C' id='FORM-1745EB65-D406-49A7-B609-AA0C27FEF72C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1745EB65-D406-49A7-B609-AA0C27FEF72C'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>ECD6D154-2FDF-4C15-B956-FEE5AE1462E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tspeed
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I live $0.6$ miles from Goodison Park football stadium. There are $1760$ yards in a mile. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many yards away from Goodison Park do I live?
+- $7.8   \%$
+- $78    \%$
+- $0.78  \%$
+- $780   \%$
+- $0.078 \%$ 
 
 </div>
 <div class='workings'>
@@ -283,176 +38,22 @@ As per the question,
 
 $
 \begin{aligned}
-&= 1760 \times 0.6 \\\\
-&= 1056 \ \text{yards}
+&=  0.78 \times \dfrac {100}{100} \\\\
+&=  (0.78 \times 100) \times \dfrac{1}{100} \\\\
+&=  \dfrac {78}{100} \\\\
+&=  78\%
 \end{aligned}
 $
-
-I live $1056 \text {yards}$ away from Goodison Park.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1056 \ \text{yards}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-I live $4,400$ yards from Anfield football stadium. How many miles from Anfield football stadium do I live?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \dfrac {4400} {1760} \\\\
-&= 2.5 \ \text {miles}
-\end{aligned}
-$
-
-I live $2.5$ miles away from Anfield football stadium.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2.5 \ \text {miles}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A kilometre is five eighths of a mile. How many kilometres away from Anfield do I live?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= 2.5 \ \text {miles} \times \dfrac {5} {8} \\\\
-&= \dfrac {2.5 \times 5} {8} \\\\
-&= 1.5625 \ \text {km}
-\end{aligned}
-$
-
-I live $1.5625$ km away from Anfield.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1.5625 \ \text {km}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' id='FORM-ECD6D154-2FDF-4C15-B956-FEE5AE1462E4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-ECD6D154-2FDF-4C15-B956-FEE5AE1462E4'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>CF6BAF33-A5F8-41F9-A140-9829B0BE78AC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-testimate
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of the following distances is the most likely height of the Eiffel Tower in Paris? Circle your answer. 
-
-a) $1250\,m$
-b) 305 feet
-c) 300 metres
-d) 36,000 inches
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$300 \ \text{metres}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='option'>
-<p>c</p>
+<p>B</p>
 </div>
 <div class='answer'>
 
-$300 \ \text{metres}$
+$78\%$
 
 </div>
 </div>
@@ -460,30 +61,638 @@ $300 \ \text{metres}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' id='FORM-CF6BAF33-A5F8-41F9-A140-9829B0BE78AC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' id='FORM-75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-CF6BAF33-A5F8-41F9-A140-9829B0BE78AC'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-75AEEA2C-4F1A-41FB-8F60-B6CB67ECF7E6'>Initial</p>
 </div>
 <div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:18</p>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C82E5C30-82DD-4D11-B4AF-0C2607D4E161</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the difference between $20 \%$ of $90$ and $90 \%$ of $20$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's calculate the first value.
+
+$
+\begin{aligned}
+&= 20 \% \ \text {of} \ 90 \\\\
+&= \dfrac {20} {100} \times 90 \\\\
+&= \dfrac {20 \times 90} {100} \\\\
+&= \dfrac {20 \times 5 \times 18} {20 \times 5} \\\\
+&= \dfrac {\cancel {20} \times \cancel {5} \times 18} {\cancel {20} \times \cancel {5}} \\\\
+&= 18
+\end{aligned}
+$
+
+Let's calculate the second value.
+
+$
+\begin{aligned}
+&= 90 \% \ \text {of} \ 20 \\\\
+&= \dfrac {90} {100} \times 20 \\\\
+&= \dfrac {90 \times 20} {100} \\\\
+&= \dfrac {18 \times 5 \times 20} {5 \times 20} \\\\
+&= \dfrac {18 \times \cancel {5} \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
+&= 18
+\end{aligned}
+$
+
+Using the calculation above,
+
+$
+\begin{aligned}
+&= \text {first value} - \text {second value} \\\\
+&= 18 - 18 \\\\
+&= 0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C82E5C30-82DD-4D11-B4AF-0C2607D4E161' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C82E5C30-82DD-4D11-B4AF-0C2607D4E161' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C82E5C30-82DD-4D11-B4AF-0C2607D4E161' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C82E5C30-82DD-4D11-B4AF-0C2607D4E161' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C82E5C30-82DD-4D11-B4AF-0C2607D4E161' id='FORM-C82E5C30-82DD-4D11-B4AF-0C2607D4E161' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C82E5C30-82DD-4D11-B4AF-0C2607D4E161'>Initial</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>D6EF16C9-114E-4ACE-83AF-27BBE42B409E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tvolume
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A cuboid has
+
+a volume of $40 \ \text{cm}^{3}$
+
+a length of $5 \ \text{cm}$
+
+a width of $2 \ \text{cm}$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the height of the cuboid.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let height of the cuboid $=a $
+
+$
+\begin{aligned}
+\text {Volume}                          &=  \text {length} \times \text {width} \times \text{height} \\\\
+40                                      &=  5 \times 2 \times a \\\\
+40                                      &=  10 \times a \\\\
+\dfrac {40} {10}                        &=  a \\\\
+\dfrac {4\cancel {0} } {1\cancel {0} }  &=  a \\\\
+\text {a}                               &=  4 \ \text {cm}
+\end{aligned}
+$
+
+Height of the cuboid $=  4 \ \text {cm}$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+![missing image](/papers/missing_image.svg)
+
+
+A carton measures $200 \ \text{cm}$ by $100 \ \text{cm}$ by $100 \ \text{cm}$.
+
+The carton is to be completely filled with boxes.
+
+Each box measures $50 \ \text{cm}$ by $20 \ \text{cm}$ by $20 \ \text{cm}$.
+
+Work out the number of boxes which can completely fill the carton.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of boxes}  &= \dfrac {\text {Volume of carton} } { \text {Volume of box} } \\\\
+                         &= \dfrac {200 \times 100 \times 100} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {20 \times 2 \times 5 \times 20 \times 50 \times 2} {50 \times 20 \times 20} \\\\
+                         &= \dfrac {\cancel{20} \times 2 \times 5 \times \cancel{20} \times \cancel{50} \times 2} {\cancel{50} \times \cancel{20} \times \cancel{20} } \\\\
+                         &= 2 \times 5 \times 2 \\\\
+                         &= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D6EF16C9-114E-4ACE-83AF-27BBE42B409E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D6EF16C9-114E-4ACE-83AF-27BBE42B409E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D6EF16C9-114E-4ACE-83AF-27BBE42B409E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D6EF16C9-114E-4ACE-83AF-27BBE42B409E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='D6EF16C9-114E-4ACE-83AF-27BBE42B409E' id='FORM-D6EF16C9-114E-4ACE-83AF-27BBE42B409E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D6EF16C9-114E-4ACE-83AF-27BBE42B409E'>Initial</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A08A53F2-4639-4CF6-B48B-30A2B0959606</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A twelve inch ruler is approximately $30 \ \text{cm}$ long. Use this fact to estimate each of the 
+following:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $4 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text{inches} & = 30 \ \text {cm} \\\\
+1 \ \text{inches}  & = \dfrac {30} {12} \\\\
+4 \ \text{inches}  & = \dfrac {30} {12} \times 4 \\\\
+                   & = \dfrac {30 \times 4} {12} \\\\
+                   & = \dfrac {6 \times 5 \times 2 \times 2} {6 \times 2} \\\\
+                   & = \dfrac {\cancel {6} \times 5 \times 2 \times \cancel {2}} {\cancel {6} \times \cancel {2} } \\\\
+                   & = 5 \times 2 \\\\
+                   & = 10 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of inches in $5 \ \text{centimetres}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {inches}                           & = 30 \ \text {cm} \\\\
+\dfrac {12} {6}                               & = \dfrac {30} {6} \\\\
+\dfrac {2 \times 6} {6}                       & = \dfrac {5 \times 6} {6} \\\\
+\dfrac {2 \times \cancel {6}} {\cancel {6}}   & = \dfrac {5 \times \cancel {6}} {\cancel {6}} \\\\
+2 \ \text {inches}                            & = 5 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text{inches}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The number of centimetres in $9 \ \text{feet} 10 \ \text{inches}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+The measurement is given in multiple units and answer has to be in centimetres.
+
+$
+\begin{aligned}
+1 \ \text {feet}   & = 30 \ \text {cm} \\\\
+1 \ \text {inches} & = 2.5 \ \text {cm}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+& = 9 \ \text{feet} \ 10 \ \text{inches} \\\\
+& = 9 \times 30 \ \text {cm} + 10 \times 2.5 \ \text {cm} \\\\
+& = 270 + 25 \\\\
+& = 295 \ \text {cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$295 \ \text {cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A08A53F2-4639-4CF6-B48B-30A2B0959606' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A08A53F2-4639-4CF6-B48B-30A2B0959606' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A08A53F2-4639-4CF6-B48B-30A2B0959606' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A08A53F2-4639-4CF6-B48B-30A2B0959606' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A08A53F2-4639-4CF6-B48B-30A2B0959606' id='FORM-A08A53F2-4639-4CF6-B48B-30A2B0959606' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A08A53F2-4639-4CF6-B48B-30A2B0959606'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tlcm
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When a rope is cut equally into $8$ pieces it is discovered that each piece is a whole number of centimetres long. 
+The same thing happens if this rope is cut into $6$ pieces. What is the shortest length that this rope could be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved by finding the LCM of $8$ and $6$
+
+Let's first find LCM for $8$ and $6$ by listing multiples. The smallest number that is a multiple of two numbers is the LCM
+
+Multiple of $8 = 8, 16, 24, 32, 40, \ldots$
+
+Multiple of $6 = 6, 12, 18, 24, 30, \ldots$
+
+The LCM of $8$ and $6$ is the smallest number that is a multiple of both numbers $=24$.
+
+The shortest length that this rope could be $= 24 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' id='FORM-8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8ED09CBE-F792-4A40-ACD9-D36DBA35CEE6'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>4AED5958-F04F-45F1-A4E4-5E09C607BC13</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Convert $7.4 \ \text{kilograms}$ into grams.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+1 \ \text{kilograms}   &= 1000 \ \text{grams} \\\\
+7.4 \ \text{kilograms} &= 1000 \times 7.4 \\\\
+                       &= 7400 \ \text{grams}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7400 \ \text{grams}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4AED5958-F04F-45F1-A4E4-5E09C607BC13' id='FORM-4AED5958-F04F-45F1-A4E4-5E09C607BC13' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4AED5958-F04F-45F1-A4E4-5E09C607BC13'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

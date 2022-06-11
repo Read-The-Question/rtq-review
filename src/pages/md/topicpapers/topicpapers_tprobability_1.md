@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-1"
 title: "TopicPaper - Probability - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -687,6 +687,295 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>E56DBF27-927F-4678-A6A7-0C849472E41F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A lottery prize of $\pounds 5555$ was shared equally between 
+a number of people so that each person received a whole number of pounds. 
+
+There were between $20$ and $100$ people.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How many people shared the prize?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How much did each person receive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Three boxes ($A, B$ and $C$) contain red balls or yellow balls or both. 
+
+Each box contains the same number of balls. 
+
+Box $A$ contains all twelve of the red balls and one-ninth of the yellow balls.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How many yellow balls are there altogether?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+How many balls are there in each box?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:1:5</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1890,6 +2179,266 @@ $\text {likely}$
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bicycle will have two wheels.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' id='FORM-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy selected at random from Year $7$ will have red hair.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' id='FORM-A47DB4E1-F2E1-4223-910E-E35218E5B40F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A47DB4E1-F2E1-4223-910E-E35218E5B40F'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An ordinary dice will show a number below ten.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' id='FORM-97658705-5BFD-43C2-8EC0-F96EA2170CC7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-97658705-5BFD-43C2-8EC0-F96EA2170CC7'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:41</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>22C2F81E-348A-4147-8F66-92DD1DE389E0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A card selected from a normal pack of playing cards will not be black or red.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Impossible}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Impossible}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' id='FORM-22C2F81E-348A-4147-8F66-92DD1DE389E0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-22C2F81E-348A-4147-8F66-92DD1DE389E0'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:42</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4330,476 +4879,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>8F914366-D570-42EC-8EC9-5AF58D5C4B9F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a game two discs are tossed and the numbers landing uppermost are added together.
-
-The red disc has the number $3$ on one side and $5$ on the other side; whereas the blue disc has $4$ on one side and $7$ on the other.
-
-If they so that $3$ and $7$ are showing, the score is $10$.
-
-Write down the other possible scores for this game.
-
-..... ..... .....
-
-In a new game a green disc has $6$ on one side and $4$ on the other. A yellow disc has $1$ on one side and $3$ on the other. The rules are the same. Find the score which you are **most likely** to get.
-
-.....
-
-In another game a pink disc has $8$ on one side, but on the other side is a mystery number, and a purple disc has $4$ on one side with a different mystery number on the back.
-
-The four possible total scores are $12, 13, 14, 15$. Find two possible pairs of values for the mystery numbers.
-
-pink .....
-
-purple .....
-
-OR
-
-pink .....
-
-purple .....
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:38</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>F8E338C3-C103-4D09-BB35-EDC5098ED492</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Lee has two spinners 
-             
-![missing image](/papers/missing_image.svg)
-  ![missing image](/papers/missing_image.svg)
-              
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the probability of spinning a $4$ on spinner A?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-On which spinner is he more likely to get a $1$? Give reasons.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have $6$ blue counters and $4$ red counters in a bag. What is the probability of choosing a red counter when I take a counter out of the bag? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
-
-$
-\begin{aligned}
-\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
-                                                &= \dfrac {4} {10} \\\\
-                                                &= \dfrac {2 \times 2} {2 \times 5} \\\\
-                                                &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
-                                                &= \dfrac {2} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {2} {5}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' id='FORM-48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-48808E0F-DECB-4D83-B293-06E1EB8FC2E4'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prcc question'>
-<div class='uuid'>
-<p>91EA7C9C-B1CA-4BC9-B4C1-8F292EB3A141</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In  a  bowl there are **6** apples, **3** plums   and   **4**
-peaches. If I  choose   one   piece of fruit at random,  what  is the   probability
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-That  it is not   a  plum?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= \dfrac {10} {13}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {10} {13}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-That  it is a  banana?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are 24 red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains 15 blue counters. How many white counters are there in the bag? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the white counters $= a$
-
-As per the question,
-
-Total counters $= 24 + 15 + a$
-
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
-
-
-$
-\begin{aligned}
-\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
-\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
-24 + 15 + a                                      &= 24 \times 6 \\\\
-a + 39                                           &= 144 \\\\
-a                                                &= 144 - 39 \\\\
-a                                                &= 105
-\end{aligned}
-$
-
-There are $105$ white counters in the bag.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

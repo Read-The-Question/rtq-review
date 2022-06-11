@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-17"
 title: "TopicPaper - Number - 17"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,616 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four of these numbers can make two pairs so that each pair adds up to $5871$. Which number is the odd one out?
+
+**A** $1917$
+
+**B** $2743$ 
+
+**C** $3008$ 
+
+**D** $3954$
+
+**E** $2863$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1917 + 3954 = 5871$
+
+$3008 + 2863 = 5871$
+
+Odd one : $2743$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+**B** $2743$ 
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' id='FORM-C89BE88B-D6EA-4F33-A8C3-496597C6989A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C89BE88B-D6EA-4F33-A8C3-496597C6989A'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any **two** prime numbers between $45$ and $60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two prime numbers between $45$ and $60 = 47, 53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47, 53$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' id='FORM-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>ACCF8B4A-1C5D-4D37-9510-D1DD987BC816</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the spaces in the following table: (the first one has been done for you)
+
+**[fractions should be left in their lowest terms]**
+
+
+| **Fraction**     | **Decimal**     | **Percentage**     |
+|:------------:    |:-----------:    |:--------------:    |
+|     $½$        |    $0.5$        |     $50\%$         |
+|     $¾$        |                 |                    |
+|                  |                 |     $20\%$         |
+|                  |    $0.45$       |                    |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $2000 - 12 + 20 - 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1996$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' id='FORM-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='uuid'>
+<p>7DCC3D45-5CB3-4A24-A48F-06B6CED96443</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the average of $\frac {1}{2}$ and $\frac {1}{3}$ ?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{ \left ( \dfrac{1} {2} + \dfrac {1} {3} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {2 \times 3} + \dfrac {2} {3 \times 2} \right )} {2} \\\\
+&= \dfrac{ \left ( \dfrac{3} {6} + \dfrac {2} {6} \right )} {2} \\\\
+&= \dfrac{\dfrac{5} {6}} {2} \\\\
+&= \dfrac{5} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{5} {12}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>CA482938-C102-4F2D-A7B8-FB6B678BE1CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Complete the following table. The first one has been done for you. **(leave all fractions in their lowest form)**
+
+| Fraction                | Decimal         | Percentage     |
+|:-----------------:    |:---------:    |:------------:    |
+|  $\frac{7}{10}$         |  $0.7$          |    $70$        |
+|  $\frac{2}{5}$          |                 |                |
+|                         |  $0.65$         |                |
+| $\frac{17}{25}$         |                 |                |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>6A0EC9AD-0A91-465C-9D77-92C64E1E72BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank does the following calculations. Mark his work by putting a tick of a cross in the boxes, to indicate which Frank has correct and which he has wrong.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$22 - 7 \times = 45$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22 - 7 \times = 45$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$10 \times 2 + 7 \times 7 = 69$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10 \times 2 + 7 \times 7 \\\\
+&= 20 + 49 \\\
+&= 69
+\end{aligned}
+$
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \times 2 + 7 \times 7 = 69$         $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 + 3 \times 7 - 3 = 30$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 12 + 3 \times 7 - 3 \\\\
+&= 12 + 21 - 3 \\\\
+&= 33 - 3 \\\\
+&= 30
+\end{aligned}
+$
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 + 3 \times 7 - 3 = 30$        $\boxed {\checkmark}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$30 \div 3 + 2 = 6$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 30 \div 3 + 2 \\\\
+&= \dfrac {30}{3} + 2 \\\\
+&= \dfrac {3 \times 10}{3} + 2 \\\\
+&= \dfrac {\cancel {3} \times 10}{\cancel {3}} + 2 \\\\
+&= 10 + 2 \\\\
+&= 12 \ \cancel {=} \ 6
+\end{aligned}
+$
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \div 3 + 2 = 6$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 24 \div 4 - 3 \times 2 \\\\
+&= \dfrac {24} {4} - 3 \times 2 \\\\
+&= \dfrac {6 \times 4} {4} - 3 \times 2 \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} - 3 \times 2 \\\\
+&= 6 - 6 \\\\
+&= 0
+\end{aligned}
+$
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24 \div 4 - 3 \times 2 = 0$        $\boxed {\times}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>

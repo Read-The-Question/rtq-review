@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgeometry-1"
 title: "TopicPaper - Geometry - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -82,9 +82,6 @@ TODOANSWER
 <ul>
 <li>
 tgeometry
-</li>
-<li>
-tvolume
 </li>
 </ul>
 </div>
@@ -240,6 +237,65 @@ Label both vertices with $*$.
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>51991E63-6C42-404B-9D3E-A6EA0C21933B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+<li>
+tdraw
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The grids in this question are a centimetre square grids.
+
+For each shape on the left, draw a **rectangle** that has the same area.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -741,6 +797,71 @@ $12$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
+<p>DFE28FF1-618F-43C0-9BCB-05877CC899BC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The angles are all the same size, because it is regular. What is the special name given to an angle of this size?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Obtuse angle
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Obtuse angle
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DFE28FF1-618F-43C0-9BCB-05877CC899BC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DFE28FF1-618F-43C0-9BCB-05877CC899BC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DFE28FF1-618F-43C0-9BCB-05877CC899BC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DFE28FF1-618F-43C0-9BCB-05877CC899BC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='DFE28FF1-618F-43C0-9BCB-05877CC899BC' id='FORM-DFE28FF1-618F-43C0-9BCB-05877CC899BC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DFE28FF1-618F-43C0-9BCB-05877CC899BC'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
 <p>0C657190-6716-4EA4-B662-51AE68C07DC7</p>
 </div>
 <div class='topics'>
@@ -965,6 +1086,373 @@ $2$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>4BB0F1C7-BFE0-4072-A6D3-51F9E811083C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Plot the following points on the centimetre grid below: 
+
+$(2, 2) \quad (6,2) \quad (4,4)$
+
+(The first one has already been done for you.)
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Join them in order to form a triangle. Label the triangle $A$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which special type of triangle is $A$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Draw any lines of symmetry on triangle $A$ using a dashed line.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Translate triangle $A \ 3$ units to the right and $4$ units up.
+
+Label your triangle $B$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Reflect triangle $A$ in the dashed line on the grid.
+
+Label the image $C$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the order of rotational symmetry of triangle $A$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the area of triangle $A$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-5"
 title: "TopicPaper - Algebra - 5"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,244 +14,6 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two fifths of the children in a swimming pool are boys.
-
-There are $72$ girls in the pool. How many boys are there? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the total students $= a$
-
-As per the question,
-
-Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
-
-Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
-
-$
-\begin {aligned}
-\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
-\dfrac {3} {5} \times a           &= 72 \\\\
-3a                                &= 72 \times 5 \\\\
-a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
-a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
-a                                 &= 24 \times 5 \\\\
-a                                 &= 120
-\end {aligned}
-$
-
-Now, lets calculate the total number of boys.
-
-$
-\begin {aligned}
-\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
-                        &= \dfrac {2} {5} \times 120 \\\\
-                        &= \dfrac {2 \times 120} {5} \\\\
-                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
-                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
-                        &= 2 \times 24 \\\\
-                        &= 48
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' id='FORM-C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C8FAAA5C-9050-4A2B-A057-F0043B9279E3'>Initial</p>
-</div>
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>F90E104C-83A3-4E73-9186-B474F19BDC15</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Pauline has $90 \text{p}$ that she wants to share between $7$ girls and $4$ boys so that the girls each have twice as much as the boys. 
-How much does each girl and each boy receive?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>738E804C-DF07-4608-919A-55C23079A59F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A menswear shop sells $7$ times as many white shirts as checked shirts. $72$ shirts are sold in total. How many white shirts are sold? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number of checked shirts sold $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a + 7 a &= 72 \\\\
-8 a     &= 72 \\\\
-a       &= \dfrac {72} {8} \\\\
-a       &= \dfrac {8 \times 9} {8} \\\\
-a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
-a       &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Number of white shirts sold} &= 7 \times a \\\\
-                                   &= 7 \times 9 \\\\
-                                   &= 63
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$63$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' id='FORM-738E804C-DF07-4608-919A-55C23079A59F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-738E804C-DF07-4608-919A-55C23079A59F'>Initial</p>
-</div>
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -4846,6 +4608,442 @@ $450$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $25\%$ of the cost of building a boat is for materials. Calculate the cost of the materials in a boat costing $\pounds6000$ to build.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Cost of the materials} &= 25 \% \ \text {of} \ \pounds 6000 \\\\
+                              &= \dfrac {25} {100} \times 6000 \\\\
+                              &= \dfrac {25 \times 6000} {100} \\\\
+                              &= \dfrac {25 \times 60 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                              &= 60 \times 25 \\\\
+                              &= \pounds 1500
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1500$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A2F4CE02-CC08-4549-9659-71797B3FFB94' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A2F4CE02-CC08-4549-9659-71797B3FFB94' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A2F4CE02-CC08-4549-9659-71797B3FFB94' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A2F4CE02-CC08-4549-9659-71797B3FFB94' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A2F4CE02-CC08-4549-9659-71797B3FFB94' id='FORM-A2F4CE02-CC08-4549-9659-71797B3FFB94' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A2F4CE02-CC08-4549-9659-71797B3FFB94'>Initial</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>FD6001A4-A10E-44ED-88F4-1456AB82BADE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Solve these equations to find the value of the letter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5a = 15$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+5 a  &= 15 \\\\
+a    &= \dfrac {15} {5} \\\\
+a    &= \dfrac {5 \times 3} {5} \\\\
+a    &= \dfrac {\cancel {5} \times 3} {\cancel {5}} \\\\
+a    &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$b - 7 = 26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b - 7  &= 26 \\\\
+b      &= 26 + 7 \\\\
+b      &= 33
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\dfrac{c}{9} = 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\dfrac {c} {9}  &= 4 \\\\
+c               &= 9 \times 4 \\\\
+c               &= 36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$3x - 1 = x + 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+3 x - 1 &= x + 7 \\\\
+3 x - x &= 7 + 1 \\\\
+2 x &= 8 \\\\
+x  &= \dfrac {8} {2} \\\\
+x  &= \dfrac {4 \times 2} {2} \\\\
+x  &= \dfrac {4 \times \cancel {2}} {\cancel {2}} \\\\
+x  &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='FD6001A4-A10E-44ED-88F4-1456AB82BADE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='FD6001A4-A10E-44ED-88F4-1456AB82BADE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='FD6001A4-A10E-44ED-88F4-1456AB82BADE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='FD6001A4-A10E-44ED-88F4-1456AB82BADE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='FD6001A4-A10E-44ED-88F4-1456AB82BADE' id='FORM-FD6001A4-A10E-44ED-88F4-1456AB82BADE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FD6001A4-A10E-44ED-88F4-1456AB82BADE'>Initial</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>1B731222-A765-409B-84F4-B8431906BC85</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a number. 
+
+My number is a $\bold{multiple\:of\: 4}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd $\huge\Box$
+
+My number could be odd or even $\huge\Box$
+
+Explain how you know. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+I am thinking of a **different** number. 
+
+My number is a $\bold{factor\: of\: 20}$.
+
+Tick the true statement below.
+
+My number must be even $\huge\Box$
+
+My number must be odd  $\huge\Box$
+
+My number could be odd or even  $\huge\Box$
+
+Explain how you know.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

@@ -1,9 +1,82 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0"
 title: "TopicPaper - Simpleword - 2 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>D8C30162-96E0-42EB-B7B0-1420BAD3B2C7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A field is planted with cabbages in rows.
+Each row contains $22$ cabbage seeds and there are $39$ rows. How many cabbage seeds are there in the field?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, total seeds in a row $= 22$. So,
+
+$
+\begin{aligned}
+\text {Total seeds in 39 rows}    &= 39 \times 22 \\\\
+                                  &= 858
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$858$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' id='FORM-D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D8C30162-96E0-42EB-B7B0-1420BAD3B2C7'>Initial</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -68,6 +141,97 @@ $656$
 </div>
 <div class='papername'>
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison, Bhavini and Catherine share a bag of sweets.
+Alison gets $5$ more sweets than Bhavini and Catherine gets twice as many sweets as Alison.
+
+Catherine gets $22$ sweets. How many sweets are there in the bag?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Catherine get}   &= 22 \ \text {sweets} \\\\
+                        &= 2 \times \text {Alison} \\\\
+\text {Alison get}      &= \dfrac {22} {2} \\\\
+                        &= \text {Bhavini} + 5 \\\\
+\text {Bhavini get}     &= \text {Alison} - 5 \\\\
+                        &= \dfrac {22} {2} - 5
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Total sweets}    &= \text {No. of sweets (Alison + Bhavini + Catherine)} \\\\
+                        &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
+                        &= \dfrac {2 \times 11} {2} + \dfrac {2 \times 11} {2} - 5 + 22 \\\\
+                        &= \dfrac {\cancel {2} \times 11} {\cancel {2}} + \dfrac {\cancel {2} \times 11} {\cancel {2}} - 5 + 22 \\\\
+                        &= 11 + 11 - 5 + 22 \\\\
+                        &= 44 - 5 \\\\
+                        &= 39
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' id='FORM-0AC56C7D-FC28-4B99-925E-27D79107E4CE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0AC56C7D-FC28-4B99-925E-27D79107E4CE'>Initial</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -1961,6 +2125,89 @@ $126.5 \ \text {g}$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
+<p>553D9630-2488-43F6-B40B-249573F31F80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. 
+
+$
+\begin{aligned}
+\text {Number of strips}    &=  \dfrac {1 \ \text {m}} {15 \ \text {cm}} \\\\
+                            &=  \dfrac {1 \times 100 \ \text {cm}} {15 \ \text {cm}} \\\\
+                            &=  \dfrac {100} {15} \\\\
+                            &=  6 \text{ remainder } 10
+\end{aligned}
+$
+
+Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' id='FORM-553D9630-2488-43F6-B40B-249573F31F80' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-553D9630-2488-43F6-B40B-249573F31F80'>Initial</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
 <p>CABD97FF-A137-4136-B3F8-465E5FFFF48B</p>
 </div>
 <div class='topics'>
@@ -2267,352 +2514,6 @@ $250 \text {g}$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest possible difference between two different nine digit numbers, 
-each of which includes all of the digits $1$ to $9$?
-
-*For example the two numbers could be:*
-
-$123456789$ and $987654321$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-The smallest possible difference can be achieved by interchanging the ones and tens places.
-
-Let the first number $= 789456132$
-
-The second number $= 789456123$
-
-Difference of the two number
-
-$
-\begin{aligned}
-&= 789456132 - 789456123 \\\\
-&= 9
-\end{aligned}
-$
-
-So, the smallest possible difference between two nine digit number $= 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' id='FORM-AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3'>Initial</p>
-</div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3744A7E4-7F4F-4698-AC77-A1CC7027FFF7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the British Army there are $4500$ men who are taller than $180 \ \text{cms}$. 
-Of these $750$ are taller than $190 \ \text{cms}$.
-
-How many men are there who are between $180$ and $190 \ \text{cms}$ tall? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{No. of men between 180 and 190}            &= \text{Men taller than 180} - \text{Men taller than 190} \\\\
-                                                 &= 4500 - 750 \\\\
-                                                 &= 3750
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3750$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' id='FORM-3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3744A7E4-7F4F-4698-AC77-A1CC7027FFF7'>Initial</p>
-</div>
-<div class='papername'>
-<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jordan eats $\dfrac{1}{4}$ of a pizza and Anna eats $\dfrac{1}{3}$ of what is left.
-
-Rohit, Guhesh and Matilda share equally the remainder.
-
-What fraction of the pizza did Matilda eat? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-While solving problems on fractions, we take whole quantity $1$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
-                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
-                    &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
-                    &= \dfrac {1 \times 3} {3 \times 4} \\\\
-                    &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
-                    &= \dfrac {1} {4} \\\\
-\text {Pizza left}  &= 1 - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4} {4} -  \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                    &= \dfrac {4 - 1 - 1} {4} \\\\
-                    &= \dfrac {2} {4}
-\end{aligned}
-$
-
-Rohit, Guhesh and Matilda gets equally shares of the pizza.
-
-$
-\begin{aligned}
-\text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
-                        &= \dfrac {2} {3 \times 4} \\\\
-                        &= \dfrac {2} {3 \times 2 \times 2} \\\\
-                        &= \dfrac {1} {3 \times 2} \\\\
-                        &= \dfrac {1} {6}
-\end{aligned}
-$
-
-Matilda ate $\dfrac {1} {6}$ part of the pizza.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {6}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' id='FORM-3F6998ED-9AC1-46D3-A19F-E85725A6237B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3F6998ED-9AC1-46D3-A19F-E85725A6237B'>Initial</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>32AD190F-BC19-4308-B41D-C508037F0B80</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Grace plants a row of daffodils.
-
-There is a gap of $1.1$ metres between each daffodil, and the row begins and ends with a daffodil.
-
-She has $8$ daffodils.
-
-How long is the row of daffodils when she has finished? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-No. of daffodils $= 8$
-
-No. of gaps between daffodils $= 7$
-
-Length of gap $= 1.1 \text{m}$
-
-$
-\begin{aligned}
-\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
-                            &= 7.7 \ \text {m}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7.7 \ \text {m}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' id='FORM-32AD190F-BC19-4308-B41D-C508037F0B80' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-32AD190F-BC19-4308-B41D-C508037F0B80'>Initial</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--2020--sample-paper-3:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

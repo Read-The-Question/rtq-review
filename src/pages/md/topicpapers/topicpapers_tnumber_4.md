@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-4"
 title: "TopicPaper - Number - 4"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,80 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>1A2708F9-7326-46F8-A5AE-8365E91E007C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Give a decimal number lying between $7.2$ and $7.3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {7.2 + 7.3} {2} \\\\
+&= \dfrac {14.5} {2} \\\\
+&= 7.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.25$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' id='FORM-1A2708F9-7326-46F8-A5AE-8365E91E007C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1A2708F9-7326-46F8-A5AE-8365E91E007C'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -3256,181 +3330,6 @@ $120$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>B0628307-9D81-49C9-9641-6419EDEB036A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a survey a group of children were asked how many films they had seen in the last week. No-one in the group had seen more than four films, and the results are shown in the pie chart below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the percentage of children who had seen exactly three films. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the fraction of children who had seen no films, giving your answer in its lowest terms.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Nine of the children who were surveyed had seen exactly one film and another nine had seen exactly three films. 
-
-Fill in the table below to show the number of children who had seen $0, 2,$ and $4$ films.
-
-|      Number of films        | $0$ | $1$ | $2$ | $3$ | $4$ |
-|:---------------------------:|:---:|:---:|:---:|:---:|:---:|
-| Number of children surveyed |     | $9$ |     | $9$ |     |
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

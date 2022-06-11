@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -225,12 +225,6 @@ $\dfrac {9} {20}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tdecimal
-</li>
 <li>
 tstatistics
 </li>
@@ -2114,7 +2108,7 @@ $
 <div class='topics'>
 <ul>
 <li>
-talgebra
+ttime
 </li>
 </ul>
 </div>
@@ -3037,10 +3031,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tpermutation
 </li>
 </ul>
 </div>

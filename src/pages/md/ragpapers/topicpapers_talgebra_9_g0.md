@@ -1,9 +1,117 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-g0"
 title: "TopicPaper - Algebra - 9 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
+
+As per the question,
+
+$
+\begin{aligned}
+A + B     &= 22    \ \text{kg}  \\\\
+B + C     &= 20     \ \text{kg} \\\\
+A + B + C &= 30 \ \text{kg}\\\\
+\end{aligned}
+$
+
+Lets, first find value of A
+
+$
+\begin{aligned}
+A + (B + C)  &= 30 \\\\
+A + 20       &= 30 \\\\
+A            &= 30 - 20 \\\\
+A            &= 10 \\\\
+\end{aligned}
+$
+
+Now finding the value of B,
+
+$
+\begin{aligned}
+A + B  &= 22 \\\\
+B      &= 22 - A \\\\
+B      &= 22 - 10 \\\\
+B      &= 11
+\end{aligned}
+$
+
+Finally the value of C is given by,
+
+$
+\begin{aligned}
+B + C &= 20 \\\\
+C     &= 20 - B \\\\
+C     &= 20 - 11 \\\\
+C     &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 11, 9$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' id='FORM-DCA17542-5313-4830-8E8C-79DE88C98DEF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DCA17542-5313-4830-8E8C-79DE88C98DEF'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>

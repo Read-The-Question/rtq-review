@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1080,9 +1080,6 @@ $47$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>

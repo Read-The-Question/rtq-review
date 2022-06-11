@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,181 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B0628307-9D81-49C9-9641-6419EDEB036A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a survey a group of children were asked how many films they had seen in the last week. No-one in the group had seen more than four films, and the results are shown in the pie chart below.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the percentage of children who had seen exactly three films. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out the fraction of children who had seen no films, giving your answer in its lowest terms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Nine of the children who were surveyed had seen exactly one film and another nine had seen exactly three films. 
+
+Fill in the table below to show the number of children who had seen $0, 2,$ and $4$ films.
+
+|      Number of films        | $0$ | $1$ | $2$ | $3$ | $4$ |
+|:---------------------------:|:---:|:---:|:---:|:---:|:---:|
+| Number of children surveyed |     | $9$ |     | $9$ |     |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1587,6 +1762,102 @@ $(22 - 10 + 8) \div 4$
 </div>
 <div class='papername'>
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>2D14E878-11B5-46B1-A002-9A3CA82CED1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A hexagon is worth $6$ points.
+A square is worth $4$ points.
+How much is triangle worth?
+
+![missing image](/papers/missing_image.svg)
+
+
+-  Can't tell
+-  $1$
+-  $2$
+-  $4$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the worth of triangle $= a$
+
+Let the worth of circle $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+6 + 4 + 6 + b                                  &= 6 + b + 4 + 4 + a + a \\\\
+16 + b                                         &= 14 + b + 2a \\\\
+16 + b - b                                     &= 14 + 2a \\\\
+16                                             &= 14 + 2a \\\\
+16 - 14                                        &= 14 + 2a \\\\
+2                                              &= 2a \\\\
+\dfrac {2} {2}                                 &= a \\\\
+1                                              &= a \\\\
+a                                              &= 1
+\end{aligned}
+$
+
+The worth of triangle $= 1$ point
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='2D14E878-11B5-46B1-A002-9A3CA82CED1D' id='FORM-2D14E878-11B5-46B1-A002-9A3CA82CED1D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2D14E878-11B5-46B1-A002-9A3CA82CED1D'>Initial</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4556,147 +4827,6 @@ $210$
 </div>
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B53F6E2C-44BB-4B92-BA28-196E7675F060</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number is ten thousand more than $9876543$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 9876543 + 10000 \\\\
-&= 9886543
-\end{aligned}
-$
-
-The number that is ten thousand more than $9876543$ is $= 9886543$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9886543$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' id='FORM-B53F6E2C-44BB-4B92-BA28-196E7675F060' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B53F6E2C-44BB-4B92-BA28-196E7675F060'>Initial</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The letter "e" appears $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}$ times in this sentence.
-
-Which of the following goes in the gap above?
-
-Seven, eight, nine, ten, eleven, twelve or thirteen
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {ten}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {ten}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' id='FORM-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD'>Initial</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -98,6 +98,90 @@ $\pounds 2.65$ and $\pounds 2.25$
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the total length marked with $x$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
+x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
+x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
+x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
+x                        &= 15 + 5  \\\\
+x                        &= 20 \ \text {cm}
+\end{aligned}
+$
+
+The total length of marked $x$ is $20 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' id='FORM-5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5AF5AFC7-6421-43C4-B38A-CD7C667BAE96'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

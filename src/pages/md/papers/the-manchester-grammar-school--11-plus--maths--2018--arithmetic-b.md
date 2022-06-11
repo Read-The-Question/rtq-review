@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-b"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic B"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -355,16 +355,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tinfer
-</li>
-<li>
-talgebra
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -750,16 +741,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-talgebra
-</li>
-<li>
 tinfer
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -1993,9 +1975,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

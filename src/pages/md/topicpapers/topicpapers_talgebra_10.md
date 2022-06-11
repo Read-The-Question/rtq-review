@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-10"
 title: "TopicPaper - Algebra - 10"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,214 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Martha and Sally each have the same amount of money.
+
+If Martha spends $\pounds 10$ and sally spends $\pounds 20$, then Martha has three times as much as Sally.
+
+If Martha spends $\pounds 15$ and Sally spends $\pounds 20$, then Martha has twice as much as Sally.
+
+how much money do they have altogether?  
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let money Martha has be m and Sally has be s,
+
+$
+\begin{aligned}
+m - 10 = 3 \times (s - 20) \\\\
+m - 10 = 3s - 60 \\\\
+3s - m = 50 \\\\ 
+m =  3s -50
+\end{aligned}
+$
+
+$
+\begin{aligned}
+m - 15 = 2 \times (s - 20) \\\\
+m - 15 = 2s - 40 \\\\
+2s - m = 25 
+\end{aligned}
+$
+
+Replacing m in second question
+
+$
+\begin{aligned}
+2s - 3s + 50 = 25 \\\\ 
+s = 25 
+\end{aligned}
+$
+
+Value of m will be,
+$
+\begin{aligned}
+m = 3s - 50 \\\\
+m = 75 - 50 \\\\
+m = 25 
+\end{aligned}
+$
+
+Total money both has,
+$
+\begin{aligned}
+&= 25 + 25 \\\\ 
+&= \pounds 50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 50$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The sum of two whole numbers is 30 and their difference is 20
+
+What are the two numbers?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let two numbers be $x$ and $y$,
+
+$
+\begin{aligned}
+x + y = 30   &&&&&    x - y = 20 \\\\
+x = 30 - y   &&&&&    30 - y - y = 20 \\\\
+x = 30 - y   &&&&&    10 = 2y \\\\
+x = 30 - y   &&&&&    y = 5 \\\\
+x = 25       &&&&&    y = 5 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$25, 5$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this multiplication each letter stands for a **different** digit. What digit does **D** represent?
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -3850,547 +4058,6 @@ $42 \ \text{coins}$
 
 <div class='papername'>
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>CC0F7948-FB93-4B7D-B62E-499490AD2FB6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Winston thinks of two different whole numbers that add together to make $20$ and multiply to give $84$. What are his two numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the numbers Winston thinks $= a,b$
-
-As per the question,
-
-$a \times b = 84$
-
-$a + b = 20$
-
-We can easily infer the values by using trial and error. Let's find out $2$ numbers which meets the following critiera based on the equations above.
-
-- Both the numbers should be smaller than $20$
-- The product of the $2$ numbers is $84$ 
-- The sum of the $2$ numbers is $20$.
-
-Factors of $84 = 1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84$
-
-Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
-
-| Factors   |  Sum  | Numbers $< 20$    |
-|:-------:  |:----: |:---------------:  |
-| $6, 14$   | $20$  |       Yes         |
-| $7, 12$   | $19$  |       Yes         |
-
-A quick check shows that $6$ and $14$ meets all the criteria above.
-
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
-*
-
-The two numbers which Winston thinks $= 6,14$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6,14$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-He then thinks of a new number, multiplies it by $9$ and subtracts $15$. The result is $66$. What was his original number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the new number he thought of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 9 - 15     &= 66 \\\\
-a \times 9          &= 66 + 15 \\\\
-a \times 9          &= 81 \\\\
-a                   &= \dfrac {81} {9} \\\\
-a                   &= \dfrac {9 \times 9} {9} \\\\
-a                   &= \dfrac {\cancel{9} \times 9} {\cancel{9}} \\\\
-a                   &= 9
-\end{aligned}
-$
-
-The new number he thought $= 9$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='CC0F7948-FB93-4B7D-B62E-499490AD2FB6' id='FORM-CC0F7948-FB93-4B7D-B62E-499490AD2FB6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CC0F7948-FB93-4B7D-B62E-499490AD2FB6'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>BD661B8E-C952-4FE7-B2A9-FBC925EF303A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $3$ moos in a quack and $13$ quacks in an oink.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many moos are there in $3$ quacks and $1$ oink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= \text{Moos in 3 quacks} + \text{Moos in 1 oink} \\\\
-&= 3 \times 3 + 1 \times 13 \ \text{quacks} \\\\
-&= 9 + 1 \times 13 \times 3 \\\\
-&= 9 + 39 \\\\
-&= 48 \ \text{Moos}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48 \ \text{Moos}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What fraction of an oink does $9$ moos represent?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Fraction of oink} &= \dfrac{\text{Number of moos Given}} {\text{Total number of moos}} \\\\
-                        &= \dfrac{9}{13 \times 3} \\\\
-                        &= \dfrac{3 \times 3}{13 \times 3} \\\\
-                        &= \dfrac{3 \times \cancel{3}}{13 \times \cancel{3}} \\\\
-                        &= \dfrac{3}{13}
-\end{aligned}
-$
-
-Fraction of 9 moos of an oink $=\dfrac{3}{13}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{3}{13}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$800$ moos are sorted into piles $2$ oinks high. How many complete piles will there be and how many moos and quacks will be left over?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total number of piles}    &= \dfrac{\text{Total number of Moos}}{\text{Number of moos per pile}} \\\\
-                                &= \dfrac{800}{2 \times 13 \times 3} \\\\
-                                &= \dfrac{2 \times 400}{2 \times 13 \times 3} \\\\
-                                &= \dfrac{\cancel{2} \times 400}{\cancel{2} \times 13 \times 3} \\\\
-                                &= \dfrac{400}{39} \\\\
-                                &= 10 \dfrac{10}{39} \\\\
-                                &= 10 \ \text{piles} + 10 \ \text{Moos} \\\\
-\text{Total number of piles}    &= 10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{piles} + 3 \ \text{Quacks} + 1 \ \text{Moos}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>21351831-A19D-4760-A527-66A717B27407</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The instruction `$a  b$' means multiply $a$ by $b$, then add on $a$. For example: 
-
-$5  2 = 5 \times 2 + 5 = 10 + 5 = 15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out the value of 
-
-$4  3 =$
-
-$4  0 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the value of $b$ if $3  b = 15$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-TODOSUBQUESTION
-What is the value of $a$ if $a  a = 20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$(a  b)  c$ means work out $(a  b)$ first and then work out "your answer" $c$.
-
-For example: 
-
-$(5  2)  3$ means do $5  2 = 5 \times 2 + 5 = 15$ first, then work out
-$15  3 = 15 \times 3 + 15 = 45 + 15 = 60 $
-
-Work out $(2  3)  4 =$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

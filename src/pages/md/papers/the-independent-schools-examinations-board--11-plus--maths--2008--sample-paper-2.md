@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-2"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1519,18 +1519,6 @@ $\text {Yogi}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tsymmetry
-</li>
-<li>
 tgraph
 </li>
 </ul>
@@ -2925,19 +2913,10 @@ $13$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tangle
+tratio
 </li>
 <li>
 tdraw
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tunitprompt
 </li>
 </ul>
 </div>

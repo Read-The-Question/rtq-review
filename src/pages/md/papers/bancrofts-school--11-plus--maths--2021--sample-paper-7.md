@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1199,13 +1199,7 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgraph
-</li>
-<li>
-ttable
+tpercentage
 </li>
 </ul>
 </div>
@@ -1975,13 +1969,7 @@ $\pounds 10.08$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-ttable
-</li>
-<li>
-tsequence
+tinfer
 </li>
 <li>
 tdraw

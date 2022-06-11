@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1223,9 +1223,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -1276,9 +1273,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

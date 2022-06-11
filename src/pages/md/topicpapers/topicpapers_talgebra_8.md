@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-8"
 title: "TopicPaper - Algebra - 8"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,200 +14,6 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve the following equations, giving your answers as whole numbers or fractions. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3x -7 = 5x + 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-3 x - 7    &= 5 x + 7 \\\\
-3 x - 5 x  &= 7 + 7 \\\\
-- 2 x      &= 14 \\\\
-x          &= - \dfrac {14} {2} \\\\
-x          &= - \dfrac {7 \times 2} {2} \\\\
-x          &= - \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
-x          &= - 7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$-7$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\dfrac{1}{2}x - 3                                               &= \dfrac{x}{3} + 5
-\dfrac{1}{2}x - \dfrac{x}{3}                                    &= 5 + 3 \\\\
-\dfrac{x \times 3 - \dfrac x \times 2}{6}                       &= 8 \\\\
-\dfrac{x}{6}                                                    &= 8 \\\\
-x                                                               &= 8 \times 6 \\\\
-                                                                &= 48
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' id='FORM-5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF'>Initial</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-John picked strawberries every day for $7$ days. Each day after the first day, he picked $5$ more strawberries than the day before. In total he picked $175$ strawberries. How many strawberries did John pick on the last day? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{let the number of strawberies picked on firstday = x}
-x + x + 5 + x + 10 + x + 15 + ....                                      &= 175 \\\\
-(x + x + x + x + x + x + x) + (5 + 10 + 15 + 20 + 25 + 30)              &= 175 \\\\
-7x + 105                                                                &= 175 \\\\
-7x                                                                      &= 175 - 105 \\\\
-7x                                                                      &= 70 \\\\
-x                                                                       &= 10 \\\\
-x + 30                                                                  &= 10 + 30 \\\\
-                                                                        &= 40
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -3196,6 +3002,157 @@ $7$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
+<p>20EB0151-9603-4A9B-8AA6-93D45586F5A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows an equilateral triangle.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In an equilateral triangle all three sides are equal.
+
+As per the diagram,
+
+$
+\begin{aligned}
+4x + 5              &= 21 \\\\
+4x                  &= 21 - 5 \\\\
+4x                  &= 16 \\\\
+x                   &= \dfrac {16} {4} \\\\
+x                   &= \dfrac {4 \times 4} {4} \\\\
+x                   &= \dfrac {\cancel{4} \times 4} {\cancel{4}} \\\\
+x                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $y$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In an equilateral triangle all three sides are equal in length.
+
+As per the diagram,
+
+$
+\begin{aligned}
+3y - 3              &= 21 \\\\
+3y                  &= 21 + 3 \\\\
+3y                  &= 24 \\\\
+y                   &= \dfrac {24} {3} \\\\
+y                   &= 8
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20EB0151-9603-4A9B-8AA6-93D45586F5A7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20EB0151-9603-4A9B-8AA6-93D45586F5A7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20EB0151-9603-4A9B-8AA6-93D45586F5A7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20EB0151-9603-4A9B-8AA6-93D45586F5A7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='20EB0151-9603-4A9B-8AA6-93D45586F5A7' id='FORM-20EB0151-9603-4A9B-8AA6-93D45586F5A7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-20EB0151-9603-4A9B-8AA6-93D45586F5A7'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
 <p>C4D5964E-323E-4324-81EE-4EA60C92CF15</p>
 </div>
 <div class='topics'>
@@ -3664,6 +3621,159 @@ $45$
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a regular pentagon.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $x$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+3x + 5                                              &= 17 \\\\
+3x                                                  &= 17 - 5 \\\\
+3x                                                  &= 12 \\\\
+x                                                   &= \dfrac {12} {3} \\\\
+x                                                   &= \dfrac {3 \times 4} {3} \\\\
+x                                                   &= \dfrac {\cancel{3} \times 4} {\cancel{3}} \\\\
+x                                                   &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the value of $𝑦$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+In a regular pentagon, all sides have the same length.
+
+As per the question,
+
+$
+\begin{aligned}
+2y - 9                                              &= 17 \\\\
+2y                                                  &= 17 + 9 \\\\
+2y                                                  &= 26 \\\\
+y                                                   &= \dfrac {26} {2} \\\\
+y                                                   &= \dfrac {2 \times 13} {2} \\\\
+y                                                   &= \dfrac {\cancel{2} \times 13} {\cancel{2}} \\\\
+y                                                   &= 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' id='FORM-3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3F323BE4-9BB9-4512-9D81-98E3BAE7DB3B'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:24</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4655,6 +4765,65 @@ $\dfrac {a} {3}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>63141B26-BAE9-40A6-8904-E449F3129641</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are the rules for an algebra grid.
+
+![missing image](/papers/missing_image.svg)
+
+
+Use these rules to complete the algebra grids below. Write your expressions as simply as possible.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0069FF49-93FC-4210-AE5C-E85491840B4B</p>
@@ -5462,114 +5631,6 @@ $8$
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
-
-As per the question,
-
-$
-\begin{aligned}
-A + B     &= 22    \ \text{kg}  \\\\
-B + C     &= 20     \ \text{kg} \\\\
-A + B + C &= 30 \ \text{kg}\\\\
-\end{aligned}
-$
-
-Lets, first find value of A
-
-$
-\begin{aligned}
-A + (B + C)  &= 30 \\\\
-A + 20       &= 30 \\\\
-A            &= 30 - 20 \\\\
-A            &= 10 \\\\
-\end{aligned}
-$
-
-Now finding the value of B,
-
-$
-\begin{aligned}
-A + B  &= 22 \\\\
-B      &= 22 - A \\\\
-B      &= 22 - 10 \\\\
-B      &= 11
-\end{aligned}
-$
-
-Finally the value of C is given by,
-
-$
-\begin{aligned}
-B + C &= 20 \\\\
-C     &= 20 - B \\\\
-C     &= 20 - 11 \\\\
-C     &= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10, 11, 9$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' id='FORM-DCA17542-5313-4830-8E8C-79DE88C98DEF' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DCA17542-5313-4830-8E8C-79DE88C98DEF'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,9 +1,83 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-4-g0"
 title: "TopicPaper - Number - 4 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>1A2708F9-7326-46F8-A5AE-8365E91E007C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Give a decimal number lying between $7.2$ and $7.3$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {7.2 + 7.3} {2} \\\\
+&= \dfrac {14.5} {2} \\\\
+&= 7.25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.25$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='1A2708F9-7326-46F8-A5AE-8365E91E007C' id='FORM-1A2708F9-7326-46F8-A5AE-8365E91E007C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1A2708F9-7326-46F8-A5AE-8365E91E007C'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>

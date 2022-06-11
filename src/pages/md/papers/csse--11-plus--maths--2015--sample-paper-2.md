@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1415,13 +1415,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
-</li>
-<li>
-tsymmetry
 </li>
 </ul>
 </div>

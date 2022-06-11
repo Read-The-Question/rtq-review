@@ -1,9 +1,149 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 \times 3 - 10 + 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 8 \times 3 - 10 + 6 \\\\
+&=  24 - 4 \\\\
+&= 20
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$72 \div 9 \times 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 72 \dfrac{7}{9} \\\\
+&=  9 \times 8 \times \dfrac{7}{9} \\\\
+&=  \cancel{9} \times 8 \times \dfrac{7}{\cancel9} \\\\
+&=  8 \times 7 \\\\
+&= 56
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' id='FORM-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
@@ -442,97 +582,6 @@ $3$
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A roll of wallpaper is $10 \ \text{m}$ long and $0.6 \ \text{m}$ wide. How many rolls of 
-wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide?
-
-- $5$
-- $4$
-- $7$
-- $10$
-- $11$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
-&=  8 \times 3 \\\\
-&=  24 \ \text{m}^2 \\\\
-\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
-&=10 \times 0.6 \\\\
-&=  6 \ \text{m}^2 \\\\
-\text{Number of sheets required} \\\\
-&=  \dfrac{24}{6} \\\\
-&=  \dfrac{4 \times 6}{6} \\\\
-&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
-&= 4 \ \text{sheets}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' id='FORM-9A5410BD-3EE5-409F-8688-DA50768205F0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9A5410BD-3EE5-409F-8688-DA50768205F0'>Initial</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -1135,92 +1184,6 @@ $125, 8$
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>E7C66B09-5BA0-4B5C-BA6E-344436152AFE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the sum of: $9, 99, 999$ and $9999$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-          &     &     &     &  9 \\
-          &     &     &  9  &  9 \\
-          &     &  9  &  9  &  9 \\
-{}+       &  9  &  9  &  9  &  9 \\
-\hline
-       1  &  1  &  1  &  0  &  6
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
-                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
-                        &= 11110 - 4 \\\\
-                        &= 11106 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11106$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' id='FORM-E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E7C66B09-5BA0-4B5C-BA6E-344436152AFE'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

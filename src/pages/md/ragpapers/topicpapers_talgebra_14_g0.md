@@ -1,9 +1,693 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-g0"
 title: "TopicPaper - Algebra - 14 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F02FB4F1-68F5-4FE5-9070-16666391FDCB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the boxes below
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$45 + \boxed{\phantom{5555}} =  600$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+$
+\begin{aligned}
+45 + a &= 600 \\\\
+a      &= 600 - 45 \\\\
+a      &= 555
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$555$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$360 \div 10 = 3.6 \times \boxed{\phantom{5555}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+$
+\begin{aligned}
+360 \div 10                  &= 3.6 \times a \\\\
+\dfrac {360} {10}            &= 3.6 \times a \\\\
+\dfrac {360} {10 \times 3.6} &= a \\\\
+a                            &= \dfrac {360} {10 \times 3.6} \\\\
+a                            &= \dfrac {360} {36} \\\\
+a                            &= \dfrac {36 \times 10} {36} \\\\
+a                            &= \dfrac {\cancel {36} \times 10} {\cancel {36}} \\\\
+a                            &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$24 \div (\boxed{\phantom{5555}} -  8) = 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=a$
+
+$
+\begin{aligned}
+24 \div (a - 8) &= 6 \\\\
+a - 8           &= 6 \times 24 \\\\
+a - 8           &= 144 \\\\
+a               &= 144 + 8 \\\\
+a               &= 152
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$152$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' id='FORM-F02FB4F1-68F5-4FE5-9070-16666391FDCB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F02FB4F1-68F5-4FE5-9070-16666391FDCB'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A pineapple costs $\pounds 2.47$.
+
+James has a $\pounds 10$ note.
+
+He buys as many pineapples as he can with his $\pounds 10$ note.   
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many pineapples does James buy?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Total pineapples he buys} &= \dfrac {10} {2.47} \\\\
+                                 &= 4.0485 \\\\
+                                 &= 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How much change should James receive from his $\pounds 10$ note?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change received} &= 10 - 4 \times 2.47 \\\\
+                        &= 10 - 9.88 \\\\
+                        &= \pounds 0.12 \\\\
+                        &= 0.12 \times 100 \text{p} \\\\
+                        &= 12 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' id='FORM-23036B78-59C9-4958-A9D7-2BEF6461A408' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-23036B78-59C9-4958-A9D7-2BEF6461A408'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Caley starts with a number, doubles it and then subtracts $7$.
+
+The result is $31$.
+
+What number did Caley start with?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $=a$
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a - 7 &= 31 \\\\
+2 a            &= 31 + 7 \\\\
+2 a            &= 38 \\\\
+a              &= \dfrac {38} {2} \\\\
+a              &= \dfrac {19 \times 2} {2} \\\\
+a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
+a              &= 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' id='FORM-53762856-3EC8-489C-8BC4-5F21432EF753' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-53762856-3EC8-489C-8BC4-5F21432EF753'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>D9392A40-884A-464D-8238-386B5F1D4905</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+When Helen hangs out her washing on the line, she always uses $3$ pegs for a shirt and $2$ pegs for a jumper.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Monday, Helen hangs $8$ shirts and $4$ jumpers on the washing line.
+
+How many pegs does she use?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Pegs used} &= 8 \times 3 + 4 \times 2 \\\\
+                 &= 24 + 8 \\\\
+                 &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Wednesday, Helen hangs $5$ shirts and some jumpers on the line.
+
+She uses $21$ pegs altogether.
+
+How many jumpers does Helen hang on the line?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of jumpers hung $= j$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times 5 + 2 \times j &= 21 \\\\
+15 + 2 j                &= 21 \\\\
+2 j                     &= 21 - 15 \\\\
+2 j                     &= 6 \\\\
+j                       &= \dfrac {6} {2} \\\\
+j                       &= \dfrac {2 \times 3} {2} \\\\
+j                       &= \dfrac {\cancel {2} \times 3} {\cancel {2}} \\\\
+j                       &= 3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On Friday, Helen uses $65$ pegs.
+
+She hangs an equal number of shirts and jumpers on the line.
+
+How many shirts does she hang on the washing line on Friday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of jumpers hung $= j$
+
+Number of shirts hung $= j$
+
+As per the question,
+
+$
+\begin{aligned}
+3 \times j + 2 \times j &= 65 \\\\
+5 j                     &= 65 \\\\
+j                       &= \dfrac {65} {5} \\\\
+j                       &= \dfrac {13 \times 5} {5} \\\\
+j                       &= \dfrac {13 \times \cancel {5}} {\cancel {5}} \\\\
+j                       &= 13
+\end{aligned}
+$
+
+Jumpers hung $=$ Shirts hung $= 13$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13, \ 13$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D9392A40-884A-464D-8238-386B5F1D4905' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D9392A40-884A-464D-8238-386B5F1D4905' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D9392A40-884A-464D-8238-386B5F1D4905' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D9392A40-884A-464D-8238-386B5F1D4905' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='D9392A40-884A-464D-8238-386B5F1D4905' id='FORM-D9392A40-884A-464D-8238-386B5F1D4905' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D9392A40-884A-464D-8238-386B5F1D4905'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:35</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>B5A67EBF-7804-44BA-A78D-4588DF38FCE3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Half of a certain number is $17$. What is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned} 
+\dfrac {1} {2} \times a                           &= 17 \\\\
+a                                                 &= 17 \times 2 \\\\
+a                                                 &= 34
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' id='FORM-B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B5A67EBF-7804-44BA-A78D-4588DF38FCE3'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1434,384 +2118,6 @@ $\pounds 72.75$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>D22E8139-C56E-4623-B929-0A178195BA8D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write a number in each box to complete the statements.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$16.7 \times 1000 = \boxed{\phantom{1111}}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 16.7 \times 1000 \\\\
-&= 16700
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16700$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\boxed{\phantom{1111}} \div 100 = 3.7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$.
-
-As per the question,
-
-$
-\begin{aligned}
-a \div 100          &= 3.7 \\\\
-\dfrac {a} {100}    &= 3.7 \\\\
-a                   &= 3.7 \times 100 \\\\
-a                   &= 370
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$370$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='D22E8139-C56E-4623-B929-0A178195BA8D' id='FORM-D22E8139-C56E-4623-B929-0A178195BA8D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D22E8139-C56E-4623-B929-0A178195BA8D'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Barbara buys a box containing a selection of three types of biscuit.
-
-There are eight chocolate biscuits.
-
-A third of the other biscuits are custard creams.
-
-There are twelve ginger biscuits. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many custard creams are there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Custard biscuit are a third of other biscuits then chocolate biscuits so they are a third of ginger biscuits. Using that,
-
-$
-\begin{aligned}
-\text {Total custard creams}    &= \dfrac {1} {3} \times 12 \\\\
-                                &= \dfrac {12} {3} \\\\
-                                &= \dfrac {4 \times 3} {3} \\\\
-                                &= \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                &= 4
-\end{aligned}
-$
-
-There are $4$ custard creams.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many biscuits are in the box?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Total biscuits in the box}    &= 8 + 12 + \dfrac {1} {3} \times 12 \\\\
-                                     &= 20 + \dfrac {12} {3} \\\\
-                                     &= 20 + \dfrac {4 \times 3} {3} \\\\
-                                     &= 20 + \dfrac {4 \times \cancel {3}} {\cancel {3}} \\\\
-                                     &= 20+ 4 \\\\
-                                     &= 24
-\end{aligned}
-$
-
-There are $24$ biscuits in the box.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' id='FORM-B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B2C71E9E-FF5E-4A8B-95AE-A1D6B8ACEB4A'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>34C4A0D4-9A04-4290-879F-66A94B759004</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a box of shapes there are three times as many squares as there are circles.
-
-There are twice as many triangles as squares.
-
-
-If there are $45$ squares, how many shapes are there altogether?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Number of circles $= \dfrac {45} {3}$.
-
-Number of triangles $= 45 \times 2$.
-
-$
-\begin{aligned}
-\text {Total shapes}    &= 45 + \dfrac {45} {3} + 45 \times 2 \\\\
-                        &= 45 + \dfrac {15 \times 3} {3} +90 \\\\
-                        &= 45 + \dfrac {15 \times \cancel {3}} {\cancel {3}} +90 \\\\
-                        &= 45 + 15 + 90 \\\\
-                        &= 60 + 90 \\\\
-                        &= 150
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='34C4A0D4-9A04-4290-879F-66A94B759004' id='FORM-34C4A0D4-9A04-4290-879F-66A94B759004' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-34C4A0D4-9A04-4290-879F-66A94B759004'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:21</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,191 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-4-g0"
 title: "TopicPaper - Algebra - 4 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate this expression: 
-
-$5(6x + 7y - 8z)$
-
-$x = 9$ 
-
-$y = 3$
-
-$z = 6$
-
-- $95$
-- $120$
-- $135$
-- $180$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 5 (6x + 7y - 8z) \\\\
-&= 5 (6 \times 9 + 7 \times 3 - 8 \times 6) \\\\
-&= 5 (54 + 21 - 48) \\\\
-&= 5 \times 27 \\\\
-&= 135
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>C</p>
-</div>
-<div class='answer'>
-
-$135$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' id='FORM-75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-75A4A1B2-39C8-487C-BD89-470F69BE0F8C'>Initial</p>
-</div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>07071090-243A-4C15-B778-53C51DA63E26</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I am thinking of a number.
-I multiply it by $4$ and add $3$ to it.
-My solution is $23$.
-
-What is my number?
-
--  $5$
--  $80$
--  $6.5$
--  $8.75$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number I am thinking of $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 4 + 3                                  &= 23 \\\\
-a \times 4                                      &= 23 - 3 \\\\
-4a                                              & = 20 \\\\
-a                                               &= \dfrac {20} {4} \\\\
-a                                               &= \dfrac {5 \times 4} {4} \\\\
-a                                               &= \dfrac {5 \times \cancel{4}} {\cancel{4}} \\\\
-a                                               &= 5
-\end{aligned}
-$
-
-The number I was thinking of $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' id='FORM-07071090-243A-4C15-B778-53C51DA63E26' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-07071090-243A-4C15-B778-53C51DA63E26'>Initial</p>
-</div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -2483,6 +2301,192 @@ $84$
 </div>
 <div class='papername'>
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C8FAAA5C-9050-4A2B-A057-F0043B9279E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Two fifths of the children in a swimming pool are boys.
+
+There are $72$ girls in the pool. How many boys are there? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+Let the total students $= a$
+
+As per the question,
+
+Fraction of boys $= \dfrac {2} {5} \ \text {of} \ a$.
+
+Fraction of girls $= \dfrac {3} {5} \ \text {of} \ a$.
+
+$
+\begin {aligned}
+\dfrac {3} {5} \ \text {of} \ a   &= 72 \\\\
+\dfrac {3} {5} \times a           &= 72 \\\\
+3a                                &= 72 \times 5 \\\\
+a                                 &= \dfrac {24 \times 3 \times 5} {3} \\\\
+a                                 &= \dfrac {24 \times \cancel {3} \times 5} {\cancel {3} } \\\\
+a                                 &= 24 \times 5 \\\\
+a                                 &= 120
+\end {aligned}
+$
+
+Now, lets calculate the total number of boys.
+
+$
+\begin {aligned}
+\text {Number of boys}  &= \dfrac {2} {5} \ \text {of} \ 120 \\\\
+                        &= \dfrac {2} {5} \times 120 \\\\
+                        &= \dfrac {2 \times 120} {5} \\\\
+                        &= \dfrac {2 \times 24 \times 5} {5} \\\\
+                        &= \dfrac {2 \times 24 \times \cancel {5}} {\cancel {5}} \\\\
+                        &= 2 \times 24 \\\\
+                        &= 48
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C8FAAA5C-9050-4A2B-A057-F0043B9279E3' id='FORM-C8FAAA5C-9050-4A2B-A057-F0043B9279E3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C8FAAA5C-9050-4A2B-A057-F0043B9279E3'>Initial</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>738E804C-DF07-4608-919A-55C23079A59F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A menswear shop sells $7$ times as many white shirts as checked shirts. $72$ shirts are sold in total. How many white shirts are sold? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of checked shirts sold $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 7 a &= 72 \\\\
+8 a     &= 72 \\\\
+a       &= \dfrac {72} {8} \\\\
+a       &= \dfrac {8 \times 9} {8} \\\\
+a       &= \dfrac {\cancel {8} \times 9} {\cancel {8}} \\\\
+a       &= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Number of white shirts sold} &= 7 \times a \\\\
+                                   &= 7 \times 9 \\\\
+                                   &= 63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='738E804C-DF07-4608-919A-55C23079A59F' id='FORM-738E804C-DF07-4608-919A-55C23079A59F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-738E804C-DF07-4608-919A-55C23079A59F'>Initial</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

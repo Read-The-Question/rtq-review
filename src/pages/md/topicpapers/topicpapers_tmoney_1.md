@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2004,6 +2004,206 @@ $\pounds 20.90$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The cost in pounds, $C$, of going to the cinema can be worked out using the formula
+
+$C = 8a + 3k$
+
+In this formula $a$ stands for the number of adults and $k$ stands for the number of children.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the cost if three adults and one child go to the cinema?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+C             &= 8a + 3k \\\\
+              &= 24 + 3 \\\\
+              &= \pounds 27
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The total cost for the Bryant family is $\pounds 25$. How many adults and how many children are in the family?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+
+$
+\begin {aligned}
+8 \times 2 + 3k     &= 25 \\\\
+16 + 3k             &= 25 \\\\
+3k                  &= 25 - 16 \\\\
+3k                  &= 9 \\\\
+k                   &= \dfrac {9} {3} \\\\
+k                   &= \dfrac {3 \times 3} {3} \\\\
+k                   &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+k                   &= 3
+\end {aligned}
+$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+
+</div>
+<div class='working'>
+
+This can be inferred by using trial and error.
+
+Let's find the maximum number of adult tickets that can be bought with $\pounds 25$.
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per adult}}   &= \text {No. of adult tickets} \\\\
+\pounds \dfrac {25} {8}                                 &= \text {No. of adult tickets} \\\\
+\dfrac {8 \times 3 + 1} {8}                             &= 3 \ \text {adult tickets}  + \text {Rest} \ \pounds 1
+\end {aligned}
+$
+
+For $\pounds 1$ we cannot buy any child ticket. Let's reduce $1$ adult ticket and buy child tickets.
+
+$
+\begin {aligned}
+8 \times 2 \ \text {adults}     &= \pounds 16 \\\\
+\pounds 25 - \pounds 16         &= \pounds 9
+\end {aligned}
+$
+
+Let's find the maximum number of child tickets that can be bought with $\pounds 9$
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per child}}   &= \text {No. of child tickets} \\\\
+\pounds \dfrac {9} {3}                                  &= 3 \ \text {tickets}
+\end {aligned}
+$
+
+$8 \times 2 + 3 \times 3 = \pounds 25$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\text {Adult}    = 2 \\
+\text {Children} = 3
+$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' id='FORM-F46CBE4D-99F4-42BD-99FC-07C324ACDE6D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F46CBE4D-99F4-42BD-99FC-07C324ACDE6D'>Initial</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
@@ -3735,92 +3935,6 @@ $\pounds 18$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:39</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>1B8867E6-DD66-4F3F-811C-A4B71ADFBF90</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A multipack of $12$ cans of Ned's cola cost $\pounds 6.95$. 
-
-A single can of Ned's cola costs $65 \ \text{pence}$ if bought individually. 
-
-Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12$ cans individually, giving your answer in pence.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required
-. 
-
-$
-\begin {aligned}
-\text {Cost of 12 cans}                 &= 12 \times 65 \ \text {pence} \\\\
-                                        &= 780 \ \text {pence} \\\\
-\text {Difference in cost}              &= 780 \ \text {pence} - \pounds 6.95 \\\\
-                                        &= 780 \ \text {pence} - 6.95 \times 100 \ \text {pence} \\\\
-                                        &= 780 - 695 \\\\
-                                        &= 85 \ \text {pence}
-\end {aligned}
-$
-
-It is $85 \ \text {pence}$ cheaper to buy a multipack of $12$ cans than to buy $12$ cans individually.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$85 \ \text {pence}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' id='FORM-1B8867E6-DD66-4F3F-811C-A4B71ADFBF90' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1B8867E6-DD66-4F3F-811C-A4B71ADFBF90'>Initial</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:10</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

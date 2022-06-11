@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-2"
 title: "TopicPaper - Probability - 2"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,476 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>8F914366-D570-42EC-8EC9-5AF58D5C4B9F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a game two discs are tossed and the numbers landing uppermost are added together.
+
+The red disc has the number $3$ on one side and $5$ on the other side; whereas the blue disc has $4$ on one side and $7$ on the other.
+
+If they so that $3$ and $7$ are showing, the score is $10$.
+
+Write down the other possible scores for this game.
+
+..... ..... .....
+
+In a new game a green disc has $6$ on one side and $4$ on the other. A yellow disc has $1$ on one side and $3$ on the other. The rules are the same. Find the score which you are **most likely** to get.
+
+.....
+
+In another game a pink disc has $8$ on one side, but on the other side is a mystery number, and a purple disc has $4$ on one side with a different mystery number on the back.
+
+The four possible total scores are $12, 13, 14, 15$. Find two possible pairs of values for the mystery numbers.
+
+pink .....
+
+purple .....
+
+OR
+
+pink .....
+
+purple .....
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>F8E338C3-C103-4D09-BB35-EDC5098ED492</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Lee has two spinners 
+             
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+              
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the probability of spinning a $4$ on spinner A?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+On which spinner is he more likely to get a $1$? Give reasons.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>48808E0F-DECB-4D83-B293-06E1EB8FC2E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have $6$ blue counters and $4$ red counters in a bag. What is the probability of choosing a red counter when I take a counter out of the bag? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
+$
+\begin{aligned}
+\text{Probability of choosing red counter}      &= \dfrac {4} {6 + 4} \\\\
+                                                &= \dfrac {4} {10} \\\\
+                                                &= \dfrac {2 \times 2} {2 \times 5} \\\\
+                                                &= \dfrac {\cancel{2} \times 2} {\cancel{2} \times 5} \\\\
+                                                &= \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='48808E0F-DECB-4D83-B293-06E1EB8FC2E4' id='FORM-48808E0F-DECB-4D83-B293-06E1EB8FC2E4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-48808E0F-DECB-4D83-B293-06E1EB8FC2E4'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prcc question'>
+<div class='uuid'>
+<p>91EA7C9C-B1CA-4BC9-B4C1-8F292EB3A141</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In  a  bowl there are **6** apples, **3** plums   and   **4**
+peaches. If I  choose   one   piece of fruit at random,  what  is the   probability
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+That  it is not   a  plum?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+&= \dfrac {10} {13}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {10} {13}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+That  it is a  banana?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are 24 red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains 15 blue counters. How many white counters are there in the bag? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
+
+$
+\begin{aligned}
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
+\end{aligned}
+$
+
+There are $105$ white counters in the bag.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -3892,547 +4362,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>36237D66-C49D-480D-BC6D-502C70540385</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-|  $7$     | $15$     | $20$     |
-|:----:    |:----:    |:----:    |
-| $14$     |  $2$     | $36$     |
-|  $5$     | $12$     | $19$     |
-
-Stuart chooses a number from the grid shown above. He is equally likely to choose any of these numbers. What is the probability that the number he chooses is:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-even 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a multiple of $5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-a prime number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-not a multiple of $3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>5957E305-2A26-4913-9626-91FC0AF27674</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The arrow is spun and it has an equal chance of stopping at any of the numbers. Is it
-
-A.  More likely to land on a prime number than not a prime number?
-
-B.  Just as likely to land on a prime number as not a prime number?
-
-C.  More likely to land on a number that is not a prime number rather than a prime number?
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many are green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\
-                      &= 40 - \dfrac {1} {2} \times 40 - \dfrac {1} {5} \times 40 \\\\
-                      &= 40 - \dfrac {40} {2} - \dfrac {40} {5} \\\\
-                      &= 40 - \dfrac {2 \times 20} {2} - \dfrac {5 \times 8} {5} \\\\
-                      &= 40 - \dfrac {\cancel{2} \times 20} {\cancel{2}} - \dfrac {\cancel{5} \times 8} {\cancel{5}} \\\\
-                      &= 40 - 20 - 8 \\\\
-                      &= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If I shake the box and then pick out one counter, what is the probability that it is green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Probability of getting green counter}     &= \dfrac {\text{Green counters}} {\text{Total counters}} \\\\
-                                                &= \dfrac {12} {40} \\\\
-                                                &= \dfrac {4 \times 3} {4 \times 10} \\\\
-                                                &= \dfrac {\cancel{4} \times 3} {\cancel{4} \times 10} \\\\
-                                                &= \dfrac {3} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {10}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' id='FORM-3167920D-0D61-408D-81BB-04D02838D8D1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3167920D-0D61-408D-81BB-04D02838D8D1'>Initial</p>
-</div>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>B42777BC-120D-48AF-AD07-D0BBABFF65E2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a fair six-sided dice, numbered **4, 9, 12, 16, 20** and **24**
-
-I am going to roll the dice.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the probability of rolling a **multiple of 4**?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the probability of rolling a **square number**?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

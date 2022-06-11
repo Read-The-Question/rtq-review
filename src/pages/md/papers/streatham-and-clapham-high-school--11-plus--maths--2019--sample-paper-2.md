@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2024,7 +2024,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tnumber
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3326,9 +3326,6 @@ $900$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

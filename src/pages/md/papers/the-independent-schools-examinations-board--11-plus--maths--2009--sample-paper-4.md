@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1837,19 +1837,13 @@ $26$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 tdraw
 </li>
 <li>
 tsymmetry
-</li>
-<li>
-tareaperimeter
-</li>
-<li>
-tgraph
 </li>
 </ul>
 </div>

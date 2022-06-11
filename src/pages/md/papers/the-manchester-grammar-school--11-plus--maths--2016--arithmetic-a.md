@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1194,9 +1194,6 @@ $129$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 talgebra
 </li>

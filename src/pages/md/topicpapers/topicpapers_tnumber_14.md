@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-14"
 title: "TopicPaper - Number - 14"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,741 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put the correct number in the empty box.
+
+
+$\boxed { \phantom{20} } - 8 = 4 \times 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed { \green
+{20} } - 8 = 4 \times 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' id='FORM-9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9AF84988-F1DF-41DF-AEE3-E71D1B39C904'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>E258ACB8-5491-4DFA-800B-58FEA66CFEB0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the gaps
+
+%waffles%
+
+addition  subtraction  multiplication
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Shakira has five cards with numbers on them, as shown below:
+
+$
+\large {
+\boxed {8} \quad 
+\boxed {7} \quad 
+\boxed {1} \quad 
+\boxed {5} \quad 
+\boxed {3} \quad 
+}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the **largest even** number that Shakira can make using exactly **four** cards.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$7538$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7538$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the **smallest odd** number that Shakira can make using all **five** cards.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$13587$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13587$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' id='FORM-51C9363A-916D-4432-92C0-0C6EF1343F19' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-51C9363A-916D-4432-92C0-0C6EF1343F19'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>13F85E8A-4638-487F-986B-CDE093D03A0A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the number which is $5$ less than eight thousand and three.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 8003 - 5 \\\\
+&= 7998
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7998$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' id='FORM-13F85E8A-4638-487F-986B-CDE093D03A0A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-13F85E8A-4638-487F-986B-CDE093D03A0A'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>B778BA48-3993-4A43-9EF1-7FDA838BE4E1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hui Ling measures her pencil before she sharpens it.
+
+![missing image](/papers/missing_image.svg)
+
+
+What is the length of the pencil?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$3.9 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3.9 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' id='FORM-B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B778BA48-3993-4A43-9EF1-7FDA838BE4E1'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$15 \times 34 = 510$
+
+Use this information to work out:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$150 \times 340$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34                     &= 510 \\\\
+15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
+150 \times 340                   &= 51000
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51000$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15 \times 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 17          &= \dfrac {510} {2} \\\\
+15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
+15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
+15 \times 17          &= 255
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$255$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$510 + 17$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+15 \times 34          &= 510 \\\\
+15 \times 17 \times 2 &= 510 \\\\
+15 \times 2           &= \dfrac {510} {17} \\\\
+\dfrac {510} {17}     &= 15 \times 2 \\\\
+\dfrac {510} {17}     &= 30 \\\\
+510 \div 17           &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' id='FORM-F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F2D84620-5FC8-4469-A7DA-4FEFD38284C0'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>77B7035B-4C89-427D-A347-E8D034630C49</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$
+\large {
+\boxed {8} \quad 
+\boxed {3} \quad 
+\boxed {5} \quad 
+\boxed {4} \quad 
+\boxed {9} \quad 
+}
+$
+
+
+Using all these digits once only make
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the largest number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$98543$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$98543$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the largest number divisible by $4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$98534$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$98534$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the smallest even number
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$35948$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35948$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' id='FORM-77B7035B-4C89-427D-A347-E8D034630C49' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-77B7035B-4C89-427D-A347-E8D034630C49'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
@@ -3950,775 +4685,6 @@ $608$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>AFFC377F-8DB8-4D17-8980-0952A23564BA</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the following diagrams, the number underneath is calculated using a rule.
-
-The rule is **"multiply the numbers in the white regions and then add the numbers in the grey regions."**
-
-The total is written underneath the diagram.
-
-For example:
-
-![missing image](/papers/missing_image.svg)
-
-
-Fill in the dotted line to complete the following diagrams:
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:35</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>913E3410-230E-40AF-A424-653751985E82</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number is $1000$ times bigger than $34.2$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 1000 \times 34.2 \\\\
-&= 1000 \times \dfrac {342} {10} \\\\
-&= \dfrac {342 \times 1000} {10} \\\\
-&= \dfrac {342 \times 100 \times 10} {10} \\\\
-&= \dfrac {342 \times 100 \times \cancel {10}} {\cancel {10}} \\\\
-&= 342 \times 100 \\\\
-&= 34200
-\end {aligned}
-$
-
-$34200$ is $1000$ times bigger than $34.2$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34200$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Which number is *one hundred* less than *two thousand and forty?*
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 2040 - 100 \\\\
-&= 1940
-\end {aligned}
-$
-
-*nineteen hundred and forty* is *one hundred* less than *two thousand and forty*.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1940$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='913E3410-230E-40AF-A424-653751985E82' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='913E3410-230E-40AF-A424-653751985E82' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='913E3410-230E-40AF-A424-653751985E82' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='913E3410-230E-40AF-A424-653751985E82' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='913E3410-230E-40AF-A424-653751985E82' id='FORM-913E3410-230E-40AF-A424-653751985E82' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-913E3410-230E-40AF-A424-653751985E82'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the three numbers in the list below which have a sum of $12$ and a product of $42$
-
-$2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$2 + 3 + 7 = 12$
-
-$2 \times 3 \times 7 = 42$ 
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>283D33E8-E4AF-4295-A01E-F5EF9BA7A56E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sally has the number machine shown below.
-
-![missing image](/papers/missing_image.svg)
-
-
-Complete the table of input and output numbers for Sally’s machine.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Imogen has a different number machine which produced the following table of input and output numbers.
-
-![missing table](/papers/missing_table.svg)
-
-
-Unfortunately, the labels have fallen off Imogen’s machine.
-
-Write suitable labels on the diagram below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>CE3CCF3A-8056-438D-8058-4C8A604405AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Summer has correctly used her calculator to work out that
-
-$17 \times 538 = 9146$
-
-Without doing any long multiplication or division, use Summer’s calculation to work out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$17 \times 540$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 17 \times 540 \\\\
-&= 17 \times (538 + 2) \\\\
-&= 17 \times 538 + 17 \times 2 \\\\
-&= 9146 + 17 \times 2 \\\\
-&= 9146 + 34 \\\\
-&= 9180
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9180$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$27 \times 538$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 27 \times 538 \\\\
-&= (10 + 17) \times 538 \\\\
-&= 10 \times 538 + 17 \times 538 \\\\
-&= 5380 + 9146 \\\\
-&= 14526
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14526$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9146 \div 34$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 9146 \div 34 \\\\
-&= \dfrac {9146} {34} \\\\
-&= \dfrac {17 \times 2 \times 269} {17 \times 2} \\\\
-&= \dfrac {\cancel {17} \times \cancel {2} \times 269} {\cancel {17} \times \cancel {2}} \\\\
-&= 269
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$269$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CE3CCF3A-8056-438D-8058-4C8A604405AE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CE3CCF3A-8056-438D-8058-4C8A604405AE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CE3CCF3A-8056-438D-8058-4C8A604405AE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='CE3CCF3A-8056-438D-8058-4C8A604405AE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='CE3CCF3A-8056-438D-8058-4C8A604405AE' id='FORM-CE3CCF3A-8056-438D-8058-4C8A604405AE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CE3CCF3A-8056-438D-8058-4C8A604405AE'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>8CA178E1-3E53-4A12-A620-3A797155DEEC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Given that $7.84 \times 6 = 46.8$, work out the value of $7.84 \times 18$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-7.84 \times 6             &= 46.8 \\\\
-7.84 \times 6 \times 3    &= 46.8 \times 3 \\\\
-7.84 \times 18            &= 140.4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$140.4$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='8CA178E1-3E53-4A12-A620-3A797155DEEC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='8CA178E1-3E53-4A12-A620-3A797155DEEC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='8CA178E1-3E53-4A12-A620-3A797155DEEC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='8CA178E1-3E53-4A12-A620-3A797155DEEC' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='8CA178E1-3E53-4A12-A620-3A797155DEEC' id='FORM-8CA178E1-3E53-4A12-A620-3A797155DEEC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-8CA178E1-3E53-4A12-A620-3A797155DEEC'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>5D9766EF-08AE-488D-9646-593722B91E32</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The number machine below changes numbers according to the rule:
-
-**multiply by $3$, then add $6$**
-
-![missing image](/papers/missing_image.svg)
-
-
-Complete the input and output numbers for the machine.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are two possible function machines which will give results shown below. 
-
-Work out both possible answers.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

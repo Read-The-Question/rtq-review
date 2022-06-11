@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttable-1"
 title: "TopicPaper - Table - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1808,6 +1808,50 @@ TODOANSWER
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>033A3E08-BB83-4073-AB96-CF8EFE6B5020</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Tick the correct box for each statement:
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:31</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>B319A8FD-DA45-4765-93A2-206B628B6D53</p>
 </div>
 <div class='topics'>
@@ -2348,6 +2392,265 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>5D77E426-7588-494B-9AEC-B5365525A3B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttable
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each day a shoal of small fish increases in number by $50\%$ but each night a shark eats $300$ of them. 
+
+So if there are $1000$ fish on Monday morning, then there will be $1500$ by Monday evening but only $1200$ left by Tuesday morning!
+
+**Complete the following tables showing the number of fish each morning.** 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+|       Day      | Mon morning | Tues Morning | Wed Morning | Thurs Morning |
+|:--------------:|:-----------:|:------------:|:-----------:|:-------------:|
+| Number of Fish |     2000    |              |             |               |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+|       Day      | Mon morning | Tues Morning | Wed Morning | Thurs Morning |
+|:--------------:|:-----------:|:------------:|:-----------:|:-------------:|
+| Number of Fish |     520     |              |             |               |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+|       Day      | Mon morning | Tues Morning | Wed Morning |
+|:--------------:|:-----------:|:------------:|:-----------:|
+| Number of Fish |             |              |    1050     |
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the number of fish each morning is the same on each of the four days, how many fish were there on Monday morning?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Word got round amongst the sharks that there was a good meal to be had in this part of the sea! 
+During the day there is still a $50\%$ increase in the number of fish, 
+but if $15$ sharks came each night, eating $300$ fish each, complete the table below.
+
+|       Day      | Mon morning | Tues Morning | Wed Morning | Thurs Morning |
+|:--------------:|:-----------:|:------------:|:-----------:|:-------------:|
+| Number of Fish |    12000    |              |             |               |
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:9</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

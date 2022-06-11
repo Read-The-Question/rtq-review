@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-4"
 title: "TopicPaper - Time - 4"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,180 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Eleanor is taking part in a triathlon. this starts with a swimming stage followed
+by a cycling stage and finishes with a running stage. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+She starts the swimming stage at $12:45$ pm. If she takes $79\,minutes$ to complete this stage, at what time does she start the cycling stage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per question'
+
+$
+\begin{aligned}
+\text{ Time (Cycling)} &= \text{Start Time (Swimming)}+ \text{Time taken (Swimming)} \\'\\
+&= 12:45 + 79 \text {mins}  \\\\
+&= 12:45 + 60 + 15 + 4  \\\\
+&= 2:04 \ \text{pm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2:04 \ \text{pm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she starts the running stage at $4:38\,pm$ work out how long she took in minutes on the cycling stage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{ Time taken (Cycling)} &= \text{Start Time (running)} -  \text{Start Time (Cycling)} \\\\
+&=  4:38 - 2:04 \\\\
+&=  2:34 \ \text{hr} \\\\
+&= 154 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$154 \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If she took 107 minutes on the running stage work out how long she took to complete the whole triathlon. Give your answer in hours and minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Whole (Triathlon)} &= \text{Time (Swimming)} + \text{Time(Cycling)} + \text{Time (Running)} \\\\
+&=  79 \ \text{minutes} + 154 \ \text{minutes} + 107 \ \text{minutes} \\\\
+&=  340 \ \text{minutes} \\\\
+&=  5 \  \text{hr} \ \ 40 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5 \  \text{hr} \ \ 40 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' id='FORM-2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2BD0A9C8-8E6C-44CA-AD4F-07FBB836A989'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -3816,116 +3990,6 @@ TODOANSWER
 
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>0A614191-1791-4F03-962B-E2CF656E9B67</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-ttable
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here is part of a train timetable for trains running from Bunley to Wester. 
-
-Bunley  depart  $08 00$
-
-Sidcot  arrive  $08 43$ 
-
-Sidcot  depart  $08 45$
-
-Wester  arrive  $10 32$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long does the journey from Sidcot to Wester take?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The time it takes to get from Bunley to Wester is always the 
-same. What time did I depart from Bunley if I arrive in Wester at $12 14$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

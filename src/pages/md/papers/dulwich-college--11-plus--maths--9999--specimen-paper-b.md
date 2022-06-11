@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1567,9 +1567,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -1769,18 +1766,6 @@ TODOANSWER
 <ul>
 <li>
 tareaperimeter
-</li>
-<li>
-tmoney
-</li>
-<li>
-ttime
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tsimpleword
 </li>
 </ul>
 </div>
@@ -2381,9 +2366,6 @@ $10 {:} 40$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

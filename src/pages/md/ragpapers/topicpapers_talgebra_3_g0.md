@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-3-g0"
 title: "TopicPaper - Algebra - 3 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -158,97 +158,6 @@ $3$
 </div>
 <div class='papername'>
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>0AC56C7D-FC28-4B99-925E-27D79107E4CE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Alison, Bhavini and Catherine share a bag of sweets.
-Alison gets $5$ more sweets than Bhavini and Catherine gets twice as many sweets as Alison.
-
-Catherine gets $22$ sweets. How many sweets are there in the bag?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Catherine get}   &= 22 \ \text {sweets} \\\\
-                        &= 2 \times \text {Alison} \\\\
-\text {Alison get}      &= \dfrac {22} {2} \\\\
-                        &= \text {Bhavini} + 5 \\\\
-\text {Bhavini get}     &= \text {Alison} - 5 \\\\
-                        &= \dfrac {22} {2} - 5
-\end {aligned}
-$
-
-$
-\begin {aligned}
-\text {Total sweets}    &= \text {No. of sweets (Alison + Bhavini + Catherine)} \\\\
-                        &= \dfrac {22} {2} + \dfrac {22} {2} - 5 + 22 \\\\
-                        &= \dfrac {2 \times 11} {2} + \dfrac {2 \times 11} {2} - 5 + 22 \\\\
-                        &= \dfrac {\cancel {2} \times 11} {\cancel {2}} + \dfrac {\cancel {2} \times 11} {\cancel {2}} - 5 + 22 \\\\
-                        &= 11 + 11 - 5 + 22 \\\\
-                        &= 44 - 5 \\\\
-                        &= 39
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$39$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='0AC56C7D-FC28-4B99-925E-27D79107E4CE' id='FORM-0AC56C7D-FC28-4B99-925E-27D79107E4CE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0AC56C7D-FC28-4B99-925E-27D79107E4CE'>Initial</p>
-</div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:20</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -2957,6 +2866,188 @@ $\dfrac {9} {2}$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>75A4A1B2-39C8-487C-BD89-470F69BE0F8C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Evaluate this expression: 
+
+$5(6x + 7y - 8z)$
+
+$x = 9$ 
+
+$y = 3$
+
+$z = 6$
+
+- $95$
+- $120$
+- $135$
+- $180$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 5 (6x + 7y - 8z) \\\\
+&= 5 (6 \times 9 + 7 \times 3 - 8 \times 6) \\\\
+&= 5 (54 + 21 - 48) \\\\
+&= 5 \times 27 \\\\
+&= 135
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$135$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='75A4A1B2-39C8-487C-BD89-470F69BE0F8C' id='FORM-75A4A1B2-39C8-487C-BD89-470F69BE0F8C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-75A4A1B2-39C8-487C-BD89-470F69BE0F8C'>Initial</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>07071090-243A-4C15-B778-53C51DA63E26</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I am thinking of a number.
+I multiply it by $4$ and add $3$ to it.
+My solution is $23$.
+
+What is my number?
+
+-  $5$
+-  $80$
+-  $6.5$
+-  $8.75$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number I am thinking of $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 4 + 3                                  &= 23 \\\\
+a \times 4                                      &= 23 - 3 \\\\
+4a                                              & = 20 \\\\
+a                                               &= \dfrac {20} {4} \\\\
+a                                               &= \dfrac {5 \times 4} {4} \\\\
+a                                               &= \dfrac {5 \times \cancel{4}} {\cancel{4}} \\\\
+a                                               &= 5
+\end{aligned}
+$
+
+The number I was thinking of $= 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$5$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='07071090-243A-4C15-B778-53C51DA63E26' id='FORM-07071090-243A-4C15-B778-53C51DA63E26' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-07071090-243A-4C15-B778-53C51DA63E26'>Initial</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

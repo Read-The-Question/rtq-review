@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -64,6 +64,63 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>56AD0220-1DD0-4600-94B2-C3802804FA7F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnet
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Both of these nets fold to make a cube.
+
+Shade the square that will be opposite the black square when the net is folded into a cube.
+
+![missing image](/papers/missing_image.svg)
+  ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

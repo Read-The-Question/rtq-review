@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,234 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>23CDE55D-A582-4C8C-A0F7-78D755282183</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tcircleanswer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down the next two terms of this sequence of numbers.
+
+$2 \quad 8 \quad 14 \quad 20 \quad \ldots \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+
+</div>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $6$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+2,  &&    8,  &&  14,  &&   20,  &&   \ldots  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 20 + 6 \\\\
+                              &= 26 \\\\
+\text {Second missing number} &= 26 + 6 \\\\
+                              &= 32
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26, 32$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the $50 \text{th}$ term of this sequence of numbers?
+
+$6 \quad 11 \quad 16 \quad 21 \quad 26$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The difference between the terms is $5$.
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+5)}}  \\
+6,  &&    11,  &&  16,  &&   21,  &&   26
+\end{matrix}
+$
+
+$
+\begin {aligned}
+\text {50th term}  &= 49 \times 5 + 6 \\\\
+                   &= 245 + 6 \\\\
+                   &= 251
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$251$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Here is another number sequence.
+
+$90 \quad 99 \quad 108 \quad 117 \quad 126 \quad 135$
+
+Circle all the following numbers that would be in this number sequence.
+
+$200 \quad 2007 \quad 163 \quad 918 \quad 45$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know that a number is divisible by 9 if the sum of all its digits is divisible by 9. Using that,
+
+| Number    |         Sum                                           | Multiple of $9$
+|:------:   |:----------------------------------------------------: | :--------------:
+|  $200$    | $2 + 0 + 0 = \red {2}$                                |  No
+|  $2007$   | $2 + 0 + 0 + 7 = \green {9}$                          |  Yes
+|  $163$    | $1 + 6 + 3 = \red {10}$                               |  No
+|  $918$    | $9 + 1 + 8 = \green {18}$                             |  Yes
+|  $45$     | $4 + 5 = \green {9}$                                  |  Yes
+
+Answer $= 2007, \ 918, \ 45$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2007, \ 918, \ 45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='23CDE55D-A582-4C8C-A0F7-78D755282183' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='23CDE55D-A582-4C8C-A0F7-78D755282183' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='23CDE55D-A582-4C8C-A0F7-78D755282183' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='23CDE55D-A582-4C8C-A0F7-78D755282183' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='23CDE55D-A582-4C8C-A0F7-78D755282183' id='FORM-23CDE55D-A582-4C8C-A0F7-78D755282183' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-23CDE55D-A582-4C8C-A0F7-78D755282183'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1441,6 +1669,76 @@ $20$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D22C698B-1F71-4949-BA17-BAD0D911C0C9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jane is making a spiral out of wire. She bends the wire 
+after $1 \ \text{cm}$, then bends the wire 
+after $2 \ \text{cm}$, then $3 \ \text{cm}$ and continues in this manner.
+ 
+After $4$ bends she has used  $15 \ \text{cm}$ of wire.
+
+![missing image](/papers/missing_image.svg)
+
+
+Complete the table
+
+![missing table](/papers/missing_table.svg)
+
+
+How much wire will she have used after $6$ bends?
+ 
+How many bends will Jane have made if she uses $66 \ \text{cm}$ of wire?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3EA2B2B0-ECDC-49E5-AC93-A0CB15B62B35</p>
@@ -2224,83 +2522,6 @@ $26$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-<li>
-tnoexplanation
-</li>
-<li>
-tcircleanswer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Circle the number that will be in the middle when the numbers below are written in size order.
-
-$0.63 \quad 0.06 \quad 0.4 \quad 0.603 \quad 0.64$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's first arrange the sequence in ascending order.
-
-$0.06, \quad 0.4 \quad 0.603 \quad 0.63  \quad 0.64$
-
-Hence, it can be observed that $0.603$ is in the middle while arranged in ascending order.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.603$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' id='FORM-1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1F6F1BEB-0683-4A52-9EC5-EAFB32718EDE'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4888,308 +5109,6 @@ $7$
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>33AA7283-9415-4362-9D2D-CD9DC7BD0B4A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the missing numbers in each of these sequences. 
-
-Write your answers in the boxes provided 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$50\:\:\:42\:\:\:34\:\:\:\Box\:\:\:18$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-8)}} 
-&&  \footnotesize{\maroonC
-{(-8)}}  
-&&  \footnotesize{\maroonC
-{(-8)}}   
-&&  \footnotesize{\maroonC
-{(-8)}} \\
-50,  &&    42,  &&  34,  &&   \box,  &&   18 \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 34 - 8 \\\\
-                        &= 26
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Missing number = $26$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2.302\:\:\:2.304\:\:\:2.306\:\:\:2.308\:\:\:\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-The difference between the terms is $0.002$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+0.002)}} 
-&&  \footnotesize{\maroonC
-{(+0.002)}}  
-&&  \footnotesize{\maroonC
-{(+0.002)}}
-&&  \footnotesize{\maroonC
-{(+0.002)}} \\
-2.302,  &&    2.304,  &&  2.306,  &&   2.308 &&   \box \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 2.308 + 0.002 \\\\
-                        &= 2.010
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Missing number = $2.010$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$4\:\:\:7\:\:\:13\:\:\:25\:\:\:49\:\:\:\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+(6 \times 1))}}
-&&  \footnotesize{\maroonC
-{(+(6 \times 2))}}
-&&  \footnotesize{\maroonC
-{(+(6 \times 3))}}
-&&  \footnotesize{\maroonC
-{(+(6 \times 4))}}
-&&  \footnotesize{\maroonC
-{(+(6 \times 5))}} \\
-4,  &&    7,  &&  13,  &&   25,  &&   49 &&  \box \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 49 + 6 \times 5 \\\\
-                        &= 49 + 30 \\\\
-                        &= 79
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Missing number = $79$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$100\:\:\:81\:\:\:64\:\:\:49\:\:\:36\:\:\:\Box$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-19)}}
-&&  \footnotesize{\maroonC
-{(-17)}}
-&&  \footnotesize{\maroonC
-{(-15)}}
-&&  \footnotesize{\maroonC
-{(-13)}}
-&&  \footnotesize{\maroonC
-{(-11)}} \\
-100,  &&    81,  &&  64,  &&   49,  &&   36 &&  \box \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number}   &= 36 - 11 \\\\
-                        &= 25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Missing number = $25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$\Box\:\:\:3.5\:\:\:7\:\:\:14\:\:\:28$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}}
-&&  \footnotesize{\maroonC
-{(\times 2)}} \\
-\box,  &&    3.5,  &&  7,  &&   14,  &&   28 \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Missing number} \times 2      &= 3.5 \\\\
-                                    &= \dfrac {3.5} {2} \\\\
-                                    &= \dfrac {35} {20} \\\\
-                                    &= \dfrac {35 \times 5} {20 \times 5} \\\\
-                                    &= \dfrac {175} {100} \\\\
-                                    &= 1.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-Missing number = $1.75$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

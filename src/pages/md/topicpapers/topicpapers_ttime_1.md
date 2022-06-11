@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttime-1"
 title: "TopicPaper - Time - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2310,6 +2310,76 @@ $9 \text { hours } 40 \text { minutes}$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
+\text{Today's date}                    &= 1 \ \text{January}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1$ January
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' id='FORM-EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD'>Initial</p>
+</div>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DC19CCCC-F8B7-478B-BC0B-AD144A1E6A44</p>
@@ -3767,83 +3837,6 @@ $40 \ \text {miles per hour}$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>46D8EC39-6DB3-4670-BF10-214CD634C665</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-ttime
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many seconds in a day?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As we know, there are $24 \ \text {hours}$ in a day. so,
-
-$
-\begin{aligned}
-\text {Seconds in an hour}       &= 60 \times 60 \ \text {seconds} \\\\
-                                 &= 3600 \ \text {seconds} \\\\
-\text {Seconds in 24 hours}      &= 3600 \times 24 \\\\
-                                 &= 86400 \ \text {seconds}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86400 \ \text {seconds}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='46D8EC39-6DB3-4670-BF10-214CD634C665' id='FORM-46D8EC39-6DB3-4670-BF10-214CD634C665' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-46D8EC39-6DB3-4670-BF10-214CD634C665'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:43</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

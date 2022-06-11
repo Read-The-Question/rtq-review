@@ -1,9 +1,355 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-g0"
 title: "TopicPaper - Simpleword - 3 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest possible difference between two different nine digit numbers, 
+each of which includes all of the digits $1$ to $9$?
+
+*For example the two numbers could be:*
+
+$123456789$ and $987654321$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The smallest possible difference can be achieved by interchanging the ones and tens places.
+
+Let the first number $= 789456132$
+
+The second number $= 789456123$
+
+Difference of the two number
+
+$
+\begin{aligned}
+&= 789456132 - 789456123 \\\\
+&= 9
+\end{aligned}
+$
+
+So, the smallest possible difference between two nine digit number $= 9$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' id='FORM-AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AD565E97-7F6E-4F01-8EA7-B9B78E1FD0F3'>Initial</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>3744A7E4-7F4F-4698-AC77-A1CC7027FFF7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the British Army there are $4500$ men who are taller than $180 \ \text{cms}$. 
+Of these $750$ are taller than $190 \ \text{cms}$.
+
+How many men are there who are between $180$ and $190 \ \text{cms}$ tall? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{No. of men between 180 and 190}            &= \text{Men taller than 180} - \text{Men taller than 190} \\\\
+                                                 &= 4500 - 750 \\\\
+                                                 &= 3750
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3750$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' id='FORM-3744A7E4-7F4F-4698-AC77-A1CC7027FFF7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3744A7E4-7F4F-4698-AC77-A1CC7027FFF7'>Initial</p>
+</div>
+<div class='papername'>
+<p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>3F6998ED-9AC1-46D3-A19F-E85725A6237B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jordan eats $\dfrac{1}{4}$ of a pizza and Anna eats $\dfrac{1}{3}$ of what is left.
+
+Rohit, Guhesh and Matilda share equally the remainder.
+
+What fraction of the pizza did Matilda eat? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+While solving problems on fractions, we take whole quantity $1$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Anna ate}    &= \dfrac {1} {3} \ \text {of} \ (1 - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {4} {4} - \dfrac {1} {4}) \\\\
+                    &= \dfrac {1} {3} \times (\dfrac {4 - 1} {4}) \\\\
+                    &= \dfrac {1} {3} \times \dfrac {3} {4} \\\\
+                    &= \dfrac {1 \times 3} {3 \times 4} \\\\
+                    &= \dfrac {1 \times \cancel {3}} {\cancel {3} \times 4} \\\\
+                    &= \dfrac {1} {4} \\\\
+\text {Pizza left}  &= 1 - \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {1 \times 4} {1 \times 4} - \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {4} {4} -  \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                    &= \dfrac {4 - 1 - 1} {4} \\\\
+                    &= \dfrac {2} {4}
+\end{aligned}
+$
+
+Rohit, Guhesh and Matilda gets equally shares of the pizza.
+
+$
+\begin{aligned}
+\text {Matilda gets} &= \dfrac {1} {3} \times \dfrac {2} {4} \\\\
+                        &= \dfrac {2} {3 \times 4} \\\\
+                        &= \dfrac {2} {3 \times 2 \times 2} \\\\
+                        &= \dfrac {1} {3 \times 2} \\\\
+                        &= \dfrac {1} {6}
+\end{aligned}
+$
+
+Matilda ate $\dfrac {1} {6}$ part of the pizza.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {6}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='3F6998ED-9AC1-46D3-A19F-E85725A6237B' id='FORM-3F6998ED-9AC1-46D3-A19F-E85725A6237B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3F6998ED-9AC1-46D3-A19F-E85725A6237B'>Initial</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>32AD190F-BC19-4308-B41D-C508037F0B80</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Grace plants a row of daffodils.
+
+There is a gap of $1.1$ metres between each daffodil, and the row begins and ends with a daffodil.
+
+She has $8$ daffodils.
+
+How long is the row of daffodils when she has finished? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+No. of daffodils $= 8$
+
+No. of gaps between daffodils $= 7$
+
+Length of gap $= 1.1 \text{m}$
+
+$
+\begin{aligned}
+\text {Length of the row}   &= 7 \times 1.1 \ \text {m} \\\\\
+                            &= 7.7 \ \text {m}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.7 \ \text {m}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='32AD190F-BC19-4308-B41D-C508037F0B80' id='FORM-32AD190F-BC19-4308-B41D-C508037F0B80' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-32AD190F-BC19-4308-B41D-C508037F0B80'>Initial</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--2020--sample-paper-3:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1731,545 +2077,6 @@ $600 \ \text{g}$
 </div>
 <div class='papername'>
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>67CE5EA7-B84F-48C9-902F-F787EE74BD8A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A metal rod is $10 \dfrac{4}{5} \ \text{metres}$ long.  How many short rods $\dfrac{3}{10} \ \text{metres}$ 
-long can be cut from the longer rod?  
-
-**Show full working**.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Numbers of rods} &= \dfrac {\text {Length of longer rod}} {\text {Length of shorter rod}} \\\\
-                        &= \dfrac {10 \dfrac {4} {5}} {\dfrac {3} {10}} \\\\
-                        &= \dfrac {\dfrac {54} {5}} {\dfrac {3} {10}} \\\\
-                        &= \dfrac {54} {5} \times \dfrac {10} {3} \\\\
-                        &= \dfrac {54 \times 10} {5 \times 3} \\\\
-                        &= \dfrac {3 \times 18 \times 5 \times 2} {5 \times 3} \\\\
-                        &= \dfrac {\cancel {3} \times 18 \times \cancel {5} \times 2} {\cancel {5} \times \cancel {3}} \\\\
-                        &= 18 \times 2 \\\\
-                        &= 36
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$36$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='67CE5EA7-B84F-48C9-902F-F787EE74BD8A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='67CE5EA7-B84F-48C9-902F-F787EE74BD8A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='67CE5EA7-B84F-48C9-902F-F787EE74BD8A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='67CE5EA7-B84F-48C9-902F-F787EE74BD8A' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='67CE5EA7-B84F-48C9-902F-F787EE74BD8A' id='FORM-67CE5EA7-B84F-48C9-902F-F787EE74BD8A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-67CE5EA7-B84F-48C9-902F-F787EE74BD8A'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:31</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>124DFD08-EC18-4CAC-8972-8965D4378AF1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There is some coloured water in the jar.
-
-![missing image](/papers/missing_image.svg)
-
-
-How much **more** water is needed to make $\bold{2 \ \text{litres}}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Water needed} &= 2 - 1.3 \\\\
-                     &= 0.7 \ \text{litres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.7 \ \text{litres}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='124DFD08-EC18-4CAC-8972-8965D4378AF1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='124DFD08-EC18-4CAC-8972-8965D4378AF1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='124DFD08-EC18-4CAC-8972-8965D4378AF1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='124DFD08-EC18-4CAC-8972-8965D4378AF1' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='124DFD08-EC18-4CAC-8972-8965D4378AF1' id='FORM-124DFD08-EC18-4CAC-8972-8965D4378AF1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-124DFD08-EC18-4CAC-8972-8965D4378AF1'>Initial</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>55EE8A7B-471C-4247-BC0B-6023B61F7656</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $120$ boys and $80$ girls at a small primary school. During the holidays, $50\%$ of the boys and $60\%$ of the girls saw the latest Harry Potter movie. How many pupils in total from the primary school saw the movie ?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {50} {100} \times {120} + \dfrac {60} {100} \times {80} \\\\
-&= \dfrac {50 \times 120} {100} + \dfrac {60 \times 80} {100} \\\\
-&= \dfrac {5 \cancel 0 \times 12 \cancel 0} {1 \cancel 0 \cancel 0} + \dfrac {6 \cancel 0 \times 8 \cancel 0} {1 \cancel 0 \cancel 0} \\\\
-&= 5 \times 12 + 6 \times 8 \\\\
-&= 60 + 48 \\\\
-&= 128
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$128$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='55EE8A7B-471C-4247-BC0B-6023B61F7656' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='55EE8A7B-471C-4247-BC0B-6023B61F7656' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='55EE8A7B-471C-4247-BC0B-6023B61F7656' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='55EE8A7B-471C-4247-BC0B-6023B61F7656' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='55EE8A7B-471C-4247-BC0B-6023B61F7656' id='FORM-55EE8A7B-471C-4247-BC0B-6023B61F7656' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-55EE8A7B-471C-4247-BC0B-6023B61F7656'>Initial</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the following 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The lengths of two pencils are $9.76 \ \text{cm}$ and $14.57 \ \text{cm}$. If the pencils are laid end to end, what is the total length?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total length} &= 9.76 + 14.57 \\\\
-                    &= 24.33 \ \text{cm}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$24.33 \ \text{cm}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a shop there are $43$ bags of potatoes. Each bag contains $37$ potatoes. What is the total number of potatoes in the bags?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total number of potatoes} &= 43 \times 37 \\\\
-                                &= 1591
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1591$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $1.6 \ \text{kilometers}$ in a mile. How many kilometres are in $31240 \ \text{miles}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total kilometers} &= 31240 \times 1.6 \\\\
-                        &= 49984 \ \text{kilometers}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49984 \ \text{kilometers}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-There are $0.91\ \text{metres}$ in $1  \ \text{yard}$. How many metres are there in $0.075  \ \text{yards}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total yards} &= 0.075 \times 0.91 \\\\
-                   &= 0.06825 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.06825 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The total length of five cars is $16.35\ \text{metres}$. What is the average length of these cars?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Average length} &= \dfrac {16.35} {5} \\\\
-                      &= \dfrac {3.27 \times 5} {5} \\\\
-                      &= \dfrac {3.27 \times \cancel {5}} {\cancel {5}} \\\\
-                      &= 3.27 \ \text{metres}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.27 \ \text{metres}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $13 + 54 \div 6 - 5 \times 7$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-According to BIDMAS
-
-$
-\begin{aligned}
-&= 13 + 54 \div 6 - 5 \times 7 \\\\
-&= 13 + 9 - 5 \times 7 \\\\
-&= 13 + 9 - 35 \\\\
-&= 22 - 35 \\\\
-&= - 13
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$- 13$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$16\%$ of gift cards that are bought are never redeemed. In Oundle Beans sells $730$ gift cards one year. How many of these should it expect to be redeemed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total cards redeemed} &= 84 \% \ \text{of} \ 730 \\\\
-                            &= \dfrac {84} {100} \times 730 \\\\
-                            &= \dfrac {84 \times 730} {100} \\\\
-                            &= \dfrac {61320} {100} \\\\
-                            &= 613.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$613$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' id='FORM-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3180E5AE-B7AA-40A5-9DA3-BE9618E76B2E'>Initial</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

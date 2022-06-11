@@ -1,478 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-6-g0"
 title: "TopicPaper - Unassigned - 6 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B1035CFF-9D27-4291-9D78-74E41193350E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfakeratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A minibus carries $14$ pupils.
-How many buses would be needed to take $300$ pupils?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Buses needed}     &= \dfrac {300} {14} \\\\
-                        &= 21.\dot{4} \\\\
-                        &= 22
-\end{aligned}
-$
-
-Rounding up, $22$ buses are needed to carry $300$ pupils.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B1035CFF-9D27-4291-9D78-74E41193350E' id='FORM-B1035CFF-9D27-4291-9D78-74E41193350E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B1035CFF-9D27-4291-9D78-74E41193350E'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B9065A5E-7C52-4C0F-A700-FFA2337EB5BC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A parcel weighs $3.7\ \text{kg}$. What is its weight in $\text{grams}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&=  3.7 \ \text {kg} \\\\
-&=  3.7 \times 1000 \ \text {g} \\\\
-&=  3700 \ \text {g}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3700 \ \text {g}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' id='FORM-B9065A5E-7C52-4C0F-A700-FFA2337EB5BC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B9065A5E-7C52-4C0F-A700-FFA2337EB5BC'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>52E563CF-BAF0-40C4-9688-3CFD0072AE8E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tfactor
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these is a prime factor of $99$?
-
-$5 \quad 6 \quad 7 \quad 10 \quad 11$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$11$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='52E563CF-BAF0-40C4-9688-3CFD0072AE8E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='52E563CF-BAF0-40C4-9688-3CFD0072AE8E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='52E563CF-BAF0-40C4-9688-3CFD0072AE8E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='52E563CF-BAF0-40C4-9688-3CFD0072AE8E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='52E563CF-BAF0-40C4-9688-3CFD0072AE8E' id='FORM-52E563CF-BAF0-40C4-9688-3CFD0072AE8E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-52E563CF-BAF0-40C4-9688-3CFD0072AE8E'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>0FD0289F-6CF3-4995-B86D-7A270F63D72B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To convert kilometers to miles I multiply by $5$ and then divide by $8$.
-
-Using this method how many miles is $240 \ \text{kilometers}$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using the given method,
-
-$
-\begin{aligned}
-&=  240 \ \text {kilometers} \\\\
-&=  (240 \times 5) \div 8 \ \text {miles} \\\\
-&=  \dfrac {240 \times 5} {8} \\\\
-&=  \dfrac {8 \times 30 \times 5} {8} \\\\
-&=  \dfrac {\cancel {8} \times 30 \times 5} {\cancel {8}} \\\\
-&=  30 \times 5 \\\\
-&=  150 \ \text {miles}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150 \ \text {miles}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0FD0289F-6CF3-4995-B86D-7A270F63D72B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0FD0289F-6CF3-4995-B86D-7A270F63D72B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0FD0289F-6CF3-4995-B86D-7A270F63D72B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0FD0289F-6CF3-4995-B86D-7A270F63D72B' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='0FD0289F-6CF3-4995-B86D-7A270F63D72B' id='FORM-0FD0289F-6CF3-4995-B86D-7A270F63D72B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0FD0289F-6CF3-4995-B86D-7A270F63D72B'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>89F23118-BA61-4095-8FD2-82AAA7E88489</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tunit
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which of these lengths is longest?
-
-$42\ \text{cm} \quad  0.4 \ \text{m} \quad  147 \ \text{mm} \quad  0.351 \ \text{m} \quad  33 \ \text{cm}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, let's convert all the units to $\text {cm}$. 
-
-$
-\begin{aligned}
-&= 42 \ \text{cm}, \quad 0.4 \ \text{m}, \quad 147 \ \text{mm}, \quad 0.351 \ \text{m}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 0.4 \times 100 \ \text{cm}, \quad \dfrac {147} {100} \ \text{cm}, \quad 0.351 \times 100 \ \text{cm}, \quad 33  \ \text{cm} \\\\
-&= 42 \ \text{cm}, \quad 40 \ \text{cm}, \quad 1.47 \ \text{cm}, \quad 35.1 \ \text{cm}, \quad 33  \ \text{cm}
-\end{aligned}
-$
-
-The longest length $= 42 \ \text{cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$42 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='89F23118-BA61-4095-8FD2-82AAA7E88489' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='89F23118-BA61-4095-8FD2-82AAA7E88489' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='89F23118-BA61-4095-8FD2-82AAA7E88489' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='89F23118-BA61-4095-8FD2-82AAA7E88489' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='89F23118-BA61-4095-8FD2-82AAA7E88489' id='FORM-89F23118-BA61-4095-8FD2-82AAA7E88489' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-89F23118-BA61-4095-8FD2-82AAA7E88489'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>553D9630-2488-43F6-B40B-249573F31F80</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tratio
-</li>
-<li>
-tunitprompt
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required
-. 
-
-$
-\begin{aligned}
-\text {Number of strips}    &=  \dfrac {1 \ \text {m}} {15 \ \text {cm}} \\\\
-                            &=  \dfrac {1 \times 100 \ \text {cm}} {15 \ \text {cm}} \\\\
-                            &=  \dfrac {100} {15} \\\\
-                            &=  6 \text{ remainder } 10
-\end{aligned}
-$
-
-Max $6$ strips can be cut from a ribbon $1\ \text{m}$ long.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='553D9630-2488-43F6-B40B-249573F31F80' id='FORM-553D9630-2488-43F6-B40B-249573F31F80' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-553D9630-2488-43F6-B40B-249573F31F80'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -628,6 +159,260 @@ $16, 24, 8$
 </div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>88582ABF-B271-4BB1-9E51-A3EA11DB76AD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tpower
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle which of the following numbers are square numbers:
+
+$9 \qquad 55 \qquad 81 \qquad 13 \qquad 21$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Since,
+
+$
+\begin{aligned}
+9   &= 3 \times 3 \\\\
+    &= 3^2 \\\\
+81  &= 9 \times 9 \\\\
+    &= 9^2 \\\\
+\end{aligned}
+$
+
+Therefore,
+
+$\boxed{\green
+{9}} \qquad  55 \qquad   \boxed{\green
+{81}} \qquad   13 \qquad   21$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9, 81$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='88582ABF-B271-4BB1-9E51-A3EA11DB76AD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='88582ABF-B271-4BB1-9E51-A3EA11DB76AD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='88582ABF-B271-4BB1-9E51-A3EA11DB76AD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='88582ABF-B271-4BB1-9E51-A3EA11DB76AD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='88582ABF-B271-4BB1-9E51-A3EA11DB76AD' id='FORM-88582ABF-B271-4BB1-9E51-A3EA11DB76AD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-88582ABF-B271-4BB1-9E51-A3EA11DB76AD'>Initial</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>95C9AEE9-A464-411A-8B44-638B44241C5F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Circle the factors of 150:
+
+$
+\begin{matrix}
+100 & \quad 30 & \quad 7  & \quad 11 \\
+10  & \quad 3  & \quad 8  & \quad 45
+\end{matrix}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+All factors of $150 = 1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15, \ 25, \ 30, \ 50, \ 75, \ \text {and} \ 150.$
+
+$
+\begin{matrix}
+100                                   & \quad \boxed{\green
+ {30}} & \quad 7  & \quad 11 \\\\
+\boxed{\green
+ {10}}  & \quad \boxed{\green
+ {3}}  & \quad 8  & \quad 45
+\end{matrix}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30, 10, 3$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='95C9AEE9-A464-411A-8B44-638B44241C5F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='95C9AEE9-A464-411A-8B44-638B44241C5F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='95C9AEE9-A464-411A-8B44-638B44241C5F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='95C9AEE9-A464-411A-8B44-638B44241C5F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='95C9AEE9-A464-411A-8B44-638B44241C5F' id='FORM-95C9AEE9-A464-411A-8B44-638B44241C5F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-95C9AEE9-A464-411A-8B44-638B44241C5F'>Initial</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F139E74C-7678-4CC8-B3F7-4D88629C12D1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tunit
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The distance from Calais to Paris is $320 \ \text{km}$.
+$5 \ \text{miles}$ is approximately $8 \ \text{kilometres}$.
+ 
+Calculate the approximate distance in miles from Calais to Paris.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+1 \ \text {kilometre}       &= \dfrac {5} {8} \text {miles} \\\\
+320 \ \text {kilometres}    &= 320 \times \dfrac {5} {8} \\\\
+                            &= \dfrac {5 \times 40 \times 8} {8} \\\\
+                            &= \dfrac {5 \times 40 \times \cancel {8}} {\cancel {8}} \\\\
+                            &= 5 \times 40 \\\\
+                            &= 200 \ \text {miles}
+\end{aligned}
+$
+
+$320 \ \text {kilometres} = 200 \ \text {miles}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$200 \ \text {miles}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F139E74C-7678-4CC8-B3F7-4D88629C12D1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F139E74C-7678-4CC8-B3F7-4D88629C12D1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F139E74C-7678-4CC8-B3F7-4D88629C12D1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F139E74C-7678-4CC8-B3F7-4D88629C12D1' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F139E74C-7678-4CC8-B3F7-4D88629C12D1' id='FORM-F139E74C-7678-4CC8-B3F7-4D88629C12D1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F139E74C-7678-4CC8-B3F7-4D88629C12D1'>Initial</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

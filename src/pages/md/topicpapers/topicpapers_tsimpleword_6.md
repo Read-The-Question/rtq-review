@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-6"
 title: "TopicPaper - Simpleword - 6"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,738 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>D77A8B7B-174A-43B6-BD7A-E491EC6999DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The lunch break at Harry's school lasts $60 \ \text{minutes}$.
+Harry spends $\dfrac{1}{3}$ of his lunch break eating his lunch.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many minutes does he spend eating lunch?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {3} \ \text {of} \ 60 \ \text{min} \\\\
+&= \dfrac {1} {3} \ \times 60 \\\\\
+&= \dfrac {60} {3} \\\\\
+&= \dfrac {20 \times 3} {3} \\\\\
+&= \dfrac {20 \times \cancel 3} {\cancel 3} \\\\\
+&= 20 \  \text {mins}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {mins}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+He spends $75\%$ of the remaining time playing with his friends.
+
+How long does he spend playing with his friends?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 75 \% \ \text {of} \ 40 \ \text {min} \\\\
+&= \dfrac {75} {100} \times 40 \\\\
+&= \dfrac {75} {10 \cancel 0} \times 4\cancel 0 \\\\
+&= \dfrac {15 \times 5 \times 4} {5 \times 2} \\\\
+&= \dfrac {15 \times 5 \times 2 \times 2} {5 \times 2} \\\\
+&= \dfrac {15 \times \cancel 5 \times 2 \times \cancel 2} {\cancel 5 \times \cancel 2} \\\\
+&= 30 \ \text {min}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \ \text {min}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What percentage of his total lunch break does Harry spend playing with his friends?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {30} {60} \times 100 \\\\
+&= 50 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D77A8B7B-174A-43B6-BD7A-E491EC6999DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D77A8B7B-174A-43B6-BD7A-E491EC6999DC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D77A8B7B-174A-43B6-BD7A-E491EC6999DC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D77A8B7B-174A-43B6-BD7A-E491EC6999DC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D77A8B7B-174A-43B6-BD7A-E491EC6999DC' id='FORM-D77A8B7B-174A-43B6-BD7A-E491EC6999DC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D77A8B7B-174A-43B6-BD7A-E491EC6999DC'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A sunflower is $150 \ \text{cm}$ tall.
+
+How tall will it be if its height increases by $10\%$? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Height after an increase of 10\%}       &= 150 + 10 \% \ \text {of} \ 150 \\\\
+                                               &= 150 + \dfrac {10} {100} \times 150 \\\\
+                                               &= 150 + \dfrac {10 \times 150} {100} \\\\
+                                               &= 150 + \dfrac {1 \cancel {0} \times 15 \cancel {0}} {1 \cancel {0} \cancel {0}} \\\\
+                                               &= 150 + 15 \\\\
+                                               &= 165
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$165$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' id='FORM-EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EF9C33BD-B8C7-4E2C-AC7E-B8D899CC08AA'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>B127C71F-2BCF-48B3-B549-CAE182563C18</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a box of $24$ pens, one eighth are green, $25\%$ are red and the rest are blue.
+
+What fraction of the pens is blue? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of blue pens}            &= \text {Total number of pens} - \text {Sum of green and red pen} \\\\
+                                       &= 24 - (\dfrac {1} {8} \times 24 + \dfrac {25} {100} \times 24) \\\\
+                                       &= 24 - (\dfrac {24} {8} + \dfrac {25 \times 24} {100}) \\\\
+                                       &= 24 - (\dfrac {8 \times 3} {8} + \dfrac {25 \times 4 \times 6} {25 \times 4}) \\\\
+                                       &= 24 - (\dfrac {\cancel {8} \times 3} {\cancel {8}} + \dfrac {\cancel {25} \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}}) \\\\
+                                       &= 24 - (3 + 6) \\\\
+                                       &= 24 - 9 \\\\
+                                       &= 15 \\\\
+\text {fraction of pens that are blue} &= \dfrac {15} {24} \\\\
+                                       &= \dfrac {\cancel {3} \times 5} {\cancel {3} \times 8} \\\\
+                                       &= \dfrac {5} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {8}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B127C71F-2BCF-48B3-B549-CAE182563C18' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B127C71F-2BCF-48B3-B549-CAE182563C18' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B127C71F-2BCF-48B3-B549-CAE182563C18' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B127C71F-2BCF-48B3-B549-CAE182563C18' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B127C71F-2BCF-48B3-B549-CAE182563C18' id='FORM-B127C71F-2BCF-48B3-B549-CAE182563C18' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B127C71F-2BCF-48B3-B549-CAE182563C18'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C56A7779-1D7A-41C9-B595-405FF4558BAF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A website advertises that, as a special offer, a new mobile phone game 
+will cost $40 \%$ less to download next week.
+
+If the game costs $80 \text{p}$ this week, how much will it cost next week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D9F5E368-303E-4350-B374-E1004752976E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
+How much does she pay in a month when she makes $50$ calls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>60E0362E-0258-4F35-9B2E-5F0FF2790CB2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $24$ children in Alfie's class. Five eighths of the class have school lunch. How many children have school lunch?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Number of children that have school lunch} &= \dfrac {5} {8} \times 24 \\\\
+                                                  &= \dfrac {5 \times 24} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times 8} {8} \\\\
+                                                  &= \dfrac {5 \times 3 \times \cancel {8}} {\cancel {8}} \\\\
+                                                  &= 5 \times 3 \\\\
+                                                  &= 15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='60E0362E-0258-4F35-9B2E-5F0FF2790CB2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='60E0362E-0258-4F35-9B2E-5F0FF2790CB2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='60E0362E-0258-4F35-9B2E-5F0FF2790CB2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='60E0362E-0258-4F35-9B2E-5F0FF2790CB2' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='60E0362E-0258-4F35-9B2E-5F0FF2790CB2' id='FORM-60E0362E-0258-4F35-9B2E-5F0FF2790CB2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-60E0362E-0258-4F35-9B2E-5F0FF2790CB2'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the number between $41$ and $51$ which is divisible by both $3$ and $4$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$48$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' id='FORM-AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AF9C6EAA-0E1D-4C87-9AD8-13EFD44CD2BD'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>3DF385B4-5156-45DC-9D90-AE1116381A25</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $55$ and $65$ can be divided exactly by $9$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+$
+\begin{aligned}
+\text{Let's find a multiple of} \  9 \  \text{between} \  55  \ \text{and} \  65 \\\\
+\text{The multiple of} \ 9  \ \text{are} \  9, 18, 27, 36, 45, 54, \bold {63}, 72, \dots \\\\
+&= 63
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$63$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3DF385B4-5156-45DC-9D90-AE1116381A25' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3DF385B4-5156-45DC-9D90-AE1116381A25' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3DF385B4-5156-45DC-9D90-AE1116381A25' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3DF385B4-5156-45DC-9D90-AE1116381A25' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='3DF385B4-5156-45DC-9D90-AE1116381A25' id='FORM-3DF385B4-5156-45DC-9D90-AE1116381A25' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-3DF385B4-5156-45DC-9D90-AE1116381A25'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>23224CB2-4846-4DFA-A09A-8AC4B9FAAE31</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Hayfield School girls' football team played Greentops School at home last week. The final score was $3{:}1$. (The home team is listed first.)
+
+Below is a list of possible half time scores, but one has been missed out. Can you find it?
+
+$2{:}1$
+
+$0{:}0$    
+
+$2{:}0$    
+
+$1{:}1$
+
+$3{:}0$    
+
+$3{:}1$    
+
+$1{:}0$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0{:}1$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0{:}1$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' id='FORM-23224CB2-4846-4DFA-A09A-8AC4B9FAAE31' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-23224CB2-4846-4DFA-A09A-8AC4B9FAAE31'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1620,6 +2352,65 @@ $4$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>A29F6F19-4280-47F6-8C55-15D8CBBEA15B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+  
+
+Biscuits are sold in packets of $12$.
+
+How many packets will I need to buy if I want $148$ biscuits?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios.
+$
+\begin{aligned}
+12 \text{biscuits}              : 1 \text{packets} \\\\
+12 \times 12 \text{biscuits}    : 1 \times 12 \text{packets} \\\\
+144 \text{biscuits}             : 12 \text{packets}
+\end{aligned}
+$
+
+To get $144$ biscuits you need to buy $12$ packets. 
+To get $148$ biscuits you need to buy atleast $12 + 1 = 13$ packets.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \text{packets}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

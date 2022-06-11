@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-g0"
 title: "TopicPaper - Number - 2 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2667,81 +2667,6 @@ $1.1$
 </div>
 <div class='papername'>
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-0.007112 x 100 =
-
-- 0.712
-- 7.12
-- 71.2
-- 712
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.007112 \times 100 \\\\
-&= 0.7112
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.7112$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' id='FORM-DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DA6A37B8-68AE-40CC-9D9D-C80A7DDCC093'>Initial</p>
-</div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

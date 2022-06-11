@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -970,19 +970,13 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tareaperimeter
 </li>
 <li>
 tdraw
 </li>
 <li>
-tgraph
-</li>
-<li>
 tsymmetry
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -3216,9 +3210,6 @@ $10 {:} 30$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
 </li>
 <li>
@@ -3487,9 +3478,6 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

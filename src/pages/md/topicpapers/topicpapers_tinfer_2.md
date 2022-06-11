@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-2"
 title: "TopicPaper - Infer - 2"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,818 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>BBC79355-9079-4C4B-B27B-BD2D1792770D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A Langford number has two $1$s seprated by $1$ digit, two $2$s separated by $2$ digits etc.
+For example, $312132$ is a Langford number.
+
+Complete this Langford number which has two $1$s, two $2$s, two $3$s and two $4$s. 
+
+$\huge {2 \ 3 \ \_ \ \_ \ \_ \ \_ \ \_ \ \_}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B09D80F4-97B1-4E53-9991-024A7EDBA290</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+tprobability
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+James has $15$ sweets in his pocket. He has $7$ red sweets, $6$ blue sweets, and $2$ pink sweets. 
+Without looking, he removes some sweets from his pocket and places them on the table. 
+What is the smallest number of sweets he should remove to **guarantee** that he has at least one sweet of each colour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Four identical rectangles are joined together to form a larger rectangle, as shown below.
+
+![missing image](/papers/missing_image.svg)
+
+
+The area of the larger rectangle is $192 \ \text{cm}^2$
+Find the length of the side labelled $X$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Karen wants to find the value of $1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10$. 
+Rather than just doing the calculation, she notices that she can reorder the numbers in a clever way:
+
+$1 + 10 + 2 + 9 + 3 + 8 + 4 + 7 + 5 + 6$. 
+
+She does this because $1 + 10, 2 + 9, 3 + 8$ etc all add up to $11$, 
+and so her sum simplifies to $11 + 11 + 11 + 11 + 11$, which equals $55$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using Karen's method, add up all of the whole numbers from $1$ to $20$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Tim is an athlete, and she is completing a difficult training session. Her coach makes her run $5 \ \text{metres}$ forwards, 
+then $5 \ \text{metres}$ back, then $10 \ \text{metres}$ forwards, then $10 \ \text{metres}$ back, 
+then $15 \ \text{metres}$ forwards, then $15 \ \text{metres}$ back, and this continues until she has run $100 \ \text{metres}$ 
+forwards and $100 \ \text{metres}$ back.
+
+How far does Tina run in total?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>highgate-school--11-plus--maths--9999--sample-paper-b:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>81B4C41C-68CA-4031-80C4-9B0781E8CF3C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Natasha is making a coloured tower as shown. 
+She has thirty six small cubes, with equal numbers of red $(R)$, blue $(B)$ and yellow $(Y)$. 
+Each row is of one colour, and no two rows which are next to each other are the same colour. 
+The top three rows are coloured as indicated.
+
+What colour must the bottom row be?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>0478E759-429B-44DC-B4CA-B3B10762A4CB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jack dances clockwise around the Maypole, making one revolution every five seconds.
+
+Starting from a point diametrically opposite Jack's starting point, Gill dances anticlockwise, making one revolution every six seconds.
+
+How many times do they pass each other in the first minute?
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>F941C9EA-DDAA-4417-A0CE-D50F654E2752</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Harry invents a game which he calls King’s Digit.
+
+For any number he chooses, he works out all the whole numbers that divide exactly into it.
+
+For example, if he chooses the number $8$, then all the whole numbers that divide exactly into that are $1, 2, 4$ and $8$.
+These are called the factors of $8$.
+
+He then adds up these factors to find the King’s Digit.
+
+So the Kings digit of $8 = 1 + 2 + 4 + 8 = 15$
+
+Another example: the King’s Digit of $9$ is $1 + 3 + 9 = 13$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find the Kings Digit of $16$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Kings Digit of a number $= 7$, what is the number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the King’s digit of a number $= 12$, there are two possible numbers.
+What are they?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The King’s digit of three different numbers $= 24$. Two of them are consecutive numbers. Find the three numbers.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>49DCDFBA-E23F-4F21-AD74-977362B5ED3F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In Rainbow Land there are lots of wuzzles. Wuzzles are all green, pink or blue and have either big ears or small ears. They like to live together in houses.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In one wuzzle household, all the following statements are true:
+
+$\bull$ There are more green wuzzles than any other colour
+
+$\bull$ There are equal numbers of big-eared greens and small-eared greens
+
+$\bull$ There are three wuzzles with big ears
+
+$\bull$ There are twice as many big-eared greens as big-eared pinks
+
+$\bull$ There are three times as many pink wuzzles as blue wuzzles
+
+How many of each kind of wuzzle (big-eared green, small-eared green, big-eared pink, …) are there in this household?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In another wuzzle household, all of these statements are true:
+
+$\bull$ There are the same number of pink wuzzles as green wuzzles
+
+$\bull$ There are twice as many big-eared green wuzzles as small-eared green wuzzles
+
+$\bull$ There are the same number of big-eared green wuzzles as big-eared blue wuzzles
+
+$\bull$ All but one of the wuzzles have big ears.
+
+How many of each kind of wuzzle are there in this household?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1883,6 +2695,65 @@ $13$
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>A9E6C255-92AC-4AE1-88FA-D4C54EC9BC63</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tinfer
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the grid below, each letter represents a number. 
+The numbers on the right hand side represent the total of each row, and the numbers at the bottom show 
+the totals of each column. Which numbers should replace each of the letters?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -4724,925 +5595,6 @@ $414$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>1E9F03BA-7298-4606-953B-9C6149610C9A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the triangles shown below each number is the sum of the two numbers directly underneath it. 
-For example, $26 = 12 + 14$ and $5 = 1 + 4$.
-
-![missing image](/papers/missing_image.svg)
-
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the triangle of numbers:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Complete the triangle of numbers:
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>CC1826DB-EA13-490B-A322-57640558FD22</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Ten runners, numbered $5$ to $14$ inclusive, take part in a race. There were no tied positions.
-
-Winston watched the race but forgot to write down the positions of the runners. Fortunately Winston is a mathematician and he remembered one fact about the number of each competitor. List all possible numbers of the competitors in the spaces below. Hence complete the table showing the final positions in the race.
-
--  $1 \text{st}$ Prime number
--  $2 \text{nd}$ Factor of $24$
--  $3 \text{rd}$ Cube number
--  $4 \text{th}$ Multiple of $5$
--  $5 \text{th}$ Factor of $187$
--  $6 \text{th}$ Two-digit even number in which the first digit is smaller than the second
--  $7 \text{th}$ Two-digit number in which both digits are square numbers 
--  $8 \text{th}$ Number which has exactly four factors
--  $9 \text{th}$ A square number
--  $10 \text{th}$ A number which is greater than $10$
-
-![missing table](/papers/missing_table.svg)
-
-
-Position in race 1 2 3 4 5 6 7 8 9 10 Number of runner
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>37C4C1C3-5248-4DBC-B3C2-4232E8337CE6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Freddie writes down all whole numbers between 1 and 1000 inclusive:
-
-$1, 2, 3, 4, \ldots, 9, 10, 11, 12, 13, \ldots,99, 100, 101, 102, 103, \ldots, 999, 1000$.
-
-How many individual digits does he write down?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>36C75B5F-BB13-4FEA-9598-8E6F7DA4161C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If it is a cold rainy day then I wear a raincoat. If it is a warm rainy day then I carry an umbrella. 
-If I wear my raincoat then I also wear either gloves or a hat but not both. 
-If I carry an umbrella I always wear gloves and sometimes wear my hat as well. 
-I never carry an umbrella and wear my raincoat on the same day. 
-For each of the following, state whether it is definitely true, false or uncertain.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-It is a warm rainy day. I wear my raincoat and a hat.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-It is a warm rainy day. I carry my umbrella and wear a hat but no gloves.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-It is a cold rainy day. I wear my raincoat, hat and no gloves.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>BD641DBE-5C22-47AF-A25A-9ED62232148A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In each number puzzle below, the numbers along each side of the shape add up to the seme total.
-
-For example, in this number square each side adds to $12$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In this number triangle, the numbers $1, 2, 3, 4, 5$ and $6$ are used once each.
-
-Complete the triangle so that the numbers along each side add up to $9$
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In this number pentagon, the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$ are used once each.
-
-Complete the pentagon so that the numbers along each side add up to $14$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-4:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>744963C1-F8DB-4582-94F4-AEB54852B642</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sarah spilt juice all over her calculator. 
-Now only the five buttons shown work, as well as the equals and clear buttons.
-
-is the clear button
-is the equals button. 
-
-The other working buttons are:
-
-![missing image](/papers/missing_image.svg)
-
-
-Buttons can be used as many times as you like.
-
-Starting with the clear button, show how to use five more buttons to make the answer shown. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-\boxed{\text{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-= 45
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 6 \times 8 - 3 \\\\
-&= 48 - 3 \\\\
-&= 45
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6, \ \times , \ 8, \ - , \ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-\boxed{\text{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-= 1
-$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$
-\boxed{\text{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-\boxed{\phantom{C}} \
-= 32
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:34</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>4049C025-C8E3-420D-90F0-FEE76BCC81C5</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tinfer
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In the following pattern, you can only move from a letter to a 
-letter immediately below it but slightly to the side in the next line.
-
-![missing image](/papers/missing_image.svg)
-
-
-One route from $L$ to $W$ is $LMOSW$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a route from $L$ to $Y$ that goes through $Q$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {LNQUY}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {LNQUY}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down all the possible routes from $L$ to $W$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {LMPSW}, \ \text{LNPSW}, \ \text{LMOSW}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many possible routes are there from $L$ to $X$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$6$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='4049C025-C8E3-420D-90F0-FEE76BCC81C5' id='FORM-4049C025-C8E3-420D-90F0-FEE76BCC81C5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-4049C025-C8E3-420D-90F0-FEE76BCC81C5'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

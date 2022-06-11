@@ -1,9 +1,230 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-g0"
 title: "TopicPaper - Number - 17 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Four of these numbers can make two pairs so that each pair adds up to $5871$. Which number is the odd one out?
+
+**A** $1917$
+
+**B** $2743$ 
+
+**C** $3008$ 
+
+**D** $3954$
+
+**E** $2863$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1917 + 3954 = 5871$
+
+$3008 + 2863 = 5871$
+
+Odd one : $2743$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+**B** $2743$ 
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' id='FORM-C89BE88B-D6EA-4F33-A8C3-496597C6989A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C89BE88B-D6EA-4F33-A8C3-496597C6989A'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any **two** prime numbers between $45$ and $60$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Two prime numbers between $45$ and $60 = 47, 53$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47, 53$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' id='FORM-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $2000 - 12 + 20 - 12$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS,
+
+$
+\begin{aligned}
+&= 2000 - 12 + 20 - 12 \\\\
+&= 2000 - 12 + 8 \\\\
+&= 2000 - 4 \\\\
+&= 1996
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1996$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' id='FORM-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>

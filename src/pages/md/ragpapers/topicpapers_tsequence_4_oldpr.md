@@ -1,9 +1,306 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-oldpr"
 title: "TopicPaper - Sequence - 4 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>D33DC09F-B58A-476F-A745-66D21A031401</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in each of the following sequences.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$-2.0, -1.7, -1.4 , -1.1$    
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $0.3$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+-2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= -1.1 + 0.3 \\\\
+                              &= -0.8 \\\\
+\text{Second missing number}  &= -0.8 + 0.3 \\\\
+                              &= -0.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-0.8, -0.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$15, 11,  7, 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $4$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
+15,  &&   11,  &&   7,  &&   3,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text{Second missing number}  &= -1 - 4 \\\\
+                              &= -5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1, -5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}  \\
+0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 1 \dfrac {4} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9 + 3} {5} \\\\
+                              &= \dfrac {12} {5} \\\\
+                              &= 2 \dfrac {2} {5} \\\\
+\text{Second missing number}  &= 2 \dfrac {2} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12 + 3} {5} \\\\
+                              &= \dfrac {15} {5} \\\\
+                              &= \dfrac {3 \times 5} {5} \\\\
+                              &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+                              &= 3
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac {2} {5}, 3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5, 8 , 13, 20$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}  \\
+5,  &&   8,  &&   13,  &&   20,  &&   \ldots  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 20 + 9 \\\\
+                              &= 29 \\\\
+\text{Second missing number}  &= 29 + 11 \\\\
+                              &= 40
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29, 40$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' id='FORM-D33DC09F-B58A-476F-A745-66D21A031401' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D33DC09F-B58A-476F-A745-66D21A031401'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
@@ -522,173 +819,6 @@ $13, 21$
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
-<p>D1EFB235-0632-4659-A133-C69D93EDD053</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Complete the spaces shown by dotted lines below.  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-START                                                             END
-                                                                         
-$\Huge \boxed {...}$  Subtract 28 $\Huge \boxed {...}$  Add 19 $\Huge \boxed {63}$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first space $a$ and second space $b$,
-
-Let's find $b$ first
-
-As per the question,
-
-$
-\begin{aligned}
-b &=  63 - 19 \\\\
-b &=  44
-\end{aligned}
-$
-
-Let's find $a$ 
-
-$
-\begin{aligned}
-a &=  44 + 28 \\\\
-a &=  72
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$72, 44$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-START                                                               END
-
-$\Huge \boxed {17}$  add...... $\Huge \boxed {32}$  Subtract 39 $\Huge \boxed {........}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first space $a$ and second space $b$,
-
-Let's find $a$ first
-
-As per the question,
-
-$
-\begin{aligned}
-a  &=  32 - 17 \\\\
-a  &=  15
-\end{aligned}
-$
-
-Let's find $b$
-
-$
-\begin{aligned}
-b  &=  32 - 39 \\\\
-b  &=  -7
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15, -7$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='D1EFB235-0632-4659-A133-C69D93EDD053' id='FORM-D1EFB235-0632-4659-A133-C69D93EDD053' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D1EFB235-0632-4659-A133-C69D93EDD053'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
 <p>AE9B538A-8351-4BCF-B36D-B5B1D18CF66B</p>
 </div>
 <div class='topics'>
@@ -964,168 +1094,6 @@ $122, 365$
 </div>
 <div class='papername'>
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>D98DBBF2-7AD9-4207-B861-10DE19DB559C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Complete the spaces shown by dotted lines below. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-START                                                 END 
-$\boxed {57}$  Subtract 28  $\boxed {........}$  Add...... $\boxed {63}$  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first space $a$ and let the second space $b$
-
-Let's find $a$ first
-
-As per the question, 
-$
-\begin{aligned}
-a = 57 - 28 \\\\
-a = 29
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 63 - 29 \\\\
-b = 34
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$29, 34$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-START                                                 END 
-$\boxed {53}$ Add.......  $\boxed {..125....}$  Subtract 39  $\boxed {.........}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the first space $a$ and let the second space $b$
-
-Let's find $a$ first
-
-As per the question, 
-
-$
-\begin{aligned}
-a = 125 - 53 \\\\
-a = 72
-\end{aligned}
-$
-
-Let's find b
-
-$
-\begin{aligned}
-b = 125 - 39 \\\\
-b = 86
-\end{aligned}
-$
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$72, 86$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='D98DBBF2-7AD9-4207-B861-10DE19DB559C' id='FORM-D98DBBF2-7AD9-4207-B861-10DE19DB559C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D98DBBF2-7AD9-4207-B861-10DE19DB559C'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -2356,6 +2324,104 @@ $A = 14$
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>21F86FF9-737E-4AF5-8F7F-6D8695AFFE38</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number of shapes have been made with matches.
+
+For this pattern:
+
+![missing image](/papers/missing_image.svg)
+
+
+How many matches will be in the $4 \text{th}$ shape?
+
+- $26$
+- $18$  
+- $24$   
+- $20$  
+- $22$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The given pattern follow an arthemetic progression 
+
+$6$ matches increase $1$ on next one
+
+$ a = 4 , n = 4 , d = 6 $
+
+$
+\begin{aligned}
+\text{The arthemetic progression} \\\\
+a_4 &= a + (n-1)d \\\\
+&= 4 + (4-1) \times 6 \\\\
+&= 4 + 3 \times 6 \\\\
+&= 4 + 18 \\\\
+&= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>Q</p>
+</div>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' id='FORM-21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-21F86FF9-737E-4AF5-8F7F-6D8695AFFE38'>Initial</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

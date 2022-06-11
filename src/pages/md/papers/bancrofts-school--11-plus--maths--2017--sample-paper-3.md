@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4085,16 +4085,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tmoney
-</li>
-<li>
-tlcm
-</li>
-<li>
-tnumber
+tprobability
 </li>
 </ul>
 </div>

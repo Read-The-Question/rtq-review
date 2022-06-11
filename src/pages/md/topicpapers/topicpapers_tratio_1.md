@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1085,6 +1085,114 @@ $\pounds 0.22$
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>71D9CA55-C531-4CEF-9275-34475B5C75C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There is $5.5 \ \text{g}$ of sugar in every $10 \ \text{g}$ of jam. How much sugar is in $600 \ \text{g}$ of jam?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>00895CB9-6B0A-48EF-85AC-BE14B2DC56DC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$5 \ \text{gallons} = 22.82 \ \text{litres}$
+
+Which is nearest to $1 \ \text{gallon}$?
+
+$4.528 \quad  4.448 \quad   4.645 \quad  4.565 \quad  4.504$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+5 \ \text{gallons}                                   &: 22.82 \ \text{litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {22.82} {5} \ \text {litres} \\\\
+\dfrac {5} {5} \ \text{gallons}                      &: \dfrac {5 \times 4.654} {5} \ \text {litres} \\\\
+\dfrac {\cancel{5}} {\cancel{5}} \ \text{gallons}    &: \dfrac {\cancel{5} \times 4.654} {\cancel{5}} \ \text {litres} \\\\
+1 \ \text{gallon}                                    &: 4.654 \ \text {litres}
+\end{aligned}
+$
+
+It is nearest to $4.565$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.565$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>FA63BECC-AF6F-4CA6-91BD-2EF70EC554DA</p>
 </div>
 <div class='topics'>
@@ -1130,6 +1238,56 @@ TODOANSWER
 
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:35</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D4DD20A6-5A96-44D2-BD6F-40B33B94EA63</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+One pint is $568\ \text{ml}$. How many $\text{ml}$ is half a pint?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's solve this using ratios. 
+
+$
+\begin{aligned}
+1 \ \text{pint}                    &: 568 \ \text{ml} \\\\
+\text{half pint}                   &: \dfrac {568} {2} \ \text{ml} \\\\
+\dfrac {1} {2} \ \text{pint}       &: \dfrac {568} {2} \ \text{ml} \\\\
+\dfrac {1} {2} \ \text{pint}       &: 284 \ \text{ml}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$284 \ \text{ml}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:7</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -1185,6 +1343,236 @@ $\pounds 192$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='uuid'>
+<p>E4DC389C-1771-4673-AE1F-DC5A515EFDDF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A prime number has exactly $2$ factors: itself and $1$.
+
+The numbers from $1$ to $20$ inclusive are written on $20$ cards. Write down the **proportion** of all the cards that have a 
+prime number written on them, giving your answer as a decimal.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Prime numbers between $1$ to $20$ $= $8$
+
+Total numbers $= $20
+$
+\begin{aligned}
+\text {Proportion of all the cards that have a prime number} &= \dfrac {\text {Prime numbers}} {\text {Total numbers}} \\\\
+                                                             &= \dfrac {8} {20} \\\\
+                                                             &= \dfrac {8 \times 5} {20 \times 5} \\\\
+                                                             &= \dfrac {40} {100} \\\\
+                                                             &= 0 {.} 4
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>4F22D97E-ED89-4DB2-87A9-57AD98895FC6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In $1$ tree, $2$ chimps can eat $3$ bananas in $4$ minutes.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out how long it would take for $2$ chimps to eat $6$ bananas.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Time taken to eat one banana} &= \dfrac {4} {3} \\\\
+\text{Tike taken to eat 6 bananas}  &= \dfrac {4 \times 6} {3} \\\\
+                                    &= \dfrac {4 \times 3 \times 2} {3} \\\\
+                                    &= \dfrac {4 \times \cancel {3} \times 2} {\cancel {3}} \\\\
+                                    &= 4 \times 2 \\\\
+                                    &= 8 \ \text{minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text{minutes}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Work out how many chimps would be required to eat $21$ bananas in $8 \ \text{minutes}$. 
+(You can assume that the tree has a large number of bananas available and that the chimps all have big appetites!)
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{The same monkey will eat 6 bananas in 8 minutes} \\\\
+\text{Which means 1 monkey will eat 3 bananas in 8 minutes} \\\\
+&= \dfrac {2 \times 21} {6} \\\\
+&= \dfrac {2 \time 7 \times 3} {3 \times 2} \\\\
+&= \dfrac {\cancel{2} \time 7 \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+&= 7
+\text{Hence, we need 7 monkey to eat 21 bananas in 8 minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>E78B9B72-6C11-4058-8FF8-DD057053DE50</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+At the school medical centre, there are enough plasters to patch up $12$ cut knees per day for $30 \ \text{days}$. 
+Work out how long the plasters would last if the medical centre were having to treat $20$ boys with cut knees a day.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+12 \ \text {cut/day}                                                  &: 30 \ \text{days} \\\\
+12 \times \dfrac {1} {12} \ \text {cut/day}                           &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+\cancel {12} \times \dfrac {1} {\cancel {12}} \ \text {cut/day}       &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \ \text {cut/day}                                                   &: 30 \times \dfrac {1} {12} \ \text {days} \\\\
+1 \times 20 \ \text {cut/day}                                         &: 30 \times \dfrac {1} {12} \times 20 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {30 \times 1 \times 20} {12} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times 3 \times 4 \times 5} {3 \times 4} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: \dfrac {10 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {3} \times \cancel {4}} \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 10 \times 5 \ \text {days} \\\\
+20 \ \text {cut/day}                                                  &: 50 \ \text {days} \\\\
+\end{aligned}
+$
+
+So, the number of days plaster would last if we patch 20 cut knees per day $= 50$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \ \text{days}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 </div>
 </li>
@@ -1545,6 +1933,59 @@ TODOANSWER
 
 <div class='papername'>
 <p>forest-school--11-plus--maths--9999--sample-paper-2:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>EDB7A048-730B-4BF1-BE48-CA82E058CC84</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes $4$ builders $10 \ \text{hours}$ to build a wall.
+
+How many hours would it have taken $5$ builders to build the same wall?  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:0:34</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2385,6 +2826,67 @@ $90 \%$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C43EC3F6-97AA-4A64-8ED6-E478405FF933</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dave and Eddie are cycling around a track. Dave completes a lap every $30\ \text{seconds}$, and Eddie completes a lap every $25\ \text{seconds}$. How many laps will Eddie complete in the time it takes Dave to complete $15$ laps?
+
+A: $15$ 
+
+B: $16$ 
+
+C: $18$ 
+
+D: $20$ 
+
+E: $25$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_notstarted rag_prg question'>
 <div class='uuid'>
 <p>847ECFA2-1EEA-49D7-9918-8A8651C83F4C</p>
@@ -2489,6 +2991,142 @@ $4 \text{metres}$
 
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>7DDBB564-8B87-4D8C-81E5-01AE0DB087C0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Ann and Ben share $28$ sweets in the ratio 4 : 3
+
+(Ann has $4$ sweets for every $3$ sweets that Ben has). 
+
+How many sweets do they each receive?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+A necklace is made from black and white beads in a ratio of 3 : 2, in other words for every $3$ black beads there were $2$ white beads.
+
+● ● ● ○ ○ ● ● ● ○ ○
+
+If there are $80$ beads altogether, how many beads are black?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -2635,6 +3273,354 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>5C2200D6-36D0-4173-BD70-897B3E61D6A1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Screenwash is used to clean car windows. 
+
+To use Screenwash you mix it with water.
+
+![missing image](/papers/missing_image.svg)
+      ![missing image](/papers/missing_image.svg)
+   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In **winter**, how much water should I mix with $\bold{150\ \text{ml}\:\:of\:\:Screenwash}$ of Screenwash?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In **summer**, how much Screenwash should I mix with $\bold{450\ \text{ml}\:\:of\:\:water}$ of water?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Is this statement correct?
+
+$\boxed{\bold{25\%}\:\:of\:\:\bold{winter}\:\:mixture\:\:is\:\:\bold{Screenwash}}$
+
+%format% Tick $(\checkmark)$ Yes or No.
+
+True $\huge\Box$ 
+
+False $\huge\Box$
+
+Explain your answer.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>8262D210-3C0D-4C32-A701-7FE5B4AB93A7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+$12$ boy scouts will eat $30$ loaves in $4$ days.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many boy scouts will eat $60$ loaves in $4$ days?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many days will it take $6$ boy scouts to eat $30$ loaves?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many loaves will $3$ boy scouts eat in $8$ days?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7FE7F568-7B71-4112-B005-8AAA4EE29378</p>
@@ -2712,6 +3698,134 @@ $0.026 \ \text {g}$
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
+<p>1A426F4F-4B59-4DF9-A794-DCC831294DCC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An alloy contains iron and tungsten in the ratio $5$ parts to $1$ part.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the mass of the alloy is $72 \ \text{kg}$, how much iron and tungsten does it contain?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If there is $15 \ \text{kg}$ of iron in a quantity of the alloy, how much tungsten is there?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
 <p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
 </div>
 <div class='topics'>
@@ -2762,1526 +3876,6 @@ $\pounds 4.55$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B101365B-DE62-48DE-89C1-F6C3C78D7692</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-At the start of January there were $2{,}349{,}290{,}978$ Facebook users in the world. By the end of January $28{,}863{,}298$ users had joined Facebook.
-
-Calculate how many users there were at the end of January (assume no-one left Facebook).
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Users at the end of January} &= 2349290978 + 28863298 \\\\
-                                   &= 2378154276
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2378154276$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In $2014$ $45{,}42{,}000{,}762$ was spent on video games. In $2015$ $\pounds 79{,}584{,}354$ *less* was spent on video games.
-
-Calculate the spend on video games in $2015$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Money spent in 2015} &= 4542000762 - 79584354 \\\\
-                           &= 4462416408
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4462416408$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A box contains $83$ apples. How many apples would there be in $46$ boxes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total apples in 46 boxes} &= 46 \times 83 \\\\
-                                &= 3818
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3818$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Five Xbox One consoles cost $\pounds 683.75$. Find the cost of one console.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Cost of one console} &= \dfrac {683.75} {5} \\\\
-                           &= \pounds 136.75
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 136.75$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$4023$ pumpkins need to be shipped by crate. A maximum of $26$ pumpkins fit in each crate. Find the minimum number of crates needed.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Minimum crates required} &= \dfrac {4023} {26} \\\\
-                               &= 154.73 \\\\
-                               &= 155
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$155$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Work out $3243 + 47643 - 1243$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 3243 + 47643 - 1243 \\\\
-&= 50886 - 1243 \\\\
-&= 49643
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$49643$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B101365B-DE62-48DE-89C1-F6C3C78D7692' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B101365B-DE62-48DE-89C1-F6C3C78D7692' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B101365B-DE62-48DE-89C1-F6C3C78D7692' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B101365B-DE62-48DE-89C1-F6C3C78D7692' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B101365B-DE62-48DE-89C1-F6C3C78D7692' id='FORM-B101365B-DE62-48DE-89C1-F6C3C78D7692' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B101365B-DE62-48DE-89C1-F6C3C78D7692'>Initial</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>F4C49E6C-6442-483E-A6A8-7B917E8F9472</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In a class the ratio of boys to girls is 3 : 5.
-
-If there are $6$ less boys than girls, how any pupils are in the class in total? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{let the number of boys = x, and number of girls=y}
-y                                                               &= \dfrac{5x}{3} \\\\
-x + 6                                                           &= y \\\\
-x + 6                                                           &= \dfrac{5x}{3} \\\\
-x - \dfrac{5x}{3}                                               &= -6 \\\\
-\dfrac{3x - 5x}{3}                                              &= -6 \\\\
-\dfrac{-2x}{3}                                                  &= \dfrac{-6 \times 3}{-2} \\\\ 
-x                                                               &= 9
-
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>AB8D141C-6937-4BD2-823D-644039CF0E18</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Linda the builder needs to build a wall $23$ bricks wide and $12$ bricks high.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many bricks will there be in the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total bricks}                                 &= \text{Brick height} \times \text{Brick width} \\\\
-                                                    &= 23 \times 12 \\\\
-                                                    &= 276
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$276$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-She can lay $6$ bricks every $4 \ \text{minutes}$. How long will it take her to build the wall?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Time to build the wall}                       &= \dfrac {\text{Total bricks}} {6} \times 4 \ \text{minutes} \\\\
-                                                    &= \dfrac {276} {6} \times 4 \\\\
-                                                    &= \dfrac {6 \times 46 \times 4} {6} \\\\
-                                                    &= \dfrac {\cancel{6} \times 46 \times 4} {\cancel{6}} \\\\
-                                                    &= 46 \times 4 \\\\
-                                                    &= 184 \ \text{minutes} \\\\
-                                                    &= 60 + 60 + 60 + 4 \\\\
-                                                    &= 3 \ \text{hours} \ 4 \ \text{minutes}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AB8D141C-6937-4BD2-823D-644039CF0E18' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AB8D141C-6937-4BD2-823D-644039CF0E18' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AB8D141C-6937-4BD2-823D-644039CF0E18' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='AB8D141C-6937-4BD2-823D-644039CF0E18' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='AB8D141C-6937-4BD2-823D-644039CF0E18' id='FORM-AB8D141C-6937-4BD2-823D-644039CF0E18' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AB8D141C-6937-4BD2-823D-644039CF0E18'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prr question'>
-<div class='uuid'>
-<p>215B4AA2-1A07-4570-82AF-18FA5525BD3F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$17$ tickets cost $\pounds 21.25$. They all cost the same.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the cost of one ticket.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Cost of one ticket $= \dfrac {21.25} {17}
-
-Dividing by decimals is same as dividing by two whole numbers. Ensure to place the decimal point exactly at the same place as it is at the dividend.
-
-$
-\begin{array}{l}
-\phantom{\ 0)0 \ 0\ \ }{\ \ \ 1 \ . \ 2 \ 5}\\
-\phantom{\ 00}{17}\
-\overline{\smash{)} 2 \ 1 \ . \ 2 \ 5 }\ \\\
-\phantom{0)}  \ \          - \underline{1 \ 7 \ \ \  \ \ }\\
-\phantom{{00\ 0 \ \ 0 }}              \ \  \ 4 \ \ \ 2 \\\
-\phantom{{0-}} \ \         -\underline{\  3 \ \ \ 4 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ \ \\ 0 }}         {\ \ \ \ 8 \ 5}\\
-\phantom{{0- \ \ }} \ \ \ \ \ \         -\underline{\ 8 \  5 \ \ \ \ }\\
-\phantom{{ \ \ \ 0 \ 0 \ 0 \ 0 \ \ 0 \ 0 }}         {\ 0 }\\\\
-\end{array}
-$
-
-Cost of one tickets $= \pounds 1.25$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 1.25$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the cost of seven tickets.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Cost of seven tickets = cost of one ticket $\times 7$
-
-
-Multiplying with decimal points is same as multiplying with two whole numbers. Add up the number of digits after the decimal points int the question and ensure to place the decimal point in the answer going from right to left.
-
-$\pounds 1.25 \times 7$
-
-$
-\begin{array}{cccccccccccccc}
-           &1     & 2     & 5  \\
-{}\times   &      &      & 7   \\
-\hline 
-           &8     &7      &5   \\
-\end{array}
-$
-
-Let's put the decimal points. The question has two numbers after the decimal point. So in the answer put the decimal point going right to left after two digits.
-
-$\pounds 1.25 \times 7 = \pounds 8.75$
-
-Cost of seven tickets is $\pounds 8.75$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 8.75$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>AED1CAB4-1114-4003-8768-AEE3317FB324</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The cost of one original glazed doughnut is $\pounds 1.45$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the cost of twelve doughnuts.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- 
-As per the question,
-
-$
-\begin {aligned}
-\text {Cost of twelve doughnuts}  &= 12 \times \pounds 1.45 \\\\
-                                  &= \pounds 17.40
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 17.40$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The doughnut seller is offering customers a special deal: "Twelve doughnuts for $\pounds 9.45$".
-
-How much will each customer save?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {Each customer saved}  &= \text {Original cost of 12 doughnuts} - \text {Special deal cost of 12 doughnuts} \\\\
-                             &= \pounds 17.40 - \pounds 9.45 \\\\
-                             &= \pounds 7.95
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 7.95$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='AED1CAB4-1114-4003-8768-AEE3317FB324' id='FORM-AED1CAB4-1114-4003-8768-AEE3317FB324' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-AED1CAB4-1114-4003-8768-AEE3317FB324'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>87AA04CC-D448-4007-9256-68D87DB3FB84</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Blackcurrant cordial is diluted in the ratio $1  \ \text{part}$ cordial to $4 \ \text{parts}$ water.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much water should be mixed with $30 \ \text{ml}$ of cordial?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much cordial should be used to make $750 \ \text{ml}$ of the drink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>2E70DD3A-FFFA-4301-9A23-47091DF822AE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jason and Patrick win a prize of $\pounds 75$ for their entry into an inventing competition. For every $2$ hours that Patrick worked on the project Jason worked $3$, so it is decided that for every $\pounds 2$ that Patrick receives Jason should receive $\pounds 3$. How much will Jason and Patrick receive? Write your 
-answers in the boxes below. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>714AC34D-AA55-45CA-A28E-C0DB3E0A56F8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-  
-I buy 12 items which cost $\pounds 3.05$ each.  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the total cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total cost} &= \text{No. of items x Cost of item} \\\\
-                  &= 12 \ \times \pounds 3.05 \\\\
-                  &= \pounds 36.60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 36.60$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If you worked out the answer to part (a) on a calculator, what would the display show? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\pounds {36.60}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds {36.60}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' id='FORM-714AC34D-AA55-45CA-A28E-C0DB3E0A56F8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-714AC34D-AA55-45CA-A28E-C0DB3E0A56F8'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-To cook a joint of beef, you leave it in the oven for $30 \ \text{minutes}$ for every kilogram it weighs plus 
-$20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:  
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$2 \ \text{kg}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Time taken for} 1 \  \text{kg} = 30 \ \text{mins} \\
-\text{Time take for >1 kg =  Time taken for 1 kg + (Extra kg x 30 mins ) + 20} \\
-\text{Time take for 2 kg} = 30 + (1 \times 30) + 20 \\
-&= 30 + 30 + 20 \\
-&= 80 \ \text{mins} \\
-&= 1\ \text{hr} \ 20 \ \text{mins}
-\end{aligned}
-$
-
-For $2$ kg it takes $80$ minutes
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80 \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3.5 \ \text{kg}$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let time be x for $\dfrac {1}{2} \text{kg}$
-
-Time for 1 kg of joint of beef = $30$ minutes
-
-Time for extra 1 kg of joint of beef = $20$ minutes
-
-As per the question,
-
-$
-\begin{aligned} 
-\text{Let time be x for 3.5 kg} \\
-\text{then}\ \ &  x = \dfrac {3.5 \times 30}{1} \\\\
-               &  x = 150 \text{min} \\\\
-               \text{time} = 105+20\ \\\
-               &= 125 \text{minutes}
-\end{aligned}
-$
-
-For $3 \dfrac{1}{2}$ kg it takes $125$ minutes
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$125 \text{minutes}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='069669D4-0614-4FCA-A2AF-20506A369CB1' id='FORM-069669D4-0614-4FCA-A2AF-20506A369CB1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-069669D4-0614-4FCA-A2AF-20506A369CB1'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a trip to France, I found that one English pound was worth $1.2 \ \text{Euros}$. So for example, 
-I would receive $2.4 \ \text{Euros}$ in exchange for $\pounds 2$. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-On a ferry to France, I wanted to buy a large bar of Toblerone 
-chocolate, which cost $\pounds 3$. How many Euros would I have to pay for 
-it?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-| English pound | Euro  |
-|:-------------:|:-----:|
-| $\pounds 1$   | $1.2$ |
-| $\pounds 2$   | $2.4$ |
-| $\pounds 3$   | $3.6$ |
-
-As per the question,
-
-$
-\begin{aligned}
-\pounds 3 &=  2 \ \text{Euros}+ 1 \ \text{Euros} \\\\
-&= 2.4 + 1.2 \\\\
-&=  3.6 \ \text{Euros}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.6 \ \text{Euro}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-A certain bottle of wine in France costs $7.5 \ \text{Euros}$. How much is 
-that in English pounds?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-1.2 \ \text{Euros} &= \pounds 1 \\\\
-\text{Euros} \ 7.5 &= \dfrac{7.5}{1.2} \\\\
-&= 6\dfrac{1}{4} \\\\
-&= \pounds 6.25
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 6.25$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='1219A3ED-0814-4A5C-AA62-80C6F0E44674' id='FORM-1219A3ED-0814-4A5C-AA62-80C6F0E44674' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1219A3ED-0814-4A5C-AA62-80C6F0E44674'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>5532584A-CE17-4B4B-B43F-B4E567FC5002</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Marie bought seven cinema tickets for $\pounds 58.10$. How much was each ticket? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-7 \ \text{tickets}    &=  \pounds58.10 \\\\
-1 \times 7 \ \text{tickets}    &=  \pounds 58.10  \\\\
-1 \  \text{ticket}  &= \dfrac{58.10}{7} \\\\
-&=  \dfrac{7 \times 8.30 }{7} \\\\
-&= \dfrac{\cancel{7} \times  8.30}{\cancel{7}} \\\\
-1 \  \text{ticket}  &=\pounds 8.30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 8.30$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='5532584A-CE17-4B4B-B43F-B4E567FC5002' id='FORM-5532584A-CE17-4B4B-B43F-B4E567FC5002' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5532584A-CE17-4B4B-B43F-B4E567FC5002'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>232F57C7-E301-4FFA-80DA-C7978576A982</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-David is $15$ stone $11$. Andrew is $275$ pounds. If there are $14$ pounds in $1$ stone what is the difference between their weights? Give your answer in pounds. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-As the answer is to be given in pounds, let's convert David's weight into pounds.
-
-As per the question,
-$
-\begin{aligned}
-\text{Davids weight} &= 15 \text{Stone} 11 \\\\
-&=  15 \times  14 + 11 \\\\
-&=  221 \ \text{not money pounds !!! in weight so remains "pounds"}
-\end{aligned}  
-$
-
-$
-\begin{aligned}
-\text{Difference  of weight} &= \text{Andrew (Weight)} - \text{Davind (Weight)} \\\\
-&=  275 - 221 \\\\
-&=  54 \ \text{not money pounds !!! in weight so remains "pounds"}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 54$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='232F57C7-E301-4FFA-80DA-C7978576A982' id='FORM-232F57C7-E301-4FFA-80DA-C7978576A982' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-232F57C7-E301-4FFA-80DA-C7978576A982'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

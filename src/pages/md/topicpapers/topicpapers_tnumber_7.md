@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-7"
 title: "TopicPaper - Number - 7"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,158 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>83337D0D-9540-4245-B775-A8E101DB982C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much is three-sevenths of $196$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= \dfrac {3} {7} \ \text {of} \ 196 \\\\
+&= \dfrac {3} {7} \times {196} \\\\
+&= \dfrac {3 \times 196} {7} \\\\
+&= \dfrac {3 \times 28 \times 7} {7} \\\\
+&= \dfrac {3 \times 28 \times \cancel {7}} {\cancel{7}} \\\\
+&= 3 \times 28 \\\\
+&= 84
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' id='FORM-83337D0D-9540-4245-B775-A8E101DB982C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-83337D0D-9540-4245-B775-A8E101DB982C'>Initial</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>20E85746-0B74-4085-B598-68F104A85A9D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down a number between $0.3$ and $\dfrac{2}{5}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= (0.3 + \dfrac {2} {5}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {2} {5}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {2 \times 2} {5 \times 2}) \div 2 \\\\
+&= (\dfrac {3} {10} + \dfrac {4} {10}) \div 2 \\\\
+&= (\dfrac {3 + 4} {10}) \div 2 \\\\
+&= \dfrac {7} {10} \times \dfrac {1} {2} \\\\
+&= \dfrac {7} {10 \times 2} \\\\
+&= \dfrac {7} {20} \\\\
+&= 0.35
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.35$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' id='FORM-20E85746-0B74-4085-B598-68F104A85A9D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-20E85746-0B74-4085-B598-68F104A85A9D'>Initial</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -2850,6 +3002,152 @@ $12$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>59595924-CBD4-4769-A894-B75A26820FC0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these number cards.
+
+![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+   ![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Choose two of the cards to give the **lowest possible answer**. 
+
+Fill in the cards below and work out the answer.
+
+![missing image](/papers/missing_image.svg)
+ x ![missing image](/papers/missing_image.svg)
+ = .....
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Choose two of the cards to give the answer **100**
+
+![missing image](/papers/missing_image.svg)
+ \div ![missing image](/papers/missing_image.svg)
+ = 100
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>39FEECD6-F2F2-4967-9FC1-5D2680489012</p>
@@ -3172,6 +3470,197 @@ $26$
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are five cards with numbers printed on them.
+
+$\boxed{7} \quad \boxed{6} \quad \boxed{2} \quad \boxed{4} \quad\boxed{8}$
+
+The cards can be placed in order to form a $5$-digit number.
+
+For example the smallest number that could be made with all $5$ cards is:
+
+$\boxed{2} \boxed{4}  \boxed{6} \boxed{7} \boxed{8}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all $5$ cards what is the largest possible odd number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$86427$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$86427$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using all $5$ cards what is the number that is closest to $50000$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$48762$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48762$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Using only two of the cards, what is the largest possible **prime** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$87$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$87$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Arrange any three of the number cards to give the largest possible answer to this multiplication.
+
+$\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$76 \times 8 = 608$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$76 \times 8$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' id='FORM-F3144B09-1621-4BF8-A18D-56C923A48403' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F3144B09-1621-4BF8-A18D-56C923A48403'>Initial</p>
+</div>
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>
@@ -4935,633 +5424,6 @@ $45$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Sean scored $27$ out of $45$ in a test. Write this as a percentage.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Percentage} &= \dfrac {27} {45} \times 100 \\\\
-                   &= \dfrac {27 \times 100} {45} \\\\
-                   &= \dfrac {9 \times 3 \times 5 \times 20} {9 \times 5} \\\\
-                   &= \dfrac {\cancel {9} \times 3 \times \cancel {5} \times 20} {\cancel {9} \times \cancel {5}} \\\\
-                   &= 3 \times 20 \\\\
-                   &= 60 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In a class of $30$ pupils, $21$ are girls. What percentage of the class is boys?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Boys in the class} &= 30 - 21 \\\\
-                          &= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text {Percentage of boys} &= \dfrac {9} {30} \times 100 \\\\
-                           &= \dfrac {9 \times 100} {30} \\\\
-                           &= \dfrac {9 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
-                           &= \dfrac {3 \times 3 \times 10} {3} \\\\
-                           &= \dfrac {\cancel {3} \times 3 \times 10} {\cancel {3}} \\\\
-                           &= 30 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30 \%$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $0.8$ as a fraction in its simplest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 0.8 \\\\
-&= \dfrac {8} {10} \\\\
-&= \dfrac {2 \times 4} {2 \times 5} \\\\
-&= \dfrac {\cancel {2} \times 4} {\cancel {2} \times 5} \\\\
-&= \dfrac {4} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {4} {5}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write $85\%$ as a fraction in its lowest terms.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 85 \% \\\\
-&= \dfrac {85} {100} \\\\
-&= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
-&= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
-&= \dfrac {17} {2 \times 10} \\\\
-&= \dfrac {17} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {17} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Rearrange the following in order of size, **smallest to largest**.
-
-$\dfrac{9}{25}, 0.371, \dfrac{2}{5}, 38\%$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more fractions than percentages and decimals, so let's convert all the numbers into fractions.
-
-$
-\begin{aligned}
-&= \dfrac {9} {25}, \quad 0.371,  \quad \dfrac {2} {5},  \quad 38 \% \\\\
-&= \dfrac {9} {25}, \quad \dfrac {371} {100},  \quad \dfrac {2} {5},  \quad \dfrac {38} {100} \\\\
-&= \dfrac {9 \times 4} {25 \times 4}, \quad \dfrac {371} {100},  \quad \dfrac {2 \times 20} {5 \times 20},  \quad \dfrac {38} {100} \\\\
-&= \dfrac {36} {100}, \quad \dfrac {371} {100},  \quad \dfrac {40} {100},  \quad \dfrac {38} {100}
-\end{aligned}
-$
-
-Let's put them in ascending order now.
-
-$
-\begin{aligned}
-&= \dfrac {36} {100}, \quad \dfrac {38} {100},  \quad \dfrac {40} {100},  \quad \dfrac {371} {100} \\\\
-&= \dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' id='FORM-D03375C8-7EA3-489F-8485-E7B331CCAD8E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D03375C8-7EA3-489F-8485-E7B331CCAD8E'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>16721642-68D6-4CE6-8540-43C600013099</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Estimate the following by first rounding each number to the nearest whole number:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$9.47 \times 34.5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$3.75^2 - 11.63 \times 2.87$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>AC854B93-AB29-484A-A714-B3FAAEEFAC01</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Explain why $91$ is not a prime number.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Since 91 has more than two factors, i.e 1, 7, 13, 91, it is not a prime number}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-What is the $7 \text{th}$ prime number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$17$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$17$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>836169C8-E272-4A22-ACB9-5D73CCEFC167</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tlcm
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the highest common factor (HCF) of $66$ and $30$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the lowest common multiple (LCM) of $12$ and $8$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

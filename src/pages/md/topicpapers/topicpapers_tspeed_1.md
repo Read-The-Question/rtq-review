@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,91 +14,6 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
-<li>
-<div class='question_envelope rag_oldpr rag_prns question'>
-<div class='uuid'>
-<p>1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tspeed
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Look at the pictogram below.
-
-![missing image](/papers/missing_image.svg)
-
-
-How many more km did Baldwin run compared to Jeff? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Each runner symbol $= 2 \ \text{km}$
-
-As per the question, 
-
-$
-\begin{aligned}
-\text{Baldwin ran}     &= 7 \times 2 \ \text{km} + 1 \times 1 \ \text{km} \\\\
-                     &= 15 \ \text{km} \\\\
- \text{Jeff ran}     &= 3 \times 2 \ \text{km} \\\\
-                    &= 6 \ \text{km} \\\\
-\text{Difference}     &= 15 - 6 \\\\
-                      &= 9 \ \text{km} 
-\end{aligned}
-$
-
-Baldwin ran $9 \ \text{km}$ more than Jeff.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9 \ \text{km}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' id='FORM-1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6'>Initial</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -2553,6 +2468,118 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>1726FC9C-67EA-46CA-9AE2-A3CB7D96F149</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tspeed
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ \text{seconds}$ after him and finished $30 \  \text{seconds}$ before him. What was Jackie's speed in kilometres per hour?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
+
+Distance $= 3 \ \text{km}$
+
+Since Jackie started $30 \ \text{seconds}$ after and finished $30 \  \text{seconds}$ earlier, so,
+
+$
+\begin{aligned}
+\text{Time taken}   &= 13 \ \text{minutes} - 30 \text{s} - 30 \text{s} \\\\
+                    &= 13 \ \text{minutes} - 60 \text{s} \\\\
+                    &= 13 \ \text{minutes} - 1 \ \text{minute} \\\\
+                    &= 12 \ \text{minutes} \\\\
+                    &= \dfrac {12} {60} \ \text{hours}
+\end{aligned}
+$
+
+Let's find the speed now.
+
+$
+\begin{aligned}
+\text{Speed}      &= \dfrac {\text{Distance}} {\text{Time}} \\\\
+                  &= \dfrac {3} { \dfrac {12}{60} } \ \text{km/hour} \\\\
+                  &= \dfrac {3 \times 60} {12} \ \text{km/hour} \\\\
+                  &= \dfrac {3 \times 5 \times 12} {12} \ \text{km/hour} \\\\
+                  &= \dfrac {3 \times 5 \times \cancel{12}} {\cancel{12}} \ \text{km/hour} \\\\
+                  &= 15 \ \text{km/hour}
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+We can also use ratio to find the speed from the distance and time. 
+
+$
+\begin{aligned}
+3 \ \text{km}               &: 12 \ \text{minutes} \\\\
+3 \times 5 \ \text{km}      &: 12 \times 5 \ \text{minutes} \\\\
+15 \ \text{km}              &: 60 \ \text{minutes} \\\\
+15 \ \text{km}              &: 1 \ \text{hour}
+\end{aligned}
+$
+
+$\text{Speed} = 15 \ \text{km/hour}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15 \ \text{km/hour}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' id='FORM-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,114 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Albert, Brian and Charlie are dogs. Albert and Brian weigh $22 \ \text{kg}$ together. Brian and Charlie weigh $20 \ \text{kg}$ together. All three dogs weigh $30 \ \text{kg}$. How much does each dog weigh?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weights of Albert, Brian, Charlie are A, B, C respectivley.
+
+As per the question,
+
+$
+\begin{aligned}
+A + B     &= 22    \ \text{kg}  \\\\
+B + C     &= 20     \ \text{kg} \\\\
+A + B + C &= 30 \ \text{kg}\\\\
+\end{aligned}
+$
+
+Lets, first find value of A
+
+$
+\begin{aligned}
+A + (B + C)  &= 30 \\\\
+A + 20       &= 30 \\\\
+A            &= 30 - 20 \\\\
+A            &= 10 \\\\
+\end{aligned}
+$
+
+Now finding the value of B,
+
+$
+\begin{aligned}
+A + B  &= 22 \\\\
+B      &= 22 - A \\\\
+B      &= 22 - 10 \\\\
+B      &= 11
+\end{aligned}
+$
+
+Finally the value of C is given by,
+
+$
+\begin{aligned}
+B + C &= 20 \\\\
+C     &= 20 - B \\\\
+C     &= 20 - 11 \\\\
+C     &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10, 11, 9$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='DCA17542-5313-4830-8E8C-79DE88C98DEF' id='FORM-DCA17542-5313-4830-8E8C-79DE88C98DEF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DCA17542-5313-4830-8E8C-79DE88C98DEF'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -495,6 +603,90 @@ $\pounds 2.65$ and $\pounds 2.25$
 </div>
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the total length marked with $x$.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Length}(x)         &= \text{Length}(\text{Lower figure}) + \dfrac{1}{3} \times \text{Length}(\text{Upper figure}) \\\\
+x                        &= 15 + \dfrac{1}{3} \times 15  \\\\
+x                        &= 15 + \dfrac {5 \times 3} {3}  \\\\
+x                        &= 15 + \dfrac {5 \times \cancel{3}} {\cancel{3}}  \\\\
+x                        &= 15 + 5  \\\\
+x                        &= 20 \ \text {cm}
+\end{aligned}
+$
+
+The total length of marked $x$ is $20 \ \text {cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' id='FORM-5AF5AFC7-6421-43C4-B38A-CD7C667BAE96' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5AF5AFC7-6421-43C4-B38A-CD7C667BAE96'>Initial</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
@@ -4018,6 +4210,62 @@ $21$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C5121F51-D6F0-490C-895D-0EA1AF48C1A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this addition sum, A and B stand for digits.
+ 
+![missing image](/papers/missing_image.svg)
+
+
+Find the values of A and B. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
@@ -4488,214 +4736,6 @@ $570$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Martha and Sally each have the same amount of money.
-
-If Martha spends $\pounds 10$ and sally spends $\pounds 20$, then Martha has three times as much as Sally.
-
-If Martha spends $\pounds 15$ and Sally spends $\pounds 20$, then Martha has twice as much as Sally.
-
-how much money do they have altogether?  
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let money Martha has be m and Sally has be s,
-
-$
-\begin{aligned}
-m - 10 = 3 \times (s - 20) \\\\
-m - 10 = 3s - 60 \\\\
-3s - m = 50 \\\\ 
-m =  3s -50
-\end{aligned}
-$
-
-$
-\begin{aligned}
-m - 15 = 2 \times (s - 20) \\\\
-m - 15 = 2s - 40 \\\\
-2s - m = 25 
-\end{aligned}
-$
-
-Replacing m in second question
-
-$
-\begin{aligned}
-2s - 3s + 50 = 25 \\\\ 
-s = 25 
-\end{aligned}
-$
-
-Value of m will be,
-$
-\begin{aligned}
-m = 3s - 50 \\\\
-m = 75 - 50 \\\\
-m = 25 
-\end{aligned}
-$
-
-Total money both has,
-$
-\begin{aligned}
-&= 25 + 25 \\\\ 
-&= \pounds 50
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 50$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The sum of two whole numbers is 30 and their difference is 20
-
-What are the two numbers?
-
-![missing image](/papers/missing_image.svg)
- 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let two numbers be $x$ and $y$,
-
-$
-\begin{aligned}
-x + y = 30   &&&&&    x - y = 20 \\\\
-x = 30 - y   &&&&&    30 - y - y = 20 \\\\
-x = 30 - y   &&&&&    10 = 2y \\\\
-x = 30 - y   &&&&&    y = 5 \\\\
-x = 25       &&&&&    y = 5 \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$25, 5$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>CC8D31D6-8901-4DAE-81FC-A15B074ED555</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-In this multiplication each letter stands for a **different** digit. What digit does **D** represent?
-
-![missing image](/papers/missing_image.svg)
-
-
-![missing image](/papers/missing_image.svg)
-   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

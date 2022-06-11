@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -435,10 +435,7 @@ $8195$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tnumber
+tnet
 </li>
 </ul>
 </div>

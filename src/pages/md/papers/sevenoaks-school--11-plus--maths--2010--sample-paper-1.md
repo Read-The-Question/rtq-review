@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1015,9 +1015,6 @@ $\dfrac {a} {3}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -1598,16 +1595,10 @@ $15 \degree$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tinfer
+tareaperimeter
 </li>
 <li>
 ttable
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>
@@ -1813,12 +1804,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tinfer
-</li>
 <li>
 talgebra
 </li>

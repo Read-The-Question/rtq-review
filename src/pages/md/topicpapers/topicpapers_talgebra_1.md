@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-1"
 title: "TopicPaper - Algebra - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2697,81 +2697,6 @@ $9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How many $6 \ \text{cm}$ pieces of string can be 
-cut from a piece of string $50 \ \text{cm}$ long? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin {aligned}
-\text {No. of pieces}   &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
-                        &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
-                        &= 8 \dfrac {2} {6} \\\\
-                        &= 8 \ \text {pieces}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$8 \ \text {pieces}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' id='FORM-C0365365-4904-4D8E-B97D-7E9DF2D136D9' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C0365365-4904-4D8E-B97D-7E9DF2D136D9'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8961258B-C4E5-4FED-89CA-D366F6304F54</p>
@@ -2819,92 +2744,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A triangle has a base of $6 \ \text{cm}$ and a height 
-of $4 \ \text{cm}$. It has the same area as another
-triangle of base length $8 \ \text{cm}$. How tall is the triangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-Let the height of the second triangle $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
-\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
-\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
-\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
-a                                                               &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
-a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
-a                                                               &= 3 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' id='FORM-BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -4678,6 +4517,418 @@ TODOANSWER
 
 <div class='papername'>
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>AE2C9A13-AA3C-4DE9-BE15-092A3939D5C4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$88 + \boxed{\phantom{23}} = 173$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(17 \times 2) - (27 \times 0) = \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$1.25 - \boxed{\phantom{23}} = 0.75$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$\boxed{\phantom{23}} \times 0.25 = 1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$64 \div 8 = 32 \div \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$(3 \times 2 \times 1) - (3 + 2 + 1) = \boxed{\phantom{23}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>A054337A-52DB-4666-A80E-C41FDDC92EB8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+My four pet monkeys collected a pile of $60$ peanuts.
+
+Monkey $A$ woke in the night and ate half of them,
+then Monkey $B$ woke and ate one third of what was left, 
+then Monkey $C$ woke and ate one quarter of the rest 
+and finally Monkey $D$ woke and ate one fifth of what remainder.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many peanuts did Monkey $D$ eat?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How many peanuts were left in the morning?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2016--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

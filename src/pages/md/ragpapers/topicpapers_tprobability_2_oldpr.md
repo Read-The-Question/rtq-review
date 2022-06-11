@@ -1,7 +1,7 @@
 ---
-slug: "ragpapers/topicpapers-tprobability-1-oldpr"
-title: "TopicPaper - Probability - 1 - OLDPR"
-date: 2022-06-11 10:09:45
+slug: "ragpapers/topicpapers-tprobability-2-oldpr"
+title: "TopicPaper - Probability - 2 - OLDPR"
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>

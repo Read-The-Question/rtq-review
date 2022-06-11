@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-1"
 title: "TopicPaper - Simpleword - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -354,6 +354,91 @@ $105  \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prns question'>
+<div class='uuid'>
+<p>1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the pictogram below.
+
+![missing image](/papers/missing_image.svg)
+
+
+How many more km did Baldwin run compared to Jeff? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Each runner symbol $= 2 \ \text{km}$
+
+As per the question, 
+
+$
+\begin{aligned}
+\text{Baldwin ran}     &= 7 \times 2 \ \text{km} + 1 \times 1 \ \text{km} \\\\
+                     &= 15 \ \text{km} \\\\
+ \text{Jeff ran}     &= 3 \times 2 \ \text{km} \\\\
+                    &= 6 \ \text{km} \\\\
+\text{Difference}     &= 15 - 6 \\\\
+                      &= 9 \ \text{km} 
+\end{aligned}
+$
+
+Baldwin ran $9 \ \text{km}$ more than Jeff.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9 \ \text{km}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' id='FORM-1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1B291D92-DDEF-40BF-9C5F-C8E5F740F8F6'>Initial</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -1023,6 +1108,81 @@ $11$ friends
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C0365365-4904-4D8E-B97D-7E9DF2D136D9</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many $6 \ \text{cm}$ pieces of string can be 
+cut from a piece of string $50 \ \text{cm}$ long? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {No. of pieces}   &= \dfrac {\text {Total length of the string}} {\text {Length of a piece}} \\\\
+                        &= \dfrac {50 \ \text {cm}} {6 \ \text {cm}} \\\\
+                        &= 8 \dfrac {2} {6} \\\\
+                        &= 8 \ \text {pieces}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \ \text {pieces}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C0365365-4904-4D8E-B97D-7E9DF2D136D9' id='FORM-C0365365-4904-4D8E-B97D-7E9DF2D136D9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C0365365-4904-4D8E-B97D-7E9DF2D136D9'>Initial</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -4231,126 +4391,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>D8C30162-96E0-42EB-B7B0-1420BAD3B2C7</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A field is planted with cabbages in rows.
-Each row contains $22$ cabbage seeds and there are $39$ rows. How many cabbage seeds are there in the field?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question, total seeds in a row $= 22$. So,
-
-$
-\begin{aligned}
-\text {Total seeds in 39 rows}    &= 39 \times 22 \\\\
-                                  &= 858
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$858$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' id='FORM-D8C30162-96E0-42EB-B7B0-1420BAD3B2C7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D8C30162-96E0-42EB-B7B0-1420BAD3B2C7'>Initial</p>
-</div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A teacher shares a large packet of sweets evenly to her class of $24$ pupils and then eats the left over sweets.
-There were $170$ sweets in the packet, how many does the teacher eat?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= 170 - 24 \\\\
-&= 146
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$146$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

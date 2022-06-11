@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -817,7 +817,7 @@ $8101$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tratio
@@ -2984,16 +2984,7 @@ $414$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tprofit
-</li>
-<li>
-talgebra
-</li>
-<li>
-tpercentage
+tsimpleword
 </li>
 </ul>
 </div>

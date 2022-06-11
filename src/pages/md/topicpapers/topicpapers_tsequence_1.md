@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1655,6 +1655,216 @@ TODOANSWER
 
 <div class='papername'>
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>8059D483-6453-4DE4-A520-49AF37486E10</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Look at these four decimals:
+
+$0.86  \quad 0.9  \quad 0.17  \quad 0.73$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write down the largest amount.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Find the difference between the largest and smallest amounts.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Here is a part of a number line. Write the two missing numbers in the boxes. 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2013--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -6027,99 +6237,6 @@ ${}- 19$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>0907F8CD-02DC-4336-B721-E39389BE9AAC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the $5 \text{th}$ term in this sequence?
-
-$991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunderscore } \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-The difference between the terms is $127$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-127)} } 
-&&  \footnotesize {\maroonC
- {(-127)} }  
-&&  \footnotesize {\maroonC
- {(-127)} }   
-&&  \footnotesize {\maroonC
- {(-127)} }  \\
-991,  &&    864,  &&  737,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fourth number}        &= 737 - 127 \\\\
-                            &= 610 \\\\
-\text{Fifth number}         &= 610 - 127 \\\\
-                            &= 483
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$483$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' id='FORM-0907F8CD-02DC-4336-B721-E39389BE9AAC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0907F8CD-02DC-4336-B721-E39389BE9AAC'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

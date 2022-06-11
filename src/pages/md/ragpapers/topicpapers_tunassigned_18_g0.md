@@ -1,13 +1,13 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-18-g0"
 title: "TopicPaper - Unassigned - 18 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
+<p>99A136E5-4463-4C0B-8C30-09F313B15F04</p>
 </div>
 <div class='topics'>
 <ul>
@@ -15,23 +15,22 @@ date: 2022-06-11 10:09:45
 tunassigned
 </li>
 <li>
+tgeometry
+</li>
+<li>
 tareaperimeter
 </li>
 <li>
-talgebra
+tcircleanswer
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Farmer Jack and Farmer Giles each have a rectangular field.
+The diagram below shows a **regular** eight-sided polygon.
 
 ![missing image](/papers/missing_image.svg)
 
-
-Farmer Jack’s field has an area of $24 \ \text{m}^2$.
-
-Its length is $8 \ \text{m}$. 
 
 </div>
 <div class='workings'>
@@ -57,33 +56,20 @@ Its length is $8 \ \text{m}$.
 </div>
 <div class='question subquestion'>
 
-Work out the width of Farmer Jack’s field.
+What is the special name given to a polygon with eight sides?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the width of the field $= a$.
-
-As per the question,
-
-$
-\begin{aligned}
-\text {Area of rectangle}  &= \text {length} \times \text {width} \\\\
-24                         &= 8 \times a \\\\
-a                          &= \dfrac {24} {8} \\\\
-a                          &= \dfrac {3 \times 8} {8} \\\\
-a                          &= \dfrac {3 \times \cancel{8}} {\cancel{8}} \\\\
-a                          &= 3 \ \text{m}
-\end{aligned}
-$
+$\text{Octagon}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$3 \ \text{m}$
+$\text{Octagon}$
 
 </div>
 </div>
@@ -98,27 +84,25 @@ $3 \ \text{m}$
 </div>
 <div class='question subquestion'>
 
-Work out the perimeter of Farmer Jack’s field.
+Circle the word below which describes the type of angle inside the polygon at $A$.
+
+- acute 
+- reflex 
+- right-angle 
+- obtuse
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
-                                 &= 2 \times (8 + 3) \\\\
-                                 &= 2 \times 11 \\\\
-                                 &= 22 \ \text {m}
-\end{aligned}
-$
+$\text{obtuse}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$22 \ \text {m}$
+$\text{obtuse}$
 
 </div>
 </div>
@@ -133,30 +117,45 @@ $22 \ \text {m}$
 </div>
 <div class='question subquestion'>
 
-Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
-
-The width of Farmer Giles’ field is $4 \ \text{m}$. 
-
-![missing image](/papers/missing_image.svg)
-
-
-Work out the length of Farmer Giles’ field.
+$CD$ measures $34 \ \text{mm}$.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-Let the length $=a$
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subsubquestion'>
+
+Write this measurement in centimetres.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$1 \ \text{cm} = 10 \ \text{mm}$
 
 $
 \begin{aligned}
-\text {Perimeter of a rectangle} &= 2 \times (\text {length} + \text {width}) \\\\
-20                               &= 2 \times (4 + a) \\\\
-20                               &= 8 + 2a \\\\
-2a                               &= 20 - 8 \\\\
-2a                               &= 12 \\\\
-a                                &= \dfrac {12} {2} \\\\
-a                                &= 6 \ \text {m}
+&= 34 \ \text{mm} \\\\
+&= \dfrac {34} {10} \ \text{cm} \\\\
+&= 3.4 \ \text{cm}
 \end{aligned}
 $
 
@@ -165,7 +164,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6 \ \text {m}$
+$3.4 \ \text{cm}$
 
 </div>
 </div>
@@ -173,14 +172,16 @@ $6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
 <div class='topics'>
 <ul>
 </ul>
 </div>
-<div class='question subquestion'>
+<div class='question subsubquestion'>
 
-Work out the area of Farmer Giles’ field.
+Adam the ant runs once around the perimeter of the polygon.
+
+How far does Adam run?
 
 </div>
 <div class='workings'>
@@ -188,8 +189,8 @@ Work out the area of Farmer Giles’ field.
 
 $
 \begin{aligned}
-\text {Area} &= 4 \times 6 \\\\
-             &= 24 \ \text {m} ^ 2
+\text{Distance covered by Adam} &= 8 \times 3.4 \\\\
+                                &= 27.2 \ \text{cm}
 \end{aligned}
 $
 
@@ -198,78 +199,44 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \ \text {m} ^ 2$
+$27.2 \ \text{cm}$
 
 </div>
 </div>
 
 </div>
 </li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
 </ul>
-</div>
-<div class='question subquestion'>
-
-Farmer Josephine also has a rectangular field.
-
-![missing image](/papers/missing_image.svg)
-
-
-The width of Farmer Josephine’s field is $x \ \text{m}$ and the length is $y \ \text{m}$.
-
-Farmer Josephine builds a fence along the perimeter of her field.
-
-If the total length of this fence is $30 \ \text{m}$, write down two possible values of $x$ and $y$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$10 \ \text{and} 5,7 \ \text{and} 8$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10 \ \text{and} 5,7 \ \text{and} 8$
-
-</div>
-</div>
-
 </div>
 </li>
 </ul>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99A136E5-4463-4C0B-8C30-09F313B15F04' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99A136E5-4463-4C0B-8C30-09F313B15F04' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99A136E5-4463-4C0B-8C30-09F313B15F04' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99A136E5-4463-4C0B-8C30-09F313B15F04' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' id='FORM-CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='99A136E5-4463-4C0B-8C30-09F313B15F04' id='FORM-99A136E5-4463-4C0B-8C30-09F313B15F04' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-99A136E5-4463-4C0B-8C30-09F313B15F04'>Initial</p>
 </div>
 <div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:19</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:22</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -279,7 +246,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>20517E28-4F19-4014-B36A-D0CD7476DB1B</p>
+<p>17995AB1-E22E-4926-84D3-68BD6CB44645</p>
 </div>
 <div class='topics'>
 <ul>
@@ -287,66 +254,132 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 tunassigned
 </li>
 <li>
-tpercentage
+testimate
+</li>
+<li>
+tunit
+</li>
+<li>
+tcircleanswer
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Jamie got seven questions wrong in a test out of $25$ questions. What percentage of the questions did he get wrong?
+In each list below, circle the most sensible unit to measure:
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text {Percentage of wrong questions} &= \dfrac {7} {25} \times 100 \\\\
-                                      &= \dfrac {7 \times 100} {25} \\\\
-                                      &= \dfrac {7 \times 25 \times 4} {25} \\\\
-                                      &= \dfrac {7 \times \cancel {25} \times 4} {\cancel {25}} \\\\
-                                      &= 7 \times 4 \\\\
-                                      &= 28 \%
-\end{aligned}
-$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$28 \%$
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the mass of a battleship
+
+- tonnes 
+- kilograms 
+- metres 
+- grams 
+- litres
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{tonnes}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{tonnes}$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+the amount of water in a bath
+
+- metres 
+- millilitres 
+- litres 
+- millimetres 
+- kilograms
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{litres}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{litres}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20517E28-4F19-4014-B36A-D0CD7476DB1B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20517E28-4F19-4014-B36A-D0CD7476DB1B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20517E28-4F19-4014-B36A-D0CD7476DB1B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20517E28-4F19-4014-B36A-D0CD7476DB1B' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='20517E28-4F19-4014-B36A-D0CD7476DB1B' id='FORM-20517E28-4F19-4014-B36A-D0CD7476DB1B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='17995AB1-E22E-4926-84D3-68BD6CB44645' id='FORM-17995AB1-E22E-4926-84D3-68BD6CB44645' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-20517E28-4F19-4014-B36A-D0CD7476DB1B'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-17995AB1-E22E-4926-84D3-68BD6CB44645'>Initial</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:15</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:24</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -356,7 +389,7 @@ $28 \%$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
+<p>20A45DB5-153C-4BAE-BAB2-5E40D2045B0E</p>
 </div>
 <div class='topics'>
 <ul>
@@ -364,30 +397,29 @@ $28 \%$
 tunassigned
 </li>
 <li>
-tlcm
+tfactor
+</li>
+<li>
+tnoexplanation
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-Which number between $140$ and $170$ can be divided exactly by both $8$ and $9$?
+Which number between $40$ and $50$ is a multiple of both $4$ and $6$?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-The LCM of $8$ and $9$ is $72$. 
-
-Now let's find a number that is a multiple of the LCM and is between $140$ and $170$.
-
-$72 \times 2 = 144$ is between $140$ and $170$.
+$48$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$144$
+$48$
 
 </div>
 </div>
@@ -395,30 +427,194 @@ $144$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='C8C3BB23-7980-4A19-8082-5F985DD48CAC' id='FORM-C8C3BB23-7980-4A19-8082-5F985DD48CAC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' id='FORM-20A45DB5-153C-4BAE-BAB2-5E40D2045B0E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-C8C3BB23-7980-4A19-8082-5F985DD48CAC'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-20A45DB5-153C-4BAE-BAB2-5E40D2045B0E'>Initial</p>
 </div>
 <div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:8</p>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>5689F773-F52D-4D11-90B1-2CBEC3FBD759</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number $8$ has four factors: $1, 2, 4$ and $8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Which is the first number greater than $10$ to have exactly **four** factors?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$14$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down any number less than $20$ which has exactly **three** factors.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Some numbers have only **two** factors.
+
+What is the special name given to this type of number?
+
+*It may help you to write down some numbers with only two factors*.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+These numbers are called $\text {Prime numbers}$.
+
+Some of the $\text {Prime numbers}$ are,
+
+$2, 3, 5, 7, 11, 13, 17$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Prime numbers}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5689F773-F52D-4D11-90B1-2CBEC3FBD759' id='FORM-5689F773-F52D-4D11-90B1-2CBEC3FBD759' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5689F773-F52D-4D11-90B1-2CBEC3FBD759'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

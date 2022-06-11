@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -637,9 +637,6 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

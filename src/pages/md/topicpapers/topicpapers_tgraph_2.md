@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-2"
 title: "TopicPaper - Graph - 2"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3758,18 +3758,6 @@ TODOANSWER
 <ul>
 <li>
 tgraph
-</li>
-<li>
-tgeometry
-</li>
-<li>
-tdraw
-</li>
-<li>
-tsymmetry
-</li>
-<li>
-tareaperimeter
 </li>
 </ul>
 </div>

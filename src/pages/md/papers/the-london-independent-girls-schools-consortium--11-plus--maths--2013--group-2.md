@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1529,7 +1529,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+trecipe
 </li>
 <li>
 tratio
@@ -2641,13 +2641,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>

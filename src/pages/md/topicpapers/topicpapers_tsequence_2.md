@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-2"
 title: "TopicPaper - Sequence - 2"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,99 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>0907F8CD-02DC-4336-B721-E39389BE9AAC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the $5 \text{th}$ term in this sequence?
+
+$991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunderscore } \quad \text{\textunderscore \textunderscore \textunderscore }$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let's find the difference between the consecutive terms of the sequence.
+
+
+The difference between the terms is $127$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-127)} } 
+&&  \footnotesize {\maroonC
+ {(-127)} }  
+&&  \footnotesize {\maroonC
+ {(-127)} }   
+&&  \footnotesize {\maroonC
+ {(-127)} }  \\
+991,  &&    864,  &&  737,  &&   \ldots && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Fourth number}        &= 737 - 127 \\\\
+                            &= 610 \\\\
+\text{Fifth number}         &= 610 - 127 \\\\
+                            &= 483
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$483$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' id='FORM-0907F8CD-02DC-4336-B721-E39389BE9AAC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0907F8CD-02DC-4336-B721-E39389BE9AAC'>Initial</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -3313,6 +3406,91 @@ TODOANSWER
 </div>
 </li>
 <li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>49A3AC7D-1A5D-4648-9BA9-C13134C3645A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Naheeda uses $10$ matchsticks to make a row of $3$ squares.
+How many matchsticks would she need to make a row of $7$ squares?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As shown in the figure,
+
+To make a row of $n$ squares, we need $3n + 1$ matchsticks.
+
+So,
+
+For making a row of 7 squares
+
+$
+\begin{aligned}
+&= 3 \times 7 + 1 \\\\
+&= 21 + 1 \\\\
+&= 22
+\end{aligned}
+$
+
+We need $22$ matchsticks for making a row of 7 squares.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='49A3AC7D-1A5D-4648-9BA9-C13134C3645A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='49A3AC7D-1A5D-4648-9BA9-C13134C3645A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='49A3AC7D-1A5D-4648-9BA9-C13134C3645A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='49A3AC7D-1A5D-4648-9BA9-C13134C3645A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='49A3AC7D-1A5D-4648-9BA9-C13134C3645A' id='FORM-49A3AC7D-1A5D-4648-9BA9-C13134C3645A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-49A3AC7D-1A5D-4648-9BA9-C13134C3645A'>Initial</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>963BEC59-6DAD-42B4-A251-A32822C591F6</p>
@@ -5938,340 +6116,6 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16}, \quad \dfrac{15}{24}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-$
-\begin{matrix}
-    \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
-&&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
-\dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
-                            &= \dfrac {5 \times 4} {8 \times 4} \\\\
-                            &= \dfrac {20} {32}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {20} {32}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DB0B19ED-782A-4134-B0D4-8FB4BE272409' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DB0B19ED-782A-4134-B0D4-8FB4BE272409' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DB0B19ED-782A-4134-B0D4-8FB4BE272409' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DB0B19ED-782A-4134-B0D4-8FB4BE272409' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='DB0B19ED-782A-4134-B0D4-8FB4BE272409' id='FORM-DB0B19ED-782A-4134-B0D4-8FB4BE272409' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-DB0B19ED-782A-4134-B0D4-8FB4BE272409'>Initial</p>
-</div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3E2622D7-39D2-4869-AA49-57F537C5C296</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the missing numbers in the following sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-The difference between the terms is increasing by $3$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}} 
-&&  \footnotesize{\maroonC
-{(+3)}}  
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}   
-&&  \footnotesize{\maroonC
-{(+3)}}  \\
-10,  &&    13,  &&  16,  && \ldots, && \ldots, &&   25,  &&   28 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 16 + 3 \\\\
-                                  &= 19 \\\\
-\text{Second missing number}      &= 19 + 3 \\\\
-                                  &= 22
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19, 21$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-The difference between the terms is decreasing by $7$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-7)}} 
-&&  \footnotesize{\maroonC
-{(-7)}}  
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}   
-&&  \footnotesize{\maroonC
-{(-7)}}  \\
-29,  &&    22,  &&  15,  &&  8,  && \ldots,  && \ldots, &&   -13,  &&   -20 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}       &= 8 - 7 \\\\
-                                  &= 1 \\\\
-\text{Second missing number}      &= 1 - 7 \\\\
-                                  &= -6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1, -6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(\times -2)}} 
-&&  \footnotesize{\maroonC
-{(\times -2)}}  
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}  \\
-1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= -8 \times -2 \\\\
-                               &= 16 \\\\
-\text{Second missing number}   &= 16 \times -2 \\\\
-                               &= -32
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16, -32$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3E2622D7-39D2-4869-AA49-57F537C5C296' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3E2622D7-39D2-4869-AA49-57F537C5C296' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3E2622D7-39D2-4869-AA49-57F537C5C296' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3E2622D7-39D2-4869-AA49-57F537C5C296' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3E2622D7-39D2-4869-AA49-57F537C5C296' id='FORM-3E2622D7-39D2-4869-AA49-57F537C5C296' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3E2622D7-39D2-4869-AA49-57F537C5C296'>Initial</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

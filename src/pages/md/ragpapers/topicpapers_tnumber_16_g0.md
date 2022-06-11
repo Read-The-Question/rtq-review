@@ -1,9 +1,684 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>42FA7203-A19E-4735-B96B-0DE10464E8A4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number three hundred thousand, four hundred and seven.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$300407$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$300407$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='42FA7203-A19E-4735-B96B-0DE10464E8A4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='42FA7203-A19E-4735-B96B-0DE10464E8A4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='42FA7203-A19E-4735-B96B-0DE10464E8A4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='42FA7203-A19E-4735-B96B-0DE10464E8A4' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='42FA7203-A19E-4735-B96B-0DE10464E8A4' id='FORM-42FA7203-A19E-4735-B96B-0DE10464E8A4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-42FA7203-A19E-4735-B96B-0DE10464E8A4'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>CD6BCBD5-16AA-4496-BA89-31C177B22E60</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+You are given that $47 \times 382 = 17954$
+
+Use this information to answer the following questions.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$17954 \div 382 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+47 \times 382           &= 17954 \\\\
+\dfrac {17954} {382}    &= 47 \\\\
+17954 \div 382          &= 47
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$4.7 \times 3.82 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {1000}               &= \dfrac {17954} {1000} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {1000} \\\\
+4.7 \times 3.82                             &= 17.954
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.954$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$179.54 \div 38.2 =$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+47 \times 382                               &= 17954 \\\\
+\dfrac {47 \times 382} {100}                &= \dfrac {17954} {100} \\\\
+\dfrac {47} {10} \times \dfrac {382} {100}  &= \dfrac {17954} {100} \\\\
+4.7 \times 38.2                             &= 179.54 \\\\
+\dfrac {179.54} {38.2}                      &= 4.7 \\\\
+179.54 \div 38.2                            &= 4.7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.7$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$94 \times 191 =$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+47 \times 382                        &= 17954 \\\\
+47 \times 382 \time \dfrac {2} {2}   &= 17954 \times \dfrac {2} {2} \\\\
+47 \times 2 \times \dfrac {382} {2}  &= 17954 \\\\
+94 \times 191                        &= 17954
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17954$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CD6BCBD5-16AA-4496-BA89-31C177B22E60' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CD6BCBD5-16AA-4496-BA89-31C177B22E60' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CD6BCBD5-16AA-4496-BA89-31C177B22E60' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CD6BCBD5-16AA-4496-BA89-31C177B22E60' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='CD6BCBD5-16AA-4496-BA89-31C177B22E60' id='FORM-CD6BCBD5-16AA-4496-BA89-31C177B22E60' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CD6BCBD5-16AA-4496-BA89-31C177B22E60'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-b:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>051EA915-77B1-4C90-B44F-067124622F8F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write $\dfrac{7}{20}$ as a decimal number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {7} {20} \\\\
+&= \dfrac {7 \times 5} {20 \times 5} \\\\
+&= \dfrac {35} {100} \\\\
+&= 0.35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.35$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' id='FORM-051EA915-77B1-4C90-B44F-067124622F8F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-051EA915-77B1-4C90-B44F-067124622F8F'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>62A1AB1D-19F1-4582-8B13-6027E86309DF</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Subtract the difference between $62$ and $35$ from the product of $13$ and $6$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= (13 \times 6) - (62 - 35) \\\\
+&= 78 - 27 \\\\
+&= 51
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$51$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' id='FORM-62A1AB1D-19F1-4582-8B13-6027E86309DF' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-62A1AB1D-19F1-4582-8B13-6027E86309DF'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>39E20826-B8B1-4C4D-AF60-A2D391BC499E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write in figures the number three hundred and eight thousand, five hundred and twenty.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$308520$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$308520$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='39E20826-B8B1-4C4D-AF60-A2D391BC499E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='39E20826-B8B1-4C4D-AF60-A2D391BC499E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='39E20826-B8B1-4C4D-AF60-A2D391BC499E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='39E20826-B8B1-4C4D-AF60-A2D391BC499E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='39E20826-B8B1-4C4D-AF60-A2D391BC499E' id='FORM-39E20826-B8B1-4C4D-AF60-A2D391BC499E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-39E20826-B8B1-4C4D-AF60-A2D391BC499E'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>5D4FC6CE-AFCE-4118-A16D-21C14C304F1B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which sum has been set out correctly to give the answer $67$? 
+
+- $8 + 4 \times 6 - 5$
+- $(8 + 4) \times (6 - 5)$
+- $(8 + 4) \times 6 - 5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using **BIDMAS**,
+
+$
+\begin{aligned}
+\text{Option A}     &= 8 + 4 \times 6 - 5 \\\\
+                    &= 8 + 24 - 5 \\\\
+                    &= 32 - 5 \\\\
+                    &= 27 \neq 67
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Option B}     &= (8 + 4) \times (6 - 5) \\\\
+                    &= 12 \times 1 \\\\
+                    &= 12 \neq 67
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Option C}     &= (8 + 4) \times 6 - 5 \\\\
+                    &= 12 \times 6  - 5 \\\\
+                    &= 72 - 5 \\\\
+                    &= 67
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>C</p>
+</div>
+<div class='answer'>
+
+$(8 + 4) \times 6 - 5$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' id='FORM-5D4FC6CE-AFCE-4118-A16D-21C14C304F1B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5D4FC6CE-AFCE-4118-A16D-21C14C304F1B'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F990AB7B-48EF-4668-8814-D68C1917C568</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tunitprompt
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \text{mm}$ giving your answer in $\text{cm}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required
+. The three lengths are given in multiple units.
+
+Let's convert all the measurements into the same unit $\text{cm}$.
+
+As per the question,
+
+$
+\begin{aligned}
+&= 1.4 \ \text{m} + 33 \ \text{cm} + 580 \ \text{mm} \\\\
+&= 1.4 \times 100 \ \text {cm} + 33 \ \text{cm} + \dfrac {580} {10} \ \text{cm} \\\\
+&= 140 \ \text{cm} + 33 \ \text{cm} + 58 \ \text{cm} \\\\
+&= 231 \ \text{cm}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$231 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F990AB7B-48EF-4668-8814-D68C1917C568' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F990AB7B-48EF-4668-8814-D68C1917C568' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F990AB7B-48EF-4668-8814-D68C1917C568' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F990AB7B-48EF-4668-8814-D68C1917C568' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F990AB7B-48EF-4668-8814-D68C1917C568' id='FORM-F990AB7B-48EF-4668-8814-D68C1917C568' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F990AB7B-48EF-4668-8814-D68C1917C568'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -2649,227 +3324,6 @@ $4.32$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C89BE88B-D6EA-4F33-A8C3-496597C6989A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four of these numbers can make two pairs so that each pair adds up to $5871$. Which number is the odd one out?
-
-**A** $1917$
-
-**B** $2743$ 
-
-**C** $3008$ 
-
-**D** $3954$
-
-**E** $2863$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$1917 + 3954 = 5871$
-
-$3008 + 2863 = 5871$
-
-Odd one : $2743$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-**B** $2743$ 
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C89BE88B-D6EA-4F33-A8C3-496597C6989A' id='FORM-C89BE88B-D6EA-4F33-A8C3-496597C6989A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C89BE88B-D6EA-4F33-A8C3-496597C6989A'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down any **two** prime numbers between $45$ and $60$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Two prime numbers between $45$ and $60 = 47, 53$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47, 53$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' id='FORM-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A43948F9-7E5D-4E9F-B263-CDEABF7A1AFD'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>BCC6F2CB-8539-4FD4-9E74-FEBEFF999875</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find $2000 - 12 + 20 - 12$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using BIDMAS,
-
-$
-\begin{aligned}
-&= 2000 - 12 + 20 - 12 \\\\
-&= 2000 - 12 + 8 \\\\
-&= 2000 - 4 \\\\
-&= 1996
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1996$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' id='FORM-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BCC6F2CB-8539-4FD4-9E74-FEBEFF999875'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

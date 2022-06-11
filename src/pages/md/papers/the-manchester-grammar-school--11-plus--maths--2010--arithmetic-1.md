@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -731,16 +731,10 @@ Total CDs = 7 + 3
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tspeed
 </li>
 <li>
 tunitprompt
-</li>
-<li>
-tratio
 </li>
 </ul>
 </div>
@@ -1121,12 +1115,6 @@ $27$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tunitprompt
-</li>
 <li>
 tratio
 </li>

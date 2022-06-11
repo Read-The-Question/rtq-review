@@ -1,9 +1,94 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-g0"
 title: "TopicPaper - Probability - 2 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are 24 red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains 15 blue counters. How many white counters are there in the bag? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the white counters $= a$
+
+As per the question,
+
+Total counters $= 24 + 15 + a$
+
+\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
+
+
+$
+\begin{aligned}
+\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
+\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
+24 + 15 + a                                      &= 24 \times 6 \\\\
+a + 39                                           &= 144 \\\\
+a                                                &= 144 - 39 \\\\
+a                                                &= 105
+\end{aligned}
+$
+
+There are $105$ white counters in the bag.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$105$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D'>Initial</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -734,148 +819,6 @@ $\dfrac {11} {20}$
 </div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-There are $40$ coloured counters in a box. Half of them are red, one-fifth are yellow and the rest are green.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many are green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Green counters} &= \text{Total counters} - \text{Red counters} - \text{Yellow counters} \\\\
-                      &= 40 - \dfrac {1} {2} \times 40 - \dfrac {1} {5} \times 40 \\\\
-                      &= 40 - \dfrac {40} {2} - \dfrac {40} {5} \\\\
-                      &= 40 - \dfrac {2 \times 20} {2} - \dfrac {5 \times 8} {5} \\\\
-                      &= 40 - \dfrac {\cancel{2} \times 20} {\cancel{2}} - \dfrac {\cancel{5} \times 8} {\cancel{5}} \\\\
-                      &= 40 - 20 - 8 \\\\
-                      &= 12
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If I shake the box and then pick out one counter, what is the probability that it is green?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned} 
-\text{Probability of getting green counter}     &= \dfrac {\text{Green counters}} {\text{Total counters}} \\\\
-                                                &= \dfrac {12} {40} \\\\
-                                                &= \dfrac {4 \times 3} {4 \times 10} \\\\
-                                                &= \dfrac {\cancel{4} \times 3} {\cancel{4} \times 10} \\\\
-                                                &= \dfrac {3} {10}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {3} {10}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='3167920D-0D61-408D-81BB-04D02838D8D1' id='FORM-3167920D-0D61-408D-81BB-04D02838D8D1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3167920D-0D61-408D-81BB-04D02838D8D1'>Initial</p>
-</div>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

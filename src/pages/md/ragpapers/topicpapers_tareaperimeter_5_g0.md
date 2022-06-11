@@ -1,9 +1,172 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-g0"
 title: "TopicPaper - Areaperimeter - 5 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tareaperimeter
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I want to draw a square in which the perimeter (total length around the outside) is equal in size to the area. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the side length of the square?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the side length of the square $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Area of square}       &= \text{Perimeter of square} \\\\
+a \times a                  &= a + a + a + a \\\\
+a \times a                  &= 4 a \\\\
+a                           &= \dfrac {4 a} {a} \\\\
+a                           &= \dfrac {4 \cancel{a}} {\cancel{a}} \\\\
+a                           &= 4
+\end{aligned}
+$
+
+Side length of the square $= 4$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Now I want to draw a rectangle that is twice as long as it is wide. However, its perimeter is still equal in size to its area. What will the length of the rectangle be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle $= a$
+
+As per the question,
+
+Length of the rectangle $= 2 \times a$
+
+$
+\begin{aligned}
+\text{Area of rectangle}            &= \text{Perimeter of rectangle} \\\\
+\text{length} \times \text{width}   &= 2 \times (\text{length} + \text{width}) \\\\
+2a \times a                         &= 2 \times (2a + a) \\\\
+2a \times a                         &= 2 \times 3a \\\\
+a                                   &= \dfrac{2 \times 3 \times a} {2 \times a} \\\\
+a                                   &= \dfrac{\cancel{2} \times 3 \times \cancel{a}} {\cancel{2} \times \cancel{a}} \\\\
+a                                   &= 3
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Length of rectangle} &= 2 \times a \\\\
+                            &= 2 \times 3 \\\\
+                            &= 6
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7133C4B6-24EB-4420-92C7-0A0CC3F6411E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7133C4B6-24EB-4420-92C7-0A0CC3F6411E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7133C4B6-24EB-4420-92C7-0A0CC3F6411E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7133C4B6-24EB-4420-92C7-0A0CC3F6411E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='7133C4B6-24EB-4420-92C7-0A0CC3F6411E' id='FORM-7133C4B6-24EB-4420-92C7-0A0CC3F6411E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7133C4B6-24EB-4420-92C7-0A0CC3F6411E'>Initial</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -661,90 +824,6 @@ $50 \ \text{cm}^{2}$
 </div>
 <div class='papername'>
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Four strips of paper are stuck on a table as shown. Each one is a rectangle that is $12 \ \text{cm}$ long and $2 \ \text{cm}$ wide.
-
-![missing image](/papers/missing_image.svg)
-
-
-What area of the table is covered? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Since the rectangles are overlapping at four places, we need to subtract those area from the total.
-
-$
-\begin{aligned}
-\text {Area of the table covered} &= \text {Total area of rectangles} - \text {overlapping area} \\\\
-                                  &= (12 \times 2 \times 4) - (2 \times 2 \times 4) \\\\
-                                  &= 96 - 16 \\\\
-                                  &= 80 \ \text {cm}^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$80 \ \text {cm}^2$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='19234F0C-4C85-4F00-8A0C-D18A9430B6A0' id='FORM-19234F0C-4C85-4F00-8A0C-D18A9430B6A0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-19234F0C-4C85-4F00-8A0C-D18A9430B6A0'>Initial</p>
-</div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:29</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

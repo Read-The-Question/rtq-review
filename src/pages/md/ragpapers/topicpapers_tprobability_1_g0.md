@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-g0"
 title: "TopicPaper - Probability - 1 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -289,6 +289,266 @@ $\text {likely}$
 </div>
 <div class='papername'>
 <p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A bicycle will have two wheels.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' id='FORM-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A boy selected at random from Year $7$ will have red hair.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {unlikely}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A47DB4E1-F2E1-4223-910E-E35218E5B40F' id='FORM-A47DB4E1-F2E1-4223-910E-E35218E5B40F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A47DB4E1-F2E1-4223-910E-E35218E5B40F'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+An ordinary dice will show a number below ten.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Certain}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Certain}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='97658705-5BFD-43C2-8EC0-F96EA2170CC7' id='FORM-97658705-5BFD-43C2-8EC0-F96EA2170CC7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-97658705-5BFD-43C2-8EC0-F96EA2170CC7'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:41</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>22C2F81E-348A-4147-8F66-92DD1DE389E0</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tprobability
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A card selected from a normal pack of playing cards will not be black or red.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Impossible}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Impossible}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='22C2F81E-348A-4147-8F66-92DD1DE389E0' id='FORM-22C2F81E-348A-4147-8F66-92DD1DE389E0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-22C2F81E-348A-4147-8F66-92DD1DE389E0'>Initial</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:42</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -757,91 +1017,6 @@ $\dfrac {5} {9}$
 </div>
 <div class='papername'>
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tprobability
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have a bag containing red, blue and white counters. A counter is chosen at random from the bag. There are 24 red counters in the bag and the probability of choosing a red counter is $\dfrac {1} {6}$ . The bag contains 15 blue counters. How many white counters are there in the bag? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the white counters $= a$
-
-As per the question,
-
-Total counters $= 24 + 15 + a$
-
-\text{Probability}  &= \dfrac { \text{ Favourable Outcomes} } { \text{Total Outcomes} }
-
-
-$
-\begin{aligned}
-\text {Probability of choosing a red counter is} &= \dfrac {\text {Red counters}} {\text {Total counters}} \\\\
-\dfrac {1} {6}                                   &= \dfrac {24} {24 + 15 + a} \\\\
-24 + 15 + a                                      &= 24 \times 6 \\\\
-a + 39                                           &= 144 \\\\
-a                                                &= 144 - 39 \\\\
-a                                                &= 105
-\end{aligned}
-$
-
-There are $105$ white counters in the bag.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$105$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' id='FORM-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F5573BAC-C0F7-4B8F-BA09-58AA9FA02A0D'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

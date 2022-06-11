@@ -1,352 +1,13 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-10-g0"
 title: "TopicPaper - Unassigned - 10 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>31A4A093-5675-497C-98B5-5A3B7480DD3D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Jelly beans are sold in boxes which are cuboids measuring $10\ \text{cm}$ by $3\ \text{cm}$ by $12\ \text{cm}$.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find the volume of a box of jelly beans. Give the units for your answer.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Volume of the box} &= 12 \times 10 \times 3 \\\\
-                         &= 120 \times 3 \\\\
-                         &= 360 \ \text{cm} ^ 3
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$360 \ \text{cm} ^ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-The boxes are packed into cartons which are cuboids measuring $60\ \text{cm}$ by $30\ \text{cm}$ by $12\ \text{cm}$.
-
-Find the number of boxes of jelly beans which may be packed into a carton.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of boxes} &= \dfrac {\text{Volume of the carton}} {\text{Volume of the box}} \\\\
-                       &= \dfrac {60 \times 30 \times 12} {10 \times 3 \times 12} \\\\
-                       &= \dfrac {6 \times 10 \times 3 \times 10 \times 6 \times 2} {10 \times 3 \times 6 \times 2} \\\\
-                       &= \dfrac {\cancel {6} \times \cancel {10} \times \cancel {3} \times 10 \times 6 \times \cancel {2}} {\cancel {10} \times \cancel {3} \times \cancel {6} \times \cancel {2}} \\\\
-                       &= 10 \times 6 \\\\
-                       &= 60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$60$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='31A4A093-5675-497C-98B5-5A3B7480DD3D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='31A4A093-5675-497C-98B5-5A3B7480DD3D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='31A4A093-5675-497C-98B5-5A3B7480DD3D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='31A4A093-5675-497C-98B5-5A3B7480DD3D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='31A4A093-5675-497C-98B5-5A3B7480DD3D' id='FORM-31A4A093-5675-497C-98B5-5A3B7480DD3D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-31A4A093-5675-497C-98B5-5A3B7480DD3D'>Initial</p>
-</div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>F3144B09-1621-4BF8-A18D-56C923A48403</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tunassigned
-</li>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Here are five cards with numbers printed on them.
-
-$\boxed{7} \quad \boxed{6} \quad \boxed{2} \quad \boxed{4} \quad\boxed{8}$
-
-The cards can be placed in order to form a $5$-digit number.
-
-For example the smallest number that could be made with all $5$ cards is:
-
-$\boxed{2} \boxed{4}  \boxed{6} \boxed{7} \boxed{8}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards what is the largest possible odd number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$86427$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86427$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using all $5$ cards what is the number that is closest to $50000$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$48762$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48762$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Using only two of the cards, what is the largest possible **prime** number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$87$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$87$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Arrange any three of the number cards to give the largest possible answer to this multiplication.
-
-$\boxed{\phantom{1}}  \boxed{\phantom{1}} \times \boxed{\phantom{1}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$76 \times 8 = 608$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$76 \times 8$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' id='FORM-F3144B09-1621-4BF8-A18D-56C923A48403' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F3144B09-1621-4BF8-A18D-56C923A48403'>Initial</p>
-</div>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>89AF4456-05DF-454E-9602-66C48E68886D</p>
+<p>A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84</p>
 </div>
 <div class='topics'>
 <ul>
@@ -363,129 +24,108 @@ tnoexplanation
 </div>
 <div class='question question'>
 
-List all the positive integers less than $20$ that have TWO different factors, other than $1$ and itself.
+Write down the prime factorisation of the following numbers 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
+%empty%
 
 </div>
 </div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='89AF4456-05DF-454E-9602-66C48E68886D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='89AF4456-05DF-454E-9602-66C48E68886D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='89AF4456-05DF-454E-9602-66C48E68886D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='89AF4456-05DF-454E-9602-66C48E68886D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='89AF4456-05DF-454E-9602-66C48E68886D' id='FORM-89AF4456-05DF-454E-9602-66C48E68886D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-89AF4456-05DF-454E-9602-66C48E68886D'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
+<ul class='subquestion lower-alpha'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A</p>
-</div>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
-<li>
-tvolume
-</li>
 </ul>
 </div>
-<div class='question question'>
+<div class='question subquestion'>
 
-How many $3 \ \text{cm}$ cubes can be made by cutting up a block $12 \ \text{cm}$ by $24 \ \text{cm}$ by $18 \ \text{cm}$?
+$36$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-\text{Number of cubes} &= \dfrac {\text{Volume of cuboid}} {\text{Volume of cube}} \\\\
-                       &= \dfrac {12 \times 24 \times 18} {3 \times 3 \times 3} \\\\
-                       &= \dfrac {3 \times 4 \times 3 \times 8 \times 6 \times 3} {3 \times 3 \times 3} \\\\
-                       &= \dfrac {\cancel {3} \times 4 \times \cancel {3} \times 8 \times 6 \times \cancel{3}} {\cancel {3} \times \cancel {3} \times \cancel {3}} \\\\
-                       &= 4 \times 8 \times 6 \\\\
-                       &= 32 \times 6 \\\\
-                       &= 192
-\end{aligned}
-$
+$2 \times 2 \times 3 \times 3$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$192$
+$2 \times 2 \times 3 \times 3$
 
 </div>
 </div>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$150$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$2 \times 3 \times 5 \times 5$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \times 3 \times 5 \times 5$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' id='FORM-9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' id='FORM-A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-A4765F28-DD64-4FD5-8DB2-E8D24F2BFC84'>Initial</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:28</p>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:4</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -495,7 +135,7 @@ $192$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>F4F00482-68CB-4F6F-8C65-CDE9C0110F7C</p>
+<p>B911493E-6758-4F37-90FE-BF7C46685E6B</p>
 </div>
 <div class='topics'>
 <ul>
@@ -509,139 +149,55 @@ tgeometry
 </div>
 <div class='question question'>
 
-Write down the names of the following shapes:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
+Name the two shapes shown below
 
 ![missing image](/papers/missing_image.svg)
+    ![missing image](/papers/missing_image.svg)
 
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text {Quadrilateral}$
+Octagon and Trapezium
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Quadrilateral}$
+Octagon and Trapezium
 
 </div>
 </div>
 
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Equilateral triangle}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Equilateral triangle}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text {Parallelogram}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text {Parallelogram}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B911493E-6758-4F37-90FE-BF7C46685E6B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B911493E-6758-4F37-90FE-BF7C46685E6B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B911493E-6758-4F37-90FE-BF7C46685E6B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B911493E-6758-4F37-90FE-BF7C46685E6B' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' id='FORM-F4F00482-68CB-4F6F-8C65-CDE9C0110F7C' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='B911493E-6758-4F37-90FE-BF7C46685E6B' id='FORM-B911493E-6758-4F37-90FE-BF7C46685E6B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-F4F00482-68CB-4F6F-8C65-CDE9C0110F7C'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-B911493E-6758-4F37-90FE-BF7C46685E6B'>Initial</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:0</p>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:35</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
@@ -651,7 +207,7 @@ $\text {Parallelogram}$
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
-<p>5BF7966D-4D9E-4184-A424-12393A4AB382</p>
+<p>48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB</p>
 </div>
 <div class='topics'>
 <ul>
@@ -659,38 +215,405 @@ $\text {Parallelogram}$
 tunassigned
 </li>
 <li>
-ttable
-</li>
-<li>
-tnoexplanation
+tinfer
 </li>
 </ul>
 </div>
 <div class='question question'>
 
-The table shows information about some goal scorers across $3$ football leagues:
+What is the biggest number that divides exactly into $60, 72$ and $84$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $60$, $72$, and $84$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 60 &= \bold {2 \times 2 \times 3} \times 5 \\\\
+\text {Prime factors of} \ 72 &= \bold {2 \times 2 \times 3} \times 2 \times 3 \\\\
+\text {Prime factors of} \ 84 &= \bold {2 \times 2 \times 3} \times 7
+\end{aligned}
+$
+
+Highest common factor of $60$, $72$ and $84$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 3 \\\\
+&= 12
+\end{aligned}
+$
+
+The biggest number that divides exactly into $60$, $72$, and $84 = 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' id='FORM-48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-48D78FC4-31BF-4BD0-9BDC-C334B1A96BDB'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>314AC472-EE1E-42D7-A310-5BCAE66FD04A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest number that $2, 3,$ and $8$ all divide into?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The smallest number that $2, 3,$ and $8$ all divide into will be the LCM
+
+LCM of $2$, $3$ and $8 = 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='314AC472-EE1E-42D7-A310-5BCAE66FD04A' id='FORM-314AC472-EE1E-42D7-A310-5BCAE66FD04A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-314AC472-EE1E-42D7-A310-5BCAE66FD04A'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>8B2CB059-508A-4AB4-BD70-951C18329CC4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A transport company’s vans each carry a maximum load of $12$ tonnes. A firm needs to deliver $24$ crates each weighing $5\ \text{tonnes}$. How many vans are needed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Total vans needed}                &= \dfrac {\text{Total crates} \times \text{weight of 1 crate}} {\text{Maximum load van can take}} \\\\
+                                        &= \dfrac {24 \times 5} {12} \\\\
+                                        &= \dfrac {2 \times 12 \times 5} {12} \\\\
+                                        &= \dfrac {2 \times \cancel{12} \times 5} {\cancel{12}} \\\\
+                                        &= 2 \times 5 \\\\
+                                        &= 10
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='8B2CB059-508A-4AB4-BD70-951C18329CC4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='8B2CB059-508A-4AB4-BD70-951C18329CC4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='8B2CB059-508A-4AB4-BD70-951C18329CC4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='8B2CB059-508A-4AB4-BD70-951C18329CC4' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='8B2CB059-508A-4AB4-BD70-951C18329CC4' id='FORM-8B2CB059-508A-4AB4-BD70-951C18329CC4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8B2CB059-508A-4AB4-BD70-951C18329CC4'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:41</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>98B9C18C-5D45-4158-A859-9750F91F8CE8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides exactly into $28 , 84$ and $126$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $28$, $84$, and $126$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 28 &= 2 \times \bold {2 \times 7} \\\\
+\text {Prime factors of} \ 84 &= 2 \times \bold {2} \times 3 \times \bold{7} \\\\
+\text {Prime factors of} \ 126 &= \bold {2} \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $28$, $84$ and $126$
+
+$
+\begin{aligned}
+&= 2 \times 7 \\\\
+&= 14
+\end{aligned}
+$
 
 
-<!--
-**Name**            ,**League**     ,**Goals**  ,**Matches**
-Iago Aspas          ,Spanish        ,19         ,32 
-Timo Werner         ,German         ,21         ,31 
-Romelu Lukaku       ,English        ,25         ,37 
-Dele Alli           ,English        ,18         ,37 
-Anthony Modeste     ,German         ,25         ,34 
-Cristiano Ronaldo   ,Spanish        ,26         ,29
--->
+The biggest number that divides exactly into $28 , 84$ and $126 = 14$
 
-|      **Name**         | **League**     | **Goals**     | **Matches**     |
-|:-----------------:    |:----------:    |:---------:    |:-----------:    |
-|     Iago Aspas        |   Spanish      |     19        |      32         |
-|    Timo Werner        |   German       |     21        |      31         |
-|   Romelu Lukaku       |   English      |     25        |      37         |
-|     Dele Alli         |   English      |     18        |      37         |
-|  Anthony Modeste      |   German       |     25        |      34         |
-| Cristiano Ronaldo     |   Spanish      |     26        |      29         |
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
 
-**From the players listed here**,
+$14$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='98B9C18C-5D45-4158-A859-9750F91F8CE8' id='FORM-98B9C18C-5D45-4158-A859-9750F91F8CE8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-98B9C18C-5D45-4158-A859-9750F91F8CE8'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>7C81779B-E92C-4725-B417-DA7968C3341A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest number that $3,5$ and $12$ all divide into?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $3$, $5$ and $12 = 60$
+
+The smallest number that $3, 5,$ and $12$ all divide into $= 60$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='7C81779B-E92C-4725-B417-DA7968C3341A' id='FORM-7C81779B-E92C-4725-B417-DA7968C3341A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C81779B-E92C-4725-B417-DA7968C3341A'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C51D4882-FD86-449B-BC74-E90265EBA237</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tgeometry
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Name the shapes below
 
 </div>
 <div class='workings'>
@@ -716,20 +639,21 @@ Cristiano Ronaldo   ,Spanish        ,26         ,29
 </div>
 <div class='question subquestion'>
 
-which player scored the most goals?
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text{Cristiano Ronaldo}$
+Hexagon
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{Cristiano Ronaldo}$
+Hexagon
 
 </div>
 </div>
@@ -744,48 +668,21 @@ $\text{Cristiano Ronaldo}$
 </div>
 <div class='question subquestion'>
 
-which league did the player who scored the least goals play in?
+![missing image](/papers/missing_image.svg)
+
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text{English}$
+Cylinder
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text{English}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-which league had the most goals scored in it by these players?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{German}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{German}$
+Cylinder
 
 </div>
 </div>
@@ -796,30 +693,657 @@ $\text{German}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5BF7966D-4D9E-4184-A424-12393A4AB382' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5BF7966D-4D9E-4184-A424-12393A4AB382' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5BF7966D-4D9E-4184-A424-12393A4AB382' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5BF7966D-4D9E-4184-A424-12393A4AB382' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' onclick='submitReview(event)'>PRA</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='5BF7966D-4D9E-4184-A424-12393A4AB382' id='FORM-5BF7966D-4D9E-4184-A424-12393A4AB382' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='C51D4882-FD86-449B-BC74-E90265EBA237' id='FORM-C51D4882-FD86-449B-BC74-E90265EBA237' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
 <input type='reset' value='Reset'>
 </form>
 
-<p class='review_status initial' id='REVIEW-STATUS-5BF7966D-4D9E-4184-A424-12393A4AB382'>Initial</p>
+<p class='review_status initial' id='REVIEW-STATUS-C51D4882-FD86-449B-BC74-E90265EBA237'>Initial</p>
 </div>
 <div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:10</p>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>11864F13-15AE-442B-A8E6-F4F08A54A7D5</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the $100^\text{th}$ symbol in this endless string of symbols
+
+&f=&f=&f=&f=&?=
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+After oberserving the pattern, the first symbol is &, second is f and third is =. This pattern is repeating in a set of 3.
+
+As per the question,
+
+$
+\begin{aligned}
+&= \dfrac {100} {3} \\\\
+&= 33 \dfrac {1} {3}
+\end{aligned}
+$
+
+As the remainder is $1$, The symbol in the first position is going to repeat in the $100$th position.
+
+The $100$th symbol is $=$ &
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+&
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='11864F13-15AE-442B-A8E6-F4F08A54A7D5' id='FORM-11864F13-15AE-442B-A8E6-F4F08A54A7D5' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-11864F13-15AE-442B-A8E6-F4F08A54A7D5'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>72AA9961-FE6B-438D-AEFB-1F49998E249D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How many numbers less than $100$ are divisible by both $2$ and $5$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $2$ and $5 = 10$
+
+Less than $100$ means numbers between $1$ to $99$.
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Number divisible by both 2 and 5}         &= \dfrac {99} {10} \\\\ 
+                                                &= 9 \dfrac {1} {10} \\\\
+                                                &= 9
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+Alternative solution
+
+LCM of $2$ and $5 = 10$
+
+Numbers less than 100 that are both divisible by $2$ and $5$ are numbers with $0$ at unit place.
+
+$= 10, \ 20, \ 30, \ 40, \ 50, \ 60, \ 70, \ 80, \ 90$
+
+Total count of numbers less than $100$ and both divisible by $2$ and $5 = 9$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='72AA9961-FE6B-438D-AEFB-1F49998E249D' id='FORM-72AA9961-FE6B-438D-AEFB-1F49998E249D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-72AA9961-FE6B-438D-AEFB-1F49998E249D'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:42</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>00B5F39E-C744-444A-A565-D57BCA594277</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides into $14, 35,$ and $42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $14$, $35$, and $42$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 14 &= 2 \times \bold{7} \\\\
+\text {Prime factors of} \ 35 &= 5 \times \bold{7} \\\\
+\text {Prime factors of} \ 42 &= 2 \times 3 \times \bold{7}
+\end{aligned}
+$
+
+Highest common factor of $14$, $35$ and $42=7$
+
+The biggest number that divides exactly into $14$, $35$, and $42=7$
+
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='00B5F39E-C744-444A-A565-D57BCA594277' id='FORM-00B5F39E-C744-444A-A565-D57BCA594277' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-00B5F39E-C744-444A-A565-D57BCA594277'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C9620571-1496-4114-9AAF-B424470A86A3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I have a painting in a frame. The frame is $75 \ \text{cm}$ wide and $65 \ \text{cm}$ high. There is a border $15 \ \text{cm}$ wide around the painting. Find the width and height of the painting.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the picture,
+
+$
+\begin{aligned}
+\text{Width of the painting}                        &= \text{Total width} - 2 \times \text{Frame height} \\\\
+                                                    &= 75 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
+                                                    &= 75 - 30 \\\\
+                                                    &= 45 \ \text{cm}
+\end{aligned}
+$
+
+
+Let's find the height of the painting.
+
+$
+\begin{aligned}
+\text{Height of the painting}                       &= \text{Total height} - 2 \times \text{Frame height} \\\\
+                                                    &= 65 \ \text{cm} - 2 \times 15 \ \text{cm} \\\\
+                                                    &= 65 - 30 \\\\
+                                                    &= 35 \ \text{cm}
+\end{aligned}
+$
+
+Width $= 45 \ \text{cm}$
+
+Height $= 35 \ \text{cm}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Width $= 45 \ \text{cm}$
+
+Height $= 35 \ \text{cm}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C9620571-1496-4114-9AAF-B424470A86A3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C9620571-1496-4114-9AAF-B424470A86A3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C9620571-1496-4114-9AAF-B424470A86A3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C9620571-1496-4114-9AAF-B424470A86A3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C9620571-1496-4114-9AAF-B424470A86A3' id='FORM-C9620571-1496-4114-9AAF-B424470A86A3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C9620571-1496-4114-9AAF-B424470A86A3'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>191CD2FA-CE07-4708-99E9-0C5625EFED6C</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tinfer
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A new mathematical operation has been invented. For any two numbers $𝑥 ⋆ 𝑦$ means $\text{‘subtract 3 from 𝑥, then multiply by 𝑦’}$, so $8 ⋆ 2$ means $8 - 3$, then $\times 2$, giving $10$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is $7 ⋆ 5$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \ \text{*} \ 5 \\\\
+&= (7 - 3) \times 5 \\\\
+&= 4 \times 5 \\\\
+&= 20
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What values of $𝑎$ makes $𝑎 ⋆ 7 = 42$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+a \ \text{*} \ 7                                                   &= 42 \\\\
+(a - 3) \times 7                                                   &= 42 \\\\
+a - 3                                                              &= \dfrac {42} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times 7} {7} \\\\
+a - 3                                                              &= \dfrac {6 \times \cancel{7}} {\cancel{7}} \\\\
+a - 3                                                              &= 6 \\\\
+a                                                                  &= 6 + 3 \\\\
+a                                                                  &= 9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $𝑏$ if $𝑏 ⋆ 𝑏 = 28$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+b \ \text{*} \ b                                                   &= 28 \\\\
+(b - 3) \times b                                                   &= 28 \\\\
+b^{2} - 3b                                                         &= 28 \\\\
+b^{2} - 3b - 28                                                    &= 0 \\\\
+b^{2} - (7b - 4b) - 28                                             &= 0 \\\\
+b^{2} - 7b + 4b - 28                                               &= 0 \\\\
+b(b - 7) + 4(b - 7)                                                &= 0 \\\\
+(b - 7) \times (b + 4)                                             &= 0 \\\\
+b                                                                  &= 7 \\\\
+b                                                                  &= -4 \\\\
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7 \ \text{or} \ -4$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='191CD2FA-CE07-4708-99E9-0C5625EFED6C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='191CD2FA-CE07-4708-99E9-0C5625EFED6C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='191CD2FA-CE07-4708-99E9-0C5625EFED6C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='191CD2FA-CE07-4708-99E9-0C5625EFED6C' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='191CD2FA-CE07-4708-99E9-0C5625EFED6C' id='FORM-191CD2FA-CE07-4708-99E9-0C5625EFED6C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-191CD2FA-CE07-4708-99E9-0C5625EFED6C'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>0EC15166-4610-4A6E-9117-A2461D762D1D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tunassigned
+</li>
+<li>
+tfactor
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the biggest number that divides into $16, 32,$ and $56$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To find the biggest number that divides exactly into $16$, $32$, and $56$, we need to find the highest common factor of the three numbers.
+
+$
+\begin{aligned}
+\text {Prime factors of} \ 16 &= 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 32 &= 2 \times 2 \times \bold{2 \times 2 \times 2} \\\\
+\text {Prime factors of} \ 56 &= \bold{2 \times 2 \times 2} \times 7
+\end{aligned}
+$
+
+Highest common factor of $16$, $32$ and $56$
+
+$
+\begin{aligned}
+&= 2 \times 2 \times 2  \\\\
+&= 8
+\end{aligned}
+$
+
+The biggest number that divides exactly into $16$, $32$, and $56=8$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='0EC15166-4610-4A6E-9117-A2461D762D1D' id='FORM-0EC15166-4610-4A6E-9117-A2461D762D1D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0EC15166-4610-4A6E-9117-A2461D762D1D'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:5</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2362,9 +2362,6 @@ $48 \ \text {cm}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tgeometry
 </li>
 </ul>
@@ -2671,13 +2668,7 @@ $\text {likely}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprobability
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -2742,13 +2733,7 @@ $\text {Certain}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprobability
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -2813,13 +2798,7 @@ $\text {unlikely}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tprobability
-</li>
-<li>
-tnoexplanation
 </li>
 </ul>
 </div>
@@ -2883,9 +2862,6 @@ $\text {Certain}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tprobability
 </li>

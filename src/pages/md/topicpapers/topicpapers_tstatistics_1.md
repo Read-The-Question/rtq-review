@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-1"
 title: "TopicPaper - Statistics - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1576,6 +1576,219 @@ TODOANSWER
 
 <div class='papername'>
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>36C9A5F4-085B-4055-86EC-3DEC0C917A81</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tstatistics
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a list of numbers
+
+$1.2,  \quad 1.02,  \quad 1.202,  \quad 1.22,  \quad 1.022$
+
+Which is:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The largest number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+The smallest number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+These are actually lengths of eyelashes in cm.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+What is the range of eyelash lengths?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What is the median eyelash length?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
@@ -4170,57 +4383,6 @@ $4$
 
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>8A3A60E3-7C10-4664-B274-7B804943A163</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tstatistics
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The mean (average) of seven numbers is $9$. One number is removed and the mean increases to $10$. Find the number which was removed.
- 
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:16</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -148,7 +148,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tsimpleword
 </li>
 <li>
 tratio
@@ -284,10 +284,7 @@ $8$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tratio
+tsimpleword
 </li>
 </ul>
 </div>
@@ -849,9 +846,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -2158,9 +2152,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -2745,7 +2736,7 @@ $126.5 \ \text {g}$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
+tinfer
 </li>
 <li>
 talgebra

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -795,9 +795,6 @@ $\pounds 290$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
 </li>
 <li>
@@ -881,9 +878,6 @@ $20 \ \text {cm}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

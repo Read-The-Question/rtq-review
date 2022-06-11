@@ -1,9 +1,770 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-g0"
 title: "TopicPaper - Algebra - 16 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>0B47659C-81C5-46B4-8F2D-C1372D5BCBAD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A plant is growing at a steady rate of $0.2 \ \text{cms}$ every day. At midday on January $19 \text{th}$ the plant was $6 \ \text{cms}$ high.  What will the date be when it reaches a height of $11 \ \text{cm}$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of days it takes the plant to reach a height of $11 \ \text{cm}$ $= a$
+
+As per the question,
+
+$
+\begin{aligned} 
+6 + 0.2 \times a    &= 11 \\\\
+0.2a                &= 11 - 6 \\\\
+0.2a                &= 5 \\\\
+a                   &= \dfrac {5} {0.2} \\\\
+a                   &= \dfrac {5 \times 10} {0.2 \times 10} \\\\
+a                   &= \dfrac {50} {2} \\\\
+a                   &= 25 \ \text{days}
+\end{aligned}
+$
+
+$
+\begin{aligned} 
+\text{Date when height is reached}          &= \text{January } 19  + 25 \ \text{days} \\\\
+                                            &= \text{February } 13
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{February } 13$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' id='FORM-0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0B47659C-81C5-46B4-8F2D-C1372D5BCBAD'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The **average** weight of five parcels is $3.7 \  \text{kg}$. Four of the parcels are identical and each weigh $3.5 \  \text{kg}$. What is the weight of the fifth parcel?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the weight of the fifth parcel (in kg) $= w$
+
+$
+\begin{aligned}
+\text{Average weight}           &= \dfrac {\text{Weight of all the parcels}} {\text{Total parcels}} \\\\
+3.7                             &= \dfrac {3.5 \times 4 + w} {5} \\\\
+3.7 \times 5                    &= 3.5 \times 4 + w \\\\
+3.5 \times 4 + w                &= 3.7 \times 5 \\\\
+14 + w                          &= 18.5 \\\\
+w                               &= 18.5 - 14  \\\\
+w                               &= 4.5  \ \text{kg}
+\end{aligned}
+$
+
+Weight of the fifth parcel $= 4.5 \ \text {kg}$ 
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4.5 \ \text {kg}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' id='FORM-5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5EBEC51C-2FE0-412B-8DE5-086AF0FEEEFC'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>99B771D4-952B-4603-BB61-6A63F668BA1F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Aidan was told to divide a certain number by $17$. Instead he divided the number by $7$ and got the answer $68$. What was the answer to the division he was supposed to do?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the original number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {a}{7}   &= 68 \\\\
+a               &= 68 \times 7 \\\\
+a               &= 476
+\end{aligned}
+$
+
+Original number is $= 476$
+
+Let's find the actual answer Aidan should have got.
+
+$
+\begin{aligned}
+&= \dfrac {476} {17} \\\\
+&= \dfrac {28 \times 17} {17} \\\\
+&= \dfrac {28 \times \cancel {17}} {\cancel {17}} \\\\
+&= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$28$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99B771D4-952B-4603-BB61-6A63F668BA1F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99B771D4-952B-4603-BB61-6A63F668BA1F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99B771D4-952B-4603-BB61-6A63F668BA1F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99B771D4-952B-4603-BB61-6A63F668BA1F' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='99B771D4-952B-4603-BB61-6A63F668BA1F' id='FORM-99B771D4-952B-4603-BB61-6A63F668BA1F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-99B771D4-952B-4603-BB61-6A63F668BA1F'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>4F58585B-5B01-496D-8865-FFF0FEAC8FD6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A piece of string is $160 \  \text{cm}$ long. It is formed into a rectangle whose length is three times its width. 
+Work out the area of the rectangle in $\text{square centimetres}$ $(\text{cm}^2)$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the width of the rectangle (in $\text {cm}$) $= w$
+
+Then as per the question, length of the rectangle $= 3w$
+
+$\text {Perimeter} = 2 \times (\text {length} + \text {width})$
+
+Equating the perimeter to length and width we get,
+
+$
+\begin {aligned}
+2 \times (3w + w)   &= 160 \\\\
+2 \times 4w         &= 160 \\\\
+8w                  &= 160 \\\\
+w                   &= \dfrac {160} {8} \\\\
+w                   &= 20 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+\text {Length}       &= 3w \\\\
+                     &= 3 \times 20 \\\\
+                     &= 60 \ \text {cm}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Area}         &= \text {length} \times \text {width} \\\\
+                     &= 60 \times 20 \\\\
+                     &= 1200 \ \text {cm}^{2}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1200 \ \text {cm}^2$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4F58585B-5B01-496D-8865-FFF0FEAC8FD6' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4F58585B-5B01-496D-8865-FFF0FEAC8FD6' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4F58585B-5B01-496D-8865-FFF0FEAC8FD6' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='4F58585B-5B01-496D-8865-FFF0FEAC8FD6' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4F58585B-5B01-496D-8865-FFF0FEAC8FD6' id='FORM-4F58585B-5B01-496D-8865-FFF0FEAC8FD6' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4F58585B-5B01-496D-8865-FFF0FEAC8FD6'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>E18F355F-E6B9-4D2A-922F-0959DD6D4280</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nancy bought five oranges and two apples and they cost $\pounds 3.40$. At the same shop, 
+David bought three oranges and one apple and paid $\pounds 2.00$. 
+
+What would Steve have paid if he bought four oranges and two apples from this shop?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the cost of an apple (in pence) $= a$
+
+Let the cost of an orange (in pence) $= b$
+
+It is really important to convert into the right units. Let's convert all the costs into pence.
+
+As per the question,
+
+$
+\begin{aligned} 
+5b + 2a &= 340 \\\\
+3b + a  &= 200
+\end{aligned}
+$
+
+We have got $2$ variables and we have $2$ equations to solve them. Let's eliminate to reduce it to just one variable. 
+
+
+Multiply the second equation by $2$.
+
+$
+\begin{aligned} 
+2 \times 3b + 2 \times a &= 2 \times 200 \\\\
+6b + 2a                  &= 400
+\end{aligned}
+$
+
+Subtract the first equation from the second below to reduce it to one variable.
+
+$
+\begin{aligned} 
+5b + 2a                 &= 340 \\\\
+6b + 2a                 &= 400 \\\\
+6b + 2a - (5b + 2a)     &= 400 - 340 \\\\
+6b + 2a - 5b - 2a       &= 60 \\\\
+b                       &= 60 \ \text{pence}
+\end{aligned}
+$
+
+Cost of an orange $= 60 \ \text{pence}$.
+
+Let's substitute the value of $b$ in one of the initial equations to find the cost of an apple.
+
+$
+\begin{aligned} 
+3b + a           &= 200 \\\\
+3 \times 60 + a  &= 200 \\\\
+180 + a          &= 200 \\\\
+a                &= 200 - 180 \\\\
+a                &= 20 \ \text{pence}
+\end{aligned}
+$
+
+
+$
+\begin{aligned} 
+\text{Steve paid}   &= 4b + 2a \\\\
+                    &= 4 \times 60 + 2 \times 20 \\\\
+                    &= 240 + 40 \\\\
+                    &= 280 \ \text{pence} \\\\
+                    &= \pounds 2.80
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.80$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E18F355F-E6B9-4D2A-922F-0959DD6D4280' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E18F355F-E6B9-4D2A-922F-0959DD6D4280' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E18F355F-E6B9-4D2A-922F-0959DD6D4280' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E18F355F-E6B9-4D2A-922F-0959DD6D4280' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='E18F355F-E6B9-4D2A-922F-0959DD6D4280' id='FORM-E18F355F-E6B9-4D2A-922F-0959DD6D4280' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E18F355F-E6B9-4D2A-922F-0959DD6D4280'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>2B2789EB-87CB-4268-A450-11BE3B271963</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a taxi journey with one particular taxi company, the fare is worked out using a set starting charge plus a charge for each quarter of a mile travelled (the QMC).
+
+So if the starting charge is $\pounds 1$ and the QMC (charge for each quarter of a mile) is $50 \text{p}$ then the total fare for a one mile journey is given by
+
+Total Fare $= \pounds 1 + 4 \times 50 \text{p} = \pounds 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the Total Fare for a two and a half mile $(2 \dfrac {1}{2} \ \text{mile})$ journey at another taxi company is $\pounds 9.60$ and the QMC (charge for each quarter of a mile) is $80\text{p}$, what is the starting charge?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 2 \dfrac {1} {2} \ \text {miles} &= 2 \dfrac {1} {2} \times 4 \\\\
+                                                     &= \dfrac {5} {2} \times 4 \\\\
+                                                     &= \dfrac {5 \times 4} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times 2} {2} \\\\
+                                                     &= \dfrac {5 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
+                                                     &= 10
+\end{aligned}
+$
+
+Let the starting fare $= a$
+
+QMC = $80$ pence
+
+Total fare = starting charge + (quarter miles $\times 80p$)
+
+$
+\begin{aligned}
+\pounds 9.60 &= a + (10 \times 80p) \\\\
+\pounds 9.60 &= a + 800p \\\\
+\pounds 9.60 &= a + \pounds \dfrac {800} {100} \\\\
+\pounds 9.60 &= a + \pounds \dfrac {8 \cancel {00}} {1 \cancel {00}} \\\\
+9.60 - 8     &= a \\\\
+a            &= 9.60 - 8 \\\\
+a            &= \pounds 1.60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 1.60$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+If the starting charge at a third company is $\pounds 2.20$ and the Total Fare for a $6 \dfrac {1}{4} \ \text{mile}$ journey is $\pounds 12.20$, what is the QMC?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Quaters in} \ 6 \dfrac {1} {4} \ \text{miles} &= 6 \dfrac {1} {4} \times 4 \\\\
+                                                    &= \dfrac {25} {4} \times 4 \\\\
+                                                    &= \dfrac {25 \times 4} {4} \\\\
+                                                    &= \dfrac {25 \times \cancel {4}} {\cancel {4}} \\\\
+                                                    &= 25
+\end{aligned}
+$
+
+Total fare = starting charge + (quarter miles $\times$ QMC)
+
+Let the QMC $= q$
+
+$
+\begin{aligned}
+\pounds 12.20    &= \pounds 2.20 + (25 \times q) \\\\
+12.20 - 2.20     &= 25 \times q \\\\
+10               &= 25 \times q \\\\
+\dfrac {10} {25} &= q \\\\
+q                &= \dfrac {10} {25} \\\\
+q                &= \dfrac {10 \times 100 \text{p}} \\\\
+q                &= \dfrac {10 \times 25 \times 4} {25} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4} {\cancel {25}} \\\\
+q                &= \dfrac {10 \times \cancel {25} \times 4 \text{p}} {\cancel {25}} \\\\
+q                &= 4 \times 10 \\\\
+q                &= 40 \text{p}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \text{p}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='2B2789EB-87CB-4268-A450-11BE3B271963' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='2B2789EB-87CB-4268-A450-11BE3B271963' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='2B2789EB-87CB-4268-A450-11BE3B271963' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='2B2789EB-87CB-4268-A450-11BE3B271963' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='2B2789EB-87CB-4268-A450-11BE3B271963' id='FORM-2B2789EB-87CB-4268-A450-11BE3B271963' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2B2789EB-87CB-4268-A450-11BE3B271963'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-b:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A6AC1588-C3E0-4190-A84D-7153A5624431</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $\dfrac{3}{7}$ of a number is $18$, what is $\dfrac{5}{6}$ of the **same** number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times \dfrac{3} {7} &= 18 \\\\
+a                      &= 18 \times \dfrac {7} {3} \\\\
+a                      &= \dfrac {18 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times 3 \times 7} {3} \\\\
+a                      &= \dfrac {6 \times \cancel{3} \times 7} {\cancel{3}} \\\\
+a                      &= 6 \times 7 \\\\
+a                      &= 42
+\end{aligned}
+$
+
+Now let's find $\dfrac {5} {6}$ of the number.
+
+$
+\begin{aligned}
+&= \dfrac {5} {6} \times 42 \\\\
+&= \dfrac {5 \times 42} {6}  \\\\
+&= \dfrac {5 \times 7 \times 6} {6}  \\\\
+&= \dfrac {5 \times 7 \times \cancel{6}} {\cancel{6}}  \\\\
+&= 5 \times 7 \\\\
+&= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A6AC1588-C3E0-4190-A84D-7153A5624431' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A6AC1588-C3E0-4190-A84D-7153A5624431' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A6AC1588-C3E0-4190-A84D-7153A5624431' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A6AC1588-C3E0-4190-A84D-7153A5624431' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A6AC1588-C3E0-4190-A84D-7153A5624431' id='FORM-A6AC1588-C3E0-4190-A84D-7153A5624431' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A6AC1588-C3E0-4190-A84D-7153A5624431'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -1486,668 +2247,6 @@ $352$
 </div>
 <div class='papername'>
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B475D829-FDEB-40B6-8FA4-023371521EB4</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$t \times 0.805 = 8050$
-
-What is the value of $t$? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-t \times 0.805      &= 8050 \\\\
-t                   &= \dfrac {8050} {0.805} \\\\
-t                   &= \dfrac {8050 \times 10000} {0.805 \times 10000} \\\\
-t                   &= \dfrac {8050 \times 10000} {8050} \\\\
-t                   &= \dfrac {\cancel {8050} \times 10000} {\cancel {8050}} \\\\
-t                   &= 10000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10000$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B475D829-FDEB-40B6-8FA4-023371521EB4' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B475D829-FDEB-40B6-8FA4-023371521EB4' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B475D829-FDEB-40B6-8FA4-023371521EB4' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B475D829-FDEB-40B6-8FA4-023371521EB4' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B475D829-FDEB-40B6-8FA4-023371521EB4' id='FORM-B475D829-FDEB-40B6-8FA4-023371521EB4' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B475D829-FDEB-40B6-8FA4-023371521EB4'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>24C887CF-4462-405D-A46E-9A5B7A2C09DE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Solve each of the following equations:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$8 - χ = 2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-8 - χ                   &= 2 \\\\
-χ                       &= 8 - 2 \\\\
-χ                       &= 6
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$x+\frac{1}{3}=1\frac{1}{4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-x + \dfrac {1} {3}                   &= 1 \dfrac {1} {4} \\\\
-x + \dfrac {1} {3}                   &= \dfrac {5} {4} \\\\
-x                                    &= \dfrac {5} {4} - \dfrac {1} {3} \\\\
-x                                    &= \dfrac {5 \times 3} {4 \times 3} - \dfrac {1 \times 4} {3 \times 4} \\\\
-x                                    &= \dfrac {15} {12} - \dfrac {4} {12} \\\\
-x                                    &= \dfrac {15 - 4} {12} \\\\
-x                                    &= \dfrac {11} {12} \\\\
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {12}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='24C887CF-4462-405D-A46E-9A5B7A2C09DE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='24C887CF-4462-405D-A46E-9A5B7A2C09DE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='24C887CF-4462-405D-A46E-9A5B7A2C09DE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='24C887CF-4462-405D-A46E-9A5B7A2C09DE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='24C887CF-4462-405D-A46E-9A5B7A2C09DE' id='FORM-24C887CF-4462-405D-A46E-9A5B7A2C09DE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-24C887CF-4462-405D-A46E-9A5B7A2C09DE'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>03AD91B5-06E0-4B12-808B-4F0278EC9237</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Granddad spends one quarter of his weekly pension on a Friday night out, and one third of what remains on a Saturday night. What fraction of his weekend pension is left for him to spend during the rest of the week?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weekly pension of granddad $= a$
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Pension spent on friday}          &= \dfrac {a} {4} \\\\
-\text{Pension spent on saturday}        &= \dfrac {1} {3} \left ( a - \dfrac {a} {4} \right ) \\\\
-                                        &= \dfrac {1} {3} \left ( \dfrac {a \times 4} { 1 \times 4} - \dfrac {a} {4} \right ) \\\\
-                                        &= \dfrac {1} {3} \left ( \dfrac {4a} {4} - \dfrac {a} {4} \right ) \\\\
-                                        &= \dfrac {1} {3} \left ( \dfrac {4a - a} {4} \right ) \\\\
-                                        &= \dfrac {1} {3} \times \dfrac {3a} {4} \\\\
-                                        &= \dfrac {3 \times a} {3 \times 4} \\\\
-                                        &= \dfrac {\cancel {3} \times a} {\cancel {3} \times 4} \\\\
-                                        &= \dfrac {a} {4}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Pension left}                     &= a - \dfrac {a} {4} - \dfrac {a} {4} \\\\
-                                        &= \dfrac {4a} {4} - \dfrac {a} {4} - \dfrac {a} {4} \\\\
-                                        &= \dfrac {4a - a - a} {4} \\\\
-                                        &= \dfrac {2a} {4} \\\\
-                                        &= \dfrac {2 \times a} {2 \times 2} \\\\
-                                        &= \dfrac {\cancel {2} \times a} {\cancel {2} \times 2} \\\\
-                                        &= \dfrac {a} {2} \\\\
-\text{Fraction of Pension left}         &= \dfrac {\dfrac{a} {2}} {a} \\\\
-                                        &= \dfrac {a} {2 \times a} \\\\
-                                        &= \dfrac {\cancel {a}} {2 \times \cancel {a}} \\\\
-                                        &= \dfrac {1} {2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{1} {2}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='03AD91B5-06E0-4B12-808B-4F0278EC9237' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='03AD91B5-06E0-4B12-808B-4F0278EC9237' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='03AD91B5-06E0-4B12-808B-4F0278EC9237' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='03AD91B5-06E0-4B12-808B-4F0278EC9237' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='03AD91B5-06E0-4B12-808B-4F0278EC9237' id='FORM-03AD91B5-06E0-4B12-808B-4F0278EC9237' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-03AD91B5-06E0-4B12-808B-4F0278EC9237'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>706748E4-8A3B-422B-A4AB-A60AA490E362</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I have 3 cats-Fred, Gary and Harry. When I weigh Fred and Gary they come to $12\,kg$ more than Harry. When I weigh Gary and Harry they weigh $8\,kg$ more than Fred and when I weigh Fred and Harry they weigh $14\,kg$ more than Gary. What is the combined weight of all three cats?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the weight of Fred $=a$
-
-Let the weight of Gary $=b$
-
-Let the weight of Harry $=c$
-
-As per the question,
-
-$
-\begin{aligned}
-a + b                       &= 12 + c \\\\
-b + c                       &= 8 + a \\\\
-a + c                       &= 14 + b \\\\
-\text{Adding up the above three equations, we get,} \\\\
-a + b + b + c + a + c       &= 12 + c + 8 + a + 14 + b \\\\
-2a + 2b + 2c                &= 12 + 8 + 14 + a + b + c \\\\
-2a + 2b + 2c - a - b - c    &= 12 + 8 + 14 \\\\
-a + b + c                   &= 34
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='706748E4-8A3B-422B-A4AB-A60AA490E362' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='706748E4-8A3B-422B-A4AB-A60AA490E362' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='706748E4-8A3B-422B-A4AB-A60AA490E362' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='706748E4-8A3B-422B-A4AB-A60AA490E362' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='706748E4-8A3B-422B-A4AB-A60AA490E362' id='FORM-706748E4-8A3B-422B-A4AB-A60AA490E362' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-706748E4-8A3B-422B-A4AB-A60AA490E362'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>5676BD98-93C6-45F1-BEB8-EF3E3D08068F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\frac {1} {6}$ of this box of chocolates are white chocolate. If there are $30$ chocolates in the box, 
-
-![missing image](/papers/missing_image.svg)
-
-
-how many are white chocolate?   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Total number of chocolates in the box $= 30$
-
-$
-\begin{aligned}
-\text {Number of white chocolates}  &= \dfrac {1} {6} \times 30 \\\\
-                                    &= \dfrac {30} {6} \\\\
-                                    &= \dfrac {6 \times 5} {6} \\\\
-                                    &= \dfrac {\cancel {6} \times 5} {\cancel {6}} \\\\
-                                    &= 5
-\end{aligned}
-$
-
-Number of white chocolates $= 5$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$5$
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-In the same box $10$ are milk chocolates.
-
-What fraction, of all the chocolates, are milk chocolate?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Number of milk chocolates $= 10$
-
-Fraction of milk chocolates $= \dfrac {10} {30}$
-
-$
-\begin{aligned}
-&= \dfrac {1 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {1} {3}
-\end{aligned}
-$
-
-Fraction of milk chocolates $= \dfrac {1} {3}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {3}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5676BD98-93C6-45F1-BEB8-EF3E3D08068F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5676BD98-93C6-45F1-BEB8-EF3E3D08068F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5676BD98-93C6-45F1-BEB8-EF3E3D08068F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='5676BD98-93C6-45F1-BEB8-EF3E3D08068F' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='5676BD98-93C6-45F1-BEB8-EF3E3D08068F' id='FORM-5676BD98-93C6-45F1-BEB8-EF3E3D08068F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-5676BD98-93C6-45F1-BEB8-EF3E3D08068F'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>59A15B1E-9BD7-46F5-A252-A20015C38A1A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**a * b = a x a + b**, 
-
-so $5 * 7 = 5 \times 5 + 7$
-$5 * 7 = 32$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $2 * 5$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2 \times 2 + 5 \\\\
-&= 4 + 5 \\\\
-&= 9
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$9$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $d$ if $d * 3 = 19$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-d \times d + 3      &= 19 \\\\
-d \times d          &= 19 - 3 \\\\
-d^2                 &= 16 \\\\
-d                   &= \sqrt {16} \\\\
-d                   &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='59A15B1E-9BD7-46F5-A252-A20015C38A1A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='59A15B1E-9BD7-46F5-A252-A20015C38A1A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='59A15B1E-9BD7-46F5-A252-A20015C38A1A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='59A15B1E-9BD7-46F5-A252-A20015C38A1A' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='59A15B1E-9BD7-46F5-A252-A20015C38A1A' id='FORM-59A15B1E-9BD7-46F5-A252-A20015C38A1A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-59A15B1E-9BD7-46F5-A252-A20015C38A1A'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2008-sample-paper-1"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -949,19 +949,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
-tsymmetry
-</li>
-<li>
-tgraph
-</li>
-<li>
-tareaperimeter
+tgeometry
 </li>
 </ul>
 </div>

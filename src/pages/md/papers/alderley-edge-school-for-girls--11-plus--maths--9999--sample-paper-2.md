@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1133,7 +1133,7 @@ $\pounds 3.20$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1813,7 +1813,7 @@ $0$
 <div class='topics'>
 <ul>
 <li>
-talgebra
+tareaperimeter
 </li>
 </ul>
 </div>
@@ -3145,16 +3145,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tdraw
-</li>
-<li>
 tgeometry
 </li>
 <li>
-tareaperimeter
+tdraw
 </li>
 </ul>
 </div>

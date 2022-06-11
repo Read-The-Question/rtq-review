@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -514,7 +514,7 @@ $27$
 <div class='topics'>
 <ul>
 <li>
-tsequence
+torder
 </li>
 <li>
 tnoexplanation
@@ -1245,9 +1245,6 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -1941,13 +1938,10 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
-tgeometry
-</li>
-<li>
 tareaperimeter
+</li>
+<li>
+tdraw
 </li>
 </ul>
 </div>

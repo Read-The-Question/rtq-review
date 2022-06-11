@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -611,76 +611,6 @@ $1,6,21,20$
 </div>
 <div class='papername'>
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The day before yesterday my daughter was $10$ years old. Next year she will be $13$ years old. What is the date today?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Date of birth of daughter}       &= 31 \ \text{December} \\\\
-\text{Today's date}                    &= 1 \ \text{January}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$ January
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' id='FORM-EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD'>Initial</p>
-</div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

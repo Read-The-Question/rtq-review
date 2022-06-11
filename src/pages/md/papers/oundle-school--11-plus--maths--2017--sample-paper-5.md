@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -552,9 +552,6 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tratio
 </li>
 </ul>
@@ -779,9 +776,6 @@ $a=12 b=0,a=3 b=12$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>

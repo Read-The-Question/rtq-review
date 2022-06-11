@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-13"
 title: "TopicPaper - Algebra - 13"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,445 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>8CA44EE7-F16E-4F90-964D-A9A239631F65</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+
+On her birthday last year, Emily was $140\ \text{cm}$ tall. When she measured herself on her birthday today, she calculated that she had grown by a fifth of the height she was a year ago.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How tall is she now?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Emily's brother, Jack, is now $105\ \text{cm}$ tall, having grown by one sixth of his height a year ago. How tall was Jack one year ago?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>126BE312-5DB7-4CD7-BD6E-ED83FD5EC448</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+It takes me half an hour to fill the paddling pool to a depth of $20\ \text{cm}$ using one hose.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long will it take to fill it to the same depth If I use two hoses?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+How long will it take to fill it to a depth of $30\ \text{cm}$ if I use $3$ hoses?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>AEF8D987-2111-4062-8FFB-061D2FAA0A7F</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Amir, Anna and Arjun have bought some fruit at a market stall.
+
+Amir bought $2$ Pears and $1$ Mango for $\pounds 1.35$
+
+Anna bought $1$ Pear and $2$ Mangos for $\pounds 1.20$
+
+Arjun bought $1$ Pear, $1$ Mango and $1$ Apple for $\pounds 1$
+
+How much, in pence, did the apple cost?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:31</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>DAFC965B-0C09-46A4-9759-E2AD3E3F5A28</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dominic, Hannahand Abdul have $36$ sweets between them.
+
+Dominic has half as many sweets as Hannah.
+
+Abdul has $3$ times as many sweets as Hannah.
+
+![missing image](/papers/missing_image.svg)
+
+
+How many sweets does Abdul have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>E2CE5C41-401D-471B-B868-C50B3E4DD99A</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If $a$ and $b$ are numbers, then $a \ \hearts \ b$ means **'multiply $a$ by itself and then subtract $b$'**.
+
+For example
+
+$
+\begin{aligned}
+2 \ \hearts \  3 &= 2 \times 2 - 3 \\
+                 &= 4 - 3 \\
+                 &= 1
+\end{aligned}
+$
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Calculate $3 \ \hearts \ 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $a$ when $a \ \hearts \ 4 = 32$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Find $x$ when $x \ \hearts \ x = 72$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -3146,561 +3585,6 @@ $20.3$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>F02FB4F1-68F5-4FE5-9070-16666391FDCB</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the boxes below
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$45 + \boxed{\phantom{5555}} =  600$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $=a$
-
-$
-\begin{aligned}
-45 + a &= 600 \\\\
-a      &= 600 - 45 \\\\
-a      &= 555
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$555$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$360 \div 10 = 3.6 \times \boxed{\phantom{5555}}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $=a$
-
-$
-\begin{aligned}
-360 \div 10                  &= 3.6 \times a \\\\
-\dfrac {360} {10}            &= 3.6 \times a \\\\
-\dfrac {360} {10 \times 3.6} &= a \\\\
-a                            &= \dfrac {360} {10 \times 3.6} \\\\
-a                            &= \dfrac {360} {36} \\\\
-a                            &= \dfrac {36 \times 10} {36} \\\\
-a                            &= \dfrac {\cancel {36} \times 10} {\cancel {36}} \\\\
-a                            &= 10
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$10$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$24 \div (\boxed{\phantom{5555}} -  8) = 6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the missing number $=a$
-
-$
-\begin{aligned}
-24 \div (a - 8) &= 6 \\\\
-a - 8           &= 6 \times 24 \\\\
-a - 8           &= 144 \\\\
-a               &= 144 + 8 \\\\
-a               &= 152
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$152$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F02FB4F1-68F5-4FE5-9070-16666391FDCB' id='FORM-F02FB4F1-68F5-4FE5-9070-16666391FDCB' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F02FB4F1-68F5-4FE5-9070-16666391FDCB'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>23036B78-59C9-4958-A9D7-2BEF6461A408</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A pineapple costs $\pounds 2.47$.
-
-James has a $\pounds 10$ note.
-
-He buys as many pineapples as he can with his $\pounds 10$ note.   
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many pineapples does James buy?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Total pineapples he buys} &= \dfrac {10} {2.47} \\\\
-                                 &= 4.0485 \\\\
-                                 &= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How much change should James receive from his $\pounds 10$ note?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Change received} &= 10 - 4 \times 2.47 \\\\
-                        &= 10 - 9.88 \\\\
-                        &= \pounds 0.12 \\\\
-                        &= 0.12 \times 100 \text{p} \\\\
-                        &= 12 \text{p}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12 \text{p}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='23036B78-59C9-4958-A9D7-2BEF6461A408' id='FORM-23036B78-59C9-4958-A9D7-2BEF6461A408' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-23036B78-59C9-4958-A9D7-2BEF6461A408'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>53762856-3EC8-489C-8BC4-5F21432EF753</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Caley starts with a number, doubles it and then subtracts $7$.
-
-The result is $31$.
-
-What number did Caley start with?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-2 \times a - 7 &= 31 \\\\
-2 a            &= 31 + 7 \\\\
-2 a            &= 38 \\\\
-a              &= \dfrac {38} {2} \\\\
-a              &= \dfrac {19 \times 2} {2} \\\\
-a              &= \dfrac {19 \times \cancel {2}} {\cancel {2}} \\\\
-a              &= 19
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$19$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='53762856-3EC8-489C-8BC4-5F21432EF753' id='FORM-53762856-3EC8-489C-8BC4-5F21432EF753' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-53762856-3EC8-489C-8BC4-5F21432EF753'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B5A67EBF-7804-44BA-A78D-4588DF38FCE3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Half of a certain number is $17$. What is the number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-Let the number $= a$
-
-As per the question,
-
-$
-\begin{aligned} 
-\dfrac {1} {2} \times a                           &= 17 \\\\
-a                                                 &= 17 \times 2 \\\\
-a                                                 &= 34
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$34$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B5A67EBF-7804-44BA-A78D-4588DF38FCE3' id='FORM-B5A67EBF-7804-44BA-A78D-4588DF38FCE3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B5A67EBF-7804-44BA-A78D-4588DF38FCE3'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_blocked rag_prbd question'>
-<div class='uuid'>
-<p>6E54CC2F-AFAA-4163-A221-70B208AE9DB1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Two numbers add to give $15$ and multiply to give $56$.
-
-What is the difference between the two numbers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-Let the first number $= a$.
-
-Let the second number $= b$.
-
-As per the question,
-
-$a + b = 15$.
-
-$ab = 56$.
-
-As we know, $(a - b) ^ 2 = a ^ 2 + b ^ 2 - 2ab$.
-
-and $(a + b) ^ 2 = a ^ 2 + b ^ 2 + 2ab$.
-
-Using this we get,
-
-$
-\begin {aligned}
-(a - b) ^ 2  &= a ^ 2 + b ^ 2 - 2ab \\\\
-(a - b) ^ 2  &= a ^ 2 + b ^ 2 - (4ab - 2ab) \\\\
-(a - b) ^ 2  &= (a ^ 2 + b ^ 2 + 2ab) - 4ab \\\\
-(a - b) ^ 2  &= (a + b) ^ 2 - 4ab \\\\
-(a - b) ^ 2  &= (15) ^ 2 - 4 \times 56 \\\\
-(a - b) ^ 2  &= 225 - 224 \\\\
-(a - b) ^ 2  &= 1 \\\\
-a - b        &= \sqrt {1} \\\\
-a - b        &= 1
-\end {aligned}
-$  
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$1$
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
 </div>
 </div>
 </li>

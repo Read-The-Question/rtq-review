@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -356,6 +356,62 @@ TODOANSWER
 
 <div class='papername'>
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='uuid'>
+<p>211A5FCF-4F61-45F5-A728-04F4F08A4EC3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table below shows the results of a survey in which $60$ boys 
+were asked what colour of dress girls should wear.
+
+![missing table](/papers/missing_table.svg)
+
+
+What percentage of boys thought *girls* should wear pink?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Percentage of boys that thought girls should wear pink} &= \dfrac {24} {24 + 15 + 21} \times 100 \\\\
+                                                              &= \dfrac {24 \times 100} {60} \\\\
+                                                              &= \dfrac {4 \times 6 \times 10 \times 10} {6 \times 10} \\\\
+                                                              &= \dfrac {4 \times \cancel {6} \times 10 \times \cancel {10}} {\cancel {6} \times \cancel {10}} \\\\
+                                                              &= 4 \times 10 \\\\
+                                                              &= 40 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$40 \%$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:11</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

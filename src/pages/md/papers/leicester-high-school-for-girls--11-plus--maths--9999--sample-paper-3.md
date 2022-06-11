@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -345,9 +345,6 @@ $135 \degree$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -2542,13 +2539,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
-</li>
-<li>
-ttable
 </li>
 </ul>
 </div>

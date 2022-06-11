@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,706 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>61C39D5F-282B-4797-984D-C899CB0325F1</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Each missing digit in the following calculations is either $2, 5$ or $7$. 
+Fill in each box with one of these numbers. You may use each number more than once.
+
+$\boxed{\phantom{1}} + \boxed{1} \boxed{8} = \boxed{\phantom{1}} \boxed{\phantom{1}}$
+
+$\boxed{\phantom{1}}\boxed{\phantom{1}} \ \times \boxed{3} = \boxed{\phantom{1}} \boxed{\phantom{1}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
+
+$\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\boxed{7} + \boxed{1} \boxed{8} = \boxed{2} \boxed{5}$
+
+$\boxed{2}\boxed{5} \ \times \boxed{3} = \boxed{7} \boxed{5}$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>B5DB68EA-79E5-438B-AD75-FC27D8780047</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which whole number when multiplied by itself will give an answer between $190$ and $200$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Perfect square between $190$ and $200 = 196$
+
+$14 \times 14 = 196$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$14$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D8A69E01-9D6A-49ED-9D04-05BE10E23DE7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which number between $81$ and $89$ is exactly divisible by $6$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$14 \times 6 = 84$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$84$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>E5F2C5B2-DCB1-433F-8448-979453D41F68</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at these numbers and the multiplications:
+
+$
+\begin{aligned}
+49 &= 7 \times 7\\
+4489 &= 67 \times 67\\
+444889 &= 667 \times 667
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Use the pattern to fill in the spaces below:
+
+$44448889 = \ldots \times \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$44448889 = 6667 \times 6667$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$44448889 = 6667 \times 6667$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will be the tenth number in the list?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The tenth number would contain ten $4s$, nine $8s$ and one $9$
+
+The tenth number would be $=44444444448888888889$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+ $44444444448888888889$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+What will be the square root of this number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$44444444448888888889 = 6666666667 \times 6666666667$
+
+Hence the square root would be $= 6666666667$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6666666667$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>E909E88A-3D58-42B1-A05B-AA2C4278F1EB</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5412  + 6948$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   4   &   1   &   2 \\
+{}+ &   6   &   9   &   4   &   8 \\
+\hline
+ 1  &   2   &   3   &   6   &   0
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12360$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$5021 - 3879$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+    &   5   &   0   &   2   &   1 \\
+{}- &   3   &   8   &   7   &   9 \\
+\hline
+    &   1   &   1   &   4   &   2
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1142$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='E909E88A-3D58-42B1-A05B-AA2C4278F1EB' id='FORM-E909E88A-3D58-42B1-A05B-AA2C4278F1EB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E909E88A-3D58-42B1-A05B-AA2C4278F1EB'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>D49D9EA7-E52B-4221-A409-AFE1EB8E46AE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the answers to: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$8 \times 3 - 10 + 6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 8 \times 3 - 10 + 6 \\\\
+&=  24 - 4 \\\\
+&= 20
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$72 \div 9 \times 7$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Using BIDMAS
+
+$
+\begin{array}{cccccccccccccc}
+&= 72 \dfrac{7}{9} \\\\
+&=  9 \times 8 \times \dfrac{7}{9} \\\\
+&=  \cancel{9} \times 8 \times \dfrac{7}{\cancel9} \\\\
+&=  8 \times 7 \\\\
+&= 56
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$56$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' id='FORM-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D49D9EA7-E52B-4221-A409-AFE1EB8E46AE'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A8254932-C5B4-4454-AA48-5D0F9228C890</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find, giving your answers in cm: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$12 \ \text{m} + 37 \ \text{cm}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+&= 12 \ \text{m} + 37 \ \text{cm} \\\\
+&= 12 \times 100 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1200 \ \text{cm} + 37 \ \text{cm} \\\\
+&= 1237 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1237 \ \text{cm}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+$6.3 \ \text{km} - 140 \ \text{m}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+It is really important to use the right units in calculations and convert where required.
+
+
+$
+\begin{aligned}
+&= 6.3 \ \text{km} - 140 \ \text{m} \\\\
+&= 6.3 \times 1000 \ \text{m} - 140 \ \text{m} \\\\
+&= 6300 \ \text{m} - 140 \ \text{m} \\\\
+&= 6160 \ \text{m} \\\\
+&= 6160 \times 100 \ \text{cm} \\\\
+&= 616000 \ \text{cm}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$616000 \ \text{m}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A8254932-C5B4-4454-AA48-5D0F9228C890' id='FORM-A8254932-C5B4-4454-AA48-5D0F9228C890' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A8254932-C5B4-4454-AA48-5D0F9228C890'>Initial</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -824,97 +1524,6 @@ $\dfrac{9}{20}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>9A5410BD-3EE5-409F-8688-DA50768205F0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A roll of wallpaper is $10 \ \text{m}$ long and $0.6 \ \text{m}$ wide. How many rolls of 
-wallpaper are needed to cover a wall $3 \ \text{m}$ high and $8 \ \text{m}$ wide?
-
-- $5$
-- $4$
-- $7$
-- $10$
-- $11$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Area of the wall} &= \text{length} \times \text{breadth} \\\\
-&=  8 \times 3 \\\\
-&=  24 \ \text{m}^2 \\\\
-\text{Area of the roll wallpaper} &= \text{length} \times \text{breadth} \\\\
-&=10 \times 0.6 \\\\
-&=  6 \ \text{m}^2 \\\\
-\text{Number of sheets required} \\\\
-&=  \dfrac{24}{6} \\\\
-&=  \dfrac{4 \times 6}{6} \\\\
-&=  \dfrac{4 \times \cancel 6}{ \cancel 6} \\\\
-&= 4 \ \text{sheets}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='9A5410BD-3EE5-409F-8688-DA50768205F0' id='FORM-9A5410BD-3EE5-409F-8688-DA50768205F0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9A5410BD-3EE5-409F-8688-DA50768205F0'>Initial</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>
@@ -3525,421 +4134,6 @@ $24024$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Round $567$ to the nearest $100$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$600$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$600$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' id='FORM-7C19DA98-914F-4E7A-AFD9-38F202A08A32' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7C19DA98-914F-4E7A-AFD9-38F202A08A32'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tdivision
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What number do you multiply $0.2$ by to get an answer of $6$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let the number $= a$.
-
-As per the question,
-
-$
-\begin{aligned}
-a \times 0.2    &= 6 \\\\
-a               &= \dfrac {6} {0.2} \\\\
-a               &= \dfrac {6 \times 10} {0.2 \times 10} \\\\
-a               &= \dfrac {2 \times 3 \times 10} {2} \\\\
-a               &= \dfrac {\cancel {2} \times 3 \times 10} {\cancel {2}} \\\\
-a               &= 30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' id='FORM-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>E7C66B09-5BA0-4B5C-BA6E-344436152AFE</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out the sum of: $9, 99, 999$ and $9999$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{array}{cccccccccccccc}
-          &     &     &     &  9 \\
-          &     &     &  9  &  9 \\
-          &     &  9  &  9  &  9 \\
-{}+       &  9  &  9  &  9  &  9 \\
-\hline
-       1  &  1  &  1  &  0  &  6
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
-                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
-                        &= 11110 - 4 \\\\
-                        &= 11106 
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11106$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' id='FORM-E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-E7C66B09-5BA0-4B5C-BA6E-344436152AFE'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>3FA0F030-E4AF-438E-983D-E94A03478CD8</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The total attendance at Premier League football matches last season was $13766753$. 
-
-Round this number to the nearest ten thousand.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>17EBE603-FE66-4DF1-A566-229E356FE83D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Use the fact that $96815 \times 123 = 11908245$ to work out $96816  \times 123$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-&= 96816 \times 123 \\\\
-&= (96815 + 1) \times 123 \\\\
-&= (96815 \times 123) + (1 \times 123) \\\\
-&= 11908245 + 123 \\\\
-&= 11908368
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$11908368$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' id='FORM-17EBE603-FE66-4DF1-A566-229E356FE83D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-17EBE603-FE66-4DF1-A566-229E356FE83D'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>1A11854F-0304-4DF8-AF45-682DB61E74B6</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the spaces with one of $+, - , \times, \div$  to make each statement correct
-
-$8  \ \text{\textunderscore \textunderscore \textunderscore} \  2 = 5 \ \text{\textunderscore \textunderscore \textunderscore} \ 2$
-
-$4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\textunderscore \textunderscore \textunderscore} \ 5$ 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

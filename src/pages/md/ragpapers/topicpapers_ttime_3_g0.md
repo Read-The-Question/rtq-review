@@ -1,9 +1,85 @@
 ---
 slug: "ragpapers/topicpapers-ttime-3-g0"
 title: "TopicPaper - Time - 3 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>EDEC9010-CA4E-4456-BF0A-E30E81B8226D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Thrse are the start and finish times on a DVD recorder:
+
+$\bold{START\:\:\:\: 14{:}48}$
+
+$\bold{FINISH\:\:\:\: 17{:}25}$
+
+For how long was the video recording? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Length of video recording} &= 17{:}25 - 14{:}48 \\\\
+                                  &= 2 \ \text {hours} \ 37 \ \text {minutes}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {hours} \ 37 \ \text {minutes}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='EDEC9010-CA4E-4456-BF0A-E30E81B8226D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='EDEC9010-CA4E-4456-BF0A-E30E81B8226D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='EDEC9010-CA4E-4456-BF0A-E30E81B8226D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='EDEC9010-CA4E-4456-BF0A-E30E81B8226D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='EDEC9010-CA4E-4456-BF0A-E30E81B8226D' id='FORM-EDEC9010-CA4E-4456-BF0A-E30E81B8226D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-EDEC9010-CA4E-4456-BF0A-E30E81B8226D'>Initial</p>
+</div>
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>

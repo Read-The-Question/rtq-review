@@ -1,9 +1,279 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-g0"
 title: "TopicPaper - Number - 8 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>D03375C8-7EA3-489F-8485-E7B331CCAD8E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Sean scored $27$ out of $45$ in a test. Write this as a percentage.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Percentage} &= \dfrac {27} {45} \times 100 \\\\
+                   &= \dfrac {27 \times 100} {45} \\\\
+                   &= \dfrac {9 \times 3 \times 5 \times 20} {9 \times 5} \\\\
+                   &= \dfrac {\cancel {9} \times 3 \times \cancel {5} \times 20} {\cancel {9} \times \cancel {5}} \\\\
+                   &= 3 \times 20 \\\\
+                   &= 60 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+In a class of $30$ pupils, $21$ are girls. What percentage of the class is boys?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Boys in the class} &= 30 - 21 \\\\
+                          &= 9
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Percentage of boys} &= \dfrac {9} {30} \times 100 \\\\
+                           &= \dfrac {9 \times 100} {30} \\\\
+                           &= \dfrac {9 \times 10 \cancel {0}} {3 \cancel {0}} \\\\
+                           &= \dfrac {3 \times 3 \times 10} {3} \\\\
+                           &= \dfrac {\cancel {3} \times 3 \times 10} {\cancel {3}} \\\\
+                           &= 30 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30 \%$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $0.8$ as a fraction in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.8 \\\\
+&= \dfrac {8} {10} \\\\
+&= \dfrac {2 \times 4} {2 \times 5} \\\\
+&= \dfrac {\cancel {2} \times 4} {\cancel {2} \times 5} \\\\
+&= \dfrac {4} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write $85\%$ as a fraction in its lowest terms.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 85 \% \\\\
+&= \dfrac {85} {100} \\\\
+&= \dfrac {17 \times 5} {2 \times 5 \times 10} \\\\
+&= \dfrac {17 \times \cancel {5}} {2 \times \cancel {5} \times 10} \\\\
+&= \dfrac {17} {2 \times 10} \\\\
+&= \dfrac {17} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {17} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Rearrange the following in order of size, **smallest to largest**.
+
+$\dfrac{9}{25}, 0.371, \dfrac{2}{5}, 38\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more fractions than percentages and decimals, so let's convert all the numbers into fractions.
+
+$
+\begin{aligned}
+&= \dfrac {9} {25}, \quad 0.371,  \quad \dfrac {2} {5},  \quad 38 \% \\\\
+&= \dfrac {9} {25}, \quad \dfrac {371} {100},  \quad \dfrac {2} {5},  \quad \dfrac {38} {100} \\\\
+&= \dfrac {9 \times 4} {25 \times 4}, \quad \dfrac {371} {100},  \quad \dfrac {2 \times 20} {5 \times 20},  \quad \dfrac {38} {100} \\\\
+&= \dfrac {36} {100}, \quad \dfrac {371} {100},  \quad \dfrac {40} {100},  \quad \dfrac {38} {100}
+\end{aligned}
+$
+
+Let's put them in ascending order now.
+
+$
+\begin{aligned}
+&= \dfrac {36} {100}, \quad \dfrac {38} {100},  \quad \dfrac {40} {100},  \quad \dfrac {371} {100} \\\\
+&= \dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {9} {25}, \quad 38 \%,  \quad \dfrac {2} {5},  \quad 0.371$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='D03375C8-7EA3-489F-8485-E7B331CCAD8E' id='FORM-D03375C8-7EA3-489F-8485-E7B331CCAD8E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D03375C8-7EA3-489F-8485-E7B331CCAD8E'>Initial</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -3633,355 +3903,6 @@ $22.121$
 </div>
 <div class='papername'>
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>99068888-BD24-4A8E-8D23-A75AB41224E3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the smallest number that $2, 3$ and $4$ all divide into exactly? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-LCM of $2$, $3$ and $4 = 12$.
-
-The smallest number that 2, 3 and 4 all divide into exactly  $= 12$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$12$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' id='FORM-99068888-BD24-4A8E-8D23-A75AB41224E3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-99068888-BD24-4A8E-8D23-A75AB41224E3'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>A5348D26-A0E4-42B9-BBF8-248FF7506613</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmiddlenumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty%
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{fraction}$ between $0.5$ and $0.6$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {0.5 + 0.6} {2} \\\\
-&= \dfrac {1.1} {2} \\\\
-&= \dfrac {1.1 \times 10} {2 \times 10} \\\\
-&= \dfrac {11} {20}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {11} {20}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Half-way between two numbers is the same as finding the average of two numbers.
-
-$
-\begin{aligned}
-&= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
-&= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
-&= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
-&= \dfrac {7} {4 \times 2} \\\\
-&= \dfrac {7} {8}\\\\
-&= 0.875
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.875$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' id='FORM-A5348D26-A0E4-42B9-BBF8-248FF7506613' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-A5348D26-A0E4-42B9-BBF8-248FF7506613'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C9CA13E4-19C8-43F4-8B78-574D18F42665</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the number $\text{thirty three thousand and thirty three}$ in figures. 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$33033$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$33033$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' id='FORM-C9CA13E4-19C8-43F4-8B78-574D18F42665' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C9CA13E4-19C8-43F4-8B78-574D18F42665'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>ECD5D5F6-E162-4A8A-B46F-374A00E238E2</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is $\text{two thousand, four hundred and five plus one thousand, eight hundred and twenty seven}$ in words?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 2005 + 1827 \\\\
-&= 3832 \\\\
-&= \text{three thousand, eight hundred thirty two}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\text{three thousand, eight hundred thirty two}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' id='FORM-ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-ECD5D5F6-E162-4A8A-B46F-374A00E238E2'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:19</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

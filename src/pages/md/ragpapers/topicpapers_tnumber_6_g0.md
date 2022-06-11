@@ -1,9 +1,150 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-6-g0"
 title: "TopicPaper - Number - 6 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>B53F6E2C-44BB-4B92-BA28-196E7675F060</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number is ten thousand more than $9876543$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 9876543 + 10000 \\\\
+&= 9886543
+\end{aligned}
+$
+
+The number that is ten thousand more than $9876543$ is $= 9886543$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$9886543$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='B53F6E2C-44BB-4B92-BA28-196E7675F060' id='FORM-B53F6E2C-44BB-4B92-BA28-196E7675F060' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B53F6E2C-44BB-4B92-BA28-196E7675F060'>Initial</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The letter "e" appears $\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}$ times in this sentence.
+
+Which of the following goes in the gap above?
+
+Seven, eight, nine, ten, eleven, twelve or thirteen
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {ten}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {ten}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' id='FORM-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CC7BCF4C-1678-420D-A3E4-89FA61B4F3FD'>Initial</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -4182,158 +4323,6 @@ $1000$
 </div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>83337D0D-9540-4245-B775-A8E101DB982C</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much is three-sevenths of $196$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= \dfrac {3} {7} \ \text {of} \ 196 \\\\
-&= \dfrac {3} {7} \times {196} \\\\
-&= \dfrac {3 \times 196} {7} \\\\
-&= \dfrac {3 \times 28 \times 7} {7} \\\\
-&= \dfrac {3 \times 28 \times \cancel {7}} {\cancel{7}} \\\\
-&= 3 \times 28 \\\\
-&= 84
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$84$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='83337D0D-9540-4245-B775-A8E101DB982C' id='FORM-83337D0D-9540-4245-B775-A8E101DB982C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-83337D0D-9540-4245-B775-A8E101DB982C'>Initial</p>
-</div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>20E85746-0B74-4085-B598-68F104A85A9D</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down a number between $0.3$ and $\dfrac{2}{5}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-&= (0.3 + \dfrac {2} {5}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {2} {5}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {2 \times 2} {5 \times 2}) \div 2 \\\\
-&= (\dfrac {3} {10} + \dfrac {4} {10}) \div 2 \\\\
-&= (\dfrac {3 + 4} {10}) \div 2 \\\\
-&= \dfrac {7} {10} \times \dfrac {1} {2} \\\\
-&= \dfrac {7} {10 \times 2} \\\\
-&= \dfrac {7} {20} \\\\
-&= 0.35
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.35$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='20E85746-0B74-4085-B598-68F104A85A9D' id='FORM-20E85746-0B74-4085-B598-68F104A85A9D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-20E85746-0B74-4085-B598-68F104A85A9D'>Initial</p>
-</div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:12</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-12"
 title: "TopicPaper - Algebra - 12"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,333 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>226E8E2D-19C1-4607-A921-E9F025A6322B</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In a Maths test Freddie gets $37$ more marks than George. If Freddie gets $61$, what mark does George get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let George's marks $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 37      & = 61 \\\\
+a           & = 61 - 37 \\\\
+a           & = 24
+\end{aligned}
+$
+
+Marks George got $= 24$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='226E8E2D-19C1-4607-A921-E9F025A6322B' id='FORM-226E8E2D-19C1-4607-A921-E9F025A6322B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-226E8E2D-19C1-4607-A921-E9F025A6322B'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>DACF41B7-F660-4A37-8522-2D3B2583F3CA</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+I think of a number, double it, take the answer away from $41$, and I am left with $3$. What number did I think of?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number = $a$
+
+As per the question,
+
+$
+\begin{aligned}
+41 - 2a     &= 3 \\\\
+2a          & = 41 - 3 \\\\
+2a          & = 38 \\\\
+a           & = \dfrac {38} {2} \\\\
+a           & = \dfrac {19 \times 2} {2} \\\\
+a           & = \dfrac {19 \times \cancel 2} {\cancel 2} \\\\
+a           & = 19
+\end{aligned}
+$
+
+The number I thought was $19$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$19$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='DACF41B7-F660-4A37-8522-2D3B2583F3CA' id='FORM-DACF41B7-F660-4A37-8522-2D3B2583F3CA' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DACF41B7-F660-4A37-8522-2D3B2583F3CA'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>4F9F9262-A677-46E7-BF67-C0017CAB35B7</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A large crate holds twelve cartons of milk whereas a small crate holds only four cartons. 
+I have five large crates and twenty small crates available. 
+What is the smallest number of crates in total that I could use to store $110$ cartons of milk?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+A large crate = 12 cartons of milk
+
+A small crate = 4 cartons of milk
+
+Available crates = 5 large + 20 small
+
+Total milk cartons = 110
+
+To have smallest crate count, we need to use maximum available large crates i.e., $5$ crates first and 
+then calculate the number of smaller crates needed for the rest of the milk cartons. 
+
+Let's take the count of small crates as = $s$
+
+$(5 \ \text {crates} \times 12 \ \text {cartons}) + ( s \times 4) = 110 \ \text {cartons}$ 
+
+$
+\begin{aligned}
+60  + s \times 4 & = 110 \\\\
+4s               & = 110 - 60 \\\\
+4s               & = 50 \\\\
+s                & = \dfrac {48 + 2} {4} \\\\
+s                & = \dfrac {48} {4} + \dfrac {2} {4} \\\\
+s                & = \dfrac {12 \times 4} {4} + \dfrac {2} {2 \times 2} \\\\
+s                & = \dfrac {12 \times \cancel 4} {\cancel {4}} + \dfrac {\cancel {2}} {2 \times \cancel {2}} \\\\
+s                & = 12 + \dfrac {1}{2} \\\\
+s                & = 12 + \dfrac {1} {2} \ \text {crates}
+\end{aligned}
+$
+
+We have to use a full crate so $\dfrac {1} {2}$ crate $=  1$ extra crate.
+
+$12 + 1 \ \text {crates} = 13 \$ crates
+
+Let's find the smallest number of crates in total to store $110$ cartons of milk.
+
+$5$ large crates $+ 13$ small crates $= 18$ crates
+
+The smallest number of crates needed in total to store $110$ cartons of milk $= 18$ crates.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>7F32C156-E6CA-40AB-9A96-8977312C93E4</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Ravi has two sisters, Harsha and Harpreet. He likes to share out his sweets unfairly. 
+One day he gives Harsha twice as many as he gives himself, and he gives Harpreet half 
+as many as he gives himself. 
+If there are $42$ sweets in total how many does Ravi get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the count of sweets Ravi has = $a$. 
+
+As per the question,
+
+$
+\begin{aligned}
+2 \times a + \dfrac {1} {2} \times a + a           &= 42 \\\\
+2a + \dfrac {a} {2} + a                            &= 42 \\\\
+3a + \dfrac {a} {2}                                &= 42 \\\\
+\dfrac {3a \times 2} {1 \times 2} + \dfrac {a} {2} &= 42 \\\\
+\dfrac {6a} {2} + \dfrac {a} {2}                   &= 42 \\\\
+\dfrac {6a + a} {2}                                &= 42 \\\\
+\dfrac {7a} {2}                                    &= 42 \\\\
+7a                                                 &= 42 \times 2 \\\\
+a                                                  &= \dfrac {42 \times 2} {7} \\\\
+a                                                  &= \dfrac {\cancel 7 \times 6 \times 2} {\cancel 7} \\\\
+a                                                  &= 6 \times 2 \\\\
+a                                                  &= 12
+\end{aligned}
+$
+
+Total number of sweets Ravi got $= 12$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='7F32C156-E6CA-40AB-9A96-8977312C93E4' id='FORM-7F32C156-E6CA-40AB-9A96-8977312C93E4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7F32C156-E6CA-40AB-9A96-8977312C93E4'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -939,6 +1266,61 @@ $\pounds 32$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>F1D61AFD-09B1-495E-8B01-6F4566287548</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+For every three strawberry jellies in a bag of sweets there are four cherry jellies. 
+If a large bag contains $12$ strawberry jellies how many cherry jellies are there in the bag?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>
@@ -3456,445 +3838,6 @@ $\pounds 5.5$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>8CA44EE7-F16E-4F90-964D-A9A239631F65</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-
-On her birthday last year, Emily was $140\ \text{cm}$ tall. When she measured herself on her birthday today, she calculated that she had grown by a fifth of the height she was a year ago.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How tall is she now?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Emily's brother, Jack, is now $105\ \text{cm}$ tall, having grown by one sixth of his height a year ago. How tall was Jack one year ago?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>126BE312-5DB7-4CD7-BD6E-ED83FD5EC448</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-It takes me half an hour to fill the paddling pool to a depth of $20\ \text{cm}$ using one hose.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long will it take to fill it to the same depth If I use two hoses?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How long will it take to fill it to a depth of $30\ \text{cm}$ if I use $3$ hoses?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>AEF8D987-2111-4062-8FFB-061D2FAA0A7F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Amir, Anna and Arjun have bought some fruit at a market stall.
-
-Amir bought $2$ Pears and $1$ Mango for $\pounds 1.35$
-
-Anna bought $1$ Pear and $2$ Mangos for $\pounds 1.20$
-
-Arjun bought $1$ Pear, $1$ Mango and $1$ Apple for $\pounds 1$
-
-How much, in pence, did the apple cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:31</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>DAFC965B-0C09-46A4-9759-E2AD3E3F5A28</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Dominic, Hannahand Abdul have $36$ sweets between them.
-
-Dominic has half as many sweets as Hannah.
-
-Abdul has $3$ times as many sweets as Hannah.
-
-![missing image](/papers/missing_image.svg)
-
-
-How many sweets does Abdul have?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E2CE5C41-401D-471B-B868-C50B3E4DD99A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-If $a$ and $b$ are numbers, then $a \ \hearts \ b$ means **'multiply $a$ by itself and then subtract $b$'**.
-
-For example
-
-$
-\begin{aligned}
-2 \ \hearts \  3 &= 2 \times 2 - 3 \\
-                 &= 4 - 3 \\
-                 &= 1
-\end{aligned}
-$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Calculate $3 \ \hearts \ 4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $a$ when $a \ \hearts \ 4 = 32$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Find $x$ when $x \ \hearts \ x = 72$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:34</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
 </div>
 </div>
 </li>

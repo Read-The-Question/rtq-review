@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-g0"
 title: "TopicPaper - Sequence - 1 - G0"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2741,99 +2741,6 @@ ${}- 19$
 </div>
 <div class='papername'>
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>0907F8CD-02DC-4336-B721-E39389BE9AAC</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-What is the $5 \text{th}$ term in this sequence?
-
-$991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunderscore } \quad \text{\textunderscore \textunderscore \textunderscore }$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let's find the difference between the consecutive terms of the sequence.
-
-
-The difference between the terms is $127$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize {\maroonC
- {(-127)} } 
-&&  \footnotesize {\maroonC
- {(-127)} }  
-&&  \footnotesize {\maroonC
- {(-127)} }   
-&&  \footnotesize {\maroonC
- {(-127)} }  \\
-991,  &&    864,  &&  737,  &&   \ldots && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{Fourth number}        &= 737 - 127 \\\\
-                            &= 610 \\\\
-\text{Fifth number}         &= 610 - 127 \\\\
-                            &= 483
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$483$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='0907F8CD-02DC-4336-B721-E39389BE9AAC' id='FORM-0907F8CD-02DC-4336-B721-E39389BE9AAC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-0907F8CD-02DC-4336-B721-E39389BE9AAC'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

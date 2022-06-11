@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-13"
 title: "TopicPaper - Number - 13"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,475 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>7C19DA98-914F-4E7A-AFD9-38F202A08A32</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Round $567$ to the nearest $100$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$600$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$600$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='7C19DA98-914F-4E7A-AFD9-38F202A08A32' id='FORM-7C19DA98-914F-4E7A-AFD9-38F202A08A32' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7C19DA98-914F-4E7A-AFD9-38F202A08A32'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tdivision
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number do you multiply $0.2$ by to get an answer of $6$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number $= a$.
+
+As per the question,
+
+$
+\begin{aligned}
+a \times 0.2    &= 6 \\\\
+a               &= \dfrac {6} {0.2} \\\\
+a               &= \dfrac {6 \times 10} {0.2 \times 10} \\\\
+a               &= \dfrac {2 \times 3 \times 10} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 3 \times 10} {\cancel {2}} \\\\
+a               &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$30$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' id='FORM-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A0170EBD-5A2B-4B2F-BDC9-A9C1604FB80E'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>DC082ECB-D148-4B24-9DA0-CFEBA40072D2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the number that the arrow is pointing to on the scale.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>E7C66B09-5BA0-4B5C-BA6E-344436152AFE</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Work out the sum of: $9, 99, 999$ and $9999$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{array}{cccccccccccccc}
+          &     &     &     &  9 \\
+          &     &     &  9  &  9 \\
+          &     &  9  &  9  &  9 \\
+{}+       &  9  &  9  &  9  &  9 \\
+\hline
+       1  &  1  &  1  &  0  &  6
+\end{array}
+$
+
+</div>
+<div class='working'>
+
+$
+\begin{aligned}
+9 + 99 + 999 + 9999     &= 10 - 1 + 100 - 1 + 1000 - 1 + 10000 - 1 \\\\
+                        &= 10 + 100 + 1000 + 10000 - 4 \\\\
+                        &= 11110 - 4 \\\\
+                        &= 11106 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11106$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' id='FORM-E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E7C66B09-5BA0-4B5C-BA6E-344436152AFE'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>3FA0F030-E4AF-438E-983D-E94A03478CD8</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The total attendance at Premier League football matches last season was $13766753$. 
+
+Round this number to the nearest ten thousand.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>17EBE603-FE66-4DF1-A566-229E356FE83D</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Use the fact that $96815 \times 123 = 11908245$ to work out $96816  \times 123$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+&= 96816 \times 123 \\\\
+&= (96815 + 1) \times 123 \\\\
+&= (96815 \times 123) + (1 \times 123) \\\\
+&= 11908245 + 123 \\\\
+&= 11908368
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11908368$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='17EBE603-FE66-4DF1-A566-229E356FE83D' id='FORM-17EBE603-FE66-4DF1-A566-229E356FE83D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-17EBE603-FE66-4DF1-A566-229E356FE83D'>Initial</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>1A11854F-0304-4DF8-AF45-682DB61E74B6</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the spaces with one of $+, - , \times, \div$  to make each statement correct
+
+$8  \ \text{\textunderscore \textunderscore \textunderscore} \  2 = 5 \ \text{\textunderscore \textunderscore \textunderscore} \ 2$
+
+$4  \ \text{\textunderscore \textunderscore \textunderscore}  \ 3 = 60 \ \text{\textunderscore \textunderscore \textunderscore} \ 5$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -5677,741 +6146,6 @@ $290  \ \text{cm}$
 </div>
 <div class='papername'>
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>9AF84988-F1DF-41DF-AEE3-E71D1B39C904</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Put the correct number in the empty box.
-
-
-$\boxed { \phantom{20} } - 8 = 4 \times 3$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\boxed { \green
-{20} } - 8 = 4 \times 3$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$20$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='9AF84988-F1DF-41DF-AEE3-E71D1B39C904' id='FORM-9AF84988-F1DF-41DF-AEE3-E71D1B39C904' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-9AF84988-F1DF-41DF-AEE3-E71D1B39C904'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>E258ACB8-5491-4DFA-800B-58FEA66CFEB0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Fill in the gaps
-
-%waffles%
-
-addition  subtraction  multiplication
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>51C9363A-916D-4432-92C0-0C6EF1343F19</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Shakira has five cards with numbers on them, as shown below:
-
-$
-\large {
-\boxed {8} \quad 
-\boxed {7} \quad 
-\boxed {1} \quad 
-\boxed {5} \quad 
-\boxed {3} \quad 
-}
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the **largest even** number that Shakira can make using exactly **four** cards.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$7538$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7538$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-Write down the **smallest odd** number that Shakira can make using all **five** cards.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$13587$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$13587$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='51C9363A-916D-4432-92C0-0C6EF1343F19' id='FORM-51C9363A-916D-4432-92C0-0C6EF1343F19' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-51C9363A-916D-4432-92C0-0C6EF1343F19'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>13F85E8A-4638-487F-986B-CDE093D03A0A</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the number which is $5$ less than eight thousand and three.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 8003 - 5 \\\\
-&= 7998
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$7998$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='13F85E8A-4638-487F-986B-CDE093D03A0A' id='FORM-13F85E8A-4638-487F-986B-CDE093D03A0A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-13F85E8A-4638-487F-986B-CDE093D03A0A'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B778BA48-3993-4A43-9EF1-7FDA838BE4E1</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Hui Ling measures her pencil before she sharpens it.
-
-![missing image](/papers/missing_image.svg)
-
-
-What is the length of the pencil?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$3.9 \ \text{cm}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3.9 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B778BA48-3993-4A43-9EF1-7FDA838BE4E1' id='FORM-B778BA48-3993-4A43-9EF1-7FDA838BE4E1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B778BA48-3993-4A43-9EF1-7FDA838BE4E1'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>F2D84620-5FC8-4469-A7DA-4FEFD38284C0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$15 \times 34 = 510$
-
-Use this information to work out:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$150 \times 340$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34                     &= 510 \\\\
-15 \times 10 \times 34 \times 10 &= 510 \times 100 \\\\
-150 \times 340                   &= 51000
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51000$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$15 \times 17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34          &= 510 \\\\
-15 \times 17 \times 2 &= 510 \\\\
-15 \times 17          &= \dfrac {510} {2} \\\\
-15 \times 17          &= \dfrac {255 \times 2} {2} \\\\
-15 \times 17          &= \dfrac {255 \times \cancel {2}} {\cancel {2}} \\\\
-15 \times 17          &= 255
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$255$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$510 + 17$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-15 \times 34          &= 510 \\\\
-15 \times 17 \times 2 &= 510 \\\\
-15 \times 2           &= \dfrac {510} {17} \\\\
-\dfrac {510} {17}     &= 15 \times 2 \\\\
-\dfrac {510} {17}     &= 30 \\\\
-510 \div 17           &= 30
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$30$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F2D84620-5FC8-4469-A7DA-4FEFD38284C0' id='FORM-F2D84620-5FC8-4469-A7DA-4FEFD38284C0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F2D84620-5FC8-4469-A7DA-4FEFD38284C0'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>77B7035B-4C89-427D-A347-E8D034630C49</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$
-\large {
-\boxed {8} \quad 
-\boxed {3} \quad 
-\boxed {5} \quad 
-\boxed {4} \quad 
-\boxed {9} \quad 
-}
-$
-
-
-Using all these digits once only make
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the largest number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$98543$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$98543$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the largest number divisible by $4$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$98534$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$98534$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-the smallest even number
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$35948$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$35948$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='77B7035B-4C89-427D-A347-E8D034630C49' id='FORM-77B7035B-4C89-427D-A347-E8D034630C49' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-77B7035B-4C89-427D-A347-E8D034630C49'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:25</p>
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>

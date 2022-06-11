@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2376,13 +2376,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 talgebra
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>

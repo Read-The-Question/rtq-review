@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-11 10:07:00
+date: 2022-06-11 12:52:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -576,9 +576,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tratio
 </li>
@@ -2683,16 +2680,7 @@ TODOANSWER
 <div class='topics'>
 <ul>
 <li>
-tunassigned
-</li>
-<li>
 tareaperimeter
-</li>
-<li>
-tvolume
-</li>
-<li>
-tgeometry
 </li>
 </ul>
 </div>
@@ -2826,9 +2814,6 @@ TODOANSWER
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tareaperimeter
 </li>
@@ -3206,9 +3191,6 @@ $\dfrac {t ^ 2} {4}$
 </div>
 <div class='topics'>
 <ul>
-<li>
-tunassigned
-</li>
 <li>
 tnumber
 </li>

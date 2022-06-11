@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,355 @@ date: 2022-06-11 10:09:45
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>99068888-BD24-4A8E-8D23-A75AB41224E3</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the smallest number that $2, 3$ and $4$ all divide into exactly? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+LCM of $2$, $3$ and $4 = 12$.
+
+The smallest number that 2, 3 and 4 all divide into exactly  $= 12$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='99068888-BD24-4A8E-8D23-A75AB41224E3' id='FORM-99068888-BD24-4A8E-8D23-A75AB41224E3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-99068888-BD24-4A8E-8D23-A75AB41224E3'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>A5348D26-A0E4-42B9-BBF8-248FF7506613</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+<li>
+tmiddlenumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{fraction}$ between $0.5$ and $0.6$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {0.5 + 0.6} {2} \\\\
+&= \dfrac {1.1} {2} \\\\
+&= \dfrac {1.1 \times 10} {2 \times 10} \\\\
+&= \dfrac {11} {20}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {11} {20}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='topics'>
+<ul>
+</ul>
+</div>
+<div class='question subquestion'>
+
+Write down a $\underline{decimal}$ between $\dfrac{3}{4}$ and $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Half-way between two numbers is the same as finding the average of two numbers.
+
+$
+\begin{aligned}
+&= \dfrac {\dfrac {3} {4} + 1} {2}\\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {1 \times 4} {1 \times 4}} {2} \\\\
+&= \dfrac {\dfrac {3} {4} + \dfrac {4} {4}} {2} \\\\
+&= \dfrac {\dfrac {3 + 4} {4}} {2} \\\\
+&= \dfrac {7} {4 \times 2} \\\\
+&= \dfrac {7} {8}\\\\
+&= 0.875
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.875$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='A5348D26-A0E4-42B9-BBF8-248FF7506613' id='FORM-A5348D26-A0E4-42B9-BBF8-248FF7506613' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A5348D26-A0E4-42B9-BBF8-248FF7506613'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>C9CA13E4-19C8-43F4-8B78-574D18F42665</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the number $\text{thirty three thousand and thirty three}$ in figures. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$33033$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$33033$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='C9CA13E4-19C8-43F4-8B78-574D18F42665' id='FORM-C9CA13E4-19C8-43F4-8B78-574D18F42665' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-C9CA13E4-19C8-43F4-8B78-574D18F42665'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prns question'>
+<div class='uuid'>
+<p>ECD5D5F6-E162-4A8A-B46F-374A00E238E2</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tnumber
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $\text{two thousand, four hundred and five plus one thousand, eight hundred and twenty seven}$ in words?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2005 + 1827 \\\\
+&= 3832 \\\\
+&= \text{three thousand, eight hundred thirty two}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{three thousand, eight hundred thirty two}$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onclick='submitReview(event)'>PRA</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='ECD5D5F6-E162-4A8A-B46F-374A00E238E2' id='FORM-ECD5D5F6-E162-4A8A-B46F-374A00E238E2' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-ECD5D5F6-E162-4A8A-B46F-374A00E238E2'>Initial</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
@@ -4748,454 +5097,6 @@ $231$
 
 <div class='papername'>
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>186D27EB-2B7C-4A75-AD3A-B9768E4E01BD</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tnoexplanation
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write the number $\text{eighty-six thousand and fourteen}$ in figures.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$86,014$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$86,014$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' id='FORM-186D27EB-2B7C-4A75-AD3A-B9768E4E01BD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-186D27EB-2B7C-4A75-AD3A-B9768E4E01BD'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>78D12F78-FABE-4128-A430-A9094329C30F</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-<li>
-tmiddlenumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down a number that is smaller than $0.8$ and bigger than $\dfrac {5} {7}$ .
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Lets convert fraction into decimal,
-
-$
-\begin{aligned}
-&= \dfrac{5}{7} \\\\
-&= 0.71
-\end{aligned}
-$
-
-Any number between 0.71 and 0.8 can be answer 0.72, 0.73, 0.74, ...so on
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.72$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='78D12F78-FABE-4128-A430-A9094329C30F' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='78D12F78-FABE-4128-A430-A9094329C30F' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='78D12F78-FABE-4128-A430-A9094329C30F' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='78D12F78-FABE-4128-A430-A9094329C30F' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='78D12F78-FABE-4128-A430-A9094329C30F' id='FORM-78D12F78-FABE-4128-A430-A9094329C30F' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-78D12F78-FABE-4128-A430-A9094329C30F'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>16D15C16-4732-4D23-B040-8F37EB1A5DC3</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The number $36$ can be written as a product of $2 \text{'s}$ and $3 \text{'s}$ i.e.
-$2 \times 2 \times 3 \times 3 = 36$ and $48$ can be written as $2 \times 2 \times 2 \times 2 \times 3 = 48$. 
-Write the following numbers in a similar way.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$108$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1944$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prg question'>
-<div class='uuid'>
-<p>7E49F822-D5B6-4A2D-91D8-6F5ECD9E4E06</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tnumber
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Evaluate the following:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$empty$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$207 + 1989 + 24.2$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 207 + 1989 + 24.2 \\\\
-&= 2220.2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$2220.2$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$1806 - 924$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= 1806 - 924 \\\\
-&= 882
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$882$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$624 \times 37$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-&= 624 \times 37 \\\\
-&= 23,088
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23,088$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-$7322 \div 14$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 7322 \div 14 \\\\
-&= \dfrac {7322} {14} \\\\
-&= \dfrac {523 \times 14} {14} \\\\
-&= \dfrac{523 \times \cancel{14} } {\cancel{14} } \\\\
-&= 523
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$523$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:0</p>
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>

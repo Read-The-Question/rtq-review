@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr"
 title: "TopicPaper - Algebra - 1 - OLDPR"
-date: 2022-06-11 10:09:45
+date: 2022-06-11 12:55:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -561,92 +561,6 @@ Banana $= 50 \ \text{pence}$
 </div>
 <div class='papername'>
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
-<div class='uuid'>
-<p>BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A triangle has a base of $6 \ \text{cm}$ and a height 
-of $4 \ \text{cm}$. It has the same area as another
-triangle of base length $8 \ \text{cm}$. How tall is the triangle?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-Let the height of the second triangle $= a$.
-
-As per the question,
-
-$
-\begin {aligned}
-\text{Area of first triangle}                                   &= \text{Area of second triangle} \\\\
-\dfrac {1} {2} \times 6 \ \text {cm} \times 4 \ \text {cm}      &= \dfrac {1} {2} \times 8 \ \text {cm} \times a \\\\
-\dfrac {1} {2} \times 24                                        &= \dfrac {8} {2} \times a \\\\
-\dfrac {24} {2} \times \dfrac {2} {8}                           &= a \\\\
-a                                                               &= \dfrac {24} {2} \times \dfrac {2} {8} \\\\
-a                                                               &= \dfrac {24 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times 8 \times 2} {2 \times 8} \\\\
-a                                                               &= \dfrac {3 \times \cancel {8} \times \cancel {2}} {\cancel {2} \times \cancel {8}} \\\\
-a                                                               &= 3 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3 \ \text{cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onclick='submitReview(event)'>PRA</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' id='FORM-BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-BFCD702F-CCA2-44A4-B2FF-D800ACB7D79B'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:26</p>
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>

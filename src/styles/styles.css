@@ -306,6 +306,23 @@ button.rag_prr {
     background-color: red;
 }
 
+button.rag_prcc {
+    padding: 20px 20px;
+    background-color: paleturquoise;
+}
+
+button.rag_prbd {
+    padding: 20px 20px;
+    background-color: chocolate;
+}
+
+button.rag_prct {
+    padding: 20px 20px;
+    background-color: grey;
+    color: white;
+}
+
+
 li.review button:hover {
     background-color: #555;
     color: white;

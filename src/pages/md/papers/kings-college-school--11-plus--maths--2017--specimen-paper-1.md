@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-1"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 1"
-date: 2022-06-11 20:28:37
+date: 2022-06-12 09:40:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -261,10 +261,16 @@ $342$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='6EFFBA2C-28FA-44ED-B737-5420543F31C9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-19-oldpr"
 title: "TopicPaper - Unassigned - 19 - OLDPR"
-date: 2022-06-11 20:31:22
+date: 2022-06-12 09:43:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -115,10 +115,16 @@ $2400 \text{g}$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E2AAD842-8F28-4315-8FD7-80B9E1231559' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 

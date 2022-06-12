@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-3-g0"
 title: "TopicPaper - Detailedaddition - 3 - G0"
-date: 2022-06-11 20:31:22
+date: 2022-06-12 09:43:17
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,10 +61,16 @@ $0.50$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='29212A9E-1C25-4499-897A-E70C8D8D5B4C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
@@ -81,7 +87,7 @@ $0.50$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 </div>
 </li>
@@ -142,10 +148,16 @@ $0.80$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='8E360416-5A5E-444E-AF3F-E1127C64CFCD' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
@@ -162,7 +174,7 @@ $0.80$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 </div>
 </li>
@@ -215,10 +227,16 @@ $7392$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='BCFC8528-F790-40C9-A217-CE925D2A3259' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
@@ -235,7 +253,7 @@ $7392$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 </div>
 </li>
@@ -287,10 +305,16 @@ $732$
 <button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
 <button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_pra' data-rag='PRA' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRA</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1F0A2433-D525-48CE-81FF-096EB10509BF' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
@@ -307,7 +331,7 @@ $732$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ar_g0</p>
 </div>
 </div>
 </li>

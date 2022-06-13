@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-trecipe-1"
 title: "TopicPaper - Recipe - 1"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -24,6 +24,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -176,6 +179,9 @@ $60$ cupcakes
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -228,6 +234,9 @@ $300 \ \text{g sugar}$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -276,6 +285,9 @@ $330 \ \text{g sugar}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,6 +345,9 @@ $225 \ \text{g flour}$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -389,6 +404,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -441,6 +459,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -604,6 +625,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -805,6 +829,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -983,6 +1010,9 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1163,6 +1193,9 @@ $28$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1354,6 +1387,9 @@ $150 \ \text {grams}$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1463,6 +1499,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1518,6 +1557,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1632,6 +1674,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1851,6 +1896,9 @@ $45 \ \text{grams}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2073,6 +2121,9 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2239,6 +2290,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2365,6 +2419,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2561,6 +2618,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2656,6 +2716,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-notstarted"
 title: "TopicPaper - Simpleword - 3 - NOTSTARTED"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -74,6 +77,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -140,6 +146,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -192,6 +201,9 @@ $8 \dfrac {4} {12}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -250,6 +262,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -304,6 +319,9 @@ $\pounds 3.24$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -374,6 +392,9 @@ $9.3 \text{kg}$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -436,6 +457,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -489,6 +513,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -545,6 +572,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -749,6 +779,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -810,6 +843,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -869,6 +905,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1127,6 +1166,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1296,6 +1338,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_pra</p>
 </div>
 <div class='topics'>
 <ul>

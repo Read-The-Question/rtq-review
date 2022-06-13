@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-oldpr"
 title: "TopicPaper - Order - 3 - OLDPR"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -104,6 +107,9 @@ $= 0.7098$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -190,6 +196,9 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -263,6 +272,9 @@ $5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -335,6 +347,9 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -419,6 +434,9 @@ $0.603$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -495,6 +513,9 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -646,6 +667,9 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -843,6 +867,9 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

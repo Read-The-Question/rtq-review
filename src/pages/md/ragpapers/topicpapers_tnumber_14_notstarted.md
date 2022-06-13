@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-14-notstarted"
 title: "TopicPaper - Number - 14 - NOTSTARTED"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -62,6 +65,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -164,6 +170,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -287,6 +296,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -452,6 +464,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -492,6 +507,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -654,6 +672,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -858,6 +879,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-06-13 13:25:35
+date: 2022-06-13 20:20:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -22,6 +22,9 @@ date: 2022-06-13 13:25:35
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -100,6 +103,9 @@ $897$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -170,6 +176,9 @@ $45702$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -247,6 +256,9 @@ $2436$
 </div>
 <div class='rag'>
 <p>rag_ad_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -329,6 +341,9 @@ $7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -408,6 +423,9 @@ $\pounds 23.20$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -501,6 +519,9 @@ $8$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -602,6 +623,9 @@ $32 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -746,6 +770,9 @@ $\pounds 114$
 </div>
 <div class='rag'>
 <p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -915,6 +942,9 @@ $\dfrac {101} {250}$
 <div class='rag'>
 <p>rag_wf_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -995,6 +1025,9 @@ $\dfrac {2} {5}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1131,6 +1164,9 @@ $0.6$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1211,6 +1247,9 @@ $\pounds 6.20$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1287,6 +1326,9 @@ $576$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1427,6 +1469,9 @@ $\dfrac {9} {2}$
 <div class='rag'>
 <p>rag_ar_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1508,6 +1553,9 @@ $3 \dfrac {5} {12}$
 <div class='rag'>
 <p>rag_ar_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1588,6 +1636,9 @@ $7 \dfrac {11} {42}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1729,6 +1780,9 @@ $7504$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1781,6 +1835,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1868,6 +1925,9 @@ $12$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2093,6 +2153,9 @@ $45$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2172,6 +2235,9 @@ $2{:}32 \ \text{pm}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2257,6 +2323,9 @@ $1440 \ \text{minutes}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2395,6 +2464,9 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2476,6 +2548,9 @@ $4 \degree \text{C}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2628,6 +2703,9 @@ $13$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2754,6 +2832,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2840,6 +2921,9 @@ $75 \degree$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2982,6 +3066,9 @@ $8 \ \text{km}$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -3078,6 +3165,9 @@ $76 \text{m}^{2}$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -3172,6 +3262,9 @@ $\pounds 27$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3330,6 +3423,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -3414,6 +3510,9 @@ $18$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -3474,6 +3573,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3621,6 +3723,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3778,6 +3883,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

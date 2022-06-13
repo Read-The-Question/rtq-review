@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g0"
 title: "TopicPaper - Fraction - 2 - G0"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -140,6 +143,9 @@ $2$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -230,6 +236,9 @@ $\dfrac {9} {4}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -312,6 +321,9 @@ $14$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -391,6 +403,9 @@ $\dfrac {11} {4}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -595,6 +610,9 @@ $1 \ \dfrac {7} {24}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -764,6 +782,9 @@ $11.025$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -904,6 +925,9 @@ $25 \%$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1039,6 +1063,9 @@ $\dfrac {-9} {28}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1208,6 +1235,9 @@ $2$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1300,6 +1330,9 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1470,6 +1503,9 @@ $24$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1562,6 +1598,9 @@ $99$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1653,6 +1692,9 @@ $\dfrac {13} {15}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1732,6 +1774,9 @@ $\dfrac {3} {4}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

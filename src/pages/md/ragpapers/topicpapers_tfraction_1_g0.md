@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g0"
 title: "TopicPaper - Fraction - 1 - G0"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -100,6 +103,9 @@ $\dfrac{3} {10}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -242,6 +248,9 @@ $8 \dfrac{19} {20}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -325,6 +334,9 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -407,6 +419,9 @@ $\dfrac {61} {36}$
 <div class='rag'>
 <p>rag_ar_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -484,6 +499,9 @@ $\dfrac {1} {12}$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

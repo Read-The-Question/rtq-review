@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-oldpr"
 title: "TopicPaper - Order - 2 - OLDPR"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -107,6 +110,9 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -179,6 +185,9 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -302,6 +311,9 @@ $0.909$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -380,6 +392,9 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 <div class='rag'>
 <p>rag_ad_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -452,6 +467,9 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,6 +549,9 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -612,6 +633,9 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -704,6 +728,9 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 <div class='rag'>
 <p>rag_ad_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -196,6 +199,9 @@ $5 \ \text {cm}$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -295,6 +301,9 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -435,6 +444,9 @@ $216 \ \text {cm}^2$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -524,6 +536,9 @@ $3 \ \text {cm} ^ 2$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -618,6 +633,9 @@ $10 n - 16$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -709,6 +727,9 @@ $\text {3cm, \ 3cm, \ 8cm}$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -792,6 +813,9 @@ $1$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -894,6 +918,9 @@ $\dfrac{45}{4}$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1071,6 +1098,9 @@ $24 \text{m}$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1170,6 +1200,9 @@ $28 \ \text{cm}$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1272,6 +1305,9 @@ $32 \ \text{cm}$
 <div class='rag'>
 <p>rag_nj_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1367,6 +1403,9 @@ $76 \text{m}^{2}$
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

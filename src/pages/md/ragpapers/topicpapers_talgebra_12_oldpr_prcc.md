@@ -1,0 +1,103 @@
+---
+slug: "ragpapers/topicpapers-talgebra-12-oldpr-prcc"
+title: "TopicPaper - Algebra - 12 - OLDPR - PRCC"
+date: 2022-06-13 20:23:53
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+If two numbers multiply to give $36$ and their sum is $15$, what are the two numbers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the two numbers $= a$ and $b$
+
+As per the question,
+
+$
+\begin{aligned}
+a \times b          &= 36 \\\\
+a + b               &= 15
+\end{aligned}
+$
+
+We can easily infer the values by using trial and error.
+
+
+Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
+
+| Numbers   |  Multiplication  |  Sum  |
+|:-------:  |:---------------: |:----: |
+| $1, 36$   | $36$             | $37$  |
+| $2, 18$   | $36$             | $20$  |
+| $3, 12$   | $36$             | $15$  |
+
+A quick check shows that $3$ and $12$ meets all the criteria above.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3, 12$
+
+</div>
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' id='FORM-5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5EDBB6FA-F0A3-4104-A880-4EE0FBC2B4DC'>Initial</p>
+</div>
+</div>
+</li>
+</ul>

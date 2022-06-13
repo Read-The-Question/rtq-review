@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-g2"
 title: "TopicPaper - Areaperimeter - 1 - G2"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -112,6 +115,9 @@ $32 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -274,6 +280,9 @@ $150$
 <div class='rag'>
 <p>rag_nj_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -365,6 +374,9 @@ $56 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -468,6 +480,9 @@ $25 \ \text{cm}^{2}$
 <div class='rag'>
 <p>rag_nj_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -557,6 +572,9 @@ $44$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -666,6 +684,9 @@ $24 \ \text{cm}$
 <div class='rag'>
 <p>rag_nj_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -758,6 +779,9 @@ $240$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -912,6 +936,9 @@ $50 \ \text{m}$
 </div>
 <div class='rag'>
 <p>rag_nj_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

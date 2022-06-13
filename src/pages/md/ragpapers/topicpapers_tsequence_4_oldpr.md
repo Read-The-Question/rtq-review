@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-oldpr"
 title: "TopicPaper - Sequence - 4 - OLDPR"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -302,6 +305,9 @@ $29, 40$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -523,6 +529,9 @@ $594$
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -801,6 +810,9 @@ $13, 21$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1075,6 +1087,9 @@ $122, 365$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1348,6 +1363,9 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1522,6 +1540,9 @@ $-1, -7$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1627,6 +1648,9 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1731,6 +1755,9 @@ $315, 240$
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1842,6 +1869,9 @@ $3,-1$
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1957,6 +1987,9 @@ $50$
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2128,6 +2161,9 @@ $17 - 4n$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2234,6 +2270,9 @@ $6$
 <div class='rag'>
 <p>rag_na_oldpr</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2326,6 +2365,9 @@ $A = 14$
 </div>
 <div class='rag'>
 <p>rag_na_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

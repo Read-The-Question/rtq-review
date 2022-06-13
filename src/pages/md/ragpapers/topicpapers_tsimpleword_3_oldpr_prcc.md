@@ -1,0 +1,216 @@
+---
+slug: "ragpapers/topicpapers-tsimpleword-3-oldpr-prcc"
+title: "TopicPaper - Simpleword - 3 - OLDPR - PRCC"
+date: 2022-06-13 20:23:53
+---
+<ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='uuid'>
+<p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Nine people sit at one table. They share the chocolate **equally**.
+
+![missing image](/papers/missing_image.svg)
+
+
+What **fraction** of a bar do they each have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Fraction per person}  &= \dfrac {\text {Total bars}} {\text {Total people}} \\\\
+                             &= \dfrac {3} {9} \\\\
+                             &= \dfrac {3} {3 \times 3} \\\\
+                             &= \dfrac {\cancel {3}} {3 \times \cancel {3}} \\\\
+                             &= \dfrac {1} {3}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {3}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Four people sit at another table. They share the chocolate **equally**.
+
+![missing image](/papers/missing_image.svg)
+
+
+What fraction of a bar do they each have?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Fraction of a bar they each have}  &= \dfrac {\text {Number of chocolate bars}} {\text {Number of People}} \\\\
+                                          &= \dfrac {3} {4}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In another room there are two tables.
+
+There are four bars of chocolate on one table. There are five on the other.
+
+![missing image](/papers/missing_image.svg)
+ ![missing image](/papers/missing_image.svg)
+
+
+Twelve people sit at the table with four bars. Some other people sit at the table with five bars.
+
+At each table they share the chocolate equally. Everyone in the room has the same fraction of a bar.
+
+How many people sit at the table with five bars?
+
+Show your working.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the number of people sitting at the table with five bars $= a$.
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Fraction of a bar each have at the table with 4 chocolate bars}  &= \text {Fraction of a bar each have at the table with 5 chocolate bars} \\\\
+\dfrac {\text {Number of chocolate bars}} {\text {Number of People}}    &= \dfrac {\text {Number of chocolate bars}} {\text {Number of People}} \\\\
+\dfrac {4} {12}                                                         &= \dfrac {5} {a} \\\\
+4a                                                                      &= 5 \times 12 \\\\
+a                                                                       &= \dfrac {5 \times 12} {4} \\\\
+a                                                                       &= \dfrac {5 \times 3 \times 4} {4} \\\\
+a                                                                       &= \dfrac {5 \times 3 \times \cancel {4}} {\cancel {4}} \\\\
+a                                                                       &= 5 \times 3 \\\\
+a                                                                       &= 15
+\end {aligned}
+$
+
+$15$ people sit at the table with five bars.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$15$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' id='FORM-1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3'>Initial</p>
+</div>
+</div>
+</li>
+</ul>

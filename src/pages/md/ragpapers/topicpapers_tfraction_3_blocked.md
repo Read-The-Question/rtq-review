@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-blocked"
 title: "TopicPaper - Fraction - 3 - BLOCKED"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -14,6 +14,9 @@ date: 2022-06-13 13:28:44
 </div>
 <div class='rag'>
 <p>rag_up_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -247,6 +250,9 @@ $\dfrac {2} {5}$
 <div class='rag'>
 <p>rag_up_blocked</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -464,6 +470,9 @@ $\dfrac{-2}{5}$
 </div>
 <div class='rag'>
 <p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>

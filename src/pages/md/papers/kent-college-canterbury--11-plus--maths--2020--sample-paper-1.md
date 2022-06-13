@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-13 13:25:35
+date: 2022-06-13 20:20:46
 ---
 <div class='paper'>
 <div class='meta'>
@@ -22,6 +22,9 @@ date: 2022-06-13 13:25:35
 </div>
 <div class='rag'>
 <p>rag_wf_oldpr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -297,6 +300,9 @@ $2583$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -491,6 +497,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -541,6 +550,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -677,6 +689,9 @@ $3$
 </div>
 <div class='rag'>
 <p>rag_ar_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -847,6 +862,9 @@ $24$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -991,6 +1009,9 @@ $\pounds 19$
 <div class='rag'>
 <p>rag_up_notstarted</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1051,6 +1072,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_ad_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1212,6 +1236,9 @@ $1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, 
 <div class='rag'>
 <p>rag_ar_g2</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1345,6 +1372,9 @@ $0.35$
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1517,6 +1547,9 @@ $15, -3$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1733,6 +1766,9 @@ $30$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1904,6 +1940,9 @@ $13$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2008,6 +2047,9 @@ $- 1$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2086,6 +2128,9 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2193,6 +2238,9 @@ $90 \%$
 <div class='rag'>
 <p>rag_up_blocked</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2247,6 +2295,9 @@ $25$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2459,6 +2510,9 @@ TODOANSWER
 <div class='rag'>
 <p>rag_na_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2635,7 +2689,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
 </div>
@@ -2643,7 +2697,10 @@ $24$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2704,26 +2761,26 @@ $46 \ \text{years}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' id='FORM-1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' id='FORM-1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2744,6 +2801,9 @@ $46 \ \text{years}$
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2895,6 +2955,9 @@ $7 \ \text {pm}$
 <div class='rag'>
 <p>rag_wf_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -2992,6 +3055,9 @@ $3 \ \text {cm}$
 </div>
 <div class='rag'>
 <p>rag_up_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3133,6 +3199,9 @@ TODOANSWER
 </div>
 <div class='rag'>
 <p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

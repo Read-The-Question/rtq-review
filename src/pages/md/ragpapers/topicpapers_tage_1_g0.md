@@ -1,208 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0"
 title: "TopicPaper - Age - 1 - G0"
-date: 2022-06-13 13:28:44
+date: 2022-06-13 20:23:53
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>FD79751E-764D-4640-AADD-196B4171B83D</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Abigail is three time as old as Ryan. In $6$ years time Abigail will be $42$.
-
-How old will Ryan will be in $2$ years?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Ryan's current age $= a$
-
-Abigail's current age $= 3a$
-
-As per the question,
-
-$
-\begin{aligned}
-3a + 6                      &= 42 \\\\
-3a                          &= 42 - 6 \\\\
-3a                          &= 36 \\\\
-a                           &= \dfrac {36} {3} \\\\
-a                           &= \dfrac {12 \times 3} {3} \\\\
-a                           &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
-a                           &= 12 \ \text{years} 
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Ryan's age after } 2 \text{ years }    &= 12 + 2 \\\\
-                                            &= 14 \ \text{years}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$14 \ \text{years}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='FD79751E-764D-4640-AADD-196B4171B83D' id='FORM-FD79751E-764D-4640-AADD-196B4171B83D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FD79751E-764D-4640-AADD-196B4171B83D'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
-</div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mark is $3$ years older than David. The sum of their ages is $89$.
-How old is Mark? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let David's age $= a$
-
-Mark's age $= a + 3$
-
-As per the question,
-
-$
-\begin{aligned}
-a + a + 3                &= 89 \\\\
-2 a + 3                  &= 89 \\\\
-2 a                      &= 89 - 3 \\\\
-2 a                      &= 86 \\\\
-a                        &= \dfrac {86} {2} \\\\
-a                        &= \dfrac {43 \times 2} {2} \\\\
-a                        &= \dfrac {43 \times \cancel {2}} {\cancel {2}} \\\\
-a                        &= 43 \ \text{years}
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Mark's age} &= a + 3 \\\\
-                  &= 43 + 3 \\\\
-                  &= 46 \ \text{years}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$46 \ \text{years}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' id='FORM-1F301F9C-E10E-4A62-A2CA-DA4E31288C6A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1F301F9C-E10E-4A62-A2CA-DA4E31288C6A'>Initial</p>
-</div>
-</div>
-</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
@@ -213,6 +14,9 @@ $46 \ \text{years}$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -306,6 +110,9 @@ $151 \ \text {years}$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -378,98 +185,6 @@ $28 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tage
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Mrs Jones is $24$ years older than her daughter. The sum of their ages is $70$ years. How old is Mrs Jones?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Let Mrs Jones age $=a$
-
-Her daughter's age $= a - 24$
-
-As per the question,
-
-$
-\begin{aligned}
-a + a - 24 &= 70 \\\\
-2 a        &= 70 + 24 \\\\
-2 a        &= 94 \\\\
-a          &= \dfrac {94} {2} \\\\
-a          &= \dfrac {47 \times 2} {2} \\\\
-a          &= \dfrac {47 \times \cancel {2}} {\cancel {2}} \\\\
-a          &= 47 \ \text {years}
-\end{aligned}
-$
-
-Mrs Jones age $= 47 \ \text {years}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$47 \ \text {years}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='03E012B1-67E0-4542-B1B2-6F0B3069FFA8' id='FORM-03E012B1-67E0-4542-B1B2-6F0B3069FFA8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-03E012B1-67E0-4542-B1B2-6F0B3069FFA8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
@@ -479,6 +194,9 @@ $47 \ \text {years}$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -571,6 +289,9 @@ $52$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -673,6 +394,9 @@ $33$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -774,6 +498,9 @@ $48$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -936,6 +663,9 @@ $Alan is $11 \ \text {years}$ old.$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1031,6 +761,9 @@ $
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1172,6 +905,9 @@ $9, \ 3, \ 16, \ 11$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1320,6 +1056,9 @@ $16$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1403,6 +1142,9 @@ $8 \ \text{years} \ 10 \ \text{months}$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1545,6 +1287,9 @@ $1 \text {st} \ \text {November} \ 1998$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1628,6 +1373,9 @@ $9 \ \text {years} \ 6 \ \text {months}$
 <div class='rag'>
 <p>rag_ak_g0</p>
 </div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
 <div class='topics'>
 <ul>
 <li>
@@ -1710,6 +1458,9 @@ $20 \ \text {years} \ 9 \ \text {months}$
 </div>
 <div class='rag'>
 <p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

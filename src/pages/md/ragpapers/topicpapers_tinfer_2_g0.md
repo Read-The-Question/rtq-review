@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-2-g0"
 title: "TopicPaper - Infer - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,12 +85,6 @@ $1537$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4A35FD9B-2922-4C65-97AC-DF5D8F4ECCB6'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-1"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 1"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>6EFFBA2C-28FA-44ED-B737-5420543F31C9</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,10 +52,6 @@ empty
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $273 \times 23$.
@@ -84,10 +86,6 @@ $6279$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $595 \div 17$.
@@ -120,10 +118,6 @@ $35$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down two multiples of $2001$.
@@ -150,10 +144,6 @@ $4002, 6003$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down two factors of $2001$.
@@ -180,10 +170,6 @@ $1, 3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the cost of $31 \ \text{litres}$ of petrol at $81 \text{p}$ per litre.
@@ -213,10 +199,6 @@ $2511 \text {p}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In a ‘third off’ sale a bike is sold for $\pounds 114$.
@@ -283,18 +265,18 @@ $342$
 
 <p class='review_status initial' id='REVIEW-STATUS-6EFFBA2C-28FA-44ED-B737-5420543F31C9'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F0074CAA-965E-4553-A0BB-0FDEAA3BBD71</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -338,10 +320,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In $25 \ \text{minutes}$, through what angle does the minute hand of a clock pass?
@@ -376,10 +354,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In the diagram $AB$ is a straight line.
@@ -418,10 +392,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A square has a perimeter of $96 \ \text{cm}$.
@@ -454,10 +424,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 Calculate the length of one side.
@@ -492,10 +458,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 Find the area of the square.
@@ -530,10 +492,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 Give a sketch, not to scale, of a rectangle, showing the length of its sides, which has the same area as the square.
@@ -568,10 +526,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 Find the perimeter of your rectangle.
@@ -609,18 +563,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>26E084D3-5D19-4BCB-95C0-6F0351EF2039</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -664,10 +618,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the value of $x$.
@@ -704,10 +654,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the number of boys whose favourite colour is:
@@ -740,10 +686,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 green
@@ -778,10 +720,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 yellow.
@@ -816,10 +754,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 not blue.
@@ -857,10 +791,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the total number of boys
@@ -895,18 +825,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D81D7F1F-FA5B-456B-B3CF-C7EB15257C75</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -954,10 +884,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write out the next two rows.
@@ -992,10 +918,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write out Row $9$.
@@ -1030,10 +952,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write out Row $49$.
@@ -1068,10 +986,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the row which ends $419$.
@@ -1106,10 +1020,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the general rule to describe each row if you call the row number $n$?
@@ -1144,12 +1054,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 </ul>

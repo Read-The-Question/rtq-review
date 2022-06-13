@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>28D1744E-7E31-44A3-B3C8-E75D18551420</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,18 +88,18 @@ $561$
 
 <p class='review_status initial' id='REVIEW-STATUS-28D1744E-7E31-44A3-B3C8-E75D18551420'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -163,18 +169,18 @@ $20580$
 
 <p class='review_status initial' id='REVIEW-STATUS-E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prr question'>
 <div class='uuid'>
 <p>A5886C63-792D-42D7-825B-AAD388FD247F</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -213,18 +219,18 @@ $21$
 </div>
 
 
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C13D92E3-895B-4965-8831-8AD95CB87317</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -293,18 +299,18 @@ $51$
 
 <p class='review_status initial' id='REVIEW-STATUS-C13D92E3-895B-4965-8831-8AD95CB87317'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -395,18 +401,18 @@ $100 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-2C5C8574-9C13-4432-A6BD-A69701D55857'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>09B08DAF-540F-4115-B9CB-3DA13E21C2F3</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -523,18 +529,18 @@ $\pounds 2.80$
 
 <p class='review_status initial' id='REVIEW-STATUS-09B08DAF-540F-4115-B9CB-3DA13E21C2F3'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A19BFD7F-4748-4122-BDBF-42DCC2932E75</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -606,18 +612,18 @@ $65$
 
 <p class='review_status initial' id='REVIEW-STATUS-A19BFD7F-4748-4122-BDBF-42DCC2932E75'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4DACC7C4-808D-4D5B-9F08-E7D2914E09BD</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -751,18 +757,18 @@ Total CDs = 7 + 3
 </div>
 
 
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>1726FC9C-67EA-46CA-9AE2-A3CB7D96F149</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -869,18 +875,18 @@ $15 \ \text{km/hour}$
 
 <p class='review_status initial' id='REVIEW-STATUS-1726FC9C-67EA-46CA-9AE2-A3CB7D96F149'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>CD686836-E4B0-4D8F-AB0D-439432C61B1B</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -964,18 +970,18 @@ $90$
 
 <p class='review_status initial' id='REVIEW-STATUS-CD686836-E4B0-4D8F-AB0D-439432C61B1B'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3EB032BA-F853-47A6-B7BC-89CC6505AF43</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1043,18 +1049,18 @@ $\dfrac {13} {20}$
 
 <p class='review_status initial' id='REVIEW-STATUS-3EB032BA-F853-47A6-B7BC-89CC6505AF43'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>77BCE0A2-246B-469B-9EDC-14F266170B60</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1154,18 +1160,18 @@ $27$
 </div>
 
 
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5453CF7D-DE10-4877-8C83-1EC92DD3939E</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1240,18 +1246,18 @@ $600 \ \text{m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-5453CF7D-DE10-4877-8C83-1EC92DD3939E'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3E516FDA-B3CC-4682-8A7D-BA9751F541AB</p>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1324,18 +1330,18 @@ $\dfrac {1} {9}$
 
 <p class='review_status initial' id='REVIEW-STATUS-3E516FDA-B3CC-4682-8A7D-BA9751F541AB'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
 <p>rag_nj_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C116D3CA-84D9-4139-BB89-8F5FF118AE81</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1421,18 +1427,18 @@ $135$
 
 <p class='review_status initial' id='REVIEW-STATUS-C116D3CA-84D9-4139-BB89-8F5FF118AE81'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E41C3B84-B13C-4220-B083-2712C0B5265C</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1524,18 +1530,18 @@ $20 \ \text{coins}$
 
 <p class='review_status initial' id='REVIEW-STATUS-E41C3B84-B13C-4220-B083-2712C0B5265C'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1611,18 +1617,18 @@ $\dfrac{3}{4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-51B79769-1A4D-42B7-9698-6C78B896A06D'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A467E5ED-C83A-436F-95CE-C93C3DF23377</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1727,18 +1733,18 @@ $10$
 
 <p class='review_status initial' id='REVIEW-STATUS-A467E5ED-C83A-436F-95CE-C93C3DF23377'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>ED934AB6-A9F9-4C96-9B8A-9A4E1CBE92CC</p>
+</div>
 <div class='papername'>
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>ED934AB6-A9F9-4C96-9B8A-9A4E1CBE92CC</p>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1820,18 +1826,18 @@ $34 \ \text{cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-ED934AB6-A9F9-4C96-9B8A-9A4E1CBE92CC'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3477EB4B-8C2A-4748-BA06-47119B363368</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1982,12 +1988,6 @@ $\pounds 400$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-3477EB4B-8C2A-4748-BA06-47119B363368'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

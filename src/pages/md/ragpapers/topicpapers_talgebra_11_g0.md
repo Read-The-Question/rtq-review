@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-11-g0"
 title: "TopicPaper - Algebra - 11 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>998DABA8-00BE-4F0A-8D36-19CCA9E7D239</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -93,18 +99,18 @@ $53$
 
 <p class='review_status initial' id='REVIEW-STATUS-998DABA8-00BE-4F0A-8D36-19CCA9E7D239'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7C7B09CA-32E5-42A1-9057-06F6895DD676</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -142,10 +148,6 @@ biscuits and one cup of tea and is charged $\pounds 6.50$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much would it cost for one pack of sandwiches, one biscuit and one cup of tea?
@@ -199,10 +201,6 @@ $\pounds 4.10$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much is a pack of sandwiches and a biscuit?
@@ -243,10 +241,6 @@ $\pounds 2.40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much is a cup of tea?
@@ -319,18 +313,18 @@ $\pounds 1.70$
 
 <p class='review_status initial' id='REVIEW-STATUS-7C7B09CA-32E5-42A1-9057-06F6895DD676'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>072C52DE-5BD3-4299-845A-4CA76E632B3F</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -407,18 +401,18 @@ $6c - 3d$
 
 <p class='review_status initial' id='REVIEW-STATUS-072C52DE-5BD3-4299-845A-4CA76E632B3F'>Initial</p>
 </div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C2CBB803-CAE6-49B9-ADCD-2636CA8618C1</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -495,18 +489,18 @@ $3d + 9e$
 
 <p class='review_status initial' id='REVIEW-STATUS-C2CBB803-CAE6-49B9-ADCD-2636CA8618C1'>Initial</p>
 </div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>83315ED9-DB65-48DC-A17E-D2511B4529A7</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -618,12 +612,6 @@ $\pounds 7,\pounds 1,\pounds 1$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-83315ED9-DB65-48DC-A17E-D2511B4529A7'>Initial</p>
-</div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

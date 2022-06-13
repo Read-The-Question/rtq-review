@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-oldpr"
 title: "TopicPaper - Angle - 1 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prns question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,18 +88,18 @@ $300 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -136,10 +142,6 @@ Calculate the missing angles $p, q$ and $r$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 %empty%
@@ -175,10 +177,6 @@ $55 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 %empty%
@@ -214,10 +212,6 @@ $47 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 %empty%
@@ -285,18 +279,18 @@ $16 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-1560E53F-1121-4690-82F4-852BE2494204'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
+</div>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -396,18 +390,18 @@ $
 
 <p class='review_status initial' id='REVIEW-STATUS-6419C0CA-625C-4E98-89C3-02A997864D0B'>Initial</p>
 </div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -488,12 +482,6 @@ $35 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E6029E08-D0C0-42FA-85EF-4F7D6CD587FD'>Initial</p>
-</div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
 </div>
 </div>
 </li>

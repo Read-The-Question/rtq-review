@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g0"
 title: "TopicPaper - Detailedaddition - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D544E71D-BDBB-49D5-990C-93B3200B5210</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -74,18 +80,18 @@ $5152$
 
 <p class='review_status initial' id='REVIEW-STATUS-D544E71D-BDBB-49D5-990C-93B3200B5210'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -158,18 +164,18 @@ $6.919$
 
 <p class='review_status initial' id='REVIEW-STATUS-8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -200,10 +206,6 @@ Calculate:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $356 + 63$
@@ -235,10 +237,6 @@ $419$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $867-251$
@@ -270,10 +268,6 @@ $616$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $875.25 + 2.6$
@@ -308,10 +302,6 @@ $877.8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $691.6 - 84.3$
@@ -376,18 +366,18 @@ $607.3$
 
 <p class='review_status initial' id='REVIEW-STATUS-F39E624B-7AB1-48EE-82CC-85EAC191BF13'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -463,12 +453,6 @@ $624$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-999B9BF0-DF01-42EF-9E23-D990A9AF9680'>Initial</p>
-</div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
 </div>
 </div>
 </li>

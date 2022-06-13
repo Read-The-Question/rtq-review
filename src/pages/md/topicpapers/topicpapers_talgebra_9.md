@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-9"
 title: "TopicPaper - Algebra - 9"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -18,6 +18,12 @@ date: 2022-06-12 09:43:17
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DCA17542-5313-4830-8E8C-79DE88C98DEF</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -120,18 +126,18 @@ $10, 11, 9$
 
 <p class='review_status initial' id='REVIEW-STATUS-DCA17542-5313-4830-8E8C-79DE88C98DEF'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4FD3FA7F-457F-4731-B4AE-15DCF80081B3</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -220,18 +226,18 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 
 <p class='review_status initial' id='REVIEW-STATUS-4FD3FA7F-457F-4731-B4AE-15DCF80081B3'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DE21514C-D0D8-4AC5-AA51-07E6EBC58C80</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -310,18 +316,18 @@ $29, 58$
 
 <p class='review_status initial' id='REVIEW-STATUS-DE21514C-D0D8-4AC5-AA51-07E6EBC58C80'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6AE9FEC7-9C45-4A0D-B701-A93F8EB055D9</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -362,10 +368,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5x - 8 = 27$
@@ -400,10 +402,6 @@ $7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5(2x + 4) = 50$
@@ -441,10 +439,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $12x = 5x + 28$
@@ -479,10 +473,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {5x} {4} + 3 = 13$
@@ -519,18 +509,18 @@ $8$
 </li>
 </ul>
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>312B54F7-8745-4C65-B52D-35F6198E8ACD</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -625,18 +615,18 @@ $\pounds 2.65$ and $\pounds 2.25$
 
 <p class='review_status initial' id='REVIEW-STATUS-312B54F7-8745-4C65-B52D-35F6198E8ACD'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>5AF5AFC7-6421-43C4-B38A-CD7C667BAE96</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -715,18 +705,18 @@ $20 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-5AF5AFC7-6421-43C4-B38A-CD7C667BAE96'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C2271CA0-2CDF-403C-907E-FD4591945D01</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -865,18 +855,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EF38AE5F-0E2D-457D-BC03-05E80C5371F1</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -907,10 +897,6 @@ $39$ members of Alwick Youth Club went on an outing to a leisure centre. They we
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many minibuses were needed?
@@ -948,10 +934,6 @@ $3$ minibuses
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many spare seats were there?
@@ -983,10 +965,6 @@ $6$ seats
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The transport costs were $\pounds 90$ altogether. They also had to pay $\pounds 150$ for the group to use the leisure centre. Helen collected $\pounds 6.50$ from each passenger to pay for this.
@@ -1063,18 +1041,18 @@ $\pounds 13.5$
 
 <p class='review_status initial' id='REVIEW-STATUS-EF38AE5F-0E2D-457D-BC03-05E80C5371F1'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1150,18 +1128,18 @@ $15$ coins of $10$p and $15$ coins of $50$p
 
 <p class='review_status initial' id='REVIEW-STATUS-3BADA08D-7FEF-4ADD-98DC-7E1F438D14C6'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D5FCF383-D5AD-496F-B028-D70D36DF39D1</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1204,18 +1182,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>469A9C99-205F-4896-A51C-BA09D251CB0E</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1293,18 +1271,18 @@ $21$
 
 <p class='review_status initial' id='REVIEW-STATUS-469A9C99-205F-4896-A51C-BA09D251CB0E'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1335,10 +1313,6 @@ To make eight $200 \ \text{ml}$ glasses of squash, Yasmin needs $320 \ \text{ml}
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much cordial does Yasmin need to make three glasses of squash?
@@ -1386,10 +1360,6 @@ $120 \ \text {ml}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much water does Yasmin need to make ten glasses of squash?
@@ -1465,18 +1435,18 @@ $1600 \ \text {ml}$
 
 <p class='review_status initial' id='REVIEW-STATUS-99F02CA6-5ABE-4985-B7A8-1EAD2F4E752F'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6905E2DB-5FDA-4DBB-8B72-B34FBE60FDBB</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1518,18 +1488,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>ED9631E4-D555-477C-8676-BE0BB358CCA1</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1564,18 +1534,18 @@ How many magazines does she buy?
 </div>
 
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A61865AA-6630-4CE9-83F3-826FE700031F</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1639,18 +1609,18 @@ $2, 3, 11$
 
 <p class='review_status initial' id='REVIEW-STATUS-A61865AA-6630-4CE9-83F3-826FE700031F'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6DD07370-84B5-4E20-889C-79CF42BC0EA0</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1740,18 +1710,18 @@ $54$
 
 <p class='review_status initial' id='REVIEW-STATUS-6DD07370-84B5-4E20-889C-79CF42BC0EA0'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B7B62169-B2F6-4857-AA66-72FC82E90A63</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1791,18 +1761,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>02F2B606-7110-4F90-BC98-D3ED752A91BC</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1835,10 +1805,6 @@ $\dfrac {2} {3}, \dfrac {10} {15},  \dfrac {60} {90}, \dfrac {x} {24}, \dfrac {5
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the value of $x$?
@@ -1874,10 +1840,6 @@ $16$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the value of $y$?
@@ -1943,18 +1905,18 @@ $75$
 
 <p class='review_status initial' id='REVIEW-STATUS-02F2B606-7110-4F90-BC98-D3ED752A91BC'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AF17E277-3722-4E4E-A504-06257C3D772B</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1985,10 +1947,6 @@ I think of a number. Multiply it by $6$ and subtract $7$ to get an answer.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If I start with $12$, what is my answer?
@@ -2019,10 +1977,6 @@ $65$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If my answer is $41$, what number did I start with?
@@ -2091,18 +2045,18 @@ $8$
 
 <p class='review_status initial' id='REVIEW-STATUS-AF17E277-3722-4E4E-A504-06257C3D772B'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2143,10 +2097,6 @@ What does she give as the answer to:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $32 - 8$
@@ -2180,10 +2130,6 @@ $40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $96 \times 8$
@@ -2219,10 +2165,6 @@ $12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 She works out $a \div 8$ and gives the answer as $72$ .What is the value of $a$?
@@ -2259,10 +2201,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 She works out $c \div c$ as $144$. What is the value of $c$?
@@ -2299,10 +2237,6 @@ $12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If she works out $b \times 4 + 4$ she gets $4$.
@@ -2370,18 +2304,18 @@ $32$
 
 <p class='review_status initial' id='REVIEW-STATUS-8C3FB2D8-E8CD-47F4-96A7-00A5872C6D30'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:1:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2461,18 +2395,18 @@ $24$
 
 <p class='review_status initial' id='REVIEW-STATUS-53399A4A-DF80-4EFD-BEC4-3F8DC5B49C23'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>19C76E65-DBF3-4C5E-81F2-D769B5AC9A0B</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2505,10 +2439,6 @@ Find the values of:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $a + b + c$
@@ -2541,10 +2471,6 @@ $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $a - b - c$
@@ -2577,10 +2503,6 @@ $4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $abc$
@@ -2612,10 +2534,6 @@ $-90$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $a(b - c)$
@@ -2648,10 +2566,6 @@ $33$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $a^2 + b^2 + c^2$
@@ -2713,18 +2627,18 @@ $70$
 
 <p class='review_status initial' id='REVIEW-STATUS-19C76E65-DBF3-4C5E-81F2-D769B5AC9A0B'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7A95ED96-CA1A-406F-8BFB-49F2F5F3F979</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2755,10 +2669,6 @@ Find the value of $x$ in these equations:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2x = 62$
@@ -2791,10 +2701,6 @@ $31$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3x + 1 = 19$
@@ -2829,10 +2735,6 @@ $6$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2(x + 6) = 31$
@@ -2867,10 +2769,6 @@ $\dfrac {-1} {2} \ \text{or} \-0.5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2x + 7 = 4x - 15$
@@ -2907,10 +2805,6 @@ $11$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {3} {x} = 18$
@@ -2973,18 +2867,18 @@ $\dfrac {1} {6}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7A95ED96-CA1A-406F-8BFB-49F2F5F3F979'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3015,10 +2909,6 @@ Every month John, Peter and Helen received a sum of money which was divided so t
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What sum of money did __Peter__ receive in March if Helen received $\pounds 20$?
@@ -3051,10 +2941,6 @@ $\pounds 40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What sum of money did they receive __altogether__ in April if Peter received $\pounds 60$?
@@ -3101,10 +2987,6 @@ $\pounds 96$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If they received $\pounds 160$ altogether in May, how much did __John__ receive that month?
@@ -3176,18 +3058,18 @@ $\pounds 10$
 
 <p class='review_status initial' id='REVIEW-STATUS-8E7D2010-D1C7-4CA1-9BFC-5ABD5D17D678'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3266,18 +3148,18 @@ $60$
 
 <p class='review_status initial' id='REVIEW-STATUS-EDB8D422-9368-4C8B-8C79-7E41BBCC1FC9'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3320,10 +3202,6 @@ $
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $3 * 1$.
@@ -3357,10 +3235,6 @@ $10$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $3 * 2 + 1 * 0$.
@@ -3394,10 +3268,6 @@ $14$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $a * 8 = 208$. Work out the value of $a$.
@@ -3435,10 +3305,6 @@ $12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $b * 2 = 4b$. Work out the value of $b$.
@@ -3505,18 +3371,18 @@ $2$
 
 <p class='review_status initial' id='REVIEW-STATUS-A52FB9EF-7FFF-4C8F-8320-CBD6CA19AB7E'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D1ACF183-0702-4413-B707-24443D6D16E4</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3605,18 +3471,18 @@ $36$
 
 <p class='review_status initial' id='REVIEW-STATUS-D1ACF183-0702-4413-B707-24443D6D16E4'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>67963BA0-C06F-4161-8F38-66A34F3EC3EB</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3656,18 +3522,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>62DF8BD0-738E-47AD-992F-53FE32B01AFB</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3708,10 +3574,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much will Jessica pay to row the boat for $2$ hours?
@@ -3746,10 +3608,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If Jessica pays $\pounds 15.50$ for how long has she hired the boat?
@@ -3784,18 +3642,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>10A23251-5F49-4F92-9764-BB9FD81CC27A</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3837,10 +3695,6 @@ $
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $2 \circ 4$
@@ -3872,10 +3726,6 @@ $20$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $\dfrac {1} {2} \circ  \dfrac {1} {2}$         
@@ -3912,10 +3762,6 @@ $\dfrac {1} {2}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find a positive value of $c$ that works in the following:
@@ -3986,18 +3832,18 @@ $5$
 
 <p class='review_status initial' id='REVIEW-STATUS-10A23251-5F49-4F92-9764-BB9FD81CC27A'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D50514BA-0CC0-44FE-B460-B94EC34292B3</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4037,18 +3883,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>54EA2842-2214-4801-9831-C0F64838FEBF</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4092,10 +3938,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
  5 □ 9 
@@ -4130,10 +3972,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 2 □ 3
@@ -4168,10 +4006,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 33 □ - 6
@@ -4206,18 +4040,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B214301F-AB63-411F-B2DA-EDFC5B6BF4E0</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4260,18 +4094,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4339,18 +4173,18 @@ $21$
 
 <p class='review_status initial' id='REVIEW-STATUS-C207B486-E1C2-4DBB-91FE-CCBBCB8F1F7A'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C5121F51-D6F0-490C-895D-0EA1AF48C1A4</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4395,18 +4229,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FEAB2ACE-3E49-46F1-A250-9631A7EA7469</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4490,18 +4324,18 @@ $24 \ \text{Balloons}$
 
 <p class='review_status initial' id='REVIEW-STATUS-FEAB2ACE-3E49-46F1-A250-9631A7EA7469'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:36</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3E12E5A1-1C9D-490A-A55D-17256F88FBF4</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4577,18 +4411,18 @@ $5$
 
 <p class='review_status initial' id='REVIEW-STATUS-3E12E5A1-1C9D-490A-A55D-17256F88FBF4'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:37</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BAAC6E7A-0541-4A20-B7D2-0C364A8C1403</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4621,10 +4455,6 @@ Emily said,'If I multiply my number by 4 and then subtract 5, I get the same ans
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Faye called Emily's number x, showing your working clearly.
@@ -4660,10 +4490,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find Gemma's number, showing your working clearly.
@@ -4734,18 +4560,18 @@ $6$
 
 <p class='review_status initial' id='REVIEW-STATUS-BAAC6E7A-0541-4A20-B7D2-0C364A8C1403'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E94D101F-0E1E-4F40-BE84-649D7E772C37</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4820,18 +4646,18 @@ $16$
 
 <p class='review_status initial' id='REVIEW-STATUS-E94D101F-0E1E-4F40-BE84-649D7E772C37'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4898,12 +4724,6 @@ $570$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4022DEAD-2FAF-4E64-BBE4-A1D129E19FAE'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

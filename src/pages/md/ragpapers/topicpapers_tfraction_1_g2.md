@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g2"
 title: "TopicPaper - Fraction - 1 - G2"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ tfraction
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $\dfrac{2}{5} + \dfrac{3}{8}$
@@ -74,10 +76,6 @@ $\dfrac{31}{40}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Simplify $\dfrac{12}{60}$
@@ -139,18 +137,18 @@ $\dfrac{1} {5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>61B03D89-9853-44BC-9E53-E103CF15A454</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -222,18 +220,18 @@ $1 \dfrac {1} {2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-61B03D89-9853-44BC-9E53-E103CF15A454'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>03CC1319-A88C-42CD-88A6-FC0FF7A59D9F</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -302,18 +300,18 @@ $\dfrac {1} {2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-03CC1319-A88C-42CD-88A6-FC0FF7A59D9F'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>DF2452BE-A907-4F55-9C53-1A472B3B035D</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -390,18 +388,18 @@ $\dfrac {4} {5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DF2452BE-A907-4F55-9C53-1A472B3B035D'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -474,18 +472,18 @@ $\dfrac {1} {2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-2F6CD787-CCF1-4DAA-B031-7CDAB026EAC3'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E</p>
+</div>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -516,10 +514,6 @@ You are given two numbers $0.35$ and $\dfrac{5}{8}$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Convert $0.35$ into a fraction and simplify fully.
@@ -552,10 +546,6 @@ $\dfrac {7} {20}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the sum of these two numbers, write the answer as a fraction in its simplest form.
@@ -589,10 +579,6 @@ $\dfrac {39} {40}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the product of these two numbers, write the answer as a fraction in its simplest form.
@@ -657,18 +643,18 @@ $\dfrac {7} {32}$
 
 <p class='review_status initial' id='REVIEW-STATUS-65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E'>Initial</p>
 </div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>808FAEC9-4B00-478E-8303-8F93C22B2CF3</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -738,18 +724,18 @@ $128$
 
 <p class='review_status initial' id='REVIEW-STATUS-808FAEC9-4B00-478E-8303-8F93C22B2CF3'>Initial</p>
 </div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>DE45D210-6CFF-44A8-8BF2-A7AB019EE549</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,18 +812,18 @@ $\dfrac{1}{10}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DE45D210-6CFF-44A8-8BF2-A7AB019EE549'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3F78446A-189F-4A34-981D-45191F1D3768</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -911,18 +897,18 @@ $
 
 <p class='review_status initial' id='REVIEW-STATUS-3F78446A-189F-4A34-981D-45191F1D3768'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>72C59585-EC33-41D5-9631-E7F5A7E0158B</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1000,18 +986,18 @@ $4 \dfrac{47}{60}$
 
 <p class='review_status initial' id='REVIEW-STATUS-72C59585-EC33-41D5-9631-E7F5A7E0158B'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1EEEA032-210A-436A-8BB3-E73A8E6AAA51</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1086,18 +1072,18 @@ $\dfrac{1}{10}$
 
 <p class='review_status initial' id='REVIEW-STATUS-1EEEA032-210A-436A-8BB3-E73A8E6AAA51'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1172,18 +1158,18 @@ $\dfrac {1} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A7ECB8D6-7740-4FFC-BE48-9BCA9E7FCA4C'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1F02583C-62DE-41D0-94CE-10909D755CAE</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1261,18 +1247,18 @@ $4 \dfrac{47}{60}$
 
 <p class='review_status initial' id='REVIEW-STATUS-1F02583C-62DE-41D0-94CE-10909D755CAE'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>FA07A720-D1E4-4527-953B-6F2BE26C4F2E</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1342,18 +1328,18 @@ $14$
 
 <p class='review_status initial' id='REVIEW-STATUS-FA07A720-D1E4-4527-953B-6F2BE26C4F2E'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>1C823272-E371-4E16-B0B1-DCFDB64A4ADF</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1423,18 +1409,18 @@ $\dfrac {13} {24}$
 
 <p class='review_status initial' id='REVIEW-STATUS-1C823272-E371-4E16-B0B1-DCFDB64A4ADF'>Initial</p>
 </div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>62EBBCE2-9848-414A-BC40-2347F24A0383</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1503,18 +1489,18 @@ $14$
 
 <p class='review_status initial' id='REVIEW-STATUS-62EBBCE2-9848-414A-BC40-2347F24A0383'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>C625F0D2-40A1-40A7-8F67-17E21612BD81</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1581,18 +1567,18 @@ $\dfrac {4}{5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-C625F0D2-40A1-40A7-8F67-17E21612BD81'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:38</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>744C2018-EF2B-4DE6-BB19-3D288E88E4DE</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1659,18 +1645,18 @@ $\dfrac {4}{5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-744C2018-EF2B-4DE6-BB19-3D288E88E4DE'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:38</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>49429AE6-0143-4CCB-BB81-78DE7CA4E8F7</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1737,18 +1723,18 @@ $\dfrac {2}{3}$
 
 <p class='review_status initial' id='REVIEW-STATUS-49429AE6-0143-4CCB-BB81-78DE7CA4E8F7'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:40</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>55815068-841C-40AD-BCEE-2DE99DEED918</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:38</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1815,18 +1801,18 @@ $\dfrac {4}{5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-55815068-841C-40AD-BCEE-2DE99DEED918'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:38</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>D4559394-AFCF-4BDC-8C79-DDD8C89D76E3</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1888,12 +1874,6 @@ $\dfrac {4} {6}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-D4559394-AFCF-4BDC-8C79-DDD8C89D76E3'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
 </div>
 </div>
 </li>

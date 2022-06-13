@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2017-specimen-paper-2"
 title: "Kings College School - 11 Plus - Maths - 2017 - Specimen Paper 2"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BE32CC21-352D-438A-9173-64247C6FF5B8</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,18 +88,18 @@ $1102$
 
 <p class='review_status initial' id='REVIEW-STATUS-BE32CC21-352D-438A-9173-64247C6FF5B8'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>3BAA233F-DC82-4B0B-A8B2-9C8066BE8878</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -160,18 +166,18 @@ $6362$
 
 <p class='review_status initial' id='REVIEW-STATUS-3BAA233F-DC82-4B0B-A8B2-9C8066BE8878'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C03B2F52-178B-432A-9547-FE19416A6C67</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -211,18 +217,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>159DEF67-72A1-41FE-BBD4-431F17B1BE4E</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -291,18 +297,18 @@ $3.284$m
 
 <p class='review_status initial' id='REVIEW-STATUS-159DEF67-72A1-41FE-BBD4-431F17B1BE4E'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>086D94CB-886E-4ACA-8DCD-B35E5C030E87</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -337,18 +343,18 @@ Hundredths
 </div>
 
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -419,18 +425,18 @@ $55800 \ \text {seconds}$
 
 <p class='review_status initial' id='REVIEW-STATUS-976DAAE1-0F6C-4CE7-97EA-CBFED0CDC713'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5A332CAD-49BF-495D-A0D3-65B70B2A784D</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -496,18 +502,18 @@ $15$
 
 <p class='review_status initial' id='REVIEW-STATUS-5A332CAD-49BF-495D-A0D3-65B70B2A784D'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>395EE199-8B60-4431-99FE-3444A40B71F6</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -575,18 +581,18 @@ $1000$
 
 <p class='review_status initial' id='REVIEW-STATUS-395EE199-8B60-4431-99FE-3444A40B71F6'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
+</div>
 <div class='papername'>
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -669,18 +675,18 @@ $\dfrac {20} {32}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DB0B19ED-782A-4134-B0D4-8FB4BE272409'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>27A82972-44AA-4219-A026-A2BF4715AB49</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -745,18 +751,18 @@ $550000$
 
 <p class='review_status initial' id='REVIEW-STATUS-27A82972-44AA-4219-A026-A2BF4715AB49'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>83337D0D-9540-4245-B775-A8E101DB982C</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,18 +832,18 @@ $84$
 
 <p class='review_status initial' id='REVIEW-STATUS-83337D0D-9540-4245-B775-A8E101DB982C'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FD93ED24-BEF8-4802-AAED-9BC436001678</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -900,18 +906,18 @@ $2, 4, 8$
 
 <p class='review_status initial' id='REVIEW-STATUS-FD93ED24-BEF8-4802-AAED-9BC436001678'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>20E85746-0B74-4085-B598-68F104A85A9D</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -983,18 +989,18 @@ $0.35$
 
 <p class='review_status initial' id='REVIEW-STATUS-20E85746-0B74-4085-B598-68F104A85A9D'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6EA0765F-F469-4E4F-B913-8FD6A3AD3900</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1037,18 +1043,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B92A2396-20FB-4D73-84F6-53893C6F4B4E</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1117,18 +1123,18 @@ $\pounds 212$
 
 <p class='review_status initial' id='REVIEW-STATUS-B92A2396-20FB-4D73-84F6-53893C6F4B4E'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1196,18 +1202,18 @@ $61 \degree \text{C}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A89896D7-6037-4DC0-B913-16736539B99A'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>87F66A43-5223-4E50-9A24-6CC4F1EDA93A</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1274,18 +1280,18 @@ $13{:}13$
 
 <p class='review_status initial' id='REVIEW-STATUS-87F66A43-5223-4E50-9A24-6CC4F1EDA93A'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5E782C60-2380-4CB3-A14F-DE83C631BF11</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1348,18 +1354,18 @@ $10236$
 
 <p class='review_status initial' id='REVIEW-STATUS-5E782C60-2380-4CB3-A14F-DE83C631BF11'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prr question'>
 <div class='uuid'>
 <p>9399728B-F412-4B6A-801C-32CC4953FD6F</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1396,18 +1402,18 @@ $\text {A coin toss has a probabiltiy of 1/2, because there is equal chance of t
 </div>
 
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D469E33D-163C-4AA1-96F5-B75B51AB19D3</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1447,12 +1453,6 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 </ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>75CD6A49-4737-4E11-80CD-36DE5CEA30CC</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,10 +65,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $38 + 624 + 170$
@@ -95,10 +97,6 @@ $832$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $361 - 89$
@@ -128,10 +126,6 @@ $272$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\pounds17.23 + \pounds6.58 + 75\text{p}$
@@ -166,10 +160,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $279 \times 6$
@@ -201,10 +191,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $85 \div 5$
@@ -239,18 +225,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FBA7D546-085C-4838-8C37-245F030BFC44</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -319,18 +305,18 @@ $26$
 
 <p class='review_status initial' id='REVIEW-STATUS-FBA7D546-085C-4838-8C37-245F030BFC44'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>42297C05-D0A4-48DE-A8F4-3791DDC7D537</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -395,18 +381,18 @@ $\pounds 3.51$
 
 <p class='review_status initial' id='REVIEW-STATUS-42297C05-D0A4-48DE-A8F4-3791DDC7D537'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E6F4D9A9-A53C-459D-9B81-794E066BC16F</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -455,18 +441,18 @@ TODOANSWER
 </div>
 
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>DAB0F53F-E4FB-494D-9B78-9232926F4778</p>
+</div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>DAB0F53F-E4FB-494D-9B78-9232926F4778</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -497,10 +483,6 @@ torder
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Arrange all these numbers in order of size, writing the smallest first. 
@@ -527,10 +509,6 @@ $425, 452, 504, 524, 540$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
@@ -553,10 +531,6 @@ Using any of the digits $4,\ 5$ and $2$ only once in each answer, write down
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 an even $2$ digit number
@@ -581,10 +555,6 @@ $42$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 the largest $3$ digit number possible
@@ -609,10 +579,6 @@ $542$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 the smallest $2$ digit number possible
@@ -671,18 +637,18 @@ $24$
 
 <p class='review_status initial' id='REVIEW-STATUS-DAB0F53F-E4FB-494D-9B78-9232926F4778'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>261BA76F-2207-4F4C-B0AD-AD5D6E87937B</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -723,10 +689,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate
@@ -759,10 +721,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 $15 \times 6$
@@ -797,10 +755,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 $15 \times 60$
@@ -835,10 +789,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 $15 \times 1000$
@@ -876,10 +826,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is $350 \div 10$
@@ -914,10 +860,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A length of ribbon is $240\ \text{cm}$ long. It is cut into $6$ pieces of equal length. What is the length of each piece?
@@ -952,18 +894,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A8E86124-27D8-4CD2-9092-38E26EDAFF3C</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1038,18 +980,18 @@ $6$
 
 <p class='review_status initial' id='REVIEW-STATUS-A8E86124-27D8-4CD2-9092-38E26EDAFF3C'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5DC95291-33D3-474E-ACDD-E60270873E53</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1083,10 +1025,6 @@ tnoexplanation
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write in figures the number $\text{‘sixteen thousand, seven hundred and one’}$.
@@ -1111,10 +1049,6 @@ $16701$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write in words the number $8014$.
@@ -1139,10 +1073,6 @@ $\text {Eight thousand and fourteen}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the number which is $100$ more than $3724$.
@@ -1172,10 +1102,6 @@ $3824$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the number which is $1$ less than $1000$.
@@ -1235,18 +1161,18 @@ $999$
 
 <p class='review_status initial' id='REVIEW-STATUS-5DC95291-33D3-474E-ACDD-E60270873E53'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>31862070-31F4-4769-871C-B8B78E60185D</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1277,10 +1203,6 @@ In the next two questions write a number in the box which will make the statemen
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \times \Box = 36$
@@ -1305,10 +1227,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\Box - 13 = 32$
@@ -1373,18 +1291,18 @@ $45$
 
 <p class='review_status initial' id='REVIEW-STATUS-31862070-31F4-4769-871C-B8B78E60185D'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2480908A-E88D-4D83-B17C-0EAB918EC310</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1428,10 +1346,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Look at this diagram
@@ -1467,10 +1381,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 What fraction is shaded?
@@ -1505,10 +1415,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 What fraction is unshaded?
@@ -1546,10 +1452,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Shade $\dfrac{2} {3}$ of this diagram
@@ -1587,10 +1489,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In an orchestra of $24$ children, $\dfrac{3} {4}$ of them are girls. How many are boys?
@@ -1625,10 +1523,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $50\%$ of the trees in a wood are fir trees. If there are $450$ trees in the wood, how many fir trees are there?
@@ -1663,18 +1557,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>57FFFE0C-287E-45D4-A46C-775B7889A0DC</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1724,10 +1618,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the names of the four shapes in this diagram.
@@ -1775,10 +1665,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Draw all the lines of symmetry on the two diagrams below.
@@ -1811,10 +1697,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -1850,10 +1732,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -1892,10 +1770,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Complete the shaded shape on the diagram below to make the dotted line a line of symmetry.
@@ -1933,18 +1807,18 @@ TODOANSWER
 </li>
 </ul>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
+</div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1975,10 +1849,6 @@ tangle
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 This diagram shows two angles A and B. One is acute and one is obtuse. 
@@ -2016,10 +1886,6 @@ The obtuse angle is $A$.
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many degrees are there in a right angle?
@@ -2074,18 +1940,18 @@ $90 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-3852614B-1AE4-4DBC-B778-EAC0383CA0FA'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CA23C5E2-91FF-48FD-B71E-7EF3D48082C5</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2132,18 +1998,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>001E0882-A1BE-4150-98B8-37FADECCA6BB</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2186,10 +2052,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If I buy a national Lottery ticket today I will win the jackpot prize with it.
@@ -2224,10 +2086,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I will know the correct answer to the sum $2+ 2 =$ 
@@ -2262,10 +2120,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The next baby born at the Leicester Royal Infirmary is a boy.
@@ -2300,18 +2154,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>774D2368-7EAC-46C3-A004-B54081BA605E</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2358,10 +2212,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the temperature at midnight?
@@ -2396,10 +2246,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What was the rise in temperature between $6\ \text{am}$ and noon?
@@ -2434,10 +2280,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Show the time $1800\ \text{hours}$ in this clock face.
@@ -2475,18 +2317,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A46C6B3B-4687-4639-A219-3C51136C0FB1</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2525,10 +2367,6 @@ $12.10\ \text{BBC News; Weather}$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 For how many $\text{minutes}$ does the programme Smart Guy last?
@@ -2558,10 +2396,6 @@ $25 \ \text {minutes}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Carla wants to record *Live* and *Kicking*. She thinks that the $180\ \text{minute}$ tape she has will be long enough. How many spare minutes will be left on the tape after recording *Live* and *Kicking*.
@@ -2628,18 +2462,18 @@ $5 \ \text{minutes}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A46C6B3B-4687-4639-A219-3C51136C0FB1'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CACA0E9B-E2D2-4542-A962-33B957140ABB</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2680,10 +2514,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Measure the dimensions of this rectangle giving your answers to the nearest whole centimetre.
@@ -2719,10 +2549,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 length _____________cm
@@ -2757,10 +2583,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 breadth ____________cm
@@ -2798,10 +2620,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Using these answers, calculate the perimeter of the rectangle above.
@@ -2836,10 +2654,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the area of the rectangle above. Write down the units of your answer.
@@ -2874,18 +2688,18 @@ TODOANSWER
 </li>
 </ul>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>8D5C795C-FD48-44B6-9BD6-B5364291AD5B</p>
+</div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>8D5C795C-FD48-44B6-9BD6-B5364291AD5B</p>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2916,10 +2730,6 @@ Write down the next two numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7, 14, 21, 28,$ _______, _______.
@@ -2972,10 +2782,6 @@ $35, 42$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3, 6, 12, 24,$ _______, _______.
@@ -3028,10 +2834,6 @@ $48, 96$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $50, 41, 33, 26,$ _______, _______.
@@ -3112,18 +2914,18 @@ $20, 15$
 
 <p class='review_status initial' id='REVIEW-STATUS-8D5C795C-FD48-44B6-9BD6-B5364291AD5B'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
+</div>
 <div class='papername'>
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
 <p>rag_na_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3160,10 +2962,6 @@ Line 3: $3 \times 3 + 7 = 16$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the next two lines of the pattern.
@@ -3206,10 +3004,6 @@ $25, \ 36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The numbers in the final column are special numbers. What is the name of these special numbers?
@@ -3264,18 +3058,18 @@ $\text {Perfect square}$
 
 <p class='review_status initial' id='REVIEW-STATUS-29A36B70-5937-460E-A1CC-4F3D72FC835A'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3312,10 +3106,6 @@ She can use two or more pieces each time.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which pieces should she use to make the following lengths?
@@ -3338,10 +3128,6 @@ Which pieces should she use to make the following lengths?
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 $7\text{m}$
@@ -3366,10 +3152,6 @@ $2 \ \text {m}, \ 5 \ \text {m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 $9\text{m}$
@@ -3397,10 +3179,6 @@ $1 \ \text {m}, \ 3 \ \text {m}, \ 5 \ \text {m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the longest length she can make?
@@ -3459,12 +3237,6 @@ $11 \ \text {m}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-8C2424AB-3B93-4D99-9DE3-E12FB4CE2FA1'>Initial</p>
-</div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

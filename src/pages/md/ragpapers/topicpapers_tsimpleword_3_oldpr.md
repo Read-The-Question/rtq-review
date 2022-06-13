@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-oldpr"
 title: "TopicPaper - Simpleword - 3 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ There are $3$ tables in a room. There are $3$ bars of chocolate on each table.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Nine people sit at one table. They share the chocolate **equally**.
@@ -84,10 +86,6 @@ $\dfrac {1} {3}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Four people sit at another table. They share the chocolate **equally**.
@@ -124,10 +122,6 @@ $\dfrac {3} {4}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In another room there are two tables.
@@ -213,12 +207,6 @@ $15$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-1846DF59-D4FE-4A4A-A9F7-89870E3E1ED3'>Initial</p>
-</div>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

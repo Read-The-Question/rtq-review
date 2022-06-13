@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-g0"
 title: "TopicPaper - Areaperimeter - 6 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>19234F0C-4C85-4F00-8A0C-D18A9430B6A0</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -86,18 +92,18 @@ $80 \ \text {cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-19234F0C-4C85-4F00-8A0C-D18A9430B6A0'>Initial</p>
 </div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -138,10 +144,6 @@ Its length is $8 \ \text{m}$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the width of Farmer Jack’s field.
@@ -179,10 +181,6 @@ $3 \ \text{m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the perimeter of Farmer Jack’s field.
@@ -214,10 +212,6 @@ $22 \ \text {m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Farmer Giles’ field has a perimeter of $20 \ \text{m}$.
@@ -261,10 +255,6 @@ $6 \ \text {m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the area of Farmer Giles’ field.
@@ -294,10 +284,6 @@ $24 \ \text {m} ^ 2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Farmer Josephine also has a rectangular field.
@@ -361,18 +347,18 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 
 <p class='review_status initial' id='REVIEW-STATUS-CC765B1A-2C48-4EA1-BE5D-B7BC07413F8B'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E7D1BED3-00FC-4923-94CA-88CE3E83BB8C</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -462,18 +448,18 @@ $80 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-E7D1BED3-00FC-4923-94CA-88CE3E83BB8C'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>C93A6248-F4DF-45F2-A0DE-18925C33F3FD</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -557,18 +543,18 @@ $20 \ \text{cm} ^ 2$
 
 <p class='review_status initial' id='REVIEW-STATUS-C93A6248-F4DF-45F2-A0DE-18925C33F3FD'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A5D1670C-F9E8-458A-87F9-BEAD48F73EC4</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -661,18 +647,18 @@ $48 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A5D1670C-F9E8-458A-87F9-BEAD48F73EC4'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7CD28E97-9AFA-46F8-9A9E-B995C440D735</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -752,12 +738,6 @@ $4 \ \text{cm}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-7CD28E97-9AFA-46F8-9A9E-B995C440D735'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
 </div>
 </div>
 </li>

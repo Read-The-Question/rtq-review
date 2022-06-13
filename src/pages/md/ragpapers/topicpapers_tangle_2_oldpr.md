@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-oldpr"
 title: "TopicPaper - Angle - 2 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -82,10 +84,6 @@ $46 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -126,10 +124,6 @@ $65 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -196,18 +190,18 @@ $60 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-8A00786C-8FA5-49F0-B059-E903FB36850E'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -243,10 +237,6 @@ Calculate the size of the missing angles
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -283,10 +273,6 @@ $84 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -324,10 +310,6 @@ $118 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -365,10 +347,6 @@ $57 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -406,10 +384,6 @@ $79 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -479,18 +453,18 @@ $38 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -563,18 +537,18 @@ $75 \degrees$
 
 <p class='review_status initial' id='REVIEW-STATUS-2A28B44D-4B73-46C1-955A-1029E0F22147'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -611,10 +585,6 @@ The picture shows a tipper truck.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the angles marked $a$ and $b$.
@@ -664,10 +634,6 @@ $30 \ \text {degrees}, 110 \ \text {degrees}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The $80 \degree$ angle decreases to $75 \degree$ as the tipper tips further. What happens to angle $c$?
@@ -732,18 +698,18 @@ $105 \ \text {degrees}$
 
 <p class='review_status initial' id='REVIEW-STATUS-802A33FA-D4AC-4248-BE3E-09CA75FF7E82'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -836,18 +802,18 @@ $
 
 <p class='review_status initial' id='REVIEW-STATUS-3E301085-F062-490D-99FF-D572D1FB6E58'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -934,18 +900,18 @@ $190$
 
 <p class='review_status initial' id='REVIEW-STATUS-B6391AE6-AFDE-4F0B-865B-5BD6985A8B78'>Initial</p>
 </div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:1</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -984,10 +950,6 @@ All measurements on the diagram are in centimetres.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the value of $x$.
@@ -1020,10 +982,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Here is a triangle.
@@ -1091,12 +1049,6 @@ $30 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-C7288C8F-5D25-4733-9478-7992288F6CD7'>Initial</p>
-</div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_ak_oldpr</p>
 </div>
 </div>
 </li>

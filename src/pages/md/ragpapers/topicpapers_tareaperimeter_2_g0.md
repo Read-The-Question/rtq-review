@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0"
 title: "TopicPaper - Areaperimeter - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -47,10 +53,6 @@ The diagram shows a T shape. The diagram is not accurately drawn to scale.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write the two remaining lengths on the diagram.
@@ -81,10 +83,6 @@ $12 \ \text {cm}, 8 \ \text {cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the **perimeter** of the T shape. State the units.
@@ -118,10 +116,6 @@ $44 \ \text {cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the **area** of the T shape, showing how you did it.
@@ -189,18 +183,18 @@ $40 \ \text {cm} ^ 2$
 
 <p class='review_status initial' id='REVIEW-STATUS-83171B40-5CB7-43E9-84C7-6F8C993632BD'>Initial</p>
 </div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>80790EEF-2304-4498-BB95-EF177366DBC9</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -283,18 +277,18 @@ $18,14$
 
 <p class='review_status initial' id='REVIEW-STATUS-80790EEF-2304-4498-BB95-EF177366DBC9'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>87087F13-14DD-46B1-A8A3-E1A8693515AD</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:0</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -382,18 +376,18 @@ $28$
 
 <p class='review_status initial' id='REVIEW-STATUS-87087F13-14DD-46B1-A8A3-E1A8693515AD'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:0</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -474,18 +468,18 @@ $18,14$
 
 <p class='review_status initial' id='REVIEW-STATUS-5A5A99FB-F341-46EE-95C4-A97BE92AF7E3'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:0</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -573,18 +567,18 @@ $28 cm ^ 2$
 
 <p class='review_status initial' id='REVIEW-STATUS-B135AC08-8D4C-4E0C-8A85-A93842A7B0C6'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:0</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -618,10 +612,6 @@ A right angled triangle is shown below. It is not drawn to scale.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the perimeter of the triangle.
@@ -651,10 +641,6 @@ $14.8 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the area of the triangle.
@@ -723,18 +709,18 @@ $7.5 \text { cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -819,18 +805,18 @@ $55 \text{ cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school-for-girls--11-plus--maths--9999--sample-paper-1:1:2</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -907,18 +893,18 @@ $460 \ \text {m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-D36EB8D1-F797-4291-92E6-21171425524C'>Initial</p>
 </div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -991,18 +977,18 @@ $12 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-B40F0224-3A38-441B-8EC1-C720B33CE28F'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>786619B1-FD62-4472-B91E-8153392F2D10</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1076,18 +1062,18 @@ $6 \ \text {cm} ^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-786619B1-FD62-4472-B91E-8153392F2D10'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1153,18 +1139,18 @@ $48 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-B38F91FE-988F-49E4-A160-D55F591DA695'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:37</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1241,18 +1227,18 @@ $80$
 
 <p class='review_status initial' id='REVIEW-STATUS-78B273A1-70B3-40B5-A9B9-E8FA95A37234'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:37</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:42</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1324,18 +1310,18 @@ $3 a + 2 b$
 
 <p class='review_status initial' id='REVIEW-STATUS-8F284311-E84B-46BB-9357-8253847A7DBB'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:42</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1377,10 +1363,6 @@ The hole in the middle has an area of $400 \ \text{cm}^2$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the width of one of the tiles.
@@ -1413,10 +1395,6 @@ $20 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The area of the four tiles combined is $12$ times as large as the area of the hole in the middle.
@@ -1469,10 +1447,6 @@ $60 \ \text {cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the perimeter of one of the tiles, giving your answer **in metres**. 
@@ -1549,18 +1523,18 @@ $1.6 \ \text {m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1656,18 +1630,18 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F19F86D6-532F-48C6-9AD5-6CA77B08E693'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1701,10 +1675,6 @@ A rectangle has width $w \ \text{cm}$ and height $h \ \text{cm}$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down a formula for the perimeter of the rectangle in terms of $w$
@@ -1738,10 +1708,6 @@ $2 (h + w)$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The area of the rectangle is $55 \ \text{cm}^2$ and both $w$ and $h$ are prime numbers.
@@ -1810,18 +1776,18 @@ $32 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-59ACA68F-2784-4A15-88AD-80DE61754F35'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1921,18 +1887,18 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-5602136F-AB86-4170-84F4-4C32BBF9BEA2'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-e:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2010,18 +1976,18 @@ $58 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2060,10 +2026,6 @@ Find:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 the perimeter of this square shape.
@@ -2096,10 +2058,6 @@ $160 \ \text {cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 the area of the shaded inner square. 
@@ -2165,12 +2123,6 @@ $196 \ \text {cm} ^2$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-97A3E093-B7B6-443D-9FE2-CC20B3E4BA24'>Initial</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
 </div>
 </div>
 </li>

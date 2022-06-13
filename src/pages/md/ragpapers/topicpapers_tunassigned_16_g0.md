@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-16-g0"
 title: "TopicPaper - Unassigned - 16 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>20517E28-4F19-4014-B36A-D0CD7476DB1B</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,18 +85,18 @@ $28 \%$
 
 <p class='review_status initial' id='REVIEW-STATUS-20517E28-4F19-4014-B36A-D0CD7476DB1B'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C8C3BB23-7980-4A19-8082-5F985DD48CAC</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -156,12 +162,6 @@ $144$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-C8C3BB23-7980-4A19-8082-5F985DD48CAC'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

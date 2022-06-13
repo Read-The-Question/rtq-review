@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-oldpr"
 title: "TopicPaper - Detailedmultiplication - 2 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -72,18 +78,18 @@ $16.848$
 
 <p class='review_status initial' id='REVIEW-STATUS-D9347C26-F870-4B64-A4DA-BD4DEBB0941E'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>42B172FC-BBD5-4557-9351-313D4B254286</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -114,10 +120,6 @@ Work out the answers to:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $241 \times  7$
@@ -149,10 +151,6 @@ $1678$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $39 \times 16$
@@ -217,18 +215,18 @@ $624$
 
 <p class='review_status initial' id='REVIEW-STATUS-42B172FC-BBD5-4557-9351-313D4B254286'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>29826990-7CF3-48F9-A4E1-518D0B0296D5</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -301,12 +299,6 @@ $1 \ \text{and} 8$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-29826990-7CF3-48F9-A4E1-518D0B0296D5'>Initial</p>
-</div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

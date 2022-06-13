@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>46768229-11F0-453B-ACC8-5B9C11276EC1</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -89,18 +95,18 @@ $1080$
 
 <p class='review_status initial' id='REVIEW-STATUS-46768229-11F0-453B-ACC8-5B9C11276EC1'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>04EA6485-59BD-40D7-BE50-86CDE7A5BD77</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -174,18 +180,18 @@ $696$
 
 <p class='review_status initial' id='REVIEW-STATUS-04EA6485-59BD-40D7-BE50-86CDE7A5BD77'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B7966322-D37F-4D18-A2FD-0E18B9C8F73D</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -251,18 +257,18 @@ $196$
 
 <p class='review_status initial' id='REVIEW-STATUS-B7966322-D37F-4D18-A2FD-0E18B9C8F73D'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g2</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E00F44C5-0502-46F6-927E-4C50E44DA4BF</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -328,18 +334,18 @@ $3$
 
 <p class='review_status initial' id='REVIEW-STATUS-E00F44C5-0502-46F6-927E-4C50E44DA4BF'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>ECEC7A62-D4D9-4EAF-B175-9EE097AC08AE</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -410,18 +416,18 @@ $71685$
 
 <p class='review_status initial' id='REVIEW-STATUS-ECEC7A62-D4D9-4EAF-B175-9EE097AC08AE'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>318584A0-BE67-437A-BB85-CA2B497B8E26</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -489,18 +495,18 @@ $1369$
 
 <p class='review_status initial' id='REVIEW-STATUS-318584A0-BE67-437A-BB85-CA2B497B8E26'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2FB7FD94-DCE7-416B-94DB-D40514D8544D</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -573,18 +579,18 @@ $\pounds 1.85$
 
 <p class='review_status initial' id='REVIEW-STATUS-2FB7FD94-DCE7-416B-94DB-D40514D8544D'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5171E4DB-A0AE-48C2-A77F-6BE170E11A11</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -654,18 +660,18 @@ $\pounds 0.71$
 
 <p class='review_status initial' id='REVIEW-STATUS-5171E4DB-A0AE-48C2-A77F-6BE170E11A11'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>51BF0CD1-4341-46E2-B174-4EE78A05B058</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -728,18 +734,18 @@ $42008$
 
 <p class='review_status initial' id='REVIEW-STATUS-51BF0CD1-4341-46E2-B174-4EE78A05B058'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>BC964098-4A38-4BC7-A581-3B7D11BE274D</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -773,10 +779,6 @@ tunit
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Express $51 \ \text{km}$ in metres
@@ -810,10 +812,6 @@ $51000 \ \text{m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Express $510 \ \text{cm}$ in metres
@@ -877,18 +875,18 @@ $5.1 \ \text{m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-BC964098-4A38-4BC7-A581-3B7D11BE274D'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>069669D4-0614-4FCA-A2AF-20506A369CB1</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -920,10 +918,6 @@ $20 \ \text{minutes}$ extra. Find how long you should cook a joint weighing:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2 \ \text{kg}$ 
@@ -961,10 +955,6 @@ $80 \text{minutes}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3.5 \ \text{kg}$ 
@@ -1037,18 +1027,18 @@ $125 \text{minutes}$
 
 <p class='review_status initial' id='REVIEW-STATUS-069669D4-0614-4FCA-A2AF-20506A369CB1'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prr question'>
 <div class='uuid'>
 <p>22F0AF00-1223-4113-ADF7-3D982D74034B</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1083,10 +1073,6 @@ I bought.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Did I buy more than $7$ adult tickets?
@@ -1125,10 +1111,6 @@ No
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If there were more adult tickets than child tickets, how many of 
@@ -1161,10 +1143,6 @@ $
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If there were more child tickets than adult tickets, how many of 
@@ -1197,18 +1175,18 @@ $
 </li>
 </ul>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='uuid'>
+<p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
+</div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
-<div class='uuid'>
-<p>BAA3C1DC-AC85-4E56-81D2-E788C4B255D2</p>
+<p>rag_nj_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1276,18 +1254,18 @@ $28.4 \ \text{cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-BAA3C1DC-AC85-4E56-81D2-E788C4B255D2'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>55096F2E-FF75-4684-9D88-814A1EF7D4D9</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1321,10 +1299,6 @@ Every day a jogger runs $4 \ \text{km}$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find out how far he runs in $4$ weeks.
@@ -1358,10 +1332,6 @@ $112 \ \text{km}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If he takes $15 \ \text{minutes}$ to run $4 \ \text{km}$, what is his average speed in km 
@@ -1435,18 +1405,18 @@ $16 \ \text{km/hour}$
 
 <p class='review_status initial' id='REVIEW-STATUS-55096F2E-FF75-4684-9D88-814A1EF7D4D9'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>500D6CC3-AAFB-40E5-9B8D-A47C45EC3613</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1478,10 +1448,6 @@ In fact the ferry left $17 \ \text{minutes}$ late and arrived at Calais at $0911
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Using the $24 \ \text{hour}$ clock, write the time when the ferry left Dover.
@@ -1513,10 +1479,6 @@ $08:02$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many minutes did the crossing from Dover to Calais actually 
@@ -1552,10 +1514,6 @@ $69 \ \text{minutes}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many minutes late did the ferry arrive in Calais?
@@ -1619,18 +1577,18 @@ $11 \ \text{ mins}$
 
 <p class='review_status initial' id='REVIEW-STATUS-500D6CC3-AAFB-40E5-9B8D-A47C45EC3613'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>83110D7D-4A15-444F-BC4E-DC7DC2E96129</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1729,18 +1687,18 @@ The smaller number $=13$
 
 <p class='review_status initial' id='REVIEW-STATUS-83110D7D-4A15-444F-BC4E-DC7DC2E96129'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>84E35E31-655A-4772-B0AE-B39EA42AC170</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1809,18 +1767,18 @@ $8.85 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-84E35E31-655A-4772-B0AE-B39EA42AC170'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1852,10 +1810,6 @@ I use $5$ eggs for each cake.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many eggs will I use altogether if I make $15$ cakes?
@@ -1887,10 +1841,6 @@ $75$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many boxes must I buy to ensure I have enough eggs to make 
@@ -1927,10 +1877,6 @@ $7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much will I pay for the eggs?
@@ -1993,18 +1939,18 @@ $\pounds 11.76$
 
 <p class='review_status initial' id='REVIEW-STATUS-682CC1A0-4A88-4DD0-BD42-0767DA7FEE5D'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>82884BC7-A421-455D-93F2-F6D296154674</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2038,10 +1984,6 @@ A ream of paper consists of $500$ sheets. If one sheet of paper has a mass of $4
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Give your answer in grams.
@@ -2081,10 +2023,6 @@ $2375 \text{grams}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Give your answer in kilograms
@@ -2150,18 +2088,18 @@ $2.3475 \ \text{kilograms}$
 
 <p class='review_status initial' id='REVIEW-STATUS-82884BC7-A421-455D-93F2-F6D296154674'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1219A3ED-0814-4A5C-AA62-80C6F0E44674</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2196,10 +2134,6 @@ I would receive $2.4 \ \text{Euros}$ in exchange for $\pounds 2$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 On a ferry to France, I wanted to buy a large bar of Toblerone 
@@ -2240,10 +2174,6 @@ $3.6 \ \text{Euro}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A certain bottle of wine in France costs $7.5 \ \text{Euros}$. How much is 
@@ -2308,18 +2238,18 @@ $\pounds 6.25$
 
 <p class='review_status initial' id='REVIEW-STATUS-1219A3ED-0814-4A5C-AA62-80C6F0E44674'>Initial</p>
 </div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
+</div>
 <div class='papername'>
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2350,10 +2280,6 @@ Fill in the missing numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 16, \quad 19, \quad \text{\textunderscore \textunderscore \textunderscore} , \quad 25$
@@ -2408,10 +2334,6 @@ $13, 22$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 12, \quad 6, \quad \text{\textunderscore \textunderscore \textunderscore}$
@@ -2496,18 +2418,18 @@ $24, 3$
 
 <p class='review_status initial' id='REVIEW-STATUS-5C28841F-84FB-4482-AFA9-B7043D582BBA'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prr question'>
 <div class='uuid'>
 <p>DD552DAA-F180-48AF-AC7B-6E2F9395F7F8</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2547,18 +2469,18 @@ $6$
 </div>
 
 
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prr question'>
 <div class='uuid'>
 <p>A3551C30-6C97-441F-A948-76E89E37B291</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2607,18 +2529,18 @@ $4 \leq x > 8$
 </div>
 
 
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>7241EB20-8C18-4489-BCB1-426409F62127</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2649,10 +2571,6 @@ tfraction
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $\dfrac{5}{8}$ of $240 \ \text{m}$ 
@@ -2686,10 +2604,6 @@ $150 \ \text{m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $20\%$ of $\pounds 350$
@@ -2723,10 +2637,6 @@ $\pounds 70$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A student sleeps for $9 \ \text{hours}$ every night. For what fraction of the whole day, is the student awake? Give your answer in its most simplified form.
@@ -2801,18 +2711,18 @@ $\dfrac{5}{8}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7241EB20-8C18-4489-BCB1-426409F62127'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>4A5640EB-A71C-4E96-8720-171B2B14F0CF</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2843,10 +2753,6 @@ Find the values of:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2 \dfrac{1}{2} + 4 \dfrac{1}{4}$ 
@@ -2879,10 +2785,6 @@ $6\dfrac{3}{4}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \dfrac{1}{4} - 2 \dfrac{1}{2}$ 
@@ -2943,12 +2845,6 @@ $1\dfrac{3}{4}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4A5640EB-A71C-4E96-8720-171B2B14F0CF'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

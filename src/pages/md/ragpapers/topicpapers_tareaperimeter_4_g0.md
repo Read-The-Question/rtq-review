@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>73897DF2-60E6-44C7-A452-1BFF5324A5B8</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,10 +52,6 @@ Not drawn accurately
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A **square** has the **same** area as this rectangle. 
@@ -101,10 +103,6 @@ $4 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A **different square** has the **same perimeter** as this rectangle.
@@ -185,18 +183,18 @@ $5 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-73897DF2-60E6-44C7-A452-1BFF5324A5B8'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5D763DCC-BA8B-4FED-92C6-D8B848454B73</p>
+</div>
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -285,18 +283,18 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-5D763DCC-BA8B-4FED-92C6-D8B848454B73'>Initial</p>
 </div>
-<div class='papername'>
-<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,10 +331,6 @@ The above diagram shows a solid box.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the area of the shaded face?
@@ -367,10 +361,6 @@ $18 \ \text {cm}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the total surface area of the box?
@@ -432,18 +422,18 @@ $216 \ \text {cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-BB81BF83-EBB0-482C-B728-A09A6CBDE335'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DB9D1025-5B8E-4705-909E-7C92C3171975</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -522,18 +512,18 @@ $3 \ \text {cm} ^ 2$
 
 <p class='review_status initial' id='REVIEW-STATUS-DB9D1025-5B8E-4705-909E-7C92C3171975'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FB0BA478-C8E7-46D4-B41D-FC926DEEE733</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -615,18 +605,18 @@ $10 n - 16$
 
 <p class='review_status initial' id='REVIEW-STATUS-FB0BA478-C8E7-46D4-B41D-FC926DEEE733'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7EFE6F8B-568B-4697-AAD0-42218DA1A407</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -706,18 +696,18 @@ $\text {3cm, \ 3cm, \ 8cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7EFE6F8B-568B-4697-AAD0-42218DA1A407'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A9164CFF-D274-477E-B9D2-26D22F572507</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -790,18 +780,18 @@ $1$
 
 <p class='review_status initial' id='REVIEW-STATUS-A9164CFF-D274-477E-B9D2-26D22F572507'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EE39E7C4-5AC8-49F1-9A96-C9762A697117</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -892,18 +882,18 @@ $\dfrac{45}{4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-EE39E7C4-5AC8-49F1-9A96-C9762A697117'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>80A03144-6FE7-47FE-80C3-2CE1292F70D2</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -940,10 +930,6 @@ The diagram below is a scale drawing of a Z shaped path of area $20\text{m}^2$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What Is the area of each individual square?
@@ -976,10 +962,6 @@ $4 \text{m}^{2}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What Is the length of each side of each Individual square?
@@ -1016,10 +998,6 @@ $2 \text{m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What Is the perimeter of the path?
@@ -1080,18 +1058,18 @@ $24 \text{m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-80A03144-6FE7-47FE-80C3-2CE1292F70D2'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>9F69A09F-DC67-4C65-9482-73903E4F9BB4</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1180,18 +1158,18 @@ $28 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-9F69A09F-DC67-4C65-9482-73903E4F9BB4'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2018--sample-paper-5:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FB99253B-2684-4954-B0CD-C244509033ED</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1281,18 +1259,18 @@ $32 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-FB99253B-2684-4954-B0CD-C244509033ED'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1377,18 +1355,18 @@ $76 \text{m}^{2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-B355D689-5D56-4D03-B1EC-8DC3BB5F8DEE'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1474,12 +1452,6 @@ $24 \ \text{cm}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4AFBC40F-1638-4EA4-8624-F4D2729AD1A4'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
 </div>
 </div>
 </li>

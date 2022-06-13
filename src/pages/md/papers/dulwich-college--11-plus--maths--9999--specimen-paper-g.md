@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>914AE816-ADA8-4255-B9E6-1052CA048DDB</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,10 +52,6 @@ Work out:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2019 - 567$
@@ -81,10 +83,6 @@ $1452$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $67 \times 89$
@@ -119,10 +117,6 @@ $5963$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $81.9 \div 6$
@@ -157,10 +151,6 @@ $13.65$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $17.4 + 8.78$
@@ -192,18 +182,18 @@ $26.18$
 </li>
 </ul>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>BF93050E-2156-4B30-A526-3198E926DF49</p>
+</div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>BF93050E-2156-4B30-A526-3198E926DF49</p>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -234,10 +224,6 @@ Fill in the missing numbers in these sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $15 , \quad 22 , \quad 29 , \quad \text{\textunderscore \textunderscore \textunderscore } , \quad 43 , \quad \text{\textunderscore \textunderscore \textunderscore }$
@@ -294,10 +280,6 @@ $36, \quad 50$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $9 , \quad 5 , \quad 1 , \quad \text{\textunderscore \textunderscore \textunderscore } , \quad \text{\textunderscore \textunderscore \textunderscore }$
@@ -352,10 +334,6 @@ $-3, \quad -7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $96 , \quad -48 , \quad 24 , \quad -12 , \quad \text{\textunderscore \textunderscore \textunderscore } , \quad \text{\textunderscore \textunderscore \textunderscore }$
@@ -442,18 +420,18 @@ $6, \quad -3$
 
 <p class='review_status initial' id='REVIEW-STATUS-BF93050E-2156-4B30-A526-3198E926DF49'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3E727517-2746-480B-A62D-71D4D1A9EA47</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -484,10 +462,6 @@ Fill in the blanks to make the calculation correct.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $18 - 6 + 7 = \text{\textunderscore \textunderscore \textunderscore }$
@@ -517,10 +491,6 @@ $19$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $21 - ( \text{\textunderscore \textunderscore \textunderscore } \times 3) = 9$
@@ -558,10 +528,6 @@ $4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $16 - (-3)^2 = \text{\textunderscore \textunderscore \textunderscore }$
@@ -622,18 +588,18 @@ $7$
 
 <p class='review_status initial' id='REVIEW-STATUS-3E727517-2746-480B-A62D-71D4D1A9EA47'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>22918995-BD89-462E-840F-56972A76677B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -670,10 +636,6 @@ The perimeter of the rectangle below is $18 \ \text{cm}$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the width of the rectangle.
@@ -714,10 +676,6 @@ $6 \ \text {cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the area of the rectangle.
@@ -750,10 +708,6 @@ $18 \ \text {cm}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A square with sides of length $3 \ \text{cm}$ is divided into three identically sized rectangles. 
@@ -792,18 +746,18 @@ $2 (h + w)$
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8A55D5B0-A385-45AE-9D62-696AB17013F6</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -862,10 +816,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A rectangle
@@ -903,10 +853,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A parallelogram that is not a rectangle
@@ -944,18 +890,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>A3C686C3-0BCC-4B4A-ABD1-83D7681517FB</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -997,10 +943,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Round $649$ to the nearest $100$.
@@ -1035,10 +977,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Round $832$ to the nearest $10$.
@@ -1073,10 +1011,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A number has been rounded to the nearest $10$ to give $370$. What is the smallest whole number possible?
@@ -1111,18 +1045,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DE46FC56-5B26-47CD-B3FB-1C1418F36001</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1153,10 +1087,6 @@ tnumber
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate $0.4 + \dfrac{1}{4} + \dfrac{27}{100}$
@@ -1189,10 +1119,6 @@ $0.92$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write $\dfrac{51}{60}$ as a decimal.
@@ -1257,18 +1183,18 @@ $0.85$
 
 <p class='review_status initial' id='REVIEW-STATUS-DE46FC56-5B26-47CD-B3FB-1C1418F36001'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>16D11FD8-0B06-4EA3-9482-8E3AAC14E2A8</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1300,10 +1226,6 @@ tmoney
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 One third of $\pounds 120$.
@@ -1337,10 +1259,6 @@ $\pounds 40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $40\%$ of $\pounds 728$.
@@ -1403,18 +1321,18 @@ $\pounds 291.20$
 
 <p class='review_status initial' id='REVIEW-STATUS-16D11FD8-0B06-4EA3-9482-8E3AAC14E2A8'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8E108740-2478-40E2-ABCE-FF63FCF35DC7</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1458,10 +1376,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How long does the journey take?
@@ -1496,10 +1410,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A different train travels from London to Edinburgh at constant speed. The journey takes $3 \ \text{hours}$ and $30 \ \text{minutes}$ 
@@ -1535,18 +1445,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0B606EF9-7892-483A-94D3-FD505E6850E7</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1587,10 +1497,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the mean of these five numbers
@@ -1625,10 +1531,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the median for these five numbers.
@@ -1663,10 +1565,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the range of these five numbers
@@ -1701,10 +1599,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A sixth number is added to the list and the mean changes to $33$. Find what this sixth number was.
@@ -1739,18 +1633,18 @@ TODOANSWER
 </li>
 </ul>
 
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
+</div>
 <div class='papername'>
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1787,10 +1681,6 @@ The diagram shows a triangle and a line. The two angles marked $y\degree$ are eq
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $x$.
@@ -1823,10 +1713,6 @@ $72 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $y$.
@@ -1894,18 +1780,18 @@ $36 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-7B3A5DB3-F164-4105-9701-04E51A97172C'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>D57ABCBD-3D80-45BE-BA19-FF85B5712663</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1954,18 +1840,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>17F93916-CC33-4987-A33C-BF814E4C59D2</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2007,10 +1893,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Plot the point $(4, -2)$ and label it $B$.
@@ -2045,10 +1927,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Plot the point that is midway between $A$ and $B$ and write down its coordinates below.
@@ -2083,10 +1961,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -2124,18 +1998,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>2DC3C3C8-64DF-427A-8E52-5144100AD76B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2185,10 +2059,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many cubes are needed to build tower number $2$?
@@ -2223,10 +2093,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many cubes are needed to build tower number $3$?
@@ -2261,10 +2127,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Without drawing it, how many cubes would be needed to build tower number $5$?
@@ -2299,10 +2161,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which tower number would contain $120$ cubes?
@@ -2337,18 +2195,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>949BC632-C515-4508-B415-7CE129E11BE0</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2406,18 +2264,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B2CA66C2-6345-4C38-903C-39CFC96F168A</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2461,10 +2319,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Who had the highest score in maths?
@@ -2499,10 +2353,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Who is good at science and poor at maths?
@@ -2537,10 +2387,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The total of the two scores are added together. Who has the highest total?
@@ -2575,18 +2421,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3D108689-8900-415A-821C-F6F325EED378</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2661,10 +2507,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which letter is most likely to be taken?
@@ -2699,10 +2541,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Give two letters that have the same probability of being chosen as an E?
@@ -2737,18 +2575,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>54CAAF21-5640-4453-94EA-660CB9EDE5B7</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2791,18 +2629,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>17980696-C10C-4E42-9815-70FEB04139FB</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2843,18 +2681,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9C1CE4D5-6F89-4AD3-9E52-080E3215A90A</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2900,18 +2738,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A3479604-4BFA-4285-ACC4-985B4A900D81</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2944,10 +2782,6 @@ For example: $2 \ \ast \ 6 = (6 - 2) \times 3 = 12$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $20 \ \ast \ 27$.
@@ -2978,10 +2812,6 @@ $21$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $10 \ \ast \ 6$.
@@ -3012,10 +2842,6 @@ $-12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $a$ if $3 \ \ast \ a = 6$.
@@ -3050,10 +2876,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $b$ if $b \ \ast \ 5 = 9$.
@@ -3086,10 +2908,6 @@ $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $c$ if $c \ \ast \ 5 = 4 \ \ast \ c$
@@ -3155,18 +2973,18 @@ $\dfrac {9} {2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A3479604-4BFA-4285-ACC4-985B4A900D81'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4DB1DE17-E134-40AD-A4AF-157C125AD0B9</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3216,10 +3034,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Complete the grid below to show the tile if it is **rotated** through a quarter turn clockwise.
@@ -3257,10 +3071,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Sarah decides to **reflect** the tile in the dashed line shown below and **then rotate** it through 
@@ -3305,18 +3115,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>CAFF3D6D-937B-4FE8-BF9B-D6B1B5F5F3E6</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3360,10 +3170,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When the number is divided by $5$ the remainder is $4$.
@@ -3404,10 +3210,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When the number is divided by $2$ the remainder is $1$.
@@ -3450,18 +3252,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>C86CCE8C-C5E9-488B-8AF1-0291B3C4DD65</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3508,18 +3310,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7862DF42-D05A-435E-8392-B8C1DEA0F1D4</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3559,18 +3361,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7D6DB7E6-5E41-4E92-A7A6-401F9D78794F</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3623,12 +3425,6 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 </ul>

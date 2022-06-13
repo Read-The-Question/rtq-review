@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g0"
 title: "TopicPaper - Money - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>05561C2E-68D5-42DC-876C-EC372F879900</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -96,18 +102,18 @@ Deal A
 
 <p class='review_status initial' id='REVIEW-STATUS-05561C2E-68D5-42DC-876C-EC372F879900'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8B53538F-9FA0-4E30-B73C-B54B18223907</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -187,18 +193,18 @@ $\pounds 4.90$
 
 <p class='review_status initial' id='REVIEW-STATUS-8B53538F-9FA0-4E30-B73C-B54B18223907'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3535C8D5-DE86-4450-A6FD-9386A9F13C8D</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -343,18 +349,18 @@ $\text {Super Tickets}, \text {Ticket Galore}, \text {Tickets R US}, \text {Top 
 
 <p class='review_status initial' id='REVIEW-STATUS-3535C8D5-DE86-4450-A6FD-9386A9F13C8D'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>C37C7D80-A04A-4A0E-94DE-218ED2624A77</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -422,18 +428,18 @@ $\pounds 248$
 
 <p class='review_status initial' id='REVIEW-STATUS-C37C7D80-A04A-4A0E-94DE-218ED2624A77'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F6E48CC4-2A27-4920-ACA3-5DF53454BA33</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -502,18 +508,18 @@ $\pounds 16$
 
 <p class='review_status initial' id='REVIEW-STATUS-F6E48CC4-2A27-4920-ACA3-5DF53454BA33'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>CC427C13-15A7-43F3-8EE1-B0704BC35344</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -578,18 +584,18 @@ $\pounds 2.76$
 
 <p class='review_status initial' id='REVIEW-STATUS-CC427C13-15A7-43F3-8EE1-B0704BC35344'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>832A3C13-EDDB-4546-A482-E080BF08895B</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -658,18 +664,18 @@ $\pounds 16$
 
 <p class='review_status initial' id='REVIEW-STATUS-832A3C13-EDDB-4546-A482-E080BF08895B'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>559166DC-6DDF-4875-BF83-BA488BB42DFA</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -743,18 +749,18 @@ $\pounds 18.07$
 
 <p class='review_status initial' id='REVIEW-STATUS-559166DC-6DDF-4875-BF83-BA488BB42DFA'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0A52D945-A28D-4AF7-B094-8C90084E6EB6</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -836,18 +842,18 @@ $\pounds 55$
 
 <p class='review_status initial' id='REVIEW-STATUS-0A52D945-A28D-4AF7-B094-8C90084E6EB6'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>336B71BC-D933-4B73-8AC5-2EDE7391DCB5</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -878,10 +884,6 @@ tmoney
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate a quarter of $\pounds 62$.
@@ -913,10 +915,6 @@ $15.5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate $10\%$ of $\pounds 62$.
@@ -949,10 +947,6 @@ $\pounds 6.20$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate $11\%$ of $\pounds 62$.
@@ -985,10 +979,6 @@ $6.82$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A coat costing $\pounds 62$ is reduced in a sale by $\pounds 12.40$. 
@@ -1055,18 +1045,18 @@ $19.41 \%$
 
 <p class='review_status initial' id='REVIEW-STATUS-336B71BC-D933-4B73-8AC5-2EDE7391DCB5'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1104,10 +1094,6 @@ He hopes to complete *either* $8$ or $10 \ \text{miles}$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If Ola completes $8 \ \text{miles}$, how much money will he collect from Dad?
@@ -1144,10 +1130,6 @@ $\pounds 7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If Ola completes $8 \ \text{miles}$, how much will he collect from Grandad?
@@ -1182,10 +1164,6 @@ $\pounds 3.60$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If Ola completes $8 \ \text{miles}$, how much money will he collect from everyone?
@@ -1222,10 +1200,6 @@ $\pounds 39.60$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much **extra** will Ola collect, in total, if he completes the extra $2 \ \text{miles}$ and runs $10 \ \text{miles}$ (rather than $8 \ \text{miles}$)?
@@ -1289,18 +1263,18 @@ $3.90$
 
 <p class='review_status initial' id='REVIEW-STATUS-220A15B1-DE6B-4182-AB32-E904EA0D4428'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1334,10 +1308,6 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the total cot of a large card & envelope, candles and a small chocolate selection?
@@ -1367,10 +1337,6 @@ $\pounds 9.57$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
@@ -1400,10 +1366,6 @@ $4.56$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
@@ -1468,18 +1430,18 @@ $2.59, 1.49, 3.65$
 
 <p class='review_status initial' id='REVIEW-STATUS-52153412-2F82-4D52-970C-B08AEBF2A3CC'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DDDE56A1-2ADE-4DAE-AEAA-26D6BFF18479</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1549,18 +1511,18 @@ $\pounds 182$
 
 <p class='review_status initial' id='REVIEW-STATUS-DDDE56A1-2ADE-4DAE-AEAA-26D6BFF18479'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1628,18 +1590,18 @@ $\pounds 8.10$
 
 <p class='review_status initial' id='REVIEW-STATUS-ED073E19-C259-4CCE-9247-955B9E693C10'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:43</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1705,18 +1667,18 @@ $\pounds 1.720$
 
 <p class='review_status initial' id='REVIEW-STATUS-03945F7F-BD1D-48F8-8123-918A9227D8EC'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:43</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:44</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1782,18 +1744,18 @@ $\pounds 2.150$
 
 <p class='review_status initial' id='REVIEW-STATUS-8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE'>Initial</p>
 </div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:44</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>70533228-35C2-47ED-92E3-B482964231E0</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1867,18 +1829,18 @@ $\pounds 5.82$
 
 <p class='review_status initial' id='REVIEW-STATUS-70533228-35C2-47ED-92E3-B482964231E0'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>27EEE3D8-3D73-41C4-9074-5E270CFC1767</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1952,18 +1914,18 @@ $\pounds 2.03$
 
 <p class='review_status initial' id='REVIEW-STATUS-27EEE3D8-3D73-41C4-9074-5E270CFC1767'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A2C2EC3B-3FB5-49C8-859C-0063205198F7</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2032,18 +1994,18 @@ $\pounds 3.36$
 
 <p class='review_status initial' id='REVIEW-STATUS-A2C2EC3B-3FB5-49C8-859C-0063205198F7'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8CB9E9FF-C1CF-493D-808B-3F8353350421</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2111,18 +2073,18 @@ $20 \ \%$
 
 <p class='review_status initial' id='REVIEW-STATUS-8CB9E9FF-C1CF-493D-808B-3F8353350421'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2196,18 +2158,18 @@ $\pounds 4.54$
 
 <p class='review_status initial' id='REVIEW-STATUS-AE91E319-28CD-4E72-BACB-3D5D6A529FA0'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:33</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>531E3BC7-C9D8-4A66-AD98-C9130D5EE75C</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2276,12 +2238,6 @@ $\pounds 18$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-531E3BC7-C9D8-4A66-AD98-C9130D5EE75C'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:39</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

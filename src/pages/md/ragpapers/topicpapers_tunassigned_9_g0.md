@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-9-g0"
 title: "TopicPaper - Unassigned - 9 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>89AF4456-05DF-454E-9602-66C48E68886D</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -73,18 +79,18 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 
 <p class='review_status initial' id='REVIEW-STATUS-89AF4456-05DF-454E-9602-66C48E68886D'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -157,18 +163,18 @@ $192$
 
 <p class='review_status initial' id='REVIEW-STATUS-9332B2DF-AC30-43E8-91FA-BFE3FFFBDE8A'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F4F00482-68CB-4F6F-8C65-CDE9C0110F7C</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,10 +208,6 @@ Write down the names of the following shapes:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -231,10 +233,6 @@ $\text {Quadrilateral}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -260,10 +258,6 @@ $\text {Equilateral triangle}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -319,18 +313,18 @@ $\text {Parallelogram}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F4F00482-68CB-4F6F-8C65-CDE9C0110F7C'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5BF7966D-4D9E-4184-A424-12393A4AB382</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -389,10 +383,6 @@ Cristiano Ronaldo   ,Spanish        ,26         ,29
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 which player scored the most goals?
@@ -417,10 +407,6 @@ $\text{Cristiano Ronaldo}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 which league did the player who scored the least goals play in?
@@ -445,10 +431,6 @@ $\text{English}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 which league had the most goals scored in it by these players?
@@ -502,12 +484,6 @@ $\text{German}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-5BF7966D-4D9E-4184-A424-12393A4AB382'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

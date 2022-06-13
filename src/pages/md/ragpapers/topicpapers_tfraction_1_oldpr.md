@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-oldpr"
 title: "TopicPaper - Fraction - 1 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>A1071962-E86A-4F64-8561-62B747B80144</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ Work out
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $
@@ -77,10 +79,6 @@ $20$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $
@@ -148,12 +146,6 @@ $400$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-A1071962-E86A-4F64-8561-62B747B80144'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

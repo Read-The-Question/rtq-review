@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-oldpr"
 title: "TopicPaper - Fraction - 5 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -84,12 +90,6 @@ $0.4, \dfrac {3} {8}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

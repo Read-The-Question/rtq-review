@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-g0"
 title: "TopicPaper - Statistics - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5A332CAD-49BF-495D-A0D3-65B70B2A784D</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -73,18 +79,18 @@ $15$
 
 <p class='review_status initial' id='REVIEW-STATUS-5A332CAD-49BF-495D-A0D3-65B70B2A784D'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>33AE5B44-DF29-4E31-BCFC-4228FFCA3041</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -161,12 +167,6 @@ $6 \degree \text {C}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-33AE5B44-DF29-4E31-BCFC-4228FFCA3041'>Initial</p>
-</div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-12-oldpr"
 title: "TopicPaper - Unassigned - 12 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>23FE15B1-A302-404D-8391-BAB850364409</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ Write the name of the following shapes underneath them.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -70,10 +72,6 @@ $\text {Cone}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -129,18 +127,18 @@ $\text {Hexagon}$
 
 <p class='review_status initial' id='REVIEW-STATUS-23FE15B1-A302-404D-8391-BAB850364409'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EEAB5168-31BA-48D5-BCC1-246B7057116F</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -221,18 +219,18 @@ $\text {South}$
 
 <p class='review_status initial' id='REVIEW-STATUS-EEAB5168-31BA-48D5-BCC1-246B7057116F'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>432CB436-BF77-496F-A6D6-C553A73CC616</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -301,12 +299,6 @@ $1.8 \ \text {m}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-432CB436-BF77-496F-A6D6-C553A73CC616'>Initial</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

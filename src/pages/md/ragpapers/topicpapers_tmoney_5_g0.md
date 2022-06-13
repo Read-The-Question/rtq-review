@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-g0"
 title: "TopicPaper - Money - 5 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>43EF5D79-3FD1-422A-BD9F-D7DC37283EA9</p>
+</div>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,18 +96,18 @@ $189 \text{p}$
 
 <p class='review_status initial' id='REVIEW-STATUS-43EF5D79-3FD1-422A-BD9F-D7DC37283EA9'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>37D61EFA-7D37-4E7B-87AC-FE2256B7021C</p>
+</div>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -135,10 +141,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Jack buys **four** apples.
@@ -195,10 +197,6 @@ $\pounds 0.2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Oranges cost **15 \text{p}$** each. 
@@ -280,12 +278,6 @@ $6$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-37D61EFA-7D37-4E7B-87AC-FE2256B7021C'>Initial</p>
-</div>
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

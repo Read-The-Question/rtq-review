@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-oldpr"
 title: "TopicPaper - Fraction - 4 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,18 +96,18 @@ $\dfrac {4} {9}$
 
 <p class='review_status initial' id='REVIEW-STATUS-27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>7241EB20-8C18-4489-BCB1-426409F62127</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -132,10 +138,6 @@ tfraction
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $\dfrac{5}{8}$ of $240 \ \text{m}$ 
@@ -169,10 +171,6 @@ $150 \ \text{m}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $20\%$ of $\pounds 350$
@@ -206,10 +204,6 @@ $\pounds 70$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A student sleeps for $9 \ \text{hours}$ every night. For what fraction of the whole day, is the student awake? Give your answer in its most simplified form.
@@ -284,18 +278,18 @@ $\dfrac{5}{8}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7241EB20-8C18-4489-BCB1-426409F62127'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>4A5640EB-A71C-4E96-8720-171B2B14F0CF</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -326,10 +320,6 @@ Find the values of:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2 \dfrac{1}{2} + 4 \dfrac{1}{4}$ 
@@ -362,10 +352,6 @@ $6\dfrac{3}{4}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \dfrac{1}{4} - 2 \dfrac{1}{2}$ 
@@ -427,18 +413,18 @@ $1\dfrac{3}{4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-4A5640EB-A71C-4E96-8720-171B2B14F0CF'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -472,10 +458,6 @@ Convert
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $60\%$ to a fraction in its simplest form
@@ -508,10 +490,6 @@ $dfrac{3}{5}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.12$ to a fraction in its simplest form
@@ -574,18 +552,18 @@ $\dfrac{3}{25}$
 
 <p class='review_status initial' id='REVIEW-STATUS-2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>BFFF5136-E83F-4F59-9134-E57C8DF43C60</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -618,10 +596,6 @@ Simplify your answer where possible.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {6} {7} \times \dfrac {5} {9}$   
@@ -655,10 +629,6 @@ $\dfrac {10}{21}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3\dfrac {2} {5} + 2\dfrac {3} {4}$    
@@ -690,10 +660,6 @@ $\dfrac {123}{20}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1\dfrac {2} {3} \div \dfrac {10} {21}$   
@@ -756,18 +722,18 @@ $\dfrac {7}{2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-BFFF5136-E83F-4F59-9134-E57C8DF43C60'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -814,10 +780,6 @@ $40, 150, 30$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{2}$ of $20 = \dfrac{1}{4}$ of $\ldots$
@@ -933,18 +895,18 @@ $30$
 
 <p class='review_status initial' id='REVIEW-STATUS-25E902FC-7725-4A86-B481-912E52709734'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1027,18 +989,18 @@ $8, 27$
 
 <p class='review_status initial' id='REVIEW-STATUS-1F45A013-A394-4AD2-A795-8AA3EF051A9F'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>EC3E64BC-89F2-40BF-A533-FD22D897D87A</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1119,12 +1081,6 @@ $18$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-EC3E64BC-89F2-40BF-A533-FD22D897D87A'>Initial</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

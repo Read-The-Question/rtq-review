@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-testimate-1-g0"
 title: "TopicPaper - Estimate - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>162AA59F-08CC-4B9C-8C47-3D255B74EFFE</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -78,12 +84,6 @@ $2500 \ \text{cm}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-162AA59F-08CC-4B9C-8C47-3D255B74EFFE'>Initial</p>
-</div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

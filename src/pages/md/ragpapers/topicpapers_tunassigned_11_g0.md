@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-11-g0"
 title: "TopicPaper - Unassigned - 11 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A7C319CF-83DA-4579-B28A-5CF2D1F00791</p>
+</div>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ tunit
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Convert $13.2\ \text{metres}$ into $\text{centimetres}$
@@ -75,10 +77,6 @@ $1320 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Convert $430\ \text{millimetres}$ into $\text{centimetres}$ 
@@ -111,10 +109,6 @@ $43 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Convert $2.1\ \text{kilometres}$ into $\text{metres}$ 
@@ -175,18 +169,18 @@ $2100 \ \text{m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A7C319CF-83DA-4579-B28A-5CF2D1F00791'>Initial</p>
 </div>
-<div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>91FE409B-1661-46BC-A704-FA8A43CF6F5C</p>
+</div>
+<div class='papername'>
+<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -220,10 +214,6 @@ tfactor
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the factors of $25$
@@ -248,10 +238,6 @@ $1, \ 5 \ \text{and} \ 25$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the factors of $30$
@@ -276,10 +262,6 @@ $1, \ 2, \ 3, \ 5, \ 6, \ 10, \ 15 \ \text{and} \ 30$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the highest common factor of $25$ and $30$
@@ -304,10 +286,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the prime factors of $30$ 
@@ -362,18 +340,18 @@ $2, \ 3, \ \text{and} \ 5$
 
 <p class='review_status initial' id='REVIEW-STATUS-91FE409B-1661-46BC-A704-FA8A43CF6F5C'>Initial</p>
 </div>
-<div class='papername'>
-<p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -457,18 +435,18 @@ $74$
 
 <p class='review_status initial' id='REVIEW-STATUS-2D9E6D0E-4E54-4B9F-A732-DB3E447B66D7'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>211838E2-E95A-47E2-855F-B9E96DAB6F7D</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -502,10 +480,6 @@ Insert an inequality sign $<$ or $>$ to make the following statements correct:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {6} {10} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {3} {4}$
@@ -551,10 +525,6 @@ $\dfrac {6} {10} \quad  <  \quad \dfrac {3} {4}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {8} {7} \quad \boxed {\phantom {\dfrac {a} {b}}} \quad \dfrac {11} {13}$
@@ -629,12 +599,6 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-211838E2-E95A-47E2-855F-B9E96DAB6F7D'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

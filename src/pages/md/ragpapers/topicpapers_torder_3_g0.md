@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-g0"
 title: "TopicPaper - Order - 3 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EBCA6760-D0CE-4FA4-BA50-308D963A2254</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -69,18 +75,18 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 
 <p class='review_status initial' id='REVIEW-STATUS-EBCA6760-D0CE-4FA4-BA50-308D963A2254'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5FFD2F9B-A581-4E18-9166-D2D7F6120C86</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -165,18 +171,18 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 
 <p class='review_status initial' id='REVIEW-STATUS-5FFD2F9B-A581-4E18-9166-D2D7F6120C86'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BCABF532-DB4D-44EA-893A-A8CB7914EE55</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -238,18 +244,18 @@ $4.0121, \quad 4.0211, \quad 4.1021, \quad 4.2101$
 
 <p class='review_status initial' id='REVIEW-STATUS-BCABF532-DB4D-44EA-893A-A8CB7914EE55'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>2516CBC2-1DA0-4907-AFF5-DDE8C971594D</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -333,18 +339,18 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 
 <p class='review_status initial' id='REVIEW-STATUS-2516CBC2-1DA0-4907-AFF5-DDE8C971594D'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>014D4DAF-E024-4E0F-B4D3-D05F245403AD</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -425,18 +431,18 @@ $3.025,  \quad   3 \dfrac{1}{4},  \quad   3.34,  \quad   3 \dfrac{3}{4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-014D4DAF-E024-4E0F-B4D3-D05F245403AD'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A3140AAF-E610-429C-AF4F-341B3488C084</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,18 +537,18 @@ $\text{five twelfths}, \quad 0.65, \quad 0.7,  \quad \dfrac {3} {4}, \quad \dfra
 
 <p class='review_status initial' id='REVIEW-STATUS-A3140AAF-E610-429C-AF4F-341B3488C084'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>53FB1D0A-B461-448E-853F-B08C8593DFC5</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -624,18 +630,18 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 
 <p class='review_status initial' id='REVIEW-STATUS-53FB1D0A-B461-448E-853F-B08C8593DFC5'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>14EFBA91-BE93-4FA7-9B60-535F8D09F894</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -705,18 +711,18 @@ $0.092$
 
 <p class='review_status initial' id='REVIEW-STATUS-14EFBA91-BE93-4FA7-9B60-535F8D09F894'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>005C15B9-60F0-488A-8FFD-A63DB387E325</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -797,18 +803,18 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 
 <p class='review_status initial' id='REVIEW-STATUS-005C15B9-60F0-488A-8FFD-A63DB387E325'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D823862D-86E3-4E97-A680-E4F7053C3121</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -899,18 +905,18 @@ $19.8$
 
 <p class='review_status initial' id='REVIEW-STATUS-D823862D-86E3-4E97-A680-E4F7053C3121'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BB8F8A69-2497-442F-AF8E-B6D0341C768E</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -972,18 +978,18 @@ $52.4  \quad 52.402 \quad 52.42$
 
 <p class='review_status initial' id='REVIEW-STATUS-BB8F8A69-2497-442F-AF8E-B6D0341C768E'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5702F561-6E2E-4760-BBD8-682C0DF387A6</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1045,18 +1051,18 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 
 <p class='review_status initial' id='REVIEW-STATUS-5702F561-6E2E-4760-BBD8-682C0DF387A6'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CEB88377-E568-4AA9-86C7-30EC02DF65EB</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1128,18 +1134,18 @@ $1.05$
 
 <p class='review_status initial' id='REVIEW-STATUS-CEB88377-E568-4AA9-86C7-30EC02DF65EB'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>55915BFE-F660-43D9-B855-A23AD77C520A</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1208,18 +1214,18 @@ $3.564$
 
 <p class='review_status initial' id='REVIEW-STATUS-55915BFE-F660-43D9-B855-A23AD77C520A'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>096131F4-72CE-446C-9543-2653E59BA346</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1281,18 +1287,18 @@ $3.043, \quad 3.304, \quad 3.34, \quad 3.4$
 
 <p class='review_status initial' id='REVIEW-STATUS-096131F4-72CE-446C-9543-2653E59BA346'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>51B79769-1A4D-42B7-9698-6C78B896A06D</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1368,18 +1374,18 @@ $\dfrac{3}{4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-51B79769-1A4D-42B7-9698-6C78B896A06D'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BE673146-6558-409C-B19C-DD7DE3740A33</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1459,18 +1465,18 @@ $\dfrac {2} {3}$
 
 <p class='review_status initial' id='REVIEW-STATUS-BE673146-6558-409C-B19C-DD7DE3740A33'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>C12FD4E7-441B-4A1E-BD78-D6218501E0D9</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1565,18 +1571,18 @@ $33\%$
 
 <p class='review_status initial' id='REVIEW-STATUS-C12FD4E7-441B-4A1E-BD78-D6218501E0D9'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>51948298-6710-4968-BC7A-6F04A5AA66B1</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1658,18 +1664,18 @@ $\dfrac {2} {3}$
 
 <p class='review_status initial' id='REVIEW-STATUS-51948298-6710-4968-BC7A-6F04A5AA66B1'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F6128DD4-ECC2-431B-8EF0-CFFB29805A22</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1703,10 +1709,6 @@ Frank chooses **two different** numbers from the bubble shown below, and divides
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the largest number he can get?
@@ -1750,10 +1752,6 @@ $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the smallest result?
@@ -1797,10 +1795,6 @@ $\dfrac {1} {2}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What division gives the result closest to $1$?
@@ -1886,12 +1880,6 @@ $\dfrac {10} {12}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F6128DD4-ECC2-431B-8EF0-CFFB29805A22'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
 </div>
 </div>
 </li>

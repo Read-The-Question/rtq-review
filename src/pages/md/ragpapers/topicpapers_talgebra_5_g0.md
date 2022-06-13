@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-g0"
 title: "TopicPaper - Algebra - 5 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>33D4A098-C6B8-48A5-B813-5220DA2DEA7C</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,18 +88,18 @@ $56$
 
 <p class='review_status initial' id='REVIEW-STATUS-33D4A098-C6B8-48A5-B813-5220DA2DEA7C'>Initial</p>
 </div>
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8CFB528C-79C4-4BDA-83CD-5EE537CC7589</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -192,18 +198,18 @@ $17$
 
 <p class='review_status initial' id='REVIEW-STATUS-8CFB528C-79C4-4BDA-83CD-5EE537CC7589'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>700BB296-C63A-4D7F-A9BE-F09E3785CDC3</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -236,10 +242,6 @@ A balloon pump and four packs of balloons cost $\pounds 11$ altogether.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much does a pack of balloons cost?
@@ -270,10 +272,6 @@ $\pounds 2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How much does a balloon pump and eight packs of balloons cost?
@@ -344,18 +342,18 @@ $\pounds 19$
 
 <p class='review_status initial' id='REVIEW-STATUS-700BB296-C63A-4D7F-A9BE-F09E3785CDC3'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>51F26F12-4636-4241-A2E6-BF22B6A0DD2F</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -442,18 +440,18 @@ $3 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-51F26F12-4636-4241-A2E6-BF22B6A0DD2F'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -544,18 +542,18 @@ $20$
 
 <p class='review_status initial' id='REVIEW-STATUS-96EEA4D7-9474-4AF1-B44A-ACEF806ADE3D'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B5420130-A56B-4BA2-8654-2576766211F0</p>
+</div>
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:2:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,18 +649,18 @@ $19$
 
 <p class='review_status initial' id='REVIEW-STATUS-B5420130-A56B-4BA2-8654-2576766211F0'>Initial</p>
 </div>
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:2:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>6DA9F5A4-F475-42E3-A25E-62049134FBC4</p>
+</div>
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -732,18 +730,18 @@ $111$
 
 <p class='review_status initial' id='REVIEW-STATUS-6DA9F5A4-F475-42E3-A25E-62049134FBC4'>Initial</p>
 </div>
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5AD43B4B-E920-4612-9106-152878ACCB28</p>
+</div>
+<div class='papername'>
+<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -829,18 +827,18 @@ $46$
 
 <p class='review_status initial' id='REVIEW-STATUS-5AD43B4B-E920-4612-9106-152878ACCB28'>Initial</p>
 </div>
-<div class='papername'>
-<p>king-henry-viii-school--11-plus--maths--9999--sample-paper-1:0:39</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A56CC986-6FB6-44CD-B429-F2315A65E217</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -871,10 +869,6 @@ Solve each of these equations below to find the value of $x$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x - 4 = 17$
@@ -905,10 +899,6 @@ $21$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5x = 55$
@@ -941,10 +931,6 @@ $11$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{x}{10} = 6$
@@ -975,10 +961,6 @@ $60$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $14 + x = 23$
@@ -1009,10 +991,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{4}x = 7$
@@ -1043,10 +1021,6 @@ $28$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7x = 37$
@@ -1106,18 +1080,18 @@ $\dfrac {37} {7}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A56CC986-6FB6-44CD-B429-F2315A65E217'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2AC891C8-7536-4140-932D-979889A952B8</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1148,10 +1122,6 @@ Solve the following two step , below, to find the value of $x$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5x - 9 = 6$
@@ -1185,10 +1155,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{x}{5} + 9 = 16$
@@ -1221,10 +1187,6 @@ $35$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $17 = 2 + 3x$
@@ -1259,10 +1221,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7x + 15 = 1$
@@ -1327,18 +1285,18 @@ $-2$
 
 <p class='review_status initial' id='REVIEW-STATUS-2AC891C8-7536-4140-932D-979889A952B8'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3322EA7C-DA09-4452-AAFA-C64EAE93EE30</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1427,18 +1385,18 @@ $400$
 
 <p class='review_status initial' id='REVIEW-STATUS-3322EA7C-DA09-4452-AAFA-C64EAE93EE30'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>140F0395-4212-4458-B2B7-7AF063D4D08B</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1527,18 +1485,18 @@ $112$
 
 <p class='review_status initial' id='REVIEW-STATUS-140F0395-4212-4458-B2B7-7AF063D4D08B'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1634,18 +1592,18 @@ $21$
 
 <p class='review_status initial' id='REVIEW-STATUS-DC9D781B-8582-4A1E-BAA8-BA6DA47CFE4A'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>938E522F-43A3-44CB-9551-C2D9CF301F50</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1676,10 +1634,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Tommy thinks of a number. When he doubles the number and then subtracts $11$, he gets the answer $17$. What was his number?
@@ -1718,10 +1672,6 @@ $14$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Lilly thinks of a number. When she takes away $11$ from the number and then doubles the answer, she gets $82$. What was her number?
@@ -1760,10 +1710,6 @@ $52$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I’m thinking of a number. When I subtract the number from $45$, I get the same answer as when I double the number. What’s my number?
@@ -1832,18 +1778,18 @@ $15$
 
 <p class='review_status initial' id='REVIEW-STATUS-938E522F-43A3-44CB-9551-C2D9CF301F50'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>AAD74FF2-AC76-4ECE-AB35-E5D7E8DF0E2B</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1934,18 +1880,18 @@ $8$
 
 <p class='review_status initial' id='REVIEW-STATUS-AAD74FF2-AC76-4ECE-AB35-E5D7E8DF0E2B'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0F73731D-E7C1-44C0-8150-D86AA287599D</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2031,18 +1977,18 @@ $99$
 
 <p class='review_status initial' id='REVIEW-STATUS-0F73731D-E7C1-44C0-8150-D86AA287599D'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A52F9548-B5CC-43EF-8F45-832F47AAC757</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2131,18 +2077,18 @@ $45$
 
 <p class='review_status initial' id='REVIEW-STATUS-A52F9548-B5CC-43EF-8F45-832F47AAC757'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>7C02F3E0-0B0D-4D18-94F1-36B11717F1F8</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2232,18 +2178,18 @@ $20$
 
 <p class='review_status initial' id='REVIEW-STATUS-7C02F3E0-0B0D-4D18-94F1-36B11717F1F8'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4EDABAC9-B1F8-470A-AE7E-934077143CEE</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2335,18 +2281,18 @@ $64$
 
 <p class='review_status initial' id='REVIEW-STATUS-4EDABAC9-B1F8-470A-AE7E-934077143CEE'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8C9B0648-64C4-4BA9-A70B-251A7C8E025A</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2377,10 +2323,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Sarah thinks of a number. When she triples the number and then adds $15$, she gets the answer $39$. What was her number?
@@ -2419,10 +2361,6 @@ $8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Kirsty thinks of a number. When she adds $15$ to the number and then triples the answer, she gets $39$. What was her number?
@@ -2461,10 +2399,6 @@ $-2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Zack thinks of a number. When he triples the number and subtracts the answer from $71$, he gets one more than double his original number. What was his number?
@@ -2534,18 +2468,18 @@ $14$
 
 <p class='review_status initial' id='REVIEW-STATUS-8C9B0648-64C4-4BA9-A70B-251A7C8E025A'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A8E86124-27D8-4CD2-9092-38E26EDAFF3C</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2620,18 +2554,18 @@ $6$
 
 <p class='review_status initial' id='REVIEW-STATUS-A8E86124-27D8-4CD2-9092-38E26EDAFF3C'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>31862070-31F4-4769-871C-B8B78E60185D</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2662,10 +2596,6 @@ In the next two questions write a number in the box which will make the statemen
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \times \Box = 36$
@@ -2690,10 +2620,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\Box - 13 = 32$
@@ -2758,18 +2684,18 @@ $45$
 
 <p class='review_status initial' id='REVIEW-STATUS-31862070-31F4-4769-871C-B8B78E60185D'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9B9050C1-533D-4992-A903-6BF6255CBEA5</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2800,10 +2726,6 @@ A school are collecting tokens for ‘free books’. Sarah brings $28$ tokens to
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many tokens does Leena bring?
@@ -2835,10 +2757,6 @@ $15$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many tokens do the three girls bring in total?
@@ -2900,18 +2818,18 @@ $78$
 
 <p class='review_status initial' id='REVIEW-STATUS-9B9050C1-533D-4992-A903-6BF6255CBEA5'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9DD65BB6-6C3C-463C-A33E-777F8440F791</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2944,10 +2862,6 @@ Write down the value of $N$ which makes each of the statements true.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7 + N = 13$
@@ -2978,10 +2892,6 @@ $6$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \times N = 36$
@@ -3013,10 +2923,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $N \times N = 25$
@@ -3048,10 +2954,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $N - 6 = N \div 2$
@@ -3115,18 +3017,18 @@ $12$
 
 <p class='review_status initial' id='REVIEW-STATUS-9DD65BB6-6C3C-463C-A33E-777F8440F791'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B2E13D6F-C414-4890-83D9-EEF6CC62BD32</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3157,10 +3059,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write the fracrion $\dfrac{3} {5}$ as a decimal.
@@ -3192,10 +3090,6 @@ $0.6$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{3} {5}$ of the pupils at a school stay for lunch.
@@ -3261,18 +3155,18 @@ $450$
 
 <p class='review_status initial' id='REVIEW-STATUS-B2E13D6F-C414-4890-83D9-EEF6CC62BD32'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A2F4CE02-CC08-4549-9659-71797B3FFB94</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3343,18 +3237,18 @@ $\pounds 1500$
 
 <p class='review_status initial' id='REVIEW-STATUS-A2F4CE02-CC08-4549-9659-71797B3FFB94'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FD6001A4-A10E-44ED-88F4-1456AB82BADE</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3385,10 +3279,6 @@ Solve these equations to find the value of the letter.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5a = 15$
@@ -3421,10 +3311,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $b - 7 = 26$
@@ -3455,10 +3341,6 @@ $33$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{c}{9} = 4$
@@ -3489,10 +3371,6 @@ $36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3x - 1 = x + 7$
@@ -3556,12 +3434,6 @@ $4$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-FD6001A4-A10E-44ED-88F4-1456AB82BADE'>Initial</p>
-</div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2017-sample-paper-1"
 title: "Tonbridge School - Scholarship - Maths - 2017 - Sample Paper 1"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>BC18B92E-4190-4C3F-B391-1D7F39F5B4D9</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,10 +65,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\frac{1}{2}x+\frac{1}{3}y=\frac{1}{4}$
@@ -97,10 +99,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2x + 3y = 4$
@@ -135,18 +133,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>6D5ECDFC-21C2-4419-84A6-F605A61E9D0E</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -191,10 +189,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How far has Brian run when they pass each other for the first time?
@@ -229,10 +223,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 After they pass each other for the second time, how much further does Brian need to run in order to complete two laps ($800\, m$)?
@@ -267,18 +257,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>42270AE8-4562-4EBB-B3FA-CAFC2742FCBA</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -322,10 +312,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $V = 240\,cm^3$ , find $T$ .
@@ -360,10 +346,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 In an experiment, $T$ is measured as $30\, cm^2$ and $V$ as $12\, cm^3$ . What value of $\pi$  does the formula then give?
@@ -398,10 +380,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the values of $T$ and $V$ are numerically the same, find $T$ .
@@ -436,18 +414,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DE1D9796-F11D-4DA8-ADF1-9F1086B40385</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -491,10 +469,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $a = 24, b = 7$ find $c$ and $d$ .
@@ -529,10 +503,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $a = 120, c = 169$ find $b$ and $d$.
@@ -570,18 +540,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>14AE2923-5211-4ABF-BD29-8574263DA505</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -625,10 +595,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 One piece is $20$ times the length of the other.
@@ -663,10 +629,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 One piece is $20\, cm$ longer than the other.
@@ -701,10 +663,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 One piece is $20\%$ longer than the other.
@@ -739,18 +697,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>87FA4AD1-10FF-4E33-A2D5-9DABB8D57F60</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -797,10 +755,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $x = 23\degree$ , find angle $y$ .
@@ -835,10 +789,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Use algebraic reasoning to find $y$ in terms of $x$ , simplifying your answer as far as possible. 
@@ -873,10 +823,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If triangle BCD is equilateral, what is the value of $x$ ?
@@ -911,18 +857,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5C52A192-662D-4966-B429-54723BEA5C8E</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -970,10 +916,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When $x = 3$ , show that $y = 77.8$ (correct to $1$ decimal place).
@@ -1008,10 +950,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the values of $y$ for $x = 0, 1, 2, 4, 5, 6$.
@@ -1046,10 +984,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Choosing sensible scales, use your values in (a) and (b) to plot a graph of $y$ against $x$ .
@@ -1084,10 +1018,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the value of $x$ when $y = 85$ ?
@@ -1122,10 +1052,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Use your answer to either (b) or (c) to find the volume of the whole sphere.
@@ -1160,18 +1086,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>763B20D4-93AE-4138-B20F-17C519AC63AF</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1215,10 +1141,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the diameter of the circles.
@@ -1258,10 +1180,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the length of the perimeter of this region.
@@ -1296,10 +1214,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the area of this region.
@@ -1334,18 +1248,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>54504016-800A-4E67-B6A9-E41E1A4C629D</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1400,10 +1314,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What are the entries in Column B for Rows $1, 3$ and $4$?
@@ -1438,10 +1348,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find formulae in terms of $n$ for:
@@ -1474,10 +1380,6 @@ TODOANSWER
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 The entry in Column B for Row $n$ ;
@@ -1512,10 +1414,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 The number of triangle numbers in Column A for Row $n$ .
@@ -1553,10 +1451,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the entry in Column A ends with $T_{97}$, what is the corresponding entry in Column B?
@@ -1591,10 +1485,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the right-hand triangle number in Column A is $7626$, what is the Row number?
@@ -1629,12 +1519,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2017--sample-paper-1</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 </ul>

@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-oldpr"
 title: "TopicPaper - Detailedsubtraction - 1 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -73,12 +79,6 @@ $349$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-806A70B8-E2A8-4CC6-99FB-54DFD0C55F33'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:0</p>
-</div>
-<div class='rag'>
-<p>rag_ar_oldpr</p>
 </div>
 </div>
 </li>

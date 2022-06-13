@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-oldpr"
 title: "TopicPaper - Sequence - 2 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83</p>
+</div>
+<div class='papername'>
+<p>kent-college--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -95,12 +101,6 @@ $18$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83'>Initial</p>
-</div>
-<div class='papername'>
-<p>kent-college--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_na_oldpr</p>
 </div>
 </div>
 </li>

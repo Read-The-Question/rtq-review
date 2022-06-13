@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-7"
 title: "TopicPaper - Algebra - 7"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -18,6 +18,12 @@ date: 2022-06-12 09:43:17
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B5302994-EC09-45D9-8366-DECBAB0E73A2</p>
+</div>
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:34</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -66,18 +72,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:34</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>500FFE5A-6753-4E58-8436-313774F3E51C</p>
+</div>
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -119,18 +125,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:36</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>172741B4-476E-490F-988C-FC140144A330</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -161,10 +167,6 @@ Find the missing numbers:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3.49 \times \ldots = 349000$
@@ -196,10 +198,6 @@ $1000000$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $9 \div   \ldots = 36$
@@ -262,18 +260,18 @@ $\dfrac {1} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-172741B4-476E-490F-988C-FC140144A330'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D7B8557B-C51F-4733-8A8F-653E8E463B35</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -341,18 +339,18 @@ $600000$
 
 <p class='review_status initial' id='REVIEW-STATUS-D7B8557B-C51F-4733-8A8F-653E8E463B35'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>C2047E1E-44EC-45A8-8D46-B84E3ACCC574</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -391,18 +389,18 @@ $36 days$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>C2E4602D-7614-4602-B0C7-6BE05EC0D2F4</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -447,18 +445,18 @@ $9,12$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>2225AC51-DD9D-4735-95C7-96330E32FE3A</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -515,18 +513,18 @@ $147$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>00C17084-5529-4DED-AB9D-84C6F2769CA9</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -616,18 +614,18 @@ a = 2,b = 12$
 
 <p class='review_status initial' id='REVIEW-STATUS-00C17084-5529-4DED-AB9D-84C6F2769CA9'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>1AF27AEE-1DB6-474C-AB00-27C71B0A48B2</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -717,18 +715,18 @@ $p = 575, q= 425$
 
 <p class='review_status initial' id='REVIEW-STATUS-1AF27AEE-1DB6-474C-AB00-27C71B0A48B2'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4471FF90-E8D7-4ED1-8FDA-C346A528851A</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -803,18 +801,18 @@ $23,483$
 
 <p class='review_status initial' id='REVIEW-STATUS-4471FF90-E8D7-4ED1-8FDA-C346A528851A'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4F5AE821-53F1-4B63-BD66-A4D76B7F9B20</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -845,10 +843,6 @@ Write down the missing number in each part:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $28 \times {?} = 5600$
@@ -883,10 +877,6 @@ $200$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2.8 \times {?} = 5600$
@@ -921,10 +911,6 @@ $2000$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5600 \div {?} = 28000$
@@ -992,18 +978,18 @@ $\dfrac {1} {5}$
 
 <p class='review_status initial' id='REVIEW-STATUS-4F5AE821-53F1-4B63-BD66-A4D76B7F9B20'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0987E5A4-4B55-4CE4-AE21-2C2FA89D1803</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1034,10 +1020,6 @@ If $x = 7, y = -5$ and $z = -6$, find the value of
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x + y - z$
@@ -1070,10 +1052,6 @@ $8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $xy$
@@ -1104,10 +1082,6 @@ $- 35$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $-3y^2$
@@ -1139,10 +1113,6 @@ $- 75$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2yz -  x^3$
@@ -1204,18 +1174,18 @@ $- 280$
 
 <p class='review_status initial' id='REVIEW-STATUS-0987E5A4-4B55-4CE4-AE21-2C2FA89D1803'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>9534E5E7-9ED2-4503-B261-575DFA10853E</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1246,10 +1216,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, then subtract fifteen. The result is thirty-seven.
@@ -1284,10 +1250,6 @@ $52$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, multiply it by six, then subtract nine. The result is thirty-three. 
@@ -1326,10 +1288,6 @@ $7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, double it, then add fifteen. The result is three. 
@@ -1397,18 +1355,18 @@ $6$
 
 <p class='review_status initial' id='REVIEW-STATUS-9534E5E7-9ED2-4503-B261-575DFA10853E'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>2CA89A06-D6D2-400A-B27B-67091B0F2E69</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1439,10 +1397,6 @@ Write down the missing number in each of the following
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2100 \times {?} = 84000$
@@ -1478,10 +1432,6 @@ $40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2.1 \times {?} = 84$
@@ -1516,10 +1466,6 @@ $40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $8.4 \div {?} = 21$
@@ -1582,18 +1528,18 @@ $176.4$
 
 <p class='review_status initial' id='REVIEW-STATUS-2CA89A06-D6D2-400A-B27B-67091B0F2E69'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-3:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>28FC31CE-4F0F-40E8-993C-6AB248B233EF</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1624,10 +1570,6 @@ If $a = 9, b = -2$ and $c = -7$, find the value of the following expressions
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $abc$
@@ -1659,10 +1601,6 @@ $126$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $bc^2$
@@ -1694,10 +1632,6 @@ $- 98$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3a - 2b + 4c$
@@ -1760,18 +1694,18 @@ $3$
 
 <p class='review_status initial' id='REVIEW-STATUS-28FC31CE-4F0F-40E8-993C-6AB248B233EF'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1815,18 +1749,18 @@ $65$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3A0149EE-424F-4F81-9623-9D7932C23AE0</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1851,10 +1785,6 @@ For the questions below, form an equation from the given information and solve i
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, add five and then divide by two. My answer is $-19$.
@@ -1893,10 +1823,6 @@ $-43$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Twice a number added to half of the same number gives $250$.
@@ -1940,10 +1866,6 @@ $100$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When eighteen is added to twice the square of a number, the result is $50$.
@@ -1986,10 +1908,6 @@ $+ 4, \ -4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When three tenths of a number is subtracted from ninety-five hundreds of the same number, the result is $1.95$.
@@ -2061,18 +1979,18 @@ $16.25$
 
 <p class='review_status initial' id='REVIEW-STATUS-3A0149EE-424F-4F81-9623-9D7932C23AE0'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-4:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2145,18 +2063,18 @@ $402.6$
 
 <p class='review_status initial' id='REVIEW-STATUS-6A9856E1-3211-45A5-B5B2-EAF3CFB6C17B'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>ED31C65A-6892-4ACD-8993-0B84DA0D7854</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2245,18 +2163,18 @@ $a=12 b=0,a=3 b=12$
 
 <p class='review_status initial' id='REVIEW-STATUS-ED31C65A-6892-4ACD-8993-0B84DA0D7854'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2332,18 +2250,18 @@ $35,42$
 
 <p class='review_status initial' id='REVIEW-STATUS-8F04F6AD-7E4E-4FEA-BE60-E45097E0FEB2'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>3F45652E-B2A7-4662-81DC-7F457C924A10</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2374,10 +2292,6 @@ Write down the missing number in each part.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $37 \times {?} = 7400$
@@ -2412,10 +2326,6 @@ $200$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3.7 \times {?} = 7400$
@@ -2450,10 +2360,6 @@ $2000$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7400 \div {?} = 37000$
@@ -2520,18 +2426,18 @@ $0.2$
 
 <p class='review_status initial' id='REVIEW-STATUS-3F45652E-B2A7-4662-81DC-7F457C924A10'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-5:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>552DEC74-2708-4D2D-A029-1CDE7C952691</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2562,10 +2468,6 @@ If $x = 3, y = -7$ and $z = -9$, find the value of
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x + y - z$
@@ -2597,10 +2499,6 @@ $5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $xy$
@@ -2631,10 +2529,6 @@ $-21$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $-3y^{2}$
@@ -2665,10 +2559,6 @@ $147$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2yz - x^3$
@@ -2730,18 +2620,18 @@ $117$
 
 <p class='review_status initial' id='REVIEW-STATUS-552DEC74-2708-4D2D-A029-1CDE7C952691'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>571A23DE-783B-477A-9FCD-DE43E95FF88D</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2772,10 +2662,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, then subtract fifteen. The result is thirty-seven.
@@ -2812,10 +2698,6 @@ $52$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, multiply it by six, then subtract nine. The result is thirty-three. 
@@ -2852,10 +2734,6 @@ $42$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, double it, then add fifteen. The result is three. 
@@ -2922,18 +2800,18 @@ $-6$
 
 <p class='review_status initial' id='REVIEW-STATUS-571A23DE-783B-477A-9FCD-DE43E95FF88D'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DB1AD910-8F2A-448D-87E9-93B8F4063A1F</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2978,18 +2856,18 @@ $40$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>F5248F77-33B8-4AC4-A9B4-0AF399DA1C63</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3034,18 +2912,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F2F22AA6-D55F-4788-A3CE-CE3F27F8216D</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3076,10 +2954,6 @@ If $a = 11, b = -3$ and $c = -6$, find the value of the following expressions
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $abc$
@@ -3110,10 +2984,6 @@ $198$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $bc^2$
@@ -3144,10 +3014,6 @@ $-108$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3a - 2b - 4c$
@@ -3209,18 +3075,18 @@ $-108$
 
 <p class='review_status initial' id='REVIEW-STATUS-F2F22AA6-D55F-4788-A3CE-CE3F27F8216D'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>4BCDEBB4-C5C3-44DB-A1DD-D9936C5BD615</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3251,10 +3117,6 @@ For the questions below, form an equation from the given information and solve i
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, add five and then divide by two. My answer is $-17$.
@@ -3293,10 +3155,6 @@ $-39$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Twice a number added to half of the same number gives $90$.
@@ -3340,10 +3198,6 @@ $36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When two is added to twice the square of a number, the result is $100$.
@@ -3386,10 +3240,6 @@ $+ 7, \ - 7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 When three tenths of a number is subtracted from ninety-five hundreds of the same number, the result is $1.95$.
@@ -3462,18 +3312,18 @@ $-16.25$
 
 <p class='review_status initial' id='REVIEW-STATUS-4BCDEBB4-C5C3-44DB-A1DD-D9936C5BD615'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A7038F51-E366-4F8B-B11C-1F52FFF128CF</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3504,10 +3354,6 @@ Where possible, fully simplify the following algebraic expressions
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x \div x$
@@ -3537,10 +3383,6 @@ $1$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x - x$
@@ -3570,10 +3412,6 @@ $0$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x + 2x - 3 - 4x + 9$
@@ -3603,10 +3441,6 @@ $-x + 6$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5x \times x \times 2x$
@@ -3667,18 +3501,18 @@ $10x ^ 3$
 
 <p class='review_status initial' id='REVIEW-STATUS-A7038F51-E366-4F8B-B11C-1F52FFF128CF'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>473D7359-5460-4A81-BD40-81A0A3A69215</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3709,10 +3543,6 @@ Solve the following equations, leaving your answers as improper fractions where 
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5x - 11 = 34$
@@ -3747,10 +3577,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{x}{2} - 3 = \dfrac{1}{2}$
@@ -3788,10 +3614,6 @@ $7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3 + \dfrac{2x - 3}{7}  = 8$
@@ -3830,10 +3652,6 @@ $19$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $6x - 9 = 15 - 7x$
@@ -3866,10 +3684,6 @@ $1 \ \dfrac {11} {13}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5(x - 6) = 25$
@@ -3904,10 +3718,6 @@ $11$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3x - 9 = \dfrac{1}{4}x + \dfrac{1}{2}$ 
@@ -3977,18 +3787,18 @@ $3 \dfrac {5} {11}$
 
 <p class='review_status initial' id='REVIEW-STATUS-473D7359-5460-4A81-BD40-81A0A3A69215'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>183E5936-AE5B-4F69-9E14-3F492AF14DA3</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4019,10 +3829,6 @@ If $a = 6, b = -2$ and $c = -5$, find the value of the following expressions
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $abc$
@@ -4053,10 +3859,6 @@ $60$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $bc^2$
@@ -4087,10 +3889,6 @@ $-50$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3a - 2b - 4c$
@@ -4152,18 +3950,18 @@ $42$
 
 <p class='review_status initial' id='REVIEW-STATUS-183E5936-AE5B-4F69-9E14-3F492AF14DA3'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>A8B52462-A833-4D1A-AD6D-8D8F5E26916D</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4197,10 +3995,6 @@ tareaperimeter
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Five times a number is eight less than three times the number.
@@ -4237,10 +4031,6 @@ $-1$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 John thought of a number. He subtracted ten and then divided by three.
@@ -4282,10 +4072,6 @@ $-5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The width of a rectangle is four times its height. 
@@ -4355,18 +4141,18 @@ $1.2,4.8$
 
 <p class='review_status initial' id='REVIEW-STATUS-A8B52462-A833-4D1A-AD6D-8D8F5E26916D'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-10:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>51830703-CBD9-43F8-B47F-335ADCA3A65F</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4397,10 +4183,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 John wanted to buy a boat.
@@ -4434,10 +4216,6 @@ $10569976$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Polly’s bill in a shop came to $\pounds 374.67$.
@@ -4471,10 +4249,6 @@ $\pounds 637.88$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A box contains $37$ chocolates. How many chocolates would there be in $26$ boxes?
@@ -4504,10 +4278,6 @@ $962$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Seven computers cost $\pounds 882$. Find the cost of one computer.
@@ -4539,10 +4309,6 @@ $\pounds 126$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $650$ calculators need to be shipped in boxes. A maximum of $24$ calculators fit in each box.How many boxes are needed?
@@ -4604,18 +4370,18 @@ $28$
 
 <p class='review_status initial' id='REVIEW-STATUS-51830703-CBD9-43F8-B47F-335ADCA3A65F'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>EFD38E79-EABA-416D-9691-E23FADC9823E</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4686,18 +4452,18 @@ $610$
 
 <p class='review_status initial' id='REVIEW-STATUS-EFD38E79-EABA-416D-9691-E23FADC9823E'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B46513A7-1E27-44FD-8AD7-EA8D3C19DE4E</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4780,18 +4546,18 @@ $(12,0),(4,18)$
 
 <p class='review_status initial' id='REVIEW-STATUS-B46513A7-1E27-44FD-8AD7-EA8D3C19DE4E'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E2966271-3218-4066-8490-77C5F92607CA</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4822,10 +4588,6 @@ Write down the missing number in each part.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $23 \times {?} = 690$
@@ -4860,10 +4622,6 @@ $30$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2.3 \times {?} = 6900$
@@ -4900,10 +4658,6 @@ $3000$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $6900 \div {?} = 23000$
@@ -4968,18 +4722,18 @@ $0.3$
 
 <p class='review_status initial' id='REVIEW-STATUS-E2966271-3218-4066-8490-77C5F92607CA'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-8:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5010,10 +4764,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The length of race track A is $3420.4 \ \text{metres}$.
@@ -5047,10 +4797,6 @@ $77960.1 \ \text{metres}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 A lorry can carry $68$ boxes, and each box contains $22$ books.
@@ -5082,10 +4828,6 @@ $1496$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2341 \ \text{litres}$ of water need to be carried in containers that are $21 \ \text{litres}$.
@@ -5118,10 +4860,6 @@ $112$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Interest is earned at a rate of $13\%$ per year.
@@ -5156,10 +4894,6 @@ $\pounds 397.54$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Subtract three sevenths from five sixths.
@@ -5222,18 +4956,18 @@ $\dfrac {17} {42}$
 
 <p class='review_status initial' id='REVIEW-STATUS-ECC9C62A-5E83-4FDE-ACA1-1F96AF5CB532'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>B0474C27-24BE-44CC-8751-8A066A162D28</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5264,10 +4998,6 @@ If $x = -2, y = 3$ and $z = -1$, find the value of
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $x + y - z$
@@ -5299,10 +5029,6 @@ $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $xz$
@@ -5333,10 +5059,6 @@ $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $-3x^2$
@@ -5368,10 +5090,6 @@ $-12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2xy - z^3$
@@ -5434,18 +5152,18 @@ $-11$
 
 <p class='review_status initial' id='REVIEW-STATUS-B0474C27-24BE-44CC-8751-8A066A162D28'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>39E23842-24A9-4406-85BD-91A1D31AE811</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5476,10 +5194,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, then subtract twelve. The result is eighteen.
@@ -5516,10 +5230,6 @@ $30$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, multiply it by six, then subtract nine. The result is minus thirty nine. 
@@ -5558,10 +5268,6 @@ $-5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 I think of a number, double it, then subtract twelve. The result is negative three. 
@@ -5630,18 +5336,18 @@ $4.5$
 
 <p class='review_status initial' id='REVIEW-STATUS-39E23842-24A9-4406-85BD-91A1D31AE811'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5672,10 +5378,6 @@ Solve the following equations, giving your answers as whole numbers or fractions
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3x -7 = 5x + 7$
@@ -5710,10 +5412,6 @@ $-7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{2}x - 3 = \dfrac{x}{3} + 5$
@@ -5777,18 +5475,18 @@ $48$
 
 <p class='review_status initial' id='REVIEW-STATUS-5482D9F1-457C-4A2D-BC0F-D0D6F3B98CDF'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>B2F63041-ED48-4974-9D2B-15C31CCE8E6A</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -5830,12 +5528,6 @@ $40$
 </div>
 
 
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2018--sample-paper-9:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 </ul>

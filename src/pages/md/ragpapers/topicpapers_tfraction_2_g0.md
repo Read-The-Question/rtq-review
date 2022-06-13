@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g0"
 title: "TopicPaper - Fraction - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0287200B-A30D-4F47-9CA8-52ED14101AEE</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -26,10 +32,6 @@ tfraction
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $\dfrac{1}{4}$ of $48$.
@@ -62,10 +64,6 @@ $12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out $\dfrac{1}{2}$ of $\dfrac{1}{3}$ of $\dfrac{1}{4}$ of $48$.
@@ -129,18 +127,18 @@ $2$
 
 <p class='review_status initial' id='REVIEW-STATUS-0287200B-A30D-4F47-9CA8-52ED14101AEE'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -219,18 +217,18 @@ $\dfrac {9} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E'>Initial</p>
 </div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6C312D6E-654D-4791-935E-BC0C5352D615</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -301,18 +299,18 @@ $14$
 
 <p class='review_status initial' id='REVIEW-STATUS-6C312D6E-654D-4791-935E-BC0C5352D615'>Initial</p>
 </div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3C35E025-3712-4F87-95B5-ACF37CED321C</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -381,18 +379,18 @@ $\dfrac {11} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-3C35E025-3712-4F87-95B5-ACF37CED321C'>Initial</p>
 </div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-2:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -423,10 +421,6 @@ Calculate:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{3}{4} - \dfrac{2}{5}$
@@ -459,10 +453,6 @@ $\dfrac {7} {20}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{5}{12} \times \dfrac{1}{4}$
@@ -492,10 +482,6 @@ $\dfrac {5} {36}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{2}{5} \div \dfrac{4}{10}$
@@ -529,10 +515,6 @@ $1$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1 \dfrac{1}{8} + \dfrac{1}{6}$
@@ -600,18 +582,18 @@ $1 \ \dfrac {7} {24}$
 
 <p class='review_status initial' id='REVIEW-STATUS-73DB7EA7-A552-463A-A18C-5677985F3293'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>16C2DCFA-5867-4439-AAD8-0886FF1DB404</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -642,10 +624,6 @@ Calculate the following:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{5}$ of $75$
@@ -678,10 +656,6 @@ $15$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{5}{8}$ of $32$
@@ -715,10 +689,6 @@ $20$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $17.5\%$ of $63$
@@ -781,18 +751,18 @@ $11.025$
 
 <p class='review_status initial' id='REVIEW-STATUS-16C2DCFA-5867-4439-AAD8-0886FF1DB404'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>073AD692-FB0A-42C4-B1A4-C0D2CFC948C3</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -826,10 +796,6 @@ Jon keeps chickens and ducks. He has $6$ chickens and $2$ ducks.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What fraction of Jon’s animals are ducks?
@@ -862,10 +828,6 @@ $\dfrac{1}{4}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What percentage of Jon’s animals are chickens?
@@ -929,18 +891,18 @@ $25 \%$
 
 <p class='review_status initial' id='REVIEW-STATUS-073AD692-FB0A-42C4-B1A4-C0D2CFC948C3'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -971,10 +933,6 @@ Solve the following, leaving your answers in the simplest form.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{4} + \dfrac{3}{8}$
@@ -1007,10 +965,6 @@ $\dfrac {5} {8} $
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{3}{7} - \dfrac{3}{4}$
@@ -1073,18 +1027,18 @@ $\dfrac {-9} {28}$
 
 <p class='review_status initial' id='REVIEW-STATUS-22705A54-9AB4-4D0D-8448-96A567590E3C'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B3AFF432-CB6A-4E95-AADE-45C349B0904D</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1115,10 +1069,6 @@ Calculate - remember to cancel your answers if possible
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{3}{4} + \dfrac{5}{6}$
@@ -1151,10 +1101,6 @@ $\dfrac {19} {12}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{4}{5} - \dfrac{2}{3}$ 
@@ -1187,10 +1133,6 @@ $\dfrac {2} {15}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{7} \times \dfrac{2}{3} \times 21 =$   
@@ -1253,18 +1195,18 @@ $2$
 
 <p class='review_status initial' id='REVIEW-STATUS-B3AFF432-CB6A-4E95-AADE-45C349B0904D'>Initial</p>
 </div>
-<div class='papername'>
-<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1346,18 +1288,18 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 
 <p class='review_status initial' id='REVIEW-STATUS-66CC3FAD-48FE-44E8-87CF-70E572E82771'>Initial</p>
 </div>
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>091BE174-DE2B-4C75-991E-0E380683A53B</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1388,10 +1330,6 @@ tfraction
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $\dfrac{1}{2}$ of $72$
@@ -1425,10 +1363,6 @@ $36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $\dfrac{3}{4}$ of $28$
@@ -1461,10 +1395,6 @@ $21$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find $\dfrac{3}{5}$ of $40$
@@ -1527,18 +1457,18 @@ $24$
 
 <p class='review_status initial' id='REVIEW-STATUS-091BE174-DE2B-4C75-991E-0E380683A53B'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1619,18 +1549,18 @@ $99$
 
 <p class='review_status initial' id='REVIEW-STATUS-3A3AB715-05E4-4635-8C9A-641EC20949C8'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>39CD718E-4622-4E85-BC42-CE13D8EE9299</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1710,18 +1640,18 @@ $\dfrac {13} {15}$
 
 <p class='review_status initial' id='REVIEW-STATUS-39CD718E-4622-4E85-BC42-CE13D8EE9299'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1790,18 +1720,18 @@ $\dfrac {3} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1870,12 +1800,6 @@ $\dfrac {1} {2}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E'>Initial</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
 </div>
 </div>
 </li>

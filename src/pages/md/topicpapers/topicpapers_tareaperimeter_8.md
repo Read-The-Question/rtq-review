@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-8"
 title: "TopicPaper - Areaperimeter - 8"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,9 +15,15 @@ date: 2022-06-12 09:43:17
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7F5F775B-7E11-4998-A118-784117B4C479</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -60,10 +66,6 @@ A pattern is made using $4$ of these tiles.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the perimeter of the outer edge of the design?
@@ -94,10 +96,6 @@ $40 \ \text{cm}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the perimeter of the square left empty in the middle?
@@ -160,18 +158,18 @@ $16 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7F5F775B-7E11-4998-A118-784117B4C479'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>34424FBE-EF3D-43B6-887C-E57D4C2AFD0B</p>
+</div>
+<div class='papername'>
+<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -215,10 +213,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the area of the shape shaded on the grid.
@@ -253,10 +247,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Draw a rectangle on the grid with the same area as the shape
@@ -294,18 +284,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>879257AD-7CA0-4670-881E-438490A5C1DC</p>
+</div>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -390,18 +380,18 @@ $36 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-879257AD-7CA0-4670-881E-438490A5C1DC'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>225FE540-8613-4C8B-B119-CC67CEA85C4B</p>
+</div>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -495,18 +485,18 @@ $40 \ \text{cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-225FE540-8613-4C8B-B119-CC67CEA85C4B'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>857C8851-DFFE-4176-BC5A-986FC02066A9</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -586,18 +576,18 @@ $24.9 \ \text{cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-857C8851-DFFE-4176-BC5A-986FC02066A9'>Initial</p>
 </div>
-<div class='papername'>
-<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>3E76B098-E1E3-44C7-9465-39667894AFEE</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -641,10 +631,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $R = 63$ and $r = 2.4$ , find $S$ .
@@ -679,10 +665,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $S = 2500$ and $r = 3.1$, find $R$ .
@@ -717,10 +699,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $S = 1800$ and $R = 10r$ , find $r$ .
@@ -755,10 +733,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Factorise fully $2\pi^2\,Rr+4\pi\,r^2$ .
@@ -793,18 +767,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>314C9637-90E4-42E0-912B-302FA8051720</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -853,10 +827,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The area of the region labelled A.
@@ -891,10 +861,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The area of the region labelled B.
@@ -929,18 +895,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>8FE71FBE-741B-44E7-B00C-6618D7E244F9</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -987,10 +953,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the radius of the sphere with the same surface area as the cube.
@@ -1025,10 +987,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the radius of the sphere with the same volume as the cube.
@@ -1063,10 +1021,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the radius of the sphere if both the sphere and the cube have the same ratio of surface area to volume.
@@ -1101,18 +1055,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>03277000-358B-4FBF-A4D3-363BF2924B7F</p>
+</div>
+<div class='papername'>
+<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1158,10 +1112,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the area of the pond?
@@ -1196,10 +1146,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Draw a line on the diagram which splits the lawn into two rectangles. 
@@ -1236,10 +1182,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the area of the path?
@@ -1274,18 +1216,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>36E95BDA-CF7B-4EEC-AF73-C18EE5638591</p>
+</div>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1375,18 +1317,18 @@ $56$
 
 <p class='review_status initial' id='REVIEW-STATUS-36E95BDA-CF7B-4EEC-AF73-C18EE5638591'>Initial</p>
 </div>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4C4D2D05-7411-4B91-B9C3-73F6D271E210</p>
+</div>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1486,18 +1428,18 @@ $28 \ \text{m}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-4C4D2D05-7411-4B91-B9C3-73F6D271E210'>Initial</p>
 </div>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B5F661C5-EDE9-4D72-925A-85A6F3D58E56</p>
+</div>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1581,18 +1523,18 @@ $\pounds 74.1$
 
 <p class='review_status initial' id='REVIEW-STATUS-B5F661C5-EDE9-4D72-925A-85A6F3D58E56'>Initial</p>
 </div>
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>F66494CC-21E4-467E-8FDE-DF463E2439E5</p>
+</div>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1662,18 +1604,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>52D2DD9F-0C37-4A1E-B05E-34549F9806B3</p>
+</div>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_nj_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1738,12 +1680,6 @@ $28.4 \ \text{cm}^2$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-52D2DD9F-0C37-4A1E-B05E-34549F9806B3'>Initial</p>
-</div>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_nj_oldpr</p>
 </div>
 </div>
 </li>

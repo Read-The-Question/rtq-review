@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>61824054-48C2-4222-94CE-B049FCF364CB</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The tables in the Dining Hall can each seat $8$ pupils. 
@@ -77,10 +79,6 @@ $23 \ \text{tables}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Jake paid a $\pounds 50$ deposit for a bike, then monthly
@@ -122,10 +120,6 @@ $9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 There are $500$ pupils at Lily's school.
@@ -203,18 +197,18 @@ $265 \ \text{girls}$
 
 <p class='review_status initial' id='REVIEW-STATUS-61824054-48C2-4222-94CE-B049FCF364CB'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2017--sample-paper-3:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>90559230-2BC2-4EB0-84DF-D9BA98C6058E</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -288,18 +282,18 @@ $\pounds 10.08$
 
 <p class='review_status initial' id='REVIEW-STATUS-90559230-2BC2-4EB0-84DF-D9BA98C6058E'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F540568C-C61B-4E8A-BFF9-10AF9AC433D7</p>
+</div>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -330,10 +324,6 @@ If $u = 2$, $v = -5$ and $w = -3$, find the value of:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $u - v$
@@ -367,10 +357,6 @@ $7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $u - (v + w)$
@@ -405,10 +391,6 @@ $10$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $v - w$
@@ -442,10 +424,6 @@ $-2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $u - (w - v)$
@@ -510,18 +488,18 @@ $0$
 
 <p class='review_status initial' id='REVIEW-STATUS-F540568C-C61B-4E8A-BFF9-10AF9AC433D7'>Initial</p>
 </div>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4</p>
+</div>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -633,18 +611,18 @@ $1,6,21,20$
 
 <p class='review_status initial' id='REVIEW-STATUS-5DEB5130-9B77-4FA1-865A-BA2AA2AA14E4'>Initial</p>
 </div>
-<div class='papername'>
-<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -705,18 +683,18 @@ $\text {Money left} = \pounds (330 - X)$
 
 <p class='review_status initial' id='REVIEW-STATUS-0974FFBD-3CF2-4DE9-9892-BCF8142DD7B6'>Initial</p>
 </div>
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>60A40A72-24E4-471F-A028-152B28477469</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -790,18 +768,18 @@ $\pounds 1158$
 
 <p class='review_status initial' id='REVIEW-STATUS-60A40A72-24E4-471F-A028-152B28477469'>Initial</p>
 </div>
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>390841FC-F40F-4579-93B4-7F3BE8284DF2</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -876,12 +854,6 @@ $7$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-390841FC-F40F-4579-93B4-7F3BE8284DF2'>Initial</p>
-</div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

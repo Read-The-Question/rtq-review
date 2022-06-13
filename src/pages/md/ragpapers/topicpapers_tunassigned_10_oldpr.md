@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-10-oldpr"
 title: "TopicPaper - Unassigned - 10 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>54129CC4-C133-47C6-8EE6-B29248C827BD</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:40</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -79,12 +85,6 @@ $56$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-54129CC4-C133-47C6-8EE6-B29248C827BD'>Initial</p>
-</div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:40</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

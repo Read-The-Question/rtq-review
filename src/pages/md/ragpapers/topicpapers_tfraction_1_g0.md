@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g0"
 title: "TopicPaper - Fraction - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>76567C03-AF5A-4917-9FAE-4EAFF191E689</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -82,18 +88,18 @@ $\dfrac{3} {10}$
 
 <p class='review_status initial' id='REVIEW-STATUS-76567C03-AF5A-4917-9FAE-4EAFF191E689'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
+</div>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -124,10 +130,6 @@ Calculate:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{8}{15} \times 3\dfrac{3}{10}$
@@ -163,10 +165,6 @@ $\dfrac{44} {25}$ or $1 \dfrac{19} {25}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2 \dfrac{1}{5} + 6 \dfrac{3}{4}$
@@ -231,18 +229,18 @@ $8 \dfrac{19} {20}$
 
 <p class='review_status initial' id='REVIEW-STATUS-058B4392-6B5D-44A5-ACE4-51F653406441'>Initial</p>
 </div>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>62E0F078-7FB5-44EC-BC99-CC28C10BCB5C</p>
+</div>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -314,18 +312,18 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 
 <p class='review_status initial' id='REVIEW-STATUS-62E0F078-7FB5-44EC-BC99-CC28C10BCB5C'>Initial</p>
 </div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FF3E51F2-06D2-40A3-93F2-BC83DD8C2835</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -396,18 +394,18 @@ $\dfrac {61} {36}$
 
 <p class='review_status initial' id='REVIEW-STATUS-FF3E51F2-06D2-40A3-93F2-BC83DD8C2835'>Initial</p>
 </div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -474,18 +472,18 @@ $\dfrac {1} {12}$
 
 <p class='review_status initial' id='REVIEW-STATUS-CAB14175-FD8C-4B4B-8845-6C9DD350BC9F'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -549,12 +547,6 @@ $\dfrac {19} {10}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-19C91008-84E1-48B4-A95A-6E08266DDF33'>Initial</p>
-</div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:36</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
 </div>
 </div>
 </li>

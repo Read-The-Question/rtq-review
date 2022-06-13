@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2016-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2016 - Sample Paper 2"
-date: 2022-06-12 09:40:03
+date: 2022-06-13 04:11:28
 ---
 <div class='paper'>
 <div class='meta'>
@@ -16,6 +16,12 @@ date: 2022-06-12 09:40:03
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>31A25380-1B99-4050-A774-E92A95EF48D4</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,10 +65,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $r = 5$ and $h = 7$ , find $S$ .
@@ -97,10 +99,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $𝑆 = 200$ and $r = 4$, find $h$ .
@@ -135,10 +133,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $S = 250$ and $h = 2r$ , find $r$ and $h$ .
@@ -173,18 +167,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1CB8C85C-7BC6-41F2-880C-D78E551CB9B6</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -230,18 +224,18 @@ TODOANSWER
 </div>
 
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>FABF0D6E-38E3-43F0-8A4B-90956851519F</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -288,10 +282,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 By first finding the area of the hexagon, find the area of the shaded region.
@@ -326,10 +316,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the perimeter of the shaded region. 
@@ -366,18 +352,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4D9BC0A2-8597-459C-BC4D-1F1462CB1470</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -421,10 +407,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $70\%$ of the surface of the Earth is covered by oceans, what is the surface area of the oceans?
@@ -459,10 +441,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the average depth of water in the oceans is $3.8\, km$, what is the volume of water in the oceans?
@@ -497,10 +475,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the volume of water in (b) was a sphere, what would its radius be?
@@ -535,10 +509,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What percentage of the Earth’s total volume is oceans?
@@ -573,18 +543,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B704F269-2806-4DCD-8E58-7B360E937D6C</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -631,10 +601,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $m = 20$ and $n = 5$ , show that $x ={90}\degree$ 
@@ -669,10 +635,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If $m = n$  and $x = {90}\degree$ , what is the value of $m$ ?
@@ -707,10 +669,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find another pair of different whole numbers $m$ and $n$ (other than those in (a)) for which $x = {90}\degree$.
@@ -745,18 +703,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>372D167F-1931-4A8C-8307-513472C10611</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -803,10 +761,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Make a table of y values (correct to $2$ decimal places) corresponding to $x$ values of $0,\:\: 0.5,\:\: 1,\:\: 1.5,\:\: 2,\:\: 2.5,\:\: 3,\:\: 3.5,\:\: 4$. Why are the yvalues for $0.5$ and $1.5$ the same?
@@ -841,10 +795,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Using your values in (a) and choosing a sensible scale, plot a graph of $y$ against $x$ .
@@ -879,10 +829,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Read-off from your graph the shortest distance from A to B .
@@ -917,10 +863,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 For what value of $x$ is the $y$ - value twice the shortest distance from A to B ?
@@ -955,18 +897,18 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E7668758-CCEF-4EE2-960D-669E1320292D</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
+</div>
+<div class='rag'>
+<p>rag_up_notstarted</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1016,10 +958,6 @@ TODOANSWER
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the values of Sum 1, Sum 2, Sum 3 and Sum 4 (not shown), giving your answers as fractions simplified as far as possible.
@@ -1054,10 +992,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the answer to Sum $n$ is $\frac{1009}{2016}$ , what is $n$ ?
@@ -1092,10 +1026,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 By spotting a pattern in your answers to (a), write down a formula in terms of $n$ for the answer to Sum $n$ .
@@ -1130,10 +1060,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the middle fraction in the sequence of fractions for Sum $n$ is $\frac{288} {289}$  what is the answer to Sum $n$ ?
@@ -1168,10 +1094,6 @@ TODOANSWER
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find another value of $n$ (other than $n = 4$) for which the answer to Sum $n$ has square numbers in both its numerator and denominator.
@@ -1206,12 +1128,6 @@ TODOANSWER
 </li>
 </ul>
 
-<div class='papername'>
-<p>tonbridge-school--scholarship--maths--2016--sample-paper-2</p>
-</div>
-<div class='rag'>
-<p>rag_up_notstarted</p>
-</div>
 </div>
 </li>
 </ul>

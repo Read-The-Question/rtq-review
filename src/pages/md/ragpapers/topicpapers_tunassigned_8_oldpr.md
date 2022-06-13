@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-8-oldpr"
 title: "TopicPaper - Unassigned - 8 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>6CDAB91B-64FA-4AC5-AF17-6B9B33DC1B1C</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ tvolume
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the volume of a rectangular box which is $5 \ \text{cm}$ long, $20 \ \text{cm}$ wide and $10 \ \text{cm}$ high?
@@ -78,10 +80,6 @@ $1000 \ \text{cm}^{3}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many $5 \ \text{cm}$ cubes can be packed into the rectangular box in part a) ?
@@ -146,12 +144,6 @@ $8$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6CDAB91B-64FA-4AC5-AF17-6B9B33DC1B1C'>Initial</p>
-</div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

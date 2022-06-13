@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-g0"
 title: "TopicPaper - Areaperimeter - 5 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7133C4B6-24EB-4420-92C7-0A0CC3F6411E</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,10 +47,6 @@ I want to draw a square in which the perimeter (total length around the outside)
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the side length of the square?
@@ -84,10 +86,6 @@ $4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Now I want to draw a rectangle that is twice as long as it is wide. However, its perimeter is still equal in size to its area. What will the length of the rectangle be?
@@ -165,18 +163,18 @@ $6$
 
 <p class='review_status initial' id='REVIEW-STATUS-7133C4B6-24EB-4420-92C7-0A0CC3F6411E'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A1D15272-7F0D-49A8-960B-75D4D345810F</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -271,18 +269,18 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-A1D15272-7F0D-49A8-960B-75D4D345810F'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>ACDF963B-EB59-486F-8F65-8C816CC51DDB</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -363,18 +361,18 @@ $63 \text{m}^2, 32 \text {m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-ACDF963B-EB59-486F-8F65-8C816CC51DDB'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>16DF0399-C970-4AFF-A8B9-931D0D72EE36</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -456,18 +454,18 @@ $30 \ \text{cm}^2$
 
 <p class='review_status initial' id='REVIEW-STATUS-16DF0399-C970-4AFF-A8B9-931D0D72EE36'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -502,10 +500,6 @@ tsimpleword
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the area of the parallelogram.
@@ -538,10 +532,6 @@ $216 \ \text{cm}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Find the perimeter of the parallelogram.
@@ -603,18 +593,18 @@ $64 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7F7DA47D-FF3B-46E6-9D2E-B67F0D3B572B'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DC2F2A73-6A15-47D6-9058-3966F167DE33</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,10 +641,6 @@ The following grid is made of $1 \ \text{cm}$ squares.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the area of the shaded shape?
@@ -709,10 +695,6 @@ $18 \ \text{cm}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Is the perimeter of the shape $18 \ \text{cm}$, more than $18 \ \text{cm}$, 
@@ -768,18 +750,18 @@ $18 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DC2F2A73-6A15-47D6-9058-3966F167DE33'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6082C51C-48FB-4A15-B156-8BC33B276648</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -863,12 +845,6 @@ $50 \ \text{cm}^{2}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6082C51C-48FB-4A15-B156-8BC33B276648'>Initial</p>
-</div>
-<div class='papername'>
-<p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
 </div>
 </div>
 </li>

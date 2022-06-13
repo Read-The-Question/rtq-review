@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-6"
 title: "TopicPaper - Sequence - 6"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -18,6 +18,12 @@ date: 2022-06-12 09:43:17
 <div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>33AA7283-9415-4362-9D2D-CD9DC7BD0B4A</p>
+</div>
+<div class='papername'>
+<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
 </div>
 <div class='topics'>
 <ul>
@@ -50,10 +56,6 @@ Write your answers in the boxes provided
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $50\:\:\:42\:\:\:34\:\:\:\Box\:\:\:18$
@@ -101,10 +103,6 @@ Missing number = $26$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2.302\:\:\:2.304\:\:\:2.306\:\:\:2.308\:\:\:\Box$
@@ -152,10 +150,6 @@ Missing number = $2.010$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4\:\:\:7\:\:\:13\:\:\:25\:\:\:49\:\:\:\Box$
@@ -204,10 +198,6 @@ Missing number = $79$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $100\:\:\:81\:\:\:64\:\:\:49\:\:\:36\:\:\:\Box$
@@ -255,10 +245,6 @@ Missing number = $25$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\Box\:\:\:3.5\:\:\:7\:\:\:14\:\:\:28$
@@ -308,12 +294,6 @@ Missing number = $1.75$
 </li>
 </ul>
 
-<div class='papername'>
-<p>warwick-school--11-plus--maths--9999--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_up_blocked</p>
-</div>
 </div>
 </li>
 </ul>

@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tunassigned-4-g0"
 title: "TopicPaper - Unassigned - 4 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -72,18 +78,18 @@ $2 \times 2 \times 2 \times 7$
 
 <p class='review_status initial' id='REVIEW-STATUS-43ADF0E0-9CD0-4180-9D78-F38B1AFE4CBF'>Initial</p>
 </div>
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>FDB769B4-5A9B-4620-A568-180B7A9D0DC9</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -152,18 +158,18 @@ $350 \ \text{mm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-FDB769B4-5A9B-4620-A568-180B7A9D0DC9'>Initial</p>
 </div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>F4B3B39D-E597-4F49-846E-181927A93384</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -232,18 +238,18 @@ $2.750 \ \text {kilograms}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F4B3B39D-E597-4F49-846E-181927A93384'>Initial</p>
 </div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>286BFED8-7256-45C4-AA5A-FC71136B6B5D</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -316,18 +322,18 @@ $45 \ \text {m.p.h}$
 
 <p class='review_status initial' id='REVIEW-STATUS-286BFED8-7256-45C4-AA5A-FC71136B6B5D'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3AE7516E-AA59-4592-8396-27DB0D40611F</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -398,18 +404,18 @@ $25100 \ \text{mm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-3AE7516E-AA59-4592-8396-27DB0D40611F'>Initial</p>
 </div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>28822DF6-1E36-41A2-8D1E-91DDA75CEE74</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -443,10 +449,6 @@ tunit
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many grams are there in $2.5 \ \text{kg}$?
@@ -477,10 +479,6 @@ $2500 \ \text{grams}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Andy has $5 \ \text{m} \ 35 \ \text{cm}$ of tape. He uses $243 \ \text{cm}$ for wrapping parcels. How many cm of tape does he have left over?
@@ -548,18 +546,18 @@ $2 \ \text {m} \ 92 \ \text {cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-28822DF6-1E36-41A2-8D1E-91DDA75CEE74'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>76044041-12E6-44F3-B9A7-E35637106F3F</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -593,10 +591,6 @@ Complete the following statements using $<, =$ or $>$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $(7 \times 5) - 4  \ \square \  7 \times (5 - 4)$
@@ -644,10 +638,6 @@ $(7 \times 5) - 4 \ \quad  > \quad  7 \times (5 - 4)$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 + 7 \times 5 \ \square \ 4 + (7 \times 5)$
@@ -695,10 +685,6 @@ $4 + 7 \times 5 \ \quad  =  \quad  4 + (7 \times 5)$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \times 5 + 7 \ \square \ (5 + 4) \times (7 - 4)$
@@ -777,18 +763,18 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 
 <p class='review_status initial' id='REVIEW-STATUS-76044041-12E6-44F3-B9A7-E35637106F3F'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>75DCC5C4-E1C9-4A03-AAE9-DB54181531B6</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -827,10 +813,6 @@ Write the two **prime numbers** in the empty boxes.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $57 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
@@ -861,10 +843,6 @@ $19 \times 3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $91 = \boxed{\phantom{57}} \times \boxed{\phantom{57}}$
@@ -925,18 +903,18 @@ $13 \times 7$
 
 <p class='review_status initial' id='REVIEW-STATUS-75DCC5C4-E1C9-4A03-AAE9-DB54181531B6'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
-</div>
 </div>
 </li>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>E360A432-F135-4436-A055-D63323CCC9EF</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2017--sample-paper-4:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -970,10 +948,6 @@ tpower
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which is bigger:
@@ -1024,10 +998,6 @@ $3 ^ 4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the result of:
@@ -1091,12 +1061,6 @@ $-17$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E360A432-F135-4436-A055-D63323CCC9EF'>Initial</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2017--sample-paper-4:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

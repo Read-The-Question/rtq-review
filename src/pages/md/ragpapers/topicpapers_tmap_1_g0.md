@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tmap-1-g0"
 title: "TopicPaper - Map - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>D7E33A04-DE0A-4485-AE44-E675DE38579E</p>
+</div>
+<div class='papername'>
+<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -77,12 +83,6 @@ $4$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-D7E33A04-DE0A-4485-AE44-E675DE38579E'>Initial</p>
-</div>
-<div class='papername'>
-<p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

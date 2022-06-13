@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-g0"
 title: "TopicPaper - Order - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D48EBB7F-6353-41D8-8F7E-D81284AECC1E</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -40,10 +46,6 @@ $\large { \boxed{\phantom{5} > \phantom{5} } \quad \boxed{\phantom{5} < \phantom
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.022 \quad \ldots  \quad 0.2$
@@ -69,10 +71,6 @@ $0.022 < 0.2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $15\%$ of $\pounds 300\  \quad \ldots  \quad  20\%$ of $\pounds 240$
@@ -126,10 +124,6 @@ $15\%$ of $\pounds 300\  \quad <  \quad  20\%$ of $\pounds 240$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac {2}{5}$ of $\pounds 40\  \quad \ldots  \quad 25\%$ of $\pounds 64$
@@ -213,18 +207,18 @@ $\dfrac {2}{5}$ of $\pounds 40\  \quad =  \quad 25\%$ of $\pounds 64$
 
 <p class='review_status initial' id='REVIEW-STATUS-D48EBB7F-6353-41D8-8F7E-D81284AECC1E'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D20EC22D-8AE9-44E9-AFFD-3D12B8D96072</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -305,18 +299,18 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 
 <p class='review_status initial' id='REVIEW-STATUS-D20EC22D-8AE9-44E9-AFFD-3D12B8D96072'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3EE18161-ECEE-4D13-914F-0838FAC70F27</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -350,10 +344,6 @@ Circle the smallest number in each group.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.309 \quad 0.039 \quad 0.93 \quad 0.093$
@@ -379,10 +369,6 @@ $0.039$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $-7.5 \quad -8 \quad 2 \quad 0$
@@ -408,10 +394,6 @@ $-8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{5} \quad \dfrac{1}{6} \quad \dfrac{1}{7} \quad \dfrac{1}{8}$
@@ -439,10 +421,6 @@ $\dfrac{1}{8}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.4 \quad 30 \% \quad 0.22 \quad \dfrac{1}{4}$
@@ -506,18 +484,18 @@ $0.22$
 
 <p class='review_status initial' id='REVIEW-STATUS-3EE18161-ECEE-4D13-914F-0838FAC70F27'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CCEC5B5B-5806-4EE1-84D1-019B559F2867</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -600,18 +578,18 @@ $20 \%$ of $\pounds 75$
 
 <p class='review_status initial' id='REVIEW-STATUS-CCEC5B5B-5806-4EE1-84D1-019B559F2867'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E2FF324D-1525-4E82-9829-9B13BB1CF5FA</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -692,18 +670,18 @@ $\dfrac {5} {6}$
 
 <p class='review_status initial' id='REVIEW-STATUS-E2FF324D-1525-4E82-9829-9B13BB1CF5FA'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4DC6032C-769F-4D01-A831-92EA63A4A990</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -777,18 +755,18 @@ $0.08$
 
 <p class='review_status initial' id='REVIEW-STATUS-4DC6032C-769F-4D01-A831-92EA63A4A990'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>2163EDE0-E8B5-49D8-B8A9-5068582C7723</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -854,18 +832,18 @@ $3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 
 <p class='review_status initial' id='REVIEW-STATUS-2163EDE0-E8B5-49D8-B8A9-5068582C7723'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F6409296-091D-4E51-B3B1-7DF9D8DCC5CC</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -937,18 +915,18 @@ $0.07$
 
 <p class='review_status initial' id='REVIEW-STATUS-F6409296-091D-4E51-B3B1-7DF9D8DCC5CC'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D62F629B-7CDB-4C72-8C48-DC353BB7B59A</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -979,10 +957,6 @@ torder
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write the following numbers in ascending order: 
@@ -1009,10 +983,6 @@ $0.2019  \quad  0.2109  \quad  0.219  \quad  0.291$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write the following numbers in ascending order:
@@ -1097,18 +1067,18 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 
 <p class='review_status initial' id='REVIEW-STATUS-D62F629B-7CDB-4C72-8C48-DC353BB7B59A'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FD5A3E12-BE8F-4D26-AC89-A1DA76DF25F8</p>
+</div>
+<div class='papername'>
+<p>benenden-school--11-plus--maths--2020--sample-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1170,18 +1140,18 @@ $0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
 
 <p class='review_status initial' id='REVIEW-STATUS-FD5A3E12-BE8F-4D26-AC89-A1DA76DF25F8'>Initial</p>
 </div>
-<div class='papername'>
-<p>benenden-school--11-plus--maths--2020--sample-paper-1:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F62029F3-98C7-4AEC-8332-75828A0B6863</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1270,18 +1240,18 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F62029F3-98C7-4AEC-8332-75828A0B6863'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:1:3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>026699B4-CAFA-430C-B0BC-8F801C861EEE</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:3</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1369,18 +1339,18 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 
 <p class='review_status initial' id='REVIEW-STATUS-026699B4-CAFA-430C-B0BC-8F801C861EEE'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:1:3</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>1858C278-6BA1-4C5E-A7A4-D09F4BAF1636</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1411,10 +1381,6 @@ Write each list of numbers in order from smallest to largest
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.77, \quad 0.7, \quad 7.7, \quad 7.07$
@@ -1453,10 +1419,6 @@ $0.7, \quad 0.77, \quad 7.07, \quad 7.7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5, \quad -8, \quad -16, \quad 9, \quad 8$
@@ -1516,18 +1478,18 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 
 <p class='review_status initial' id='REVIEW-STATUS-1858C278-6BA1-4C5E-A7A4-D09F4BAF1636'>Initial</p>
 </div>
-<div class='papername'>
-<p>colfes-school--11-plus--maths--9999--sample-paper:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>08EA488F-9096-42F2-947D-B325B679E4A3</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-1:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1564,10 +1526,6 @@ For example: the sum total of ‘$HAD$’ $= 8 + 1 + 4 = 13$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the sum total of the word ‘$TANK$’?
@@ -1597,10 +1555,6 @@ $46$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 List the following words in order of their sum total, starting with the lowest:
@@ -1649,10 +1603,6 @@ $\text {DOG}, \quad \text {BIRD}, \quad \text {FISH}, \quad \text {CATS}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which single letter has the same value as the result of dividing the sum total for ‘$JET$’ by the sum total of ‘$BAD$’?
@@ -1725,18 +1675,18 @@ $\text {E}$
 
 <p class='review_status initial' id='REVIEW-STATUS-08EA488F-9096-42F2-947D-B325B679E4A3'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-1:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3E8903AA-53A0-4F33-8BA4-B0C6D370EBE7</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2015--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1767,10 +1717,6 @@ In each part of this question, write down the value in the list that is the bigg
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which is biggest?
@@ -1797,10 +1743,6 @@ $0.535$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which is biggest?
@@ -1839,10 +1781,6 @@ $\dfrac {8} {9}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Which is biggest?
@@ -1922,18 +1860,18 @@ $\dfrac {1} {3} \ \text {of} \ 17$
 
 <p class='review_status initial' id='REVIEW-STATUS-3E8903AA-53A0-4F33-8BA4-B0C6D370EBE7'>Initial</p>
 </div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>30340F22-4D0A-4688-AA2E-85B3E019B213</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2009,18 +1947,18 @@ $42 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-30340F22-4D0A-4688-AA2E-85B3E019B213'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0D8E4B4B-CC0A-464D-B985-985AC893C475</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2095,18 +2033,18 @@ $42 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-0D8E4B4B-CC0A-464D-B985-985AC893C475'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F1714A09-DE83-40BB-B858-8620CDD58B7E</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2181,18 +2119,18 @@ $52 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F1714A09-DE83-40BB-B858-8620CDD58B7E'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>47301465-B109-45B3-8338-D619296B1CE8</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2254,18 +2192,18 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 
 <p class='review_status initial' id='REVIEW-STATUS-47301465-B109-45B3-8338-D619296B1CE8'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:27</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2346,18 +2284,18 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 
 <p class='review_status initial' id='REVIEW-STATUS-F5D2AE7A-59C4-4E09-B6F7-E6607E8C22EE'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:27</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>93DF6EBE-0DD9-4615-82AC-50B838D89EAC</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2436,18 +2374,18 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 
 <p class='review_status initial' id='REVIEW-STATUS-93DF6EBE-0DD9-4615-82AC-50B838D89EAC'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F30EA1C5-85F5-4B57-A516-888B0C705885</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2529,18 +2467,18 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 
 <p class='review_status initial' id='REVIEW-STATUS-F30EA1C5-85F5-4B57-A516-888B0C705885'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EEA0B465-FB0C-45E9-92BF-4CDC84D3237B</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2574,10 +2512,6 @@ tcircleanswer
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Circle the fraction which has a different value from the others:
@@ -2620,10 +2554,6 @@ $\dfrac {7} {10}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Circle the smallest of the following fractions:
@@ -2660,10 +2590,6 @@ $\dfrac {1} {5}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Circle the largest of the following fractions:
@@ -2730,18 +2656,18 @@ $\dfrac {7} {9}$
 
 <p class='review_status initial' id='REVIEW-STATUS-EEA0B465-FB0C-45E9-92BF-4CDC84D3237B'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>267D9071-E87F-4653-BFF9-135AC6C3D951</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2803,18 +2729,18 @@ $2.03 \quad 2.3 \quad 2.302 \quad 2.32$
 
 <p class='review_status initial' id='REVIEW-STATUS-267D9071-E87F-4653-BFF9-135AC6C3D951'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-h:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>964A050F-9385-4777-A31A-90B6EF88B2EC</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2929,18 +2855,18 @@ $\dfrac {1} {2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-964A050F-9385-4777-A31A-90B6EF88B2EC'>Initial</p>
 </div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3306136E-D11A-4185-B4BA-DAE22322A70E</p>
+</div>
+<div class='papername'>
+<p>epsom-college--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2971,10 +2897,6 @@ Write these numbers in order of size. Start with the smallest number.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.56, \quad 0.067,  \quad 0.6,  \quad 0.65,  \quad 0.605$
@@ -2999,10 +2921,6 @@ $0.067, \quad 0.56, \quad 0.6, \quad 0.605, \quad 0.65$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{1}{2},  \quad \dfrac{2}{3},  \quad \dfrac{2}{5},  \quad \dfrac{3}{4}$
@@ -3074,18 +2992,18 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 
 <p class='review_status initial' id='REVIEW-STATUS-3306136E-D11A-4185-B4BA-DAE22322A70E'>Initial</p>
 </div>
-<div class='papername'>
-<p>epsom-college--11-plus--maths--9999--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B19AB548-0D27-40CB-939D-3640A4D2E0F5</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3152,18 +3070,18 @@ $7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
 
 <p class='review_status initial' id='REVIEW-STATUS-B19AB548-0D27-40CB-939D-3640A4D2E0F5'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>038DB52F-8E5F-49E9-B0AD-1E4841D9A89C</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ad_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3194,10 +3112,6 @@ Place the following sets of numbers in order, **smallest first**.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $47, \quad 63, \quad 18, \quad 103, \quad 70$
@@ -3222,10 +3136,6 @@ $18, \quad 47, \quad 63, \quad 70, \quad 103$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.731, \quad 0.8, \quad 0.73 , \quad 0.711$
@@ -3250,10 +3160,6 @@ $0.711, \quad 0.73, \quad 0.731, \quad 0.8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1 \ \text{m} \ 43 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1 \ \text{m} \ 6 \ \text{cm}, \quad  1423 \ \text{mm}$
@@ -3323,12 +3229,6 @@ $1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, 
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-038DB52F-8E5F-49E9-B0AD-1E4841D9A89C'>Initial</p>
-</div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ad_g0</p>
 </div>
 </div>
 </li>

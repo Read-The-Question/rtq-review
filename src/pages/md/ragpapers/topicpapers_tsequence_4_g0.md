@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-g0"
 title: "TopicPaper - Sequence - 4 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>19A2C0C0-DFC9-495F-9565-A6BD2654FF73</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ Find the next **two** numbers in these sequences. Write your answers in the gaps
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5, 9, 13, 17, 21, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -91,10 +93,6 @@ $25, 29$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $14, 13, 11, 8, 4, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -142,10 +140,6 @@ $-1, -7$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$ 
@@ -197,10 +191,6 @@ $65, 129$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, 4, 9, 16, 25, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -248,10 +238,6 @@ $36, 49$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $32, 16, 8, 4, 2, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -302,10 +288,6 @@ $1, 0.5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2, 3, 5, 8, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -385,18 +367,18 @@ $21, 34$
 
 <p class='review_status initial' id='REVIEW-STATUS-19A2C0C0-DFC9-495F-9565-A6BD2654FF73'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EC0547A9-6992-4DE2-92EB-DDD06D7AB2D7</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -492,18 +474,18 @@ $96, 48, 24, \dfrac {3} {2}, \dfrac {3} {4}$
 
 <p class='review_status initial' id='REVIEW-STATUS-EC0547A9-6992-4DE2-92EB-DDD06D7AB2D7'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6BA7D9CC-3F62-4216-8E18-9D460E0DF11D</p>
+</div>
+<div class='papername'>
+<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,10 +516,6 @@ Write down the next two numbers in each of the following sequences.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3\:\:\: 6\:\:\:  12\:\:\:  24\:\:\:   48$
@@ -587,10 +565,6 @@ $96, 192$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $58\:\:\:   57\:\:\:   55\:\:\:   52\:\:\:  48$
@@ -668,18 +642,18 @@ $43, 37$
 
 <p class='review_status initial' id='REVIEW-STATUS-6BA7D9CC-3F62-4216-8E18-9D460E0DF11D'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5C28841F-84FB-4482-AFA9-B7043D582BBA</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -710,10 +684,6 @@ Fill in the missing numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 16, \quad 19, \quad \text{\textunderscore \textunderscore \textunderscore} , \quad 25$
@@ -768,10 +738,6 @@ $13, 22$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunderscore}, \quad 12, \quad 6, \quad \text{\textunderscore \textunderscore \textunderscore}$
@@ -856,18 +822,18 @@ $24, 3$
 
 <p class='review_status initial' id='REVIEW-STATUS-5C28841F-84FB-4482-AFA9-B7043D582BBA'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>1B375F52-BB72-4EF8-8C9F-B427D6323875</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -939,18 +905,18 @@ $0.35$
 
 <p class='review_status initial' id='REVIEW-STATUS-1B375F52-BB72-4EF8-8C9F-B427D6323875'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>168D08D9-86C1-42D7-8F94-A59D2E34B478</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1053,18 +1019,18 @@ $65$
 
 <p class='review_status initial' id='REVIEW-STATUS-168D08D9-86C1-42D7-8F94-A59D2E34B478'>Initial</p>
 </div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EEA9859C-584C-4844-B831-FFBE7DB5FC35</p>
+</div>
+<div class='papername'>
+<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1147,18 +1113,18 @@ $45$
 
 <p class='review_status initial' id='REVIEW-STATUS-EEA9859C-584C-4844-B831-FFBE7DB5FC35'>Initial</p>
 </div>
-<div class='papername'>
-<p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>90763832-ECB2-4C3C-A9A0-2FB5F05FE9AA</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1190,10 +1156,6 @@ $1 \quad  4  \quad  7 \quad 10 \quad 13 \quad  16  \ldots$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 From the numbers in the list above, write down:
@@ -1216,10 +1178,6 @@ From the numbers in the list above, write down:
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 a factor of $8$
@@ -1244,10 +1202,6 @@ $4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 the product of $2$ and $5$
@@ -1272,10 +1226,6 @@ $10$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 a prime number
@@ -1303,10 +1253,6 @@ $13$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the next $2$ numbers in the pattern.
@@ -1353,10 +1299,6 @@ $19, 22$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the largest number in the pattern which is less than $40$?
@@ -1411,18 +1353,18 @@ $37$
 
 <p class='review_status initial' id='REVIEW-STATUS-90763832-ECB2-4C3C-A9A0-2FB5F05FE9AA'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2008--sample-paper-2:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>644EEE25-F82A-4DD4-A616-390BB876F410</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1455,10 +1397,6 @@ $3 \quad 7 \quad 11 \quad 15 \quad 19 \quad 23 \quad 27$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 From the numbers written above, write down
@@ -1481,10 +1419,6 @@ From the numbers written above, write down
 <ul class='subsubquestion lower-roman'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 a mulliple of five
@@ -1509,10 +1443,6 @@ $15$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 the difference between $11$ and $30$
@@ -1542,10 +1472,6 @@ $19$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 a number which is **not** a prime number
@@ -1570,10 +1496,6 @@ $15$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subsubquestion'>
 
 the square root of $9$
@@ -1601,10 +1523,6 @@ $3$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the next two numbers in the pattern.
@@ -1663,10 +1581,6 @@ $31, 35$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the first number in the pattern which is greater than $48$?
@@ -1729,12 +1643,6 @@ $51$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-644EEE25-F82A-4DD4-A616-390BB876F410'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
 </div>
 </div>
 </li>

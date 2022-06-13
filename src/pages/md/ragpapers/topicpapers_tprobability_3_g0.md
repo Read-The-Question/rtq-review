@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-3-g0"
 title: "TopicPaper - Probability - 3 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prns question'>
 <div class='uuid'>
 <p>3167920D-0D61-408D-81BB-04D02838D8D1</p>
+</div>
+<div class='papername'>
+<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ There are $40$ coloured counters in a box. Half of them are red, one-fifth are y
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How many are green?
@@ -78,10 +80,6 @@ $12$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If I shake the box and then pick out one counter, what is the probability that it is green?
@@ -143,12 +141,6 @@ $\dfrac {3} {10}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-3167920D-0D61-408D-81BB-04D02838D8D1'>Initial</p>
-</div>
-<div class='papername'>
-<p>whitgift-school--11-plus--maths--9999--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g0</p>
 </div>
 </div>
 </li>

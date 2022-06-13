@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0"
 title: "TopicPaper - Age - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FD79751E-764D-4640-AADD-196B4171B83D</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,18 +96,18 @@ $14$
 
 <p class='review_status initial' id='REVIEW-STATUS-FD79751E-764D-4640-AADD-196B4171B83D'>Initial</p>
 </div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
+</div>
+<div class='papername'>
+<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -191,18 +197,18 @@ $46 \ \text{years}$
 
 <p class='review_status initial' id='REVIEW-STATUS-1F301F9C-E10E-4A62-A2CA-DA4E31288C6A'>Initial</p>
 </div>
-<div class='papername'>
-<p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
+</div>
+<div class='papername'>
+<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -285,18 +291,18 @@ $151 \ \text {years}$
 
 <p class='review_status initial' id='REVIEW-STATUS-55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF'>Initial</p>
 </div>
-<div class='papername'>
-<p>king-edwards-school--11-plus--maths--9999--sample-paper-1:1:0</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -367,18 +373,18 @@ $28$
 
 <p class='review_status initial' id='REVIEW-STATUS-66B16F07-8FF6-4E55-BA74-5529DF432D2B'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:30</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -459,18 +465,18 @@ $47 \ \text {years}$
 
 <p class='review_status initial' id='REVIEW-STATUS-03E012B1-67E0-4542-B1B2-6F0B3069FFA8'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:30</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -551,18 +557,18 @@ $52$
 
 <p class='review_status initial' id='REVIEW-STATUS-0A39A4A0-788E-4A56-BD54-7971DF649AE3'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -652,18 +658,18 @@ $33$
 
 <p class='review_status initial' id='REVIEW-STATUS-F74409E6-423C-450E-BDFB-21338241A8A0'>Initial</p>
 </div>
-<div class='papername'>
-<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -754,18 +760,18 @@ $48$
 
 <p class='review_status initial' id='REVIEW-STATUS-9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690'>Initial</p>
 </div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -801,10 +807,6 @@ The combined age of Alan and Carl is fifty five and the combined age of Ben and 
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the combined age of Alan, Ben and Carl?
@@ -858,10 +860,6 @@ $77$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 How old is Alan?
@@ -923,18 +921,18 @@ $Alan is $11 \ \text {years}$ old.$
 
 <p class='review_status initial' id='REVIEW-STATUS-4C17A102-B152-4344-95F9-A972131EDBC2'>Initial</p>
 </div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>872AF346-F083-464D-8D78-F9ED85CC0CD9</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1019,18 +1017,18 @@ $
 
 <p class='review_status initial' id='REVIEW-STATUS-872AF346-F083-464D-8D78-F9ED85CC0CD9'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3EBB0F49-3BA5-4488-971D-510882EA7B7A</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1160,18 +1158,18 @@ $9, \ 3, \ 16, \ 11$
 
 <p class='review_status initial' id='REVIEW-STATUS-3EBB0F49-3BA5-4488-971D-510882EA7B7A'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A4CC0300-E182-4F49-A74B-56D65902A6A7</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1205,10 +1203,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 May is $14 \ \text{years}$ old and her father is $39 \ \text{years}$ older than her. 
@@ -1241,10 +1235,6 @@ $45 \ \text{years}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Five glass marbles cost a total of $\pounds 7.50$. How many marbles could I buy with $\pounds 24$?
@@ -1315,18 +1305,18 @@ $16$
 
 <p class='review_status initial' id='REVIEW-STATUS-A4CC0300-E182-4F49-A74B-56D65902A6A7'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F858D0CE-F0D7-4B18-A22D-210D8F94DE51</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1399,18 +1389,18 @@ $8 \ \text{years} \ 10 \ \text{months}$
 
 <p class='review_status initial' id='REVIEW-STATUS-F858D0CE-F0D7-4B18-A22D-210D8F94DE51'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>C179DA31-EC27-44EF-BADC-28D2F433E9BA</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1446,10 +1436,6 @@ Helen was born on $1 \text{st}$ March $2003$.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 By how many years and months is Katharine older than Helen?
@@ -1482,10 +1468,6 @@ $5 \ \text {years} \ 10 \ \text {months}$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Sam is exactly $18$ months younger than Katharine.
@@ -1548,18 +1530,18 @@ $1 \text {st} \ \text {November} \ 1998$
 
 <p class='review_status initial' id='REVIEW-STATUS-C179DA31-EC27-44EF-BADC-28D2F433E9BA'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:15</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B7C56077-26E4-4AD6-8A1B-F22F480D40B8</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1631,18 +1613,18 @@ $9 \ \text {years} \ 6 \ \text {months}$
 
 <p class='review_status initial' id='REVIEW-STATUS-B7C56077-26E4-4AD6-8A1B-F22F480D40B8'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CEDD52CF-032F-4A9F-9B45-E9E5151A2F0A</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1714,18 +1696,18 @@ $20 \ \text {years} \ 9 \ \text {months}$
 
 <p class='review_status initial' id='REVIEW-STATUS-CEDD52CF-032F-4A9F-9B45-E9E5151A2F0A'>Initial</p>
 </div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1759,10 +1741,6 @@ Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 On which date was Amelia born?
@@ -1787,10 +1765,6 @@ $27 \ \text {December} 2002$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Jessica’s $12 \text{th}$ birthday was on a Monday.
@@ -1846,12 +1820,6 @@ $\ \text {Saturday}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-460183B0-7FB1-4AE5-A539-6CE39B381434'>Initial</p>
-</div>
-<div class='papername'>
-<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:24</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
 </div>
 </div>
 </li>

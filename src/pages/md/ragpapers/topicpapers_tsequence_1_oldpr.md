@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-oldpr"
 title: "TopicPaper - Sequence - 1 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -105,12 +111,6 @@ $8, 13$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6CDE9B85-33D8-4FE1-8A7C-C1030D86C401'>Initial</p>
-</div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_na_oldpr</p>
 </div>
 </div>
 </li>

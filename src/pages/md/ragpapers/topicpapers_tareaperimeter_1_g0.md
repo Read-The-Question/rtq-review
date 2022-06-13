@@ -1,362 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-g0"
 title: "TopicPaper - Areaperimeter - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>B6EA02DB-3A6A-46CC-B578-F9C15B5E1948</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
-
-This triangle and rectangle have the same area. Find the height of the triangle.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\text{Area of rectangle} = \text{length} \times \text{width}$
-
-
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-As per the question,
-
-$
-\begin {aligned}
-\dfrac {1} {2} \times 12 \times h   &= 24 \times 8 \\\\
-h                                   &= \dfrac {24 \times 8 \times 2} {12} \\\\
-h                                   &= \dfrac {12 \times 2 \times 8 \times 2} {12} \\\\
-h                                   &= \dfrac {\cancel{12} \times 2 \times 8 \times 2} {\cancel{12}} \\\\
-h                                   &= 2 \times 8 \times 2 \\\\
-h                                   &= 32 \ \text {cm}
-\end {aligned}
-$
-
-Height of the triangle $= 32 \ \text {cm}$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$32 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' id='FORM-B6EA02DB-3A6A-46CC-B578-F9C15B5E1948' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B6EA02DB-3A6A-46CC-B578-F9C15B5E1948'>Initial</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>07245738-EE23-46C0-B539-ABA88C3BF450</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-<li>
-tunitprompt
-</li>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-I wish to cover a wall measuring $2 \ \text{m}$ by $6 \ \text{m}$ in tiles which are each $50 \ \text{cm}$ by $50 \ \text{cm}$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-How many tiles will I need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-It is really important to use the right units in calculations and convert where required.
-
-
-The wall measurement is given in metres while the tile measurement is given in cm.
-
-Let's convert the wall measurements into $\text{cm}$.
-
-$\text{Area} = \text{length} \times \text{width}$
-
-
-$
-\begin {aligned}
-\text {Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
-                         &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
-                         &= \dfrac {2 \times 100 \ \text{cm} \times 6 \times 100 \ \text{cm}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
-                         &= \dfrac {2 \times 100 \times 6 \times 100} {50  \times 50} \\\\
-                         &= \dfrac {2 \times 50 \times 2 \times 6 \times 50 \times 2} {50  \times 50} \\\\
-                         &= \dfrac {2 \times \cancel{50} \times 2 \times 6 \times \cancel{50} \times 2} {\cancel{50}  \times \cancel{50}} \\\\
-                         &= 2 \times 2 \times 6 \times 2 \\\\
-                         &= 48
-\end {aligned}
-$
-
-Number of tiles $= 48$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$48$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
-<div class='question subquestion'>
-
-If I now choose to use tiles which are $40 \ \text{cm}$ by $20 \ \text{cm}$ how many of these smaller tiles will I need?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text{Number of tiles}  &= \dfrac {\text{Area of Wall}} {\text{Area of a Tile}} \\\\
-                        &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
-                        &= \dfrac {2 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
-                        &= \dfrac {2 \times 100 \times 6 \times 100} {40  \times 20} \\\\
-                        &= \dfrac {2 \times 5 \times 20 \times 6 \times 5 \times 20} {2 \times 20  \times 20} \\\\
-                        &= \dfrac {\cancel{2} \times 5 \times \cancel{20} \times 6 \times 5 \times \cancel{20}} {\cancel{2} \times \cancel{20}  \times \cancel{20}} \\\\
-                        &= 5 \times 6 \times 5 \\\\
-                        &= 150
-\end{aligned}
-$
-
-Number of tiles $= 150$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$150$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='07245738-EE23-46C0-B539-ABA88C3BF450' id='FORM-07245738-EE23-46C0-B539-ABA88C3BF450' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-07245738-EE23-46C0-B539-ABA88C3BF450'>Initial</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
-<div class='uuid'>
-<p>C0C8BAF7-9385-479F-9E5D-1E52D264A4D0</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find the perimeter of the shape below.
-
-![missing image](/papers/missing_image.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin {aligned}
-\text {Perimeter}   &= \text {Sum of all sides} \\\\
-                    &= 20 \ \text {cm} + 5 \ \text {cm} + (20 - 12) \ \text {cm} + (8 - 5) \ \text {cm} + 12 \ \text {cm} + 8 \ \text {cm} \\\\
-                    &= 25 + 8 + 3 + 20 \\\\
-                    &= 56 \ \text {cm}
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$56 \ \text {cm}$
-
-</div>
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' id='FORM-C0C8BAF7-9385-479F-9E5D-1E52D264A4D0' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C0C8BAF7-9385-479F-9E5D-1E52D264A4D0'>Initial</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:26</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>989BC4ED-FC98-4031-8AD1-C44D79F2C16F</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -441,18 +98,18 @@ $25 \ \text{cm}^{2}$
 
 <p class='review_status initial' id='REVIEW-STATUS-989BC4ED-FC98-4031-8AD1-C44D79F2C16F'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -531,18 +188,18 @@ $44$
 
 <p class='review_status initial' id='REVIEW-STATUS-647F4ED9-464B-42F6-AD07-9DEACD207E79'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -635,18 +292,18 @@ $24 \ \text{cm}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DB80832F-B004-4CB4-8D70-0678C3B655AC'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A2AA0292-B690-4FB6-B6F2-07B4E9A2598E</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:28</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -723,18 +380,18 @@ $240$
 
 <p class='review_status initial' id='REVIEW-STATUS-A2AA0292-B690-4FB6-B6F2-07B4E9A2598E'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:28</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>02BF6235-58CE-4C9C-862A-6BEF1020F072</p>
+</div>
+<div class='papername'>
+<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -765,10 +422,6 @@ tareaperimeter
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the area of the shape below:
@@ -804,10 +457,6 @@ $126 \ \text{m}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the perimeter of the shape,
@@ -868,18 +517,18 @@ $54 \ \text{m}$
 
 <p class='review_status initial' id='REVIEW-STATUS-02BF6235-58CE-4C9C-862A-6BEF1020F072'>Initial</p>
 </div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:29</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
+</div>
+<div class='papername'>
+<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_nj_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -913,10 +562,6 @@ tsimpleword
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Calculate the size of the area left when a square side length $2 \ \text{metres}$ is removed from the rectangle below
@@ -952,10 +597,6 @@ $44 \text {m}^2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What is the area of the biggest square that would fit completely inside the original rectangle?
@@ -1017,12 +658,6 @@ $36 \text {m}^2$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-E52F477B-FFCA-4102-95D0-AD1EFD89B90D'>Initial</p>
-</div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_nj_g0</p>
 </div>
 </div>
 </li>

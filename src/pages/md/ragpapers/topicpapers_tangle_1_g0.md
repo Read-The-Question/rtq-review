@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g0"
 title: "TopicPaper - Angle - 1 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CDFD491B-E050-44A6-902D-95DE23E4196F</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,18 +96,18 @@ $42 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-CDFD491B-E050-44A6-902D-95DE23E4196F'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -180,18 +186,18 @@ $67 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-E719F44B-5B35-49B3-844A-3A6796E6666A'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -292,18 +298,18 @@ $27 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-86877522-C3FB-43F4-AD0D-8D56F9CB41E2'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -338,10 +344,6 @@ talgebra
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Estimate the size of angle $A$. 
@@ -366,10 +368,6 @@ $45 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 **Use your answer to part (a)** to find the size of angle $B$. 
@@ -434,18 +432,18 @@ $135 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-62828D73-0B00-4BFC-AA4D-B041295BF244'>Initial</p>
 </div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:13</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -521,18 +519,18 @@ $79 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-B34288DD-BB7A-4E73-B397-2F8478A7D5D8'>Initial</p>
 </div>
-<div class='papername'>
-<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
+</div>
+<div class='papername'>
+<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -615,18 +613,18 @@ $48 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-53DC209F-8A5F-49BF-8896-B33B61A97645'>Initial</p>
 </div>
-<div class='papername'>
-<p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -700,18 +698,18 @@ $60 \ \text {degrees}$
 
 <p class='review_status initial' id='REVIEW-STATUS-CFF3BE59-53C8-4689-9970-4DE5520555CE'>Initial</p>
 </div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -802,18 +800,18 @@ $48,63$
 
 <p class='review_status initial' id='REVIEW-STATUS-40FF7E29-DBCE-405A-9982-1F39CD4E3D5E'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
+</div>
+<div class='papername'>
+<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -904,18 +902,18 @@ $48, \63$
 
 <p class='review_status initial' id='REVIEW-STATUS-6F6B6B48-EC9B-41A8-8A65-09482A6B04A0'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-2:2:2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -992,18 +990,18 @@ $62 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-3F849C5D-4F08-4C1D-8B66-7345401C3CFA'>Initial</p>
 </div>
-<div class='papername'>
-<p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>72ECFDB7-86F7-48D5-9A2F-0BB4E6085F9C</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1076,18 +1074,18 @@ $43 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-72ECFDB7-86F7-48D5-9A2F-0BB4E6085F9C'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2016--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DBB54740-C177-4685-AD73-ECFA3880007B</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1160,18 +1158,18 @@ $131 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-DBB54740-C177-4685-AD73-ECFA3880007B'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>011C7343-EA2D-4EDF-AFE0-7803C6D34E4D</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1245,18 +1243,18 @@ $122 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-011C7343-EA2D-4EDF-AFE0-7803C6D34E4D'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2018--sample-paper-3:0:23</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4B420308-03FA-4469-A36A-B00E5A3340D8</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1329,18 +1327,18 @@ $91 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-4B420308-03FA-4469-A36A-B00E5A3340D8'>Initial</p>
 </div>
-<div class='papername'>
-<p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7431FA80-7251-4D7C-AC64-163FC6B4FC55</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1377,10 +1375,6 @@ The diagram shows a triangle and a line. The two angles marked $y \degree$ are e
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the value of $x$.
@@ -1407,10 +1401,6 @@ $180 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the value of $y$.
@@ -1490,18 +1480,18 @@ $35 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-7431FA80-7251-4D7C-AC64-163FC6B4FC55'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-d:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
+</div>
+<div class='papername'>
+<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1538,10 +1528,6 @@ The diagram shows a triangle and a line. The two angles marked $y\degree$ are eq
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $x$.
@@ -1574,10 +1560,6 @@ $72 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Work out the value of $y$.
@@ -1645,18 +1627,18 @@ $36 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-7B3A5DB3-F164-4105-9701-04E51A97172C'>Initial</p>
 </div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1746,18 +1728,18 @@ $64$
 
 <p class='review_status initial' id='REVIEW-STATUS-762303C7-0D1C-4345-AD02-7E755C4F0CE4'>Initial</p>
 </div>
-<div class='papername'>
-<p>eltham-college--11-plus--maths--2020--sample-paper-2:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
+</div>
+<div class='papername'>
+<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1791,10 +1773,6 @@ Calculate the missing angles.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -1831,10 +1809,6 @@ $91 \degree$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 ![missing image](/papers/missing_image.svg)
@@ -1901,18 +1875,18 @@ $111 \degree$
 
 <p class='review_status initial' id='REVIEW-STATUS-4EE39D55-56B3-48D1-8889-F7D3D5976C87'>Initial</p>
 </div>
-<div class='papername'>
-<p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
+</div>
+<div class='papername'>
+<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2001,12 +1975,6 @@ $51 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-B2F39BD7-5D8B-4067-8AD3-B1B40BE19482'>Initial</p>
-</div>
-<div class='papername'>
-<p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
 </div>
 </div>
 </li>

@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tage-2-g0"
 title: "TopicPaper - Age - 2 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
+</div>
+<div class='papername'>
+<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:14</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -97,12 +103,6 @@ $48$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-6C90D298-28FD-41C8-A233-C293F44572FA'>Initial</p>
-</div>
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:14</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
 </div>
 </div>
 </li>

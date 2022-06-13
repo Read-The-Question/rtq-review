@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g2"
 title: "TopicPaper - Algebra - 1 - G2"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>61908545-B559-4781-ABB5-3C8BDBA19C3C</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ Fill in the gaps.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{}{18} + \dfrac{1}{18} = \dfrac{1}{2}$
@@ -77,10 +79,6 @@ $8$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\dfrac{}{24} + \dfrac{1}{3} = \dfrac{1}{2}$
@@ -146,12 +144,6 @@ $4$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-61908545-B559-4781-ABB5-3C8BDBA19C3C'>Initial</p>
-</div>
-<div class='papername'>
-<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_wf_g2</p>
 </div>
 </div>
 </li>

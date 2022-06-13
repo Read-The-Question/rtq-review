@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr"
 title: "TopicPaper - Algebra - 2 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>4EC0680A-34C3-42F7-A969-84F026ED93EE</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -92,12 +98,6 @@ $4$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4EC0680A-34C3-42F7-A969-84F026ED93EE'>Initial</p>
-</div>
-<div class='papername'>
-<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_wf_oldpr</p>
 </div>
 </div>
 </li>

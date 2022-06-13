@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-g0"
 title: "TopicPaper - Sequence - 3 - G0"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DB0B19ED-782A-4134-B0D4-8FB4BE272409</p>
+</div>
+<div class='papername'>
+<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,18 +96,18 @@ $\dfrac {20} {32}$
 
 <p class='review_status initial' id='REVIEW-STATUS-DB0B19ED-782A-4134-B0D4-8FB4BE272409'>Initial</p>
 </div>
-<div class='papername'>
-<p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3E2622D7-39D2-4869-AA49-57F537C5C296</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -132,10 +138,6 @@ Fill in the missing numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
@@ -190,10 +192,6 @@ $19, 21$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
@@ -250,10 +248,6 @@ $1, -6$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
@@ -342,18 +336,18 @@ $16, -32$
 
 <p class='review_status initial' id='REVIEW-STATUS-3E2622D7-39D2-4869-AA49-57F537C5C296'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>1E711B1E-BF58-4C8C-8D4F-CE063BF29752</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -384,10 +378,6 @@ Complete the missing numbers in each of the number sequences below:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $28,\ 25,\ 22,\    13,\ 10.$
@@ -442,10 +432,6 @@ $19, 16$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3,\ 4,\ 6,\ 9,\ 13,  31$
@@ -494,10 +480,6 @@ $
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5,\ -10,\ 20,  -160,\ 320$
@@ -582,18 +564,18 @@ $-40, 80$
 
 <p class='review_status initial' id='REVIEW-STATUS-1E711B1E-BF58-4C8C-8D4F-CE063BF29752'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:20</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DF932C38-6507-44AB-B10B-EC17B47BA0D0</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -673,18 +655,18 @@ $35$
 
 <p class='review_status initial' id='REVIEW-STATUS-DF932C38-6507-44AB-B10B-EC17B47BA0D0'>Initial</p>
 </div>
-<div class='papername'>
-<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8D5C795C-FD48-44B6-9BD6-B5364291AD5B</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -715,10 +697,6 @@ Write down the next two numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7, 14, 21, 28,$ _______, _______.
@@ -771,10 +749,6 @@ $35, 42$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3, 6, 12, 24,$ _______, _______.
@@ -827,10 +801,6 @@ $48, 96$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $50, 41, 33, 26,$ _______, _______.
@@ -911,18 +881,18 @@ $20, 15$
 
 <p class='review_status initial' id='REVIEW-STATUS-8D5C795C-FD48-44B6-9BD6-B5364291AD5B'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:17</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>29A36B70-5937-460E-A1CC-4F3D72FC835A</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -959,10 +929,6 @@ Line 3: $3 \times 3 + 7 = 16$
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 Write down the next two lines of the pattern.
@@ -1005,10 +971,6 @@ $25, \ 36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 The numbers in the final column are special numbers. What is the name of these special numbers?
@@ -1063,18 +1025,18 @@ $\text {Perfect square}$
 
 <p class='review_status initial' id='REVIEW-STATUS-29A36B70-5937-460E-A1CC-4F3D72FC835A'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:18</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>C3661FED-0956-4527-87BC-7C1AB8DD4B3F</p>
+</div>
+<div class='papername'>
+<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1105,10 +1067,6 @@ Each of these sequences follow a pattern. Write down the next two terms in seque
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $3, 6, 9, 12,$ ____, ____
@@ -1161,10 +1119,6 @@ $15, 18$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2, 7, 12, 17,$ ____, ____
@@ -1217,10 +1171,6 @@ $22, 27$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, 4, 9, 16,$ ____, _____
@@ -1273,10 +1223,6 @@ $25, 36$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $29, 23, 18, 14, 11,$ ____, ____
@@ -1359,18 +1305,18 @@ $9, 8$
 
 <p class='review_status initial' id='REVIEW-STATUS-C3661FED-0956-4527-87BC-7C1AB8DD4B3F'>Initial</p>
 </div>
-<div class='papername'>
-<p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:16</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>65E4DD31-75F5-4B37-BDCC-461B16363C6D</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1401,10 +1347,6 @@ Write down the next two terms in each of the sequences below:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $10, \quad 13, \quad 16, \quad 19, \quad 22, \quad \ldots, \quad \ldots$
@@ -1459,10 +1401,6 @@ $25, 28$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $60, \quad 59, \quad 57, \quad 54, \quad 50, \quad \ldots, \quad \ldots$
@@ -1515,10 +1453,6 @@ $45, 39$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, \quad 2, \quad 6, \quad 24, \quad 120, \quad \ldots, \quad \ldots$
@@ -1602,18 +1536,18 @@ $720, 5040$
 
 <p class='review_status initial' id='REVIEW-STATUS-65E4DD31-75F5-4B37-BDCC-461B16363C6D'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F8C4F4DA-5375-4C81-AAEC-80983E243583</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1644,10 +1578,6 @@ Write the next two terms in each of the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5, \quad 12, \quad 19, \quad 26, \quad \ldots, \quad \ldots$
@@ -1700,10 +1630,6 @@ $33, 40$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $11, \quad 8, \quad 5, \quad 2, \quad \ldots, \quad \ldots$
@@ -1756,10 +1682,6 @@ $-1, -4$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2, \quad 6, \quad 18, \quad 54, \quad \ldots, \quad \ldots$
@@ -1842,18 +1764,18 @@ $162, 486$
 
 <p class='review_status initial' id='REVIEW-STATUS-F8C4F4DA-5375-4C81-AAEC-80983E243583'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5166D4C6-E642-4D18-AC30-B15771A16916</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1884,10 +1806,6 @@ Write the next term in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $7, \quad 9, \quad 11, \quad 13, \quad 15,  \quad \ldots$
@@ -1938,10 +1856,6 @@ $17$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
@@ -1990,10 +1904,6 @@ $-17$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, \quad 8, \quad 27, \quad 64,  \quad \ldots$
@@ -2072,18 +1982,18 @@ $125$
 
 <p class='review_status initial' id='REVIEW-STATUS-5166D4C6-E642-4D18-AC30-B15771A16916'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>CEE8678B-8297-4A47-8926-DFC55433C01A</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2114,10 +2024,6 @@ Write the next two terms in each of the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5, \quad 11, \quad 17, \quad 23, \quad \ldots, \quad \ldots$
@@ -2170,10 +2076,6 @@ $29, 35$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $10, \quad 7, \quad 4, \quad 1, \quad \ldots, \quad \ldots$
@@ -2226,10 +2128,6 @@ $-2, -5$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $2, \quad 8, \quad 32, \quad 128, \quad \ldots, \quad \ldots$
@@ -2312,18 +2210,18 @@ $512, 2048$
 
 <p class='review_status initial' id='REVIEW-STATUS-CEE8678B-8297-4A47-8926-DFC55433C01A'>Initial</p>
 </div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BE47848D-F135-4883-B0A6-F7D88574396E</p>
+</div>
+<div class='papername'>
+<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2354,10 +2252,6 @@ Fill in the gaps in these number patterns:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $37\:\: 34\:\: 31\:\: .....\:\: .....$
@@ -2408,10 +2302,6 @@ $25, 28$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $0.8\:\: 0.4\:\: 0.2\:\: .....\:\: .....$
@@ -2460,10 +2350,6 @@ $0.1, 0.05$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1\:\: 3\:\: 9\:\: 27\:\: .....\:\: .....$
@@ -2546,18 +2432,18 @@ $81, 243$
 
 <p class='review_status initial' id='REVIEW-STATUS-BE47848D-F135-4883-B0A6-F7D88574396E'>Initial</p>
 </div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2588,10 +2474,6 @@ Continue the sequences, giving the next two numbers each time :
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
@@ -2644,10 +2526,6 @@ $28,34$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
@@ -2697,10 +2575,6 @@ $81,243$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
@@ -2752,10 +2626,6 @@ $-8,-13$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, \quad 1, \quad 2, \quad 3, \quad 5, \quad 8, \quad \ldots, \quad \ldots$
@@ -2839,18 +2709,18 @@ $13, \ 21$
 
 <p class='review_status initial' id='REVIEW-STATUS-B3BEC0CC-4D5E-48CC-9ADB-8FEF97E59046'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2008--sample-paper-1:0:10</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2884,10 +2754,6 @@ Below is a repeated pattern of numbered shapes.
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 If the pattern continues in the same way, write the numbers of the next two *stars* in the pattern.
@@ -2912,10 +2778,6 @@ $11, \ 16$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 What shape will number $35$ be?
@@ -2970,18 +2832,18 @@ $\text{Circle}$
 
 <p class='review_status initial' id='REVIEW-STATUS-62C66561-F3E0-4965-B7E2-15DAB3203A00'>Initial</p>
 </div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:9</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8C993AFA-AFCB-4D29-9664-802BEE2647F5</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3012,10 +2874,6 @@ Write down the next two terms of these sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $5, 8, 11, \ldots, \ldots$
@@ -3066,10 +2924,6 @@ $14, 17$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4, 8, 16, \ldots, \ldots$
@@ -3120,10 +2974,6 @@ $32, 64$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $100, 90, 80, \ldots, \ldots$
@@ -3204,18 +3054,18 @@ $70, 60$
 
 <p class='review_status initial' id='REVIEW-STATUS-8C993AFA-AFCB-4D29-9664-802BEE2647F5'>Initial</p>
 </div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2012--sample-paper-3:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>BE851320-29AB-491D-B295-527BA7C9A21D</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3246,10 +3096,6 @@ Fill in the missing numbers in the following sequences:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 11$
@@ -3300,10 +3146,6 @@ $7,9$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, 3, 7, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}, 43$
@@ -3351,10 +3193,6 @@ $21,31$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $1, 2, 0, 3, -1, 4, \text{\textunderscore \textunderscore \textunderscore}, \text{\textunderscore \textunderscore \textunderscore}$
@@ -3430,12 +3268,6 @@ $-2,5$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-BE851320-29AB-491D-B295-527BA7C9A21D'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2013--sample-paper-4:0:5</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
 </div>
 </div>
 </li>

@@ -1,13 +1,19 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-oldpr"
 title: "TopicPaper - Sequence - 3 - OLDPR"
-date: 2022-06-12 09:43:17
+date: 2022-06-13 04:14:35
 ---
 <ul class='question default-decimal'>
 <li>
 <div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_na_oldpr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +44,6 @@ Find the missing numbers in the sequences below:
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\ldots \quad 6 \quad 12 \quad 24 \quad \ldots$
@@ -93,10 +95,6 @@ $3$ and $48$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $4 \quad \ldots \quad 10 \quad 13 \quad \ldots$
@@ -147,10 +145,6 @@ $7$ and $16$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\ldots \quad 16 \quad 8 \quad 4 \quad  \ldots$
@@ -201,10 +195,6 @@ $32$ and $2$
 </li>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='topics'>
-<ul>
-</ul>
-</div>
 <div class='question subquestion'>
 
 $\ldots \quad 6 \quad  3 \quad  0  \quad    -3$
@@ -282,12 +272,6 @@ $9$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE'>Initial</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_na_oldpr</p>
 </div>
 </div>
 </li>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0"
 title: "TopicPaper - Age - 1 - G0"
-date: 2022-06-13 05:48:36
+date: 2022-06-13 13:28:44
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD79751E-764D-4640-AADD-196B4171B83D</p>
 </div>
@@ -37,30 +37,35 @@ How old will Ryan will be in $2$ years?
 
 Let Ryan's current age $= a$
 
-As per the question,
-
 Abigail's current age $= 3a$
+
+As per the question,
 
 $
 \begin{aligned}
-3a + 6 &= 42 \\\\
-3a     &= 42 - 6 \\\\
-3a     &= 36 \\\\
-a      &= \dfrac {36} {3} \\\\
-a      &= \dfrac {12 \times 3} {3} \\\\
-a      &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
-a      &= 12
+3a + 6                      &= 42 \\\\
+3a                          &= 42 - 6 \\\\
+3a                          &= 36 \\\\
+a                           &= \dfrac {36} {3} \\\\
+a                           &= \dfrac {12 \times 3} {3} \\\\
+a                           &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a                           &= 12 \ \text{years} 
 \end{aligned}
 $
 
-Ryan's age after $2$ years, $12 + 2 = 14$.
+$
+\begin{aligned}
+\text{Ryan's age after } 2 \text{ years }    &= 12 + 2 \\\\
+                                            &= 14 \ \text{years}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>
@@ -99,7 +104,7 @@ $14$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
 </div>
@@ -130,14 +135,13 @@ How old is Mark?
 
 Let David's age $= a$
 
-As per the question,
+Mark's age $= a + 3$
 
-Mark's age $= 3 + a$
+As per the question,
 
 $
 \begin{aligned}
-\text{Sum of their ages} &= 89 \\\\
-a + 3 + a                &= 89 \\\\
+a + a + 3                &= 89 \\\\
 2 a + 3                  &= 89 \\\\
 2 a                      &= 89 - 3 \\\\
 2 a                      &= 86 \\\\
@@ -150,8 +154,8 @@ $
 
 $
 \begin{aligned}
-\text{Mark's age} &= 3 + a \\\\
-                  &= 3 + 43 \\\\
+\text{Mark's age} &= a + 3 \\\\
+                  &= 43 + 3 \\\\
                   &= 46 \ \text{years}
 \end{aligned}
 $
@@ -200,7 +204,7 @@ $46 \ \text{years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
 </div>
@@ -229,18 +233,16 @@ He died in $1940$, aged $80$.
 How old was the oak tree
 in $2011$?
 
-A B C D E
+A     B     C     D     E
 $150$ $151$ $152$ $153$ $155$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
-\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
+\text {Tree's age in 2011}   &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
                              &= 80 + 2011 - 1940 \\\\
                              &= 80 + 71 \\\\
                              &= 151 \ \text {years}
@@ -294,7 +296,7 @@ $151 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -328,7 +330,7 @@ $
 \text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
                           &= 80 - (40 + 12) \\\\
                           &= 80 - 52 \\\\
-                          &= 28
+                          &= 28 \ \text {years}
 \end{aligned}
 $
 
@@ -337,7 +339,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$28$
+$28 \ \text {years}$
 
 </div>
 </div>
@@ -376,7 +378,7 @@ $28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
 </div>
@@ -412,7 +414,7 @@ As per the question,
 
 $
 \begin{aligned}
-a - 24 + a &= 70 \\\\
+a + a - 24 &= 70 \\\\
 2 a        &= 70 + 24 \\\\
 2 a        &= 94 \\\\
 a          &= \dfrac {94} {2} \\\\
@@ -422,7 +424,7 @@ a          &= 47 \ \text {years}
 \end{aligned}
 $
 
-Mrs Jones age $= 47$ years
+Mrs Jones age $= 47 \ \text {years}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-13 05:45:32
+date: 2022-06-13 13:25:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -612,7 +612,7 @@ $2021$
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>55B8B2F1-C1CC-4DD0-BDF6-5C287D5A33FF</p>
 </div>
@@ -641,18 +641,16 @@ He died in $1940$, aged $80$.
 How old was the oak tree
 in $2011$?
 
-A B C D E
+A     B     C     D     E
 $150$ $151$ $152$ $153$ $155$
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin {aligned}
-\text {Age of Tree in 2011}  &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
+\text {Tree's age in 2011}   &= \text {Lord's age at death} + (2011 - \text {Year Lord died}) \\\\
                              &= 80 + 2011 - 1940 \\\\
                              &= 80 + 71 \\\\
                              &= 151 \ \text {years}

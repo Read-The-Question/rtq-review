@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-06-13 05:45:32
+date: 2022-06-13 13:25:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1569,7 +1569,7 @@ $+, \ \div, \ -$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>66B16F07-8FF6-4E55-BA74-5529DF432D2B</p>
 </div>
@@ -1603,7 +1603,7 @@ $
 \text {Grandmother's age} &= 80 - (40 + (2006 - 1994)) \\\\
                           &= 80 - (40 + 12) \\\\
                           &= 80 - 52 \\\\
-                          &= 28
+                          &= 28 \ \text {years}
 \end{aligned}
 $
 
@@ -1612,7 +1612,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$28$
+$28 \ \text {years}$
 
 </div>
 </div>

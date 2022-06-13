@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-13 05:45:32
+date: 2022-06-13 13:25:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -437,7 +437,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD79751E-764D-4640-AADD-196B4171B83D</p>
 </div>
@@ -469,30 +469,35 @@ How old will Ryan will be in $2$ years?
 
 Let Ryan's current age $= a$
 
-As per the question,
-
 Abigail's current age $= 3a$
+
+As per the question,
 
 $
 \begin{aligned}
-3a + 6 &= 42 \\\\
-3a     &= 42 - 6 \\\\
-3a     &= 36 \\\\
-a      &= \dfrac {36} {3} \\\\
-a      &= \dfrac {12 \times 3} {3} \\\\
-a      &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
-a      &= 12
+3a + 6                      &= 42 \\\\
+3a                          &= 42 - 6 \\\\
+3a                          &= 36 \\\\
+a                           &= \dfrac {36} {3} \\\\
+a                           &= \dfrac {12 \times 3} {3} \\\\
+a                           &= \dfrac {12 \times \cancel {3}} {\cancel {3}} \\\\
+a                           &= 12 \ \text{years} 
 \end{aligned}
 $
 
-Ryan's age after $2$ years, $12 + 2 = 14$.
+$
+\begin{aligned}
+\text{Ryan's age after } 2 \text{ years }    &= 12 + 2 \\\\
+                                            &= 14 \ \text{years}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$14$
+$14 \ \text{years}$
 
 </div>
 </div>

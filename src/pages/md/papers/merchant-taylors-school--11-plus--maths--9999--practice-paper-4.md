@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-06-13 05:45:32
+date: 2022-06-13 13:25:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3762,7 +3762,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03E012B1-67E0-4542-B1B2-6F0B3069FFA8</p>
 </div>
@@ -3798,7 +3798,7 @@ As per the question,
 
 $
 \begin{aligned}
-a - 24 + a &= 70 \\\\
+a + a - 24 &= 70 \\\\
 2 a        &= 70 + 24 \\\\
 2 a        &= 94 \\\\
 a          &= \dfrac {94} {2} \\\\
@@ -3808,7 +3808,7 @@ a          &= 47 \ \text {years}
 \end{aligned}
 $
 
-Mrs Jones age $= 47$ years
+Mrs Jones age $= 47 \ \text {years}$
 
 </div>
 </div>

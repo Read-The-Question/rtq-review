@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-13 05:45:32
+date: 2022-06-13 13:25:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2635,7 +2635,7 @@ $24$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1F301F9C-E10E-4A62-A2CA-DA4E31288C6A</p>
 </div>
@@ -2666,14 +2666,13 @@ How old is Mark?
 
 Let David's age $= a$
 
-As per the question,
+Mark's age $= a + 3$
 
-Mark's age $= 3 + a$
+As per the question,
 
 $
 \begin{aligned}
-\text{Sum of their ages} &= 89 \\\\
-a + 3 + a                &= 89 \\\\
+a + a + 3                &= 89 \\\\
 2 a + 3                  &= 89 \\\\
 2 a                      &= 89 - 3 \\\\
 2 a                      &= 86 \\\\
@@ -2686,8 +2685,8 @@ $
 
 $
 \begin{aligned}
-\text{Mark's age} &= 3 + a \\\\
-                  &= 3 + 43 \\\\
+\text{Mark's age} &= a + 3 \\\\
+                  &= 43 + 3 \\\\
                   &= 46 \ \text{years}
 \end{aligned}
 $

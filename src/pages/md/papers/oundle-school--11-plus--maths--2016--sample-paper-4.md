@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-4"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 4"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -666,7 +666,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>D7186894-D434-4DCA-9C80-DE0355633F24</p>
 </div>
@@ -677,7 +677,7 @@ $3$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1097,7 +1097,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
 </div>
@@ -1108,7 +1108,7 @@ TODOANSWER
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

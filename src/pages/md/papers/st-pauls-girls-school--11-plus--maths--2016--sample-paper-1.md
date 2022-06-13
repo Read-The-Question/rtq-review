@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1737,7 +1737,7 @@ $117 \ \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>01AA4848-AF2A-4CB2-B796-72FD6D297748</p>
 </div>
@@ -1748,7 +1748,7 @@ $117 \ \text{cm}^2$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1791,7 +1791,7 @@ $32$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0857A934-D725-44EE-B298-5854A27CA762</p>
 </div>
@@ -1802,7 +1802,7 @@ $32$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

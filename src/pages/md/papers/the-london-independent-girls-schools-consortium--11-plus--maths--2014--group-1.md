@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -653,7 +653,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>76EE240E-E3B0-4269-A3BB-7FF0D66152EC</p>
 </div>
@@ -664,7 +664,7 @@ TODOANSWER
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -965,7 +965,7 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>5F9005A4-253A-4F6B-A77C-60B2BD7ABAE0</p>
 </div>
@@ -976,7 +976,7 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1335,7 +1335,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>EC76EE3E-B338-4BF5-A3C1-B664105007CF</p>
 </div>
@@ -1346,7 +1346,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1973,7 +1973,7 @@ $269$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>474333FD-DA96-4116-920C-79A6063A4CA5</p>
 </div>
@@ -1984,7 +1984,7 @@ $269$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2105,7 +2105,7 @@ How many millilitres of liquid are in this container?
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>65A996BA-1ABC-470D-B822-F72E0A1706DD</p>
 </div>
@@ -2116,7 +2116,7 @@ How many millilitres of liquid are in this container?
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

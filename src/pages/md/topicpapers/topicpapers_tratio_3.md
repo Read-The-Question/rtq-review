@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-3"
 title: "TopicPaper - Ratio - 3"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -620,7 +620,7 @@ $\pounds 19.06$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DE639F1C-5F52-4C93-BFFF-448E2E9A1515</p>
 </div>
@@ -631,7 +631,7 @@ $\pounds 19.06$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2377,7 +2377,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>85996BB9-38D6-49C8-BE67-8D9631433764</p>
 </div>
@@ -2388,7 +2388,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2615,7 +2615,7 @@ $600 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>9D620DDD-2E9F-4C4D-AEAC-77FF0A67F288</p>
 </div>
@@ -2626,7 +2626,7 @@ $600 \ \text{m}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3266,7 +3266,7 @@ $\pounds 5.04$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
 </div>
@@ -3277,7 +3277,7 @@ $\pounds 5.04$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3436,7 +3436,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FD0DC878-E1F6-4200-96B6-EF2237097FF7</p>
 </div>
@@ -3447,7 +3447,7 @@ TODOANSWER
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

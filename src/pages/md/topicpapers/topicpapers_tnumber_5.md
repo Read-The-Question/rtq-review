@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-5"
 title: "TopicPaper - Number - 5"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3627,7 +3627,7 @@ $64 \ \text{and} \ 15625$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>19CC0602-FEEF-46E8-9116-96B6CF3464D9</p>
 </div>
@@ -3638,7 +3638,7 @@ $64 \ \text{and} \ 15625$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

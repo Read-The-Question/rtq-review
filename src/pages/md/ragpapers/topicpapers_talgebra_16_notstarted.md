@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-16-notstarted"
 title: "TopicPaper - Algebra - 16 - NOTSTARTED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1582,7 +1582,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>594EBD3F-1293-4FF8-93B0-C9B96E73E43C</p>
 </div>
@@ -1593,7 +1593,7 @@ $(0,6), (1, 4), (2, 3), (3, 2), (4,1), (6, 0)$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

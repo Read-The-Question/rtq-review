@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-9"
 title: "TopicPaper - Number - 9"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -852,7 +852,7 @@ $\pounds 105$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>5533A075-BAD7-4675-83E0-25352274D043</p>
 </div>
@@ -863,7 +863,7 @@ $\pounds 105$
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4992,7 +4992,7 @@ $\text {four hundred twenty five}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B7F7A1F1-453F-4B7E-AF9B-743C20162512</p>
 </div>
@@ -5003,7 +5003,7 @@ $\text {four hundred twenty five}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

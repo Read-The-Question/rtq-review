@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1086,7 +1086,7 @@ $35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>815AB33A-E6F1-4432-B03B-F60E812D1A18</p>
 </div>
@@ -1097,7 +1097,7 @@ $35$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4118,7 +4118,7 @@ $5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>594EBD3F-1293-4FF8-93B0-C9B96E73E43C</p>
 </div>
@@ -4129,7 +4129,7 @@ $5$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-blocked"
 title: "TopicPaper - Number - 11 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1D0956E4-DE2A-4F2E-B2DA-FD31B6AB0379</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -49,7 +49,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>6AEE5338-7773-4E3C-8419-E6912AC9D023</p>
 </div>
@@ -60,7 +60,7 @@ $text {Two hundred ninety-nine million seven hundred ninety-two thousand four hu
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

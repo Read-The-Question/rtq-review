@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-13 20:39:23
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>525599CE-D0D4-4601-84EF-CB69355DCF8B</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-13 20:39:23
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1010,7 +1010,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5DB561FC-E96A-471E-872B-8964DB6E9272</p>
 </div>
@@ -1021,7 +1021,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

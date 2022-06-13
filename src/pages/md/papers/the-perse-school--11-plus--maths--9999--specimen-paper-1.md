@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1035,7 +1035,7 @@ $\dfrac {31} {120}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>DD38D637-4C88-49D5-A00B-F650F7D2F6F7</p>
 </div>
@@ -1046,7 +1046,7 @@ $\dfrac {31} {120}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1980,7 +1980,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>74519F97-5041-4ECE-88D4-3B509460C560</p>
 </div>
@@ -1991,7 +1991,7 @@ $82$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2069,7 +2069,7 @@ $-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>594EBD3F-1293-4FF8-93B0-C9B96E73E43C</p>
 </div>
@@ -2080,7 +2080,7 @@ $-1$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-blocked"
 title: "TopicPaper - Statistics - 2 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E0077BDA-7CE4-4354-A2D2-C673F42B2CFD</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

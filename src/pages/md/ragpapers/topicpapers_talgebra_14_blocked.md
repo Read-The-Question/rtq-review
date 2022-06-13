@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-blocked"
 title: "TopicPaper - Algebra - 14 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>6E54CC2F-AFAA-4163-A221-70B208AE9DB1</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -80,7 +80,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FB5F7D5D-D8DC-418D-8CF1-CAB3904DCDC6</p>
 </div>
@@ -91,7 +91,7 @@ $1$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

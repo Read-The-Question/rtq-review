@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-13 20:39:23
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>B7F7A1F1-453F-4B7E-AF9B-743C20162512</p>
 </div>
@@ -24,7 +24,7 @@ date: 2022-06-13 20:39:23
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1209,7 +1209,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prg question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>76119116-2D56-4485-9318-0825AD6466FE</p>
 </div>
@@ -1220,7 +1220,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

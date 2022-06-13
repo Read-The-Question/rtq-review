@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-3"
 title: "TopicPaper - Simpleword - 3"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -528,7 +528,7 @@ $7.7 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>7DB65EDC-8295-4BCC-8299-ACF2FFD390A4</p>
 </div>
@@ -539,7 +539,7 @@ $7.7 \ \text {m}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3142,7 +3142,7 @@ $6, \ 0.67 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E613AD24-EE97-4825-9545-2EBD62F74520</p>
 </div>
@@ -3153,7 +3153,7 @@ $6, \ 0.67 \ \text{cm}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3731,7 +3731,7 @@ $0.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_pra question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0B4EA44D-BD3F-4217-9050-070265E7D6BE</p>
 </div>
@@ -3742,7 +3742,7 @@ $0.36$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pra</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4114,7 +4114,7 @@ $600 \ \text{g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1FE964D6-D452-462B-99A5-E639ED97A120</p>
 </div>
@@ -4125,7 +4125,7 @@ $600 \ \text{g}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

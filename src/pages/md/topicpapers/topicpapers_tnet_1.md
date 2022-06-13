@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnet-1"
 title: "TopicPaper - Net - 1"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -436,7 +436,7 @@ $\text{different} \ \ \boxed{\times}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>08FFB9EF-BDF0-49DC-A1FB-6B32890EE987</p>
 </div>
@@ -447,7 +447,7 @@ $\text{different} \ \ \boxed{\times}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

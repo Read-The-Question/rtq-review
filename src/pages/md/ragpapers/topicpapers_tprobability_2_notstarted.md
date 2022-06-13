@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-notstarted"
 title: "TopicPaper - Probability - 2 - NOTSTARTED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
@@ -212,7 +212,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcc question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>91EA7C9C-B1CA-4BC9-B4C1-8F292EB3A141</p>
 </div>
@@ -223,7 +223,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

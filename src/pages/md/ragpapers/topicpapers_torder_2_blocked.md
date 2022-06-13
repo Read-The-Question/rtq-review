@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-blocked"
 title: "TopicPaper - Order - 2 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>94482E8F-6F8C-4F2F-9BC0-B991B1CFBDB9</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -53,7 +53,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>DBECDDB1-535A-40FF-A1A8-ACD4A67D5EC9</p>
 </div>
@@ -64,7 +64,7 @@ $6.07, 6.705, 6.75, 7.00, 7.6$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -186,7 +186,7 @@ $-13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E1F1B279-AD58-4BAB-9F64-310389A407AC</p>
 </div>
@@ -197,7 +197,7 @@ $-13$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -247,7 +247,7 @@ $\dfrac{5}{11}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>44A7CEDA-D2B0-4146-96A4-531150F642F1</p>
 </div>
@@ -258,7 +258,7 @@ $\dfrac{5}{11}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

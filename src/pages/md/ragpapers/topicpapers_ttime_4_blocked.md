@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-blocked"
 title: "TopicPaper - Time - 4 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>E93C167E-C6A3-443C-8E8B-0832FB8A5BB9</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_wf_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -59,7 +59,7 @@ $377$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>24E931CE-2E50-4E79-B7A8-54956CD7E71A</p>
 </div>
@@ -70,7 +70,7 @@ $377$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -178,7 +178,7 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>420E188E-519C-42A7-A5F9-D5C0C4417ED1</p>
 </div>
@@ -189,7 +189,7 @@ $9 \ \text{hrs} \ \  33 \ \text{mins}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -239,7 +239,7 @@ $86{,}400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>10C36790-C347-40B9-9147-58FE1E31EBEC</p>
 </div>
@@ -250,7 +250,7 @@ $86{,}400$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -301,7 +301,7 @@ $54 \ \text{mins}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>93C342F0-9B02-467D-85DA-8B6AB128FA9C</p>
 </div>
@@ -312,7 +312,7 @@ $54 \ \text{mins}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-blocked"
 title: "TopicPaper - Algebra - 10 - BLOCKED"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FC4F6CFA-9375-4C0E-8FA7-3428B8E1BD56</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-13 20:42:30
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -102,7 +102,7 @@ $\pounds 50$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B9D7A048-0361-4F81-A8A8-64EC81D6A373</p>
 </div>
@@ -113,7 +113,7 @@ $\pounds 50$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -162,7 +162,7 @@ $25, 5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>F309BCDF-1E65-486A-B43C-4F8547E68817</p>
 </div>
@@ -173,7 +173,7 @@ $25, 5$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -321,7 +321,7 @@ $\text {No, it does not make sense to use the formula for older people because a
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>301495E4-984D-4E5B-B022-507BD60D3235</p>
 </div>
@@ -332,7 +332,7 @@ $\text {No, it does not make sense to use the formula for older people because a
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,7 +379,7 @@ $1800 \text {metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>C47BB056-BB47-49E9-A0DC-50131CC6D1FE</p>
 </div>
@@ -390,7 +390,7 @@ $1800 \text {metres}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -451,7 +451,7 @@ $10 \text{chickens}, 20 \text{cows}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B7931AAD-CC40-434A-B67C-9F5D390398BC</p>
 </div>
@@ -462,7 +462,7 @@ $10 \text{chickens}, 20 \text{cows}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

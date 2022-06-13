@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -550,7 +550,7 @@ $\dfrac {1} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>E5FC8466-3F33-41B1-BF45-728FDA965248</p>
 </div>
@@ -561,7 +561,7 @@ $\dfrac {1} {4}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

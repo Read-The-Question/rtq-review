@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-2"
 title: "TopicPaper - Probability - 2"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -306,7 +306,7 @@ $\dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcc question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>91EA7C9C-B1CA-4BC9-B4C1-8F292EB3A141</p>
 </div>
@@ -317,7 +317,7 @@ $\dfrac {2} {5}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2343,7 +2343,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>843F06E7-DEA4-416D-81A0-B9328792593D</p>
 </div>
@@ -2354,7 +2354,7 @@ TODOANSWER
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

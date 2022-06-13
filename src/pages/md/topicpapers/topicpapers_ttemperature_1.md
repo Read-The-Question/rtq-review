@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1310,7 +1310,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
@@ -1321,7 +1321,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2991,7 +2991,7 @@ $5 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -3002,7 +3002,7 @@ $5 \degree \text {C}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

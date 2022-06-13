@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2174,7 +2174,7 @@ TODOANSWER
 # Section B
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_pra question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>554B3D2D-7D52-4B91-AC2E-5CBB5B5578F4</p>
 </div>
@@ -2185,7 +2185,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_pra</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

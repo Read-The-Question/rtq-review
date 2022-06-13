@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1461,7 +1461,7 @@ $500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prcc question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>031D794E-5978-4206-9059-995FC698CDE6</p>
 </div>
@@ -1472,7 +1472,7 @@ $500$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1591,7 +1591,7 @@ $144 \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>997305C0-43E0-414C-9637-DF71FC2B8CF8</p>
 </div>
@@ -1602,7 +1602,7 @@ $144 \text {cm}^2$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3008,7 +3008,7 @@ $64 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5115612D-9C06-4F91-9D07-E0E41EA82030</p>
 </div>
@@ -3019,7 +3019,7 @@ $64 \ \text{cm}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3608,7 +3608,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>F1B80E8B-8F3D-4D7C-B004-64E862ADAB50</p>
 </div>
@@ -3619,7 +3619,7 @@ $4$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-1"
 title: "TopicPaper - Graph - 1"
-date: 2022-06-13 20:42:30
+date: 2022-06-13 22:33:09
 ---
 <div class='paper'>
 <div class='meta'>
@@ -5344,7 +5344,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>5CF08C1D-77D1-49A4-8AFA-EA3208B6403E</p>
 </div>
@@ -5355,7 +5355,7 @@ TODOANSWER
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

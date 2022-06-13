@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-13 20:39:23
+date: 2022-06-13 22:30:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1206,7 +1206,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>9BA84A0B-7FE1-41E1-B1DA-8819C7C372AF</p>
 </div>
@@ -1217,7 +1217,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <p>rag_up_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1422,7 +1422,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>260A6D88-AF7C-4DE1-8891-04DDBADA221E</p>
 </div>
@@ -1433,7 +1433,7 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2712,7 +2712,7 @@ $\text{Prime Number}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prr question'>
+<div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
 <p>1C03DD8C-DB4B-41BD-BAE2-8BD91EC96335</p>
 </div>
@@ -2723,7 +2723,7 @@ $\text{Prime Number}$
 <p>rag_up_notstarted</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-3-g0"
 title: "TopicPaper - Detailedaddition - 3 - G0"
-date: 2022-06-13 04:14:35
+date: 2022-06-13 05:48:36
 ---
 <ul class='question default-decimal'>
 <li>

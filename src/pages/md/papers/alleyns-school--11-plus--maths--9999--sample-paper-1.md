@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-13 04:11:28
+date: 2022-06-13 05:45:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2298,7 +2298,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>647F4ED9-464B-42F6-AD07-9DEACD207E79</p>
 </div>
@@ -2306,7 +2306,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_nj_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2321,19 +2321,21 @@ tsimpleword
 <div class='question question'>
 
 On my wall I want to put some stickers of my favourite pop star Singing Steve. 
-The space I have available is $55 \ \text{cm}$ by $60 \ \text{cm}$ and the stickers are each $15 \ \text{cm}$ by $5 \ \ text{cm}$. 
+The space I have available is $55 \ \text{cm}$ by $60 \ \text{cm}$ and the stickers are each $15 \ \text{cm}$ by $5 \ \text{cm}$. 
 What is the maximum number of stickers I can fit on the wall?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+$\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Number of stickers}  &= \dfrac {\text{Area of the space}} {\text{Area of sticker}}
+\text{Number of stickers}  &= \dfrac {\text{Area of the wall}} {\text{Area of a sticker}} \\\\
                            &= \dfrac {55 \times 60} {15 \times 5} \\\\
                            &= \dfrac {5 \times 11 \times 15 \times 4} {15 \times 5} \\\\
                            &= \dfrac {\cancel {5} \times 11 \times \cancel {15} \times 4} {\cancel {15} \times \cancel {5} } \\\\
@@ -2341,8 +2343,6 @@ $
                            &= 44
 \end{aligned}
 $
-
-Number of stickers $= 44$
 
 </div>
 </div>
@@ -2357,26 +2357,26 @@ $44$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' id='FORM-647F4ED9-464B-42F6-AD07-9DEACD207E79' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='647F4ED9-464B-42F6-AD07-9DEACD207E79' id='FORM-647F4ED9-464B-42F6-AD07-9DEACD207E79' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

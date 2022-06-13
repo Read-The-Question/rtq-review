@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-13 04:11:28
+date: 2022-06-13 05:45:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -541,7 +541,7 @@ $48 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>DB80832F-B004-4CB4-8D70-0678C3B655AC</p>
 </div>
@@ -549,7 +549,7 @@ $48 \degree$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_nj_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -575,15 +575,19 @@ What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
 <div class='workings'>
 <div class='working'>
 
-Let the side of sqaure $= a$.
+$\text{Area of square} = \text{side} \times \text{side}$
 
-Let's first find out the length of a side of the square.
+
+$\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square (in $\text{cm}$) $= a$
 
 As per the question,
 
 $
 \begin {aligned}
-\text {Area of square}          &= 36 \ \text {cm} ^ 2 \\\\
+a \times a                      &= 36 \\\\
 a ^ 2                           &= 36 \\\\
 a                               &= \sqrt {36} \\\\
 a                               &= 6 \ \text {cm}
@@ -592,9 +596,9 @@ $
 
 $
 \begin {aligned}
-\text {Perimeter of square}     &= 4 \times a \\\\
-                                &= 4 \times 6 \\\\
-                                &= 24 \ \text {cm}
+\text {Perimeter}   &= 4 \times a \\\\
+                    &= 4 \times 6 \\\\
+                    &= 24 \ \text {cm}
 \end {aligned}
 $
 
@@ -602,7 +606,7 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>a</p>
+<p>A</p>
 </div>
 <div class='answer'>
 
@@ -614,26 +618,26 @@ $24 \ \text{cm}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' id='FORM-DB80832F-B004-4CB4-8D70-0678C3B655AC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='DB80832F-B004-4CB4-8D70-0678C3B655AC' id='FORM-DB80832F-B004-4CB4-8D70-0678C3B655AC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

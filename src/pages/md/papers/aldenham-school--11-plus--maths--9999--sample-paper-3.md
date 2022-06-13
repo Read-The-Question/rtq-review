@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-13 04:11:28
+date: 2022-06-13 05:45:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1361,7 +1361,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text {Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+\text {Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
                          &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
                          &= \dfrac {2 \times 100 \ \text{cm} \times 6 \times 100 \ \text{cm}} {50 \ \text{cm} \times 50 \ \text{cm}} \\\\
                          &= \dfrac {2 \times 100 \times 6 \times 100} {50  \times 50} \\\\
@@ -1398,7 +1398,7 @@ As per the question,
 
 $
 \begin {aligned}
-\text{Number of tiles}  &= \dfrac {\text{Area of the Wall}} {\text{Area of a Tile}} \\\\
+\text{Number of tiles}  &= \dfrac {\text{Area of the wall}} {\text{Area of a tile}} \\\\
                         &= \dfrac {2 \ \text{m} \times 6 \ \text{m}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100  \ \text{cm} \times 6 \times 100 \ \text{cm}} {40 \ \text{cm} \times 20 \ \text{cm}} \\\\
                         &= \dfrac {2 \times 100 \times 6 \times 100} {40  \times 20} \\\\

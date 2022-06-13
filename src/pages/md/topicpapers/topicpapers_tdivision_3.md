@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-3"
 title: "TopicPaper - Division - 3"
-date: 2022-06-13 04:14:35
+date: 2022-06-13 05:48:36
 ---
 <div class='paper'>
 <div class='meta'>

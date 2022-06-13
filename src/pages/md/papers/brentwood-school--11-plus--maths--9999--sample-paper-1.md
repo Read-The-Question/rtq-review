@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-13 04:11:28
+date: 2022-06-13 05:45:32
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1469,7 +1469,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E52F477B-FFCA-4102-95D0-AD1EFD89B90D</p>
 </div>
@@ -1477,7 +1477,7 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_nj_g2</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1522,13 +1522,18 @@ Calculate the size of the area left when a square side length $2 \ \text{metres}
 <div class='workings'>
 <div class='working'>
 
+$\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+$\text{Area of square} = \text{side} \times \text{side}$
+
+
 $
 \begin{aligned}
-\text {Area Left} &= \text { Area of Rectangle} - \text { Area of Square} \\\\
-                  &= (\text {Length} \times \text {Width}) - (\text {Side} \times \text {Side}) \\\\
-                  &= (8 \text {m} \times 6 \text {m}) - (2 \text {m} \times 2 \text {m}) \\\\
-                  &= 48 \text {m}^2 - 4 \text {m}^2 \\\\
-                  &= 44 \text {m}^2
+\text {Area Left} &= \text {Area of Rectangle} - \text {Area of Square} \\\\
+                  &= (8 \times 6 ) - (2  \times 2) \\\\
+                  &= 48  - 4 \\\\
+                  &= 44 \ \text{m}^2
 \end{aligned}
 $
 
@@ -1537,7 +1542,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$44 \text {m}^2$
+$44 \ \text {m}^2$
 
 </div>
 </div>
@@ -1554,13 +1559,12 @@ What is the area of the biggest square that would fit completely inside the orig
 <div class='workings'>
 <div class='working'>
 
-The biggest square with side length $6$ metres would fit completely inside the original rectangle
+The biggest square that can fit will have a side equal to the width of the rectangle ($6 \ \text{meters}$).
 
 $
 \begin{aligned}
-\text {Area of Square} &= \text {Side} \times \text {Side} \\\\
-                       &= 6 \text {m} \times 6 \text {m} \\\\
-                       &= 36 \text {m}^2
+\text {Area of the square}  &= 6 \times 6 \\\\
+                            &= 36 \ \text {m}^2
 \end{aligned}
 $
 
@@ -1569,7 +1573,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$36 \text {m}^2$
+$36 \ \text {m}^2$
 
 </div>
 </div>
@@ -1580,26 +1584,26 @@ $36 \text {m}^2$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' id='FORM-E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' id='FORM-E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

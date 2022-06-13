@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2020-sample-paper-6"
 title: "Bancrofts School - 11 Plus - Maths - 2020 - Sample Paper 6"
-date: 2022-06-13 20:20:46
+date: 2022-06-13 20:39:23
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -807,7 +807,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -829,26 +829,33 @@ As per the question,
 
 Catherine’s age is a prime number.
 
-Catherine’s age    $= 7$ years
+$\text {Catherine’s age} = 7 \ \text {years}$
 
 Bethany is older than Alison.
 
-Bethany’s age      $= 12$ years
-
-Alison’s age       $= 6$ years
+$
+\begin {aligned}
+\text {Bethany's age}   &= 12 \ \text {years} \\\\
+\text {Alison’s age}    &= 6 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-\text{Alison’s age}       &= 6 \ \text{years} \\
-\text{Bethany’s age}      &= 12 \ \text{years} \\
-\text{Catherine’s age}    &= 7 \ \text{years}
-\end{aligned}
-$
+Alison $=$ $6 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Bethany $=$ $12 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Catherine $=$ $7 \ \text {years}$
 
 </div>
 </div>

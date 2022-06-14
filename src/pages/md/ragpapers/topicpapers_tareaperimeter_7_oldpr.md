@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-06-13 22:33:09
+date: 2022-06-14 10:06:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-13 22:33:09
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -178,7 +178,7 @@ $28.4 \ \text {kilometres}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -282,7 +282,7 @@ $8 \ \text {cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -376,7 +376,7 @@ $25 \ \text {cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:36</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -562,7 +562,7 @@ $18 \ \text {stickers}$
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -670,7 +670,7 @@ $144 \ \text{cm}^{2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -776,7 +776,7 @@ $13 \ \text{cm}^2$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

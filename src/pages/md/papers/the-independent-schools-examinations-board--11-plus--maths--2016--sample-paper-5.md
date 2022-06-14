@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3120,7 +3120,7 @@ $10 {:} 30$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

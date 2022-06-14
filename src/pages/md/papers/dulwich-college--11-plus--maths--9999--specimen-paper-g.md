@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1777,7 +1777,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
 </div>
@@ -1788,7 +1788,7 @@ $23$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1796,7 +1796,7 @@ $23$
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1816,15 +1816,20 @@ What is their total age?
 
 $
 \begin{aligned}
-\text{Richard's age}    &= 12 \\\\
-\text{Adam's age}       &= 2 \times \text{Richard's age}  \\\\
-                        &= 2 \times 12 \\\\
-                        &= 24 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
-                        &= \dfrac {2} {3} \times 24 \\\\
-                        &= 16 \\\\
-\text{Total age}        &= 12 + 24 + 16 \\\\
-                        &= 52
+\text {Richard's age}    &= 12 \ \text {years}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Adam's age}       &= 2 \times \text {Richard's age} \\\\
+                         &= 2 \times 12 \\\\
+                         &= 24 \ \text {years} \\\\
+\text {Will's age}       &= \dfrac {2} {3} \times \text {Adam's age} \\\\
+                         &= \dfrac {2} {3} \times 24 \\\\
+                         &= 16 \ \text {years} \\\\
+\text {Total age}        &= 12 + 24 + 16 \\\\
+                         &= 52 \ \text {years}
 \end{aligned}
 $
 
@@ -1833,7 +1838,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$52$
+$52 \ \text {years}$
 
 </div>
 </div>

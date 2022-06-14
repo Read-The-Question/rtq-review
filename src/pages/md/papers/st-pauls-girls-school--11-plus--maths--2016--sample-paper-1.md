@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1649,7 +1649,7 @@ $63 \ \text{girls}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_nj_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2314,7 +2314,7 @@ $11 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
 </div>
@@ -2325,7 +2325,7 @@ $11 \text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2369,11 +2369,11 @@ What is the combined age of Alan, Ben and Carl?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Alan $= a$
+Let Alan's age $= a$
 
-Let the age of Ben $= b$
+Let Ben's age $= b$
 
-Let the age of Carl $= c$
+Let Carl's age $= c$
 
 As per the question,
 
@@ -2389,7 +2389,8 @@ Let’s find the combined age of Alan, Ben and Carl
 
 $
 \begin{aligned}
-(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+(a + b) + (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2a + 2b + 2c                &= 154 \\\\
 2 \times (a + b + c)        &= 154 \\\\
 a + b + c                   &= \dfrac {154} {2} \\\\
 a + b + c                   &= \dfrac {2 \times 77} {2} \\\\
@@ -2405,7 +2406,7 @@ The combined age of Alan, Ben and Carl is seventy seven.
 <div class='answers'>
 <div class='answer'>
 
-$77$
+$\text {Seventy seven}$
 
 </div>
 </div>
@@ -2422,21 +2423,25 @@ How old is Alan?
 <div class='workings'>
 <div class='working'>
 
+As per the above answer,
+
+$
 \begin{aligned}
 a + b + c   &= 77 \\\\
 a + 66      &= 77 \\\\
 a           &= 77 - 66 \\\\
-a           &= 11
+a           &= 11 \ \text {years}
 \end{aligned}
+$
 
-Age of Alan $= 11$
+Alan's age $= 11 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$Alan is $11 \ \text {years}$ old.$
+$11 \ \text {years}$
 
 </div>
 </div>

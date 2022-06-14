@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-13 22:33:09
+date: 2022-06-14 10:06:50
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1500,7 +1500,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0A39A4A0-788E-4A56-BD54-7971DF649AE3</p>
 </div>
@@ -1511,7 +1511,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1519,7 +1519,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1539,15 +1539,20 @@ What is their total age?
 
 $
 \begin{aligned}
-\text{Richard's age}    &= 12 \\\\
-\text{Adam's age}       &= 2 \times \text{Richard's age}  \\\\
-                        &= 2 \times 12 \\\\
-                        &= 24 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
-                        &= \dfrac {2} {3} \times 24 \\\\
-                        &= 16 \\\\
-\text{Total age}        &= 12 + 24 + 16 \\\\
-                        &= 52
+\text {Richard's age}    &= 12 \ \text {years}
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Adam's age}       &= 2 \times \text {Richard's age} \\\\
+                         &= 2 \times 12 \\\\
+                         &= 24 \ \text {years} \\\\
+\text {Will's age}       &= \dfrac {2} {3} \times \text {Adam's age} \\\\
+                         &= \dfrac {2} {3} \times 24 \\\\
+                         &= 16 \ \text {years} \\\\
+\text {Total age}        &= 12 + 24 + 16 \\\\
+                         &= 52 \ \text {years}
 \end{aligned}
 $
 
@@ -1556,7 +1561,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$52$
+$52 \ \text {years}$
 
 </div>
 </div>
@@ -1595,7 +1600,7 @@ $52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
 </div>
@@ -1606,7 +1611,7 @@ $52$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1614,7 +1619,7 @@ $52$
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1632,26 +1637,29 @@ What is their total age?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin{aligned}
+\text{Richard's age}    &= 18 \ \text {years}
+\end{aligned}
+$
 
 $
 \begin{aligned}
-\text{Richard's age}    &= 18 \\\\
-\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
+\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2} \\\\
                         &= \dfrac {18} {2} \\\\
                         &= \dfrac {2 \times 9} {2} \\\\
-                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
-                        &= 9 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\
+                        &= 9 \ \text {years} \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age} \\\\
                         &= \dfrac {2} {3} \times 9 \\\\
                         &= \dfrac {2 \times 9} {3} \\\\
                         &= \dfrac {2 \times 3 \times 3} {3} \\\\
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
-                        &= 6 \\\\
+                        &= 6 \ \text {years} \\\\
 \text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
-                        &= 33
+                        &= 33 \ \text {years}
 \end{aligned}
 $
 
@@ -1660,7 +1668,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33$
+$33 \ \text {years}$
 
 </div>
 </div>
@@ -1870,7 +1878,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9AC85AEC-FC01-4FB6-9FC8-DC6ADCBB5690</p>
 </div>
@@ -1881,7 +1889,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1904,39 +1912,39 @@ How old is the **father**?
 <div class='workings'>
 <div class='working'>
 
-Let the age of father $= a$
+Let father’s age $= a$
 
-Age of daughter $= \dfrac{a}{2}$
+Daughter’s age $= \dfrac {a} {2}$
 
-Age of brother $= \dfrac{a}{4}$
+Brother's age $= \dfrac{a} {4}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{age of father} + \text{age of daughter} + \text{age of 2 sons}                            &= 96 \\\\
-a + \dfrac{a}{2} + \dfrac{a}{4} + \dfrac{a}{4}                                                  &= 96 \\\\
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac {a} {4}                                            &= 96 \\\\
 \dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a}{4} + \dfrac{a}{4}        &= 96 \\\\
-\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\ 
+\dfrac {4a} {4} + \dfrac{2a}{4} + \dfrac{a}{4} + \dfrac{a}{4}                                   &= 96 \\\\
 \dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
 \dfrac {8a} {4}                                                                                 &= 96 \\\\
-7a                                                                                              &= 96 \times 4 \\\\
+8a                                                                                              &= 96 \times 4 \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
 a                                                                                               &= \dfrac{96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac{\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               &= \dfrac{12 \times 4 \times 8} {8} \\\\
+a                                                                                               &= \dfrac{12 \times 4 \times \cancel {8}} {\cancel {8}} \\\\
 a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48 \\\\
-\text {the age of father}                                                                       &= 48
+a                                                                                               &= 48 \ \text {years}
 \end{aligned}
 $
+
+Father's age $= 48 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$48$
+$48 \ \text {years}$
 
 </div>
 </div>
@@ -2220,7 +2228,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4C17A102-B152-4344-95F9-A972131EDBC2</p>
 </div>
@@ -2231,7 +2239,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2275,11 +2283,11 @@ What is the combined age of Alan, Ben and Carl?
 <div class='workings'>
 <div class='working'>
 
-Let the age of Alan $= a$
+Let Alan's age $= a$
 
-Let the age of Ben $= b$
+Let Ben's age $= b$
 
-Let the age of Carl $= c$
+Let Carl's age $= c$
 
 As per the question,
 
@@ -2295,7 +2303,8 @@ Let’s find the combined age of Alan, Ben and Carl
 
 $
 \begin{aligned}
-(a + b) - (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+(a + b) + (b + c) + (a + c) &= 43 + 66 + 45 \\\\
+2a + 2b + 2c                &= 154 \\\\
 2 \times (a + b + c)        &= 154 \\\\
 a + b + c                   &= \dfrac {154} {2} \\\\
 a + b + c                   &= \dfrac {2 \times 77} {2} \\\\
@@ -2311,7 +2320,7 @@ The combined age of Alan, Ben and Carl is seventy seven.
 <div class='answers'>
 <div class='answer'>
 
-$77$
+$\text {Seventy seven}$
 
 </div>
 </div>
@@ -2328,21 +2337,25 @@ How old is Alan?
 <div class='workings'>
 <div class='working'>
 
+As per the above answer,
+
+$
 \begin{aligned}
 a + b + c   &= 77 \\\\
 a + 66      &= 77 \\\\
 a           &= 77 - 66 \\\\
-a           &= 11
+a           &= 11 \ \text {years}
 \end{aligned}
+$
 
-Age of Alan $= 11$
+Alan's age $= 11 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$Alan is $11 \ \text {years}$ old.$
+$11 \ \text {years}$
 
 </div>
 </div>
@@ -2518,7 +2531,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2540,26 +2553,33 @@ As per the question,
 
 Catherine’s age is a prime number.
 
-Catherine’s age    $= 7$ years
+$\text {Catherine’s age} = 7 \ \text {years}$
 
 Bethany is older than Alison.
 
-Bethany’s age      $= 12$ years
-
-Alison’s age       $= 6$ years
+$
+\begin {aligned}
+\text {Bethany's age}   &= 12 \ \text {years} \\\\
+\text {Alison’s age}    &= 6 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-\text{Alison’s age}       &= 6 \ \text{years} \\
-\text{Bethany’s age}      &= 12 \ \text{years} \\
-\text{Catherine’s age}    &= 7 \ \text{years}
-\end{aligned}
-$
+Alison $=$ $6 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Bethany $=$ $12 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Catherine $=$ $7 \ \text {years}$
 
 </div>
 </div>

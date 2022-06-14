@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-13 22:30:05
+date: 2022-06-14 10:03:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1842,7 +1842,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F74409E6-423C-450E-BDFB-21338241A8A0</p>
 </div>
@@ -1853,7 +1853,7 @@ $23$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1861,7 +1861,7 @@ $23$
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -1879,26 +1879,29 @@ What is their total age?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin{aligned}
+\text{Richard's age}    &= 18 \ \text {years}
+\end{aligned}
+$
 
 $
 \begin{aligned}
-\text{Richard's age}    &= 18 \\\\
-\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2}  \\\\
+\text{Adam's age}       &= \dfrac {\text{Richard's age}} {2} \\\\
                         &= \dfrac {18} {2} \\\\
                         &= \dfrac {2 \times 9} {2} \\\\
-                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\ 
-                        &= 9 \\\\
-\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age}  \\\\
+                        &= \dfrac {\cancel{2} \times 9} {\cancel{2}} \\\\
+                        &= 9 \ \text {years} \\\\
+\text{Will's age}       &= \dfrac {2} {3} \times \text{Adam's age} \\\\
                         &= \dfrac {2} {3} \times 9 \\\\
                         &= \dfrac {2 \times 9} {3} \\\\
                         &= \dfrac {2 \times 3 \times 3} {3} \\\\
                         &= \dfrac {2 \times 3 \times \cancel{3}} {\cancel{3}} \\\\
                         &= 2 \times 3 \\\\
-                        &= 6 \\\\
+                        &= 6 \ \text {years} \\\\
 \text{Total age}        &= \text{Richard's age + Adam's age + Will's age} \\\\
                         &= 18 + 9 + 6 \\\\
-                        &= 33
+                        &= 33 \ \text {years}
 \end{aligned}
 $
 
@@ -1907,7 +1910,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33$
+$33 \ \text {years}$
 
 </div>
 </div>
@@ -4100,7 +4103,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

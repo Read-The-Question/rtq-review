@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-g0"
 title: "TopicPaper - Areaperimeter - 6 - G0"
-date: 2022-06-13 22:33:09
+date: 2022-06-14 10:06:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-13 22:33:09
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -106,7 +106,7 @@ $80 \ \text {cm}^2$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -364,7 +364,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -468,7 +468,7 @@ $80 \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -566,7 +566,7 @@ $20 \ \text{cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -673,7 +673,7 @@ $48 \ \text{cm}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_nj_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

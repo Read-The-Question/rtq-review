@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-14 10:03:37
+date: 2022-06-14 12:22:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2091,7 +2091,7 @@ $68$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>05BC7A40-020B-420A-83C8-4F58121795F4</p>
 </div>
@@ -2102,7 +2102,7 @@ $68$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2537,7 +2537,7 @@ $\pounds 20.74$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B500989A-95BC-48E9-99DE-F777B5042D16</p>
 </div>
@@ -2548,7 +2548,7 @@ $\pounds 20.74$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

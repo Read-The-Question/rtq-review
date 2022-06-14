@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-06-14 10:03:37
+date: 2022-06-14 12:22:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1113,7 +1113,7 @@ $\text{Because 500 is not a multiple of 27}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>12F5B8CD-2A8D-4620-A4B9-235CA010BB96</p>
 </div>
@@ -1124,7 +1124,7 @@ $\text{Because 500 is not a multiple of 27}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2234,7 +2234,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7B8F7BA7-0BB4-4F23-85CB-B84B8533E5C0</p>
 </div>
@@ -2245,7 +2245,7 @@ TODOANSWER
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-14 10:03:37
+date: 2022-06-14 12:22:55
 ---
 <div class='paper'>
 <div class='meta'>
@@ -13,7 +13,7 @@ date: 2022-06-14 10:03:37
 </div>
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D66F927C-0A34-4DAE-BB63-EAB3689C61CC</p>
 </div>
@@ -24,7 +24,7 @@ date: 2022-06-14 10:03:37
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,7 +90,7 @@ $14036$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>2414B804-D702-4FED-B317-F76BD48DA812</p>
 </div>
@@ -101,7 +101,7 @@ $14036$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -526,7 +526,7 @@ $\pounds 4.90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0A0A949A-4315-41A1-A28D-C39E8F6FC5E9</p>
 </div>
@@ -537,7 +537,7 @@ $\pounds 4.90$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -677,7 +677,7 @@ $0.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>680B2DDC-4438-441C-A50B-D93FE578EBF9</p>
 </div>
@@ -688,7 +688,7 @@ $0.2$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

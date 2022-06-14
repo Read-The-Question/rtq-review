@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0"
 title: "TopicPaper - Money - 2 - G0"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,6 +66,9 @@ $85 \ \text {pence}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -158,6 +161,9 @@ $135 \ \text {pence}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -310,6 +316,9 @@ $\pounds 0.45$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -415,6 +424,9 @@ $\pounds 26$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -556,6 +568,9 @@ $\pounds 291.20$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -649,6 +664,9 @@ $(4.65 \div 15) \times 19$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -778,6 +796,9 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -915,6 +936,9 @@ $\pounds 12.56$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1016,6 +1040,9 @@ $\pounds 5.06$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1162,6 +1189,9 @@ $\pounds 4.80$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1260,6 +1290,9 @@ $\pounds 15$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1361,6 +1394,9 @@ $\pounds 64$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1447,6 +1483,9 @@ $\pounds 4.15$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1540,6 +1579,9 @@ $20 \ \text {p}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1819,6 +1861,9 @@ $\pounds 3.60, \pounds 1.20$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1969,6 +2014,9 @@ $52$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2065,6 +2113,9 @@ $120\text{p}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2157,6 +2208,9 @@ $\pounds 5.02$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2310,6 +2364,9 @@ $7$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2484,6 +2541,9 @@ $13$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2583,6 +2643,9 @@ $\pounds 4.91$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2679,6 +2742,9 @@ $\pounds 3.63$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2758,6 +2824,9 @@ $\pounds 3.51$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2950,6 +3019,9 @@ $127 \text{p}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3091,6 +3163,9 @@ $135 \degree$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3187,6 +3262,9 @@ $\pounds 15.42$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

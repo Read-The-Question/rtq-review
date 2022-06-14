@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-oldpr"
 title: "TopicPaper - Sequence - 5 - OLDPR"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -71,6 +71,9 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -189,6 +192,9 @@ Second line : $6^2 + 13 = 49$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -288,6 +294,9 @@ No
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -503,6 +512,9 @@ $16$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -768,6 +780,9 @@ $7$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

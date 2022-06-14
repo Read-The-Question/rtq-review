@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfactor-1"
 title: "TopicPaper - Factor - 1"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -168,6 +168,9 @@ $2, 3$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -257,6 +260,9 @@ $1 + 2 \times 3 \times 4$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -331,6 +337,9 @@ $210$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -507,6 +516,9 @@ $3, \ 17$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -753,6 +765,9 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -900,6 +915,9 @@ $1, 7, 49$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1029,6 +1047,9 @@ $12$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1213,6 +1234,9 @@ $53$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1388,6 +1412,9 @@ $53$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1750,6 +1777,9 @@ $6$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1897,6 +1927,9 @@ $2, \ 4, \ 8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2046,6 +2079,9 @@ $23$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

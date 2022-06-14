@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpermutation-1"
 title: "TopicPaper - Permutation - 1"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <div class='paper'>
 <div class='meta'>

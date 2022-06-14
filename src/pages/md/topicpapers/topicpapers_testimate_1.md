@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-testimate-1"
 title: "TopicPaper - Estimate - 1"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,6 +117,9 @@ $2500 \ \text{cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

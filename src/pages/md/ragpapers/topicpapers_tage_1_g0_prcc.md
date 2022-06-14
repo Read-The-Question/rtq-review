@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0-prcc"
 title: "TopicPaper - Age - 1 - G0 - PRCC"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,6 +66,9 @@ $151 \ \text {years}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -151,6 +154,9 @@ $28 \ \text {years}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -251,6 +257,9 @@ $52 \ \text {years}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -358,6 +367,9 @@ $33 \ \text {years}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -463,6 +475,9 @@ $48 \ \text {years}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -632,6 +647,9 @@ $11 \ \text {years}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

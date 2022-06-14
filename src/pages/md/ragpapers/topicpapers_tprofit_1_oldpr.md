@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprofit-1-oldpr"
 title: "TopicPaper - Profit - 1 - OLDPR"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -105,6 +105,9 @@ $\text{Shop C} = \pounds 820$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -198,6 +201,9 @@ $\pounds 290$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -310,6 +316,9 @@ $\pounds 120.00$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

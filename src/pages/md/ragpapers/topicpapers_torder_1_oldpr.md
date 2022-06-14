@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-1-oldpr"
 title: "TopicPaper - Order - 1 - OLDPR"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,6 +66,9 @@ $65\%, \quad \dfrac{14}{20}, \quad \dfrac{3}{4}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -226,6 +229,9 @@ $0.44$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -322,6 +328,9 @@ $\dfrac{6}{8}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

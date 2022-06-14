@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-g0"
 title: "TopicPaper - Symmetry - 1 - G0"
-date: 2022-06-14 10:06:50
+date: 2022-06-14 12:26:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -48,6 +48,9 @@ $\text {E, \ D, \ Z}$
 </div>
 </div>
 
+<div class='review-comments'>
+ 
+</div>
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -78,6 +78,7 @@ $12441$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -169,6 +170,12 @@ $0.006$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove full stop after 2 x 3 = 6
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -258,6 +265,7 @@ $16$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -351,6 +359,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -450,6 +459,7 @@ $135$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -539,6 +549,12 @@ $
 $(22 - 10 + 8) \div 4$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE a b c d small.
 </div>
 
 <div class='review'>
@@ -632,6 +648,7 @@ $37620$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -820,6 +837,7 @@ $4 \ \text{m}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -919,6 +937,7 @@ $25 \times 4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1009,6 +1028,12 @@ $
 $2 \ \text{h} \ 25 \ \text{mins}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Travel time A to B without stop = 
 </div>
 
 <div class='review'>
@@ -1104,6 +1129,12 @@ $\dfrac {9} {4}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove description, in S5 change 4 to 2 x 2
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1196,6 +1227,7 @@ $(4.65 \div 15) \times 19$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1298,6 +1330,7 @@ $5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1403,6 +1436,7 @@ $1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1510,6 +1544,12 @@ $15$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE As per the pattern, 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1613,6 +1653,16 @@ $
 $54 \ \text{m}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE We know,
+
+
+
+Peri.....= .....l and w small
 </div>
 
 <div class='review'>
@@ -1849,6 +1899,7 @@ $6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2001,6 +2052,12 @@ So, the smallest possible difference between two nine digit number $= 9$
 $9$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Last line = 9 (not is 9)
 </div>
 
 <div class='review'>

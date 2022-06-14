@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g2"
 title: "TopicPaper - Fraction - 4 - G2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -112,9 +112,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -199,9 +197,7 @@ $3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -350,9 +346,7 @@ $30 \%$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -430,9 +424,7 @@ $\dfrac {5} {16}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -521,9 +513,7 @@ $6$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -661,9 +651,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -840,9 +828,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -934,9 +920,7 @@ $\dfrac{19}{25}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

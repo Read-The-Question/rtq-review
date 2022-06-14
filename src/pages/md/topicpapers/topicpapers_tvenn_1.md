@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvenn-1"
 title: "TopicPaper - Venn - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -190,9 +190,7 @@ $18$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -281,8 +279,19 @@ $23$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+In question pelase change cares to cars 
+
+
+
+take brackets out 
+
+
+
+Cars neither red or blue = Total cards - Red cars - Blue cars
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

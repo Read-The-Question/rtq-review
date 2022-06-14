@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-g0"
 title: "TopicPaper - Algebra - 2 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -169,9 +169,7 @@ $265 \ \text{girls}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -260,9 +258,7 @@ $\pounds 10.08$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -472,9 +468,7 @@ $0$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -601,9 +595,7 @@ $1,6,21,20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -679,9 +671,7 @@ $\text {Money left} = \pounds (330 - X)$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -770,9 +760,7 @@ $\pounds 1158$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -863,9 +851,7 @@ $7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tspeed-1"
 title: "TopicPaper - Speed - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -460,9 +460,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -800,9 +798,7 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -943,9 +939,7 @@ $800 \ \text{kilometres per hour}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1518,9 +1512,7 @@ $6 \ \text{km}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1665,9 +1657,7 @@ $8 \ \text{km}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2550,9 +2540,7 @@ $15 \ \text{km/hour}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

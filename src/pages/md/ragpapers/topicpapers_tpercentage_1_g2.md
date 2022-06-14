@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g2"
 title: "TopicPaper - Percentage - 1 - G2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -143,9 +143,7 @@ $92$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -229,9 +227,7 @@ $480$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -315,9 +311,7 @@ $\pounds 212$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -403,9 +397,7 @@ $1$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -490,9 +482,7 @@ $1.3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

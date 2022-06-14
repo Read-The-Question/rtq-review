@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $833$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $259$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -222,6 +224,7 @@ $2184$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -301,6 +304,12 @@ $
 $312$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+NM: Change the order 7 x 312 / 7 in Step 2 and Step 3
 </div>
 
 <div class='review'>
@@ -388,6 +397,7 @@ $1.5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -576,6 +586,7 @@ $11 \quad 10.25$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -704,6 +715,14 @@ $2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Add S1 with of, Remove 1 in S2 S3 and S4
+
+Part b) Remove 1s in S3, Missing enter
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1134,6 +1153,7 @@ $85 \ \text {pence}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1226,6 +1246,7 @@ $\dfrac {1} {20}, \quad \dfrac {1} {5}, \quad \dfrac {1} {4}, \quad \dfrac {3} {
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1388,6 +1409,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2464,6 +2486,7 @@ $12 \ \text{years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

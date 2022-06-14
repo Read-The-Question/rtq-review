@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-3"
 title: "TopicPaper - Statistics - 3"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -129,9 +129,7 @@ $\pounds 7.14$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -216,9 +214,7 @@ $11$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1050,9 +1046,7 @@ $17$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1349,9 +1343,7 @@ $44 \ \text{kg}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1434,9 +1426,7 @@ $3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1545,9 +1535,7 @@ $11\ \text {mm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1635,9 +1623,7 @@ $5.4 \ \text{m}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

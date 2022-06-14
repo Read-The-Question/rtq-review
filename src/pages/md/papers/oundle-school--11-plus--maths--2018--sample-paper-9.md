@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-9"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -216,6 +216,7 @@ $\dfrac {17} {42}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -383,6 +384,7 @@ $1$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -582,6 +584,7 @@ $-11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -769,6 +772,7 @@ $4.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -911,6 +915,7 @@ $48$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1073,6 +1078,7 @@ $\dfrac{45}{4}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

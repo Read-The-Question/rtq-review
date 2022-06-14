@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprobability-3"
 title: "TopicPaper - Probability - 3"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -383,9 +383,7 @@ $\dfrac {3} {10}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -249,6 +249,7 @@ $\pounds 18.07$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -400,6 +401,7 @@ $\pounds 168$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -643,6 +645,7 @@ $223 \ \text {minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1301,6 +1304,7 @@ $62 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1572,6 +1576,7 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2076,6 +2081,7 @@ $2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2269,6 +2275,7 @@ $23334.3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

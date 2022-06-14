@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-1-g0"
 title: "TopicPaper - Graph - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,9 +63,7 @@ $50$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -174,9 +172,7 @@ $54$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

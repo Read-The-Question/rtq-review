@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -119,6 +119,7 @@ $624$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -260,6 +261,14 @@ $32$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a : change this as per the similar questions we did before. use beging aligned not array
+
+PArt b : same as above
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -397,6 +406,7 @@ $1142$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -538,6 +548,34 @@ $56$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a 
+
+Using BIDMAS, (comma) use begin {aligned\} not array 
+
+add steps 2 &= 24 - 10 + 6
+
+= 24 - 4
+
+= 20
+
+PArt B 
+
+Same as part a 
+
+= 72 x 7   / 9 
+
+= 9 x 8 x 7 / 9
+
+= cancel
+
+= 8 x 7 
+
+= 56
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -650,6 +688,7 @@ $56$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -795,6 +834,7 @@ $616000 \ \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -880,6 +920,7 @@ $0.35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -971,6 +1012,7 @@ $58 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1061,6 +1103,12 @@ $
 $\dfrac{13}{20}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Dont add it directly check :- 463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B   edit: please check the uuid mentioned above (1/4 + 2/5 = (1 x 5)/(4 x 5) + (2 x 4)/(5 x 4) and solve further
 </div>
 
 <div class='review'>
@@ -1164,6 +1212,7 @@ $\pounds 1.33$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1416,6 +1465,7 @@ $64 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1504,6 +1554,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1585,6 +1636,7 @@ $1000$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1661,6 +1713,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1759,6 +1812,7 @@ $56 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1842,6 +1896,12 @@ $
 $33.6 \ \text{m}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question
 </div>
 
 <div class='review'>
@@ -1938,6 +1998,7 @@ $150 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2077,6 +2138,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2407,6 +2469,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2568,6 +2631,12 @@ $\dfrac{3}{4}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : CHECK SITE REMOVE red part IN volume of cube  &=Volume =side^3....(call Aravind) Part B : Fraction of the bigger box’s volume is the volume of the smaller box
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2750,6 +2819,12 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+call Aravind
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2849,6 +2924,7 @@ $53$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2967,6 +3043,7 @@ $65$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3080,6 +3157,7 @@ $
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3417,6 +3495,7 @@ $\pounds 1.70$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3577,6 +3656,7 @@ $18 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3668,6 +3748,12 @@ $
 $60$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+CALL ARAVIND
 </div>
 
 <div class='review'>
@@ -3942,6 +4028,7 @@ $1, 2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

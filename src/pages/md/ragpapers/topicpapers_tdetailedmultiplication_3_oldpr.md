@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-oldpr"
 title: "TopicPaper - Detailedmultiplication - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,8 +53,11 @@ $19764$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+solved wrong
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

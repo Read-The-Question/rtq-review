@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-2"
 title: "TopicPaper - Division - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -68,9 +68,7 @@ $40$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -629,9 +627,7 @@ $21$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1820,9 +1816,7 @@ $1369$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1958,9 +1952,7 @@ $23$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2103,8 +2095,13 @@ $32$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a : change this as per the similar questions we did before. use beging aligned not array
+
+PArt b : same as above
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2196,9 +2193,7 @@ $63$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2661,9 +2656,7 @@ $13$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2800,9 +2793,7 @@ $27$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2888,9 +2879,7 @@ $6$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2973,9 +2962,7 @@ $13$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

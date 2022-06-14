@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -256,6 +256,12 @@ $2583$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+array please
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -646,6 +652,7 @@ $3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -818,6 +825,14 @@ $24$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b) Add step after S2 saying 3 x 28 / 4
+
+Part c) Add step after S2 saying 3 x 40 / 5
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -965,6 +980,7 @@ $\pounds 19$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1192,6 +1208,7 @@ $1 \ \text{m} \ 6 \ \text{cm}, \quad  140 \ \text{cm}, \quad  1423 \ \text{mm}, 
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1329,6 +1346,7 @@ $0.35$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1504,6 +1522,7 @@ $15, -3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1722,6 +1741,7 @@ $30$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1896,6 +1916,7 @@ $13$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2003,6 +2024,7 @@ $- 1$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2084,6 +2106,7 @@ $3 \ \text {hours} 11 \ \text {minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2655,6 +2678,7 @@ $24$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2757,6 +2781,7 @@ $46 \ \text{years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2911,6 +2936,7 @@ $7 \ \text {pm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3011,6 +3037,7 @@ $3 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3260,6 +3287,7 @@ $20$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

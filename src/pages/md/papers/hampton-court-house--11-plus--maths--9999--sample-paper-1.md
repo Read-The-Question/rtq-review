@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -174,6 +174,7 @@ $87$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -208,7 +209,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -219,7 +220,7 @@ $87$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -263,7 +264,7 @@ $
     &   2   &   5   &   6 \\
 {}+ &       &   6   &   3 \\
 \hline
-    &   4   &   1   &   9
+    &   3   &   1   &   9
 \end{array}
 $
 
@@ -272,7 +273,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$419$
+$319$
 
 </div>
 </div>
@@ -360,7 +361,7 @@ Remember to line up the decimal points.
 $
 \begin{array}{cccccccccccccc}
     &   6   &   9   &   1 \ .   &   6 \\
-{}+ &       &   8   &   4 \ .   &   3 \\
+{}- &       &   8   &   4 \ .   &   3 \\
 \hline
     &   6   &   0   &   7 \ .   &   3
 \end{array}
@@ -379,6 +380,14 @@ $607.3$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) wrong number used in working
+
+part c) missing number in working
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -516,6 +525,12 @@ $3744$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b) show full workings
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -837,6 +852,7 @@ $2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1043,6 +1059,14 @@ $1 \ \dfrac {7} {24}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b) Wrong workings add factors in, wrong answer
+
+Part d) Use LCM in S3 and update other workings accordingly
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1277,6 +1301,7 @@ $38cm, 48cm ^2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1509,6 +1534,12 @@ $11.025$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+All parts Add S1 with of
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1870,6 +1901,7 @@ $3c (-5ct + 4c)$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1950,6 +1982,7 @@ $7.012, \quad 7.02, \quad 7.102, \quad 7.12 $
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2080,6 +2113,7 @@ $12{:}43$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2223,6 +2257,7 @@ $\dfrac {5} {9}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

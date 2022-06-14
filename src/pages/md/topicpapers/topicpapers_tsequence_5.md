@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -206,9 +206,7 @@ $2007, \ 918, \ 45$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -313,9 +311,7 @@ $11, 12 \dfrac{1}{2}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -725,9 +721,7 @@ $5, \quad 3, \quad 8, \quad 11, \quad 19$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -971,9 +965,7 @@ $27, \ 81$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1056,9 +1048,7 @@ $18$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1230,9 +1220,7 @@ $48$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1526,9 +1514,7 @@ $1, \ 4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1673,9 +1659,7 @@ $20$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1934,9 +1918,7 @@ $16, \ 22$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2238,9 +2220,7 @@ $61$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2535,9 +2515,7 @@ $26$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2834,9 +2812,7 @@ $87$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2938,8 +2914,11 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+-7 not 7
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3044,9 +3023,7 @@ $95, 191$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3486,9 +3463,7 @@ $57$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3618,9 +3593,7 @@ $91$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3790,9 +3763,7 @@ $69$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3893,9 +3864,7 @@ $5.9$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3991,9 +3960,7 @@ $7.9$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4089,9 +4056,7 @@ $59$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4189,9 +4154,7 @@ $21$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4400,8 +4363,29 @@ Second line : $6^2 + 13 = 49$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question, the number pattern looks like 
+
+
+
+(Sequence)...
+
+
+
+Put the dots in the squence shown properly and 2 times...and also +9 +11 and +13
+
+
+
+Secondline (put space) 
+
+
+
+Delete First line.....  49
+
+in blue answer after 36 \
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4502,8 +4486,11 @@ No
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+c and d
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4714,9 +4701,7 @@ Missing Numbers : $3 , 27 , 81$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4933,8 +4918,11 @@ $16$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+5 to -5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5263,8 +5251,11 @@ $7$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+description missing (Line2)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/blackheath-high-school-11-plus-maths-2007-sample-paper-1"
 title: "Blackheath High School - 11 Plus - Maths - 2007 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -143,6 +143,7 @@ $2 \dfrac {1} {2} \ \text{jugs of water required}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -479,6 +480,7 @@ $-1, -5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -619,6 +621,7 @@ $\pounds 14.25$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1079,6 +1082,7 @@ $\text{Because 500 is not a multiple of 27}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1301,6 +1305,7 @@ $21$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1426,6 +1431,7 @@ $1,6,21,20$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1688,6 +1694,12 @@ $80 \ %$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change LHS to \"Manreets mark\", In answer write 80% not just  80
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1864,6 +1876,7 @@ $\pounds 12$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2387,6 +2400,7 @@ $49.31$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-2"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -80,6 +80,44 @@ $
 $91, 16$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Creat 2 subquestions, and put these two question separately. 
+
+
+
+Let the missing number = a
+
+
+
+Referr UUID : C76E1065-14BA-460E-A654-A168F4BE4BAA for presentation of answer.
+
+a + 121 &= 212
+
+a &= ......
+
+(i remember telling you to use missing number. i understood uday wrong i think. sorry)
+
+align your steps on &=  write in blue answer as well.
+
+No need to put the repeatation of question in boxed form in answer.workings.
+
+
+
+
+
+2nd part.
+
+6 x a &= 96
+
+a &= 96/6 solve further.. 
+
+
+
+No need to put the repeatation of question in boxed form in answer.workings.
 </div>
 
 <div class='review'>
@@ -286,6 +324,7 @@ $740$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -421,6 +460,7 @@ $5.5$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -504,6 +544,7 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -599,6 +640,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -696,6 +738,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -788,6 +831,24 @@ $16 \ \text {seconds}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put time take by jess also in katex .
+
+add after that Time taken by Jo &= 18 seconds - 6 seconds
+
+Time take by Mary (not Mari) &= Time taken my Jo + 4 seconds
+
+&= 18 - 6 + 4
+
+&= 16 seconds.
+
+
+
+so make changes also in blue answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -874,6 +935,26 @@ $72$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Line 1 correct:
+
+Line 2 . Delete after first sentence.
+
+Line 3. Lets find multiples of 8 that are also divisible by 3 
+
+
+
+= 24, 48, 72
+
+
+
+Multiple of 8 that is also divisible by 3, and ends in 2 = 72
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -958,6 +1039,7 @@ $13 \text{p},23 \text{p},53 \text{p}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1067,6 +1149,7 @@ $315, 240$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1156,6 +1239,7 @@ $8{:}45 \ \text{am}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1252,6 +1336,24 @@ $6$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Difference in marks &= Hebes marks - Emilys marks
+
+&= 60% of 60 - 30
+
+&= (do futher as you did - 30
+
+delete hebe schoe = 36 .. jusst after solving till end 
+
+&= 6
+
+
+
+Marks that Hebe scored more than Emily $=6$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1339,6 +1441,28 @@ $
 $17 \ \text {p}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+simple treat this like you are doing a subtraction .. 
+
+  1 apple + 2 orrange = 48 p
+
+-  .......................... = 31 p
+
+\uline          
+
+                 1 orange = 17 p
+
+
+
+delete your answer.
 </div>
 
 <div class='review'>
@@ -1451,6 +1575,56 @@ $\pounds 1.8, \pounds 1.4$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Solve other way around. 
+
+
+
+Let the money A has = a
+
+.....................J        = b
+
+
+
+As per the question, at the end they have same amount. So at the end, 
+
+
+
+a + b = £3. 20
+
+a + a = 3.20 
+
+2a =....
+
+a = .../ .....
+
+a = £1.60
+
+
+
+Alysha gave Julia 20 \text{p} 20 p. So at start,
+
+
+
+a + b = £3. 20
+
+£1.60 + 0.20 p + b =  £3. 20
+
+b = ....
+
+
+
+
+
+At the start, 
+
+The money Al... had =  £1. 80 
+
+....
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1543,6 +1717,26 @@ Packs of pen that needs to be bought is $26$ whole packets and $1$ more packet f
 $27$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+brought = bought
+
+
+
+put the total pens / pers epr pack in katex text.
+
+= reduce 70 and 8
+
+= cancel
+
+= 105/4
+
+then mixex fraction 
+
+Packs of pen that needs to be bought is 26 whole packets and 1 more packet for the remainder 1 pen = 27
 </div>
 
 <div class='review'>
@@ -1640,6 +1834,26 @@ $\pounds 7.04$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+Total cost = Cost per person per km x No. of kilometers.
+
+
+
+start katex
+
+
+
+Check katex add \begina and end align
+
+put the tex part step 1 in katex\text
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1724,6 +1938,7 @@ $45, 53$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1818,6 +2033,16 @@ My original number $= 5$
 $5$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+I not i
+
+
+
+last sentence :  My original number = 5
 </div>
 
 <div class='review'>
@@ -2059,6 +2284,26 @@ $9$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Factor pairs of 84 that are smaller than 20 = 6, 14 and 7, 12
+
+
+
+then your table. but remove 2, 42 
+
+
+
+PArt b
+
+thinks = thought of 
+
+change \"x\" into a 
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2274,6 +2519,26 @@ $
 $480$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put volume formula on top. volume = ...x ...x ...
+
+then rest. 
+
+= 20 x 2 x 5 x 30 x 3 x 3 x 120 / 30 x 20x 5 x 3
+
+= cancel
+
+2 x 2 x 120
+
+
+
+The max... packign case = ....
+
+
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr"
 title: "TopicPaper - Money - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -67,9 +67,7 @@ $\pounds 3.25$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -157,8 +155,11 @@ $\pounds 3.20$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+tunitpromt missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -245,8 +246,11 @@ $\pounds 20.90$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change Billy got
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -448,9 +452,7 @@ $
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

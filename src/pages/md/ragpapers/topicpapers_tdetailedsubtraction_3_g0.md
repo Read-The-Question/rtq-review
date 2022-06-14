@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-3-g0"
 title: "TopicPaper - Detailedsubtraction - 3 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -54,8 +54,11 @@ $447$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -144,8 +147,11 @@ $4.744$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to the right decimal prompt
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

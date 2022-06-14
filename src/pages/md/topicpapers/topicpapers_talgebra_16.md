@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -76,9 +76,7 @@ $\text{February } 13$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -167,9 +165,7 @@ $4.5 \ \text {kg}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -267,9 +263,7 @@ $28$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -381,9 +375,7 @@ $1200 \ \text {cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -523,9 +515,7 @@ $\pounds 2.80$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -711,9 +701,7 @@ $40 \text{p}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1070,9 +1058,7 @@ $35$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1254,9 +1240,7 @@ $\pounds 144$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1424,9 +1408,7 @@ $100  \ \text {calories}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1547,9 +1529,7 @@ $60$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2274,9 +2254,7 @@ $60000$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2367,9 +2345,7 @@ $8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2662,9 +2638,7 @@ $45p$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2761,9 +2735,7 @@ $8 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3092,9 +3064,7 @@ $\pounds 290.43$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3328,9 +3298,7 @@ $25$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3897,9 +3865,7 @@ $5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3991,8 +3957,11 @@ $5, 7, 11$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+We know, a number is a multiple of 5 if it has 0 or 5 at its units place. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4139,8 +4108,43 @@ $5$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+katex mistake in question. extra $ please correct.
+
+Answer 
+
+Line 2 and 3 also inside katex and align all &= 
+
+Charge for 20 people 
+
+= £100
+
+delete summar line as after alingnment it will be clear
+
+
+
+Part B
+
+bring Number of persons (in katex text too)
+
+rest ok ...
+
+= £5
+
+
+
+Delete last line Average.... 
+
+
+
+Put in blue answer £5
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4346,8 +4350,39 @@ $\pounds 2.08$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
+
+
+
+Bottles needed = 17
+
+= 15 bottles + 2 bottles 
+
+= 3 x 5 pack + 1 x 2 pack
+
+
+
+Lets calculate the amount of money he needs to spend.
+
+
+
+Smallest amount he spends &= 3 x Cost of 5 packs + 1 x Cost of 2 packs
+
+= 3 x 60p + 1 x 28p
+
+= 180p + 28p
+
+= 208p
+
+= £208/100
+
+= £2.08
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4444,8 +4479,15 @@ $4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+delete be in Line 1
+
+
+
+LAst sentence : The missing number = 4
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4535,8 +4577,27 @@ $568$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+APTQ,
+
+On planet Zog, all numbers are written in reverse order.
+
+So, 729−26
+
+=927−62
+
+=865
+
+
+
+​865 will be also written in reverse order = 568
+
+
+
+Change your bleu answer also.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4631,8 +4692,31 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete \"be\" in Line 1
+
+
+
+Add after step 1
+
+a^3 =  2 x 256 
+
+a^3 = 4 x 128 
+
+a^3 = 8 x 64 
+
+a^3 = 8 x 8x 8 
+
+a^3 = 8^3
+
+a = 8
+
+
+
+The number in the missing box = 8
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4774,9 +4858,7 @@ $352$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4870,8 +4952,25 @@ $14 \ \text {years}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete line 2
+
+
+
+Step 1 : My age + Brothers age = Total age
+
+a + a -5 = 23..as you solved
+
+
+
+Last sentence : I am = 14 years old
+
+
+
+blue answer = 14 years
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4960,8 +5059,35 @@ $3 \ \text{kg}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete Line 2
+
+
+
+Step 1 : Weight of empty bucket + Weight of Water / 2 = 12 kg
+
+a + 21/2 kg = 12 kg
+
+then your last 4 steps. 
+
+a + 21 = 12 x 2
+
+a + 21 = 24
+
+a = 24 - 21
+
+a = 3 kg
+
+
+
+Weight of empty bucket = 3 kg
+
+
+
+in blue anser 3 kg
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

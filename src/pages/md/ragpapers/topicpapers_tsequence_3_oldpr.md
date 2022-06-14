@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-oldpr"
 title: "TopicPaper - Sequence - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -245,9 +245,7 @@ $9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

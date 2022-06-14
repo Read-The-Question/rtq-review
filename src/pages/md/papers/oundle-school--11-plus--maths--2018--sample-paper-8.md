@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2018-sample-paper-8"
 title: "Oundle School - 11 Plus - Maths - 2018 - Sample Paper 8"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -211,6 +211,7 @@ $28$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -566,6 +567,7 @@ $(3 \times (7 - 6) \times 4) + 3 = 15$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -707,6 +709,7 @@ $610$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -803,6 +806,7 @@ $(12,0),(4,18)$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1047,6 +1051,7 @@ $0.3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1667,6 +1672,7 @@ $-91$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

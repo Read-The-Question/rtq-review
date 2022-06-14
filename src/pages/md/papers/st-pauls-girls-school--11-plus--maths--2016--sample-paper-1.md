@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2016-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,6 +66,7 @@ $0.21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -157,6 +158,7 @@ $221.2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -242,6 +244,24 @@ $459$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Solved wrong 
+
+Add 1. Step = 60% of 765
+
+in step 3 = 45900 / 100
+
+then cancel zeros.
+
+then 459 
+
+Change the [[sections.questions.answers]] (now onwards referred to as blue answer) as well. 
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -323,6 +343,12 @@ $
 $\pounds 110.50$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+delete total money collected at end
 </div>
 
 <div class='review'>
@@ -409,6 +435,7 @@ $6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -586,6 +613,7 @@ $30$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -672,6 +700,32 @@ $0.007$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Solved wrong
+
+Start katex
+
+Put in one katex and use & and aligned...check your katex properly.. \\
+
+repeat question,
+
+then 
+
+0.627 = 0.6 + 0.02 + Missing number
+
+Missing number = 0.627 - (0.6+0.02)
+
+= 0.627 - 0.62
+
+= 0.007
+
+
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -752,6 +806,12 @@ The number closest to $0.1 = 0.13$
 $0.13$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+direct answer
 </div>
 
 <div class='review'>
@@ -901,6 +961,12 @@ $3, 7, 11$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+katex error
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1025,6 +1091,36 @@ $6, 10, 14$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+
+
+
+Lets take the amount $=a$. Hence......
+
+delete a = 16/4
+
+delete As per the squence.
+
+After a = 4 
+
+The amount Halid adds = 4 
+
+Delete from First missing ..... 14
+
+Instead 
+
+Put a last line. Hence the sequence would be: 
+
+Present the sequence and underline under the missing number... show also (+4)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1133,6 +1229,7 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1238,6 +1335,26 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change your answering.
+
+Let the number of biscuits Juilia has $=a$
+
+APTQ,
+
+Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
+
+(a + 2) + a = 14 (solve further).
+
+No. of biscuits Julia has $=6$
+
+No. of biscuits Alysha has =2 + a (Solve)
+
+ In blue answer : Alysha has ..... Julia has ......
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1332,6 +1449,14 @@ $4$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+thinks to thought of.. Let the number Jemma thinks = a
+
+Jemmas number = 4
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1422,6 +1547,28 @@ $
 $0.15 \ \text{grams}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+edit :  Total weight (Match box) - Weight (Empty box) rest ok....
+
+after 33/220 change to follwoing (20 x 4 is not 100!) 
+
+
+
+= 11 x 3 / 11 x 2 x 10 
+
+= cancel
+
+= 3/2 x 1 / 10
+
+=  1.5 / 10   
+
+= 0.15 grams
+
+blue answer 0.15 grams
 </div>
 
 <div class='review'>
@@ -1523,6 +1670,12 @@ $8 \ \text {oranges}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+in blue answer : 8 oranges
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1605,6 +1758,16 @@ $
 $63 \ \text{girls}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Boys and Girls Change to boys girls in complete answer.
+
+Step 2 error :  3 \times 21 \
+
+blue answer : 63 girls
 </div>
 
 <div class='review'>
@@ -1701,6 +1864,14 @@ $
 $117 \ \text{cm}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Katex error add \begin{aligned}..\end{aligned}
+
+change step 1 : Jump the sides. 
 </div>
 
 <div class='review'>
@@ -2047,6 +2218,12 @@ $16$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+After step 3 calculated wrong . you changed the x to + . So solve again. answer should be 16
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2280,6 +2457,36 @@ $11 \text{p}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Lets take apple = a 
+
+
+
+and lets take banana = b
+
+
+
+As per the question,
+
+
+
+3a + 1 b = 32p &Or  1b = 32 - 3a
+
+
+
+create second equation like above.
+
+then 
+
+
+
+32 - 3a = 53 - 6a... then solve further for a 
+
+after finding a .. then substitute it in one of the equation and get b..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2449,6 +2656,7 @@ $11 \ \text {years}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2605,6 +2813,7 @@ $\text {Dana} = \pounds 22.5 \\
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

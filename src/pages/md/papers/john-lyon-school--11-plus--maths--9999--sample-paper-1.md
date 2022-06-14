@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -105,6 +105,7 @@ $11.0009$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -186,6 +187,7 @@ $3211$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -266,6 +268,7 @@ $5702$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -350,6 +353,7 @@ $77691$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -500,6 +504,7 @@ $63$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -592,6 +597,7 @@ $\pounds 5.02$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -678,6 +684,7 @@ $1.535 \ \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -900,6 +907,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -989,6 +997,7 @@ $56$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1073,6 +1082,7 @@ $155 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1412,6 +1422,7 @@ $6233 \ \text{g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1774,6 +1785,14 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change sentences to When the numerator is 20 and When
+
+the denominator is 20, Remove as per the question
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2116,6 +2135,7 @@ $292 \ \text {cm}^2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2219,6 +2239,7 @@ $51 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2424,6 +2445,7 @@ $2.79$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2582,6 +2604,7 @@ $132 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

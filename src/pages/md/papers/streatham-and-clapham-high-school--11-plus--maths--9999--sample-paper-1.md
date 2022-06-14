@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -74,6 +74,7 @@ $2026$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -167,6 +168,7 @@ $4693$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -262,6 +264,12 @@ $
 $96 \ \text{cm}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+line 1: As per the question,  (A) (,)                                                                                                                                            step 1: Delete (Not required, it understood from the diagram)                                                                                                   step 2: Delete (Not required, it understood from the diagram)                                                                                         step 3: Delete & replace with  rtq_abbr_katex_formula_area_rectangle_expanded                                                                                     end answer: remove \\                                                   
 </div>
 
 <div class='review'>
@@ -361,6 +369,12 @@ $36$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+from step 4: change  (dont multiply if we can cancel anything)                                                                                                                                                                  &= \dfrac{3 \cancel{0} \times 12 \cancel{0}}{1 \cancel{0} \cancel{0}} \\                                                                                &= 3  \times 12  \\                                                                                                                         &= 36
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -452,6 +466,7 @@ $= 0.7098$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -552,6 +567,7 @@ $136 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -650,6 +666,12 @@ $70$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -740,6 +762,7 @@ $\dfrac{19}{25}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -838,6 +861,12 @@ $
 $17$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add line 2: Let the number of muffins I can buy be $=a$                                                                                                step 1: Delete                                                                                                                                                               formulate a simple eqn see step 1 below,                                                                                                                                                   Add step 1: \text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\                                                                                                Add step 2: 85 \times a &= \pounds 15   \\\                                                                                                                  from present step 2 ur calculation is correct                                                                                                                present step 2: 85 \times a &= 1500 \text{pence}                                                                                                         present step 4: change: a &= \dfrac{300 \times 5}{17 \times 5} \\                                                                               present step 5: change: a &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\                                                                                                                 present step 7: write in mixed fraction   17 \dfrac {11} {17}   \approx 17   \\                                                                                      end answer :    change:     &=  \approx 17                                                                                                                       align on &=             (see stack)  
 </div>
 
 <div class='review'>
@@ -999,6 +1028,7 @@ $18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1090,6 +1120,7 @@ $88.5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1191,6 +1222,12 @@ $9.5 \ \text{cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+line 1, 2, 3: Delete                                                                                                                                                              line 4: change : Area of Parallelogram = Base $\times$ Height.                                                                                          write a proper katex with $\begin{aligned}                                                                        base \times height &= area of paralellogram                                               no need to take base as a leave it as base only and solve
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1286,6 +1323,12 @@ $
 $0.034 \text{m}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+step 3: \dfrac{34 \cancel{0}}{100 \cancel{0}}                                         end answer:  0.34 \ \text{m} (remove space)              also change in final answer 
 </div>
 
 <div class='review'>
@@ -1597,6 +1640,7 @@ $17 - 4n$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1695,6 +1739,12 @@ $7$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong format -                                                                                           refer 07071090-243A-4C15-B778-53C51DA63E26
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1788,6 +1838,12 @@ $
 $\pounds 8.75$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+line 2: give comma after APTQ                                                                       step 1: delete                                                                                           step 2: correct it \text{Cost of} 25 \text{pens}                                                                                      step 5: delete     &= \dfrac{875}{100}                                                      align on &=       (see slack)
 </div>
 
 <div class='review'>
@@ -1884,6 +1940,7 @@ $8{:}17 \ \text{am}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2106,6 +2163,7 @@ $2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2216,6 +2274,12 @@ $
 $\pounds 120.00$ 
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+step 1 & 2: Delete                                                                                                                                                                        just formulate simplte formula and solve accordingly                                                                                                                        {Discount price} &= {Cost of new mobile} \times {Discount Percentage}                                                                                             start new katex                                                                                                                                                                          {Amount Alex have to pay} &= {Cost of new mobile} - {Discount price}                                                                                           align on &=       (see slack)
 </div>
 
 <div class='review'>
@@ -2391,6 +2455,12 @@ $528 \text{m}^2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+part A                                                                                                                                                                                                                                line 1: change: As per the diagram,                                                                                                                                                                                                                                add step 1:  \text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\                                                      your present step 1 will be step 2 now.                                                                                                                                                                             remove space in End answer & Final answer                   272 \ \text{m}^2                                                                                                                      align on &=       (see slack)                                                                                                                                                                                                      .                                                                                                                                                                                                                                  Part B                                                                                                                                                                                                                           use katex 2: Area of garden                                                                                                                                                                                            Add step 1:                                                                                                                                                                                                        {Area(garden)} = {Total area(house & garden)} - {Area(house)}                                                                                                                                     solve accordingly                                                                                                                                                                      
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2619,6 +2689,7 @@ $3d + 9e$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2720,6 +2791,12 @@ $8.32$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+change: 460 to 640                                                                                                                                                                      line 2: digits after the decimal point is three. two.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2814,6 +2891,12 @@ $
 $60 \%$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+change: \dfrac{3}{5} \times \dfrac{20}{20}                                                                                                                                                               \dfrac{3}{5} \times 100                                                                             now solve accordingly                                                                                     contact me while doing this Q
 </div>
 
 <div class='review'>
@@ -2970,6 +3053,12 @@ $5$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Line 2: Delete                                                                                                                            step 3: Delete
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3060,6 +3149,7 @@ $\dfrac{9}{10}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3174,6 +3264,48 @@ $6$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Make a markup table  with Row and Column (4 x 4 table) as in the question paper only with heading Column 1 .. Row 1..
+
+
+
+Put Value : and for eg. in empty put \"R1C3\" (Row 1 Column 3
+
+
+
+To find B we need to first find the value of R1C3. 
+
+
+
+As per the question, solving diagonally,  
+
+
+
+R1C3 &= 30 - 9 - 10
+
+&= 11 
+
+
+
+Now lets find value of B, solving Row 3 
+
+
+
+13 + B + 11 = 30 
+
+B = 30 - 13 - 11
+
+= 6
+
+
+
+The number that replaces $B = 6$
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3269,6 +3401,7 @@ $A = 14$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3375,6 +3508,28 @@ $
 $22$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change tag to tsequence (or if @UP gave new name then that=  please)
+
+
+
+Add a second answer. Put your answer in second answer and put the following in first answer . (katex and formating you take care, I type free)
+
+Lets convert the pattern into numbers and find the difference between the consecutive terms of the sequence. 
+
+
+
+The difference between the terms is 6 matches extra. Hence, the sequence would be:
+
+(Present how we do normal seuqence question presentation with red on top.) 
+
+
+
+Last sentence : No. of matches the 4th shape will have$=22$ 
 </div>
 
 <div class='review'>
@@ -3702,6 +3857,7 @@ $25, 4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3800,6 +3956,7 @@ $125, 8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3911,6 +4068,12 @@ $27$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+provide second answer with                                                                        {Number of cubes} = \dfrac{Volume of bigger cube}{Volume of smaller cude}
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3998,6 +4161,12 @@ The $8$ small cubes will have $3$ red faces.
 $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add line 2: If the bigger cube is painted red all over                                                                                                                                                                                          Add line 3: then, only the corner smaller cubes can have three red faces                                                                                                                                                               present line 2: change:   .. $8$ small cubes will ..... 
 </div>
 
 <div class='review'>
@@ -4089,6 +4258,12 @@ $6$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add line 2: only center small cube on the face of bigger cube shares a a face with exactly $5$ other small cubes                                                                    Add line 3: number of faces on bigger cube is $6$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4172,6 +4347,12 @@ The $0$ small cubes share a faces with exactly $2$ other small cubes.
 $0$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+i feel answer is 0, explain me this answer how did u do
 </div>
 
 <div class='review'>
@@ -4278,6 +4459,12 @@ $80 \ \text{cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+align on    &=        (see slack)                                                                                                                                                                                                                                   End answer:  change:  80 \ \text{cm}^2
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4370,6 +4557,12 @@ $
 $64 \ \text{cm}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+align on    &=        (see slack) 
 </div>
 
 <div class='review'>
@@ -4465,6 +4658,12 @@ $3$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+B to C
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4548,6 +4747,12 @@ $8$  routes are there $A$ to $C$, via $B$.
 $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+A to C
 </div>
 
 <div class='review'>

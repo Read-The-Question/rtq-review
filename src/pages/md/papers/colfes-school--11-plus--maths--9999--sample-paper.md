@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,6 +60,7 @@ $724$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $3679$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -222,6 +224,7 @@ $413$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -356,6 +359,7 @@ $\dfrac {13} {24}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -441,6 +445,12 @@ $\dfrac {61} {36}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Give answer as mixed fraction
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -522,6 +532,12 @@ $
 $36$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use factors and cancellation
 </div>
 
 <div class='review'>
@@ -612,6 +628,7 @@ $16.76$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -693,6 +710,7 @@ $858$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -884,6 +902,7 @@ $\dfrac {1} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -962,6 +981,7 @@ $656$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1047,6 +1067,7 @@ $25100 \ \text{mm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1138,6 +1159,7 @@ $460 \ \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1326,6 +1348,7 @@ $69, 60$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1413,6 +1436,7 @@ $3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1718,6 +1742,7 @@ $-16, \quad -8, \quad 5, \quad 8, \quad 9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1801,6 +1826,12 @@ $
 $\pounds 20.90$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change Billy got
 </div>
 
 <div class='review'>
@@ -1902,6 +1933,7 @@ $39$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2261,6 +2293,7 @@ $35 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2561,6 +2594,7 @@ $
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2756,6 +2790,7 @@ $-40$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2930,6 +2965,7 @@ $9.8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3094,6 +3130,32 @@ $48 \ \text {cm} ^ 2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a : 
+
+Delete fullstop after =a. 4a to 4 x a 
+
+
+
+PArt b
+
+Delete fullstop after = w. and in Line 3 also
+
+As per the question, (is 2nd line)
+
+Line 3 = 3 x w 
+
+
+
+2 x (length x width) = Perimeter of a rectangle
+
+2x (3w +w) = 32 cm
+
+....
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3198,6 +3260,44 @@ $
 $96$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use m not meters and same cm not centime...
+
+
+
+Area of a rectang.....
+
+
+
+It is really important to use the right units in calculations and convert where required.
+
+
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+
+
+As per the question,
+
+
+
+No. of tiles needed = Area.../ Area .....
+
+= 4 m  x 3 m / 50 cm x 25 cm
+
+= 4 x 100 cm / 3 x 100 cm /.....
+
+= 400 x 300 x 50 x 25
+
+= 4 x 4 x 25 x 6 x 50 / 50 x 25
+
+solve till end 
+
+
 </div>
 
 <div class='review'>

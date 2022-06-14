@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-14-oldpr"
 title: "TopicPaper - Algebra - 14 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -149,8 +149,39 @@ $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A :
+
+Let the number in the gap $= a$
+
+change x to a
+
+in blue answer copy paste question and write 11 in \boxed , like below
+
+15 + \boxed{11} = 13 \times 2
+
+Part B :
+
+Follow the concept from above answer.
+
+Part C :
+
+Change x to a 
+
+Change Step 2 : a x 12 = 18/3
+
+a = 18 / 3 x 12
+
+= 3 x 6   /    3 x 2 x 6
+
+= then cancel 
+
+(no need to cancel throughout the question, do only once. 
+
+Change in Blue answer as mentioned in Part A
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -337,8 +368,31 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A :
+
+Let the number in the box $= a$
+
+change x to a
+
+put 2 steps before the answer = 2 
+
+a = 2 x 23  / 23
+
+= cancel 
+
+
+
+in blue answer copy paste question and write 2 in \boxed , like below
+
+23 x \boxed{2} = 50 - 4
+
+Part B : Not solved, solve please
+
+Part C : Not solved, solve please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -529,8 +583,15 @@ $12$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : Katex error. fix please. visit talgebra or C6F4AD83-598E-4D8C-8FE2-F30239151865
+
+to get tips.
+
+Part B : not solved
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -714,8 +775,27 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+ take variable a .. Lets take the missing....
+
+Using BIDMAS,.....
+
+add step : −x=−38
+
+Part B : Not solved. thou its divide it is changed into fraction. so please solve
+
+same like before..
+
+Lets...
+
+Part C :
+
+Not solved : solve please. same like before parts.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -855,8 +935,13 @@ $\boxed{1050} \div 1000 = 1.05$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+refer B95E3D46-C66C-4790-BB1A-39E891ABEB53. but keept boxed.
+
+refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -953,8 +1038,11 @@ $3$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer also
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

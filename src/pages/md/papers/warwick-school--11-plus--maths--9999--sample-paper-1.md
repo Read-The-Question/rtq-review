@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -182,6 +182,7 @@ $709$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -352,6 +353,16 @@ $\dfrac {13} {5}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) only give answer as a mixed fraction
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -847,6 +858,7 @@ $3 \ratio 7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1241,6 +1253,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1345,6 +1358,7 @@ $56$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1441,6 +1455,7 @@ $8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} 
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1581,6 +1596,7 @@ $-9 \degree C$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1793,6 +1809,12 @@ $
 $17$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change : Let the number I thought of $= a$
 </div>
 
 <div class='review'>
@@ -2045,6 +2067,7 @@ $4446$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2216,6 +2239,7 @@ $28 \ \text{m}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2510,6 +2534,7 @@ $\pounds 27$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3223,6 +3248,7 @@ $\pounds 74.1$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3697,6 +3723,7 @@ $1011$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

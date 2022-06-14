@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -156,6 +156,7 @@ $12$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -250,6 +251,7 @@ $\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1022,6 +1024,7 @@ $-30, -32, 100$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1340,6 +1343,7 @@ $-x + 23$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1549,6 +1553,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1733,6 +1738,7 @@ $5 \ \text {cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1821,6 +1827,7 @@ $\dfrac {7} {16}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3075,6 +3082,7 @@ $\dfrac {t ^ 2} {4}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

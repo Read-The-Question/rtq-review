@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,6 +66,7 @@ $1080$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -155,6 +156,7 @@ $696$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -235,6 +237,7 @@ $196$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -314,6 +317,7 @@ $3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -400,6 +404,12 @@ $71685$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+In workings change number 4 to 5
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -481,6 +491,7 @@ $1369$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -569,6 +580,7 @@ $\pounds 1.85$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -653,6 +665,7 @@ $\pounds 0.71$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -729,6 +742,7 @@ $42008$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -874,6 +888,7 @@ $5.1 \ \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1029,6 +1044,12 @@ $125 \text{minutes}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : in slack
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1262,6 +1283,14 @@ $28.4 \ \text{cm}^2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Area &= 4 x 7.1 
+
+        &= 28.4 \text{cm}^2 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1416,6 +1445,34 @@ $16 \ \text{km/hour}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : delete fullstop after days.
+
+Change : Distance run in 4 weeks &= Distance per day x No. of weeks x 7
+
+Part B : Line 1 : It is really important to use the right units in calculations and convert where required. The time is given in minutes and answer has to be in hour.
+
+
+
+Lets find the speed now. (fullstop please)
+
+
+
+= 4 km / 1/4 hour
+
+= (drop units) 4 x 4/1
+
+= 4 x 4 
+
+= 16 km per hour
+
+
+
+same in blue answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1591,6 +1648,7 @@ $11 \ \text{ mins}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1704,6 +1762,12 @@ The smaller number $=13$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Check slack. Change the blue answer its $19, 13$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1785,6 +1849,16 @@ $
 $8.85 \ \text{cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question,  (Now onwards refered to as APTQ in my reviwes)
+
+(Start katex) 
+
+String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 </div>
 
 <div class='review'>
@@ -1962,6 +2036,48 @@ $\pounds 11.76$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : APTQ, 
+
+1 Cake &= 5 Eggs
+
+1 x 15 Cakes = 5 x 15 (solve further) 
+
+Last sentence will be : To make $15$ cakes I will use $=75$ eggs.
+
+PArt B : APTQ,
+
+12 Eggs =1 Box
+
+1 Egg = 1 / 12 Box
+
+1 x 75 Eggs = 1 / 12 \times 75 (solve further) 
+
+present in mixed fractions. = 6 3/12
+
+
+
+$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
+
+
+
+The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
+
+In blue answer only $7$
+
+Part C : APTQ,
+
+1 Box &= .....
+
+1 x 7 Boxes &= ......
+
+
+
+For $7$ boxes of eggs, I will pay $=....$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2114,6 +2230,36 @@ $2.3475 \ \text{kilograms}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : (here the solution will be in grams as the questions asks so no unit sentence needed. )
+
+APTQ,
+
+
+
+1 Sheet = ... g
+
+1 x 500 Sheets = ..... x 500 (solve further) 
+
+500 Sheets =......
+
+1 Ream = ....g  
+
+do not use grams use g as in question. Change also in blue answer 
+
+PArt B : (here also teh unit sentence is not needed as th question is aksing you exactly to do the that)
+
+1 g = 1 / 1000 kg
+
+2375 g = 2375 / 1000 kg 
+
+= 2.375 kg
+
+(Careful its not 2.3475!!!) its 2.375 Change in blue answer also write ...... kg (put \ \text before kg)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2267,6 +2413,22 @@ $\pounds 6.25$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a : APTQ,
+
+\pounds 3 =  2 \text{Euros}+ 1 \text{Euros}
+
+&= 2.4 + 1.2
+
+&=  3.6 \text{Euros}
+
+PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1/4 then = 6.25
+
+    
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2450,6 +2612,7 @@ $24, 3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2752,6 +2915,7 @@ $\dfrac{5}{8}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2890,6 +3054,7 @@ $1\dfrac{3}{4}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

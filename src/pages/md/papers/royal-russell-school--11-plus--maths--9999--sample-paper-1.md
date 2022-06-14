@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -786,6 +786,14 @@ $60 \degree$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Chagne lien 1. We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is 180°.
+
+Delte line 2
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -956,6 +964,7 @@ $2100 \ \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1656,6 +1665,7 @@ $50$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1830,6 +1840,7 @@ $2, \ 3, \ \text{and} \ 5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2698,6 +2709,7 @@ $12$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

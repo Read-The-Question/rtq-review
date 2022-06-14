@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $\pounds 140.55$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -275,6 +276,7 @@ $9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -360,6 +362,7 @@ $22$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -628,6 +631,7 @@ $60$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -723,6 +727,7 @@ $2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -805,6 +810,7 @@ $7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -886,6 +892,7 @@ ${}- 19$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1207,6 +1214,7 @@ $42 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1308,6 +1316,7 @@ $483$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1516,6 +1525,7 @@ $131 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1595,6 +1605,7 @@ $41.36$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1684,6 +1695,7 @@ $\pounds 2.03$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1763,6 +1775,12 @@ $
 $\dfrac {1} {12}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove LHS text in S1
 </div>
 
 <div class='review'>
@@ -1908,6 +1926,7 @@ $9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1984,6 +2003,7 @@ $9870$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2069,6 +2089,7 @@ $43200 \ \text {seconds}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2150,6 +2171,12 @@ $
 $27$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write LHS Blue Counters = in the first line inside katex
 </div>
 
 <div class='review'>
@@ -2236,6 +2263,7 @@ $941  \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2557,6 +2585,7 @@ $7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2701,6 +2730,7 @@ $\dfrac {2} {15}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2784,6 +2814,7 @@ $165 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2864,6 +2895,7 @@ $\dfrac {4}{5}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2951,6 +2983,7 @@ $87$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3042,6 +3075,7 @@ $126.5 \ \text {g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

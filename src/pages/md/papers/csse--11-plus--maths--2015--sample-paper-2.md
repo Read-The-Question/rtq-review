@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -243,6 +243,7 @@ $91$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -405,6 +406,7 @@ $0.88$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -650,6 +652,7 @@ $19 \ \text{years}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1105,6 +1108,7 @@ $11, 2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1325,6 +1329,7 @@ $4 \times 5 + 7 \ \quad  =  \quad  (5 + 4) \times (7 - 4)$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1712,6 +1717,7 @@ $10$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1851,6 +1857,7 @@ $3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2538,6 +2545,7 @@ $\dfrac {1} {3} \ \text {of} \ 17$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2716,6 +2724,7 @@ $1982$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2911,6 +2920,7 @@ $130$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3108,6 +3118,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

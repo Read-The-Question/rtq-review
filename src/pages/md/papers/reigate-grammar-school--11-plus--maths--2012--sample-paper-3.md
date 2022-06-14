@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -71,6 +71,7 @@ $3001$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -160,6 +161,14 @@ $1003$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -232,6 +241,12 @@ $2002 \times 10 = 20020$
 $20020$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned. 
 </div>
 
 <div class='review'>
@@ -319,6 +334,7 @@ $10010$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -403,6 +419,12 @@ $30030$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change to using the previous two answers
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -485,6 +507,7 @@ $30.03$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -573,6 +596,7 @@ $20.09$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -660,6 +684,7 @@ $20.72$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -746,6 +771,7 @@ $27.02$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1086,6 +1112,16 @@ $72$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Remove the phrase alternative solution
+
+Part b) Too many issues do with Uday
+
+Part c) Too many issues do with Uday
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1345,6 +1381,7 @@ Smallest $= 0.65$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1554,6 +1591,7 @@ $\pounds 105$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1652,6 +1690,20 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove S1, Remove S7
+
+Remove the description
+
+Use previous answer to solve instead of writing 
+
+workings again
+
+Use separate TOML answers
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1741,6 +1793,12 @@ $
 $23$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove 1s in S3 where not necessary
 </div>
 
 <div class='review'>
@@ -1842,6 +1900,7 @@ $52 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2185,6 +2244,7 @@ $0.11> \quad 0.101> \quad 0.011$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2278,6 +2338,14 @@ $\text{Required rectangle to be shaded} = 15$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove RHS in S1 and merge the LHS with S2
+
+More changes required
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2365,6 +2433,7 @@ $\dfrac {3} {4}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2448,6 +2517,7 @@ $\dfrac {1} {15}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2548,6 +2618,20 @@ $1.407$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Line 1 : As per the question,
+
+
+
+Line 2 :The numbers are given in multiple formats. Lets convert all the numbers into decimals.
+
+
+
+convert 65% also from Step 2 and change whole answer accordingly.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2644,6 +2728,7 @@ $12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2722,6 +2807,7 @@ $24$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2835,6 +2921,7 @@ $12 \ \text{and} \ 7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2998,6 +3085,7 @@ $\dfrac {707} {1000}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3166,6 +3254,7 @@ $0.06$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4174,6 +4263,7 @@ $75 \text{m}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4247,6 +4337,7 @@ $2.34$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -4342,6 +4433,18 @@ $499.5$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop second working
+
+In first work drop S1
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4428,6 +4531,7 @@ $567890$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -4523,6 +4627,7 @@ $119$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4608,6 +4713,26 @@ $
 $56$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Total siblings = 1 + 3 + 4 = 8
+
+No. of eggs each buys = Total siblings - Self
+
+= 8 - 1
+
+= 7
+
+No. of eggs bought will be = Total siblings x No. of eggs each buys
+
+= 8 * 7
+
+= 56
+
+                    
 </div>
 
 <div class='review'>
@@ -4696,6 +4821,7 @@ $10$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4782,6 +4908,7 @@ $0.73$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -4882,6 +5009,7 @@ $60$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

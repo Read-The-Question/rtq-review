@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -368,9 +368,7 @@ $126 \ \text{cm} ^ 2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1141,8 +1139,29 @@ $28.4 \ \text {kilometres}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+It is really important to use the right units in calculations and convert where required. The perimeter is given in metres while the distance is given in kilometeres.
+
+
+
+Total rounds = Distance / Perimeter
+
+= 6 km / 400 m
+
+= 6 x 1000 / 400 
+
+= 4 x 15... correct step
+
+= cancel zeros  
+
+= 15
+
+
+
+PArt B = Not solved.solve please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1534,8 +1553,13 @@ $8 \ \text {cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Explanation/formulas please. take tips from 4F58585B-5B01-496D-8865-FFF0FEAC8FD6
+
+not directly related. thou. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1702,9 +1726,7 @@ $8 \ \text {cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1866,8 +1888,13 @@ $25 \ \text {cm} ^ 2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Explanation/formulas please. take tips from 4F58585B-5B01-496D-8865-FFF0FEAC8FD6
+
+not directly related. thou. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2055,8 +2082,47 @@ $18 \ \text {stickers}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt A 
+
+Perimeter P capital = 2 x (length + width)
+
+in step 3 take 24 out of brackets.
+
+= 48 cm
+
+do in blue answer too..
+
+
+
+Part B 
+
+not perimeter! Area of the card = lengthn x width
+
+= 18 x 6
+
+= 108 cm^2
+
+do in blue answer too..
+
+
+
+PArt C 
+
+Maximum Stickers she can fit &= Area of card / Area of sticker
+
+=108 / 3 x 2 
+
+= 3 x 2 x 18 / 3 x 2 
+
+= cancel now
+
+ = 18 
+
+Blue answer = 18 Stickers
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2340,9 +2406,7 @@ $\dfrac {1} {9}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2443,9 +2507,7 @@ $135$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2542,9 +2604,7 @@ $34 \ \text{cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2715,9 +2775,7 @@ $30 \ \text{cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2833,9 +2891,7 @@ $34 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2930,9 +2986,7 @@ $48 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3088,9 +3142,7 @@ $38 \ \text {cm} ^ 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3586,9 +3638,7 @@ $60 \ \text{cm}^{2}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3698,8 +3748,11 @@ $144 \ \text{cm}^{2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+rtq_abbr_katex_formula_perimeter_rectangle
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3970,9 +4023,7 @@ $48 \ \text{cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4092,9 +4143,7 @@ $6 \ \text {m}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4477,9 +4526,7 @@ $150 \ \text {cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4587,8 +4634,27 @@ $13 \ \text{cm}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Area = formula...
+
+
+
+As per the question, 
+
+
+
+Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you wrote)
+
+= AB x AD - QB x QP
+
+= AB x AD - (PS - BR) x QP
+
+= substitute. and solve till end.
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4917,8 +4983,21 @@ $30 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Katex erro (i think space)
+
+
+
+Perimeter of shape = Sum of all sides
+
+= 4.5 + 4.5 + (9 -3) + 9 + 3 + 3
+
+= 9 + 6 + 9 + 6
+
+= 30 cm
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

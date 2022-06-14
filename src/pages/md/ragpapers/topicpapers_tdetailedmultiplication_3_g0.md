@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-g0"
 title: "TopicPaper - Detailedmultiplication - 3 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,8 +59,11 @@ $78$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place, change 7 to 6, change answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -152,8 +155,13 @@ $0.4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+After the first sentence add in a full stop, do the multiplication 
+
+without column multiplication
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -236,8 +244,11 @@ $196$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -323,8 +334,11 @@ $6489$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -410,8 +424,11 @@ $2376$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -498,8 +515,11 @@ $3, \ 8, \ 2, \ 6$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -583,8 +603,11 @@ $456$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -666,9 +689,7 @@ $4571$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -750,9 +771,7 @@ $42498$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -834,9 +853,7 @@ $4781$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -922,8 +939,11 @@ $20580$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1008,9 +1028,7 @@ $11220$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1096,8 +1114,11 @@ $29260$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,6 +60,14 @@ $
 $38$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Do you really need a variable a in this?
+
+Can we not just write Not choclate = 54 -16 inside aligned and solve
 </div>
 
 <div class='review'>
@@ -142,6 +150,7 @@ $13$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -274,6 +283,7 @@ $821$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -347,6 +357,7 @@ $49999$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -592,6 +603,7 @@ $121$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -680,6 +692,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -827,6 +840,7 @@ $12 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -913,6 +927,18 @@ $
 $6 \ \text {cm} ^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Redundant formula inside katex
+
+Make single num / den before solving
+
+Missing factors steps still
+
+Units missing in workings and answers
 </div>
 
 <div class='review'>
@@ -1110,6 +1136,7 @@ $7{:}35 \ \text{a.m}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1193,6 +1220,7 @@ $\text {Fairly unlikely}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1275,6 +1303,7 @@ $4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1369,6 +1398,7 @@ $17$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1450,6 +1480,7 @@ $15$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1529,6 +1560,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1630,6 +1662,7 @@ $23$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1713,6 +1746,7 @@ $\pounds 182$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1858,6 +1892,7 @@ $18 \text{hours}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1939,6 +1974,7 @@ $\pounds 8.10$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2033,6 +2069,7 @@ $16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2116,6 +2153,7 @@ $14$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2198,6 +2236,7 @@ $7.25$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2345,6 +2384,7 @@ $40 \ \text{inches}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2429,6 +2469,7 @@ $\text {Octagon}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2567,6 +2608,7 @@ $48 \ \text {cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2640,6 +2682,7 @@ Obtuse angle
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2900,6 +2943,7 @@ $\text {likely}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2973,6 +3017,7 @@ $\text {Certain}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3048,6 +3093,7 @@ $\text {unlikely}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3122,6 +3168,7 @@ $\text {Certain}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3195,6 +3242,7 @@ $\text {Impossible}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3276,6 +3324,7 @@ $\pounds 1.720$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3355,6 +3404,7 @@ $\pounds 2.150$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3501,6 +3551,7 @@ $1, 2, 3, 4, 6, 9, 12, 18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3587,6 +3638,7 @@ $22$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3672,6 +3724,7 @@ $60 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3762,6 +3815,7 @@ $6280$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

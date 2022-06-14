@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-g0"
 title: "TopicPaper - Detailedsubtraction - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,8 +53,11 @@ $6084$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong operator
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -142,8 +145,11 @@ $2.769$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to the right decimal prompt
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -231,8 +237,11 @@ $33.33$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to the right decimal prompt
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -318,8 +327,11 @@ $1.774$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add decimal prompt
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

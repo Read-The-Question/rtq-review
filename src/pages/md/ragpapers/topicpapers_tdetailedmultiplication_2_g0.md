@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-g0"
 title: "TopicPaper - Detailedmultiplication - 2 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,8 +53,11 @@ $684$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -153,8 +156,11 @@ $22121$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -230,8 +236,11 @@ $20020$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -317,8 +326,11 @@ $30030$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to using the previous two answers
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -502,8 +514,15 @@ $72$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Remove the phrase alternative solution
+
+Part b) Too many issues do with Uday
+
+Part c) Too many issues do with Uday
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -603,8 +622,11 @@ $40600$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -690,8 +712,11 @@ $58536$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -777,8 +802,11 @@ $4128$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -865,8 +893,11 @@ $9165$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -953,8 +984,11 @@ $71685$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+In workings change number 4 to 5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1045,9 +1079,7 @@ $221.2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1139,9 +1171,7 @@ $740$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1225,8 +1255,11 @@ $2926$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-9-oldpr"
 title: "TopicPaper - Algebra - 9 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -81,8 +81,11 @@ $\pounds 2.65$ and $\pounds 2.25$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Let the cost of first item. Delete line 3,4 . For spacing use \ . 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -177,8 +180,11 @@ $20 \ \text {cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times length (Upper figure)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -369,8 +375,13 @@ $\pounds 13.5$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change ur working - take 39/15 and write in mixed fraction
+
+the write.. 2 full buses and for rest $9$ one more bus
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -462,8 +473,31 @@ $15$ coins of $10$p and $15$ coins of $50$p
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+in Line 1 delete \"as\"
+
+
+
+Move As per the question to Line 3
+
+Step 1 in katex :
+
+10 x a + 50 x a &= \pounds 9 then rest follows
+
+
+
+a=15 (delete text) 
+
+
+
+Write last sentence : Number of coins Michelle has from each coin $=15$
+
+
+
+in blue answer only $15$ delete rest
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -569,8 +603,35 @@ $54$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put a Tag for the question please.
+
+
+
+Let the number Archie thinks of $= a$
+
+
+
+Lets first find the number
+
+As per the question,
+
+
+
+now start katex
+
+5/6 x a = 60
+
+a = 60 x 6/5 (in this order, change down too and keep 5 on the outside. for cancellation later in step 5 )
+
+a = 5 x 12 x 6 / 5
+
+a = CANCEL
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -766,8 +827,11 @@ $\pounds 10$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+a. As per the question, (next line ) Money received by Peter = 2 x Helen = 2 x pound 20 = p
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -995,8 +1059,11 @@ $2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wait with this aravind Last subquestion : (b-2)^2 explanation missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

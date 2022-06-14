@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -406,6 +406,7 @@ $18738$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -698,6 +699,7 @@ $-2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -841,6 +843,14 @@ $25 \%$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Remove LHS, Part b) Find percentage for chickens not
+
+ducks
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -920,6 +930,7 @@ $2 \times 3 \times 17$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -993,6 +1004,7 @@ $210$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1072,6 +1084,7 @@ $-3x + 30y$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1210,6 +1223,7 @@ $18$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1360,6 +1374,7 @@ $111 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2081,6 +2096,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2220,6 +2236,16 @@ $\dfrac {-9} {28}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+S2 dont multiply by 1 on 3/8
+
+S5 alignment issue take minus out of dfrac
+
+Answer take minus out of dfrac
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2669,6 +2695,7 @@ $86 \text{cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

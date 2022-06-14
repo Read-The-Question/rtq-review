@@ -1,7 +1,7 @@
 ---
 slug: "papers/epsom-college-11-plus-maths-9999-sample-paper-1"
 title: "Epsom College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $6193$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $1133$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $1768$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -766,6 +769,7 @@ $\dfrac {3} {5}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -866,6 +870,7 @@ $\pounds 5.06$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1052,6 +1057,7 @@ $17$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1383,6 +1389,7 @@ $\dfrac {2} {5},  \quad \dfrac {1} {2},  \quad dfrac {2} {3},  \quad \dfrac {3} 
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1464,6 +1471,12 @@ $
 $45$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change to double space S2, remove line under 300 S2  
 </div>
 
 <div class='review'>
@@ -1614,6 +1627,7 @@ $340$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1760,6 +1774,7 @@ $\pounds 4.80$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

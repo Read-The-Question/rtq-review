@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -305,10 +305,10 @@ Add together $4867$ and $285$.
 
 $
 \begin{array}{cccccccccccccc}
-4   &  8    &   6   &   7 \\
-{}+ &   2   &   8   &   5 \\
+    &   4   &   8   &   6   &   7 \\
+{}+ &       &   2   &   8   &   5 \\
 \hline
-5   &   1   &   5   &   2
+    &   5   &   1   &   5   &   2
 \end{array}
 $
 
@@ -320,6 +320,16 @@ $
 $5152$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Addition sign in wrong place
+
+
+
+Bring operator in right place (Code 1) 
 </div>
 
 <div class='review'>
@@ -460,6 +470,7 @@ $9509$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -539,6 +550,7 @@ $1778$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -738,6 +750,7 @@ $265 \ \text{girls}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

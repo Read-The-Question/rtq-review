@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2013-sample-paper-4"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $94$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $21$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $536$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -360,6 +363,7 @@ $\pounds 4.2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -440,6 +444,16 @@ $
 $8 \dfrac {1} {3}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove LHS
 </div>
 
 <div class='review'>
@@ -524,6 +538,7 @@ $19$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -660,6 +675,7 @@ $275$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -864,6 +880,7 @@ $\pounds 0.95$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -998,6 +1015,7 @@ $3102019$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

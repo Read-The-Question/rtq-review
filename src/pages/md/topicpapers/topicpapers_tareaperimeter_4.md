@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-4"
 title: "TopicPaper - Areaperimeter - 4"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -165,9 +165,7 @@ $5 \ \text {cm}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -570,9 +568,7 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -715,9 +711,7 @@ $216 \ \text {cm}^2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1221,9 +1215,7 @@ $3 \ \text {cm} ^ 2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1320,9 +1312,7 @@ $10 n - 16$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1466,9 +1456,7 @@ $\text {3cm, \ 3cm, \ 8cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1995,9 +1983,7 @@ $1$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2167,9 +2153,7 @@ $\dfrac{45}{4}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2349,9 +2333,7 @@ $24 \text{m}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2455,9 +2437,7 @@ $28 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2562,9 +2542,7 @@ $32 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2664,9 +2642,7 @@ $76 \text{m}^{2}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2768,9 +2744,7 @@ $24 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2922,8 +2896,11 @@ $105 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+part b formula ..katex error.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3024,8 +3001,11 @@ $92 \ \text{m}^{2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Length of path change to  Width of path 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3897,8 +3877,11 @@ $50$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4044,8 +4027,13 @@ $P = 30 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+Line 1.  So, and again down So, (delete 1 So,)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4146,8 +4134,11 @@ $1.96 \text{m}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Now lets ... area of the square.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

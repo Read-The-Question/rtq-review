@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,6 +62,7 @@ $1080$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -144,6 +145,7 @@ $696$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -246,6 +248,14 @@ $
 $196$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution, use aligned, change 
+
+answer to 196
 </div>
 
 <div class='review'>
@@ -384,6 +394,7 @@ $71685$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -790,6 +801,7 @@ $5.1 \ \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1700,6 +1712,7 @@ $8000$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1785,6 +1798,12 @@ $
 $4.744$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change to the right decimal prompt
 </div>
 
 <div class='review'>
@@ -1879,6 +1898,7 @@ $\pounds 1.6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1962,6 +1982,7 @@ $8.40 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2098,6 +2119,12 @@ $
 $28.4 \ \text{cm}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+in Step 2 missing \\
 </div>
 
 <div class='review'>
@@ -2243,6 +2270,7 @@ $\dfrac {3} {10}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

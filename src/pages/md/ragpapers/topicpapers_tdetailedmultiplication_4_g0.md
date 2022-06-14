@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-4-g0"
 title: "TopicPaper - Detailedmultiplication - 4 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -75,8 +75,13 @@ $196$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution, use aligned, change 
+
+answer to 196
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -152,8 +157,11 @@ $48$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -229,8 +237,11 @@ $56$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -310,9 +321,7 @@ $432$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -392,9 +401,7 @@ $9800$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -473,9 +480,7 @@ $18$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $3010$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -146,6 +147,14 @@ $
 $1012$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
 </div>
 
 <div class='review'>
@@ -245,6 +254,12 @@ $22121$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -328,6 +343,7 @@ $22.121$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -408,6 +424,7 @@ $216$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -491,6 +508,7 @@ $216000$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -576,6 +594,7 @@ $20.2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -660,6 +679,7 @@ $21.01$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -743,6 +763,7 @@ $29.11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1037,6 +1058,7 @@ $21$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1281,6 +1303,12 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE >or < in last 2 step.s and in alternative solution (and s small in alternative solution)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1426,6 +1454,12 @@ $\pounds 30$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b) Use answer from part a)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1509,6 +1543,12 @@ $
 $255 \text{p}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Step 1 : &= \text[five eighths of} \ 408 \text{p}
 </div>
 
 <div class='review'>
@@ -1595,6 +1635,7 @@ $0.92, \quad 0.909, \quad 0.9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1669,6 +1710,12 @@ The smallest number that 2, 3 and 4 all divide into exactly  $= 12$
 $12$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Last sentence : the smallest number that 2, 3 and 4 all divide into exactly  $=12$
 </div>
 
 <div class='review'>
@@ -1818,6 +1865,7 @@ $0.875$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1891,6 +1939,7 @@ $33033$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1970,6 +2019,12 @@ $
 $\text{three thousand, eight hundred thirty two}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE delete step 1 (otherwise too long)
 </div>
 
 <div class='review'>
@@ -2182,6 +2237,14 @@ $\dfrac {3} {8}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+KATEX hasnt worked completely on S3 and S4
+
+Remove last sentence
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2326,6 +2389,7 @@ $\pounds 2.88$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2404,6 +2468,7 @@ $27 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2485,6 +2550,7 @@ $36 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2569,6 +2635,7 @@ $\dfrac {2} {27}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2738,6 +2805,7 @@ $0.0075$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2902,6 +2970,7 @@ $4 \ \text{and} \ 7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3098,6 +3167,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3948,6 +4018,7 @@ Octagon and Trapezium
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

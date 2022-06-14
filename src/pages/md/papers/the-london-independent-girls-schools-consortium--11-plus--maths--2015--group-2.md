@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $3023$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $1667$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $24192$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -363,6 +366,7 @@ $81$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -497,6 +501,7 @@ $0.700$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -586,6 +591,7 @@ $1.746$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -687,6 +693,7 @@ $87$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -777,6 +784,20 @@ $\dfrac {5} {9}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Lets convert all the numbers into decimals
+
+Change to 0.43, 0.56, 0.64
+
+Change last sentence to 5/9 is the closest to 1/2
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -852,6 +873,7 @@ $3.043, \quad 3.304, \quad 3.34, \quad 3.4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1168,6 +1190,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1298,6 +1321,7 @@ $15610$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1584,6 +1608,7 @@ $17.13$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1679,6 +1704,7 @@ $\pounds 2.900$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1765,6 +1791,7 @@ $14$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1867,6 +1894,7 @@ $150 \ \text {grams}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2013,6 +2041,7 @@ $\pounds 72.75$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2228,6 +2257,7 @@ $2700$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2430,6 +2460,7 @@ $2.75 \ \text {oz}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2558,6 +2589,7 @@ $\ \text {Saturday}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3237,6 +3269,7 @@ $10{:}40$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3342,6 +3375,7 @@ $8 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3893,6 +3927,7 @@ $29$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4341,6 +4376,7 @@ $10201, 11111$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

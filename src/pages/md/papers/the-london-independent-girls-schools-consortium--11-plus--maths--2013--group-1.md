@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $12221$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $3087$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $4571$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -350,6 +353,7 @@ $34$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -489,6 +493,7 @@ $3.49$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -578,6 +583,7 @@ $0.50$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -677,6 +683,7 @@ $61$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -761,6 +768,7 @@ $36$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -836,6 +844,7 @@ $5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -982,6 +991,7 @@ $278$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1234,6 +1244,40 @@ $\boxed{\dfrac {1} {2}} \times 12 =  18 \div 3$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :
+
+Let the number in the gap $= a$
+
+change x to a
+
+in blue answer copy paste question and write 11 in \boxed , like below
+
+15 + \boxed{11} = 13 \times 2
+
+Part B :
+
+Follow the concept from above answer.
+
+Part C :
+
+Change x to a 
+
+Change Step 2 : a x 12 = 18/3
+
+a = 18 / 3 x 12
+
+= 3 x 6   /    3 x 2 x 6
+
+= then cancel 
+
+(no need to cancel throughout the question, do only once. 
+
+Change in Blue answer as mentioned in Part A
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1376,6 +1420,7 @@ $17 {:} 10$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1520,6 +1565,7 @@ $-7 \degree \text {C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1664,6 +1710,7 @@ $1 \text {st} \ \text {November} \ 1998$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1917,6 +1964,7 @@ $24$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2141,6 +2189,7 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2758,6 +2807,7 @@ $27.2 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3055,6 +3105,7 @@ $\text{litres}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

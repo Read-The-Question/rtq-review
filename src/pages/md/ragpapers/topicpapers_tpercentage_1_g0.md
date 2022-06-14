@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,8 +56,11 @@ $85 \%$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Write LHS \"Jills mark\"
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -202,8 +205,11 @@ $54$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use part a) in the calculation
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -288,8 +294,11 @@ $80 \ %$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change LHS to \"Manreets mark\", In answer write 80% not just  80
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -374,8 +383,11 @@ $36$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use factors and cancellation
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -460,8 +472,11 @@ $45$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to double space S2, remove line under 300 S2  
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -552,8 +567,13 @@ $60 \%$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+S1 Remove text on RHS and merge LHS with S2, Remove as 
+
+per the diagram
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -646,9 +666,7 @@ $\pounds 428$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -733,8 +751,11 @@ $\dfrac {6} {5}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change factors in S4 and S5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -819,8 +840,11 @@ $600$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong answer written
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -967,8 +991,11 @@ $\pounds 2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Remove S2, Part b) Use answer from part a)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1115,8 +1142,11 @@ $\pounds 30$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b) Use answer from part a)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1209,8 +1239,11 @@ $23$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove x 1 wherever it isnt required as a factor
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1297,8 +1330,11 @@ $28 \ \text{kg}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to single factor and cancellation step
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1452,8 +1488,19 @@ $\dfrac {3} {4}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a)
+
+S2 change of to x
+
+S1 Remove text on RHS and merge LHS with S2, Remove as 
+
+per the question
+
+Part b) D
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1708,8 +1755,11 @@ $44 \dfrac {4} {5}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part ii) and Part iii) and Part b) Solve with Uday
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

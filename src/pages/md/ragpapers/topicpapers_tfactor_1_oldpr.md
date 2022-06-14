@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfactor-1-oldpr"
 title: "TopicPaper - Factor - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -101,8 +101,11 @@ $12$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+take 24 in line 2 also out of text..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -288,8 +291,37 @@ $53$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A
+
+ Wrongly answered.
+
+The square numbers have an odd numbers of factors.
+
+16 = 4^2
+
+ 169 =13^2     
+
+Change your blue answer too.
+
+PArt B 
+
+Also wrong.
+
+3^2 = 9  \text {   or,   }
+
+4^2 = 16
+
+In blue answer only :  $9$
+
+PArt C:
+
+Change  \"Perferct Squares\" . change blue answer too.
+
+Part D :is correct
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -466,8 +498,11 @@ $53$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -618,8 +653,11 @@ $23$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Direct answer in workings (no solving needed)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

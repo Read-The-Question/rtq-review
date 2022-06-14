@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-oldpr"
 title: "TopicPaper - Simpleword - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -181,8 +181,13 @@ $15$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Fraction per person = Total Bars / Total people
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

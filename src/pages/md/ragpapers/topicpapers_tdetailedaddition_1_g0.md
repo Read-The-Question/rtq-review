@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g0"
 title: "TopicPaper - Detailedaddition - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,10 +35,10 @@ Add together $4867$ and $285$.
 
 $
 \begin{array}{cccccccccccccc}
-4   &  8    &   6   &   7 \\
-{}+ &   2   &   8   &   5 \\
+    &   4   &   8   &   6   &   7 \\
+{}+ &       &   2   &   8   &   5 \\
 \hline
-5   &   1   &   5   &   2
+    &   5   &   1   &   5   &   2
 \end{array}
 $
 
@@ -53,8 +53,15 @@ $5152$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Addition sign in wrong place
+
+
+
+Bring operator in right place (Code 1) 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -89,7 +96,7 @@ $5152$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
 </div>
@@ -100,7 +107,7 @@ $5152$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -128,7 +135,7 @@ $
         &   4 \ .   &   6   &   7   &   9 \\
 {}+     &   2 \ .   &   1   &   5   &   0 \\
 \hline
-        &   6 \ .   &   9   &   1   &   9
+        &   6 \ .   &   8   &   2   &   9
 \end{array}
 $
 
@@ -137,14 +144,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6.919$
+$6.829$
 
 </div>
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Answer should be 6.829 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -179,7 +189,7 @@ $6.919$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -190,7 +200,7 @@ $6.919$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -234,7 +244,7 @@ $
     &   2   &   5   &   6 \\
 {}+ &       &   6   &   3 \\
 \hline
-    &   4   &   1   &   9
+    &   3   &   1   &   9
 \end{array}
 $
 
@@ -243,7 +253,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$419$
+$319$
 
 </div>
 </div>
@@ -331,7 +341,7 @@ Remember to line up the decimal points.
 $
 \begin{array}{cccccccccccccc}
     &   6   &   9   &   1 \ .   &   6 \\
-{}+ &       &   8   &   4 \ .   &   3 \\
+{}- &       &   8   &   4 \ .   &   3 \\
 \hline
     &   6   &   0   &   7 \ .   &   3
 \end{array}
@@ -351,8 +361,13 @@ $607.3$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) wrong number used in working
+
+part c) missing number in working
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -387,7 +402,7 @@ $607.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -398,7 +413,7 @@ $607.3$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -430,13 +445,16 @@ $
         &   1   &   4   &   8 \\
 {}+     &   4   &   7   &   6 \\
 \hline
-        &   6   &   2   & 4
+        &   6   &   2   &   4
 \end{array}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 $624$
@@ -445,8 +463,11 @@ $624$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Answer option missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

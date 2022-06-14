@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-oldpr"
 title: "TopicPaper - Number - 16 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -62,9 +62,7 @@ $\dfrac {31} {120}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -155,8 +153,45 @@ $13, 39$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete sentence 1 .. you are not using a at all. 
+
+
+
+As per the question, 
+
+The whole number leaves a remainder 7 when divided into 46.
+
+
+
+As such, the number will be a factor of = 46 - 7 = 39
+
+
+
+Factors of 39 = 1, 3 , 13 and 39.
+
+
+
+The number has to be greater than 7 as it  leaves a remainder 7.
+
+
+
+
+
+Lets check 13 and 39 fulfil the criteria.
+
+= 46 / 13 = Quotient 3 Remainder 7
+
+= 46 / 39 = Quotient 1 Remainder 7
+
+
+
+The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -255,9 +290,7 @@ $D$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -344,9 +377,7 @@ $161$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -527,9 +558,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

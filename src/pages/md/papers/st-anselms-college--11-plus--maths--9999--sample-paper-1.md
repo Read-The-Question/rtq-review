@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,6 +53,7 @@ $\text {One hundred eighty six thousand miles per second}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -700,6 +701,40 @@ $4$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+Do proper katex, I am just writing plain english
+
+Let the number I thought of $=a$ 
+
+Replace x with a 
+
+As per the question, 
+
+=(a \div 7) - 3 = 6 
+
+= a/ 7 - 3 = 6.....
+
+then all the other steps can follow
+
+
+
+Now onwards i will use APTQ for As per the question. Blue answer is the answer is the answer between two blue lines in website view or [[questions.subquestions.answers]]... 
+
+Part B 
+
+Here the variable remains \"x\" as the question puts it so.
+
+APTQ,
+
+change the sides.
+
+x x 22 = ..... then x will fall and remain on the left side.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -980,6 +1015,12 @@ $13, 21$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+description missing /line 1 missing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1148,6 +1189,7 @@ $15, -7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1276,6 +1318,14 @@ $\text {Hexagon}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+$\text {cone}$ Captial C 
+
+Change B same and both the blue answers...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1369,6 +1419,26 @@ $\ \text{South}$
 $\text {South}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Please do proper katex, I am just writing simply.
+
+
+
+The angle between each arm $=45 \deg$
+
+45 \deg + 45.. + 45... = 135 \deg...
+
+
+
+Outside katex except numbers...
+
+Turning through $135 \deg$.. clockwise, I will be facing =South
+
+Blue answer also no katex
 </div>
 
 <div class='review'>
@@ -1533,6 +1603,28 @@ $\text {Ford}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part B 
+
+Total vehicles = Sum of all vehicles parked.
+
+= ......
+
+Part c 
+
+Mode is a value that appears most frequently in a data set.
+
+
+
+Vehicle type Ford is the most frequently parked with total of 9 vehicles. 
+
+
+
+in blue answer Ford (Use captials as in normal english) 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1706,6 +1798,7 @@ $3 \ \text {people}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1875,6 +1968,7 @@ $\dfrac {3} {8}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1963,6 +2057,28 @@ $
 $230$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ,
+
+Not Purple &= Total chocolates - Purple Ones
+
+& = 250 - 8% x 250
+
+= 250 - 8/100 x 250
+
+= 250  - 2 x 4 x 25 x 10   / 4 x 25 
+
+= 250 - cancel ... 
+
+= 250 - 2 x 10
+
+= 250 - 20
+
+= 230
 </div>
 
 <div class='review'>
@@ -2112,6 +2228,7 @@ $45.2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2192,6 +2309,7 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2339,6 +2457,7 @@ $82$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2421,6 +2540,28 @@ $112 inches or 284\,cm$  height is not possible
 $1.8 \ \text {m}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Correct your answer
+
+
+
+Numbers in katex rest out. with sentence spacing. 
+
+
+
+120 cm is nearly the height of a dwarf. 
+
+150 mm or 15 cm, height is not possible
+
+1.8 m or 180 cm is nearly the height average height of a man
+
+112 inches or 284 cm height is not possible 
+
+Change your blue answer too \"c) 1.8m\"
 </div>
 
 <div class='review'>
@@ -2676,6 +2817,38 @@ $53$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A
+
+ Wrongly answered.
+
+The square numbers have an odd numbers of factors.
+
+16 = 4^2
+
+ 169 =13^2     
+
+Change your blue answer too.
+
+PArt B 
+
+Also wrong.
+
+3^2 = 9  \text {   or,   }
+
+4^2 = 16
+
+In blue answer only :  $9$
+
+PArt C:
+
+Change  \"Perferct Squares\" . change blue answer too.
+
+Part D :is correct
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

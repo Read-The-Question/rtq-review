@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-7"
 title: "TopicPaper - Fraction - 7"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,9 +55,7 @@ $3 \dfrac{1}{2}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

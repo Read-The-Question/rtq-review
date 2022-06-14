@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-oldpr"
 title: "TopicPaper - Angle - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -197,9 +197,7 @@ $45 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -292,9 +290,7 @@ $27 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

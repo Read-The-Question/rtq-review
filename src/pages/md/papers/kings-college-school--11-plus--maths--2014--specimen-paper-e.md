@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -448,6 +448,7 @@ $\dfrac {37} {7}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -656,6 +657,7 @@ $-2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -810,6 +812,12 @@ $7$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -956,6 +964,22 @@ $8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :
+
+Take formula outside 
+
+Volume of rectangular box = .....
+
+Inside katex 
+
+Volume = 5 cm... 
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1189,6 +1213,7 @@ $\pounds 3.0825$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1748,6 +1773,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2503,6 +2529,12 @@ $38 \degree$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. (=  to be changed to is)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2604,6 +2636,12 @@ $
 $36 \text{ coins}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Please aligned(&) according to the format and change pound to p inside the katex(solving)
 </div>
 
 <div class='review'>

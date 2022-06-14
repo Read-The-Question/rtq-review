@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $3391$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $8072$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $2312$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -349,6 +352,7 @@ $300030$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -535,6 +539,7 @@ $16, \ 22$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -621,6 +626,7 @@ $20.3$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -705,6 +711,7 @@ $54$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -787,6 +794,7 @@ $0.06, \ 0.09$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -862,6 +870,7 @@ $2.203, \quad 2.23, \quad 2.3, \quad 2.303$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1041,6 +1050,7 @@ $152$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1185,6 +1195,7 @@ $12 \text{p}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1491,6 +1502,7 @@ $-7 \degree C$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1790,6 +1802,7 @@ $19$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1876,6 +1889,7 @@ $8 \ \text{years} \ 10 \ \text{months}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1964,6 +1978,7 @@ $2 \ \text{hours} \ 49 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2187,6 +2202,7 @@ $45 \ \text{grams}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2269,6 +2285,7 @@ $1105$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2491,6 +2508,7 @@ $71$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2757,6 +2775,7 @@ $\text{litres}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2847,6 +2866,7 @@ $600 \ \text{ml}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3850,6 +3870,7 @@ $38$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4556,6 +4577,7 @@ $13, \ 13$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4731,6 +4753,7 @@ $\text{Wednesday}, \ 2{:}00$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4896,6 +4919,7 @@ $126 \ \text{cm} ^ 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

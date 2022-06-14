@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr"
 title: "TopicPaper - Algebra - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -131,8 +131,11 @@ $8$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer : 07B7F155-62F9-4100-8C73-1796ABA98DCB , check how the text is written..  CODING GUIDELINES \DFRAC
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -247,9 +250,7 @@ $275 \ \text{grams}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -352,8 +353,11 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -450,8 +454,11 @@ $25$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\dfrac { 5000 } { 200 } \\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -584,8 +591,13 @@ Banana $= 50 \ \text{pence}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Apple $= 35 \ \text{pence}$
+
+Banana $= 50 \ \text{pence}$ -- GIVE SPACE BETWEEN THESE TWO LINES..write Cost of apple $= 35 \ \text{pence}$ and same for the next one
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -765,9 +777,7 @@ $y = x ^ 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

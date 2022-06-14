@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -75,6 +75,7 @@ $240$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -165,6 +166,14 @@ $\dfrac{3} {10}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove S2
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -251,6 +260,7 @@ $0.07$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -336,6 +346,7 @@ $2500 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -427,6 +438,7 @@ $24$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -524,6 +536,7 @@ $48 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -635,6 +648,7 @@ $24 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -782,6 +796,12 @@ The value of the digit $5$ in the number $32.579$ is 'Five tenths'
 Five Tenths
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+delete   add full stop. in answer key t in tenths small
 </div>
 
 <div class='review'>

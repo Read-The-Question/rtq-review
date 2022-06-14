@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-9999-sample-paper-1"
 title: "James Allens Girls School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,6 +62,7 @@ $1130$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -146,6 +147,7 @@ $487$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -228,6 +230,7 @@ $4608$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -380,6 +383,7 @@ $120\text{p}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -679,6 +683,7 @@ $25, 36$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -759,6 +764,7 @@ $23, 5, 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -868,6 +874,7 @@ $48$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2097,6 +2104,7 @@ $7.4 \text{m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

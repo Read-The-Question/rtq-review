@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $3104$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $1886$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $42498$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -408,6 +411,7 @@ $1940$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -487,6 +491,26 @@ $63$ is the number between $50$ and $75$ which is a multiple of both $3$ and $7$
 $63$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Solved wrong 
+
+
+
+Lets list multiples of 7 first as it will be less than multiples of 3
+
+
+
+Multiples of $7 = 56 , 63 , 70, 77$
+
+
+
+$63$ is a........
+
+Change blue answer also please.
 </div>
 
 <div class='review'>
@@ -572,6 +596,7 @@ $54$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -745,6 +770,7 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -931,6 +957,32 @@ $72 \div \boxed{4} = 17 - 5 + 6$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :
+
+Let the number in the box $= a$
+
+change x to a
+
+put 2 steps before the answer = 2 
+
+a = 2 x 23  / 23
+
+= cancel 
+
+
+
+in blue answer copy paste question and write 2 in \boxed , like below
+
+23 x \boxed{2} = 50 - 4
+
+Part B : Not solved, solve please
+
+Part C : Not solved, solve please
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1537,6 +1589,7 @@ $5 {:} 33 \ \text {p.m.}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1939,6 +1992,7 @@ $269$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3072,6 +3126,30 @@ $28.4 \ \text {kilometres}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+It is really important to use the right units in calculations and convert where required. The perimeter is given in metres while the distance is given in kilometeres.
+
+
+
+Total rounds = Distance / Perimeter
+
+= 6 km / 400 m
+
+= 6 x 1000 / 400 
+
+= 4 x 15... correct step
+
+= cancel zeros  
+
+= 15
+
+
+
+PArt B = Not solved.solve please
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3930,6 +4008,16 @@ $12$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : Katex error. fix please. visit talgebra or C6F4AD83-598E-4D8C-8FE2-F30239151865
+
+to get tips.
+
+Part B : not solved
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

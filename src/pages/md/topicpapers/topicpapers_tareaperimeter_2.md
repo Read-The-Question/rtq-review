@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -165,9 +165,7 @@ $40 \ \text {cm} ^ 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -265,9 +263,7 @@ $18,14$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -370,9 +366,7 @@ $28$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -468,9 +462,7 @@ $18,14$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -573,9 +565,7 @@ $28 cm ^ 2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1066,9 +1056,7 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1232,9 +1220,7 @@ $55 \text{ cm}^2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1326,9 +1312,7 @@ $460 \ \text {m}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1494,8 +1478,31 @@ $48 \ \text {cm} ^ 2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a : 
+
+Delete fullstop after =a. 4a to 4 x a 
+
+
+
+PArt b
+
+Delete fullstop after = w. and in Line 3 also
+
+As per the question, (is 2nd line)
+
+Line 3 = 3 x w 
+
+
+
+2 x (length x width) = Perimeter of a rectangle
+
+2x (3w +w) = 32 cm
+
+....
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1603,8 +1610,43 @@ $96$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use m not meters and same cm not centime...
+
+
+
+Area of a rectang.....
+
+
+
+It is really important to use the right units in calculations and convert where required.
+
+
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+
+
+As per the question,
+
+
+
+No. of tiles needed = Area.../ Area .....
+
+= 4 m  x 3 m / 50 cm x 25 cm
+
+= 4 x 100 cm / 3 x 100 cm /.....
+
+= 400 x 300 x 50 x 25
+
+= 4 x 4 x 25 x 6 x 50 / 50 x 25
+
+solve till end 
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2439,9 +2481,7 @@ $12 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2531,8 +2571,17 @@ $6 \ \text {cm} ^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Redundant formula inside katex
+
+Make single num / den before solving
+
+Missing factors steps still
+
+Units missing in workings and answers
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2613,9 +2662,7 @@ $48 \ \text {cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3007,9 +3054,7 @@ $80$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3096,9 +3141,7 @@ $3 a + 2 b$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3775,9 +3818,7 @@ $1.6 \ \text {m}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3888,9 +3929,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4040,9 +4079,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4320,9 +4357,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4583,9 +4618,7 @@ $58 \ \text {cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4898,9 +4931,7 @@ $196 \ \text {cm} ^2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

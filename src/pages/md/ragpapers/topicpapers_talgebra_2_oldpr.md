@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-2-oldpr"
 title: "TopicPaper - Algebra - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -72,8 +72,21 @@ $4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Introduce a new answer answer.workings. 
+
+
+
+4 r = 3 c
+
+ = 2 c + 1 c
+
+= 4 p + 2 p 
+
+= 6 p
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

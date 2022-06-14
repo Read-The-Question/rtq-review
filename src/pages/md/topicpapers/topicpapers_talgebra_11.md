@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -149,8 +149,25 @@ $9$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Factor pairs of 84 that are smaller than 20 = 6, 14 and 7, 12
+
+
+
+then your table. but remove 2, 42 
+
+
+
+PArt b
+
+thinks = thought of 
+
+change \"x\" into a 
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2242,9 +2259,7 @@ $53$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2462,9 +2477,7 @@ $\pounds 1.70$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2559,8 +2572,11 @@ $60$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+CALL ARAVIND
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2658,8 +2674,11 @@ $14$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step) :(
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2751,9 +2770,7 @@ $6c - 3d$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2850,8 +2867,11 @@ $-1$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Write As per the question
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3021,8 +3041,11 @@ $900$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Follow coding guilines.. no need to put L and S in text..  too many correction, Please refine it.. Please refer to j/uday for this question 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3320,8 +3343,11 @@ $70$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+step 1: bring out of katex and make it line 1 as: Let the missing number be $=a$                                                           Add line 2:  As per the question,                                                                                                                                 add step 1: 560 \div \boxed{a}       &= 8 \\                                                                                                             align on &=             (see stack)                                                                                                                                                       present step 5: a &= \dfrac{70 \times \cancel{8}}{\cancel{8}} \\
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3421,8 +3447,11 @@ $7$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong format -                                                                                           refer 07071090-243A-4C15-B778-53C51DA63E26
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3514,9 +3543,7 @@ $3d + 9e$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3612,8 +3639,11 @@ $5$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Line 2: Delete                                                                                                                            step 3: Delete
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3792,8 +3822,11 @@ $27$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+provide second answer with                                                                        {Number of cubes} = \dfrac{Volume of bigger cube}{Volume of smaller cude}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3884,8 +3917,11 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add line 2: If the bigger cube is painted red all over                                                                                                                                                                                          Add line 3: then, only the corner smaller cubes can have three red faces                                                                                                                                                               present line 2: change:   .. $8$ small cubes will ..... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3976,8 +4012,11 @@ $6$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add line 2: only center small cube on the face of bigger cube shares a a face with exactly $5$ other small cubes                                                                    Add line 3: number of faces on bigger cube is $6$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4064,8 +4103,11 @@ $0$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+i feel answer is 0, explain me this answer how did u do
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4180,8 +4222,11 @@ $3 \ \text{and} 6$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4268,8 +4313,19 @@ $9$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Let the number Sam thinks of = a
+
+
+
+APTQ,
+
+start katex with
+
+3a - 3 & = 2a + 6 (that way no jumping sides is required) check for katex error
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4397,9 +4453,7 @@ $\pounds 7,\pounds 1,\pounds 1$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

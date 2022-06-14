@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,6 +62,7 @@ $360$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -143,6 +144,7 @@ $13$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -284,6 +286,7 @@ $2400 \ \text{g}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -414,6 +417,7 @@ $11$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -509,6 +513,7 @@ $\dfrac{6}{8}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -649,6 +654,7 @@ $\pounds 16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -731,6 +737,7 @@ $7 {:} 58$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -812,6 +819,7 @@ $7 \degree \text{C}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -890,6 +898,7 @@ $\pounds 2.76$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1030,6 +1039,7 @@ $\pounds 16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1126,6 +1136,7 @@ $\pounds 3.25$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1212,6 +1223,12 @@ $\pounds 3.20$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+tunitpromt missing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1296,6 +1313,7 @@ $8 \ \text {pieces}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1378,6 +1396,12 @@ $
 $85 \%$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write LHS \"Jills mark\"
 </div>
 
 <div class='review'>
@@ -1464,6 +1488,7 @@ $11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1664,6 +1689,7 @@ $79 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1768,6 +1794,7 @@ $25 \ \text{cm}^{2}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1964,6 +1991,7 @@ $0$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2059,6 +2087,7 @@ $3 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2148,6 +2177,7 @@ $3.5$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2230,6 +2260,7 @@ $\dfrac {1} {2}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2768,6 +2799,7 @@ $50$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2857,6 +2889,7 @@ D
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3658,6 +3691,18 @@ $250 \ \text{milliliters}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+This is better suited for a markdown table, create a table with header 2 rows and 3 columns, and write converted values
+
+Then write A contains more
+
+Then for part 2, use katex to show the difference using aligned
+
+Call if confusion and if need help to write table
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3801,6 +3846,12 @@ $54$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use part a) in the calculation
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4100,6 +4151,7 @@ $y = x ^ 2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4763,6 +4815,12 @@ $400$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+question error..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5661,6 +5719,7 @@ $0.575$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

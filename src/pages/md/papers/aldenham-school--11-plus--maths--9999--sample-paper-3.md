@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -121,6 +121,7 @@ $492$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -202,6 +203,7 @@ $8483$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -293,6 +295,7 @@ $63$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -469,6 +472,7 @@ $9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -656,6 +660,7 @@ $500$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -736,6 +741,7 @@ $\pounds 98$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -830,6 +836,7 @@ $24 \ \text{years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -931,6 +938,7 @@ $32 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1090,6 +1098,7 @@ $68 \ \text {miles/hour}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1297,6 +1306,7 @@ $91, 350$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1461,6 +1471,7 @@ $150$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1547,6 +1558,7 @@ $1 \dfrac {1} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1628,6 +1640,7 @@ $1.54$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1866,6 +1879,7 @@ $2a^2 \quad = \quad  ab$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1960,6 +1974,7 @@ $\dfrac {3} {5}, \quad \dfrac {12} {18}, \quad \dfrac {14} {20}, \quad \dfrac {9
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2075,6 +2090,7 @@ $27 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2227,6 +2243,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2335,6 +2352,7 @@ $54$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2422,6 +2440,7 @@ $49$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2542,6 +2561,7 @@ $292.5 \ \text {cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2654,6 +2674,12 @@ $
 $32$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+step 1: side x side                                                                 end answer: remove space
 </div>
 
 <div class='review'>

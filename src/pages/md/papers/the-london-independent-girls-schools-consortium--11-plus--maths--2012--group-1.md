@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2012-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2012 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $9134$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $8760$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -222,6 +224,7 @@ $2303$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -408,6 +411,7 @@ $220$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -486,6 +490,7 @@ $63$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -575,6 +580,7 @@ $1.006$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -658,6 +664,7 @@ $30$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -763,6 +770,7 @@ $19.8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -911,6 +919,7 @@ $1000$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -986,6 +995,7 @@ $52.4  \quad 52.402 \quad 52.42$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1090,6 +1100,7 @@ $11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

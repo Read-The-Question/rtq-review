@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-2"
 title: "TopicPaper - Ratio - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -236,9 +236,7 @@ $49643$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -666,9 +664,7 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1293,8 +1289,49 @@ $\pounds 7.95$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Do proper katex, i am just typing
+
+Change your answer
+
+
+
+Part A : 
+
+As per the question, 
+
+1 Donughnut &= £1.45
+
+1 x 12 Doughnuts &=  £1.45 x 12
+
+12 Doughnuts &=  £17.40
+
+Blue Answer : add \pounds
+
+
+
+Part B:
+
+Customer (Saving) &= Cost (Before deal) - Cost (Special deal)
+
+
+
+Ensure to line up the decimals.
+
+
+
+(nor solve here in array as you did) 
+
+
+
+Last line : Each customer saved $=£7.95$
+
+
+
+Blue Answer : add \pounds
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1938,8 +1975,21 @@ $\pounds {36.60}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A:
+
+Total cost = No. of items x Cost of item
+
+= as you did but answer is 36.60
+
+but for money also write 2 digits after decimal. £26.60 same in blue answer.
+
+Part B:
+
+36.6 isn workings and in blue answer... (calculator does to show pounds and extra zero digits.)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2096,8 +2146,11 @@ $125 \text{minutes}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : in slack
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2252,8 +2305,21 @@ $\pounds 6.25$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a : APTQ,
+
+\pounds 3 =  2 \text{Euros}+ 1 \text{Euros}
+
+&= 2.4 + 1.2
+
+&=  3.6 \text{Euros}
+
+PArt B Star 1.2 Euro = 1 pound solve step by step ..til mixed fraction pound 6 1/4 then = 6.25
+
+    
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2340,8 +2406,25 @@ $\pounds 8.30$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+APTQ,
+
+start katex
+
+7 Tickets = ....pounds
+
+1 x 7 Tickets =.... pounds
+
+1 Ticket  =..... / 7 
+
+solve but but 7 \times 8.30 /       7
+
+then cancel
+
+then answer. write 8.30 not 8.3
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2436,8 +2519,39 @@ $\pounds 54$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+It is really important to use the right units in calculations and convert where required.
+
+
+
+As the answer is to be given in pounds, lets convert Davids weight into pounds.
+
+
+
+As per the question,
+
+$
+
+Davids weight = 15 Stone 11
+
+=15 x 14 + 11
+
+= 221 pounds and not money pounds !!! in weight so remains \"pounds\"
+
+$
+
+next katex
+
+Difference  of weight = Andrew (Weight) - Davind (Weight)
+
+= solve.. 
+
+the answer is 54 pounds not 42 pounds.
+
+and not money pounds !!! in weight so remains \"pounds\" change in blue answer too.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2523,8 +2637,15 @@ $63 \ \text{girls}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Boys and Girls Change to boys girls in complete answer.
+
+Step 2 error :  3 \times 21 \
+
+blue answer : 63 girls
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2738,8 +2859,11 @@ $12$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+check COst (make o small) check spacing \\
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3352,8 +3476,11 @@ $\pounds 3.15$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+1.) Cost of...not The cost of, 2.) 0.45 not 0.0.45, 3.) write &= \pounds 3.15 in last line, 4.) in the answer its 3.15 not 3.156
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3511,8 +3638,11 @@ $\pounds 8.75$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+line 2: give comma after APTQ                                                                       step 1: delete                                                                                           step 2: correct it \text{Cost of} 25 \text{pens}                                                                                      step 5: delete     &= \dfrac{875}{100}                                                      align on &=       (see slack)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3594,9 +3724,7 @@ $\pounds 11$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3841,9 +3969,7 @@ $\pounds 4.2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4162,8 +4288,15 @@ $\pounds 14.90$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Cost of downloading .... = Cost of download one app x No. of apps
+
+delete step 2 in katex
+
+LAst sentencce The cost of downloading $5$ aoos $= ....$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

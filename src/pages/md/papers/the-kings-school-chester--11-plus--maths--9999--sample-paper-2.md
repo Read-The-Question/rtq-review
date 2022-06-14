@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-kings-school-chester-11-plus-maths-9999-sample-paper-2"
 title: "The Kings School Chester - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,6 +57,7 @@ $0.5, 0.6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -140,6 +141,7 @@ $4.05 \degree \ \text{C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -356,6 +358,7 @@ $211$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -818,6 +821,7 @@ $2, 21$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -980,6 +984,7 @@ $\dfrac {1} {2}, \quad \dfrac {7} {12}, \quad \dfrac {5} {8}, \quad \dfrac {2} {
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1206,6 +1211,7 @@ $2007, \ 918, \ 45$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1513,6 +1519,20 @@ $\dfrac {3} {4}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a)
+
+S2 change of to x
+
+S1 Remove text on RHS and merge LHS with S2, Remove as 
+
+per the question
+
+Part b) D
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

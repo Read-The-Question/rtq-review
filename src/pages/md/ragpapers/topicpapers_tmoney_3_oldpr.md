@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-oldpr"
 title: "TopicPaper - Money - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -128,9 +128,7 @@ $\pounds 5.92$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -227,9 +225,7 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -324,9 +320,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -500,9 +494,7 @@ $3 \ \text {people}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -586,8 +578,11 @@ $\pounds 42$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Cost in 1979...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -717,9 +712,7 @@ $\pounds 64.9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -888,9 +881,7 @@ $\pounds 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

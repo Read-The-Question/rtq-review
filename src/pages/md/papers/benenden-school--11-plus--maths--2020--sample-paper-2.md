@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-2"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1330,6 +1330,7 @@ $0$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1686,6 +1687,7 @@ $2, 3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1993,6 +1995,12 @@ $8 \dfrac{19} {20}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Only show the mixed fraction in the answer not both
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

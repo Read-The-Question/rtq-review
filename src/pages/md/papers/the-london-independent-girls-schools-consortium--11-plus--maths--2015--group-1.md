@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2015-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2015 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $5632$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $4556$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $4781$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -405,6 +408,7 @@ $2007$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -595,6 +599,7 @@ $0.603$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -886,6 +891,28 @@ $6^2 = 4^2 + (2 \times \boxed{10})$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+ take variable a .. Lets take the missing....
+
+Using BIDMAS,.....
+
+add step : −x=−38
+
+Part B : Not solved. thou its divide it is changed into fraction. so please solve
+
+same like before..
+
+Lets...
+
+Part C :
+
+Not solved : solve please. same like before parts.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2803,6 +2830,14 @@ $
 $8 \ \text {cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Explanation/formulas please. take tips from 4F58585B-5B01-496D-8865-FFF0FEAC8FD6
+
+not directly related. thou. 
 </div>
 
 <div class='review'>

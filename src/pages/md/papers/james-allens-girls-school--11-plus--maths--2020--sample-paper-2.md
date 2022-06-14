@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,6 +62,7 @@ $1020$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -146,6 +147,7 @@ $166$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -228,6 +230,7 @@ $4109$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -800,6 +803,7 @@ $-5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -950,6 +954,7 @@ $52$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1347,6 +1352,14 @@ $2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove 1 in S2
+
+S3 wrong factors
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

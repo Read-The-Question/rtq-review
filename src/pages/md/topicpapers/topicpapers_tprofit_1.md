@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tprofit-1"
 title: "TopicPaper - Profit - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -115,9 +115,7 @@ $\text{Shop C} = \pounds 820$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -199,9 +197,7 @@ $\pounds 98$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -508,9 +504,7 @@ $\pounds 12$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -772,9 +766,7 @@ $\pounds 57.85$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -862,9 +854,7 @@ $\pounds 38250$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -946,9 +936,7 @@ $\pounds 140.55$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1201,9 +1189,7 @@ $\pounds 161.35$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1416,9 +1402,7 @@ $\pounds 450$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1502,9 +1486,7 @@ $15.81$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1593,9 +1575,7 @@ $210$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1787,9 +1767,7 @@ $\pounds 1193.4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2013,8 +1991,11 @@ $\pounds 290$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 + Price increased. Finish in one katex
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2330,8 +2311,11 @@ $\pounds 120.00$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+step 1 & 2: Delete                                                                                                                                                                        just formulate simplte formula and solve accordingly                                                                                                                        {Discount price} &= {Cost of new mobile} \times {Discount Percentage}                                                                                             start new katex                                                                                                                                                                          {Amount Alex have to pay} &= {Cost of new mobile} - {Discount price}                                                                                           align on &=       (see slack)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2714,9 +2698,7 @@ $\pounds 75$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2836,9 +2818,7 @@ $\pounds 25.50$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -122,8 +122,11 @@ $105 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+part b formula ..katex error.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -224,8 +227,11 @@ $92 \ \text{m}^{2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Length of path change to  Width of path 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -327,8 +333,11 @@ $50$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -474,8 +483,13 @@ $P = 30 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+Line 1.  So, and again down So, (delete 1 So,)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -576,8 +590,11 @@ $1.96 \text{m}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Now lets ... area of the square.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

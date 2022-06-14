@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -72,6 +72,7 @@ $541$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -166,6 +167,7 @@ $417$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -263,6 +265,7 @@ $8800$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -487,6 +490,12 @@ $99$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add step after S1 saying 3/8 x 264
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -586,6 +595,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -690,6 +700,7 @@ $400$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -785,6 +796,7 @@ $27 \times 9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -873,6 +885,7 @@ $2{:}11 \ \text {pm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -968,6 +981,7 @@ $\dfrac {1} {15}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1134,6 +1148,7 @@ $\pounds 4.91$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1225,6 +1240,7 @@ $22$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1328,6 +1344,7 @@ $112$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1503,6 +1520,7 @@ $21$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1604,6 +1622,7 @@ $132 \ \text{cm} ^ 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1973,6 +1992,7 @@ $-40, 80$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2756,6 +2776,7 @@ $15$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2844,6 +2865,7 @@ $85 \ \text{cm} ^ 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

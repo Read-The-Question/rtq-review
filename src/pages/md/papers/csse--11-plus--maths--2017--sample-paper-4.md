@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2017-sample-paper-4"
 title: "Csse - 11 Plus - Maths - 2017 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -147,6 +147,12 @@ $143$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Extra empty working in question
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -290,6 +296,7 @@ $13 \times 7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -508,6 +515,16 @@ $28$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2
+
+Write Using bidmas
+
+Write more descriptive statement for last subquestion, the answer is same b.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -676,6 +693,7 @@ $5.031$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -910,6 +928,7 @@ $31$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1048,6 +1067,7 @@ $2.3051$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1210,6 +1230,7 @@ $-17$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1510,6 +1531,7 @@ $500 \ \text{mm}^2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1599,6 +1621,7 @@ $2 \ \text {hour} \ 8 \ \text {minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1814,6 +1837,7 @@ $7 ^2 , 4 ^ 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2674,6 +2698,20 @@ $20$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+One step missing in calculation in a
+
+Just drop the denominator instead of cancelling
+
+Steps missing in calculating LCM
+
+
+
+b, c: Steps missing still, lets discuss
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

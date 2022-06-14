@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-oldpr"
 title: "TopicPaper - Areaperimeter - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -136,8 +136,31 @@ $48 \ \text {cm} ^ 2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a : 
+
+Delete fullstop after =a. 4a to 4 x a 
+
+
+
+PArt b
+
+Delete fullstop after = w. and in Line 3 also
+
+As per the question, (is 2nd line)
+
+Line 3 = 3 x w 
+
+
+
+2 x (length x width) = Perimeter of a rectangle
+
+2x (3w +w) = 32 cm
+
+....
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -245,8 +268,43 @@ $96$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use m not meters and same cm not centime...
+
+
+
+Area of a rectang.....
+
+
+
+It is really important to use the right units in calculations and convert where required.
+
+
+
+The floor measurement is given in meters and tile measurement is in centimetres.
+
+
+
+As per the question,
+
+
+
+No. of tiles needed = Area.../ Area .....
+
+= 4 m  x 3 m / 50 cm x 25 cm
+
+= 4 x 100 cm / 3 x 100 cm /.....
+
+= 400 x 300 x 50 x 25
+
+= 4 x 4 x 25 x 6 x 50 / 50 x 25
+
+solve till end 
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

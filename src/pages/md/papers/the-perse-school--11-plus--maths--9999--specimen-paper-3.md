@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-3"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -120,6 +120,7 @@ $352$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -379,6 +380,16 @@ $\text{D}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -469,6 +480,26 @@ I am $ = 14 \ \text {years old}$
 $14 \ \text {years}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete line 2
+
+
+
+Step 1 : My age + Brothers age = Total age
+
+a + a -5 = 23..as you solved
+
+
+
+Last sentence : I am = 14 years old
+
+
+
+blue answer = 14 years
 </div>
 
 <div class='review'>
@@ -686,6 +717,36 @@ $3 \ \text{kg}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete Line 2
+
+
+
+Step 1 : Weight of empty bucket + Weight of Water / 2 = 12 kg
+
+a + 21/2 kg = 12 kg
+
+then your last 4 steps. 
+
+a + 21 = 12 x 2
+
+a + 21 = 24
+
+a = 24 - 21
+
+a = 3 kg
+
+
+
+Weight of empty bucket = 3 kg
+
+
+
+in blue anser 3 kg
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -781,6 +842,22 @@ $
 $30 \ \text{cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Katex erro (i think space)
+
+
+
+Perimeter of shape = Sum of all sides
+
+= 4.5 + 4.5 + (9 -3) + 9 + 3 + 3
+
+= 9 + 6 + 9 + 6
+
+= 30 cm
 </div>
 
 <div class='review'>
@@ -963,6 +1040,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1047,6 +1125,7 @@ $149.5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1225,6 +1304,7 @@ $32.4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1644,6 +1724,7 @@ $30 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1815,6 +1896,7 @@ $-8 \degree \text {C}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1917,6 +1999,7 @@ $45$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2285,6 +2368,16 @@ $8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) only give mixed fraction as answer option
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2371,6 +2464,7 @@ $0.872$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2700,6 +2794,7 @@ $2.716$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

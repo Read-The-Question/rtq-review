@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -57,6 +57,7 @@ $358903$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -195,6 +196,7 @@ $\dfrac {9} {20}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -569,6 +571,7 @@ $\dfrac {7} {32}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -844,6 +847,12 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Only show the mixed fraction in the answer not both
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1091,6 +1100,7 @@ $39, \quad 52$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1617,6 +1627,7 @@ $36 \ \text {m}^2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1893,6 +1904,7 @@ $9909999$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2063,6 +2075,12 @@ $
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+WE will visit this answer again. but put a second solution using exterior angle is a sum of 2 int opp angle..... 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2141,6 +2159,7 @@ $1$ January
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

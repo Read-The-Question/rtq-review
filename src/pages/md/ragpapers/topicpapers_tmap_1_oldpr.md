@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmap-1-oldpr"
 title: "TopicPaper - Map - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -65,8 +65,11 @@ $3$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+B to C
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -153,8 +156,11 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+A to C
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

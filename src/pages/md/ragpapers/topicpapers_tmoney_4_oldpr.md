@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr"
 title: "TopicPaper - Money - 4 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -110,8 +110,11 @@ $\pounds1.52$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+no brackets .. Cost of 3 Bracelets...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -196,8 +199,11 @@ $\pounds 110.50$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+delete total money collected at end
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -284,8 +290,11 @@ $57 \text{p}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+missing unitconvert sentence..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -388,9 +397,7 @@ $\pounds 1.33$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -468,9 +475,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -571,8 +576,11 @@ $17$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add line 2: Let the number of muffins I can buy be $=a$                                                                                                step 1: Delete                                                                                                                                                               formulate a simple eqn see step 1 below,                                                                                                                                                   Add step 1: \text{Cost of each muffin} \times {Number of muffins I can buy}  &= {Total Money I have} \\                                                                                                Add step 2: 85 \times a &= \pounds 15   \\\                                                                                                                  from present step 2 ur calculation is correct                                                                                                                present step 2: 85 \times a &= 1500 \text{pence}                                                                                                         present step 4: change: a &= \dfrac{300 \times 5}{17 \times 5} \\                                                                               present step 5: change: a &= \dfrac{300 \times \cancel{5}}{17 \times \cancel{5}} \\                                                                                                                 present step 7: write in mixed fraction   17 \dfrac {11} {17}   \approx 17   \\                                                                                      end answer :    change:     &=  \approx 17                                                                                                                       align on &=             (see stack)  
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

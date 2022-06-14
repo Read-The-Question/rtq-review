@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdivision-1"
 title: "TopicPaper - Division - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -63,9 +63,7 @@ $1.54$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -148,9 +146,7 @@ $234$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -233,9 +229,7 @@ $1050$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -754,8 +748,11 @@ $16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\dfrac {} {} --use like this ; use only one space after &=; Please follow coding guidlines; and division questions are not opened yet   ,......., I SAW NO CHANGES
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -844,9 +841,7 @@ $0.4103$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -938,8 +933,11 @@ $16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Coding guidlines ,......., I SAW NO CHANGES
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1028,9 +1026,7 @@ $0.4103$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1403,9 +1399,7 @@ $0.0023$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1488,8 +1482,11 @@ $312$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+NM: Change the order 7 x 312 / 7 in Step 2 and Step 3
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1726,9 +1723,7 @@ $8.6$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2255,9 +2250,7 @@ $20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

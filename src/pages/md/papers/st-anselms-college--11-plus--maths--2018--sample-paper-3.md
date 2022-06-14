@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-2018-sample-paper-3"
 title: "St Anselms College - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,6 +55,7 @@ $\text {Four hundred twenty-one thousand eight hundred}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -132,6 +133,7 @@ $\text {One million eight hundred eighty-two thousand seven hundred}}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -238,6 +240,7 @@ $\pounds 288$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -323,6 +326,7 @@ $\pounds 500$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -675,6 +679,7 @@ $1.5625 \ \text {km}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -967,6 +972,7 @@ $2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1072,6 +1078,7 @@ $\text{angle Q}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1495,6 +1502,7 @@ $0.7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2172,6 +2180,7 @@ $11 \ \text {mm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2254,6 +2263,7 @@ $0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2399,6 +2409,7 @@ $105$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2486,6 +2497,7 @@ $300 \ \text{metres}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2015-sample-paper-6"
 title: "Sevenoaks School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -136,6 +136,7 @@ $\pounds 5.92$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -216,6 +217,12 @@ $
 $1596 \ \text{cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+U took reference from somewhere?? If no, Then change the working to - As per the question, and solve it simply . If yes, send me the uuid
 </div>
 
 <div class='review'>
@@ -327,6 +334,12 @@ $\pounds 2.65$ and $\pounds 2.25$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Let the cost of first item. Delete line 3,4 . For spacing use \ . 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -415,6 +428,12 @@ Sum of whole numbers $2$ to $51$ inclusive is $1325$.
 $1325$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+No need to explain this much. write all in one equation
 </div>
 
 <div class='review'>
@@ -691,6 +710,7 @@ $9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -784,6 +804,12 @@ $\pounds 290$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+No need to explain this much. Price of seesaw in 2011 = price of seesaw in 2010 + Price increased. Finish in one katex
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -875,6 +901,12 @@ The total length of marked $x$ is $20 \ \text {cm}$
 $20 \ \text {cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+No need to explain this much. Length (x) = length (Lower figure) + 1/3 \times length (Upper figure)
 </div>
 
 <div class='review'>
@@ -1441,6 +1473,7 @@ $18{:}27$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1537,6 +1570,7 @@ $\dfrac {4} {9}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1636,6 +1670,12 @@ Number of tiles needed is $50$
 $50$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 </div>
 
 <div class='review'>

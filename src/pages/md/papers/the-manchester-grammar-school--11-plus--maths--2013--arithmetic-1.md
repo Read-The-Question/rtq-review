@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,6 +55,7 @@ $212057$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -136,6 +137,7 @@ $247$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -221,6 +223,7 @@ $20320$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -303,6 +306,7 @@ $\dfrac {7} {25}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -382,6 +386,7 @@ $-72$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -487,6 +492,7 @@ $108 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -574,6 +580,7 @@ $42$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -673,6 +680,7 @@ $100 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -992,6 +1000,7 @@ $4.23$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1077,6 +1086,7 @@ $75 \ \text{pence}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1160,6 +1170,7 @@ $30$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1258,6 +1269,7 @@ $24 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1366,6 +1378,7 @@ $11\ \text {mm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1478,6 +1491,7 @@ $16$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1632,6 +1646,7 @@ $195$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1764,6 +1779,7 @@ $27$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

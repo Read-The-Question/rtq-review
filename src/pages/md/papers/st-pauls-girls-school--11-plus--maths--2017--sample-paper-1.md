@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-pauls-girls-school-11-plus-maths-2017-sample-paper-1"
 title: "St Pauls Girls School - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -117,6 +117,7 @@ $90$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -204,6 +205,12 @@ $30$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+stpe  1 = 40% od 75
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -286,6 +293,7 @@ $\dfrac{2}{3}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -370,6 +378,7 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -468,6 +477,7 @@ $8, 27$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -548,6 +558,7 @@ $23$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -636,6 +647,12 @@ $21 \times 2 = 42$
 $42$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+change tag to tfactor
 </div>
 
 <div class='review'>
@@ -794,6 +811,16 @@ $27$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+put in katex \text the first line.
+
+sarah is not included in your count. including sarah its 18 people show that with + Sarah
+
+change your answer accoridngly...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -936,6 +963,12 @@ $57 \text{p}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+missing unitconvert sentence..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1023,6 +1056,12 @@ Bags that can be bought = $12$
 $12$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+check COst (make o small) check spacing \\
 </div>
 
 <div class='review'>

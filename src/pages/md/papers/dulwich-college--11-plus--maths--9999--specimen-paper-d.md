@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $1019$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $164$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $2737$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -357,6 +360,7 @@ $1.05$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -535,6 +539,7 @@ $23.5 \quad 21$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -630,6 +635,7 @@ $16, 24, 8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -754,6 +760,7 @@ $8890$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -834,6 +841,7 @@ $70$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -928,6 +936,7 @@ $3 - (7 - 4)$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1121,6 +1130,7 @@ $\dfrac {7} {9}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1548,6 +1558,7 @@ $9, 81$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1687,6 +1698,7 @@ $0.7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1827,6 +1839,7 @@ $800 \ \text{kilometres per hour}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1936,6 +1949,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2270,6 +2284,7 @@ $35 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2516,6 +2531,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

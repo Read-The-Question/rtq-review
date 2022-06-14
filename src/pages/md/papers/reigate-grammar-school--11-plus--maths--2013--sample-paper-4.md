@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -71,6 +71,7 @@ $3027$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -158,6 +159,14 @@ $
 $1033$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
 </div>
 
 <div class='review'>
@@ -256,6 +265,12 @@ $
 $40600$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove the phrase alternative solution
 </div>
 
 <div class='review'>
@@ -468,6 +483,7 @@ $50.75$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -554,6 +570,7 @@ $20.37$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -642,6 +659,7 @@ $21$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -728,6 +746,7 @@ $27.3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1345,6 +1364,7 @@ Smallest $= \dfrac {3} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1574,6 +1594,7 @@ $\pounds 43.75$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1717,6 +1738,12 @@ $160$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Remove S1, Remove 1 in S4
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1806,6 +1833,12 @@ $
 $23$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove x 1 wherever it isnt required as a factor
 </div>
 
 <div class='review'>
@@ -1914,6 +1947,7 @@ $33 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2056,6 +2090,7 @@ $\dfrac {17} {20}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2267,6 +2302,7 @@ $0.21, \quad 0.201, \quad 0.021$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2419,6 +2455,36 @@ $12$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2503,6 +2569,7 @@ $\dfrac {8} {9}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2586,6 +2653,7 @@ $\dfrac {1} {40}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2675,6 +2743,7 @@ $1.354$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2773,6 +2842,7 @@ $14$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2851,6 +2921,7 @@ $60$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2965,6 +3036,7 @@ $13 \ \text{and} \ 5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3128,6 +3200,7 @@ $\dfrac {303} {1000}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3296,6 +3369,7 @@ $0.175$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3424,6 +3498,7 @@ Cylinder
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4061,6 +4136,7 @@ $\text{Closest number to} \ 60 = 58 \\\\
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4240,6 +4316,7 @@ $24 \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4603,6 +4680,7 @@ $8640$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4695,6 +4773,7 @@ The $100$th symbol is $=$ &
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4778,6 +4857,7 @@ $\pounds 2.80$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -4991,6 +5071,7 @@ $820$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5093,6 +5174,7 @@ $9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5181,6 +5263,7 @@ $804 \text{m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -5274,6 +5357,7 @@ $600 \text{g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

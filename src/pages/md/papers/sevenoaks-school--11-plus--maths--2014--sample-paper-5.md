@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2014-sample-paper-5"
 title: "Sevenoaks School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -310,6 +310,20 @@ $\dfrac {89} {99}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) and b) show cancellation
+
+Part c) Write fraction division prompt and change the workings to 
+
+a division question
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -394,6 +408,7 @@ $-7 \degree \text{C}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -476,6 +491,7 @@ $01{:}52 \ \text {P.M}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -731,6 +747,7 @@ $0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -887,6 +904,7 @@ $29, 58$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1721,6 +1739,7 @@ $((4 \times 4) + 4) \div 4 = 5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

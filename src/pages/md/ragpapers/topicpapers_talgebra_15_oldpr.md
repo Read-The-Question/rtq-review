@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-oldpr"
 title: "TopicPaper - Algebra - 15 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -76,8 +76,17 @@ $12$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+katex error.First list factors of 72.. and use that.. 
+
+Not x or y variable . use a, b, c. 
+
+ refer to DACF41B7-F660-4A37-8522-2D3B2583F3CA or similar.
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

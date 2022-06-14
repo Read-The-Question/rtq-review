@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g0"
 title: "TopicPaper - Fraction - 6 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,8 +57,19 @@ $\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in S3
+
+Remove last step
+
+Give answer as a mixed fraction 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -144,8 +155,17 @@ $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S5 to 85-32/20
+
+Give answer as only a mixed fraction
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -249,8 +269,19 @@ $\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change inferred to solved
+
+Remove 1s where not required
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -338,8 +369,15 @@ $1 \dfrac {5} {8}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove as per the question
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -477,8 +515,15 @@ $\text{D}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -621,8 +666,15 @@ $8$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) only give mixed fraction as answer option
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -713,8 +765,19 @@ $\dfrac {3} {5}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Lets write all the fractions in their simplified form
+
+Remove 1s where not required
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -925,8 +988,21 @@ $2\dfrac{2} {3}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove 1s where not required
+
+Part d) Write fraction division prompt
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1098,8 +1174,15 @@ $\dfrac {13} {5}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) only give answer as a mixed fraction
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1183,8 +1266,15 @@ $\dfrac {1} {6}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 where not required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

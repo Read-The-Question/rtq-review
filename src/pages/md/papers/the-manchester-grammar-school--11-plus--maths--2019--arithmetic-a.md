@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $790$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -140,6 +141,7 @@ $0.72$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -228,6 +230,7 @@ $1641000$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -315,6 +318,7 @@ $1.47$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -394,6 +398,7 @@ $83$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -490,6 +495,7 @@ $59$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -577,6 +583,7 @@ $1 \dfrac {1} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -663,6 +670,7 @@ $165 \ \text {cm} ^ 3$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -744,6 +752,7 @@ $\dfrac {7} {10}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -830,6 +839,7 @@ $60000$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -920,6 +930,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1028,6 +1039,7 @@ $108 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1111,6 +1123,7 @@ $\dfrac {11} {20}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1320,6 +1333,7 @@ $150 \ \text {cm}^2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1499,6 +1513,7 @@ $45p$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1594,6 +1609,7 @@ $8 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

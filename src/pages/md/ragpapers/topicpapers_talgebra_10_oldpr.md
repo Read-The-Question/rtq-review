@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-10-oldpr"
 title: "TopicPaper - Algebra - 10 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -124,8 +124,39 @@ $4$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+Do proper katex, I am just writing plain english
+
+Let the number I thought of $=a$ 
+
+Replace x with a 
+
+As per the question, 
+
+=(a \div 7) - 3 = 6 
+
+= a/ 7 - 3 = 6.....
+
+then all the other steps can follow
+
+
+
+Now onwards i will use APTQ for As per the question. Blue answer is the answer is the answer between two blue lines in website view or [[questions.subquestions.answers]]... 
+
+Part B 
+
+Here the variable remains \"x\" as the question puts it so.
+
+APTQ,
+
+change the sides.
+
+x x 22 = ..... then x will fall and remain on the left side.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -276,8 +307,43 @@ $4$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt A :
+
+Let the number I think of = a (no comma after that)
+
+do step by step
+
+a x 9 = 101 + 7
+
+a = 108 / 9
+
+a = 12 x 9 / 9
+
+a = cancel
+
+a = 12
+
+Part B:
+
+Please check \"multiply the answer by 6\"
+
+x x 18 &= (x + 8) x 6 
+
+18x = 6x + 48 
+
+solve step by step
+
+x = 4 x 12  / 12
+
+ = then cancel 
+
+
+
+answer is 4 . please change blue answer also
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -423,8 +489,33 @@ $6$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+Let the number I thought of = a
+
+PArt B
+
+Solve step by step
+
+katex wrong at 2 places..
+
+n x 6 = (n + 3) x 4
+
+6n = 4n + 12
+
+6n - 4n = 12
+
+2n = 12
+
+n = 6 x 2/2
+
+now cancel
+
+n = 6
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -516,8 +607,15 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the figure, the shape is divided into two equal triangles. 
+
+Then start katex
+
+Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations accordingly)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -632,8 +730,11 @@ The smaller number $=13$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Check slack. Change the blue answer its $19, 13$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -810,8 +911,47 @@ $\pounds 11.76$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : APTQ, 
+
+1 Cake &= 5 Eggs
+
+1 x 15 Cakes = 5 x 15 (solve further) 
+
+Last sentence will be : To make $15$ cakes I will use $=75$ eggs.
+
+PArt B : APTQ,
+
+12 Eggs =1 Box
+
+1 Egg = 1 / 12 Box
+
+1 x 75 Eggs = 1 / 12 \times 75 (solve further) 
+
+present in mixed fractions. = 6 3/12
+
+
+
+$6$ whole boxes and $1$ more box for the $3$ remaining eggs. 
+
+
+
+The number of boxes I must buy to ensure that I have enough eggs to make the 15 cakes $=7$
+
+In blue answer only $7$
+
+Part C : APTQ,
+
+1 Box &= .....
+
+1 x 7 Boxes &= ......
+
+
+
+For $7$ boxes of eggs, I will pay $=....$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -897,8 +1037,17 @@ $\pounds 14,000$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+APTQ;
+
+Total earning = (No. of games x pounds 500 ) + (2 x No. of games x pounds 100)
+
+= (20 x 500) + (2 x 20 x 100) 
+
+no commas in figures. change in blue answer also.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -987,8 +1136,23 @@ $9$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Move down APTQ;
+
+Lets take the number Verity thinks of $=a$ 
+
+APTQ, delete \"then\"
+
+a x 7 + 8 = 71
+
+solve for a as you did.. 
+
+remove box 
+
+The number Verity thought of $=..$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1073,8 +1237,21 @@ $36 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete teh text in start directls Start with katex
+
+formula (use \text) no need to use variable use \"height\".
+
+then substitute with right units (cm) in this step.
+
+solve further without units.
+
+height = ..... use space before cm and that in \text{cm}
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1162,8 +1339,31 @@ $0.007$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Solved wrong
+
+Start katex
+
+Put in one katex and use & and aligned...check your katex properly.. \\
+
+repeat question,
+
+then 
+
+0.627 = 0.6 + 0.02 + Missing number
+
+Missing number = 0.627 - (0.6+0.02)
+
+= 0.627 - 0.62
+
+= 0.007
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1289,8 +1489,35 @@ $6, 10, 14$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+Halid adds the same amount each time. The difference between the consecutive terms of the sequence is always same. 
+
+
+
+Lets take the amount $=a$. Hence......
+
+delete a = 16/4
+
+delete As per the squence.
+
+After a = 4 
+
+The amount Halid adds = 4 
+
+Delete from First missing ..... 14
+
+Instead 
+
+Put a last line. Hence the sequence would be: 
+
+Present the sequence and underline under the missing number... show also (+4)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1397,8 +1624,25 @@ Alysha has $6 \ \text{Biscuits}$, Juilia has $8 \ \text{biscuits}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change your answering.
+
+Let the number of biscuits Juilia has $=a$
+
+APTQ,
+
+Biscuits (Alysha) + Biscuits (Julia) = Total Biscuits
+
+(a + 2) + a = 14 (solve further).
+
+No. of biscuits Julia has $=6$
+
+No. of biscuits Alysha has =2 + a (Solve)
+
+ In blue answer : Alysha has ..... Julia has ......
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1494,8 +1738,13 @@ $4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+thinks to thought of.. Let the number Jemma thinks = a
+
+Jemmas number = 4
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1596,8 +1845,11 @@ $8 \ \text {oranges}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+in blue answer : 8 oranges
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1693,8 +1945,11 @@ $16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+After step 3 calculated wrong . you changed the x to + . So solve again. answer should be 16
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1803,8 +2058,35 @@ $11 \text{p}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Lets take apple = a 
+
+
+
+and lets take banana = b
+
+
+
+As per the question,
+
+
+
+3a + 1 b = 32p &Or  1b = 32 - 3a
+
+
+
+create second equation like above.
+
+then 
+
+
+
+32 - 3a = 53 - 6a... then solve further for a 
+
+after finding a .. then substitute it in one of the equation and get b..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1907,8 +2189,43 @@ $91, 16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Creat 2 subquestions, and put these two question separately. 
+
+
+
+Let the missing number = a
+
+
+
+Referr UUID : C76E1065-14BA-460E-A654-A168F4BE4BAA for presentation of answer.
+
+a + 121 &= 212
+
+a &= ......
+
+(i remember telling you to use missing number. i understood uday wrong i think. sorry)
+
+align your steps on &=  write in blue answer as well.
+
+No need to put the repeatation of question in boxed form in answer.workings.
+
+
+
+
+
+2nd part.
+
+6 x a &= 96
+
+a &= 96/6 solve further.. 
+
+
+
+No need to put the repeatation of question in boxed form in answer.workings.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2002,8 +2319,23 @@ $16 \ \text {seconds}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put time take by jess also in katex .
+
+add after that Time taken by Jo &= 18 seconds - 6 seconds
+
+Time take by Mary (not Mari) &= Time taken my Jo + 4 seconds
+
+&= 18 - 6 + 4
+
+&= 16 seconds.
+
+
+
+so make changes also in blue answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2094,8 +2426,27 @@ $17 \ \text {p}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+simple treat this like you are doing a subtraction .. 
+
+  1 apple + 2 orrange = 48 p
+
+-  .......................... = 31 p
+
+\uline          
+
+                 1 orange = 17 p
+
+
+
+delete your answer.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2207,8 +2558,55 @@ $\pounds 1.8, \pounds 1.4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Solve other way around. 
+
+
+
+Let the money A has = a
+
+.....................J        = b
+
+
+
+As per the question, at the end they have same amount. So at the end, 
+
+
+
+a + b = £3. 20
+
+a + a = 3.20 
+
+2a =....
+
+a = .../ .....
+
+a = £1.60
+
+
+
+Alysha gave Julia 20 \text{p} 20 p. So at start,
+
+
+
+a + b = £3. 20
+
+£1.60 + 0.20 p + b =  £3. 20
+
+b = ....
+
+
+
+
+
+At the start, 
+
+The money Al... had =  £1. 80 
+
+....
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2301,8 +2699,15 @@ $5$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+I not i
+
+
+
+last sentence :  My original number = 5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

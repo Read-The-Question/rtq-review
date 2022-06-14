@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2014-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2014 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $7134$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $2745$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $6055$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -359,6 +362,7 @@ $37, 38$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -443,6 +447,7 @@ $2080$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -525,6 +530,7 @@ $3.564$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -668,6 +674,16 @@ $60$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove the capital letter
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -758,6 +774,12 @@ $0.80$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change answer to 0.8
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -845,6 +867,7 @@ $52$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1032,6 +1055,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1237,6 +1261,7 @@ $- 17 \degree \ \text {C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1318,6 +1343,7 @@ $140.4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1404,6 +1430,7 @@ $20 \ \text {years} \ 9 \ \text {months}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1902,6 +1929,7 @@ $\text {Prime numbers}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2062,6 +2090,7 @@ $\pounds 3.95$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2310,6 +2339,7 @@ $26$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2397,6 +2427,7 @@ $\pounds 52.2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2999,6 +3030,7 @@ $3000 \ \text {pence}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4086,6 +4118,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4340,6 +4373,7 @@ $24$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $5231$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -192,6 +193,7 @@ $8352$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -332,6 +334,7 @@ $2 \times 2 \times 2 \times 7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -406,6 +409,7 @@ $\text {Money left} = \pounds (330 - X)$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -544,6 +548,12 @@ $18$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+No. of veg.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -631,6 +641,7 @@ $36$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -715,6 +726,7 @@ $67737$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -803,6 +815,7 @@ $\pounds 1158$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -912,6 +925,7 @@ $30 \ \text {cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1012,6 +1026,22 @@ $4$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Introduce a new answer answer.workings. 
+
+
+
+4 r = 3 c
+
+ = 2 c + 1 c
+
+= 4 p + 2 p 
+
+= 6 p
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1103,6 +1133,7 @@ $48$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1250,6 +1281,7 @@ $704$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1524,6 +1556,7 @@ $27 \ \text {minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1647,6 +1680,7 @@ Guy $=$ $27 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

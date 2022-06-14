@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-2"
 title: "TopicPaper - Algebra - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -971,9 +971,7 @@ $265 \ \text{girls}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1887,9 +1885,7 @@ $\pounds 10.08$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2275,9 +2271,7 @@ $0$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2404,9 +2398,7 @@ $1,6,21,20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2902,9 +2894,7 @@ $\text {Money left} = \pounds (330 - X)$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2993,9 +2983,7 @@ $\pounds 1158$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3097,8 +3085,21 @@ $4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Introduce a new answer answer.workings. 
+
+
+
+4 r = 3 c
+
+ = 2 c + 1 c
+
+= 4 p + 2 p 
+
+= 6 p
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3526,9 +3527,7 @@ $7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -110,8 +110,13 @@ $2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Add S1 with of, Remove 1 in S2 S3 and S4
+
+Part b) Remove 1s in S3, Missing enter
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -244,9 +249,7 @@ $\dfrac {5} {8}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -388,9 +391,7 @@ $630$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -485,8 +486,11 @@ $\dfrac {9} {4}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove description, in S5 change 4 to 2 x 2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -807,8 +811,15 @@ $14$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change workings and use 62EBBCE2-9848-414A-BC40-2347F24A0383
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1005,8 +1016,11 @@ $\dfrac {11} {4}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change answer to mixed fraction and add step at the end
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1271,8 +1285,13 @@ $1 \ \dfrac {7} {24}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b) Wrong workings add factors in, wrong answer
+
+Part d) Use LCM in S3 and update other workings accordingly
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1446,8 +1465,11 @@ $11.025$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+All parts Add S1 with of
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1592,8 +1614,13 @@ $25 \%$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Remove LHS, Part b) Find percentage for chickens not
+
+ducks
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1959,9 +1986,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2102,8 +2127,15 @@ $\dfrac {-9} {28}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+S2 dont multiply by 1 on 3/8
+
+S5 alignment issue take minus out of dfrac
+
+Answer take minus out of dfrac
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2276,8 +2308,13 @@ $2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove 1 in S2
+
+S3 wrong factors
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2514,8 +2551,13 @@ $\dfrac {20} {25}, \dfrac {16} {20}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change sentences to When the numerator is 20 and When
+
+the denominator is 20, Remove as per the question
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2600,9 +2642,7 @@ $12$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2776,8 +2816,13 @@ $24$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b) Add step after S2 saying 3 x 28 / 4
+
+Part c) Add step after S2 saying 3 x 40 / 5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2915,9 +2960,7 @@ $0.35$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3053,9 +3096,7 @@ $\dfrac {27} {100}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3354,8 +3395,11 @@ $99$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add step after S1 saying 3/8 x 264
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3451,9 +3495,7 @@ $\dfrac {1} {15}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3549,8 +3591,11 @@ $\dfrac {13} {15}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+After S3: Add single num / den step
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4087,9 +4132,7 @@ $\dfrac {7} {16}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4233,9 +4276,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4377,8 +4418,11 @@ $\dfrac {3} {4}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add S1 with of
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4464,8 +4508,11 @@ $\dfrac {1} {2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change to 1/2 (3/7 + 4/7) and update workings accordingly
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

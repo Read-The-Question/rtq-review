@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-oldpr"
 title: "TopicPaper - Number - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:50:05
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,9 +146,7 @@ $11$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -324,9 +322,7 @@ $0.4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -424,8 +420,11 @@ Test $1$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+CODING GUIDELINES..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -580,9 +579,7 @@ $0.575$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -672,8 +669,11 @@ Five Tenths
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+delete   add full stop. in answer key t in tenths small
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

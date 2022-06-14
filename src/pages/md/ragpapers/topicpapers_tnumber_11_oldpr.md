@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-11-oldpr"
 title: "TopicPaper - Number - 11 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -139,9 +139,7 @@ $15, -7$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -306,8 +304,11 @@ $72, 86$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -384,8 +385,11 @@ $\text {Two hundred forty-three thousand six hundred \ km}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+out of katex and in wokings km2...and in blue answer... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -461,8 +465,11 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+text only not in katex
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -668,8 +675,13 @@ $687$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -754,8 +766,11 @@ $\text{Twenty one thousand one hundred seventy one}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+no array.. refer coding rules
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -839,8 +854,11 @@ $0.13$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+direct answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -928,8 +946,11 @@ $3, 7, 11$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+katex error
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1066,9 +1087,7 @@ $90$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

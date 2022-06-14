@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -62,6 +62,7 @@ $849$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -147,6 +148,12 @@ $7113$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove line underneath
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -229,6 +236,12 @@ $
 $2376$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
 
 <div class='review'>
@@ -364,6 +377,7 @@ $30297$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -443,6 +457,7 @@ $-8 \degree C$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -519,6 +534,7 @@ $\text {E, \ D, \ Z}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -763,6 +779,7 @@ $27, \ 81$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -913,6 +930,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -993,6 +1011,7 @@ $1.25$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1075,6 +1094,7 @@ $31 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1165,6 +1185,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1326,6 +1347,7 @@ $18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1415,6 +1437,7 @@ $18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1566,6 +1589,7 @@ $5 - 5 = 4 - 4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1724,6 +1748,7 @@ $20 \ \text{cm} ^ 2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2189,6 +2214,7 @@ $3124, \ 3214, \ 3412, \ 3142$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2344,6 +2370,7 @@ $11$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2437,6 +2464,7 @@ $0{:}1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2534,6 +2562,7 @@ $4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2680,6 +2709,12 @@ $
 $3, \ 8, \ 2, \ 6$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -2945,6 +2980,7 @@ $26748$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3090,6 +3126,7 @@ $18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

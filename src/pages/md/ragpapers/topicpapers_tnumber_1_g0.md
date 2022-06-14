@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0"
 title: "TopicPaper - Number - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:50:05
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9D649605-D139-478F-BB54-746029DB4066</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-14 12:26:03
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -55,7 +55,7 @@ $60 - \ldots = 43$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be 'a'
+Let the missing  number $= a$
 
 $
 \begin{aligned}
@@ -64,9 +64,6 @@ $
 a       &= 17
 \end{aligned}
 $
-
-$60 - \underline{\green
-{17}} = 43$
 
 </div>
 </div>
@@ -90,7 +87,7 @@ $\ldots \times 40 = 280$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be 'a'
+Let the missing  number $= a$
 
 $
 \begin{aligned}
@@ -101,10 +98,6 @@ a           &= \dfrac{7 \times \cancel{40}}{\cancel{40}} \\\\
 a           &= 7 
 \end{aligned}
 $
-
-$\underline{\green
-{7}} \times 40 = 280$
-
 
 </div>
 </div>
@@ -128,7 +121,7 @@ $\ldots \div 30 = 5$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be 'a'
+Let the missing  number $= a$
 
 $
 \begin{aligned}
@@ -137,9 +130,6 @@ a         &= 5 \times 30 \\\\
 a         &= 150
 \end{aligned}
 $
-
-$\underline{\green
-{150}} \div 30 = 5$
 
 </div>
 </div>
@@ -163,7 +153,7 @@ $-8 + \ldots = -1$
 <div class='workings'>
 <div class='working'>
 
-Let the missing number be 'a'
+Let the missing  number $= a$
 
 $
 \begin{aligned}
@@ -172,9 +162,6 @@ a      &= -1 + 8 \\\\
 a      &= 7
 \end{aligned}
 $
-
-$-8 + \underline{\green
-{7}} = -1$
 
 </div>
 </div>
@@ -190,8 +177,15 @@ $7$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Not following the coding guidelines for simple algebra.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -226,7 +220,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4624AA36-41A6-4B3C-B4F2-11671F5E0925</p>
 </div>
@@ -237,7 +231,7 @@ $7$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -276,8 +270,12 @@ $100 \times 2.8 = \ldots$
 <div class='workings'>
 <div class='working'>
 
-$100 \times 2.8 = \underline{\green
-{280}}$
+$
+\begin{aligned}
+&= 100 \times 2.8  \\\\
+&= 280
+\end{aligned}
+$
 
 </div>
 </div>
@@ -359,9 +357,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -396,7 +392,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2</p>
 </div>
@@ -407,7 +403,7 @@ $\dfrac {4} {5}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -451,11 +447,7 @@ Using BIDMAS,
 $
 \begin{aligned}
 &= 13 + 4 \div 2 \\\\
-&= 13 + \dfrac{4}{2} \\\\
-&=\dfrac{26 + 4}{2} \\\\
-&=\dfrac{30}{2} \\\\
-&=\dfrac{15 \times 2}{2} \\\\
-&=\dfrac{15 \times \cancel 2}{\cancel 2} \\\\
+&= 13 + 2 \\\\
 &= 15
 \end{aligned}
 $
@@ -520,7 +512,7 @@ $
 \begin{aligned}
 &= (-4 + 7)^3 \\\\
 &= (3)^3 \\\\
-&= 3 \times 3 \\\\
+&= 3 \times 3 \times 3 \\\\
 &= 27
 \end{aligned}
 $
@@ -538,9 +530,7 @@ $27$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -575,7 +565,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>269CAEB1-ECC7-4634-9068-42EF39354F2F</p>
 </div>
@@ -586,7 +576,7 @@ $27$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -709,7 +699,7 @@ How many more people live in Eckington than Bamford?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+As per the table,
 
 $
 \begin{aligned}
@@ -731,9 +721,7 @@ $7995$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -768,7 +756,7 @@ $7995$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CB985892-807A-481A-863E-243A882E5ED9</p>
 </div>
@@ -779,7 +767,7 @@ $7995$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -876,9 +864,7 @@ $492$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1017,6 +1003,19 @@ $\underline{\green
 {10}} \div 0.5 = 20$
 
 </div>
+<div class='working'>
+
+Let the missing  number $= a$
+ 
+$
+\begin{aligned}
+a \div 0.5  &= 20 \\\\
+a           &= 20 \times 0.5 \\\\
+a           &= 10
+\end{aligned}
+$
+
+</div>
 </div>
 <div class='answers'>
 <div class='answer'>
@@ -1054,9 +1053,7 @@ $9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1138,9 +1135,7 @@ $91, 350$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1218,9 +1213,7 @@ $14036$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1396,9 +1389,7 @@ $8$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1550,9 +1541,7 @@ $0.2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1730,9 +1719,7 @@ $9, 49$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1822,9 +1809,7 @@ $80$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1915,9 +1900,7 @@ $333$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2006,9 +1989,7 @@ $13$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2101,9 +2082,7 @@ $-16$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2178,9 +2157,7 @@ $8521$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2260,9 +2237,7 @@ $-43$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2344,9 +2319,7 @@ $13$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2432,9 +2405,7 @@ $11$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2615,9 +2586,7 @@ $50$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2710,9 +2679,7 @@ $7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2799,9 +2766,7 @@ $nine tenths$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2893,9 +2858,7 @@ $24$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2975,9 +2938,7 @@ $59757$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

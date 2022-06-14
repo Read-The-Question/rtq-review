@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-3"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -247,6 +247,16 @@ $8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+part c align
+
+PArt d delete % in step 1
+
+part e  cancel step missing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -896,6 +906,7 @@ $- 280$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1211,6 +1222,7 @@ $576 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1395,6 +1407,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1625,6 +1638,7 @@ $176.4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1762,6 +1776,7 @@ $0$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

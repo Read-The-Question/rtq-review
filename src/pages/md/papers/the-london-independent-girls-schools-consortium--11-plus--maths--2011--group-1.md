@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $13602$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $5745$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $22352$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -354,6 +357,12 @@ $
 $0, 0, 1, 1$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+align on &=
 </div>
 
 <div class='review'>
@@ -498,6 +507,7 @@ $15$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -575,6 +585,7 @@ $36$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -668,6 +679,7 @@ $0.4, \dfrac {3} {8}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -741,6 +753,7 @@ $20306$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -856,6 +869,12 @@ $25, 15$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+alignments
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -949,6 +968,7 @@ $6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

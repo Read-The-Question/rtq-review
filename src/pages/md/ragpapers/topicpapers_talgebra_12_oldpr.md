@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-12-oldpr"
 title: "TopicPaper - Algebra - 12 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -83,8 +83,51 @@ $6$ and $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+ Create two answers.. copy past toml structure 
+
+Refer UUID : CC0F7948-FB93-4B7D-B62E-499490AD2FB6 (for the trial and error method) and push your answer in the second answer.
+
+
+
+Change in your answers:
+
+Let the first number be $=a$ 
+
+and let the second number $= b$
+
+
+
+As per the question, 
+
+
+
+after a + b = 14 
+
+              b = 14 - a
+
+Lets....
+
+a x b = 48
+
+a x (14 -a) = 48
+
+solve further ... (but not with x substitute!)
+
+
+
+The two numbers are 6 and 8. 
+
+
+
+Lets check
+
+a + b = 6 + 8 = 14
+
+a x b = 6 x 8 = 48
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -182,8 +225,11 @@ $3, 12$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+check align &=
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

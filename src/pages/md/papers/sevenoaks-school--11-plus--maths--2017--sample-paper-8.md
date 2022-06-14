@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -272,6 +272,50 @@ $\pounds 7.95$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Do proper katex, i am just typing
+
+Change your answer
+
+
+
+Part A : 
+
+As per the question, 
+
+1 Donughnut &= £1.45
+
+1 x 12 Doughnuts &=  £1.45 x 12
+
+12 Doughnuts &=  £17.40
+
+Blue Answer : add \pounds
+
+
+
+Part B:
+
+Customer (Saving) &= Cost (Before deal) - Cost (Special deal)
+
+
+
+Ensure to line up the decimals.
+
+
+
+(nor solve here in array as you did) 
+
+
+
+Last line : Each customer saved $=£7.95$
+
+
+
+Blue Answer : add \pounds
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -562,6 +606,12 @@ $29, 40$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b difference is -4, part c+d  comma missign after first dots. Part d description missing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -705,6 +755,7 @@ $11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -872,6 +923,7 @@ $1600 \ \text {ml}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1332,6 +1384,12 @@ $12$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+take 24 in line 2 also out of text..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1421,6 +1479,12 @@ $
 $\pounds 40.8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to UUID : 7B238D76-DC32-4173-81A3-114829891742 and change your accordingly. Give both options as answer.
 </div>
 
 <div class='review'>
@@ -1571,6 +1635,54 @@ $83 \ \text {m} ^ 2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a:
+
+(i could not follow your calculations)
+
+
+
+Perimeter = Sum of all sides
+
+= 5m + (12m -7m)+ (9m - 5m) + 12m + 9m + 7m
+
+= 5m + 5m+4m + 12m + 9m + 7m
+
+=42m
+
+=  (please put unit ) m (without any space before m but in \text)
+
+
+
+Remove \\  (in last line of katex no spacing)
+
+Blue answer also put m 
+
+
+
+Part B: (i could not follow your calculations)
+
+
+
+On decomposing the shape of the garden, we find  2 regular rectangles.
+
+
+
+Area of the garden &= First Rectangle (length x width) + Second rectangle ( length x width)
+
+= (7m x 5 m) + (12m x (9m - 5m))
+
+=  (7m x 5 m) + (12m x 4m)
+
+= 35m^2+48m^2
+
+= 83m^2
+
+Change blue answer accordingly.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1723,6 +1835,50 @@ $2.5 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A
+
+delete \"the\" Volume of a cube =  (side)^3
+
+&= 5 x 5 x 5
+
+&= 125 \text{cm} ^ 3  ( put one more space before cm . Any double alphabet unit then put space before.
+
+
+
+Part B
+
+
+
+Volume of cuboid = length x width x height
+
+As per the question, 
+
+Volume of cuboid = Volume of cube
+
+ 10 x 5 x height = 125 \text{cm} ^ 3
+
+ height = 125 / 10 x 5
+
+= 5 x 5 x 5 / 2 x 5 x 5 (write this way please) 
+
+= then cancel the above.
+
+= 5 / 2
+
+= 2 1 / 2
+
+= 2.5 \ \text {cm} (take care of the spacing)
+
+Change spacing also in blue answer.
+
+
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1879,6 +2035,7 @@ $36 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2081,6 +2238,7 @@ $450 \ \text {seconds}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,6 +66,7 @@ $11502$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -155,6 +156,7 @@ $2709$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -242,6 +244,7 @@ $43771$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -382,6 +385,7 @@ $\dfrac{2}{5}, \quad \dfrac{1}{2}, \quad \dfrac{5}{8}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -465,6 +469,7 @@ $18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -637,6 +642,7 @@ $48$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -724,6 +730,7 @@ $1.009$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -821,6 +828,12 @@ A quick check shows that $9$ and $4$ meets the criteria above.
 $4, 9$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+make in into 1 answer
 </div>
 
 <div class='review'>
@@ -1053,6 +1066,7 @@ $0, 1$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1298,6 +1312,7 @@ $9$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

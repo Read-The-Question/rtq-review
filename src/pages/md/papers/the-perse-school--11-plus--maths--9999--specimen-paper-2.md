@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-2"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -52,6 +52,7 @@ $63,401$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -135,6 +136,7 @@ $70, 5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -222,6 +224,7 @@ $8$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -304,6 +307,7 @@ $2500$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -473,6 +477,7 @@ $584$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -701,6 +706,7 @@ $D$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -916,6 +922,7 @@ $10, 12, 15$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1032,6 +1039,30 @@ First line : $5^2 + 11 = 36$
 Second line : $6^2 + 13 = 49$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the question, the number pattern looks like 
+
+
+
+(Sequence)...
+
+
+
+Put the dots in the squence shown properly and 2 times...and also +9 +11 and +13
+
+
+
+Secondline (put space) 
+
+
+
+Delete First line.....  49
+
+in blue answer after 36 \
 </div>
 
 <div class='review'>
@@ -1164,6 +1195,7 @@ $-6 \degree C$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1479,6 +1511,40 @@ $\pounds 2.08$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+To spend the smallest amount Ben needs to buy maximum possible pack of 5 bottles.
+
+
+
+Bottles needed = 17
+
+= 15 bottles + 2 bottles 
+
+= 3 x 5 pack + 1 x 2 pack
+
+
+
+Lets calculate the amount of money he needs to spend.
+
+
+
+Smallest amount he spends &= 3 x Cost of 5 packs + 1 x Cost of 2 packs
+
+= 3 x 60p + 1 x 28p
+
+= 180p + 28p
+
+= 208p
+
+= £208/100
+
+= £2.08
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1576,6 +1642,12 @@ $44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 3
 No
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+c and d
 </div>
 
 <div class='review'>
@@ -1741,6 +1813,16 @@ The missing number $= 4$
 $4$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+delete be in Line 1
+
+
+
+LAst sentence : The missing number = 4
 </div>
 
 <div class='review'>
@@ -2060,6 +2142,28 @@ $568$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ,
+
+On planet Zog, all numbers are written in reverse order.
+
+So, 729−26
+
+=927−62
+
+=865
+
+
+
+​865 will be also written in reverse order = 568
+
+
+
+Change your bleu answer also.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2168,6 +2272,7 @@ $\text{Both are equal}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2259,6 +2364,32 @@ The number in the missing box $= 8$
 $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete \"be\" in Line 1
+
+
+
+Add after step 1
+
+a^3 =  2 x 256 
+
+a^3 = 4 x 128 
+
+a^3 = 8 x 64 
+
+a^3 = 8 x 8x 8 
+
+a^3 = 8^3
+
+a = 8
+
+
+
+The number in the missing box = 8
 </div>
 
 <div class='review'>
@@ -2406,6 +2537,7 @@ $5.78$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2491,6 +2623,7 @@ $161$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

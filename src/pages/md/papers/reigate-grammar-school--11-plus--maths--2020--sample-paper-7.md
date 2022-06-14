@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,6 +66,7 @@ $\pounds 4.30$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -168,6 +169,7 @@ $24 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -246,6 +248,7 @@ $\dfrac {7} {1000}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -335,6 +338,7 @@ $1440 \ \text{minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -419,6 +423,7 @@ $19 \degree \text{C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -506,6 +511,7 @@ $576$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -645,6 +651,16 @@ $\dfrac {6} {7}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Both questions remove 1 where not required
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -726,6 +742,16 @@ $
 $\dfrac {7} {4}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Wrong it is - not multiplication
+
+
+
+Change to mixed fraction 1 3 /4/
 </div>
 
 <div class='review'>
@@ -812,6 +838,7 @@ $-4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -894,6 +921,7 @@ $9{:}02 \ \text{am}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1227,6 +1255,12 @@ $105 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+part b formula ..katex error.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1443,6 +1477,12 @@ $40 \degree$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE put ° in first step please
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1542,6 +1582,12 @@ $92 \ \text{m}^{2}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Length of path change to  Width of path 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1638,6 +1684,22 @@ $
 $\pounds 32$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Money Martin have + Money Gary have = Total money
+
+
+
+delete LetS calculate.....
+
+take Money Gary also in below katex.
+
+Money Martin have = \pounds 19 + 13 
+
+= ...
 </div>
 
 <div class='review'>
@@ -1885,6 +1947,20 @@ $
 $23$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+In question pelase change cares to cars 
+
+
+
+take brackets out 
+
+
+
+Cars neither red or blue = Total cards - Red cars - Blue cars
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $1725$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $249$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $104$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -305,6 +308,12 @@ $
 $9165$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
 
 <div class='review'>
@@ -576,6 +585,24 @@ $52$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part B :
+
+
+
+As per the bar chart, 
+
+inside katex = Crips - Biscuits (rest is then correct)
+
+
+
+Part C:
+
+As per the bar chart, 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -729,6 +756,22 @@ $\text {Octagon}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+@UP. katex text or outside katex. ?? Caps all or normal?
+
+looks to me as Rhombus, but parall... is also correct both or 1 answer. 
+
+Eschudi. after solving please change this answer to PRBD
+
+_______________________________________________
+
+Please change first answer as 
+
+Rhombus or Parallelogram (change blue answer also)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -866,6 +909,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1035,6 +1079,7 @@ $3000\ text {ml}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1119,6 +1164,7 @@ $11\degree C$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1279,6 +1325,7 @@ $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1455,6 +1502,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1580,6 +1628,20 @@ $\text {Obtuse angle is any angle greater than 90 \degree but less than 180 \deg
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+@UP. katex text or outside katex. ?? Caps all or normal?
+
+looks to me as Rhombus, but parall... is also correct both or 1 answer. 
+
+Eschudi. after solving please change this answer to PRBD
+
+_______________________________________________
+
+Please change : Ob......an angle greater than 90° but less than 180° (change blue answer also)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1751,6 +1813,7 @@ $43, 37$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2023,6 +2086,7 @@ $9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2114,6 +2178,7 @@ $33600$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2229,6 +2294,7 @@ $\pounds 2.6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2312,6 +2378,14 @@ $
 $6.7$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+refer E127726D-DDB2-4A3F-99BF-CFACF66B8527
+
+6.7 goals (in blue answer too)
 </div>
 
 <div class='review'>
@@ -2464,6 +2538,7 @@ $7000$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2697,6 +2772,7 @@ $73 \degree, 107 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3007,6 +3083,7 @@ $156$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3101,6 +3178,7 @@ $63 \text{m}^2, 32 \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3197,6 +3275,7 @@ $30 \ \text{cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3369,6 +3448,7 @@ $\dfrac {13} {18}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3509,6 +3589,7 @@ $29$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3590,6 +3671,7 @@ $4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3679,6 +3761,16 @@ My number is $8$.
 $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As per the figure, the shape is divided into two equal triangles. 
+
+Then start katex
+
+Area of full shape = 2 x (Area of 1/2 Triangle) (fit your calculations accordingly)
 </div>
 
 <div class='review'>
@@ -4082,6 +4174,7 @@ $96 \ \text{g}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4174,6 +4267,7 @@ $23$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

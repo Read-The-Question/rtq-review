@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -52,6 +52,7 @@ $300407$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -133,6 +134,7 @@ $941$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -216,6 +218,12 @@ $
 $29260$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -372,6 +380,7 @@ $69$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -467,6 +476,7 @@ $3.872$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -548,6 +558,7 @@ $\dfrac{16}{25}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -658,6 +669,7 @@ $33\%$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -755,6 +767,7 @@ $3$ hours $5$ minutes
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -851,6 +864,7 @@ $80$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -942,6 +956,7 @@ $27 \ \text{zebras}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1060,6 +1075,7 @@ $60 \ \text{cm}^{2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1146,6 +1162,7 @@ $5.4 \ \text{m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1266,6 +1283,7 @@ $\pounds 25.50$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1362,6 +1380,7 @@ $20$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1448,6 +1467,7 @@ $\dfrac { 11 } {  20 }$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1571,6 +1591,7 @@ $
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1667,6 +1688,7 @@ $24 \text{p}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1806,6 +1828,7 @@ $18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1927,6 +1950,7 @@ $15$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

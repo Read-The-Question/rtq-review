@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -447,9 +447,7 @@ $360 \ \text{ml}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1825,9 +1823,7 @@ $\pounds 2500$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3640,9 +3636,7 @@ $0.026 \ \text {g}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

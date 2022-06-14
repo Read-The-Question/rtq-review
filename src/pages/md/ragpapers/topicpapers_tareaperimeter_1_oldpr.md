@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,9 +66,7 @@ $8 \ \text{mm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -191,9 +189,7 @@ Length $= 9 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -309,8 +305,11 @@ $32$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+step 1: side x side                                                                 end answer: remove space
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -398,8 +397,41 @@ $15$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Units missing
+
+write description properly,
+
+
+
+use language something like this
+
+
+
+$
+
+\begin{aligned}
+
+\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\
+
+                                            &= \dfrac {20000} {40} \\
+
+                                            &= 500
+
+\end {aligned}
+
+$
+
+
+
+dfrac is broken
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -495,9 +527,7 @@ $3 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -606,9 +636,7 @@ $30 \ \text {cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

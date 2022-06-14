@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -58,6 +58,7 @@ $1085$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -132,6 +133,7 @@ $36043$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -212,6 +214,7 @@ $744$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -297,6 +300,7 @@ $3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -379,6 +383,7 @@ $\pounds 2.20$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -470,6 +475,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -573,6 +579,7 @@ $28 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -716,6 +723,7 @@ $\pounds 104.50$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -887,6 +895,7 @@ $\dfrac {22} {25}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -980,6 +989,7 @@ $21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1119,6 +1129,7 @@ $0.125$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1201,6 +1212,7 @@ $\pounds 7.30$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1280,6 +1292,7 @@ $1044$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1421,6 +1434,20 @@ $\dfrac {3} {2}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in both questions where not required
+
+
+
+Remove 1 in both questions where not required
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1503,6 +1530,16 @@ $
 $\dfrac {27} {8} \ \text{or} \ 3 \dfrac {1} {8}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop 27/8 in the answer. 27/8 is wrong anyway.
 </div>
 
 <div class='review'>
@@ -1590,6 +1627,16 @@ $
 $\dfrac {17} {2} \ \text{or} \ 8 \dfrac {1} {2}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop improper fraction 17/2 in the answer.
 </div>
 
 <div class='review'>
@@ -1738,6 +1785,7 @@ $53.71$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1881,6 +1929,7 @@ $33$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2110,6 +2159,7 @@ $7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2193,6 +2243,7 @@ $3{:}18 \ \text{pm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2274,6 +2325,7 @@ $36$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2415,6 +2467,7 @@ $3 \ \text{hours} \ 4 \ \text{minutes or} \ 184 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2623,6 +2676,7 @@ $8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2839,6 +2893,7 @@ $55 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2983,6 +3038,7 @@ $6 \ \text{km}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3090,6 +3146,7 @@ Height $= 35 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3181,6 +3238,7 @@ $36$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3430,6 +3488,7 @@ $24$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3675,6 +3734,7 @@ $7 \ \text{or} \ -4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-5"
 title: "TopicPaper - Simpleword - 5"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -160,9 +160,7 @@ $4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -256,9 +254,7 @@ $\text{Smallest} = 2002$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -348,9 +344,7 @@ $64$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -518,8 +512,27 @@ $230$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+APTQ,
+
+Not Purple &= Total chocolates - Purple Ones
+
+& = 250 - 8% x 250
+
+= 250 - 8/100 x 250
+
+= 250  - 2 x 4 x 25 x 10   / 4 x 25 
+
+= 250 - cancel ... 
+
+= 250 - 2 x 10
+
+= 250 - 20
+
+= 230
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -612,8 +625,11 @@ $220$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -701,9 +717,7 @@ $68$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -835,9 +849,7 @@ $9$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1017,9 +1029,7 @@ $156$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1127,9 +1137,7 @@ $96 \ \text{g}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1214,8 +1222,15 @@ $8.85 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question,  (Now onwards refered to as APTQ in my reviwes)
+
+(Start katex) 
+
+String (Remains) &= Sting (Total) - String (Cut) (solve accordingly)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1362,8 +1377,29 @@ $100 = 9100$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : Start with APTQ, Start katex 
+
+$
+
+1 Jet = 324 Passengers
+
+1 x 28 = 324 x 24
+
+$
+
+
+
+Now the normal multiplication in array. Delete the leftmost & from the whole array. that is why the alignment isnt correct.
+
+No. of passengers that could be transported by a fleet of $28$ jumbo jets $=....$ passengers.
+
+Part B : The answer is wrong 
+
+$9072$ rounded of to nearest $100 = 9100$ Change blue answer as well. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1454,8 +1490,33 @@ $60 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+First line is correct. after that add
+
+
+
+As the answer is to be given in cm, lets convert all measurements into cms.
+
+
+
+As per the question,
+
+$
+
+Total Width = First (Section) + Second (Section) + Third (Section)
+
+= 30 cm + 1.5 m + 150 mm
+
+= 30 cm + 1.5 x 100 cm + 150 / 10
+
+= slove teh multiplicaiton and cancel the zeros
+
+= all in cm..
+
+=then answer. Remember to give space before cm and it goes in \text{cm}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1606,8 +1667,41 @@ $\dfrac{1}{3}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+APTQ
+
+First katex
+
+Cost of Shoes = 1 / 3 x cost of dress
+
+= 1/ 3 x 1/2 x 120 
+
+= 1 / 6 x 120
+
+
+
+Second katex 
+
+Money (Left) = Money (at Start) - Spend (for Dress + for Shoes)
+
+=  £120 - (1/2 x 120 + 1/6 x £120)
+
+= solve further ...
+
+= 120 - (60 + 20)
+
+pounds 40 not 40 pounds check in blue answer too.
+
+
+
+PArt B 
+
+Fraction of Amount (Left) = Money (Left) / Money (Total)
+
+= 40 / 120 solve..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1701,8 +1795,27 @@ $0.15 \ \text{grams}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+edit :  Total weight (Match box) - Weight (Empty box) rest ok....
+
+after 33/220 change to follwoing (20 x 4 is not 100!) 
+
+
+
+= 11 x 3 / 11 x 2 x 10 
+
+= cancel
+
+= 3/2 x 1 / 10
+
+=  1.5 / 10   
+
+= 0.15 grams
+
+blue answer 0.15 grams
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1790,8 +1903,25 @@ $72$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Line 1 correct:
+
+Line 2 . Delete after first sentence.
+
+Line 3. Lets find multiples of 8 that are also divisible by 3 
+
+
+
+= 24, 48, 72
+
+
+
+Multiple of 8 that is also divisible by 3, and ends in 2 = 72
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1887,8 +2017,25 @@ $27$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+brought = bought
+
+
+
+put the total pens / pers epr pack in katex text.
+
+= reduce 70 and 8
+
+= cancel
+
+= 105/4
+
+then mixex fraction 
+
+Packs of pen that needs to be bought is 26 whole packets and 1 more packet for the remainder 1 pen = 27
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1985,8 +2132,25 @@ $\pounds 7.04$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question,
+
+
+
+Total cost = Cost per person per km x No. of kilometers.
+
+
+
+start katex
+
+
+
+Check katex add \begina and end align
+
+put the tex part step 1 in katex\text
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2072,9 +2236,7 @@ $45, 53$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2161,8 +2323,15 @@ $27$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+put in katex \text the first line.
+
+sarah is not included in your count. including sarah its 18 people show that with + Sarah
+
+change your answer accoridngly...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2256,8 +2425,11 @@ $\dfrac{13}{20}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Dont add it directly check :- 463FC7C1-89CB-4E9D-8F0D-F8AF481D1C7B   edit: please check the uuid mentioned above (1/4 + 2/5 = (1 x 5)/(4 x 5) + (2 x 4)/(5 x 4) and solve further
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2346,9 +2518,7 @@ $4 \ \text{hrs} \ \ 10 \ \text{mins}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2430,9 +2600,7 @@ $1000$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2519,8 +2687,11 @@ $33.6 \ \text{m}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2700,9 +2871,7 @@ $34$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2786,9 +2955,7 @@ $23$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2927,9 +3094,7 @@ $2523 \ \text{feet}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3308,9 +3473,7 @@ $\pounds 46200$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3414,8 +3577,11 @@ $70 \ \text{hours}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+check alignment and remove extra spaces
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3499,9 +3665,7 @@ $19$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3594,9 +3758,7 @@ $111 \text{ kg}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3788,9 +3950,7 @@ $13, 4$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3874,9 +4034,7 @@ $\pounds 92320$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4123,9 +4281,7 @@ $204$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

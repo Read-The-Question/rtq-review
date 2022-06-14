@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2013-sample-paper-1"
 title: "Bancrofts School - 11 Plus - Maths - 2013 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -232,6 +232,7 @@ $1$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -314,6 +315,7 @@ $4838$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -392,6 +394,7 @@ $59757$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -476,6 +479,7 @@ $23115$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -708,6 +712,7 @@ $\pounds 14$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -993,6 +998,7 @@ $360 \ \text{ml}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1086,6 +1092,7 @@ $64 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

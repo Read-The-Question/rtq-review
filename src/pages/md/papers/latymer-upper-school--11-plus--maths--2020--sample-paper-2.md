@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -70,6 +70,7 @@ $69977$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -167,6 +168,7 @@ $3648$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -272,6 +274,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -431,6 +434,7 @@ $184$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -524,6 +528,7 @@ $35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -625,6 +630,7 @@ $8$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -725,6 +731,7 @@ $99$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -813,6 +820,7 @@ $12{:}28 \ \text {pm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -917,6 +925,7 @@ $45$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1009,6 +1018,12 @@ $
 $\dfrac {13} {15}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+After S3: Add single num / den step
 </div>
 
 <div class='review'>
@@ -1113,6 +1128,7 @@ $41 \ \text {cm}^2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1208,6 +1224,7 @@ $\pounds 3.63$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1429,6 +1446,7 @@ $1400 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1532,6 +1550,7 @@ $20$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1637,6 +1656,7 @@ $14 \ \text {cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1810,6 +1830,7 @@ $64$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1990,6 +2011,7 @@ $73$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2613,6 +2635,7 @@ $14$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2697,6 +2720,7 @@ $70 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

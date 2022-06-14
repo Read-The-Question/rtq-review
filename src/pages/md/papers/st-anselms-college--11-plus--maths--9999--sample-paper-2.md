@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -145,6 +145,7 @@ $18, 36, 54, 72$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -419,6 +420,22 @@ $\pounds {36.60}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A:
+
+Total cost = No. of items x Cost of item
+
+= as you did but answer is 36.60
+
+but for money also write 2 digits after decimal. £26.60 same in blue answer.
+
+Part B:
+
+36.6 isn workings and in blue answer... (calculator does to show pounds and extra zero digits.)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -555,6 +572,20 @@ $0.078 \ \text{m}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Show working
+
+Part a. 7.8 cm = 7.8 mm x 10
+
+= .... 
+
+Part b. 
+
+same change... 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -637,6 +668,7 @@ $115  \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -787,6 +819,44 @@ $4$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt A :
+
+Let the number I think of = a (no comma after that)
+
+do step by step
+
+a x 9 = 101 + 7
+
+a = 108 / 9
+
+a = 12 x 9 / 9
+
+a = cancel
+
+a = 12
+
+Part B:
+
+Please check \"multiply the answer by 6\"
+
+x x 18 &= (x + 8) x 6 
+
+18x = 6x + 48 
+
+solve step by step
+
+x = 4 x 12  / 12
+
+ = then cancel 
+
+
+
+answer is 4 . please change blue answer also
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1064,6 +1134,7 @@ $122, 365$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1227,6 +1298,12 @@ $72, 86$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1355,6 +1432,12 @@ $\text {Cuboid}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+S and C capitals and change in blue answer too and out of katex..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1447,6 +1530,12 @@ Turning through $270 \degree$ clockwise, I will be facing $\text{North East}$
 $\text {North East}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
 
 <div class='review'>
@@ -1612,6 +1701,24 @@ $\text {White}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :
+
+As per the chart,
+
+No. of white cards that passed the gate = $13$ 
+
+PArt B :
+
+Total cars = Sum of cars of all colors
+
+= 65 . Change the blue answer also.
+
+Part C : Refer to the correctiosn done in similar question in previous paper.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1937,6 +2044,7 @@ $30 \%$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2026,6 +2134,12 @@ $
 $220$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
 
 <div class='review'>
@@ -2178,6 +2292,7 @@ $33.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2477,6 +2592,12 @@ $\pounds 42$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Cost in 1979...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2652,6 +2773,12 @@ $53$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

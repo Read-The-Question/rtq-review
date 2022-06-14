@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $2344$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $1686$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $26082$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -360,6 +363,7 @@ $60$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -463,6 +467,7 @@ $95, 191$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -603,6 +608,7 @@ $370$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -683,6 +689,7 @@ $\text {Two thousand nine hundred and sixteen}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -785,6 +792,7 @@ $19 \times 3 \ \quad  > \quad  28 \times 2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -868,6 +876,7 @@ $21 \degree \ \text {C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1018,6 +1027,7 @@ $14{:}35$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1097,6 +1107,7 @@ $72$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1190,6 +1201,7 @@ $11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1502,6 +1514,7 @@ $4325$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2011,6 +2024,7 @@ $2847.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2229,6 +2243,7 @@ $24$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2323,6 +2338,7 @@ $150$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2415,6 +2431,7 @@ $2 \ \text{minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2502,6 +2519,7 @@ $17$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2581,6 +2599,7 @@ $12.15$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2746,6 +2765,7 @@ $\text {Getting a head with a fair coin}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3154,6 +3174,7 @@ $\pounds 4000$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3414,6 +3435,7 @@ $14$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3574,6 +3596,7 @@ $8{:}08 \ \text {a.m.}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

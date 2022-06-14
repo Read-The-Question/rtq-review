@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -173,8 +173,15 @@ $60 \degree$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a 
+
+
+
+Line 3 : We know, the sum of a right angle is 90°.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -442,8 +449,11 @@ $38 \degree$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. (=  to be changed to is)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -580,9 +590,7 @@ $90 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -904,9 +912,7 @@ $28 \degree, \ 28 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1219,9 +1225,7 @@ $110 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1425,9 +1429,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1522,9 +1524,7 @@ $42$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1630,9 +1630,7 @@ $20 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1721,8 +1719,11 @@ $75 \degrees$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Write the line sum of angle = 180 .. search the line from website....wording required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1813,9 +1814,7 @@ $55 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1907,8 +1906,11 @@ $75 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE put ° in first step please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2000,8 +2002,11 @@ $40 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE put ° in first step please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2092,8 +2097,13 @@ $60 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Chagne lien 1. We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is 180°.
+
+Delte line 2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2212,9 +2222,7 @@ $15 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2312,9 +2320,7 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2471,9 +2477,7 @@ $36 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2639,8 +2643,71 @@ $105 \ \text {degrees}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As we know, the sum of angles in a triangle is 180°. So,
+
+
+
+As per diagram,
+
+
+
+Your katex step 1 , then 
+
+ a = 180 - 80 - 70
+
+= 30 °
+
+close katex
+
+
+
+Lets find angle marked $b$
+
+As we know, the sum of angles on a straight line is 180 \degree180°.
+
+
+
+As per the diagram,
+
+b = 180 - 70 
+
+=110 °
+
+
+
+In blue answer 
+
+a = 30° 
+
+b = 110°
+
+
+
+Part B:
+
+
+
+As we know, the sum of angles on a straight line is 180 \degree180°. So,
+
+
+
+As per the question,
+
+
+
+75 + c = 180
+
+c = 180 - 75 
+
+c = 105°
+
+In blue answer 
+
+= 105° 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2749,8 +2816,27 @@ $
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As we know, in a triangle the sum of two interior angles = the sum of opposite exterior angle. So,
+
+
+
+in part to find y
+
+As we know, change to (We also know, 
+
+
+
+x + y = 180°
+
+136 + y = 180
+
+y = ...
+
+y =44°
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2904,9 +2990,7 @@ $140 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3003,9 +3087,7 @@ $150 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3309,9 +3391,7 @@ $90 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3417,9 +3497,7 @@ $\text{angle Q}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3604,9 +3682,7 @@ $73 \degree, 107 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3697,9 +3773,7 @@ $58 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3797,9 +3871,7 @@ $56 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3900,9 +3972,7 @@ $85 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4005,8 +4075,11 @@ $190$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL in the website
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4106,9 +4179,7 @@ $136 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4339,8 +4410,21 @@ $30 \degree$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Pat A
+
+As per the diagram,
+
+
+
+Katex error in blue answer. 
+
+Part B
+
+show working for y = 30 ... y = 180/6......
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

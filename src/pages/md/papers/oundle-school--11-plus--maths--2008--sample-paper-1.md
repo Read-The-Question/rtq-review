@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $153$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $56$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -220,6 +222,12 @@ $
 $684$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -355,6 +363,7 @@ $20$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -431,6 +440,7 @@ $90009$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -512,6 +522,7 @@ $19$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -590,6 +601,7 @@ $7 \ \text{hours} \ 43 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -670,6 +682,7 @@ $1:10$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -749,6 +762,7 @@ $276 \text{seconds}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1030,6 +1044,7 @@ $13, \ 21$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1168,6 +1183,7 @@ $\dfrac {1} {4}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1249,6 +1265,7 @@ $600000$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1379,6 +1396,7 @@ $128$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1667,6 +1685,7 @@ $1012$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1872,6 +1891,12 @@ $600$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong answer written
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1948,6 +1973,7 @@ $34587$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2084,6 +2110,7 @@ $\text {Wednesday}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

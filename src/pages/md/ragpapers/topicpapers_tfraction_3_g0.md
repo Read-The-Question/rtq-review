@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-g0"
 title: "TopicPaper - Fraction - 3 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -54,8 +54,11 @@ $twenty-one over thirty-two$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Write answer withouth KATEX
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -247,8 +250,15 @@ $\dfrac{19}{10}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Write answer as mixed fraction and add step at the end
+
+Part c) Workings and answer are empty
+
+Part d) Workings not written
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -337,8 +347,11 @@ $\dfrac {3} {8}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove S1, Write LHS, Remove last sentence
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -427,8 +440,13 @@ $\dfrac {3} {8}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+KATEX hasnt worked completely on S3 and S4
+
+Remove last sentence
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -528,8 +546,19 @@ $\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove S1, Remove S7
+
+Remove the description
+
+Use previous answer to solve instead of writing 
+
+workings again
+
+Use separate TOML answers
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -622,8 +651,11 @@ $23$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove 1s in S3 where not necessary
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -719,8 +751,17 @@ $499.5$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop second working
+
+In first work drop S1
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -865,8 +906,11 @@ $160$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Remove S1, Remove 1 in S4
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1020,8 +1064,35 @@ $12$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
+
+
+
+Part a) Remove S1 Remove last line
+
+Part b) Remove 1st and 2nd line, Change to No. of rectangles = Fraction to be filled - Shaded rectangles, Remove last line
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1163,8 +1234,19 @@ $\dfrac {3} {2}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in both questions where not required
+
+
+
+Remove 1 in both questions where not required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1250,8 +1332,15 @@ $\dfrac {27} {8} \ \text{or} \ 3 \dfrac {1} {8}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop 27/8 in the answer. 27/8 is wrong anyway.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1340,8 +1429,15 @@ $\dfrac {17} {2} \ \text{or} \ 8 \dfrac {1} {2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop improper fraction 17/2 in the answer.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1485,8 +1581,17 @@ $\dfrac {9} {2}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) S4 write 3/4x2x3
+
+Both questions remove 1 where not required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1626,8 +1731,15 @@ $\dfrac {6} {7}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Both questions remove 1 where not required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1712,8 +1824,15 @@ $\dfrac {7} {4}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Wrong it is - not multiplication
+
+
+
+Change to mixed fraction 1 3 /4/
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1856,8 +1975,17 @@ $15$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Write units in last step and answer
+
+Part b) Remove £ in the first step, Change S6 to 3 x 5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

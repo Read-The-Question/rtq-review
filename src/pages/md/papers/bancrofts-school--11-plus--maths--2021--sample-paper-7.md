@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -253,6 +253,7 @@ $0$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -334,6 +335,7 @@ $6363$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -414,6 +416,7 @@ $7083$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -498,6 +501,7 @@ $15288$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -808,6 +812,7 @@ $\dfrac {1} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -976,6 +981,7 @@ $19$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1188,6 +1194,7 @@ $4 \ \text{hours} \ 05 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1726,6 +1733,7 @@ $8.3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1881,6 +1889,7 @@ $\dfrac {1} {3}, \quad \dfrac {5} {12}, \quad 0.5, \quad 75 \%, \quad \dfrac {5}
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1968,6 +1977,7 @@ $\pounds 10.08$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3139,6 +3149,7 @@ $240$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3296,6 +3307,7 @@ $50 \ \text{m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3470,6 +3482,7 @@ $2450$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-17-oldpr"
 title: "TopicPaper - Number - 17 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -174,8 +174,11 @@ $3 \dfrac {1} {2}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part e give space in subquestion after \"of\"
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -340,9 +343,7 @@ $7420$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -664,8 +665,23 @@ $0.09$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt c: {:} in answers too
+
+
+
+Part E : 867 will be 870 
+
+
+
+Part F : direct 5
+
+
+
+Part H: direct answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -750,9 +766,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -908,9 +922,7 @@ $146700$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1254,9 +1266,7 @@ $12$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1468,9 +1478,7 @@ $64$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

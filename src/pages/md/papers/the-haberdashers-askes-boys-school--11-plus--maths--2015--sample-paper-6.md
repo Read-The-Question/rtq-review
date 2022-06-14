@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $85$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,12 @@ $32$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong operator
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -220,6 +227,12 @@ $
 $196$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -304,6 +317,7 @@ $13$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -387,6 +401,7 @@ $\pounds 92320$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -466,6 +481,16 @@ $
 $\dfrac {3}{8}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in S2
 </div>
 
 <div class='review'>
@@ -554,6 +579,7 @@ $96 \ \text{minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -634,6 +660,7 @@ $1, 13, 65$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -776,6 +803,7 @@ One million millimetres
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1143,6 +1171,60 @@ $81 \text { cm}^2 $
 $44 \text { cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Create two subquestion+workings+answers. one for area and oen for perimeter.
+
+
+
+Changes in first part :
+
+Delete L2 and L3: First...... and LetS calculate.
+
+
+
+delete line 1 and do : As per the question,
+
+direct :
+
+4 x Side = Perimeter of a square
+
+4 x Side = 36 cm (space before cm)
+
+solve till end.
+
+
+
+Change text : Now lets calculate .. to Now, lets claculate the area of the square.
+
+
+
+ delete \"Area\" = 81 cm^2
+
+
+
+put Second part in 2nd subquestion...
+
+Use the text part as in above answer and change accordingly...
+
+Step 1 ok
+
+delete step 2
+
+Your present step 3 : ok
+
+then Side^2 = 11^2
+
+Side = 11 cm
+
+rest as per above area part...
+
+Blue answer katex error.. in area answer (this will go up when you create the two part)
+
+
 </div>
 
 <div class='review'>

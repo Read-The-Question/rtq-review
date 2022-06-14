@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-1-oldpr"
 title: "TopicPaper - Division - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,8 +58,11 @@ $16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\dfrac {} {} --use like this ; use only one space after &=; Please follow coding guidlines; and division questions are not opened yet   ,......., I SAW NO CHANGES
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -151,8 +154,11 @@ $16$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Coding guidlines ,......., I SAW NO CHANGES
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

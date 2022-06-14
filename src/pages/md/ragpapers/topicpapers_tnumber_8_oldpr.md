@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-8-oldpr"
 title: "TopicPaper - Number - 8 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -240,8 +240,15 @@ $8$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+part c align
+
+PArt d delete % in step 1
+
+part e  cancel step missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

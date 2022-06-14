@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-oldpr"
 title: "TopicPaper - Simpleword - 6 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -149,8 +149,19 @@ $50 \%$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt  a : Spacing : of60 mins, change to 3 x 20 and min to mins. both in end and blue answer
+
+Part B : same spacing. katex error ..remaining time is 60 - 20 = 40 ...not 20 check again and change answer..if 40 is correct then
+
+solve but 
+
+= 3 x 25 x 4 x 10 / 4 x 25
+
+Part C = is it not 15 min / 60 x 100 ?? solve accordingly if correct... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

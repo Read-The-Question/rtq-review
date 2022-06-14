@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-4"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -52,6 +52,12 @@ $\text {Two hundred forty-three thousand six hundred \ km}^2$
 
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+out of katex and in wokings km2...and in blue answer... 
 </div>
 
 <div class='review'>
@@ -126,6 +132,12 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+text only not in katex
 </div>
 
 <div class='review'>
@@ -427,6 +439,7 @@ $\pounds 64.9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -601,6 +614,20 @@ $0.75 \ \text{miles}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
+
+for Part c (extra) As per the question,
+
+1 km = ...mile
+
+1 x 1.2 km = ....  x 1.2.. solve further as you did.
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -752,6 +779,7 @@ $\pounds 25.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -896,6 +924,34 @@ $6$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+Let the number I thought of = a
+
+PArt B
+
+Solve step by step
+
+katex wrong at 2 places..
+
+n x 6 = (n + 3) x 4
+
+6n = 4n + 12
+
+6n - 4n = 12
+
+2n = 12
+
+n = 6 x 2/2
+
+now cancel
+
+n = 6
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1172,6 +1228,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1388,6 +1445,12 @@ $\text{Rectangle} \quad \text{Trapezoid} \quad \text{Hexagon}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Out of katex and middle figure is \"Trapezoid\"
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1599,6 +1662,14 @@ $\text{Food technology}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+REfer to teh question isn previous paper. for part a changes.
+
+Part c : is it not food technology.. as the chart shows no one chose Food technology. formulate properly please.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1767,6 +1838,7 @@ $\pounds 2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2057,6 +2129,7 @@ $68$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2207,6 +2280,7 @@ $124.08$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2282,6 +2356,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2416,6 +2491,7 @@ $1.8 \ \text{m}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2501,6 +2577,12 @@ $
 $\pounds 20.74$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change as in previous questions
 </div>
 
 <div class='review'>
@@ -2678,6 +2760,7 @@ $\text{Prime Number}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

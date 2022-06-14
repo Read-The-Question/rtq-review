@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-3-oldpr"
 title: "TopicPaper - Order - 3 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -63,9 +63,7 @@ $= 0.7098$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -155,9 +153,7 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -234,9 +230,7 @@ $5.02, \quad  5.2, \quad 5.202, \quad 5.22$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -313,9 +307,7 @@ $3.08, \quad 3.8, \quad 3.808, \quad 3.88$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -402,9 +394,7 @@ $0.603$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -485,9 +475,7 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -642,9 +630,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -846,8 +832,11 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+decimals
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -945,9 +934,7 @@ $8\% , \quad 9 \ \text{hundredths}, \quad \dfrac {3} {4} , \quad \dfrac {4} {5} 
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -153,8 +153,19 @@ $\dfrac {89} {99}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) and b) show cancellation
+
+Part c) Write fraction division prompt and change the workings to 
+
+a division question
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -252,9 +263,7 @@ $\dfrac {4} {9}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -343,8 +352,17 @@ $12 \dfrac {3} {4} \text{m}$ or $\dfrac {51} {4} \text{m}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Left over = Total wire - piece cut off, 
+
+Remove units from S6 and give answer as a mixed fraction not both options
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -430,8 +448,21 @@ $\dfrac {7} {8} \ \text{km}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Halfway = Total distance/2 
+
+Remove 1 where not required
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -573,9 +604,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -747,8 +776,19 @@ $7 \dfrac{7}{12}$ or $\dfrac{91}{12}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Change S2 to 1/4x3
+
+Part b) Remove S3
+
+Part c) Only give mixed number as answer option
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -831,8 +871,15 @@ $634$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss division VS fraction
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -919,8 +966,15 @@ $398$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss division VS fraction
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1161,8 +1215,17 @@ $\dfrac {13} {12}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Insert S2 that says 3/7x9 and Remove 1 from S3
+
+Parr e) Remove first sentence
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1263,8 +1326,15 @@ $4 \dfrac {2} {5}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove the second solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1349,9 +1419,7 @@ $3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1438,8 +1506,15 @@ $21$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+In S1 add space, In S3 remove 1s, Remove S4 and S5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1536,8 +1611,19 @@ $2 \dfrac {1} {2}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove first two sentences
+
+Enter missing after S1
+
+Remove last sentence
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1644,8 +1730,15 @@ $5, \ 8, \ 25$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1798,8 +1891,15 @@ $\dfrac {11} {12} $
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1948,9 +2048,7 @@ $30 \%$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2028,9 +2126,7 @@ $\dfrac {5} {16}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2119,9 +2215,7 @@ $6$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2226,8 +2320,15 @@ $6, 28$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2313,8 +2414,15 @@ $\dfrac {1} {6}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2404,8 +2512,15 @@ $21$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S3 to 2x = 14 x 3, Remove S1, 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2903,9 +3018,7 @@ $\dfrac{2}{3}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3082,9 +3195,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3404,9 +3515,7 @@ $\dfrac{5}{8}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3545,9 +3654,7 @@ $1\dfrac{3}{4}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3690,9 +3797,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3866,9 +3971,7 @@ $\dfrac {7}{2}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4045,9 +4148,7 @@ $30$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4302,9 +4403,7 @@ $8, 27$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4646,9 +4745,7 @@ $\dfrac{19}{25}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4745,9 +4842,7 @@ $18$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4833,8 +4928,15 @@ $80$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S6 to 5 x 16
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4923,8 +5025,15 @@ $\dfrac {7} {19}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+More detailed workings and change answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

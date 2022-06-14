@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-15-oldpr"
 title: "TopicPaper - Number - 15 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -113,9 +113,7 @@ $1940$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -292,9 +290,7 @@ $269$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -434,9 +430,7 @@ $2007$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -520,8 +514,11 @@ $16 \times 7  \ \boxed{>} \ 17 \times 6$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+put box in last line too
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -734,9 +731,7 @@ $89$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

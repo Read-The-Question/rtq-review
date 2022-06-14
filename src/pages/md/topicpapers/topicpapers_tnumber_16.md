@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,9 +55,7 @@ $300407$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -268,9 +266,7 @@ $17954$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -352,9 +348,7 @@ $0.35$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -437,9 +431,7 @@ $51$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -517,9 +509,7 @@ $308520$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -627,9 +617,7 @@ $(8 + 4) \times 6 - 5$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -721,9 +709,7 @@ $231 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -925,9 +911,7 @@ $3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1202,9 +1186,7 @@ $7050$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1281,9 +1263,7 @@ $8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1423,9 +1403,7 @@ $8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1702,9 +1680,7 @@ $0.72$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1785,9 +1761,7 @@ $83$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2019,9 +1993,7 @@ $7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2105,9 +2077,7 @@ $\dfrac {18} {25}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2253,9 +2223,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2347,9 +2315,7 @@ $\dfrac {31} {120}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2440,8 +2406,45 @@ $13, 39$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete sentence 1 .. you are not using a at all. 
+
+
+
+As per the question, 
+
+The whole number leaves a remainder 7 when divided into 46.
+
+
+
+As such, the number will be a factor of = 46 - 7 = 39
+
+
+
+Factors of 39 = 1, 3 , 13 and 39.
+
+
+
+The number has to be greater than 7 as it  leaves a remainder 7.
+
+
+
+
+
+Lets check 13 and 39 fulfil the criteria.
+
+= 46 / 13 = Quotient 3 Remainder 7
+
+= 46 / 39 = Quotient 1 Remainder 7
+
+
+
+The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2645,9 +2648,7 @@ $82$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2722,9 +2723,7 @@ $63,401$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2808,9 +2807,7 @@ $70, 5$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2897,9 +2894,7 @@ $8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3068,9 +3063,7 @@ $584$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3169,9 +3162,7 @@ $D$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3383,9 +3374,7 @@ $5.78$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3472,9 +3461,7 @@ $161$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3655,9 +3642,7 @@ $-1, -2 \ \text {or} \ -3, 0 \ \text {or} \ -4, 1$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3835,9 +3820,7 @@ $32.4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4000,9 +3983,7 @@ $45$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4154,9 +4135,7 @@ $0.872$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4298,9 +4277,7 @@ $2.716$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4386,9 +4363,7 @@ $401$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4590,9 +4565,7 @@ $16$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4803,9 +4776,7 @@ $4.32$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -52,6 +52,7 @@ $2569$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -188,6 +189,7 @@ $17.00$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -327,6 +329,7 @@ $80$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -404,6 +407,7 @@ $0.7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -480,6 +484,7 @@ $\dfrac {4} {6}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -686,6 +691,7 @@ $6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -767,6 +773,7 @@ $3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -868,6 +875,7 @@ $19$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -946,6 +954,7 @@ $- 2 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1086,6 +1095,7 @@ $81  \ \text{minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1170,6 +1180,7 @@ $40 \ \text {miles per hour}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1245,6 +1256,7 @@ $0.067, \quad 0.106, \quad 0.161, \quad 0.601$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1327,6 +1339,7 @@ $20 \ \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1519,6 +1532,7 @@ $0.0023$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1727,6 +1741,7 @@ $12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1812,6 +1827,7 @@ $\text {d}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1894,6 +1910,7 @@ $121$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2050,6 +2067,7 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2084,7 +2102,7 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
 </div>
@@ -2095,7 +2113,7 @@ $\dfrac {1} {8}, \quad \dfrac {3} {8}, \quad \dfrac {1} {4}, \quad \dfrac {3} {4
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2123,7 +2141,7 @@ $
         &   4 \ .   &   6   &   7   &   9 \\
 {}+     &   2 \ .   &   1   &   5   &   0 \\
 \hline
-        &   6 \ .   &   9   &   1   &   9
+        &   6 \ .   &   8   &   2   &   9
 \end{array}
 $
 
@@ -2132,9 +2150,15 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6.919$
+$6.829$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Answer should be 6.829 
 </div>
 
 <div class='review'>
@@ -2279,6 +2303,7 @@ $\text {C}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2355,6 +2380,7 @@ $76.60$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2439,6 +2465,7 @@ $30.282$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2528,6 +2555,7 @@ $\pounds 4.54$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2614,6 +2642,7 @@ $1430$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2754,6 +2783,12 @@ $\dfrac {19} {10}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change answer to mixed fraction and add step at the end
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2844,6 +2879,7 @@ $80$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2986,6 +3022,7 @@ $\pounds 18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3189,6 +3226,7 @@ $3 a + 2 b$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3274,6 +3312,7 @@ $86400 \ \text {seconds}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

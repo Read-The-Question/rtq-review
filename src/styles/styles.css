@@ -4,8 +4,8 @@ body {
 }
   
 body {
-    padding-right: 10em;
-    padding-left: 10em;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 /* Sample Table styling for the interim */
@@ -196,12 +196,25 @@ img {
 
     /* display: none; */
 }
+
 .working {
     border-width: 1px;
     border-color: olivedrab;
     border-style: solid;
 
     /* display: none; */
+}
+
+.review-comments {
+    border-width: 1px;
+    border-color: olivedrab;
+    border-style: solid;
+    
+    background-color: azure;
+    padding: 1.5em 2em;
+    /* display: none; */
+    font-style: italic;
+
 }
 
 .topics { 

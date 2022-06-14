@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-for-girls-11-plus-maths-9999-sample-paper-1"
 title: "City Of London School For Girls - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,7 @@ $3334$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $2822$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -226,6 +228,7 @@ $3634$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -361,6 +364,7 @@ $1.3 \text{ litres}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -441,6 +445,7 @@ $8195$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -673,6 +678,7 @@ $7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1395,6 +1401,7 @@ $12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1479,6 +1486,7 @@ $20000 \ \text{mm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1799,6 +1807,7 @@ $11.66$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1882,6 +1891,7 @@ $14$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2513,6 +2523,7 @@ $55 \text{ cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

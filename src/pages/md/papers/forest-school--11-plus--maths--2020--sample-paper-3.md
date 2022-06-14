@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-2020-sample-paper-3"
 title: "Forest School - 11 Plus - Maths - 2020 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $1582$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $668$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $5348$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -355,6 +358,7 @@ $\pounds 2500$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -452,6 +456,7 @@ $\pounds 15$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -565,6 +570,7 @@ $\dfrac {1} {6}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -658,6 +664,7 @@ $18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -734,6 +741,7 @@ $\text {Four million forty thousand four hundred forty}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -819,6 +827,7 @@ $\dfrac {5} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -901,6 +910,7 @@ $111 \ \text {minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -994,6 +1004,7 @@ $7.7 \ \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1089,6 +1100,7 @@ $0.142$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1240,6 +1252,7 @@ $9 \ \text {hours}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1908,6 +1921,7 @@ $3$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2233,6 +2247,7 @@ $21.6 \ \text{kilometer per hour}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2328,6 +2343,7 @@ $40 \ \text {cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

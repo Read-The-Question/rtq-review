@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -206,9 +206,7 @@ $26$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -440,9 +438,7 @@ $60, 7.5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -728,9 +724,7 @@ $9, 36$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -845,8 +839,11 @@ $8, 13$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change the explanation sentence : Line 1 : The next term is calculated by adding together the last two terms. Hence, the sequence would be: 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3124,9 +3121,7 @@ $-1, -5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3618,9 +3613,7 @@ $39, \quad 52$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3872,9 +3865,7 @@ $48$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4241,9 +4232,7 @@ $16, \ 22$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4741,9 +4730,7 @@ $69, 60$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5197,9 +5184,7 @@ $130$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5543,9 +5528,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5808,9 +5791,7 @@ $23$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5892,9 +5873,7 @@ ${}- 27$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5997,9 +5976,7 @@ $459$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -6138,9 +6115,7 @@ ${}- 19$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

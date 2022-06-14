@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,7 @@ $9527$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -144,6 +145,7 @@ $1903$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -229,6 +231,7 @@ $782$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -312,6 +315,16 @@ $
 $398$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss division VS fraction
 </div>
 
 <div class='review'>
@@ -557,6 +570,7 @@ $\dfrac{8} {9}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -796,6 +810,18 @@ $\dfrac {13} {12}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part c) Insert S2 that says 3/7x9 and Remove 1 from S3
+
+Parr e) Remove first sentence
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1046,6 +1072,7 @@ $\pounds 13$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1281,6 +1308,7 @@ $70$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1524,6 +1552,7 @@ $\dfrac {1} {6}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1892,6 +1921,7 @@ $21, 34$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2148,6 +2178,64 @@ $52 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+PArt A  inside katex Step 1 Perimeter &= 2×(22+9)
+
+Part b
+
+Solve again you need to find Area not length.
+
+refer UUID : 4F58585B-5B01-496D-8865-FFF0FEAC8FD6 except the length part may not be needed.
+
+PArt C 
+
+Put this text at top
+
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
+
+
+Lets extend the left line to the side of 6 cm and create two Rectangles. Rectangle L and Rectangle R
+
+Area of the shape = Area of Rectangle L + Area of Rectangle R)
+
+= (length x .....) + (len.....) 
+
+= (17 -6) x 8 + 6 x 11
+
+solve further.. 
+
+Part D
+
+
+
+Let the side... delete \"be\" 
+
+Step 1 katex : Side x Side = Area
+
+Step 2 a x a = 169 
+
+Step 3  = 13 x 13 
+
+then your step 4 + 5  
+
+
+
+Lets find the perimeter of the square.
+
+start katex
+
+Perimeter of the square = 4 x Side
+
+= 4 x a 
+
+solve like you did...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2440,6 +2528,12 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+answer /subquestion representation wrong. subquestion are down and answers are up
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2829,6 +2923,12 @@ $\pounds 10$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+a. As per the question, (next line ) Money received by Peter = 2 x Helen = 2 x pound 20 = p
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3079,6 +3179,7 @@ $60$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3305,6 +3406,12 @@ $2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wait with this aravind Last subquestion : (b-2)^2 explanation missing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3446,6 +3553,7 @@ $498$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3548,6 +3656,7 @@ $36$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3702,6 +3811,18 @@ $500$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+You refered to the correct UUID but did not change the text. please change the text per this question.
+
+wall = Floor
+
+After step 3 (with cm) cancel in step 4 and change 6 to 2 x 3 and cancel also. . not need to create a new step without cm...
+
+step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I was corrected later in my review.. If there are variables then only summary sentence otherwise not. . So delete the last sentence. 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3806,6 +3927,7 @@ $48 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

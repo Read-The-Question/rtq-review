@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-oldpr"
 title: "TopicPaper - Detailedsubtraction - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,8 +53,11 @@ $349$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+array please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

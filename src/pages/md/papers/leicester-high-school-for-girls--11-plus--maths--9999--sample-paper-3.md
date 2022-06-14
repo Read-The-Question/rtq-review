@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -293,6 +293,7 @@ $135 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -571,6 +572,7 @@ $25 \ \text {cm}^2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1015,6 +1017,7 @@ $\pounds 15.42$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1298,6 +1301,7 @@ $6, \ 0.67 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1439,6 +1443,7 @@ $450$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1523,6 +1528,7 @@ $\pounds 1500$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1615,6 +1621,7 @@ $6 \degree \text {C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1865,6 +1872,7 @@ $60$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2066,6 +2074,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2349,6 +2358,7 @@ $9, 8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

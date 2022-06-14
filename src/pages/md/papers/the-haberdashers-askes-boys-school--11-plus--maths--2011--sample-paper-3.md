@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $75$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $66$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $434$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -355,6 +358,7 @@ $\pounds 0.52$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -495,6 +499,7 @@ $52272$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -580,6 +585,7 @@ $\pounds 46200$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -663,6 +669,7 @@ $7400 \ \text{grams}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -738,6 +745,7 @@ $0.099, \quad 0.491, \quad 0.5, \quad 1.072, \quad 32.043$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -840,6 +848,7 @@ $90 \ \text {hours}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -925,6 +934,7 @@ $7325$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1014,6 +1024,14 @@ $= 0.4$
 $0.4$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+After the first sentence add in a full stop, do the multiplication 
+
+without column multiplication
 </div>
 
 <div class='review'>
@@ -1116,6 +1134,12 @@ Total hours of celebrity gossip programmes braodcasted by the channel each week 
 $70 \ \text{hours}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+check alignment and remove extra spaces
 </div>
 
 <div class='review'>
@@ -1258,6 +1282,7 @@ $4 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

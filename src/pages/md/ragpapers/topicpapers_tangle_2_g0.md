@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g0"
 title: "TopicPaper - Angle - 2 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -107,9 +107,7 @@ $90 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -238,9 +236,7 @@ $28 \degree, \ 28 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -441,9 +437,7 @@ $110 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -647,9 +641,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -744,9 +736,7 @@ $42$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -852,9 +842,7 @@ $20 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -945,9 +933,7 @@ $55 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1039,8 +1025,11 @@ $75 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE put ° in first step please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1132,8 +1121,11 @@ $40 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE put ° in first step please
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1224,8 +1216,13 @@ $60 \degree$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Chagne lien 1. We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is 180°.
+
+Delte line 2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1344,9 +1341,7 @@ $15 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1444,9 +1439,7 @@ $
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1603,9 +1596,7 @@ $36 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1759,9 +1750,7 @@ $140 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1858,9 +1847,7 @@ $150 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2026,9 +2013,7 @@ $90 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2134,9 +2119,7 @@ $\text{angle Q}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2321,9 +2304,7 @@ $73 \degree, 107 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2414,9 +2395,7 @@ $58 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2514,9 +2493,7 @@ $56 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2617,9 +2594,7 @@ $85 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2719,9 +2694,7 @@ $136 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

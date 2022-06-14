@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-oldpr"
 title: "TopicPaper - Sequence - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -85,8 +85,11 @@ $8, 13$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change the explanation sentence : Line 1 : The next term is calculated by adding together the last two terms. Hence, the sequence would be: 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

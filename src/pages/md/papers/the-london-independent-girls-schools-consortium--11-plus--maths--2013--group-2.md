@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2013-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2013 - Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $4245$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $2667$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $2926$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -410,6 +413,7 @@ $29.07$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -489,6 +493,7 @@ $48$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -576,6 +581,7 @@ $1.05$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -659,6 +665,7 @@ $27$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -749,6 +756,7 @@ $8, 14, 21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -898,6 +906,7 @@ $\pounds 13.14$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1046,6 +1055,7 @@ $- 5 \degree \ \text {C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1233,6 +1243,7 @@ $5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1867,6 +1878,7 @@ $9 \ \text {years} \ 6 \ \text {months}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2042,6 +2054,7 @@ $14743$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2256,6 +2269,7 @@ $608$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3433,6 +3447,7 @@ $11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

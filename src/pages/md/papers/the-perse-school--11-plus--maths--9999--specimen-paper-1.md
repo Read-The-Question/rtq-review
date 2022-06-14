@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-1"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -54,6 +54,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -151,6 +152,7 @@ $21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -257,6 +259,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -339,6 +342,7 @@ $\dfrac {18} {25}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -485,6 +489,7 @@ $\dfrac {22} {5} \ \text{or} \ 4 \dfrac {2} {5}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -576,6 +581,7 @@ $35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -910,6 +916,7 @@ $5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1000,6 +1007,7 @@ $\dfrac {31} {120}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1203,6 +1211,12 @@ The required numbers are = $5, 7, 11$
 $5, 7, 11$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+We know, a number is a multiple of 5 if it has 0 or 5 at its units place. 
 </div>
 
 <div class='review'>
@@ -1435,6 +1449,46 @@ $13, 39$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete sentence 1 .. you are not using a at all. 
+
+
+
+As per the question, 
+
+The whole number leaves a remainder 7 when divided into 46.
+
+
+
+As such, the number will be a factor of = 46 - 7 = 39
+
+
+
+Factors of 39 = 1, 3 , 13 and 39.
+
+
+
+The number has to be greater than 7 as it  leaves a remainder 7.
+
+
+
+
+
+Lets check 13 and 39 fulfil the criteria.
+
+= 46 / 13 = Quotient 3 Remainder 7
+
+= 46 / 39 = Quotient 1 Remainder 7
+
+
+
+The whole numbers which leave a remainder of 7 when dividied into 46 = 13 and 39
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1580,6 +1634,44 @@ $5$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+katex mistake in question. extra $ please correct.
+
+Answer 
+
+Line 2 and 3 also inside katex and align all &= 
+
+Charge for 20 people 
+
+= £100
+
+delete summar line as after alingnment it will be clear
+
+
+
+Part B
+
+bring Number of persons (in katex text too)
+
+rest ok ...
+
+= £5
+
+
+
+Delete last line Average.... 
+
+
+
+Put in blue answer £5
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1946,6 +2038,7 @@ $82$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2248,6 +2341,28 @@ $
 $13 \ \text{cm}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Area = formula...
+
+
+
+As per the question, 
+
+
+
+Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you wrote)
+
+= AB x AD - QB x QP
+
+= AB x AD - (PS - BR) x QP
+
+= substitute. and solve till end.
+
+
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -241,6 +241,7 @@ $3 \dfrac {1} {3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -413,6 +414,7 @@ $2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -610,6 +612,7 @@ $117$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -793,6 +796,7 @@ $-6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -897,6 +901,7 @@ $20 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1040,6 +1045,7 @@ $1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

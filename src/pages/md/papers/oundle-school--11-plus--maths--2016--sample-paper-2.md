@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2016-sample-paper-2"
 title: "Oundle School - 11 Plus - Maths - 2016 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -344,6 +344,7 @@ $-450$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -477,6 +478,7 @@ $(8 \times 5) - (6 \times 1 + 4) = 10$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -645,6 +647,7 @@ $15.81$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -749,6 +752,7 @@ a = 2,b = 12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -852,6 +856,7 @@ $p = 575, q= 425$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1105,6 +1110,7 @@ $\text{Circle}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1185,6 +1191,12 @@ $
 $twenty-one over thirty-two$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write answer withouth KATEX
 </div>
 
 <div class='review'>
@@ -1282,6 +1294,7 @@ $\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8},
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1370,6 +1383,7 @@ $23,483$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1693,6 +1707,7 @@ $- 91$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1873,6 +1888,7 @@ $\dfrac {1} {5}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2020,6 +2036,7 @@ $45321176$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/trinity-school-croydon-11-plus-maths-9999-sample-paper-1"
 title: "Trinity School Croydon - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,6 +60,7 @@ $7929$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $3288$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -225,6 +227,7 @@ $13464$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -403,6 +406,7 @@ $10.47$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -491,6 +495,7 @@ $\pounds 51$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -646,6 +651,7 @@ $30$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -909,6 +915,12 @@ $
 $30, 135$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\ not in one line .  In the answer key write both answers 30, 135
 </div>
 
 <div class='review'>
@@ -1225,6 +1237,12 @@ $\text {Largest} = 0.84, \text {Smallest} =  0.087$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+decimals
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1315,6 +1333,7 @@ $2.27 \ \text{m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1855,6 +1874,7 @@ $146700$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2015,6 +2035,7 @@ $16 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2784,6 +2805,14 @@ $4$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : As per the question, (Next line) Curdle $2$ and $4$ (then rest 3 steps inside katex)
+
+Part B : take the variable \"a\" not \"x\" inside katex Step 1 put \times between (x + 5) x (x +5) Rest is ok
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3127,6 +3156,7 @@ $12$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

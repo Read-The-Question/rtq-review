@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2009-practice-paper-2"
 title: "Merchant Taylors School - 11 Plus - Maths - 2009 - Practice Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -149,6 +149,7 @@ $\dfrac {41} {10}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -275,6 +276,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -406,6 +408,7 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -771,6 +774,7 @@ $162, 486$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -971,6 +975,7 @@ $\dfrac {9} {4} \ \text {miles}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1094,6 +1099,7 @@ $0.36$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1177,6 +1183,7 @@ $\pounds 242$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1577,6 +1584,7 @@ $+, \ \div, \ -$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1661,6 +1669,7 @@ $28 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1851,6 +1860,7 @@ $11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2777,6 +2787,7 @@ $(3,5), \ (4,4), \ (9,2), \ (1,10), \ (19,1), \ (0,20)$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3183,6 +3194,7 @@ $8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3605,6 +3617,7 @@ $192$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

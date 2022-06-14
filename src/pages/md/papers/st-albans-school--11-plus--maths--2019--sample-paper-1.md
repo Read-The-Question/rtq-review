@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-2019-sample-paper-1"
 title: "St Albans School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -82,6 +82,16 @@ $
 $5, \ 8, \ 25$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
 
 <div class='review'>
@@ -235,6 +245,16 @@ $\dfrac {11} {12} $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -446,6 +466,7 @@ $704$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -594,6 +615,7 @@ $30 \%$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -739,6 +761,7 @@ $5000$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -818,6 +841,7 @@ $\text {Ninety nine thousand eight hundred eighty nine}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1049,6 +1073,7 @@ $\text {Y}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1133,6 +1158,7 @@ $27.23$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1220,6 +1246,7 @@ $9.61$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1300,6 +1327,7 @@ $0.55$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1431,6 +1459,7 @@ $2398$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1796,6 +1825,7 @@ $\dfrac {5} {16}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2017,6 +2047,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2216,6 +2247,7 @@ $16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2303,6 +2335,7 @@ $6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2472,6 +2505,7 @@ $96, 48, 24, \dfrac {3} {2}, \dfrac {3} {4}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2622,6 +2656,7 @@ $15$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2784,6 +2819,7 @@ $570$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

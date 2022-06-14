@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -77,6 +77,12 @@ $
 $0.73$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE alingn largest and small number at &=
 </div>
 
 <div class='review'>
@@ -159,6 +165,12 @@ $1023$
 $1023$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+done Answer ? 1023 not 1021
 </div>
 
 <div class='review'>
@@ -251,6 +263,7 @@ $101$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -415,6 +428,7 @@ $9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -505,6 +519,7 @@ $7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -594,6 +609,7 @@ $1999$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -697,6 +713,20 @@ $
 $64$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Line 1 & Line 2 = (write is) put full stop at end.
+
+
+
+Line : The circular measure (no s) of an angle is 360°
+
+
+
+Put deg in Step 1 
 </div>
 
 <div class='review'>
@@ -851,6 +881,12 @@ $
 $1 + 2 \times 3 \times 4$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE a b c d small.
 </div>
 
 <div class='review'>
@@ -1071,6 +1107,12 @@ $9 \times 6 + 73 = 96 + 7 \times 3$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE katex error in bleu answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1198,6 +1240,18 @@ The smallest fraction is $= \dfrac {1} {2}$
 $\dfrac {1} {2}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Put > or < after Lets ararnge them in increading order of size
+
+and in next step..
+
+
+
+same in alternative solution too...
 </div>
 
 <div class='review'>
@@ -1442,6 +1496,7 @@ $12.5$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1546,6 +1601,7 @@ $5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

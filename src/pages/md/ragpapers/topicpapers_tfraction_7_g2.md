@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-7-g2"
 title: "TopicPaper - Fraction - 7 - G2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -45,9 +45,7 @@ $3 \dfrac{1}{2}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-oldpr"
 title: "TopicPaper - Simpleword - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -65,9 +65,7 @@ $9 \ \text{km}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -212,8 +210,11 @@ $30$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+A} space in blue answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -302,8 +303,11 @@ $18$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+No. of veg.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

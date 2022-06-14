@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -169,6 +169,7 @@ $7995$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -344,6 +345,7 @@ $11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -481,6 +483,7 @@ $\pounds 14.40$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -656,6 +659,7 @@ $0.4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -755,6 +759,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -915,6 +920,12 @@ $8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer : 07B7F155-62F9-4100-8C73-1796ABA98DCB , check how the text is written..  CODING GUIDELINES \DFRAC
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1007,6 +1018,7 @@ $67 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1121,6 +1133,7 @@ $275 \ \text{grams}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1282,6 +1295,7 @@ $10  \ \text{kg}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1381,6 +1395,12 @@ $
 $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+\text{Boys with brown hair}       &= &= \dfrac {1} {2} \times a\\    DELETE RED ONE
 </div>
 
 <div class='review'>
@@ -1543,6 +1563,7 @@ $0.44$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1703,6 +1724,7 @@ $4 \degree  \text{C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1799,6 +1821,12 @@ Test $1$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+CODING GUIDELINES..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1887,6 +1915,7 @@ $300 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2031,6 +2060,12 @@ $30$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+A} space in blue answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2262,6 +2297,7 @@ $60, 7.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2348,6 +2384,7 @@ $140  \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2442,6 +2479,12 @@ Number of glasses of water $= 25$
 $25$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+\dfrac { 5000 } { 200 } \\ -- NO space --correct --.> \dfrac \dfrac {5000} {200} -- DO IT EVERYWHERE AND IN FUTURE ALSO
 </div>
 
 <div class='review'>
@@ -2624,6 +2667,7 @@ Length $= 9 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2835,6 +2879,7 @@ $15980$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3096,6 +3141,14 @@ Banana $= 50 \ \text{pence}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Apple $= 35 \ \text{pence}$
+
+Banana $= 50 \ \text{pence}$ -- GIVE SPACE BETWEEN THESE TWO LINES..write Cost of apple $= 35 \ \text{pence}$ and same for the next one
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3229,6 +3282,7 @@ $\text{Shop C} = \pounds 820$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

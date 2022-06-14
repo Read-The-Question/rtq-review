@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-oldpr"
 title: "TopicPaper - Sequence - 5 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -72,8 +72,11 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+-7 not 7
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -193,8 +196,29 @@ Second line : $6^2 + 13 = 49$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+As per the question, the number pattern looks like 
+
+
+
+(Sequence)...
+
+
+
+Put the dots in the squence shown properly and 2 times...and also +9 +11 and +13
+
+
+
+Secondline (put space) 
+
+
+
+Delete First line.....  49
+
+in blue answer after 36 \
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -295,8 +319,11 @@ No
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+c and d
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -513,8 +540,11 @@ $16$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+5 to -5
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -781,8 +811,11 @@ $7$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+description missing (Line2)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

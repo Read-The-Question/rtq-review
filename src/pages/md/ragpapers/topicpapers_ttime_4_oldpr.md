@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-oldpr"
 title: "TopicPaper - Time - 4 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -142,9 +142,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -240,9 +238,7 @@ $8{:}17 \ \text{am}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

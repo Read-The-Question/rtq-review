@@ -1,7 +1,7 @@
 ---
 slug: "papers/emanuel-school-11-plus-maths-9999-sample-paper-1"
 title: "Emanuel School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -120,6 +120,7 @@ $485$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -201,6 +202,7 @@ $3926$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -343,6 +345,7 @@ $6588$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -551,6 +554,7 @@ $3331$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -680,6 +684,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -795,6 +800,7 @@ $19 \ \text{and} \ 13$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1004,6 +1010,7 @@ $56$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1141,6 +1148,7 @@ $\pounds 12.56$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1228,6 +1236,7 @@ $12402$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1371,6 +1380,7 @@ $26 \ \text{km}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1831,6 +1841,7 @@ $9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2277,6 +2288,7 @@ $20$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2358,6 +2370,14 @@ $
 $3750$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE No of men between ...= Men taller.... - Men tall....
+
+No cms in answer (its count of men) 
 </div>
 
 <div class='review'>
@@ -2730,6 +2750,7 @@ $2.10 \ \text{pm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2917,6 +2938,7 @@ $4608$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2995,6 +3017,7 @@ $2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3934,6 +3957,7 @@ $\pounds 1.80$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4104,6 +4128,7 @@ $64 \ \text{and} \ 15625$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

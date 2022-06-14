@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -235,6 +235,7 @@ $7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -315,6 +316,7 @@ $847$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -397,6 +399,7 @@ $352$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -477,6 +480,7 @@ $247$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -559,6 +563,7 @@ $1725$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -639,6 +644,7 @@ $4734$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -824,6 +830,7 @@ $3074$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -911,6 +918,7 @@ $11.021$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -993,6 +1001,12 @@ $
 $1.774$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add decimal prompt
 </div>
 
 <div class='review'>
@@ -1078,6 +1092,7 @@ $03 {:} 35 \ \text {p.m.}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1154,6 +1169,7 @@ $15 {:} 35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1237,6 +1253,7 @@ $02 {:} 20 \ \text {p.m.}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1317,6 +1334,7 @@ $1 \ \text {hour} \ 35 \ \text {minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1396,6 +1414,7 @@ $5003$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1474,6 +1493,7 @@ $\text {Ten thousand two hundred and three}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1909,6 +1929,7 @@ $1.03$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1987,6 +2008,7 @@ $\dfrac {27} {100}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2071,6 +2093,7 @@ $6798$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2152,6 +2175,7 @@ $2.494$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2299,6 +2323,7 @@ $120$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2382,6 +2407,7 @@ $111$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2468,6 +2494,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2556,6 +2583,7 @@ $40$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2636,6 +2664,7 @@ $\text {Pentagon}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2713,6 +2742,7 @@ $\text {Cuboid}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2806,6 +2836,7 @@ $20$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2896,6 +2927,7 @@ $21$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2981,6 +3013,7 @@ $987$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3061,6 +3094,7 @@ $233$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3140,6 +3174,7 @@ $14$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3240,6 +3275,7 @@ $46$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

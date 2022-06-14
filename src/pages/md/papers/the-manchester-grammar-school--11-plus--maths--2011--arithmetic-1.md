@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $732$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -143,6 +144,7 @@ $11220$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -229,6 +231,20 @@ $\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in S3
+
+Remove last step
+
+Give answer as a mixed fraction 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -302,6 +318,7 @@ $1010001$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -384,6 +401,7 @@ $-108$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -485,6 +503,7 @@ $18$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -577,6 +596,7 @@ $25 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -683,6 +703,7 @@ $30 \ \text{cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -805,6 +826,7 @@ $30 \ \text{minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -899,6 +921,7 @@ $100$ bricks
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -983,6 +1006,7 @@ $45 \ \text{pence}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1074,6 +1098,7 @@ $42$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1155,6 +1180,7 @@ $\dfrac {9} {25}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1281,6 +1307,7 @@ $56$ coins
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1381,6 +1408,7 @@ $16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1465,6 +1493,7 @@ $30 \ \text{pence}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1637,6 +1666,7 @@ $\pounds 7$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1752,6 +1782,7 @@ $34 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1846,6 +1877,7 @@ $44 \ \text{kg}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1969,6 +2001,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

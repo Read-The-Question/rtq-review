@@ -1,7 +1,7 @@
 ---
 slug: "papers/benenden-school-11-plus-maths-2020-sample-paper-1"
 title: "Benenden School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -240,6 +240,7 @@ $0.1444, \quad  0.4, \quad  0.414, \quad  1.4, \quad  4.41$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -402,6 +403,7 @@ $42, \ \ 45, \ \ 48$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -478,6 +480,7 @@ $50706$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1220,6 +1223,7 @@ $2 \dfrac{5}{12}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

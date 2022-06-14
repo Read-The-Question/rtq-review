@@ -1,7 +1,7 @@
 ---
 slug: "papers/highgate-school-11-plus-maths-9999-sample-paper-a"
 title: "Highgate School - 11 Plus - Maths - 9999 - Sample Paper A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -258,6 +258,7 @@ $\pounds 3.60, \pounds 1.20$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -525,6 +526,7 @@ The total cost is $=$ $\pounds 360$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

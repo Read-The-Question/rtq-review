@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -322,6 +322,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -804,6 +805,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1127,6 +1129,7 @@ $19.41 \%$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1539,6 +1542,7 @@ $3.90$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1709,6 +1713,7 @@ $2.59, 1.49, 3.65$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

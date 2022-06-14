@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g0"
 title: "TopicPaper - Money - 3 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -146,9 +146,7 @@ $\pounds 28$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -377,9 +375,7 @@ $37 \ \text{kg}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -466,8 +462,11 @@ $428 \text {p}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Step 1 = \text {four ninths of} \  963 \text{p} \\
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -554,8 +553,11 @@ $255 \text{p}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Step 1 : &= \text[five eighths of} \ 408 \text{p}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -640,9 +642,7 @@ $\pounds 2.88$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -872,9 +872,7 @@ $\pounds 43.75$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -959,9 +957,7 @@ $\pounds 2.80$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1045,9 +1041,7 @@ $\pounds 2.20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1190,9 +1184,7 @@ $\pounds 104.50$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1275,9 +1267,7 @@ $\pounds 7.30$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1361,9 +1351,7 @@ $\pounds 23.20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1512,8 +1500,11 @@ $\pounds 114$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Part b ..(10% + 5% ) x 760 ???
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1597,9 +1588,7 @@ $\pounds 6.20$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1698,9 +1687,7 @@ $\pounds 27$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1787,9 +1774,7 @@ $\pounds 4$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1878,9 +1863,7 @@ $\pounds 4.30$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1961,9 +1944,7 @@ $\pounds 16$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2045,9 +2026,7 @@ $\pounds 18.2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2143,9 +2122,7 @@ $\pounds 18.29$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2238,9 +2215,7 @@ $\pounds 3.28$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2391,9 +2366,7 @@ $15$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2499,9 +2472,7 @@ $\pounds 288$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2588,9 +2559,7 @@ $\pounds 500$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2675,9 +2644,7 @@ $\pounds 0.71$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

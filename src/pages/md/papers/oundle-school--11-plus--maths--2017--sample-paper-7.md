@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-7"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 7"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -434,6 +434,16 @@ $\dfrac{19}{10}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Write answer as mixed fraction and add step at the end
+
+Part c) Workings and answer are empty
+
+Part d) Workings not written
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -600,6 +610,7 @@ $-108$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -897,6 +908,7 @@ $-16.25$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -980,6 +992,7 @@ $1.3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1066,6 +1079,12 @@ $
 $75 \degrees$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write the line sum of angle = 180 .. search the line from website....wording required
 </div>
 
 <div class='review'>
@@ -1155,6 +1174,7 @@ $63$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1242,6 +1262,7 @@ $210$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tgraph-3"
 title: "TopicPaper - Graph - 3"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1477,9 +1477,7 @@ $6$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5674,8 +5672,27 @@ $\text {Ford}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part B 
+
+Total vehicles = Sum of all vehicles parked.
+
+= ......
+
+Part c 
+
+Mode is a value that appears most frequently in a data set.
+
+
+
+Vehicle type Ford is the most frequently parked with total of 9 vehicles. 
+
+
+
+in blue answer Ford (Use captials as in normal english) 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5840,8 +5857,23 @@ $\text {White}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A :
+
+As per the chart,
+
+No. of white cards that passed the gate = $13$ 
+
+PArt B :
+
+Total cars = Sum of cars of all colors
+
+= 65 . Change the blue answer also.
+
+Part C : Refer to the correctiosn done in similar question in previous paper.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5999,8 +6031,13 @@ $\text{Food technology}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+REfer to teh question isn previous paper. for part a changes.
+
+Part c : is it not food technology.. as the chart shows no one chose Food technology. formulate properly please.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -6165,8 +6202,23 @@ $52$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part B :
+
+
+
+As per the bar chart, 
+
+inside katex = Crips - Biscuits (rest is then correct)
+
+
+
+Part C:
+
+As per the bar chart, 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -6293,8 +6345,19 @@ $\text {Obtuse angle is any angle greater than 90 \degree but less than 180 \deg
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+@UP. katex text or outside katex. ?? Caps all or normal?
+
+looks to me as Rhombus, but parall... is also correct both or 1 answer. 
+
+Eschudi. after solving please change this answer to PRBD
+
+_______________________________________________
+
+Please change : Ob......an angle greater than 90° but less than 180° (change blue answer also)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

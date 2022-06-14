@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-8-oldpr"
 title: "TopicPaper - Algebra - 8 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,8 +70,21 @@ $\pounds 32$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Money Martin have + Money Gary have = Total money
+
+
+
+delete LetS calculate.....
+
+take Money Gary also in below katex.
+
+Money Martin have = \pounds 19 + 13 
+
+= ...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -232,8 +245,19 @@ $6, 7, 8$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Broken Katex!!
+
+
+
+Lets discuss
+
+
+
+F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

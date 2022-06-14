@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2019-sample-paper-10"
 title: "Sevenoaks School - 11 Plus - Maths - 2019 - Sample Paper 10"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -383,6 +383,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -531,6 +532,18 @@ $\pounds 1879.20$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+My bad! sorry.
+
+
+
+Bill each month = Total bill in a year / No. of months in a year
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -701,6 +714,20 @@ $7 \dfrac{7}{12}$ or $\dfrac{91}{12}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Change S2 to 1/4x3
+
+Part b) Remove S3
+
+Part c) Only give mixed number as answer option
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -956,6 +983,60 @@ $128$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change : Percentage of Women members = Fraction (Women members) x 100%
+
+Delete Step 2 (repeats)
+
+Delete % from mid steps. only start and end. 
+
+in your step 5 : do not multiply to 40 . let it remain 2 x 20
+
+= cancel 2 x 20 x 5 / 5
+
+= 2 x 20
+
+= 40% (delete text)
+
+
+
+PArt B : 
+
+No. of Male members = Fraction(Men members) x Total (Members)
+
+Change = 3 x 160 / 3 
+
+Change in = cancel step
+
+Last step = 160 ( no text)
+
+
+
+PArt C
+
+Total child members = Total members - Women members - Men members
+
+Delete step 2 and change further steps as below
+
+
+
+= 480 - (40% x 480) - 160) (as we have solved for 160 in previous question we do not need to solve again)
+
+= 480 - 40/100 x 480 - 160 (no more brackets solve this end)
+
+2nd last step will be 
+
+= 480 - 192 - 160
+
+= 128
+
+Delete Therefore.....
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1361,6 +1442,28 @@ y &= 44 \degree
 $
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As we know, in a triangle the sum of two interior angles = the sum of opposite exterior angle. So,
+
+
+
+in part to find y
+
+As we know, change to (We also know, 
+
+
+
+x + y = 180°
+
+136 + y = 180
+
+y = ...
+
+y =44°
 </div>
 
 <div class='review'>

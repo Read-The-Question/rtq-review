@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -69,6 +69,7 @@ $80$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -162,6 +163,7 @@ $3.154$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -252,6 +254,7 @@ $333$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -339,6 +342,7 @@ $13$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -484,6 +488,7 @@ $21$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -570,6 +575,7 @@ $47$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -682,6 +688,12 @@ $
 $8, 13$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change the explanation sentence : Line 1 : The next term is calculated by adding together the last two terms. Hence, the sequence would be: 
 </div>
 
 <div class='review'>
@@ -901,6 +913,20 @@ $4$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add tdraw, add a line in the answer
+
+
+
+TODO: Add diagrams to show all lines of symmetry
+
+
+
+Write option
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -989,6 +1015,12 @@ $6$
 TODOANSWER
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write option
 </div>
 
 <div class='review'>
@@ -1148,6 +1180,12 @@ a trapezium
 A $=$ $\text{a trapezium}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write option, add tdraw, add TODO to say add the complete diagram
 </div>
 
 <div class='review'>
@@ -1725,6 +1763,12 @@ TODOANSWER
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write option
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1880,6 +1924,7 @@ $-16$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1965,6 +2010,12 @@ $349$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+array please
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2038,6 +2089,7 @@ $8521$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2117,6 +2169,7 @@ $-43$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2199,6 +2252,7 @@ $172$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2279,6 +2333,7 @@ $592$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2362,6 +2417,7 @@ $234$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2443,6 +2499,7 @@ $\pounds 248$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2539,6 +2596,7 @@ $\dfrac {5} {6}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2620,6 +2678,7 @@ $1050$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3052,6 +3111,42 @@ $15$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Units missing
+
+write description properly,
+
+
+
+use language something like this
+
+
+
+$
+
+\begin{aligned}
+
+\text{Number of tins needed}             &= \dfrac {\text{Total area of the hall}} {\text{Area covered by a tin}} \\
+
+                                            &= \dfrac {20000} {40} \\
+
+                                            &= 500
+
+\end {aligned}
+
+$
+
+
+
+dfrac is broken
+
+
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3146,6 +3241,18 @@ The journey took $3 \ \text {hours} \ 20 \ \text {minutes}$.
 $3 \ \text {hours} \ 20 \ \text {minutes}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write Distance and speed inside \text{}
+
+factor all in one step and cancel in one step instead of multiple done here
+
+The question asked for hours and minutes why did you go to decimal
+
+it should be 3 1 /3 then 3 and 1 / 3 * 60 and then 3 hours and 20 minutes
 </div>
 
 <div class='review'>
@@ -3315,6 +3422,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3808,6 +3916,14 @@ $6$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Answer written in main question, should be in sub questions
+
+remove extra workings and answers
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4067,6 +4183,7 @@ $16 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,6 +60,7 @@ $5581$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,12 @@ $
 $447$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
 
 <div class='review'>
@@ -463,6 +470,24 @@ $0.09$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt c: {:} in answers too
+
+
+
+Part E : 867 will be 870 
+
+
+
+Part F : direct 5
+
+
+
+Part H: direct answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -678,6 +703,12 @@ $16$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+5 to -5
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -762,6 +793,7 @@ $18.87$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -845,6 +877,7 @@ $(5 \ 000, \ 200) \ \text{or} \ (50 \ 000, \ 20)$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1145,6 +1178,7 @@ $0.056, \ < \quad 0.506, \ < \quad 0.56, \ < \quad 0.605, \ < \quad 0.65$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1464,6 +1498,7 @@ $\dfrac {8} {9}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1562,6 +1597,7 @@ $36 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1816,6 +1852,7 @@ $189 \text{p}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2014,6 +2051,7 @@ $8.4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2125,6 +2163,7 @@ $\pounds 38.75$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2259,6 +2298,7 @@ $\dfrac {1} {3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2430,6 +2470,7 @@ $40 \ \text{cm}^2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2527,6 +2568,7 @@ $\pounds 1600$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2797,6 +2839,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

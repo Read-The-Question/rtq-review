@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-5-oldpr"
 title: "TopicPaper - Algebra - 5 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -126,8 +126,11 @@ $7$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -232,8 +235,11 @@ $36 \text{ coins}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Please aligned(&) according to the format and change pound to p inside the katex(solving)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -423,8 +429,11 @@ $14$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong format - refer 07071090-243A-4C15-B778-53C51DA63E26
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

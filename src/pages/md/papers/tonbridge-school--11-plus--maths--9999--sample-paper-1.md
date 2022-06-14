@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -469,6 +469,7 @@ $12$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -618,6 +619,12 @@ $23$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Direct answer in workings (no solving needed)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -772,6 +779,7 @@ $0.3 , \quad \dfrac {8} {25} , \quad 33% , \quad \dfrac {1} {3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1224,6 +1232,18 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete As per the question in all parts. 
+
+Part a. Step 2 katex \times not \time same in 
+
+Part b (Solve again - wrong ) (5 x -2)^2 = -10^2= 100
+
+PArt d add a new step 3 = 3 +       5/2 then the step with 3 x 2..... 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1433,6 +1453,22 @@ $2\dfrac{2} {3}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove 1s where not required
+
+Part d) Write fraction division prompt
+
+
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1648,6 +1684,12 @@ $5-2e$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part e : solved wrong : its = 3 -2e + 2  (not -2) and then 5 -2e  (change answer too)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1913,6 +1955,12 @@ $7$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+description missing (Line2)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2270,6 +2318,16 @@ $12$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :  step 2 : = is missing.  x not = 24 / 4 its 24 / 3 correct his and change further... x = 8 Change answer key as well.
+
+PArt B : Step 3 change 3x - x = 3 -2 
+
+Part C : Change Step 2:  to 2x  =  3 (x -4) then 2x = (3 x x) - (3 x 4) solve further...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2687,6 +2745,7 @@ $24.9 \ \text{cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

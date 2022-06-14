@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -80,6 +80,16 @@ $
 $6, 28$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
 
 <div class='review'>
@@ -164,6 +174,12 @@ $
 $4128$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -337,6 +353,7 @@ $71.4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -532,6 +549,7 @@ $4.23$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -617,6 +635,12 @@ $28 \ \text{kg}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change to single factor and cancellation step
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -693,6 +717,7 @@ $203170$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -776,6 +801,7 @@ $1.881$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -858,6 +884,16 @@ $
 $\dfrac {1} {6}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday have a look
 </div>
 
 <div class='review'>
@@ -1049,6 +1085,16 @@ $21$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S3 to 2x = 14 x 3, Remove S1, 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1135,6 +1181,7 @@ $1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1276,6 +1323,7 @@ $-1$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1421,6 +1469,7 @@ $25$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1910,6 +1959,7 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2075,6 +2125,7 @@ $90 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $827$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $259$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $3258$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -369,6 +372,7 @@ $\dfrac {3} {10}, \quad 0.305, \quad \dfrac {1} {3}, \quad 35 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -557,6 +561,7 @@ $24 \quad 48 \quad 96$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -648,6 +653,7 @@ $135 \ \text {pence}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -779,6 +785,7 @@ $1610.344$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1290,6 +1297,7 @@ $2 \ \text {hours} \ 30 \ \text {minutes}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2302,6 +2310,7 @@ $10 {:} 40$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

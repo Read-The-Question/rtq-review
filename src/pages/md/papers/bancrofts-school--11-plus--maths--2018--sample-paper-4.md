@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -321,6 +321,12 @@ $6084$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong operator
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -457,6 +463,12 @@ $
 $34306$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in the wrong place
 </div>
 
 <div class='review'>

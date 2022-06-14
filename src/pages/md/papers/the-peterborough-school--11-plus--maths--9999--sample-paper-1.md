@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-peterborough-school-11-plus-maths-9999-sample-paper-1"
 title: "The Peterborough School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -181,6 +181,12 @@ $3 \dfrac {1} {2}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part e give space in subquestion after \"of\"
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -381,6 +387,7 @@ $234$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -468,6 +475,20 @@ Odd one out : $\dfrac {3} {5}$
 $\dfrac {3} {5}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Lets write all the fractions in their simplified form
+
+Remove 1s where not required
+
+
 </div>
 
 <div class='review'>
@@ -882,6 +903,7 @@ $0.78$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1023,6 +1045,7 @@ $47$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1714,6 +1737,7 @@ $7420$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1861,6 +1885,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2138,6 +2163,22 @@ $
 $45$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\
+
+&=  67 - 19 - 5 + 9 + 27 - 34 \\  
+
+delete 2, 3 and 4th steps
+
+&= 45
+
+
+
+Delete last sentence (the summary sentences now follow only if a variable is there. 
 </div>
 
 <div class='review'>

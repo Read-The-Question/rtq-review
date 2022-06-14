@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-4"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -63,6 +63,7 @@ $401$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -205,6 +206,7 @@ $\dfrac{91} {3} \ \text {or} \ 30 \dfrac{1} {3}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -699,6 +701,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -966,6 +969,7 @@ $4.32$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1108,6 +1112,7 @@ Odd one : $2743$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1184,6 +1189,7 @@ $47, 53$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

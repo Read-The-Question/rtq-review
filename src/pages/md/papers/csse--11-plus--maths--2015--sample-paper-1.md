@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-1"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -122,6 +122,7 @@ $25.51$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -265,6 +266,7 @@ $1.44$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -416,6 +418,7 @@ $44.22$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -818,6 +821,7 @@ $5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1294,6 +1298,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1623,6 +1628,7 @@ $\text {E}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1925,6 +1931,7 @@ $\pounds 55$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2070,6 +2077,7 @@ $2 \ \text {m} \ 92 \ \text {cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2493,6 +2501,7 @@ $5, 4, 7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2649,6 +2658,7 @@ $2, 7, 11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3105,6 +3115,7 @@ $\text {B}, \text {E}, \text {G}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

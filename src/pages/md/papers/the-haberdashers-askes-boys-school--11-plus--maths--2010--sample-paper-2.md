@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2010-sample-paper-2"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2010 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $115$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $34$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -222,6 +224,7 @@ $258$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -355,6 +358,7 @@ $160$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -437,6 +441,7 @@ $23$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -576,6 +581,7 @@ $2523 \ \text{feet}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -662,6 +668,7 @@ $\text {Thursday}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -842,6 +849,7 @@ $8101$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -990,6 +998,7 @@ $4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1075,6 +1084,24 @@ The fractions that is **not** equivalent to $\dfrac {3} {5}$ is $= \dfrac {9} {2
 $\dfrac {9} {25}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change first word to Lets
+
+Change reduce to eliminate
+
+Do the same to 9/25 what you did to the other fractions
+
+e.g. times by 3/5
+
+Last sentence remove the = sign
 </div>
 
 <div class='review'>
@@ -1163,6 +1190,7 @@ $35$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1248,6 +1276,7 @@ $112 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1479,6 +1508,7 @@ $24 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1721,6 +1751,7 @@ C $\underline {\text  {is more likely to happen than}}$ D.
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

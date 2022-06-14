@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-oldpr"
 title: "TopicPaper - Recipe - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -154,8 +154,11 @@ $160 \ \text{gm} \ \text{Plain Flour} ,  4 \ \text{Eggs} , 280 \ \text{ml}  \ \t
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+call Aravind
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -340,8 +343,11 @@ $28$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Show the wroking please.. for both parts
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

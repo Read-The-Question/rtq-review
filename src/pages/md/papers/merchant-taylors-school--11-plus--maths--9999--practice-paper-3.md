@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -132,6 +132,7 @@ $\text {Parallelogram}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -234,6 +235,7 @@ $\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -456,6 +458,7 @@ $125$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -532,6 +535,7 @@ $4765$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -845,6 +849,7 @@ $75 \ \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1580,6 +1585,7 @@ $\text{German}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1676,6 +1682,7 @@ $600 \ \text{g}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1769,6 +1776,7 @@ $3 \ \text {cm} ^ 2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1850,6 +1858,12 @@ $
 $\dfrac {6} {5}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change factors in S4 and S5
 </div>
 
 <div class='review'>
@@ -1985,6 +1999,7 @@ $\pounds 110$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2120,6 +2135,7 @@ $a - 4b$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2215,6 +2231,7 @@ $10 n - 16$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2426,6 +2443,7 @@ $\pounds 8.19$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2600,6 +2618,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2676,6 +2695,7 @@ $5 \ \text {and} \ 11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2755,6 +2775,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2896,6 +2917,12 @@ $\dfrac {1} {2}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change to 1/2 (3/7 + 4/7) and update workings accordingly
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2979,6 +3006,7 @@ $0.026 \ \text {g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3180,6 +3208,7 @@ $110 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3637,6 +3666,7 @@ $60 \%$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3717,6 +3747,7 @@ $240 \ \text{g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -4161,6 +4192,7 @@ $40$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

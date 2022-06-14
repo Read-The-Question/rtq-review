@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -68,6 +68,12 @@ $
 $12000$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned, detailed steps not required
 </div>
 
 <div class='review'>
@@ -158,6 +164,7 @@ $125$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -306,6 +313,12 @@ $16$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+\dfrac {} {} --use like this ; use only one space after &=; Please follow coding guidlines; and division questions are not opened yet   ,......., I SAW NO CHANGES
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -398,6 +411,7 @@ $1.1$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -489,6 +503,7 @@ $\dfrac{1}{10}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -576,6 +591,7 @@ $
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -782,6 +798,7 @@ $5.28$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -873,6 +890,7 @@ $0.7112$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -960,6 +978,7 @@ $0.4103$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1049,6 +1068,7 @@ $4.20$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1153,6 +1173,7 @@ $\dfrac {7} {12}, \quad \dfrac {2} {3}, \quad \dfrac {5} {6}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1239,6 +1260,7 @@ $-2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1336,6 +1358,7 @@ $18,14$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1442,6 +1465,7 @@ $28$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1616,6 +1640,7 @@ $48,63$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1707,6 +1732,7 @@ $4 \dfrac{47}{60}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

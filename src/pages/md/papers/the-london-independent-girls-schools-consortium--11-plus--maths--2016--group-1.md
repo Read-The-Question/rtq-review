@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2016-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2016 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -60,6 +60,7 @@ $7392$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $6359$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,12 @@ $
 $19764$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+solved wrong
 </div>
 
 <div class='review'>
@@ -351,6 +359,7 @@ $72$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -449,6 +458,12 @@ $
 $83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+-7 not 7
 </div>
 
 <div class='review'>
@@ -589,6 +604,14 @@ $\boxed{1050} \div 1000 = 1.05$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+refer B95E3D46-C66C-4790-BB1A-39E891ABEB53. but keept boxed.
+
+refer 0A0A949A-4315-41A1-A28D-C39E8F6FC5E9 part b . but keep boxed.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -671,6 +694,7 @@ $13750$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -751,6 +775,12 @@ $
 $16 \times 7  \ \boxed{>} \ 17 \times 6$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+put box in last line too
 </div>
 
 <div class='review'>
@@ -835,6 +865,7 @@ $3 \degree \text {C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -931,6 +962,12 @@ $3$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Wrong answer . refer 3ACC56E9-45C3-48B3-BD78-324451DE6879, change blue answer also
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1007,6 +1044,7 @@ $\dfrac{5} {8}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1091,6 +1129,7 @@ $8 {:} 40 \ \text {a.m.}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1180,6 +1219,7 @@ $1.5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1551,6 +1591,7 @@ $89$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1785,6 +1826,7 @@ $3.7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1986,6 +2028,18 @@ Autumn's number $= 2 \times 6 = 12$.
 $12$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+katex error.First list factors of 72.. and use that.. 
+
+Not x or y variable . use a, b, c. 
+
+ refer to DACF41B7-F660-4A37-8522-2D3B2583F3CA or similar.
+
+
 </div>
 
 <div class='review'>
@@ -2376,6 +2430,14 @@ $
 $25 \ \text {cm} ^ 2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Explanation/formulas please. take tips from 4F58585B-5B01-496D-8865-FFF0FEAC8FD6
+
+not directly related. thou. 
 </div>
 
 <div class='review'>
@@ -3052,6 +3114,28 @@ $2400 \text{g}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+2.4 kg change in blue answer also
+
+
+
+Part b
+
+1 kg = 1000 g
+
+1 x 2.4 kg = 1000 x 2.4 
+
+= 2400 g
+
+
+
+change in blue answer to $2400 \text {g}$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3573,6 +3657,48 @@ $18 \ \text {stickers}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt A 
+
+Perimeter P capital = 2 x (length + width)
+
+in step 3 take 24 out of brackets.
+
+= 48 cm
+
+do in blue answer too..
+
+
+
+Part B 
+
+not perimeter! Area of the card = lengthn x width
+
+= 18 x 6
+
+= 108 cm^2
+
+do in blue answer too..
+
+
+
+PArt C 
+
+Maximum Stickers she can fit &= Area of card / Area of sticker
+
+=108 / 3 x 2 
+
+= 3 x 2 x 18 / 3 x 2 
+
+= cancel now
+
+ = 18 
+
+Blue answer = 18 Stickers
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

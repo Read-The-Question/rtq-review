@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-10"
 title: "TopicPaper - Number - 10"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -58,9 +58,7 @@ $86,014$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -147,9 +145,7 @@ $0.72$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -523,9 +519,7 @@ $((4 \times 4) + 4) \div 4 = 5$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -859,9 +853,7 @@ $11$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1067,9 +1059,7 @@ $-2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1244,9 +1234,7 @@ $325.5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1389,9 +1377,7 @@ $64$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1683,9 +1669,7 @@ $64$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1880,8 +1864,59 @@ $128$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change : Percentage of Women members = Fraction (Women members) x 100%
+
+Delete Step 2 (repeats)
+
+Delete % from mid steps. only start and end. 
+
+in your step 5 : do not multiply to 40 . let it remain 2 x 20
+
+= cancel 2 x 20 x 5 / 5
+
+= 2 x 20
+
+= 40% (delete text)
+
+
+
+PArt B : 
+
+No. of Male members = Fraction(Men members) x Total (Members)
+
+Change = 3 x 160 / 3 
+
+Change in = cancel step
+
+Last step = 160 ( no text)
+
+
+
+PArt C
+
+Total child members = Total members - Women members - Men members
+
+Delete step 2 and change further steps as below
+
+
+
+= 480 - (40% x 480) - 160) (as we have solved for 160 in previous question we do not need to solve again)
+
+= 480 - 40/100 x 480 - 160 (no more brackets solve this end)
+
+2nd last step will be 
+
+= 480 - 192 - 160
+
+= 128
+
+Delete Therefore.....
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1956,9 +1991,7 @@ $204035082$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2547,9 +2580,7 @@ $\dfrac{8} {9}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2800,9 +2831,7 @@ $\pounds 13$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3096,8 +3125,11 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+answer /subquestion representation wrong. subquestion are down and answers are up
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3239,9 +3271,7 @@ $498$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3316,9 +3346,7 @@ $13083$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3402,9 +3430,7 @@ $\text{One million, five-hundred twenty-thousand, one-hundred}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3578,9 +3604,7 @@ $18046$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3655,9 +3679,7 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4112,9 +4134,7 @@ $40 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4326,9 +4346,7 @@ $704$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4409,9 +4427,7 @@ $\text {Ninety nine thousand eight hundred eighty nine}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4559,9 +4575,7 @@ $\text {Y}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4647,9 +4661,7 @@ $27.23$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4736,9 +4748,7 @@ $9.61$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4820,9 +4830,7 @@ $0.55$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4953,9 +4961,7 @@ $2398$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5127,9 +5133,7 @@ $71.4$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5325,9 +5329,7 @@ $4.23$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

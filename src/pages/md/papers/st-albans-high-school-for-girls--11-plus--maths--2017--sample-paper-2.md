@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2017-sample-paper-2"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $111$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -140,6 +141,7 @@ $291$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -228,6 +230,7 @@ $20.14$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -308,6 +311,7 @@ $162$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -437,6 +441,7 @@ $18046$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -510,6 +515,7 @@ $\text{Three million, sixty thousand, one hundred and twenty}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -595,6 +601,7 @@ $3$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -678,6 +685,16 @@ $
 $21$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+In S1 add space, In S3 remove 1s, Remove S4 and S5
 </div>
 
 <div class='review'>
@@ -1336,6 +1353,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1431,6 +1449,20 @@ $2 \dfrac {1} {2}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove first two sentences
+
+Enter missing after S1
+
+Remove last sentence
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1524,6 +1556,7 @@ $\text{Smallest} = 2002$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1615,6 +1648,7 @@ $\pounds 3.28$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1968,6 +2002,7 @@ $21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3269,6 +3304,7 @@ $40 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3685,6 +3721,7 @@ $24 \ \text{Balloons}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3774,6 +3811,7 @@ $5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3995,6 +4033,7 @@ $64$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

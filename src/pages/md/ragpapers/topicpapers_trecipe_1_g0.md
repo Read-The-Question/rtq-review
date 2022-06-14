@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-trecipe-1-g0"
 title: "TopicPaper - Recipe - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -125,9 +125,7 @@ $60$ cupcakes
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -350,9 +348,7 @@ $45 \ \text{grams}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -577,9 +573,7 @@ $210 \ \text{grams}, \ 210 \ \text{grams}, \ 15 \ \text{twists}, \ 120 \ \text{m
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

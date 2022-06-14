@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -71,6 +71,7 @@ $63$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -168,6 +169,7 @@ $0.601$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -269,6 +271,7 @@ $85 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -364,6 +367,7 @@ $78\%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -516,6 +520,12 @@ $
 $\pounds 3.15$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+1.) Cost of...not The cost of, 2.) 0.45 not 0.0.45, 3.) write &= \pounds 3.15 in last line, 4.) in the answer its 3.15 not 3.156
 </div>
 
 <div class='review'>
@@ -680,6 +690,7 @@ $3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -769,6 +780,7 @@ $\dfrac{9}{20}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -875,6 +887,12 @@ $28$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+WRONG WORKING check tarea in site EDIT : Nothing changed??
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -969,6 +987,7 @@ $52.55$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1127,6 +1146,12 @@ $14$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+CHECK WORKING (126÷n=9......126/n = 9.....126 = 9xn.... then the 9n = 126 step) :(
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1217,6 +1242,7 @@ $6c - 3d$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1453,6 +1479,7 @@ $50 \ \text{cm}^{2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1550,6 +1577,12 @@ $
 $5.3 \ \ \text{Kilograms}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Step 4 : \dfrac{53 \times 1\cancel{00}}{10{\cancel{00}}
 </div>
 
 <div class='review'>
@@ -1665,6 +1698,7 @@ $3,-1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1958,6 +1992,7 @@ $576$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2204,6 +2239,7 @@ $4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2378,6 +2414,7 @@ $4.272$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2471,6 +2508,12 @@ $
 $-1$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write As per the question
 </div>
 
 <div class='review'>
@@ -2570,6 +2613,7 @@ $\dfrac{11}{10}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2879,6 +2923,12 @@ $190$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL in the website
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2997,6 +3047,7 @@ $50$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3088,6 +3139,12 @@ $9899$
 $9899$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+write in katex align...... Largest 4 digit number=...Smallest 3 digit number =.....Difference=.....and solve it
 </div>
 
 <div class='review'>
@@ -3273,6 +3330,12 @@ $
 $26 \ \text{cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Follow coding guilines.. no need to put l and b in text.. Write the statement(use macro) for perimeter .... too many correction, Please refine it.. Refer a perimeter question in the website..
 </div>
 
 <div class='review'>
@@ -3507,6 +3570,12 @@ $
 $900$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Follow coding guilines.. no need to put L and S in text..  too many correction, Please refine it.. Please refer to j/uday for this question 
 </div>
 
 <div class='review'>

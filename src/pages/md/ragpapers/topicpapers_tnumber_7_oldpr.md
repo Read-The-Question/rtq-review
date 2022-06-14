@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-7-oldpr"
 title: "TopicPaper - Number - 7 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -150,8 +150,13 @@ $37$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+use array for part a
+
+&= in part C and give spaces
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -460,8 +465,11 @@ $26$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+katex error part G
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

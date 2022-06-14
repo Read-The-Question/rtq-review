@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-2"
 title: "TopicPaper - Detailedsubtraction - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -75,9 +75,7 @@ $184$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -160,9 +158,7 @@ $375$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -244,9 +240,7 @@ $56$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -328,9 +322,7 @@ $1013$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -420,8 +412,13 @@ $1012$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -511,8 +508,13 @@ $1003$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -602,8 +604,13 @@ $1033$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned
+
+Remove the phrase alternative solution
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -687,9 +694,7 @@ $376$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -773,9 +778,7 @@ $1903$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -857,9 +860,7 @@ $74$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -941,9 +942,7 @@ $291$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1025,9 +1024,7 @@ $249$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1116,9 +1113,7 @@ $696$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1205,9 +1200,7 @@ $0.21$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1354,9 +1347,7 @@ $52.55$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1438,9 +1429,7 @@ $773$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1522,9 +1511,7 @@ $49$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1607,9 +1594,7 @@ $34$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1691,9 +1676,7 @@ $66$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1775,9 +1758,7 @@ $21$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1859,9 +1840,7 @@ $25$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1944,8 +1923,11 @@ $32$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Wrong operator
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2027,9 +2009,7 @@ $39$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2111,9 +2091,7 @@ $49$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2195,9 +2173,7 @@ $6646$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2283,8 +2259,11 @@ $1773$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2370,8 +2349,11 @@ $7113$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2460,9 +2442,7 @@ $2709$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2544,9 +2524,7 @@ $5745$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2630,8 +2608,11 @@ $2148$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2717,8 +2698,11 @@ $2.23$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add decimal prompt
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2801,9 +2785,7 @@ $8760$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2885,9 +2867,7 @@ $8072$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2969,9 +2949,7 @@ $3087$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3053,9 +3031,7 @@ $2667$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3137,9 +3113,7 @@ $1886$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3221,9 +3195,7 @@ $2745$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3305,9 +3277,7 @@ $4556$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3389,9 +3359,7 @@ $1667$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

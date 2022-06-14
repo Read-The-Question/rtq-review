@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-torder-2"
 title: "TopicPaper - Order - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -180,9 +180,7 @@ $24$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -326,9 +324,7 @@ $\dfrac {1} {8}, \quad \dfrac {1} {3}, \quad \dfrac {3} {5}, \quad \dfrac {3} {4
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -432,9 +428,7 @@ $60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -513,9 +507,7 @@ $0.04, \quad 0.042, \quad 0.204, \quad 0.24, \quad 0.40$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -752,9 +744,7 @@ $\dfrac {2} {5},  \quad \dfrac {3} {7}, \quad 0.43, \quad 44 \%$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -850,9 +840,7 @@ $\dfrac{25}{30}, \quad \dfrac{17}{20}, \quad \dfrac{13}{15}, \quad \dfrac{7}{8},
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1020,8 +1008,11 @@ $20\% , \quad \dfrac {1} {6} , \quad 0.15$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Put in last two steps > or <
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1102,9 +1093,7 @@ Largest $= 0.79$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1234,9 +1223,7 @@ Largest $= \dfrac {2} {5}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1357,8 +1344,11 @@ $\dfrac {2} {5}, \quad \dfrac {3} {8}, \quad \dfrac {1} {3}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE >or < in last 2 step.s and in alternative solution (and s small in alternative solution)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1443,9 +1433,7 @@ $0.92, \quad 0.909, \quad 0.9$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1548,9 +1536,7 @@ Smallest $= 0.65$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1635,9 +1621,7 @@ $0.11> \quad 0.101> \quad 0.011$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1775,9 +1759,7 @@ Smallest $= \dfrac {3} {5}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1862,9 +1844,7 @@ $0.21, \quad 0.201, \quad 0.021$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1949,9 +1929,7 @@ $3.33, \quad 3.303, \quad 3.3, \quad 3.03, \quad 3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2036,9 +2014,7 @@ $7.77, \quad 7.707, \quad 7.7, \quad 7.07, \quad 7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2197,9 +2173,7 @@ $0.7, \quad 75 \%, \quad \dfrac {770} {1000}, \quad \dfrac {7} {9}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2296,8 +2270,11 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put > or < than is 2nd last and  last step.  but blue answer remains unchanged.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2642,9 +2619,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2833,8 +2808,11 @@ $0.909$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+no text direct answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3100,9 +3078,7 @@ $0.2, \quad 0.21, \quad \dfrac {3} {10}, \quad 0.36, \quad \dfrac {37} {100}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3184,9 +3160,7 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3309,9 +3283,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3471,9 +3443,7 @@ $\dfrac {2} {5}, \quad 0.467, \quad 48\%, \quad \dfrac {1} {2}, \quad 0.55$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3556,9 +3526,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3643,9 +3611,7 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3741,9 +3707,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3828,9 +3792,7 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3983,9 +3945,7 @@ $0.601$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

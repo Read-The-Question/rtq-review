@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-11"
 title: "TopicPaper - Number - 11"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -58,9 +58,7 @@ $203170$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -143,9 +141,7 @@ $1.881$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -343,9 +339,7 @@ $-1$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -491,9 +485,7 @@ $25$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -571,9 +563,7 @@ $\text {Four hundred twenty-one thousand eight hundred}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -651,9 +641,7 @@ $\text {One million eight hundred eighty-two thousand seven hundred}}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -836,9 +824,7 @@ $0.7$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -993,9 +979,7 @@ $11 \ \text {mm}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1071,9 +1055,7 @@ $\text {One hundred eighty six thousand miles per second}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1286,9 +1268,7 @@ $15, -7$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1436,9 +1416,7 @@ $45.2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1606,9 +1584,7 @@ $18, 36, 54, 72$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1773,8 +1749,11 @@ $72, 86$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1925,9 +1904,7 @@ $33.5$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2004,8 +1981,11 @@ $\text {Two hundred forty-three thousand six hundred \ km}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+out of katex and in wokings km2...and in blue answer... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2081,8 +2061,11 @@ $\text {Seven million six hundred ninety two thousand twenty four \ km}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+text only not in katex
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2233,9 +2216,7 @@ $124.08$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2411,9 +2392,7 @@ $\text{Prime Number}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2564,9 +2543,7 @@ $7000$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2707,9 +2684,7 @@ $29$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2790,9 +2765,7 @@ $3$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2880,9 +2853,7 @@ $\pounds 1.85$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2960,9 +2931,7 @@ $42008$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3168,8 +3137,13 @@ $687$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3254,8 +3228,11 @@ $\text{Twenty one thousand one hundred seventy one}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+no array.. refer coding rules
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3403,9 +3380,7 @@ $51$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3491,9 +3466,7 @@ $6$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3577,8 +3550,11 @@ $0.13$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+direct answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3666,8 +3642,11 @@ $3, 7, 11$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+katex error
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3805,9 +3784,7 @@ $5.5$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3904,9 +3881,7 @@ $2 \dfrac {1} {2} \quad 2 \dfrac {6} {11} \quad 2 \dfrac {2} {5}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4043,9 +4018,7 @@ $90$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4129,9 +4102,7 @@ $\dfrac{2}{3}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4363,9 +4334,7 @@ $5.7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

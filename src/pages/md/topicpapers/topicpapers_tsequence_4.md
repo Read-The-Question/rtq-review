@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-4"
 title: "TopicPaper - Sequence - 4"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -272,8 +272,11 @@ $29, 40$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b difference is -4, part c+d  comma missign after first dots. Part d description missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -691,8 +694,11 @@ $594$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b description missign. part c can be simple 100,90,80,,
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1061,9 +1067,7 @@ $21, 34$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1748,9 +1752,7 @@ $96, 48, 24, \dfrac {3} {2}, \dfrac {3} {4}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2327,8 +2329,11 @@ $13, 21$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+description missing /line 1 missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2606,9 +2611,7 @@ $122, 365$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2885,9 +2888,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3195,9 +3196,7 @@ $43, 37$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3381,9 +3380,7 @@ $24, 3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3562,8 +3559,11 @@ $-1, -7$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\div 2 b. katex spacing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3672,9 +3672,7 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4038,9 +4036,7 @@ $315, 240$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4438,9 +4434,7 @@ $0.35$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4558,9 +4552,7 @@ $65$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4675,9 +4667,7 @@ $3,-1$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4796,9 +4786,7 @@ $50$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4972,9 +4960,7 @@ $17 - 4n$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5085,8 +5071,47 @@ $6$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Make a markup table  with Row and Column (4 x 4 table) as in the question paper only with heading Column 1 .. Row 1..
+
+
+
+Put Value : and for eg. in empty put \"R1C3\" (Row 1 Column 3
+
+
+
+To find B we need to first find the value of R1C3. 
+
+
+
+As per the question, solving diagonally,  
+
+
+
+R1C3 &= 30 - 9 - 10
+
+&= 11 
+
+
+
+Now lets find value of B, solving Row 3 
+
+
+
+13 + B + 11 = 30 
+
+B = 30 - 13 - 11
+
+= 6
+
+
+
+The number that replaces $B = 6$
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5183,9 +5208,7 @@ $A = 14$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5294,8 +5317,27 @@ $22$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change tag to tsequence (or if @UP gave new name then that=  please)
+
+
+
+Add a second answer. Put your answer in second answer and put the following in first answer . (katex and formating you take care, I type free)
+
+Lets convert the pattern into numbers and find the difference between the consecutive terms of the sequence. 
+
+
+
+The difference between the terms is 6 matches extra. Hence, the sequence would be:
+
+(Present how we do normal seuqence question presentation with red on top.) 
+
+
+
+Last sentence : No. of matches the 4th shape will have$=22$ 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -5466,9 +5508,7 @@ $45$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -6724,9 +6764,7 @@ $37$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -7021,9 +7059,7 @@ $51$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

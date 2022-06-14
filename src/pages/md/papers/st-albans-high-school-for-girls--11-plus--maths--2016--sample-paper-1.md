@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $132$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $74$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $168$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -350,6 +353,7 @@ $13083$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -432,6 +436,7 @@ $\text{One million, five-hundred twenty-thousand, one-hundred}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -532,6 +537,16 @@ $4 \dfrac {2} {5}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove the second solution
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -625,6 +640,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1005,6 +1021,7 @@ $\dfrac {1} {3}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1723,6 +1740,7 @@ $140 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2070,6 +2088,7 @@ $150 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2624,6 +2643,7 @@ $5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

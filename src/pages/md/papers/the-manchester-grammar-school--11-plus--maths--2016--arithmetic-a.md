@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $1237$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -147,6 +148,7 @@ $171900$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -227,6 +229,7 @@ $0.35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -311,6 +314,7 @@ $\dfrac{3}{8}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -412,6 +416,7 @@ $5.9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -494,6 +499,18 @@ $
 $2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S5 to 85-32/20
+
+Give answer as only a mixed fraction
 </div>
 
 <div class='review'>
@@ -622,6 +639,7 @@ $51$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -727,6 +745,7 @@ $105 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -820,6 +839,7 @@ $\pounds 50$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -927,6 +947,12 @@ $
 $144 \ \text{cm}^{2}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+rtq_abbr_katex_formula_perimeter_rectangle
 </div>
 
 <div class='review'>
@@ -1176,6 +1202,7 @@ $130 \ \text {grams}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1267,6 +1294,7 @@ $129$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1363,6 +1391,7 @@ $\text{February } 13$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1451,6 +1480,7 @@ $\dfrac { 6 } { 25 }$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1667,6 +1697,20 @@ $\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change inferred to solved
+
+Remove 1s where not required
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1834,6 +1878,7 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

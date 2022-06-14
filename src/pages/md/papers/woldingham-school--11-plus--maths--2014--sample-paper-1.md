@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,6 +53,12 @@ $6 \times 8 = 48$
 $48$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned
 </div>
 
 <div class='review'>
@@ -130,6 +136,12 @@ $70 \div 10 = 7$
 $7$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write direct answer $70 \div 10 = 7$
 </div>
 
 <div class='review'>
@@ -216,6 +228,12 @@ $40$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+&= \dfrac{40 \cancel{0} \cancel{0}}{1 \cancel{0} \cancel{0}}  \\ (do not cancel zeros singly) its \cancel {00}
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -288,6 +306,12 @@ $7 \times 8 = 56$
 $56$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use aligned
 </div>
 
 <div class='review'>
@@ -369,6 +393,7 @@ $432$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -447,6 +472,7 @@ $9800$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -531,6 +557,7 @@ $32.4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -614,6 +641,7 @@ $0.82$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -691,6 +719,7 @@ $18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -772,6 +801,7 @@ $57$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -851,6 +881,7 @@ $\dfrac{3} {5}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -932,6 +963,16 @@ $
 $\dfrac {1} {6}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 where not required
 </div>
 
 <div class='review'>
@@ -1016,6 +1057,7 @@ $\dfrac {4} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1089,6 +1131,7 @@ $3 \dfrac{1}{2}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1280,6 +1323,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1846,6 +1890,7 @@ Any number between $795$ to $805$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2169,6 +2214,12 @@ $44 \dfrac {4} {5}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part ii) and Part iii) and Part b) Solve with Uday
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2337,6 +2388,7 @@ $-5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2914,6 +2966,7 @@ $1125$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3428,6 +3481,7 @@ $48$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2017-sample-paper-8"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $125$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $49$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $406$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -303,6 +306,7 @@ $13$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -413,6 +417,52 @@ $
 $6$ and $8$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+ Create two answers.. copy past toml structure 
+
+Refer UUID : CC0F7948-FB93-4B7D-B62E-499490AD2FB6 (for the trial and error method) and push your answer in the second answer.
+
+
+
+Change in your answers:
+
+Let the first number be $=a$ 
+
+and let the second number $= b$
+
+
+
+As per the question, 
+
+
+
+after a + b = 14 
+
+              b = 14 - a
+
+Lets....
+
+a x b = 48
+
+a x (14 -a) = 48
+
+solve further ... (but not with x substitute!)
+
+
+
+The two numbers are 6 and 8. 
+
+
+
+Lets check
+
+a + b = 6 + 8 = 14
+
+a x b = 6 x 8 = 48
 </div>
 
 <div class='review'>
@@ -548,6 +598,7 @@ $2468$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -630,6 +681,7 @@ $17$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -859,6 +911,7 @@ Catherine $=$ $7 \ \text {years}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1644,6 +1697,7 @@ $15$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

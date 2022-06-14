@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -182,6 +182,7 @@ $402$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -261,6 +262,7 @@ $\pounds 16$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -438,6 +440,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -924,6 +927,18 @@ $15$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Write units in last step and answer
+
+Part b) Remove £ in the first step, Change S6 to 3 x 5
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

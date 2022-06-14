@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-12-oldpr"
 title: "TopicPaper - Number - 12 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -113,8 +113,33 @@ $56$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a 
+
+Using BIDMAS, (comma) use begin {aligned\} not array 
+
+add steps 2 &= 24 - 10 + 6
+
+= 24 - 4
+
+= 20
+
+PArt B 
+
+Same as part a 
+
+= 72 x 7   / 9 
+
+= 9 x 8 x 7 / 9
+
+= cancel
+
+= 8 x 7 
+
+= 56
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -387,9 +412,7 @@ $1, 2$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -552,9 +575,7 @@ $3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -653,9 +674,7 @@ $\dfrac{11}{10}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -750,8 +769,11 @@ $9899$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+write in katex align...... Largest 4 digit number=...Smallest 3 digit number =.....Difference=.....and solve it
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -837,9 +859,7 @@ $2$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -942,8 +962,11 @@ $8.32$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+change: 460 to 640                                                                                                                                                                      line 2: digits after the decimal point is three. two.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1035,9 +1058,7 @@ $\dfrac{9}{10}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1136,9 +1157,7 @@ $25, 4$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1238,9 +1257,7 @@ $125, 8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

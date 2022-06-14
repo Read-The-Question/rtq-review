@@ -1,7 +1,7 @@
 ---
 slug: "papers/sydenham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Sydenham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $6579$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $773$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,12 @@ $
 $2926$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+KATEX hasnt worked
 </div>
 
 <div class='review'>
@@ -359,6 +367,16 @@ $80$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change S6 to 5 x 16
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -455,6 +473,7 @@ $45$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -593,6 +612,7 @@ $27.9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -671,6 +691,7 @@ $370$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -783,6 +804,12 @@ The two integers are $3 \ \text{and} 6$.
 $3 \ \text{and} 6$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+refer 71244B72-5BA2-4E9F-B6E1-473CCA0B319A
 </div>
 
 <div class='review'>
@@ -1098,6 +1125,12 @@ $28$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Show the wroking please.. for both parts
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1186,6 +1219,7 @@ $1 \ \text{and} 8$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1269,6 +1303,20 @@ $
 $9$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Let the number Sam thinks of = a
+
+
+
+APTQ,
+
+start katex with
+
+3a - 3 & = 2a + 6 (that way no jumping sides is required) check for katex error
 </div>
 
 <div class='review'>
@@ -1564,6 +1612,16 @@ $\dfrac {7} {19}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+More detailed workings and change answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1644,6 +1702,7 @@ $5 \degree \text {C}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1756,6 +1815,7 @@ $0$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1836,6 +1896,7 @@ $4 {:} 50 \ \text {pm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2035,6 +2096,7 @@ $135$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2719,6 +2781,22 @@ $30 \degree$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Pat A
+
+As per the diagram,
+
+
+
+Katex error in blue answer. 
+
+Part B
+
+show working for y = 30 ... y = 180/6......
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2882,6 +2960,7 @@ $20$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3146,6 +3225,7 @@ $80 \ \text {cm}^2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3488,6 +3568,7 @@ $\pounds 7,\pounds 1,\pounds 1$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-oldpr"
 title: "TopicPaper - Detailedmultiplication - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -51,8 +51,11 @@ $16.848$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use array
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -193,9 +196,7 @@ $624$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -284,9 +285,7 @@ $1 \ \text{and} 8$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

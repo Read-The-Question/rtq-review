@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2014-sample-paper-5"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2014 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $64$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $25$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $306$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -353,6 +356,7 @@ $24024$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -426,6 +430,7 @@ $600$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -516,6 +521,7 @@ $30$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -661,6 +667,7 @@ $111 \text{ kg}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1013,6 +1020,7 @@ $13, 4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1286,6 +1294,7 @@ $\pounds 32$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

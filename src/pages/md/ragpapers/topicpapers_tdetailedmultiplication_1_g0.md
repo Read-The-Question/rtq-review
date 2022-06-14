@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-1-g0"
 title: "TopicPaper - Detailedmultiplication - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,9 +55,7 @@ $15980$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -143,8 +141,11 @@ $34306$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Sign in the wrong place
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -235,8 +236,11 @@ $12000$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Use aligned, detailed steps not required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -321,9 +325,7 @@ $1596$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -415,8 +417,11 @@ $0.006$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove full stop after 2 x 3 = 6
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -555,8 +560,11 @@ $3744$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part b) show full workings
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

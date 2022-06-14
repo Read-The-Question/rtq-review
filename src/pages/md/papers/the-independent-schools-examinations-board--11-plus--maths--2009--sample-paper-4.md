@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2009-sample-paper-4"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2009 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -282,6 +282,7 @@ $\text {Thousand}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -509,6 +510,7 @@ $\pounds 51.9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -720,6 +722,7 @@ $64 \ \text {p}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1461,6 +1464,20 @@ $50 \%$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt  a : Spacing : of60 mins, change to 3 x 20 and min to mins. both in end and blue answer
+
+Part B : same spacing. katex error ..remaining time is 60 - 20 = 40 ...not 20 check again and change answer..if 40 is correct then
+
+solve but 
+
+= 3 x 25 x 4 x 10 / 4 x 25
+
+Part C = is it not 15 min / 60 x 100 ?? solve accordingly if correct... 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1549,6 +1566,7 @@ $250 \ \text{m} \ , \quad 0.5 \ \text{km} \ , \quad 502 \ \text{m} \ , \quad 0.5
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2454,6 +2472,7 @@ $\pounds 7.14$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2820,6 +2839,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -220,6 +220,7 @@ $86,014$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -299,6 +300,7 @@ $\dfrac {15} {28}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -395,6 +397,7 @@ $\pounds 18.29$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -480,6 +483,7 @@ $0.72$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -699,6 +703,7 @@ $-2,5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -896,6 +901,7 @@ $8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1012,6 +1018,7 @@ $10, 11, 9$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1174,6 +1181,7 @@ $\pounds 27, \pounds 13.5, \pounds 9$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

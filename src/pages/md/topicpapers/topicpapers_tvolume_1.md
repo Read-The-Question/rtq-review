@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tvolume-1"
 title: "TopicPaper - Volume - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -451,9 +451,7 @@ $38$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

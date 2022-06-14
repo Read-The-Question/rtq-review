@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,6 +67,7 @@ $210 \text{ minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -159,6 +160,7 @@ $\dfrac {4} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -246,6 +248,7 @@ $0.08$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -388,6 +391,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -601,6 +605,7 @@ $ 4 \ \text{hours} \ 47 \ \text {minutes}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -686,6 +691,7 @@ $nine tenths$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -794,6 +800,7 @@ $80 \text{p}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1482,6 +1489,7 @@ $3.55, \quad 5.35, \quad 5.53, \quad 35.5, \quad 53.5, \quad 55.3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2416,6 +2424,7 @@ $44$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

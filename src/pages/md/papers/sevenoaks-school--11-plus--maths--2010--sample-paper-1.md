@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -58,6 +58,7 @@ $298$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,12 @@ $
 $58536$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place
 </div>
 
 <div class='review'>
@@ -282,6 +289,7 @@ $219$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -370,6 +378,7 @@ $-,\div, +, \times$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -576,6 +585,7 @@ $55$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -723,6 +733,7 @@ $1, 7, 49$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -862,6 +873,7 @@ $1.6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -954,6 +966,7 @@ $315 \ \text{cm}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1603,6 +1616,7 @@ $15 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

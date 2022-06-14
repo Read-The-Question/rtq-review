@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-5"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -234,6 +234,7 @@ $49643$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -375,6 +376,7 @@ $39$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -498,6 +500,7 @@ $((3 \times  7) - (6 \times (4 - 3)))$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -641,6 +644,7 @@ $402.6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -743,6 +747,7 @@ $a=12 b=0,a=3 b=12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1130,6 +1135,7 @@ $35,42$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1324,6 +1330,7 @@ $-28$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1503,6 +1510,12 @@ $0.2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNMENT AND \dfrac {} {} and all
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

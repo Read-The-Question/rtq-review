@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2008-sample-paper-group-2"
 title: "City Of London School - 11 Plus - Maths - 2008 - Sample Paper Group 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -880,6 +880,7 @@ $13$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -967,6 +968,7 @@ $\pounds 27.5$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1799,6 +1801,7 @@ $6$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2061,6 +2064,7 @@ $45 \ \text {m.p.h}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2143,6 +2147,7 @@ $112$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2232,6 +2237,7 @@ $90 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

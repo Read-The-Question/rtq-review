@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -120,8 +120,53 @@ $83 \ \text {m} ^ 2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a:
+
+(i could not follow your calculations)
+
+
+
+Perimeter = Sum of all sides
+
+= 5m + (12m -7m)+ (9m - 5m) + 12m + 9m + 7m
+
+= 5m + 5m+4m + 12m + 9m + 7m
+
+=42m
+
+=  (please put unit ) m (without any space before m but in \text)
+
+
+
+Remove \\  (in last line of katex no spacing)
+
+Blue answer also put m 
+
+
+
+Part B: (i could not follow your calculations)
+
+
+
+On decomposing the shape of the garden, we find  2 regular rectangles.
+
+
+
+Area of the garden &= First Rectangle (length x width) + Second rectangle ( length x width)
+
+= (7m x 5 m) + (12m x (9m - 5m))
+
+=  (7m x 5 m) + (12m x 4m)
+
+= 35m^2+48m^2
+
+= 83m^2
+
+Change blue answer accordingly.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -207,8 +252,25 @@ $19.4 \ \text {cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put a tag for the question please
+
+Correct katex error.
+
+
+
+Put $\begin {aligned} and \end {aligned}$ (totally missing)
+
+Pertimeter of a rectangle =  2 x length x width = sum of all sides
+
+= 6.1 + 6.1 + 3.6 + 3.6
+
+= 12.2 + 7.2
+
+= 19.4 \ \text {cm}
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -296,8 +358,31 @@ $18 \ \text {cm} ^ 2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Add tag please \tarea
+
+
+
+Area of right triangel = 1/2 x base x height
+
+= (katex error) \dfrac 1/2 4.5 x 8
+
+= 4.5 x 8 / 2
+
+= 4.5 x 4 x 2 / 2
+
+= cancel
+
+= 4.5 x 4
+
+= 18 \ \text{cm}^2
+
+Blue answer change $18 \ \text{cm}^2$ 
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -398,8 +483,51 @@ $98 \ \text {cm} ^ 2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put a tag for the question please.
+
+As per the question, the wire piece of 42 cm is bent into the shape of a rectangle. 
+
+
+
+The total length of the wire is perimeter of the rectangle. The length of the rectangle is twice its width.
+
+
+
+Lets take the width = w
+
+
+
+2 x (length x width)  = Perimeter
+
+2 x (2w x w) = 42 cm
+
+4w + 2w = 42 
+
+6w = 42 
+
+w = 6 x 7 / 6
+
+w = 7 cm
+
+
+
+Lets find the area of the rectangle.
+
+
+
+Area of a rectangle = length x width
+
+= 2x7 x 7 
+
+= 98 cm^2
+
+
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -601,8 +729,35 @@ $81 \text{cm}^2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt A & Part B same change
+
+PArt A Step 1 inside katex Perimeter &= 2×(14+9)
+
+
+
+PArt B Step 1 inside katex Area  = ...
+
+
+
+Part C 
+
+Line 1 =.... Side (no brackets and caps)
+
+Step 1 katex : 4 x Side =.... give space before cm (in whole answer) 
+
+Side = solve further 
+
+
+
+Area of a square &= Side^2
+
+               &= 9^2
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -860,8 +1015,63 @@ $52 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+PArt A  inside katex Step 1 Perimeter &= 2×(22+9)
+
+Part b
+
+Solve again you need to find Area not length.
+
+refer UUID : 4F58585B-5B01-496D-8865-FFF0FEAC8FD6 except the length part may not be needed.
+
+PArt C 
+
+Put this text at top
+
+The area of irregular shapes can be determined by dividing the given shape into smaller regular shapes.
+
+
+
+Lets extend the left line to the side of 6 cm and create two Rectangles. Rectangle L and Rectangle R
+
+Area of the shape = Area of Rectangle L + Area of Rectangle R)
+
+= (length x .....) + (len.....) 
+
+= (17 -6) x 8 + 6 x 11
+
+solve further.. 
+
+Part D
+
+
+
+Let the side... delete \"be\" 
+
+Step 1 katex : Side x Side = Area
+
+Step 2 a x a = 169 
+
+Step 3  = 13 x 13 
+
+then your step 4 + 5  
+
+
+
+Lets find the perimeter of the square.
+
+start katex
+
+Perimeter of the square = 4 x Side
+
+= 4 x a 
+
+solve like you did...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -962,8 +1172,17 @@ $500$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+You refered to the correct UUID but did not change the text. please change the text per this question.
+
+wall = Floor
+
+After step 3 (with cm) cancel in step 4 and change 6 to 2 x 3 and cancel also. . not need to create a new step without cm...
+
+step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I was corrected later in my review.. If there are variables then only summary sentence otherwise not. . So delete the last sentence. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1047,8 +1266,13 @@ $28.4 \ \text{cm}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Area &= 4 x 7.1 
+
+        &= 28.4 \text{cm}^2 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1228,8 +1452,33 @@ $31.33 \ \text{cm}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
+
+Use spacing \\ Put space between number and cm.. same in blue answer
+
+PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \
+
+Change to : Volume of tank = ....... (before height put \text  use \\ spacing not \
+
+same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
+
+PArt C : APTQ,
+
+
+
+Volume of 24 litres = 24 x 1000^3
+
+Volume = l x h x w 
+
+24000cm^3=  60 x h x 30  
+
+solve for h... till 20 cm (not 20 cm2)
+
+change blue ansawer accrodingly.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1402,8 +1651,37 @@ $204 \ \text{m}^2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A :
+
+Delete upper part. Start direclty with katex, align at &=
+
+Area of flower bed = .....
+
+Substitute
+
+make 6 to 2 x 3 
+
+cancel
+
+use right units with correct spacing... 
+
+Part B 
+
+same Start with katex
+
+Area of whole garden = use cm here too......(solve like you did ) align at &= put spacing in katex .. \times (space) 12
+
+Part C 
+
+Not solved!
+
+ Area (Grass) = Total Area - Area (Flower bed) \times 4
+
+solve.. use correct units and spacing before units.. if needed
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1501,8 +1779,13 @@ $117 \ \text{cm}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Katex error add \begin{aligned}..\end{aligned}
+
+change step 1 : Jump the sides. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1609,8 +1892,11 @@ $28$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+WRONG WORKING check tarea in site EDIT : Nothing changed??
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1711,9 +1997,7 @@ $4$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1838,8 +2122,11 @@ $26 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Follow coding guilines.. no need to put l and b in text.. Write the statement(use macro) for perimeter .... too many correction, Please refine it.. Refer a perimeter question in the website..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1937,8 +2224,11 @@ $96 \ \text{cm}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+line 1: As per the question,  (A) (,)                                                                                                                                            step 1: Delete (Not required, it understood from the diagram)                                                                                                   step 2: Delete (Not required, it understood from the diagram)                                                                                         step 3: Delete & replace with  rtq_abbr_katex_formula_area_rectangle_expanded                                                                                     end answer: remove \\                                                   
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2040,8 +2330,11 @@ $9.5 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+line 1, 2, 3: Delete                                                                                                                                                              line 4: change : Area of Parallelogram = Base $\times$ Height.                                                                                          write a proper katex with $\begin{aligned}                                                                        base \times height &= area of paralellogram                                               no need to take base as a leave it as base only and solve
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2216,8 +2509,11 @@ $528 \text{m}^2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+part A                                                                                                                                                                                                                                line 1: change: As per the diagram,                                                                                                                                                                                                                                add step 1:  \text{The house can be divided into} \  2  \ \text{rectangles} &= 20 \times 7  + (20 - 8) \times (18 - 7) \\                                                      your present step 1 will be step 2 now.                                                                                                                                                                             remove space in End answer & Final answer                   272 \ \text{m}^2                                                                                                                      align on &=       (see slack)                                                                                                                                                                                                      .                                                                                                                                                                                                                                  Part B                                                                                                                                                                                                                           use katex 2: Area of garden                                                                                                                                                                                            Add step 1:                                                                                                                                                                                                        {Area(garden)} = {Total area(house & garden)} - {Area(house)}                                                                                                                                     solve accordingly                                                                                                                                                                      
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2323,8 +2619,11 @@ $80 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+align on    &=        (see slack)                                                                                                                                                                                                                                   End answer:  change:  80 \ \text{cm}^2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

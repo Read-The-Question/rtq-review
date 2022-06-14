@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-oldpr"
 title: "TopicPaper - Temperature - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -53,9 +53,7 @@ $61 \degree \text{C}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -200,9 +198,7 @@ $-7 \degree \text {C}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

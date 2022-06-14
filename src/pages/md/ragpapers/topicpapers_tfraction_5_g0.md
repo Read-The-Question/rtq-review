@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g0"
 title: "TopicPaper - Fraction - 5 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,8 +59,19 @@ $\dfrac {5} {12}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Dont need to find the fraction halfway.
+
+Instead convert them to the same denominator
+
+to make it easier
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -149,8 +160,23 @@ $\dfrac {9} {25}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change first word to Lets
+
+Change reduce to eliminate
+
+Do the same to 9/25 what you did to the other fractions
+
+e.g. times by 3/5
+
+Last sentence remove the = sign
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -234,8 +260,15 @@ $8 \dfrac {1} {3}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove LHS
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -318,8 +351,15 @@ $\dfrac {3}{8}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove 1 in S2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -518,8 +558,15 @@ $\dfrac {8} {12}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove last sentence
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -663,8 +710,15 @@ $60$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove the capital letter
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -756,8 +810,19 @@ $\dfrac {5} {9}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Lets convert all the numbers into decimals
+
+Change to 0.43, 0.56, 0.64
+
+Change last sentence to 5/9 is the closest to 1/2
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

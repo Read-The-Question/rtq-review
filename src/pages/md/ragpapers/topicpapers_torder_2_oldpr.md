@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-torder-2-oldpr"
 title: "TopicPaper - Order - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -67,8 +67,11 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put > or < than is 2nd last and  last step.  but blue answer remains unchanged.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -145,9 +148,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -274,8 +275,11 @@ $0.909$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+no text direct answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -357,9 +361,7 @@ $0.051  \ \quad  0.5 \ \quad  0.5 \ \quad 0.507 \ \quad 0.56$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -436,9 +438,7 @@ $0.015  \ < \quad  0.1  \ < \quad  0.101  \ < \quad  0.105   \ < \quad 0.11   \ 
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -521,9 +521,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -608,9 +606,7 @@ $0.61 < \quad   6.01 < \quad   6.1 <  \quad   16.0$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -706,9 +702,7 @@ $\dfrac {3} {5} < \quad \dfrac {3} {5} < \quad \dfrac {17} {20} < \quad \dfrac {
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -793,9 +787,7 @@ $4.123 < \quad 4.132 < \quad 4.3 < \quad 4.32 < \quad 4.321$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

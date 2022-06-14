@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfactor-1"
 title: "TopicPaper - Factor - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -168,9 +168,7 @@ $2, 3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -261,8 +259,11 @@ $1 + 2 \times 3 \times 4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE a b c d small.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -337,9 +338,7 @@ $210$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -516,9 +515,7 @@ $3, \ 17$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -765,9 +762,7 @@ $1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -915,9 +910,7 @@ $1, 7, 49$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1048,8 +1041,11 @@ $12$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+take 24 in line 2 also out of text..
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1235,8 +1231,37 @@ $53$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A
+
+ Wrongly answered.
+
+The square numbers have an odd numbers of factors.
+
+16 = 4^2
+
+ 169 =13^2     
+
+Change your blue answer too.
+
+PArt B 
+
+Also wrong.
+
+3^2 = 9  \text {   or,   }
+
+4^2 = 16
+
+In blue answer only :  $9$
+
+PArt C:
+
+Change  \"Perferct Squares\" . change blue answer too.
+
+Part D :is correct
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1413,8 +1438,11 @@ $53$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to the corrections done in similar question in previous paper. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1777,9 +1805,7 @@ $6$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1927,9 +1953,7 @@ $2, \ 4, \ 8$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2080,8 +2104,11 @@ $23$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Direct answer in workings (no solving needed)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

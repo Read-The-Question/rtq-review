@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-1"
 title: "TopicPaper - Detailedaddition - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -73,9 +73,7 @@ $3.154$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -158,9 +156,7 @@ $4838$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -242,9 +238,7 @@ $2837$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -309,10 +303,10 @@ Add together $4867$ and $285$.
 
 $
 \begin{array}{cccccccccccccc}
-4   &  8    &   6   &   7 \\
-{}+ &   2   &   8   &   5 \\
+    &   4   &   8   &   6   &   7 \\
+{}+ &       &   2   &   8   &   5 \\
 \hline
-5   &   1   &   5   &   2
+    &   5   &   1   &   5   &   2
 \end{array}
 $
 
@@ -327,8 +321,15 @@ $5152$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Addition sign in wrong place
+
+
+
+Bring operator in right place (Code 1) 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -410,9 +411,7 @@ $6363$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -494,9 +493,7 @@ $3334$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -579,9 +576,7 @@ $724$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -670,9 +665,7 @@ $16.76$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -816,9 +809,7 @@ $25.51$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -853,7 +844,7 @@ $25.51$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8E6C9658-1FC1-4EAF-A90B-4BB9DCF42DB2</p>
 </div>
@@ -864,7 +855,7 @@ $25.51$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -892,7 +883,7 @@ $
         &   4 \ .   &   6   &   7   &   9 \\
 {}+     &   2 \ .   &   1   &   5   &   0 \\
 \hline
-        &   6 \ .   &   9   &   1   &   9
+        &   6 \ .   &   8   &   2   &   9
 \end{array}
 $
 
@@ -901,14 +892,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$6.919$
+$6.829$
 
 </div>
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Answer should be 6.829 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -990,9 +984,7 @@ $833$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1074,9 +1066,7 @@ $827$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1158,9 +1148,7 @@ $1002$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1242,9 +1230,7 @@ $1019$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1327,9 +1313,7 @@ $1267$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1411,9 +1395,7 @@ $2614$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1496,9 +1478,7 @@ $425$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1597,9 +1577,7 @@ $12441$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1682,9 +1660,7 @@ $3926$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1766,9 +1742,7 @@ $6193$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1850,9 +1824,7 @@ $1582$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1934,9 +1906,7 @@ $983$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2018,9 +1988,7 @@ $994$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2055,7 +2023,7 @@ $994$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -2066,7 +2034,7 @@ $994$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2110,7 +2078,7 @@ $
     &   2   &   5   &   6 \\
 {}+ &       &   6   &   3 \\
 \hline
-    &   4   &   1   &   9
+    &   3   &   1   &   9
 \end{array}
 $
 
@@ -2119,7 +2087,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$419$
+$319$
 
 </div>
 </div>
@@ -2207,7 +2175,7 @@ Remember to line up the decimal points.
 $
 \begin{array}{cccccccccccccc}
     &   6   &   9   &   1 \ .   &   6 \\
-{}+ &       &   8   &   4 \ .   &   3 \\
+{}- &       &   8   &   4 \ .   &   3 \\
 \hline
     &   6   &   0   &   7 \ .   &   3
 \end{array}
@@ -2227,8 +2195,13 @@ $607.3$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) wrong number used in working
+
+part c) missing number in working
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2313,9 +2286,7 @@ $1020$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2400,9 +2371,7 @@ $1130$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2484,9 +2453,7 @@ $3211$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2572,9 +2539,7 @@ $57821$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2664,9 +2629,7 @@ $9600$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2748,9 +2711,7 @@ $847$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2838,9 +2799,7 @@ $11.021$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2920,9 +2879,7 @@ $550000$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2957,7 +2914,7 @@ $550000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>999B9BF0-DF01-42EF-9E23-D990A9AF9680</p>
 </div>
@@ -2968,7 +2925,7 @@ $550000$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3000,13 +2957,16 @@ $
         &   1   &   4   &   8 \\
 {}+     &   4   &   7   &   6 \\
 \hline
-        &   6   &   2   & 4
+        &   6   &   2   &   4
 \end{array}
 $
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
 <div class='answer'>
 
 $624$
@@ -3015,8 +2975,11 @@ $624$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Answer option missing
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3111,9 +3074,7 @@ $541$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3196,9 +3157,7 @@ $4232$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3280,9 +3239,7 @@ $153$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3364,9 +3321,7 @@ $3007$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3454,9 +3409,7 @@ $32.1$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3544,9 +3497,7 @@ $32.91$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3634,9 +3585,7 @@ $41.01$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

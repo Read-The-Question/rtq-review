@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-2-oldpr"
 title: "TopicPaper - Division - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -113,8 +113,13 @@ $32$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt a : change this as per the similar questions we did before. use beging aligned not array
+
+PArt b : same as above
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

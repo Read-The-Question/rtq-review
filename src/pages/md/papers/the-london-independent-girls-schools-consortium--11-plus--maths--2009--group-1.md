@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,6 +66,7 @@ $27427$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -154,6 +155,7 @@ $41096$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -299,6 +301,12 @@ $2.4 \text{m}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+wrong
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -382,6 +390,7 @@ $\dfrac{2}{3}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -479,6 +488,7 @@ $\dfrac{3}{5},  \quad \dfrac{29}{45},   \quad \dfrac{2}{3}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -563,6 +573,7 @@ $0.092$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -644,6 +655,7 @@ $63$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -724,6 +736,7 @@ $144$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -812,6 +825,7 @@ $9012213$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -909,6 +923,12 @@ The distance between Madrid to Paris is $1265 \ \text{km}$
 $1265 \ \text{km}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+alogn on &=     (see slack)
 </div>
 
 <div class='review'>

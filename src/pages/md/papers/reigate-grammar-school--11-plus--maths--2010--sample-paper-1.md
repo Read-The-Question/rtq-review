@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2010-sample-paper-1"
 title: "Reigate Grammar School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $3007$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -140,6 +141,7 @@ $1013$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -224,6 +226,7 @@ $24120$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -318,6 +321,7 @@ $24.12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -516,6 +520,7 @@ $32.1$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -603,6 +608,7 @@ $32.91$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -689,6 +695,7 @@ $41.01$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -964,6 +971,7 @@ $1700$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1100,6 +1108,7 @@ $13.579$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1203,6 +1212,12 @@ $
 $20\% , \quad \dfrac {1} {6} , \quad 0.15$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Put in last two steps > or <
 </div>
 
 <div class='review'>
@@ -1350,6 +1365,12 @@ $\pounds 2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part a) Remove S2, Part b) Use answer from part a)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1433,6 +1454,12 @@ $
 $428 \text {p}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Step 1 = \text {four ninths of} \  963 \text{p} \\
 </div>
 
 <div class='review'>
@@ -1526,6 +1553,7 @@ $501$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1630,6 +1658,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1848,6 +1877,7 @@ Largest $= 0.79$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2101,6 +2131,7 @@ Largest $= \dfrac {2} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2186,6 +2217,12 @@ Fraction of flag that has been shaded in simple fraction $= \dfrac {3} {8}$
 $\dfrac {3} {8}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Remove S1, Write LHS, Remove last sentence
 </div>
 
 <div class='review'>
@@ -2405,6 +2442,7 @@ $6x + 4y$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2521,6 +2559,7 @@ $24 \ \text{and} \ 11$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2607,6 +2646,7 @@ $\dfrac {1} {3}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2776,6 +2816,7 @@ $0.014$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2868,6 +2909,16 @@ $5570$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+DONE Total ticket sold = (Otherwise too much right aligned)
+
+
+
+Last sentence : Total tickets sold over three weeks $= 5570$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2950,6 +3001,7 @@ $8{:}37 \text{am}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

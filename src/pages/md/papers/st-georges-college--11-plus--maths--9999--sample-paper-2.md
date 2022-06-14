@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -183,6 +183,14 @@ $687$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt c: Delete the leftmost & from the whole array. that is why the alignment is incorrect.
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -264,6 +272,12 @@ Twenty one thousand one hundred seventy one
 $\text{Twenty one thousand one hundred seventy one}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+no array.. refer coding rules
 </div>
 
 <div class='review'>
@@ -411,6 +425,30 @@ $100 = 9100$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : Start with APTQ, Start katex 
+
+$
+
+1 Jet = 324 Passengers
+
+1 x 28 = 324 x 24
+
+$
+
+
+
+Now the normal multiplication in array. Delete the leftmost & from the whole array. that is why the alignment isnt correct.
+
+No. of passengers that could be transported by a fleet of $28$ jumbo jets $=....$ passengers.
+
+Part B : The answer is wrong 
+
+$9072$ rounded of to nearest $100 = 9100$ Change blue answer as well. 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -553,6 +591,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -634,6 +673,7 @@ $9.099, \quad 9.199, \quad 9.20001, \quad  9.36, \quad 9.7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -718,6 +758,26 @@ $
 $\pounds 8.30$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ,
+
+start katex
+
+7 Tickets = ....pounds
+
+1 x 7 Tickets =.... pounds
+
+1 Ticket  =..... / 7 
+
+solve but but 7 \times 8.30 /       7
+
+then cancel
+
+then answer. write 8.30 not 8.3
 </div>
 
 <div class='review'>
@@ -858,6 +918,12 @@ $\pounds1.52$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+no brackets .. Cost of 3 Bracelets...
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1005,6 +1071,7 @@ $51$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1377,6 +1444,12 @@ $-1, -7$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+\div 2 b. katex spacing
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1548,6 +1621,7 @@ $5 \  \text{hr} \ \ 40 \ \text{minutes}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1698,6 +1772,40 @@ $\pounds 54$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+It is really important to use the right units in calculations and convert where required.
+
+
+
+As the answer is to be given in pounds, lets convert Davids weight into pounds.
+
+
+
+As per the question,
+
+$
+
+Davids weight = 15 Stone 11
+
+=15 x 14 + 11
+
+= 221 pounds and not money pounds !!! in weight so remains \"pounds\"
+
+$
+
+next katex
+
+Difference  of weight = Andrew (Weight) - Davind (Weight)
+
+= solve.. 
+
+the answer is 54 pounds not 42 pounds.
+
+and not money pounds !!! in weight so remains \"pounds\" change in blue answer too.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1787,6 +1895,34 @@ $60 \ \text{cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+First line is correct. after that add
+
+
+
+As the answer is to be given in cm, lets convert all measurements into cms.
+
+
+
+As per the question,
+
+$
+
+Total Width = First (Section) + Second (Section) + Third (Section)
+
+= 30 cm + 1.5 m + 150 mm
+
+= 30 cm + 1.5 x 100 cm + 150 / 10
+
+= slove teh multiplicaiton and cancel the zeros
+
+= all in cm..
+
+=then answer. Remember to give space before cm and it goes in \text{cm}
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1869,6 +2005,18 @@ $
 $\pounds 14,000$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ;
+
+Total earning = (No. of games x pounds 500 ) + (2 x No. of games x pounds 100)
+
+= (20 x 500) + (2 x 20 x 100) 
+
+no commas in figures. change in blue answer also.
 </div>
 
 <div class='review'>
@@ -2020,6 +2168,42 @@ $\dfrac{1}{3}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+APTQ
+
+First katex
+
+Cost of Shoes = 1 / 3 x cost of dress
+
+= 1/ 3 x 1/2 x 120 
+
+= 1 / 6 x 120
+
+
+
+Second katex 
+
+Money (Left) = Money (at Start) - Spend (for Dress + for Shoes)
+
+=  £120 - (1/2 x 120 + 1/6 x £120)
+
+= solve further ...
+
+= 120 - (60 + 20)
+
+pounds 40 not 40 pounds check in blue answer too.
+
+
+
+PArt B 
+
+Fraction of Amount (Left) = Money (Left) / Money (Total)
+
+= 40 / 120 solve..
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2198,6 +2382,34 @@ $31.33 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A : Delete first 3 lines. Stat katex with Area of base.....align at &= the rest of the answer. put 60 cm x 20 cm 
+
+Use spacing \\ Put space between number and cm.. same in blue answer
+
+PArt B : \text{Max volume of tank} = \text{length}\times\text{width}\times{height} \
+
+Change to : Volume of tank = ....... (before height put \text  use \\ spacing not \
+
+same corrections like above. do your katex formatting correctly spacing is not right between numbers. 
+
+PArt C : APTQ,
+
+
+
+Volume of 24 litres = 24 x 1000^3
+
+Volume = l x h x w 
+
+24000cm^3=  60 x h x 30  
+
+solve for h... till 20 cm (not 20 cm2)
+
+change blue ansawer accrodingly.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2371,6 +2583,7 @@ $\dfrac {7}{2}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2515,6 +2728,24 @@ $9$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Move down APTQ;
+
+Lets take the number Verity thinks of $=a$ 
+
+APTQ, delete \"then\"
+
+a x 7 + 8 = 71
+
+solve for a as you did.. 
+
+remove box 
+
+The number Verity thought of $=..$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2592,6 +2823,12 @@ $
 $16.848$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Use array
 </div>
 
 <div class='review'>
@@ -2675,6 +2912,22 @@ $
 $36 \ \text{cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Delete teh text in start directls Start with katex
+
+formula (use \text) no need to use variable use \"height\".
+
+then substitute with right units (cm) in this step.
+
+solve further without units.
+
+height = ..... use space before cm and that in \text{cm}
+
+
 </div>
 
 <div class='review'>
@@ -2848,6 +3101,38 @@ $204 \ \text{m}^2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A :
+
+Delete upper part. Start direclty with katex, align at &=
+
+Area of flower bed = .....
+
+Substitute
+
+make 6 to 2 x 3 
+
+cancel
+
+use right units with correct spacing... 
+
+Part B 
+
+same Start with katex
+
+Area of whole garden = use cm here too......(solve like you did ) align at &= put spacing in katex .. \times (space) 12
+
+Part C 
+
+Not solved!
+
+ Area (Grass) = Total Area - Area (Flower bed) \times 4
+
+solve.. use correct units and spacing before units.. if needed
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

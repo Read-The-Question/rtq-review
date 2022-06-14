@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-independent-schools-examinations-board-11-plus-maths-2016-sample-paper-5"
 title: "The Independent Schools Examinations Board - 11 Plus - Maths - 2016 - Sample Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -430,6 +430,7 @@ $2, \ 4, \ 8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -572,6 +573,7 @@ $\pounds 19.06$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -719,6 +721,7 @@ $-5 \degree \ \text{C}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -896,6 +899,7 @@ $8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1240,6 +1244,7 @@ $2017$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1578,6 +1583,7 @@ $11$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1775,6 +1781,16 @@ $\dfrac {8} {12}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part a) Remove last sentence
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1859,6 +1875,7 @@ $165$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2070,6 +2087,7 @@ $96$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2168,6 +2186,7 @@ $2.087 \ \text {km}, \quad 2.708 \ \text {km}, \quad 2778 \ \text {m}, \quad 27.
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2740,6 +2759,7 @@ $1 \dfrac {1} {5}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2829,6 +2849,7 @@ $\dfrac {5} {8}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3336,6 +3357,7 @@ $10 \ \text{and} 5,7 \ \text{and} 8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3656,6 +3678,7 @@ $7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

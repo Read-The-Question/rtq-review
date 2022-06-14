@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-oldpr"
 title: "TopicPaper - Areaperimeter - 8 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -52,8 +52,11 @@ $28.4 \ \text{cm}^2$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+in Step 2 missing \\
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

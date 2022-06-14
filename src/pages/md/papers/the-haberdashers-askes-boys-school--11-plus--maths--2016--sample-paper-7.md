@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2016-sample-paper-7"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $63$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $39$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $448$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -303,6 +306,7 @@ $27$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -406,6 +410,16 @@ $\pounds 14.90$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Cost of downloading .... = Cost of download one app x No. of apps
+
+delete step 2 in katex
+
+LAst sentencce The cost of downloading $5$ aoos $= ....$
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -501,6 +515,12 @@ $11106$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Alternative solution, (line 1 in second option)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -585,6 +605,7 @@ $6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -902,6 +923,7 @@ $11908368$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

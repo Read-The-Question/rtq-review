@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $121$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -141,6 +142,7 @@ $49$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -221,6 +223,7 @@ $85$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -363,6 +366,7 @@ $24$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -443,6 +447,7 @@ $336$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -525,6 +530,7 @@ $\pounds 11$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -606,6 +612,7 @@ $300$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -683,6 +690,7 @@ $53018$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -876,6 +884,20 @@ $\dfrac {5} {12}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Dont need to find the fraction halfway.
+
+Instead convert them to the same denominator
+
+to make it easier
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -994,6 +1016,7 @@ $34$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1083,6 +1106,7 @@ $19$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1207,6 +1231,7 @@ $0.392$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1289,6 +1314,7 @@ $0$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1478,6 +1504,7 @@ $295 \ \text {cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1719,6 +1746,12 @@ $78$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Sign in wrong place, change 7 to 6, change answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1951,6 +1984,7 @@ $12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2077,6 +2111,7 @@ $\text {fifteen}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2229,6 +2264,7 @@ $1 \text{st February}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2471,6 +2507,7 @@ $2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

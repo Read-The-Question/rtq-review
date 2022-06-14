@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tstatistics-2"
 title: "TopicPaper - Statistics - 2"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -913,9 +913,7 @@ $15$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1485,9 +1483,7 @@ $6 \degree \text {C}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2666,8 +2662,13 @@ $6.7$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+refer E127726D-DDB2-4A3F-99BF-CFACF66B8527
+
+6.7 goals (in blue answer too)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

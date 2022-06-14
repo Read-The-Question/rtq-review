@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-2-g0"
 title: "TopicPaper - Detailedaddition - 2 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2776F3AC-5B59-4DE4-AA6C-D15196418A83</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-14 12:26:03
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,7 +41,6 @@ $
 {}+ &       &   4   &   1   &   9 \\
 \hline
     &   6   &   2   &   0   &   3 \\
-\hline
 \end{array}
 $
 
@@ -56,8 +55,11 @@ $6203$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -151,8 +153,11 @@ $7, \ 4$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Lets try box around the number, lets discuss
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -241,9 +246,7 @@ $11502$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -325,9 +328,7 @@ $13602$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -413,8 +414,11 @@ $9502$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove line underneath
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -496,9 +500,7 @@ $12221$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

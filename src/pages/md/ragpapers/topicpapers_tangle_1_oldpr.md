@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-oldpr"
 title: "TopicPaper - Angle - 1 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 19:55:29
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>9FDBD8FE-49B3-4EE9-9569-87D2186CDEEC</p>
 </div>
@@ -13,10 +13,10 @@ date: 2022-06-14 12:26:03
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -39,14 +39,18 @@ Estimate the size of angle $r$.
 <div class='workings'>
 <div class='working'>
 
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
 The acute angle is approximately $60 \degree$.
 
 Using that we get,
 
 $
 \begin{aligned}
-r   &= 360 - 60 \\\\
-    &= 300 \degree
+r + 60      &= 360 \\\\
+r           &= 360 - 60 \\\\
+            &= 300 \degree
 \end{aligned}
 $
 
@@ -60,9 +64,7 @@ $300 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -97,7 +99,7 @@ $300 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1560E53F-1121-4690-82F4-852BE2494204</p>
 </div>
@@ -105,10 +107,10 @@ $300 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -159,7 +161,9 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
+$\text{Angles on a straight line add up to} = 180 \degree$
 As we know, the sum of angles on a straight line is $180 \degree$.
+
 
 As per the diagram,
 
@@ -194,7 +198,8 @@ $55 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
@@ -229,11 +234,24 @@ $47 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram, the rhombus is having its opposite sides equal, Which means the angles opposite are also equal.
+*TODO:: Add drawing starts.*
 
-As we know, the sum of angles in a triangle is $180 \degree$.
+![missing image](/papers/missing_image.svg)
 
-Taking the lower triangle, we get
+
+*TODO:: Add an image with alternate angle marked *
+
+*TODO:: Add drawing ends.*
+
+
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram, the shape is a parallelogram.
+
+Angle $r$ and $r$ are equal as they are alternate angles.
+
+Using that, we get
 
 $
 \begin {aligned}
@@ -257,9 +275,7 @@ $16 \degree$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -294,7 +310,7 @@ $16 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
 </div>
@@ -302,10 +318,10 @@ $16 \degree$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -328,34 +344,35 @@ Find the sizes of angles $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+
+$\text{Angles on a straight line add up to} = 180 \degree$
+As we know, the sum of angles on a straight line is $180 \degree$.
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-x + 104 \degree  &= 180 \degree  \\\\
-x                &= 180 \degree - 104 \degree \\\\
-x                &= 76 \degree
+x + 104     &= 180   \\\\
+x           &= 180  - 104  \\\\
+x           &= 76 \degree
 \end{aligned}
 $
 
-Let the missing angle $= y$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let's use the value of $x$ to find $y$.
 
 $
 \begin{aligned}
-76 \degree + y + y     &= 180 \degree                \\\\
-76 \degree +2y         &= 180 \degree                \\\\
-2y                     &= 180 \degree - 76 \degree   \\\\
-2y                     &= 104 \degree                \\\\
-y                      &= \dfrac {104 \degree} {2}   \\\\
-y                      &= \dfrac {52 \times 2} {2}   \\\\
-y                      &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
-y                      &= 52 \degree
+x  + y + y              &= 180 \\\\
+76  + 2y                &= 180 \\\\
+2y                      &= 180  - 76 \\\\
+2y                      &= 104  \\\\
+y                       &= \dfrac {104 } {2}   \\\\
+y                       &= \dfrac {52 \times 2} {2}   \\\\
+y                       &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
+y                       &= 52 \degree
 \end{aligned}
 $
 
@@ -364,19 +381,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-x   &= 76 \degree \\\\
-y   &= 52 \degree
-\end{aligned}
-$
+$x$ $=$ $76 \degree$
+
+</div>
+<div class='answer'>
+
+$y$ $=$ $52 \degree$
 
 </div>
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+WE will visit this answer again. but put a second solution using exterior angle is a sum of 2 int opp angle..... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -419,7 +439,7 @@ $
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -473,9 +493,7 @@ $35 \degree$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

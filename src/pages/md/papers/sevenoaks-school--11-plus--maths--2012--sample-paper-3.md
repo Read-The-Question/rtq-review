@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2012-sample-paper-3"
 title: "Sevenoaks School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -255,6 +255,7 @@ $\text {four hundred twenty five}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -335,6 +336,7 @@ $\pounds 18.2$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -495,6 +497,20 @@ $6, 7, 8$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Broken Katex!!
+
+
+
+Lets discuss
+
+
+
+F82A9A83-8990-460E-9DE9-6B7ACD86127F for b
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -706,6 +722,7 @@ $4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -931,6 +948,7 @@ $70, 60$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1155,6 +1173,7 @@ $74$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1346,6 +1365,7 @@ $\pounds 1193.4$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1569,6 +1589,7 @@ $65 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

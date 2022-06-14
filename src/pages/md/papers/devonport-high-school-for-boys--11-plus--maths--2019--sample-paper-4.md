@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $\pounds 161.35$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -266,6 +267,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -590,6 +592,7 @@ $0.2$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -678,6 +681,7 @@ $15$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -814,6 +818,7 @@ ${}- 17$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1137,6 +1142,7 @@ $42 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1238,6 +1244,7 @@ $563$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1446,6 +1453,7 @@ $91 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1525,6 +1533,7 @@ $31.02$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1660,6 +1669,7 @@ $\dfrac {1} {15}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1801,6 +1811,7 @@ $1$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1877,6 +1888,7 @@ $9760$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1962,6 +1974,7 @@ $86400 \ \text {seconds}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2045,6 +2058,12 @@ $35$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Write LHS Blue Counters = in the first line inside katex
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2126,6 +2145,7 @@ $933  \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2450,6 +2470,7 @@ $4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2602,6 +2623,7 @@ $\dfrac {1} {5}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2685,6 +2707,7 @@ $255 \degree$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2765,6 +2788,7 @@ $\dfrac {4}{5}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2852,6 +2876,7 @@ $87$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -2943,6 +2968,7 @@ $126.5 \ \text {g}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

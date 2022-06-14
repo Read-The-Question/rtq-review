@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-1-g0"
 title: "TopicPaper - Fraction - 1 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,8 +61,13 @@ $\dfrac{3} {10}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove S2
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -208,8 +213,11 @@ $8 \dfrac{19} {20}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part a) Only show the mixed fraction in the answer not both
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -297,8 +305,11 @@ $1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Only show the mixed fraction in the answer not both
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -385,8 +396,11 @@ $\dfrac {61} {36}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Give answer as mixed fraction
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -469,8 +483,11 @@ $\dfrac {1} {12}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove LHS text in S1
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -551,8 +568,11 @@ $\dfrac {19} {10}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change answer to mixed fraction and add step at the end
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

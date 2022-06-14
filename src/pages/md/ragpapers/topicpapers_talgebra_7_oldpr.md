@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-7-oldpr"
 title: "TopicPaper - Algebra - 7 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -151,8 +151,11 @@ $0.2$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer : 71748A3D-9EB9-407F-BE74-AE1F06A04E99... FOLLOW CODING GUILINES ,, ALIGNMENT AND \dfrac {} {} and all
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

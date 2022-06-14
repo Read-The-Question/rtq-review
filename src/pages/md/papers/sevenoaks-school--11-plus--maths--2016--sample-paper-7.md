@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2016-sample-paper-7"
 title: "Sevenoaks School - 11 Plus - Maths - 2016 - Sample Paper 7"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -168,6 +168,14 @@ $\pounds 13.5$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Change ur working - take 39/15 and write in mixed fraction
+
+the write.. 2 full buses and for rest $9$ one more bus
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -458,6 +466,22 @@ $12$ Boxes
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part B Number.... = Total calculators to buy
+
+
+
+after mixed fraction add
+
+= 11 whole boxes +  remainder 20 calculators
+
+
+
+In answer delete boxes
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -546,6 +570,32 @@ $
 $15$ coins of $10$p and $15$ coins of $50$p
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+in Line 1 delete \"as\"
+
+
+
+Move As per the question to Line 3
+
+Step 1 in katex :
+
+10 x a + 50 x a &= \pounds 9 then rest follows
+
+
+
+a=15 (delete text) 
+
+
+
+Write last sentence : Number of coins Michelle has from each coin $=15$
+
+
+
+in blue answer only $15$ delete rest
 </div>
 
 <div class='review'>
@@ -643,6 +693,12 @@ $\dfrac {13} {20}, \quad \dfrac {2} {3}, \quad \dfrac {7} {10}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put > or < than is 2nd last and  last step.  but blue answer remains unchanged.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -730,6 +786,18 @@ $12 \dfrac {3} {4} \text{m}$ or $\dfrac {51} {4} \text{m}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Left over = Total wire - piece cut off, 
+
+Remove units from S6 and give answer as a mixed fraction not both options
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -812,6 +880,22 @@ $
 $\dfrac {7} {8} \ \text{km}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change to Halfway = Total distance/2 
+
+Remove 1 where not required
+
+
+
+
 </div>
 
 <div class='review'>
@@ -900,6 +984,7 @@ $35 \%$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1450,6 +1535,14 @@ $P = 30 \ \text{cm}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A 
+
+Line 1.  So, and again down So, (delete 1 So,)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1547,6 +1640,12 @@ $
 $1.96 \text{m}^2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Now lets ... area of the square.
 </div>
 
 <div class='review'>
@@ -1830,6 +1929,7 @@ $
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2034,6 +2134,7 @@ $21$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

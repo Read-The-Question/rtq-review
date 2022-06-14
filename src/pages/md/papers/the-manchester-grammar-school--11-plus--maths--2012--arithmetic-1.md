@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2012-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2012 - Arithmetic 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $864$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -144,6 +145,7 @@ $19180$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -228,6 +230,7 @@ ${5} \dfrac {7} {10}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -301,6 +304,7 @@ $1040004$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -401,6 +405,7 @@ $57$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -512,6 +517,7 @@ $4$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -604,6 +610,7 @@ $\pounds 75$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -694,6 +701,7 @@ $22$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -774,6 +782,7 @@ $\pounds 1.40$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -869,6 +878,7 @@ $48 \ \text{cm}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -950,6 +960,7 @@ $\dfrac {7} {25}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1041,6 +1052,7 @@ $35 \ \text{minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1136,6 +1148,7 @@ $\dfrac {2} {3}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1225,6 +1238,7 @@ $200$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1306,6 +1320,7 @@ $3$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1585,6 +1600,7 @@ $91$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1674,6 +1690,7 @@ $12$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1771,6 +1788,7 @@ $4$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

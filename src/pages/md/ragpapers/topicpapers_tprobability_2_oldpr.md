@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-2-oldpr"
 title: "TopicPaper - Probability - 2 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,8 +56,19 @@ $\dfrac {2} {5}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Line 1 : outside main katex 
+
+
+
+Probability $= \dfrac{\text {Number of favorable outcomes}} {\text{Total number of outcomes}}$
+
+
+
+Probability of choosing red counter = 4 / 6 +4 then step 2 onwards is ok... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

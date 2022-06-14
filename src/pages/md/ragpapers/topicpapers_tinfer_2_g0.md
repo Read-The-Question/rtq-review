@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-2-g0"
 title: "TopicPaper - Infer - 2 - G0"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -58,9 +58,7 @@ $1537$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

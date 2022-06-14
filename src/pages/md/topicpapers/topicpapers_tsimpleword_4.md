@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -70,9 +70,7 @@ $36$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -157,9 +155,7 @@ $0.7 \ \text{litres}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -243,9 +239,7 @@ $128$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -767,9 +761,7 @@ $613$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1225,9 +1217,7 @@ $3 \dfrac {1} {3}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1322,9 +1312,7 @@ $\dfrac {5} {9}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1418,8 +1406,15 @@ $5570$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+DONE Total ticket sold = (Otherwise too much right aligned)
+
+
+
+Last sentence : Total tickets sold over three weeks $= 5570$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1514,8 +1509,13 @@ $\text{Required rectangle to be shaded} = 15$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Remove RHS in S1 and merge the LHS with S2
+
+More changes required
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1615,9 +1615,7 @@ $820$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1698,9 +1696,7 @@ $1085$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1781,9 +1777,7 @@ $744$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1878,9 +1872,7 @@ $21$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1961,9 +1953,7 @@ $1044$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2044,9 +2034,7 @@ $897$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2127,9 +2115,7 @@ $2436$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2210,9 +2196,7 @@ $576$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2353,9 +2337,7 @@ $3 \ \text{hours} \ 10 \ \text{minutes or } 190 \ \text{minutes}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2443,9 +2425,7 @@ $576$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2665,9 +2645,7 @@ $315 \ \text{cm}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3091,9 +3069,7 @@ $65 \%$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3177,8 +3153,11 @@ $1596 \ \text{cm}$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+U took reference from somewhere?? If no, Then change the working to - As per the question, and solve it simply . If yes, send me the uuid
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3270,8 +3249,11 @@ $1325$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+No need to explain this much. write all in one equation
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3430,8 +3412,21 @@ $12$ Boxes
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part B Number.... = Total calculators to buy
+
+
+
+after mixed fraction add
+
+= 11 whole boxes +  remainder 20 calculators
+
+
+
+In answer delete boxes
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3519,9 +3514,7 @@ $35 \%$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3763,8 +3756,11 @@ $\pounds 40.8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Refer to UUID : 7B238D76-DC32-4173-81A3-114829891742 and change your accordingly. Give both options as answer.
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3915,8 +3911,29 @@ $26$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A:
+
+
+
+Last step (delete text) only 338
+
+same in blue answer only number (look original question paper)
+
+
+
+B : You did not solve. Solve please
+
+Sweets in each bag = Total sweets / No. of bags
+
+Last step (delete text) only 26
+
+
+
+same isn blue answer only number (look original question paper)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4073,8 +4090,37 @@ $1120$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Put the tag : tnumber tpercentage 
+
+
+
+Part a :
+
+Total seats = No. of rows x No. of seats in each row
+
+                 = 128 x 35 (missing step)
+
+
+
+Part B :
+
+You did not solve.
+
+
+
+If the concert hall is 75% full, then the hall is:  100% - 75% = 25% empty.
+
+
+
+Using that, we get (put comma after get not after that)
+
+
+
+Step 3 1140 to 1120 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4160,9 +4206,7 @@ $7462$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4312,8 +4356,17 @@ $\pounds 1879.20$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A 
+
+My bad! sorry.
+
+
+
+Bill each month = Total bill in a year / No. of months in a year
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4504,9 +4557,7 @@ $20$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4681,8 +4732,21 @@ $600$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+PArt A : Delete last sentence : Total number of players = 352
+
+
+
+PArt B : Delete last sentence : Total number of supporters = 2816
+
+Part C : Line 1 in katex
+
+
+
+Delete last sentence:Total number of goals = 600
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4772,9 +4836,7 @@ $\dfrac {1} {3}$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

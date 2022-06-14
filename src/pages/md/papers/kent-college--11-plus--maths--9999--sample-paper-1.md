@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-11-plus-maths-9999-sample-paper-1"
 title: "Kent College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -180,6 +180,7 @@ $55.94$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -342,6 +343,7 @@ $0.027$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -421,6 +423,7 @@ $6 \ \text {hours} \ 12 \ \text {minutes}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -571,6 +574,7 @@ $24 \ \text {cm} ^ 3$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -724,6 +728,7 @@ $7$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -933,6 +938,7 @@ $12$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1016,6 +1022,7 @@ $18738$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1106,6 +1113,14 @@ $60 \%$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+S1 Remove text on RHS and merge LHS with S2, Remove as 
+
+per the diagram
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1191,6 +1206,7 @@ $12.90 \text {m}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1383,6 +1399,16 @@ $60 \degree$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt a 
+
+
+
+Line 3 : We know, the sum of a right angle is 90°.
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1614,6 +1640,7 @@ $18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1850,6 +1877,7 @@ $3, \ 17$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2253,6 +2281,14 @@ $15$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Fraction per person = Total Bars / Total people
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2573,6 +2609,7 @@ $17$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2656,6 +2693,7 @@ $641 \ \text {pence}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2018-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2018 - Arithmetic A"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -59,6 +59,7 @@ $902$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -142,6 +143,7 @@ $64$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -238,6 +240,7 @@ $7.9$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -322,6 +325,16 @@ $
 $1 \dfrac {5} {8}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove as per the question
 </div>
 
 <div class='review'>
@@ -417,6 +430,7 @@ $7050$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -503,6 +517,7 @@ $260 \ \text {grams}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -584,6 +599,7 @@ $\dfrac {17} {20}$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -672,6 +688,7 @@ $219.41$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -806,6 +823,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1048,6 +1066,7 @@ $35$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1229,6 +1248,7 @@ $\pounds 144$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1396,6 +1416,7 @@ $100  \ \text {calories}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1515,6 +1536,7 @@ $60$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1804,6 +1826,7 @@ $8$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

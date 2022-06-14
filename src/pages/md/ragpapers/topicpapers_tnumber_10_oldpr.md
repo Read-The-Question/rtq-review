@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-10-oldpr"
 title: "TopicPaper - Number - 10 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -165,8 +165,59 @@ $128$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change : Percentage of Women members = Fraction (Women members) x 100%
+
+Delete Step 2 (repeats)
+
+Delete % from mid steps. only start and end. 
+
+in your step 5 : do not multiply to 40 . let it remain 2 x 20
+
+= cancel 2 x 20 x 5 / 5
+
+= 2 x 20
+
+= 40% (delete text)
+
+
+
+PArt B : 
+
+No. of Male members = Fraction(Men members) x Total (Members)
+
+Change = 3 x 160 / 3 
+
+Change in = cancel step
+
+Last step = 160 ( no text)
+
+
+
+PArt C
+
+Total child members = Total members - Women members - Men members
+
+Delete step 2 and change further steps as below
+
+
+
+= 480 - (40% x 480) - 160) (as we have solved for 160 in previous question we do not need to solve again)
+
+= 480 - 40/100 x 480 - 160 (no more brackets solve this end)
+
+2nd last step will be 
+
+= 480 - 192 - 160
+
+= 128
+
+Delete Therefore.....
+
+
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -460,8 +511,11 @@ The square root of $801$ is between $\text{\textunderscore \textunderscore \text
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+answer /subquestion representation wrong. subquestion are down and answers are up
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

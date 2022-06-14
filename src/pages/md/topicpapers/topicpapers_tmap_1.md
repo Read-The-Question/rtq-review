@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmap-1"
 title: "TopicPaper - Map - 1"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <div class='paper'>
 <div class='meta'>
@@ -66,9 +66,7 @@ $4$
 </div>
 </div>
 
-<div class='review-comments'>
- 
-</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -327,8 +325,11 @@ $3$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+B to C
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -415,8 +416,11 @@ $8$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+A to C
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-13-oldpr"
 title: "TopicPaper - Algebra - 13 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -70,8 +70,11 @@ $4, 9$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+make in into 1 answer
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -163,8 +166,11 @@ $0, 0, 1, 1$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+align on &=
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -280,8 +286,11 @@ $25, 15$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+alignments
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

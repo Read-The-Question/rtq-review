@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-17-oldpr"
 title: "TopicPaper - Algebra - 17 - OLDPR"
-date: 2022-06-14 12:26:03
+date: 2022-06-14 14:01:48
 ---
 <ul class='question default-decimal'>
 <li>
@@ -57,8 +57,21 @@ $45$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+\text {Marbles (he got home)} &= \text {Marbles (to school) - Given(Owen) - Given (Swap Jess) + Taken (Swap Jess) + Won (Meg) - Lost (Ben)} \\
+
+&=  67 - 19 - 5 + 9 + 27 - 34 \\  
+
+delete 2, 3 and 4th steps
+
+&= 45
+
+
+
+Delete last sentence (the summary sentences now follow only if a variable is there. 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -301,8 +314,17 @@ $\dfrac {11} {2} \ \ \text{or} \ \ 5 \dfrac {1} {2}$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Delete As per the question in all parts. 
+
+Part a. Step 2 katex \times not \time same in 
+
+Part b (Solve again - wrong ) (5 x -2)^2 = -10^2= 100
+
+PArt d add a new step 3 = 3 +       5/2 then the step with 3 x 2..... 
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -519,8 +541,11 @@ $5-2e$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part e : solved wrong : its = 3 -2e + 2  (not -2) and then 5 -2e  (change answer too)
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -697,8 +722,15 @@ $12$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A :  step 2 : = is missing.  x not = 24 / 4 its 24 / 3 correct his and change further... x = 8 Change answer key as well.
+
+PArt B : Step 3 change 3x - x = 3 -2 
+
+Part C : Change Step 2:  to 2x  =  3 (x -4) then 2x = (3 x x) - (3 x 4) solve further...
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -801,8 +833,11 @@ $30, 135$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+a = 30 not 3!  The number he started with  $= 30$ The answer he should have obtained, start katex and solve then with 30 not 3 and  use \\ not in one line .  In the answer key write both answers 30, 135
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -950,8 +985,13 @@ $4$
 </li>
 </ul>
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Part A : As per the question, (Next line) Curdle $2$ and $4$ (then rest 3 steps inside katex)
+
+Part B : take the variable \"a\" not \"x\" inside katex Step 1 put \times between (x + 5) x (x +5) Rest is ok
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1043,8 +1083,11 @@ $17$
 </div>
 
 <div class='review-comments'>
- 
+
+<h4>Review Comments</h4>
+Change : Let the number I thought of $= a$
 </div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

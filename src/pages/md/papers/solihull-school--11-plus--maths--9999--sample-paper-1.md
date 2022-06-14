@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -64,6 +64,7 @@ $13253$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -148,6 +149,7 @@ $376$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -231,6 +233,7 @@ $4718$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -310,6 +313,16 @@ $
 $634$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Discuss division VS fraction
 </div>
 
 <div class='review'>
@@ -513,6 +526,7 @@ $75$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -638,6 +652,12 @@ $0.909$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+no text direct answer
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -828,6 +848,7 @@ $20$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -955,6 +976,7 @@ $204035082$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1181,6 +1203,12 @@ $594$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b description missign. part c can be simple 100,90,80,,
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1324,6 +1352,7 @@ $8$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1419,6 +1448,7 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1811,6 +1841,22 @@ $600$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt A : Delete last sentence : Total number of players = 352
+
+
+
+PArt B : Delete last sentence : Total number of supporters = 2816
+
+Part C : Line 1 in katex
+
+
+
+Delete last sentence:Total number of goals = 600
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2073,6 +2119,7 @@ $32$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2797,6 +2844,36 @@ $81 \text{cm}^2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+PArt A & Part B same change
+
+PArt A Step 1 inside katex Perimeter &= 2×(14+9)
+
+
+
+PArt B Step 1 inside katex Area  = ...
+
+
+
+Part C 
+
+Line 1 =.... Side (no brackets and caps)
+
+Step 1 katex : 4 x Side =.... give space before cm (in whole answer) 
+
+Side = solve further 
+
+
+
+Area of a square &= Side^2
+
+               &= 9^2
+
+
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3896,6 +3973,7 @@ $24$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -4060,6 +4138,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>

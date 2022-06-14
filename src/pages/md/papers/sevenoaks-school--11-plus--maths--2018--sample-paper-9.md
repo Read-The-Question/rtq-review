@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2018-sample-paper-9"
 title: "Sevenoaks School - 11 Plus - Maths - 2018 - Sample Paper 9"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -128,6 +128,30 @@ $26$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part A:
+
+
+
+Last step (delete text) only 338
+
+same in blue answer only number (look original question paper)
+
+
+
+B : You did not solve. Solve please
+
+Sweets in each bag = Total sweets / No. of bags
+
+Last step (delete text) only 26
+
+
+
+same isn blue answer only number (look original question paper)
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -283,6 +307,38 @@ $1120$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put the tag : tnumber tpercentage 
+
+
+
+Part a :
+
+Total seats = No. of rows x No. of seats in each row
+
+                 = 128 x 35 (missing step)
+
+
+
+Part B :
+
+You did not solve.
+
+
+
+If the concert hall is 75% full, then the hall is:  100% - 75% = 25% empty.
+
+
+
+Using that, we get (put comma after get not after that)
+
+
+
+Step 3 1140 to 1120 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -488,6 +544,7 @@ $-2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -572,6 +629,7 @@ $7462$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -747,6 +805,7 @@ $325.5$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -822,6 +881,7 @@ $1.008, \quad 1.02, \quad 1.15, \quad 1.2, \quad 1.9$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -900,6 +960,7 @@ $2, 3, 11$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1165,6 +1226,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1333,6 +1395,7 @@ $\dfrac {8} {7} \quad  >  \quad \dfrac {11} {13}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1475,6 +1538,7 @@ $64$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1577,6 +1641,36 @@ $
 $54$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put a Tag for the question please.
+
+
+
+Let the number Archie thinks of $= a$
+
+
+
+Lets first find the number
+
+As per the question,
+
+
+
+now start katex
+
+5/6 x a = 60
+
+a = 60 x 6/5 (in this order, change down too and keep 5 on the outside. for cancellation later in step 5 )
+
+a = 5 x 12 x 6 / 5
+
+a = CANCEL
+
+
 </div>
 
 <div class='review'>
@@ -1793,6 +1887,72 @@ $105 \ \text {degrees}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+As we know, the sum of angles in a triangle is 180°. So,
+
+
+
+As per diagram,
+
+
+
+Your katex step 1 , then 
+
+ a = 180 - 80 - 70
+
+= 30 °
+
+close katex
+
+
+
+Lets find angle marked $b$
+
+As we know, the sum of angles on a straight line is 180 \degree180°.
+
+
+
+As per the diagram,
+
+b = 180 - 70 
+
+=110 °
+
+
+
+In blue answer 
+
+a = 30° 
+
+b = 110°
+
+
+
+Part B:
+
+
+
+As we know, the sum of angles on a straight line is 180 \degree180°. So,
+
+
+
+As per the question,
+
+
+
+75 + c = 180
+
+c = 180 - 75 
+
+c = 105°
+
+In blue answer 
+
+= 105° 
+</div>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1875,6 +2035,26 @@ $
 $19.4 \ \text {cm}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put a tag for the question please
+
+Correct katex error.
+
+
+
+Put $\begin {aligned} and \end {aligned}$ (totally missing)
+
+Pertimeter of a rectangle =  2 x length x width = sum of all sides
+
+= 6.1 + 6.1 + 3.6 + 3.6
+
+= 12.2 + 7.2
+
+= 19.4 \ \text {cm}
 </div>
 
 <div class='review'>
@@ -1961,6 +2141,32 @@ $
 $18 \ \text {cm} ^ 2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add tag please \tarea
+
+
+
+Area of right triangel = 1/2 x base x height
+
+= (katex error) \dfrac 1/2 4.5 x 8
+
+= 4.5 x 8 / 2
+
+= 4.5 x 4 x 2 / 2
+
+= cancel
+
+= 4.5 x 4
+
+= 18 \ \text{cm}^2
+
+Blue answer change $18 \ \text{cm}^2$ 
+
+
 </div>
 
 <div class='review'>
@@ -2060,6 +2266,52 @@ $
 $98 \ \text {cm} ^ 2$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Put a tag for the question please.
+
+As per the question, the wire piece of 42 cm is bent into the shape of a rectangle. 
+
+
+
+The total length of the wire is perimeter of the rectangle. The length of the rectangle is twice its width.
+
+
+
+Lets take the width = w
+
+
+
+2 x (length x width)  = Perimeter
+
+2 x (2w x w) = 42 cm
+
+4w + 2w = 42 
+
+6w = 42 
+
+w = 6 x 7 / 6
+
+w = 7 cm
+
+
+
+Lets find the area of the rectangle.
+
+
+
+Area of a rectangle = length x width
+
+= 2x7 x 7 
+
+= 98 cm^2
+
+
+
+
 </div>
 
 <div class='review'>

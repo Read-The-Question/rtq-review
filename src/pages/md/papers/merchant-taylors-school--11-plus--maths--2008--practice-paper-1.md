@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -55,6 +55,7 @@ $400$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -181,6 +182,7 @@ $11$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -376,6 +378,7 @@ $7$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -611,6 +614,7 @@ $720, 5040$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -774,6 +778,7 @@ ${} \div 3 \ \text {and} \ {} - 16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -900,6 +905,7 @@ $6$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1380,6 +1386,7 @@ $26 \ \text {computers}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1523,6 +1530,7 @@ $85 \ \text{centimeters}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1654,6 +1662,7 @@ $120 \degree$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1796,6 +1805,7 @@ $216 \ \text {cm}^2$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1877,6 +1887,12 @@ $
 $\dfrac {3} {4}$
 
 </div>
+</div>
+
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Add S1 with of
 </div>
 
 <div class='review'>
@@ -2153,6 +2169,7 @@ $9$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2330,6 +2347,7 @@ $8, 28$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2501,6 +2519,7 @@ $- \dfrac {4} {9}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2647,6 +2666,7 @@ $10$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2959,6 +2979,7 @@ $27$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3046,6 +3067,7 @@ $6$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3204,6 +3226,7 @@ $11{:}20$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3283,6 +3306,7 @@ $6, \ 8, \ 10, \ 12, \ 14, \ 15, \ 16, \ 18$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -3662,6 +3686,7 @@ $- 18 \degree C$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3796,6 +3821,7 @@ $11{:}05 \ \text{a.m}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -3882,6 +3908,7 @@ $1537$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

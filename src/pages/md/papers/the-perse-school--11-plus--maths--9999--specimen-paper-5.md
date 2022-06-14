@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-perse-school-11-plus-maths-9999-specimen-paper-5"
 title: "The Perse School - 11 Plus - Maths - 9999 - Specimen Paper 5"
-date: 2022-06-14 12:22:55
+date: 2022-06-14 13:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -61,6 +61,7 @@ $1996$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -143,6 +144,7 @@ $504$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -363,6 +365,7 @@ $10000$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -454,6 +457,7 @@ $27 \degree$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -675,6 +679,7 @@ $\dfrac {10} {12}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -818,6 +823,7 @@ $16$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -932,6 +938,7 @@ Missing Numbers : $3 , 27 , 81$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>
@@ -1072,6 +1079,7 @@ $\dfrac {11} {12}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1329,6 +1337,7 @@ $16 \ \text{cm}$
 </div>
 </li>
 </ul>
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -1875,6 +1884,7 @@ $\dfrac{1} {2}$
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2315,6 +2325,7 @@ D
 </div>
 </div>
 
+
 <div class='review'>
 <ul class='review'>
 <li class='review'>
@@ -2407,6 +2418,7 @@ $34$
 
 </div>
 </div>
+
 
 <div class='review'>
 <ul class='review'>

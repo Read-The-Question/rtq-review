@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2015-sample-paper-6"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2015 - Sample Paper 6"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -95,7 +95,7 @@ $85$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2B100666-FB56-49E4-A2A4-F8219DF4F7B2</p>
 </div>
@@ -106,7 +106,7 @@ $85$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -126,7 +126,7 @@ Subtract: $81 - 49$
 $
 \begin{array}{cccccccccccccc}
         & 8 & 1 \\
-    {}+ & 4 & 9 \\
+    {}- & 4 & 9 \\
     \hline
         & 3 & 2
 \end{array}
@@ -182,7 +182,7 @@ Wrong operator
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>69F60BBD-9C95-4FD8-8EAF-553B3B76EA70</p>
 </div>
@@ -193,7 +193,7 @@ Wrong operator
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -212,10 +212,10 @@ Multiply: $28 \times 7$
 
 $
 \begin{array}{cccccccccccccc}
-        & 2  & 8 \\
-    &\times  & 7 \\
-    \hline
-       1 & 9 & 6
+       &   2   &   8 \\
+\times &       &   7 \\
+\hline
+   1   &   9   &   6
 \end{array}
 $
 

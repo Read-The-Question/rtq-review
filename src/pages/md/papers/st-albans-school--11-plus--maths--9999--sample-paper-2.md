@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -126,7 +126,7 @@ Uday have a look
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAAB04F2-F9D2-4F37-A0C3-2B9D33692008</p>
 </div>
@@ -137,7 +137,7 @@ Uday have a look
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -156,13 +156,13 @@ Calculate  $129  \times 32$
 
 $
 \begin{array}{cccccccccccccc}
-     &       &       1       & 2     & 9 \\
-{}\times     &       &       & 3     & 2 \\
+     &                &   1   &   2   &   9 \\
+             & \times &       &   3   &   2 \\
 \hline
-     &       &       2       & 5     & 8 \\
-     &      3&       8       & 7     & 0 \\
+     &       &   2    &   5   &   8 \\
+     &   3   &   8    &   7   &   0 \\
 \hline
-     &      4&       1       & 2     & 8
+     &   4   &   1    &   2   &   8
 \end{array}
 $
 

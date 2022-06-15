@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -795,7 +795,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>62E0F078-7FB5-44EC-BC99-CC28C10BCB5C</p>
 </div>
@@ -806,7 +806,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -842,7 +842,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
+$1 \dfrac {20} {21}$
 
 </div>
 </div>
@@ -2032,8 +2032,7 @@ Find the sizes of angles $x$ and $y$.
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,

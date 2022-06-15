@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -49,7 +49,6 @@ $
 {}+ &   3   &   5   &   7   &   8 \\
 \hline
     &   9   &   5   &   0   &   2 \\
-\hline
 \end{array}
 $
 
@@ -103,7 +102,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C3B97E97-CC57-46AE-8302-9C492B125896</p>
 </div>
@@ -114,7 +113,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,7 +136,6 @@ $
 {}- &       &   2   &   4   &   8 \\
 \hline
     &   2   &   1   &   4   &   8 \\
-\hline
 \end{array}
 $
 
@@ -191,7 +189,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>53B9B068-60FD-45CE-85C3-B77303DB0A78</p>
 </div>
@@ -202,7 +200,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -225,7 +223,6 @@ $
    \times   &       &   8 \\
 \hline
    4        &   5   &   6 \\
-\hline
 \end{array}
 $
 

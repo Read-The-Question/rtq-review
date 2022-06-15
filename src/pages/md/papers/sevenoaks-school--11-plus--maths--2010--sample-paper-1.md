@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -94,7 +94,7 @@ $298$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
@@ -105,7 +105,7 @@ $298$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -124,13 +124,13 @@ Work out $813 \times 72$
 
 $
 \begin{array}{cccccccccccccc}
-     &        &   8         &   1   &   3 \\
-     &        &   \times    &   7   &   2 \\
+     &        &   8   &   1   &   3 \\
+     & \times &       &   7   &   2 \\
 \hline
-     &   1    &   6         &   2   &   6 \\
-5    &   6    &   9         &   1   &   0 \\
+     &   1    &   6   &   2   &   6 \\
+5    &   6    &   9   &   1   &   0 \\
 \hline
-5    &   8    &   5         &   3   &   6
+5    &   8    &   5   &   3   &   6
 \end{array}
 $
 

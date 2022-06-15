@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -274,7 +274,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4EC513E6-3767-4725-924F-C36F3605A1EC</p>
 </div>
@@ -285,7 +285,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -305,7 +305,7 @@ Subtract $2018$ from $8102$.
 $
 \begin{array}{cccccccccccccc}
     &   8   &   1   &   0   &   2 \\
-{}+ &   2   &   0   &   1   &   8 \\
+{}- &   2   &   0   &   1   &   8 \\
 \hline
     &   6   &   0   &   8   &   4
 \end{array}
@@ -415,7 +415,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12</p>
 </div>
@@ -426,7 +426,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -445,13 +445,13 @@ Multiply $2018$ by $17$.
 
 $
 \begin{array}{cccccccccccccc}
-    &        2       &    0    &    1    &   8 \\
-    &    {}\times    &         &    1    &   7 \\
+           &   2   &   0   &   1   &   8 \\
+{}\times   &       &       &   1   &   7 \\
 \hline
-1   &        4       &    1    &    2    &   6 \\
-2   &        0       &    1    &    8    &   0 \\
+       1   &   4   &   1   &   2   &   6 \\
+       2   &   0   &   1   &   8   &   0 \\
 \hline
-3   &        4       &    3    &    0    &   6
+       3   &   4   &   3   &   0   &   6
 \end{array}
 $
 

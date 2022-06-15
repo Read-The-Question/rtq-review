@@ -1,7 +1,7 @@
 ---
 slug: "papers/james-allens-girls-school-11-plus-maths-2020-sample-paper-2"
 title: "James Allens Girls School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1215,7 +1215,7 @@ Manchester
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B3AFF432-CB6A-4E95-AADE-45C349B0904D</p>
 </div>
@@ -1226,7 +1226,7 @@ Manchester
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1332,7 +1332,7 @@ $\dfrac{1}{7} \times \dfrac{2}{3} \times 21 =$
 $
 \begin{aligned}
 &= \dfrac {1} {7} \times \dfrac {2} {3} \times 21 \\\\
-&= \dfrac {1 \times 2 \times 21} {7 \times 3} \\\\
+&= \dfrac {2 \times 21} {7 \times 3} \\\\
 &= \dfrac {2 \times 21} {21} \\\\
 &= \dfrac {2 \times \cancel {21}} {\cancel {21}} \\\\
 &= 2

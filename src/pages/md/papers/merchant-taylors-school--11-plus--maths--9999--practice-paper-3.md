@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2867,7 +2867,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
 </div>
@@ -2878,7 +2878,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2899,10 +2899,10 @@ Give your answer in its simplest form.
 
 $
 \begin{aligned}
-&= \dfrac {\dfrac {3} {7} + \dfrac {4} {7}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {7}} {2} \\\\
-&= \dfrac {7} {7 \times 2} \\\\
-&= \dfrac {\cancel {7}} {\cancel {7} \times 2} \\\\
+&= \dfrac {1} {2} \times \dfrac {3} {7} + \dfrac {4} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {3 + 4} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {7} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {\cancel {7}} {\cancel {7}} \\\\
 &= \dfrac {1} {2}
 \end{aligned}
 $

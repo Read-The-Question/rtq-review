@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -422,7 +422,7 @@ part c) missing number in working
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C56456ED-AC53-469C-80A8-C4DF12E5E208</p>
 </div>
@@ -433,7 +433,7 @@ part c) missing number in working
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -887,7 +887,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
 </div>
@@ -898,7 +898,7 @@ $2$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -972,7 +972,7 @@ $\dfrac{5}{12} \times \dfrac{1}{4}$
 $
 \begin{aligned}
 &= \dfrac {5} {12} \times \dfrac {1} {4} \\\\
-&= \dfrac {5} {36}
+&= \dfrac {5} {48}
 \end{aligned}
 $
 
@@ -981,7 +981,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {5} {36}$
+$\dfrac {5} {48}$
 
 </div>
 </div>
@@ -1035,8 +1035,7 @@ $
 \begin{aligned}
 &= 1 \dfrac {1} {8} + \dfrac {1} {6} \\\\
 &= \dfrac {9} {8} + \dfrac {1} {6} \\\\
-&= \dfrac {9 \times 6} {8 \times 6} + \dfrac {1 \times 8} {6 \times 8} \\\\
-&= \dfrac {54} {48} + \dfrac {8} {48} \\\\
+&= \dfrac {9 \times 6 + 1 \times 8} {48} \\\\
 &= \dfrac {54 + 8} {48} \\\\
 &= \dfrac {62} {48} \\\\
 &= \dfrac {2 \times 31} {2 \times 24} \\\\
@@ -1396,7 +1395,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>16C2DCFA-5867-4439-AAD8-0886FF1DB404</p>
 </div>
@@ -1407,7 +1406,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1448,6 +1447,7 @@ $\dfrac{1}{5}$ of $75$
 
 $
 \begin{aligned}
+&= \dfrac{1}{5} \ \text{of} \ 75 \\\\
 &= \dfrac{1}{5} \times 75 \\\\
 &= \dfrac{75}{5} \\\\
 &= \dfrac{5 \times 15}{5} \\\\
@@ -1480,6 +1480,7 @@ $\dfrac{5}{8}$ of $32$
 
 $
 \begin{aligned}
+&= \dfrac{5}{8} \ \text{of} \ 32 \\\\
 &= \dfrac{5}{8} \times 32 \\\\
 &= \dfrac{5 \times 32}{8} \\\\
 &= \dfrac{5 \times 8 \times 4}{8} \\\\
@@ -1513,6 +1514,7 @@ $17.5\%$ of $63$
 
 $
 \begin{aligned}
+&= 17.5\% \ \text{of} \ 63 \\\\
 &= 17.5 \% \times 63 \\\\
 &= \dfrac{17.5} {100} \times 63 \\\\
 &= \dfrac{17.5 \times 63} {100} \\\\

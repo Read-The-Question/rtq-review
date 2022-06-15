@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-15 07:07:55
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CDFD491B-E050-44A6-902D-95DE23E4196F</p>
 </div>
@@ -23,10 +23,10 @@ date: 2022-06-15 07:07:55
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -67,9 +67,11 @@ a  + a + 96                             &= 180   \\\\
 a                                       &= \dfrac {84} {2}  \\\\
 a                                       &= \dfrac {42 \times 2} {2}  \\\\
 a                                       &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
-a                                       &= 42 \degree
+a                                       &= 42  \degree
 \end{aligned}
 $
+
+Missing angle $= 42  \degree$
 
 </div>
 </div>
@@ -85,26 +87,26 @@ $42 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' id='FORM-CDFD491B-E050-44A6-902D-95DE23E4196F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='CDFD491B-E050-44A6-902D-95DE23E4196F' id='FORM-CDFD491B-E050-44A6-902D-95DE23E4196F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -116,7 +118,7 @@ $42 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E719F44B-5B35-49B3-844A-3A6796E6666A</p>
 </div>
@@ -124,10 +126,10 @@ $42 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -150,8 +152,7 @@ What is the value of the missing angle?
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 Let the missing angle $= a$
@@ -165,6 +166,8 @@ a                        &= 180 - 90 - 23 \\\\
 a                        &= 67 \degree
 \end{aligned}
 $
+
+Missing angle $= 67 \degree$
 
 </div>
 </div>
@@ -180,26 +183,26 @@ $67 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' id='FORM-E719F44B-5B35-49B3-844A-3A6796E6666A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E719F44B-5B35-49B3-844A-3A6796E6666A' id='FORM-E719F44B-5B35-49B3-844A-3A6796E6666A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -305,7 +308,7 @@ $300 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>86877522-C3FB-43F4-AD0D-8D56F9CB41E2</p>
 </div>
@@ -313,10 +316,10 @@ $300 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -344,13 +347,17 @@ Work out the angle marked ?.
 ![missing image](/papers/missing_image.svg)
 
 
-*TODO:: Add an image with vertices marked ABCD.*
+
+*TODO:: Add an image with vertices marked ABCD. The smaller trialge is ABD and the bigger one is ABC.*
+
 
 *TODO:: Add drawing ends.*
 
 
 $\text{Sum of angles in a triangle} = 180 \degree$
 
+
+As per the diagram, the triangle $ABD$ is an isosceles triangle.
 
 Let the missing angle $= a$
 
@@ -398,26 +405,26 @@ $27 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' id='FORM-86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='86877522-C3FB-43F4-AD0D-8D56F9CB41E2' id='FORM-86877522-C3FB-43F4-AD0D-8D56F9CB41E2' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -429,7 +436,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>62828D73-0B00-4BFC-AA4D-B041295BF244</p>
 </div>
@@ -437,10 +444,10 @@ $27 \degree$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -507,8 +514,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -538,26 +544,26 @@ $135 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' id='FORM-62828D73-0B00-4BFC-AA4D-B041295BF244' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='62828D73-0B00-4BFC-AA4D-B041295BF244' id='FORM-62828D73-0B00-4BFC-AA4D-B041295BF244' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -631,8 +637,7 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -780,7 +785,7 @@ $16 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>B34288DD-BB7A-4E73-B397-2F8478A7D5D8</p>
 </div>
@@ -788,10 +793,10 @@ $16 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -814,7 +819,7 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-Let the missing angle $= a$
+Let the third angle $= a$
 
 As per the question,
 
@@ -826,6 +831,8 @@ a              &= 180 - 101 \\\\
 a              &= 79 \degree
 \end{aligned}
 $
+
+Third angle $= 79 \degree$
 
 </div>
 </div>
@@ -841,26 +848,26 @@ $79 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' id='FORM-B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='B34288DD-BB7A-4E73-B397-2F8478A7D5D8' id='FORM-B34288DD-BB7A-4E73-B397-2F8478A7D5D8' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1001,7 +1008,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>53DC209F-8A5F-49BF-8896-B33B61A97645</p>
 </div>
@@ -1009,10 +1016,10 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1054,6 +1061,8 @@ a            &= 48 \degree
 \end{aligned}
 $
 
+Third angle $= 48 \degree$
+
 </div>
 </div>
 <div class='answers'>
@@ -1071,26 +1080,26 @@ $48 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' id='FORM-53DC209F-8A5F-49BF-8896-B33B61A97645' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='53DC209F-8A5F-49BF-8896-B33B61A97645' id='FORM-53DC209F-8A5F-49BF-8896-B33B61A97645' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1399,8 +1408,7 @@ Find the sizes of angles $x$ and $y$.
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -1761,7 +1769,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
 </div>
@@ -1769,10 +1777,10 @@ TODOANSWER
 <p>city-of-london-freemens-school--11-plus--maths--9999--sample-paper-1:2:2</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1803,8 +1811,7 @@ Find the missing angles $a \degree$ and $b \degree$ :
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -1846,26 +1853,26 @@ $a = 48 \degree, b = 63 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' id='FORM-40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' id='FORM-40FF7E29-DBCE-405A-9982-1F39CD4E3D5E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1877,7 +1884,7 @@ $a = 48 \degree, b = 63 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
 </div>
@@ -1888,7 +1895,7 @@ $a = 48 \degree, b = 63 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1916,22 +1923,31 @@ Find the missing angles a ̊and b ̊:
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a , b$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know the sum of two interior angles is equal to sum of opposite exterior angle
 
-Also the sum of angles in a triangle is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
 
 $
 \begin{aligned}
 b + 69                                                  &= 132 \\\\
 b                                                       &= 132 - 69 \\\\
-b                                                       &= 63 \\\\
+b                                                       &= 63 \degree
+\end{aligned}
+$
+
+Let's use the value of $b$ to find $a$.
+
+$
+\begin{aligned}
 a + b + 69                                              &= 180 \\\\
 a + 63 + 69                                             &= 180 \\\\
 a + 132                                                 &= 180 \\\\
 a                                                       &= 180 - 132 \\\\
-a                                                       &= 48
+a                                                       &= 48 \degree
 \end{aligned}
 $
 
@@ -1943,7 +1959,7 @@ $
 </div>
 <div class='answer'>
 
-$48, \63$
+$a = 48 \degree, b = 63 \degree$
 
 </div>
 </div>
@@ -2043,7 +2059,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -2054,7 +2070,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2077,9 +2093,12 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know sum of all angles in triangle $= 180 \degree$. So,
+
+Let the missing angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2089,6 +2108,8 @@ a           &= 180 - 118 \\\\
 a           &= 62 \degree
 \end{aligned}
 $
+
+Missing angle $= 62 \degree$
 
 </div>
 </div>
@@ -2418,7 +2439,7 @@ $60 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>72ECFDB7-86F7-48D5-9A2F-0BB4E6085F9C</p>
 </div>
@@ -2429,7 +2450,7 @@ $60 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2566,7 +2587,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DBB54740-C177-4685-AD73-ECFA3880007B</p>
 </div>
@@ -2577,7 +2598,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2654,7 +2675,7 @@ $131 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>011C7343-EA2D-4EDF-AFE0-7803C6D34E4D</p>
 </div>
@@ -2665,7 +2686,7 @@ $131 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2803,7 +2824,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4B420308-03FA-4469-A36A-B00E5A3340D8</p>
 </div>
@@ -2814,7 +2835,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2951,7 +2972,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7431FA80-7251-4D7C-AC64-163FC6B4FC55</p>
 </div>
@@ -2962,7 +2983,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

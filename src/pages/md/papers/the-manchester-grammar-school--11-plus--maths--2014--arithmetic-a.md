@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2014-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2014 - Arithmetic A"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -170,7 +170,7 @@ $941$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
 </div>
@@ -181,7 +181,7 @@ $941$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -200,13 +200,13 @@ Work out $418 \times 70$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       4       & 1     & 8     \\
-            &       &     \times    & 7     & 0     \\
+            &        &   4   &   1   &   8 \\
+            & \times &       &   7   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-2           &      9&       2       & 6     & 0     \\
+            &        &   0   &   0   &   0 \\
+2           &   9    &   2   &   6   &   0 \\
 \hline
-2           &      9&       2       & 6     & 0
+2           &   9    &   2   &   6   &   0
 \end{array}
 $
 

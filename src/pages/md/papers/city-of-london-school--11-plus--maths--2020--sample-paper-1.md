@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1247,7 +1247,7 @@ $400 \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3F849C5D-4F08-4C1D-8B66-7345401C3CFA</p>
 </div>
@@ -1258,7 +1258,7 @@ $400 \text{ cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1281,9 +1281,12 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know sum of all angles in triangle $= 180 \degree$. So,
+
+Let the missing angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1293,6 +1296,8 @@ a           &= 180 - 118 \\\\
 a           &= 62 \degree
 \end{aligned}
 $
+
+Missing angle $= 62 \degree$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2738,7 +2738,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
 </div>
@@ -2749,7 +2749,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2769,7 +2769,8 @@ What is $1.9$ as a fraction?
 $
 \begin{aligned}
 &= 1.9 \\\\
-&= \dfrac {19} {10}
+&= \dfrac {19} {10} \\\\
+&= 1 \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -2778,7 +2779,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {19} {10}$
+$1 \dfrac {9} {10}$
 
 </div>
 </div>

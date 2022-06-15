@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-oldpr-prcc"
 title: "TopicPaper - Angle - 1 - OLDPR - PRCC"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
@@ -161,8 +161,7 @@ Calculate the missing angles $p, q$ and $r$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -347,8 +346,7 @@ Find the sizes of angles $x$ and $y$.
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$
-As we know, the sum of angles on a straight line is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,

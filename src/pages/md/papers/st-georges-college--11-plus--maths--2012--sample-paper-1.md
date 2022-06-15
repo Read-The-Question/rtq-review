@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-2012-sample-paper-1"
 title: "St Georges College - 11 Plus - Maths - 2012 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -353,7 +353,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECEC7A62-D4D9-4EAF-B175-9EE097AC08AE</p>
 </div>
@@ -364,7 +364,7 @@ $3$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -383,14 +383,14 @@ $531 \times 135$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       5       & 3     & 1     \\
-{}\times    &       &       1        & 3    & 5     \\
+            &        &   5   &   3   &   1 \\
+            & \times &   1   &   3   &   5 \\
 \hline
-            &  2    &       6       & 5     & 5     \\
-       1    &  5    &       9       & 3     & 0     \\
-       4    &  3    &       1       & 0     & 0     \\
+            &   2    &   6   &   5   &   5 \\
+       1    &   5    &   9   &   3   &   0 \\
+       5    &   3    &   1   &   0   &   0 \\
 \hline
-       7   &      1&       6       & 8     & 5
+       7    &   1    &   6   &   8   & 5
 \end{array}
 $
 

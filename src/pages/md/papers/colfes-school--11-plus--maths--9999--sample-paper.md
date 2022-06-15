@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -394,7 +394,7 @@ $\dfrac {13} {24}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF3E51F2-06D2-40A3-93F2-BC83DD8C2835</p>
 </div>
@@ -405,7 +405,7 @@ $\dfrac {13} {24}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -431,7 +431,8 @@ $
 &= \dfrac {9 \times 9} {4 \times 9} - \dfrac {5 \times 4} {9 \times 4} \\\\
 &= \dfrac {81} {36} - \dfrac {20} {36} \\\\
 &= \dfrac {81 - 20} {36} \\\\
-&= \dfrac {61} {36}
+&= \dfrac {61} {36} \\\\
+&= 1 \dfrac {25} {36}
 \end{aligned}
 $
 
@@ -440,7 +441,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {61} {36}$
+$1 \dfrac {25} {36}$
 
 </div>
 </div>

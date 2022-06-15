@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -621,7 +621,7 @@ $11 \quad 10.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0287200B-A30D-4F47-9CA8-52ED14101AEE</p>
 </div>
@@ -632,7 +632,7 @@ $11 \quad 10.25$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -661,10 +661,11 @@ Work out $\dfrac{1}{4}$ of $48$.
 
 $
 \begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 48 \\\\
 &= \dfrac {1} {4} \times 48 \\\\
-&= \dfrac {1 \times 48} {4} \\\\
-&= \dfrac {1 \times 12 \times 4} {4} \\\\
-&= \dfrac {1 \times 12 \times \cancel {4}} {\cancel {4}} \\\\
+&= \dfrac {48} {4} \\\\
+&= \dfrac {12 \times 4} {4} \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} \\\\
 &= 12
 \end{aligned}
 $
@@ -695,7 +696,7 @@ $
 \begin{aligned}
 &= \dfrac {1} {2} \text { of } \dfrac {1} {3} \text { of } \dfrac {1} {4} \text { of } 48 \\\\
 &= \dfrac {1} {2} \times \dfrac {1} {3} \times \dfrac {1} {4} \times 48 \\\\
-&= \dfrac {1 \times 1 \times 1 \times 48} {2 \times 3 \times 4}
+&= \dfrac {48} {2 \times 3 \times 4}
 &= \dfrac {2 \times 3 \times 4 \times 2} {2 \times 3 \times 4} \\\\
 &= \dfrac {\cancel {2} \times \cancel {3} \times \cancel {4} \times 2} {\cancel {2} \times \cancel {3} \times \cancel {4}} \\\\
 &= 2

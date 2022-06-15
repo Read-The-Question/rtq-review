@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-g0"
 title: "TopicPaper - Detailedsubtraction - 1 - G0"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4EC513E6-3767-4725-924F-C36F3605A1EC</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -36,7 +36,7 @@ Subtract $2018$ from $8102$.
 $
 \begin{array}{cccccccccccccc}
     &   8   &   1   &   0   &   2 \\
-{}+ &   2   &   0   &   1   &   8 \\
+{}- &   2   &   0   &   1   &   8 \\
 \hline
     &   6   &   0   &   8   &   4
 \end{array}

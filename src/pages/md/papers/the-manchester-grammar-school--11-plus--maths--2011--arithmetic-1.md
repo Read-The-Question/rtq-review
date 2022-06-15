@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2011-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2011 - Arithmetic 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -95,7 +95,7 @@ $732$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
 </div>
@@ -106,7 +106,7 @@ $732$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -125,13 +125,13 @@ Work out $187 \times 60$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       1       & 8     & 7     \\
-{}\times    &       &               & 6     & 0     \\
+            &        &   1   &    8   &   7 \\
+            & \times &       &    6   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-1           &      1&       2       & 2     & 0     \\
+            &        &   0   &    0   &   0 \\
+1           &    1   &   2   &    2   &   0 \\
 \hline
-1           &      1&       2       & 2     & 0
+1           &    1   &   2   &    2   &   0
 \end{array}
 $
 

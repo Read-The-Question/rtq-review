@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3739,7 +3739,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>BD782688-6E8D-4514-AA56-D01E50FF22E7</p>
 </div>
@@ -3747,7 +3747,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2017--sample-paper-3</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3774,29 +3774,69 @@ How old will they be when Mr Patel's age is the sum of his sons' ages?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Mr Patel's age $= a$
 
-</div>
-<div class='working'>
+Humza's age $= a - 28$
 
-TODOWORKING
+Kian's age $= a - 31$
+
+As per the question,
+
+$
+\begin {aligned}
+a               &= a - 28 + a - 31 \\\\
+a               &= 2a - 59 \\\\
+a - 2a          &= -59 \\\\
+-a              &= -59 \\\\
+\cancel {-} a   &= \cancel {-} 59 \\\\
+a               &= 59 \ \text {years}
+\end {aligned}
+$
+
+Mr Patel's age $= 59 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$59 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='BD782688-6E8D-4514-AA56-D01E50FF22E7' id='FORM-BD782688-6E8D-4514-AA56-D01E50FF22E7' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BD782688-6E8D-4514-AA56-D01E50FF22E7'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/whitgift-school-11-plus-maths-9999-sample-paper-1"
 title: "Whitgift School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -181,7 +181,7 @@ $696$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
@@ -192,7 +192,7 @@ $696$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,9 +224,11 @@ $
 </div>
 <div class='working'>
 
-Alternative solution,
-
-$14 \times 7 \times 2 = 14 \times 14$
+$
+\begin{aligned}
+14 \times 7 \times 2 &= 14 \times 14
+\end{aligned}
+$
 
 $
 \begin{array}{cccccccccccccc}
@@ -236,7 +238,7 @@ $
     &       &   5   &   6 \\
     &   1   &   4   &   0 \\
 \hline
-    &   1   &   9   &   0
+    &   1   &   9   &   6
 \end{array}
 $
 

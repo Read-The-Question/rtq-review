@@ -1,7 +1,7 @@
 ---
 slug: "papers/kent-college-canterbury-11-plus-maths-2020-sample-paper-1"
 title: "Kent College Canterbury - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -687,7 +687,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>091BE174-DE2B-4C75-991E-0E380683A53B</p>
 </div>
@@ -698,7 +698,7 @@ $3$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -774,6 +774,7 @@ $
 \begin{aligned}
 &= \dfrac {3} {4} \ \text {of} \ 28 \\\\
 &= \dfrac {3} {4} \times 28 \\\\
+&= \dfrac {3 \times 28} {4} \\\\
 &= \dfrac {3 \times 4 \times 7} {4} \\\\
 &= \dfrac {3 \times \cancel {4} \times 7} {\cancel {4}} \\\\
 &= 21
@@ -806,6 +807,7 @@ $
 \begin{aligned}
 &= \dfrac {3} {5} \ \text {of} \ 40 \\\\
 &= \dfrac {3} {5} \times 40 \\\\
+&= \dfrac {3 \times 40} {5} \\\\
 &= \dfrac {3 \times 5 \times 8} {5} \\\\
 &= \dfrac {3 \times \cancel {5} \times 8} {\cancel {5}} \\\\
 &= 24

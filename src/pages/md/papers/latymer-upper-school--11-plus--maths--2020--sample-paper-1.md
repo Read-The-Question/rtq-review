@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -429,7 +429,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
 </div>
@@ -440,7 +440,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -470,6 +470,7 @@ E: $108$
 $
 \begin{aligned}
 &= \dfrac {3} {8} \ \text {of} \ 264 \\\\
+&= \dfrac {3} {8} \times 264 \\\\
 &= \dfrac {3 \times 264} {8} \\\\
 &= \dfrac {3 \times 33 \times 8} {8} \\\\
 &= \dfrac {3 \times 33 \times \cancel {8}} {\cancel {8}} \\\\

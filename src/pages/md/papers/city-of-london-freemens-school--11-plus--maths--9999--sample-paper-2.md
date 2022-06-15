@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-2"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1456,7 +1456,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
 </div>
@@ -1467,7 +1467,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1495,22 +1495,31 @@ Find the missing angles a ̊and b ̊:
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a , b$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know the sum of two interior angles is equal to sum of opposite exterior angle
 
-Also the sum of angles in a triangle is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
 
 $
 \begin{aligned}
 b + 69                                                  &= 132 \\\\
 b                                                       &= 132 - 69 \\\\
-b                                                       &= 63 \\\\
+b                                                       &= 63 \degree
+\end{aligned}
+$
+
+Let's use the value of $b$ to find $a$.
+
+$
+\begin{aligned}
 a + b + 69                                              &= 180 \\\\
 a + 63 + 69                                             &= 180 \\\\
 a + 132                                                 &= 180 \\\\
 a                                                       &= 180 - 132 \\\\
-a                                                       &= 48
+a                                                       &= 48 \degree
 \end{aligned}
 $
 
@@ -1522,7 +1531,7 @@ $
 </div>
 <div class='answer'>
 
-$48, \63$
+$a = 48 \degree, b = 63 \degree$
 
 </div>
 </div>

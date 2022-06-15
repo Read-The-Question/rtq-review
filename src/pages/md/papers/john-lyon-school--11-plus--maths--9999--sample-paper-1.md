@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1723,7 +1723,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
 </div>
@@ -1734,7 +1734,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1751,9 +1751,7 @@ Write down two fractions which are equivalent to $4$ where one of the numbers is
 <div class='workings'>
 <div class='working'>
 
-Lets make the numerator to be 20.
-
-As per the question,
+When the numerator is 20
 
 $
 \begin{aligned}
@@ -1763,9 +1761,7 @@ $
 \end{aligned}
 $
 
-Lets make the denominator to be 20.
-
-As per the question,
+When the denominator is 20
 
 $
 \begin{aligned}

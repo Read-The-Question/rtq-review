@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2020-sample-paper-2"
 title: "Latymer Upper School - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -960,7 +960,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39CD718E-4622-4E85-BC42-CE13D8EE9299</p>
 </div>
@@ -971,7 +971,7 @@ $45$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1003,6 +1003,7 @@ $
 &= \dfrac {1} {5} + \dfrac {2} {3} \\\\
 &= \dfrac {1 \times 3} {5 \times 3} + \dfrac {2 \times 5} {3 \times 5} \\\\
 &= \dfrac {3} {15} + \dfrac {10} {15} \\\\
+&= \dfrac {3 + 10} {15} \\\\
 &= \dfrac {13} {15}
 \end{aligned}
 $

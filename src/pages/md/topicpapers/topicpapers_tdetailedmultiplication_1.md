@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,13 +45,13 @@ Work out $235 \times 68$.
 
 $
 \begin{array}{cccccccccccccc}
-         &      &       &       2       & 3     & 5     \\
- &      &       &     {}\times          & 6     & 8     \\
+         &       &            &   2   &   3   &   5 \\
+         &       &   \times   &       &   6   &   8 \\
 \hline 
-         &       &  1    &       8       & 8     & 0     \\
-         &  1    &  4    &       1       & 0     & 0     \\
+         &       &   1        &   8   &   8   &   0 \\
+         &   1   &   4        &   1   &   0   &   0 \\
 \hline
-         &  1    &  5    &       9       & 8     & 0
+         &   1   &   5        &   9   &   8   &   0
 \end{array}
 $
 
@@ -604,7 +604,7 @@ $9509$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CF1E7CDC-3922-4B3A-9CB3-10DD08EE6B12</p>
 </div>
@@ -615,7 +615,7 @@ $9509$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -634,13 +634,13 @@ Multiply $2018$ by $17$.
 
 $
 \begin{array}{cccccccccccccc}
-    &        2       &    0    &    1    &   8 \\
-    &    {}\times    &         &    1    &   7 \\
+           &   2   &   0   &   1   &   8 \\
+{}\times   &       &       &   1   &   7 \\
 \hline
-1   &        4       &    1    &    2    &   6 \\
-2   &        0       &    1    &    8    &   0 \\
+       1   &   4   &   1   &   2   &   6 \\
+       2   &   0   &   1   &   8   &   0 \\
 \hline
-3   &        4       &    3    &    0    &   6
+       3   &   4   &   3   &   0   &   6
 \end{array}
 $
 
@@ -1130,7 +1130,7 @@ $17.28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EEF72924-11BE-434D-A13E-BC27384EFC28</p>
 </div>
@@ -1141,7 +1141,7 @@ $17.28$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1164,12 +1164,9 @@ $12 \times 1000 =$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-            &       &       &       &   1   &   2 \\
-{}\times    &       &   1   &   0   &   0   &   0 \\
-\hline
-            &   1   &   2   &   0   &   0   &   0 	
-\end{array}
+\begin{aligned}
+12 \times 1000 &= 12000
+\end{aligned}
 $
 
 </div>
@@ -2101,7 +2098,7 @@ $2646$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FD8C8C13-C53C-4C41-8454-1B081779ABA1</p>
 </div>
@@ -2112,7 +2109,7 @@ $2646$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2131,13 +2128,13 @@ $57 \times 28$
 
 $
 \begin{array}{cccccccccccccc}
-         &       &   5   &   7 \\
-{}\times &       &   2   &   8 \\
+    &        &   5   &   7 \\
+    & \times &   2   &   8 \\
 \hline
-         &   4   &   5   &   6 \\
-1        &   1   &   4   &   0 \\
+    &   4    &   5   &   6 \\
+1   &   1    &   4   &   0 \\
 \hline
-1        &   5   &   9   &   6
+1   &   5    &   9   &   6
 \end{array}
 $
 
@@ -2186,7 +2183,7 @@ $1596$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
 </div>
@@ -2197,7 +2194,7 @@ $1596$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2221,7 +2218,7 @@ What is the answer to $0.2 \times 0.03$
 
 Let's first multiply the numbers ignoring the decimal points.
 
-$2 \times 3 = 6$.
+$2 \times 3 = 6$
 
 Between the two numbers, the total number of digits after the decimal point is three.
 
@@ -2997,7 +2994,7 @@ $1968$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C56456ED-AC53-469C-80A8-C4DF12E5E208</p>
 </div>
@@ -3008,7 +3005,7 @@ $1968$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

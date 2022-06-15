@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-15 07:07:55
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0287200B-A30D-4F47-9CA8-52ED14101AEE</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -55,10 +55,11 @@ Work out $\dfrac{1}{4}$ of $48$.
 
 $
 \begin{aligned}
+&= \dfrac {1} {4} \ \text{of} \ 48 \\\\
 &= \dfrac {1} {4} \times 48 \\\\
-&= \dfrac {1 \times 48} {4} \\\\
-&= \dfrac {1 \times 12 \times 4} {4} \\\\
-&= \dfrac {1 \times 12 \times \cancel {4}} {\cancel {4}} \\\\
+&= \dfrac {48} {4} \\\\
+&= \dfrac {12 \times 4} {4} \\\\
+&= \dfrac {12 \times \cancel {4}} {\cancel {4}} \\\\
 &= 12
 \end{aligned}
 $
@@ -89,7 +90,7 @@ $
 \begin{aligned}
 &= \dfrac {1} {2} \text { of } \dfrac {1} {3} \text { of } \dfrac {1} {4} \text { of } 48 \\\\
 &= \dfrac {1} {2} \times \dfrac {1} {3} \times \dfrac {1} {4} \times 48 \\\\
-&= \dfrac {1 \times 1 \times 1 \times 48} {2 \times 3 \times 4}
+&= \dfrac {48} {2 \times 3 \times 4}
 &= \dfrac {2 \times 3 \times 4 \times 2} {2 \times 3 \times 4} \\\\
 &= \dfrac {\cancel {2} \times \cancel {3} \times \cancel {4} \times 2} {\cancel {2} \times \cancel {3} \times \cancel {4}} \\\\
 &= 2
@@ -426,7 +427,7 @@ $630$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E</p>
 </div>
@@ -437,7 +438,7 @@ $630$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -459,15 +460,13 @@ What fraction is half-way between $2$ and $2.5$?
 <div class='workings'>
 <div class='working'>
 
-Half-way between two numbers is the same as finding the average of two numbers.
-
 $
 \begin{aligned}
 &= \dfrac {2 + 2.5} {2} \\\\
 &= \dfrac {4.5} {2} \\\\
 &= \dfrac {45} {2 \times 10} \\\\
 &= \dfrac {9 \times 5} {2 \times 2 \times 5} \\\\
-&= \dfrac {9 \times \cancel{5} } {4 \times \cancel{5} } \\\\
+&= \dfrac {9 \times \cancel{5} } {2 \times 2 \times \cancel{5} } \\\\
 &= \dfrac {9} {4}
 \end{aligned}
 $
@@ -759,7 +758,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C312D6E-654D-4791-935E-BC0C5352D615</p>
 </div>
@@ -770,7 +769,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -789,11 +788,9 @@ What is $3 \dfrac{1}{2} \div \dfrac{1}{4}$?
 
 $
 \begin{aligned}
-&= 3 \dfrac {1} {2} \div \dfrac {1} {4} \\\\
-&= \dfrac {7} {2} \div \dfrac {1} {4} \\\\
-&= \dfrac {7} {2} \times \dfrac {4} {1} \\\\
-&= \dfrac {7 \times 4} {2 \times 1} \\\\
-&= \dfrac {7 \times 2 \times 2} {2} \\\\
+&= 3 \dfrac {1}{2} \div \dfrac{1}{4} \\\\
+&= \dfrac {7}{2} \times 4 \\\\
+&= \dfrac {7 \times 4}{2} \\\\
 &= \dfrac {7 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
 &= 7 \times 2 \\\\
 &= 14
@@ -966,7 +963,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C35E025-3712-4F87-95B5-ACF37CED321C</p>
 </div>
@@ -977,7 +974,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1001,7 +998,8 @@ $
 &= \dfrac {9 \times 2} {2 \times 2} - \dfrac {7} {4} \\\\
 &= \dfrac {18} {4} - \dfrac {7} {4} \\\\
 &= \dfrac {18 - 7} {4} \\\\
-&= \dfrac {11} {4}
+&= \dfrac {11} {4} \\\\
+&= 2 \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -1010,7 +1008,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {11} {4}$
+$2 \dfrac {3} {4}$
 
 </div>
 </div>
@@ -1112,7 +1110,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
 </div>
@@ -1123,7 +1121,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1197,7 +1195,7 @@ $\dfrac{5}{12} \times \dfrac{1}{4}$
 $
 \begin{aligned}
 &= \dfrac {5} {12} \times \dfrac {1} {4} \\\\
-&= \dfrac {5} {36}
+&= \dfrac {5} {48}
 \end{aligned}
 $
 
@@ -1206,7 +1204,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {5} {36}$
+$\dfrac {5} {48}$
 
 </div>
 </div>
@@ -1260,8 +1258,7 @@ $
 \begin{aligned}
 &= 1 \dfrac {1} {8} + \dfrac {1} {6} \\\\
 &= \dfrac {9} {8} + \dfrac {1} {6} \\\\
-&= \dfrac {9 \times 6} {8 \times 6} + \dfrac {1 \times 8} {6 \times 8} \\\\
-&= \dfrac {54} {48} + \dfrac {8} {48} \\\\
+&= \dfrac {9 \times 6 + 1 \times 8} {48} \\\\
 &= \dfrac {54 + 8} {48} \\\\
 &= \dfrac {62} {48} \\\\
 &= \dfrac {2 \times 31} {2 \times 24} \\\\
@@ -1326,7 +1323,7 @@ Part d) Use LCM in S3 and update other workings accordingly
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>16C2DCFA-5867-4439-AAD8-0886FF1DB404</p>
 </div>
@@ -1337,7 +1334,7 @@ Part d) Use LCM in S3 and update other workings accordingly
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1378,6 +1375,7 @@ $\dfrac{1}{5}$ of $75$
 
 $
 \begin{aligned}
+&= \dfrac{1}{5} \ \text{of} \ 75 \\\\
 &= \dfrac{1}{5} \times 75 \\\\
 &= \dfrac{75}{5} \\\\
 &= \dfrac{5 \times 15}{5} \\\\
@@ -1410,6 +1408,7 @@ $\dfrac{5}{8}$ of $32$
 
 $
 \begin{aligned}
+&= \dfrac{5}{8} \ \text{of} \ 32 \\\\
 &= \dfrac{5}{8} \times 32 \\\\
 &= \dfrac{5 \times 32}{8} \\\\
 &= \dfrac{5 \times 8 \times 4}{8} \\\\
@@ -1443,6 +1442,7 @@ $17.5\%$ of $63$
 
 $
 \begin{aligned}
+&= 17.5\% \ \text{of} \ 63 \\\\
 &= 17.5 \% \times 63 \\\\
 &= \dfrac{17.5} {100} \times 63 \\\\
 &= \dfrac{17.5 \times 63} {100} \\\\
@@ -1504,7 +1504,7 @@ All parts Add S1 with of
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>073AD692-FB0A-42C4-B1A4-C0D2CFC948C3</p>
 </div>
@@ -1515,7 +1515,7 @@ All parts Add S1 with of
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1559,11 +1559,11 @@ What fraction of Jon’s animals are ducks?
 
 $
 \begin{aligned}
-\text{Ducks}    &= \dfrac {2} {2 + 6} \\\\
-                &= \dfrac {2} {8} \\\\
-                &= \dfrac {2} {2 \times 4} \\\\
-                &= \dfrac {\cancel {2}} {\cancel {2}  \times 4} \\\\
-                &= \dfrac {1}{4}
+&= \dfrac {2} {2 + 6} \\\\
+&= \dfrac {2} {8} \\\\
+&= \dfrac {2} {2 \times 4} \\\\
+&= \dfrac {\cancel {2}} {\cancel {2}  \times 4} \\\\
+&= \dfrac {1}{4}
 \end{aligned}
 $
 
@@ -1591,12 +1591,12 @@ What percentage of Jon’s animals are chickens?
 
 $
 \begin{aligned}
-&= \dfrac {2} {2 + 6} \\\\
-&= \dfrac {2} {2 + 6} \times 100 \\\\
-&= \dfrac {2 \times 100} {8} \\\\
-&= \dfrac {2 \times 4 \times 25} {2 \times 4} \\\\
-&= \dfrac {\cancel {2} \times \cancel {4} \times 25} {\cancel {2} \times \cancel {4}} \\\\
-&= 25 \%  
+&= \dfrac {6} {2 + 6} \\\\
+&= \dfrac {6} {2 + 6} \times 100 \\\\
+&= \dfrac {6 \times 100} {8} \\\\
+&= \dfrac {2 \times 3 \times 4 \times 25} {2 \times 4} \\\\
+&= \dfrac {\cancel {2} \times 3 \times \cancel {4} \times 25} {\cancel {2} \times \cancel {4}} \\\\
+&= 75 \%  
 \end{aligned}
 $
 
@@ -1605,7 +1605,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \%$
+$75 \%$
 
 </div>
 </div>
@@ -2021,7 +2021,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
 </div>
@@ -2032,7 +2032,7 @@ $\dfrac{7} {3}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2074,9 +2074,7 @@ $\dfrac{1}{4} + \dfrac{3}{8}$
 $
 \begin{aligned}
 &= \dfrac {1} {4} + \dfrac {3} {8} \\\\
-&= \dfrac {1 \times 2} {4 \times 2} + \dfrac {3 \times 1} {8 \times 1} \\\\
-&= \dfrac {2} {8} + \dfrac {3} {8} \\\\
-&= \dfrac {2 + 3} {8} \\\\
+&= \dfrac {1 \times 2 + 3 \times 1} {8} \\\\
 &= \dfrac {5} {8}
 \end{aligned}
 $
@@ -2109,7 +2107,7 @@ $
 &= \dfrac {3 \times 4} {7 \times 4} - \dfrac {3 \times 7} {4 \times 7} \\\\
 &= \dfrac {12} {28} - \dfrac {21} {28} \\\\
 &= \dfrac {12 - 21} {28} \\\\
-&= \dfrac {-9} {28}
+&= - \dfrac {9} {28}
 \end{aligned}
 $
 
@@ -2118,7 +2116,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-9} {28}$
+$- \dfrac {9} {28}$
 
 </div>
 </div>
@@ -2170,7 +2168,7 @@ Answer take minus out of dfrac
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B3AFF432-CB6A-4E95-AADE-45C349B0904D</p>
 </div>
@@ -2181,7 +2179,7 @@ Answer take minus out of dfrac
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2287,7 +2285,7 @@ $\dfrac{1}{7} \times \dfrac{2}{3} \times 21 =$
 $
 \begin{aligned}
 &= \dfrac {1} {7} \times \dfrac {2} {3} \times 21 \\\\
-&= \dfrac {1 \times 2 \times 21} {7 \times 3} \\\\
+&= \dfrac {2 \times 21} {7 \times 3} \\\\
 &= \dfrac {2 \times 21} {21} \\\\
 &= \dfrac {2 \times \cancel {21}} {\cancel {21}} \\\\
 &= 2
@@ -2488,7 +2486,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>66CC3FAD-48FE-44E8-87CF-70E572E82771</p>
 </div>
@@ -2499,7 +2497,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2516,9 +2514,7 @@ Write down two fractions which are equivalent to $4$ where one of the numbers is
 <div class='workings'>
 <div class='working'>
 
-Lets make the numerator to be 20.
-
-As per the question,
+When the numerator is 20
 
 $
 \begin{aligned}
@@ -2528,9 +2524,7 @@ $
 \end{aligned}
 $
 
-Lets make the denominator to be 20.
-
-As per the question,
+When the denominator is 20
 
 $
 \begin{aligned}
@@ -2677,7 +2671,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>091BE174-DE2B-4C75-991E-0E380683A53B</p>
 </div>
@@ -2688,7 +2682,7 @@ $12$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2764,6 +2758,7 @@ $
 \begin{aligned}
 &= \dfrac {3} {4} \ \text {of} \ 28 \\\\
 &= \dfrac {3} {4} \times 28 \\\\
+&= \dfrac {3 \times 28} {4} \\\\
 &= \dfrac {3 \times 4 \times 7} {4} \\\\
 &= \dfrac {3 \times \cancel {4} \times 7} {\cancel {4}} \\\\
 &= 21
@@ -2796,6 +2791,7 @@ $
 \begin{aligned}
 &= \dfrac {3} {5} \ \text {of} \ 40 \\\\
 &= \dfrac {3} {5} \times 40 \\\\
+&= \dfrac {3 \times 40} {5} \\\\
 &= \dfrac {3 \times 5 \times 8} {5} \\\\
 &= \dfrac {3 \times \cancel {5} \times 8} {\cancel {5}} \\\\
 &= 24
@@ -3333,7 +3329,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3A3AB715-05E4-4635-8C9A-641EC20949C8</p>
 </div>
@@ -3344,7 +3340,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3374,6 +3370,7 @@ E: $108$
 $
 \begin{aligned}
 &= \dfrac {3} {8} \ \text {of} \ 264 \\\\
+&= \dfrac {3} {8} \times 264 \\\\
 &= \dfrac {3 \times 264} {8} \\\\
 &= \dfrac {3 \times 33 \times 8} {8} \\\\
 &= \dfrac {3 \times 33 \times \cancel {8}} {\cancel {8}} \\\\
@@ -3530,7 +3527,7 @@ $\dfrac {1} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>39CD718E-4622-4E85-BC42-CE13D8EE9299</p>
 </div>
@@ -3541,7 +3538,7 @@ $\dfrac {1} {15}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3573,6 +3570,7 @@ $
 &= \dfrac {1} {5} + \dfrac {2} {3} \\\\
 &= \dfrac {1 \times 3} {5 \times 3} + \dfrac {2 \times 5} {3 \times 5} \\\\
 &= \dfrac {3} {15} + \dfrac {10} {15} \\\\
+&= \dfrac {3 + 10} {15} \\\\
 &= \dfrac {13} {15}
 \end{aligned}
 $
@@ -4368,7 +4366,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
 </div>
@@ -4379,7 +4377,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4398,6 +4396,7 @@ Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
 
 $
 \begin{aligned}
+&= \dfrac{1}{3} \ \text{of} \ 2 \dfrac{1}{4} \\\\
 &= \dfrac {1} {3} \times 2 \ \dfrac {1} {4} \\\\
 &= \dfrac {1} {3} \times \dfrac {9} {4} \\\\
 &= \dfrac {9} {3 \times 4} \\\\
@@ -4457,7 +4456,7 @@ Add S1 with of
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
 </div>
@@ -4468,7 +4467,7 @@ Add S1 with of
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4489,10 +4488,10 @@ Give your answer in its simplest form.
 
 $
 \begin{aligned}
-&= \dfrac {\dfrac {3} {7} + \dfrac {4} {7}} {2} \\\\
-&= \dfrac {\dfrac {3 + 4} {7}} {2} \\\\
-&= \dfrac {7} {7 \times 2} \\\\
-&= \dfrac {\cancel {7}} {\cancel {7} \times 2} \\\\
+&= \dfrac {1} {2} \times \dfrac {3} {7} + \dfrac {4} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {3 + 4} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {7} {7} \\\\
+&= \dfrac {1} {2} \times \dfrac {\cancel {7}} {\cancel {7}} \\\\
 &= \dfrac {1} {2}
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -98,7 +98,7 @@ $849$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9507576-474D-45B6-9AB2-BE8AEB0DA8CE</p>
 </div>
@@ -109,7 +109,7 @@ $849$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -134,7 +134,6 @@ $
 {}- &       &   4   &   9   &   5 \\
 \hline
     &   7   &   1   &   1   &   3 \\
-\hline
 \end{array}
 $
 
@@ -188,7 +187,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>526434CB-3774-430F-83A9-36B1B0D89647</p>
 </div>
@@ -199,7 +198,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,7 +223,6 @@ $
    \times   &       &       &   8 \\
 \hline
    2        &   3   &   7   &   6 \\
-\hline
 \end{array}
 $
 
@@ -2667,7 +2665,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>179E36BA-F4C4-40DB-B15A-730F51236EB0</p>
 </div>
@@ -2678,7 +2676,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2700,11 +2698,10 @@ Fill in the missing digits in this multiplication:
 
 $
 \begin{array}{cccccccccccccc}
-              &   3   &   \red {3}        &   \red {8} \\
-              &       &   \times          &   7 \\
+              &   3   & \red {3} & \red {8} \\
+       \times &       &          &   7 \\
 \hline
-   \red {2}   &   3   &   \red {6}        &   6 \\
-\hline
+   \red {2}   &   3   & \red {6} &   6 \\
 \end{array}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -734,7 +734,7 @@ $-2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>073AD692-FB0A-42C4-B1A4-C0D2CFC948C3</p>
 </div>
@@ -745,7 +745,7 @@ $-2$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -789,11 +789,11 @@ What fraction of Jon’s animals are ducks?
 
 $
 \begin{aligned}
-\text{Ducks}    &= \dfrac {2} {2 + 6} \\\\
-                &= \dfrac {2} {8} \\\\
-                &= \dfrac {2} {2 \times 4} \\\\
-                &= \dfrac {\cancel {2}} {\cancel {2}  \times 4} \\\\
-                &= \dfrac {1}{4}
+&= \dfrac {2} {2 + 6} \\\\
+&= \dfrac {2} {8} \\\\
+&= \dfrac {2} {2 \times 4} \\\\
+&= \dfrac {\cancel {2}} {\cancel {2}  \times 4} \\\\
+&= \dfrac {1}{4}
 \end{aligned}
 $
 
@@ -821,12 +821,12 @@ What percentage of Jon’s animals are chickens?
 
 $
 \begin{aligned}
-&= \dfrac {2} {2 + 6} \\\\
-&= \dfrac {2} {2 + 6} \times 100 \\\\
-&= \dfrac {2 \times 100} {8} \\\\
-&= \dfrac {2 \times 4 \times 25} {2 \times 4} \\\\
-&= \dfrac {\cancel {2} \times \cancel {4} \times 25} {\cancel {2} \times \cancel {4}} \\\\
-&= 25 \%  
+&= \dfrac {6} {2 + 6} \\\\
+&= \dfrac {6} {2 + 6} \times 100 \\\\
+&= \dfrac {6 \times 100} {8} \\\\
+&= \dfrac {2 \times 3 \times 4 \times 25} {2 \times 4} \\\\
+&= \dfrac {\cancel {2} \times 3 \times \cancel {4} \times 25} {\cancel {2} \times \cancel {4}} \\\\
+&= 75 \%  
 \end{aligned}
 $
 
@@ -835,7 +835,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25 \%$
+$75 \%$
 
 </div>
 </div>
@@ -2131,7 +2131,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
 </div>
@@ -2142,7 +2142,7 @@ $\dfrac{7} {3}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2184,9 +2184,7 @@ $\dfrac{1}{4} + \dfrac{3}{8}$
 $
 \begin{aligned}
 &= \dfrac {1} {4} + \dfrac {3} {8} \\\\
-&= \dfrac {1 \times 2} {4 \times 2} + \dfrac {3 \times 1} {8 \times 1} \\\\
-&= \dfrac {2} {8} + \dfrac {3} {8} \\\\
-&= \dfrac {2 + 3} {8} \\\\
+&= \dfrac {1 \times 2 + 3 \times 1} {8} \\\\
 &= \dfrac {5} {8}
 \end{aligned}
 $
@@ -2219,7 +2217,7 @@ $
 &= \dfrac {3 \times 4} {7 \times 4} - \dfrac {3 \times 7} {4 \times 7} \\\\
 &= \dfrac {12} {28} - \dfrac {21} {28} \\\\
 &= \dfrac {12 - 21} {28} \\\\
-&= \dfrac {-9} {28}
+&= - \dfrac {9} {28}
 \end{aligned}
 $
 
@@ -2228,7 +2226,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {-9} {28}$
+$- \dfrac {9} {28}$
 
 </div>
 </div>

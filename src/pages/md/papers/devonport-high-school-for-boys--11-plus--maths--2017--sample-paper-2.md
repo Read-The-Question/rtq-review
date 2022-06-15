@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2017-sample-paper-2"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2017 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1472,7 +1472,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DBB54740-C177-4685-AD73-ECFA3880007B</p>
 </div>
@@ -1483,7 +1483,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1730,7 +1730,7 @@ $\pounds 2.03$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
@@ -1741,7 +1741,7 @@ $\pounds 2.03$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1760,10 +1760,10 @@ What fraction of an hour is $5$ minutes?
 
 $
 \begin{aligned} 
-\text {Fraction}    &= \dfrac {5} {60} \\\\
-                    &= \dfrac {5} {5 \times 12} \\\\
-                    &= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
-                    &= \dfrac {1} {12}
+&= \dfrac {5} {60} \\\\
+&= \dfrac {5} {5 \times 12} \\\\
+&= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
+&= \dfrac {1} {12}
 \end{aligned}
 $
 

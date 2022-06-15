@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -259,7 +259,7 @@ $104$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>40C245E0-C364-4A86-ACD3-59D1D8B4BFF0</p>
 </div>
@@ -270,7 +270,7 @@ $104$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -290,14 +290,13 @@ $195 \times 47 =$
 $
 \begin{array}{cccccccccccccc}
           &    1    &    9    &    5 \\
-{}\times  &         &    4    &    7 \\
+\times    &         &    4    &    7 \\
 \hline  
      1    &    3    &    6    &    5 \\
      7    &    8    &    0    &    0 \\
 \hline
      9    &    1    &    6    &    5  
-\end{array}         
-
+\end{array}
 $     
 
 </div>

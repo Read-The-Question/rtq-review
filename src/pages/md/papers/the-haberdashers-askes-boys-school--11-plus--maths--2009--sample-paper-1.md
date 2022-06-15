@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2009-sample-paper-1"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2009 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1693,7 +1693,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
@@ -1704,7 +1704,7 @@ $18$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1730,7 +1730,7 @@ $
 $
 \begin {aligned}
        &    1   &   3 \\
-\times &        &   7 \\
+\times &        &   6 \\
 \hline
        &    7   &   8
 \end {aligned}
@@ -1741,7 +1741,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$78$
+$\boxed{1} \ \boxed{3} \times \boxed{6} =\boxed{7} \ \boxed{8}$
 
 </div>
 </div>

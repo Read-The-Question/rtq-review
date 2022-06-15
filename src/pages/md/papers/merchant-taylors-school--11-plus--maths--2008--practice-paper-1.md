@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-2008-practice-paper-1"
 title: "Merchant Taylors School - 11 Plus - Maths - 2008 - Practice Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1840,7 +1840,7 @@ $216 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>93B9E3CD-8C82-4DD0-AD6A-70E95D5EF875</p>
 </div>
@@ -1851,7 +1851,7 @@ $216 \ \text {cm}^2$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1870,6 +1870,7 @@ Find $\dfrac{1}{3}$ of $2 \dfrac{1}{4}$
 
 $
 \begin{aligned}
+&= \dfrac{1}{3} \ \text{of} \ 2 \dfrac{1}{4} \\\\
 &= \dfrac {1} {3} \times 2 \ \dfrac {1} {4} \\\\
 &= \dfrac {1} {3} \times \dfrac {9} {4} \\\\
 &= \dfrac {9} {3 \times 4} \\\\

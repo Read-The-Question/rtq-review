@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-4-g0"
 title: "TopicPaper - Detailedmultiplication - 4 - G0"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -48,9 +48,11 @@ $
 </div>
 <div class='working'>
 
-Alternative solution,
-
-$14 \times 7 \times 2 = 14 \times 14$
+$
+\begin{aligned}
+14 \times 7 \times 2 &= 14 \times 14
+\end{aligned}
+$
 
 $
 \begin{array}{cccccccccccccc}
@@ -60,7 +62,7 @@ $
     &       &   5   &   6 \\
     &   1   &   4   &   0 \\
 \hline
-    &   1   &   9   &   0
+    &   1   &   9   &   6
 \end{array}
 $
 
@@ -116,7 +118,7 @@ answer to 196
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0BBE4126-D528-4588-9AF9-F9CE49056600</p>
 </div>
@@ -127,7 +129,7 @@ answer to 196
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -144,7 +146,11 @@ Calculate $6 \times 8$
 <div class='workings'>
 <div class='working'>
 
-$6 \times 8 = 48$
+$
+\begin{aligned}
+6 \times 8 &= 48
+\end{aligned}
+$
 
 </div>
 </div>
@@ -196,7 +202,7 @@ Use aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3114740D-C53A-49EC-B433-2572189ED29D</p>
 </div>
@@ -207,7 +213,7 @@ Use aligned
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,7 +230,11 @@ Calculate $7 \times 8$
 <div class='workings'>
 <div class='working'>
 
-$7 \times 8 = 56$
+$
+\begin{aligned}
+7 \times 8 &= 56
+\end{aligned}
+$
 
 </div>
 </div>
@@ -276,7 +286,7 @@ Use aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F858DC13-E706-4D45-B60D-CF904A6C3072</p>
 </div>
@@ -287,7 +297,7 @@ Use aligned
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -356,7 +366,7 @@ $432$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A1BE18D-7F3E-4C3E-BBB5-57FB9BEA3BF1</p>
 </div>
@@ -367,7 +377,7 @@ $432$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -436,7 +446,7 @@ $9800$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>56E5E6AF-A895-45C2-A9F6-20497B067AAE</p>
 </div>
@@ -447,7 +457,7 @@ $9800$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -464,11 +474,13 @@ Calculate  $- 45 + 63$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= -45 + 63 \\\\
 &= 63 - 45 \\\\
 &= 18
 \end{aligned}
+$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-2"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -798,7 +798,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3C35E025-3712-4F87-95B5-ACF37CED321C</p>
 </div>
@@ -809,7 +809,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -833,7 +833,8 @@ $
 &= \dfrac {9 \times 2} {2 \times 2} - \dfrac {7} {4} \\\\
 &= \dfrac {18} {4} - \dfrac {7} {4} \\\\
 &= \dfrac {18 - 7} {4} \\\\
-&= \dfrac {11} {4}
+&= \dfrac {11} {4} \\\\
+&= 2 \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -842,7 +843,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {11} {4}$
+$2 \dfrac {3} {4}$
 
 </div>
 </div>

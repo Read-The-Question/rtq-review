@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-2-g0"
 title: "TopicPaper - Detailedsubtraction - 2 - G0"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>875BB017-AED1-426A-AA78-AA89E462D760</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -33,12 +33,14 @@ $2011 - 999 =$
 <div class='workings'>
 <div class='working'>
 
-$2011 - 1000 + 1 = 1012$
+$
+\begin{aligned}
+2011 - 1000 + 1 &= 1012
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -101,7 +103,7 @@ Remove the phrase alternative solution
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F0DB0B9-CB86-40BB-8C55-778C4CD372B3</p>
 </div>
@@ -112,7 +114,7 @@ Remove the phrase alternative solution
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -129,12 +131,14 @@ $2002 - 999 =$
 <div class='workings'>
 <div class='working'>
 
-$2002 - 1000 + 1 = 1003$
+$
+\begin{aligned}
+2002 - 1000 + 1 &= 1003
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -197,7 +201,7 @@ Remove the phrase alternative solution
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C09205D6-59E5-4AB9-B3B3-3609A0CB4402</p>
 </div>
@@ -208,7 +212,7 @@ Remove the phrase alternative solution
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -225,12 +229,14 @@ $2030 - 997 =$
 <div class='workings'>
 <div class='working'>
 
-$2030 - 1000 + 3 = 1033$
+$
+\begin{aligned}
+2030 - 1000 + 3 &= 1033
+end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -293,7 +299,7 @@ Remove the phrase alternative solution
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C23CC024-39E3-4323-97B6-0FC20D88C36D</p>
 </div>
@@ -304,7 +310,7 @@ Remove the phrase alternative solution
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -380,7 +386,7 @@ $0.21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ACCD452C-167D-4F04-A496-755F5523D582</p>
 </div>
@@ -391,7 +397,7 @@ $0.21$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -476,7 +482,7 @@ $52.55$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2B100666-FB56-49E4-A2A4-F8219DF4F7B2</p>
 </div>
@@ -487,7 +493,7 @@ $52.55$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -507,7 +513,7 @@ Subtract: $81 - 49$
 $
 \begin{array}{cccccccccccccc}
         & 8 & 1 \\
-    {}+ & 4 & 9 \\
+    {}- & 4 & 9 \\
     \hline
         & 3 & 2
 \end{array}
@@ -563,7 +569,7 @@ Wrong operator
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AE182AEF-A433-4C74-A98A-5E3325141BC5</p>
 </div>
@@ -574,7 +580,7 @@ Wrong operator
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -599,7 +605,6 @@ $
 {}- &       &   8   &   3   &   2 \\
 \hline
     &   1   &   7   &   7   &   3 \\
-\hline
 \end{array}
 $
 
@@ -653,7 +658,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C9507576-474D-45B6-9AB2-BE8AEB0DA8CE</p>
 </div>
@@ -664,7 +669,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -689,7 +694,6 @@ $
 {}- &       &   4   &   9   &   5 \\
 \hline
     &   7   &   1   &   1   &   3 \\
-\hline
 \end{array}
 $
 
@@ -743,7 +747,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF7A0514-3250-4D1B-A9AC-ED6F5A811E07</p>
 </div>
@@ -754,7 +758,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -783,7 +787,8 @@ $
       &    3    &    6    &    1    &    7 \\
 {}-   &         &    9    &    0    &    8 \\
 \hline
-      &    2   &   7    &    0    &    9
+      &    2    &   7     &    0    &    9 \\
+\hline
 \end{array}
 $
 
@@ -832,7 +837,7 @@ $2709$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AE0D81DF-B4BE-4C69-9C1C-FAF17F07DFA4</p>
 </div>
@@ -843,7 +848,7 @@ $2709$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -914,7 +919,7 @@ $5745$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C3B97E97-CC57-46AE-8302-9C492B125896</p>
 </div>
@@ -925,7 +930,7 @@ $5745$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -948,7 +953,6 @@ $
 {}- &       &   2   &   4   &   8 \\
 \hline
     &   2   &   1   &   4   &   8 \\
-\hline
 \end{array}
 $
 
@@ -1092,7 +1096,7 @@ Add decimal prompt
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2BA9B8DF-A971-4697-A7FF-EFAA12385B1E</p>
 </div>
@@ -1103,7 +1107,7 @@ Add decimal prompt
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1175,7 +1179,7 @@ $8760$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E3BE6AC-7FB5-43AB-B419-2E5E66F902DA</p>
 </div>
@@ -1186,7 +1190,7 @@ $8760$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

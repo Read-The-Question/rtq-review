@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-3-g0"
 title: "TopicPaper - Detailedsubtraction - 3 - G0"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D1D231EE-FD6E-4511-A774-A7768DAB3B3D</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -37,8 +37,7 @@ $
 \begin{array}{cccccccccccccc}
     &   5   &   0   &   6 \\
 {}- &       &   5   &   9 \\
-
- \hline
+\hline
     &   4   &   4   &   7 
 \end{array}
 $

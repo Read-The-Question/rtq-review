@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2013-sample-paper-4"
 title: "Reigate Grammar School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -107,7 +107,7 @@ $3027$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C09205D6-59E5-4AB9-B3B3-3609A0CB4402</p>
 </div>
@@ -118,7 +118,7 @@ $3027$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -135,12 +135,14 @@ $2030 - 997 =$
 <div class='workings'>
 <div class='working'>
 
-$2030 - 1000 + 3 = 1033$
+$
+\begin{aligned}
+2030 - 1000 + 3 &= 1033
+end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -203,7 +205,7 @@ Remove the phrase alternative solution
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7322C665-D596-48C2-84C7-1030D938DAE1</p>
 </div>
@@ -214,7 +216,7 @@ Remove the phrase alternative solution
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -242,8 +244,6 @@ $
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}

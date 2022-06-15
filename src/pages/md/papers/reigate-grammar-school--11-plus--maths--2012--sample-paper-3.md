@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -107,7 +107,7 @@ $3001$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F0DB0B9-CB86-40BB-8C55-778C4CD372B3</p>
 </div>
@@ -118,7 +118,7 @@ $3001$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -135,12 +135,14 @@ $2002 - 999 =$
 <div class='workings'>
 <div class='working'>
 
-$2002 - 1000 + 1 = 1003$
+$
+\begin{aligned}
+2002 - 1000 + 1 &= 1003
+\end{aligned}
+$
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -203,7 +205,7 @@ Remove the phrase alternative solution
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A0351803-0890-4037-9AE0-32CA4800A3DD</p>
 </div>
@@ -214,7 +216,7 @@ Remove the phrase alternative solution
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -231,7 +233,9 @@ What is $2002 \times 10?$
 <div class='workings'>
 <div class='working'>
 
-$2002 \times 10 = 20020$
+\begin{aligned}
+2002 \times 10 &= 20020
+\end{aligned}
 
 </div>
 </div>
@@ -369,7 +373,7 @@ $10010$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CEEFE661-3F94-486A-860F-03203D78E68B</p>
 </div>
@@ -380,7 +384,7 @@ $10010$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -397,7 +401,7 @@ Use these last two answers to write down $2002 \times 15$
 <div class='workings'>
 <div class='working'>
 
-Using previous two answers
+Using the previous two answers
 
 $
 \begin{aligned}

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-g0"
 title: "TopicPaper - Detailedmultiplication - 3 - G0"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 07:07:55
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -42,7 +42,7 @@ $
 $
 \begin {aligned}
        &    1   &   3 \\
-\times &        &   7 \\
+\times &        &   6 \\
 \hline
        &    7   &   8
 \end {aligned}
@@ -53,7 +53,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$78$
+$\boxed{1} \ \boxed{3} \times \boxed{6} =\boxed{7} \ \boxed{8}$
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Sign in wrong place, change 7 to 6, change answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE97FB1F-AA68-41D1-BD54-0147E9CD7F70</p>
 </div>
@@ -109,7 +109,7 @@ Sign in wrong place, change 7 to 6, change answer
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -129,15 +129,12 @@ Work out $0.08$ multiplied by $5$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points
+Let's first multiply the numbers ignoring the decimal points.
 
 $
-\begin{array}{cccccccccccccc}
-        &   8 \\
-\times  &   5 \\
-\hline
-   4    &   0
-\end{array}
+\begin{aligned}
+8 \times 5 &= 40
+\end{aligned}
 $
 
 Let's account for the decimal point now.
@@ -196,7 +193,7 @@ without column multiplication
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>69F60BBD-9C95-4FD8-8EAF-553B3B76EA70</p>
 </div>
@@ -207,7 +204,7 @@ without column multiplication
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -226,10 +223,10 @@ Multiply: $28 \times 7$
 
 $
 \begin{array}{cccccccccccccc}
-        & 2  & 8 \\
-    &\times  & 7 \\
-    \hline
-       1 & 9 & 6
+       &   2   &   8 \\
+\times &       &   7 \\
+\hline
+   1   &   9   &   6
 \end{array}
 $
 
@@ -283,7 +280,7 @@ Sign in wrong place
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FFA69607-F74D-4586-9C47-8FC1B3DD1DC5</p>
 </div>
@@ -294,7 +291,7 @@ Sign in wrong place
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -319,7 +316,6 @@ $
    \times   &       &       &   7 \\
 \hline
    6        &   4   &   8   &   9 \\
-\hline
 \end{array}
 $
 
@@ -373,7 +369,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>526434CB-3774-430F-83A9-36B1B0D89647</p>
 </div>
@@ -384,7 +380,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -409,7 +405,6 @@ $
    \times   &       &       &   8 \\
 \hline
    2        &   3   &   7   &   6 \\
-\hline
 \end{array}
 $
 
@@ -463,7 +458,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>179E36BA-F4C4-40DB-B15A-730F51236EB0</p>
 </div>
@@ -474,7 +469,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -496,11 +491,10 @@ Fill in the missing digits in this multiplication:
 
 $
 \begin{array}{cccccccccccccc}
-              &   3   &   \red {3}        &   \red {8} \\
-              &       &   \times          &   7 \\
+              &   3   & \red {3} & \red {8} \\
+       \times &       &          &   7 \\
 \hline
-   \red {2}   &   3   &   \red {6}        &   6 \\
-\hline
+   \red {2}   &   3   & \red {6} &   6 \\
 \end{array}
 $
 
@@ -554,7 +548,7 @@ Sign in wrong place
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>53B9B068-60FD-45CE-85C3-B77303DB0A78</p>
 </div>
@@ -565,7 +559,7 @@ Sign in wrong place
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -588,7 +582,6 @@ $
    \times   &       &   8 \\
 \hline
    4        &   5   &   6 \\
-\hline
 \end{array}
 $
 
@@ -642,7 +635,7 @@ Remove line underneath
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E404FC05-74EB-4BA5-8AA5-F7BB56EC041E</p>
 </div>
@@ -653,7 +646,7 @@ Remove line underneath
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -724,7 +717,7 @@ $4571$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE27A5B2-575E-4F53-8283-EB0B0D4AFBC3</p>
 </div>
@@ -735,7 +728,7 @@ $4571$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -806,7 +799,7 @@ $42498$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B58BF69B-A845-42FC-ACEA-2C6568F27F66</p>
 </div>
@@ -817,7 +810,7 @@ $42498$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -888,7 +881,7 @@ $4781$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
 </div>
@@ -899,7 +892,7 @@ $4781$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -918,13 +911,13 @@ Work out $294 \times 70$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       2       & 9     & 4     \\
-            &       &     {}\times  & 7     & 0     \\
+            &        &   2   &   9   &   4 \\
+            & \times &       &   7   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-2           &      0&       5       & 8     & 0     \\
+            &       &    0   &   0   &   0 \\
+2           &   0   &    5   &   8   &   0 \\
 \hline
-2           &      0&       5       & 8     & 0
+2           &   0   &    5   &   8   &   0
 \end{array}
 $
 
@@ -978,7 +971,7 @@ Sign in wrong place
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>592A7270-AE5F-46DD-A5CD-5293B41C79F7</p>
 </div>
@@ -989,7 +982,7 @@ Sign in wrong place
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1008,13 +1001,13 @@ Work out $187 \times 60$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       1       & 8     & 7     \\
-{}\times    &       &               & 6     & 0     \\
+            &        &   1   &    8   &   7 \\
+            & \times &       &    6   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-1           &      1&       2       & 2     & 0     \\
+            &        &   0   &    0   &   0 \\
+1           &    1   &   2   &    2   &   0 \\
 \hline
-1           &      1&       2       & 2     & 0
+1           &    1   &   2   &    2   &   0
 \end{array}
 $
 
@@ -1063,7 +1056,7 @@ $11220$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>41576BB3-630B-4093-87FE-EF0A153AB637</p>
 </div>
@@ -1074,7 +1067,7 @@ $11220$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1093,13 +1086,13 @@ Work out $418 \times 70$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       4       & 1     & 8     \\
-            &       &     \times    & 7     & 0     \\
+            &        &   4   &   1   &   8 \\
+            & \times &       &   7   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-2           &      9&       2       & 6     & 0     \\
+            &        &   0   &   0   &   0 \\
+2           &   9    &   2   &   6   &   0 \\
 \hline
-2           &      9&       2       & 6     & 0
+2           &   9    &   2   &   6   &   0
 \end{array}
 $
 

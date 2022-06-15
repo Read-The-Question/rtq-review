@@ -1,7 +1,7 @@
 ---
 slug: "papers/forest-school-11-plus-maths-9999-sample-paper-1"
 title: "Forest School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -962,7 +962,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C312D6E-654D-4791-935E-BC0C5352D615</p>
 </div>
@@ -973,7 +973,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -992,11 +992,9 @@ What is $3 \dfrac{1}{2} \div \dfrac{1}{4}$?
 
 $
 \begin{aligned}
-&= 3 \dfrac {1} {2} \div \dfrac {1} {4} \\\\
-&= \dfrac {7} {2} \div \dfrac {1} {4} \\\\
-&= \dfrac {7} {2} \times \dfrac {4} {1} \\\\
-&= \dfrac {7 \times 4} {2 \times 1} \\\\
-&= \dfrac {7 \times 2 \times 2} {2} \\\\
+&= 3 \dfrac {1}{2} \div \dfrac{1}{4} \\\\
+&= \dfrac {7}{2} \times 4 \\\\
+&= \dfrac {7 \times 4}{2} \\\\
 &= \dfrac {7 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
 &= 7 \times 2 \\\\
 &= 14

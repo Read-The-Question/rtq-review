@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -762,7 +762,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>76567C03-AF5A-4917-9FAE-4EAFF191E689</p>
 </div>
@@ -773,7 +773,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -799,7 +799,6 @@ Which of these fractions is equal to $0.3$?
 $
 \begin{aligned}
 &= 0.3 \\\\
-&= \dfrac {0.3 \times 10} {10} \\\\
 &= \dfrac {3} {10}
 \end{aligned}
 $
@@ -2221,7 +2220,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>058B4392-6B5D-44A5-ACE4-51F653406441</p>
 </div>
@@ -2232,7 +2231,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2289,7 +2288,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{44} {25}$ or $1 \dfrac{19} {25}$
+$1 \dfrac{19} {25}$
 
 </div>
 </div>
@@ -2546,7 +2545,7 @@ $\dfrac {7} {32}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>62E0F078-7FB5-44EC-BC99-CC28C10BCB5C</p>
 </div>
@@ -2557,7 +2556,7 @@ $\dfrac {7} {32}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2593,7 +2592,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1 \dfrac {20} {21}$ or $\dfrac {41} {21}$
+$1 \dfrac {20} {21}$
 
 </div>
 </div>
@@ -3777,7 +3776,7 @@ $\dfrac {13} {24}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF3E51F2-06D2-40A3-93F2-BC83DD8C2835</p>
 </div>
@@ -3788,7 +3787,7 @@ $\dfrac {13} {24}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3814,7 +3813,8 @@ $
 &= \dfrac {9 \times 9} {4 \times 9} - \dfrac {5 \times 4} {9 \times 4} \\\\
 &= \dfrac {81} {36} - \dfrac {20} {36} \\\\
 &= \dfrac {81 - 20} {36} \\\\
-&= \dfrac {61} {36}
+&= \dfrac {61} {36} \\\\
+&= 1 \dfrac {25} {36}
 \end{aligned}
 $
 
@@ -3823,7 +3823,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {61} {36}$
+$1 \dfrac {25} {36}$
 
 </div>
 </div>
@@ -4034,7 +4034,7 @@ $\dfrac {4}{5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CAB14175-FD8C-4B4B-8845-6C9DD350BC9F</p>
 </div>
@@ -4045,7 +4045,7 @@ $\dfrac {4}{5}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4064,10 +4064,10 @@ What fraction of an hour is $5$ minutes?
 
 $
 \begin{aligned} 
-\text {Fraction}    &= \dfrac {5} {60} \\\\
-                    &= \dfrac {5} {5 \times 12} \\\\
-                    &= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
-                    &= \dfrac {1} {12}
+&= \dfrac {5} {60} \\\\
+&= \dfrac {5} {5 \times 12} \\\\
+&= \dfrac {\cancel {5}} {\cancel {5} \times 12} \\\\
+&= \dfrac {1} {12}
 \end{aligned}
 $
 
@@ -4445,7 +4445,7 @@ $\dfrac {4} {6}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19C91008-84E1-48B4-A95A-6E08266DDF33</p>
 </div>
@@ -4456,7 +4456,7 @@ $\dfrac {4} {6}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4476,7 +4476,8 @@ What is $1.9$ as a fraction?
 $
 \begin{aligned}
 &= 1.9 \\\\
-&= \dfrac {19} {10}
+&= \dfrac {19} {10} \\\\
+&= 1 \dfrac {9} {10}
 \end{aligned}
 $
 
@@ -4485,7 +4486,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {19} {10}$
+$1 \dfrac {9} {10}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-06-15 07:07:55
+date: 2022-06-15 11:01:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -819,7 +819,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>15A15561-6564-4C94-9090-F4EAC0AD496E</p>
 </div>
@@ -830,7 +830,7 @@ $7$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -849,10 +849,10 @@ Multiply $76 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &        &   7         &   6 \\
-       &        &   \times    &   9 \\
+       &        &   7   &   6 \\
+       & \times &       &   9 \\
 \hline
-       &    6   &   8         &   4
+       &    6   &   8   &   4
 \end{array}
 $
 
@@ -991,7 +991,7 @@ $24120$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9E48D2C7-6C16-414D-8885-6F1845A27BEA</p>
 </div>
@@ -1002,7 +1002,7 @@ $24120$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1029,8 +1029,6 @@ $
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -1260,7 +1258,7 @@ $216000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A0351803-0890-4037-9AE0-32CA4800A3DD</p>
 </div>
@@ -1271,7 +1269,7 @@ $216000$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1288,7 +1286,9 @@ What is $2002 \times 10?$
 <div class='workings'>
 <div class='working'>
 
-$2002 \times 10 = 20020$
+\begin{aligned}
+2002 \times 10 &= 20020
+\end{aligned}
 
 </div>
 </div>
@@ -1426,7 +1426,7 @@ $10010$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CEEFE661-3F94-486A-860F-03203D78E68B</p>
 </div>
@@ -1437,7 +1437,7 @@ $10010$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1454,7 +1454,7 @@ Use these last two answers to write down $2002 \times 15$
 <div class='workings'>
 <div class='working'>
 
-Using previous two answers
+Using the previous two answers
 
 $
 \begin{aligned}
@@ -1708,7 +1708,7 @@ Part c) Too many issues do with Uday
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7322C665-D596-48C2-84C7-1030D938DAE1</p>
 </div>
@@ -1719,7 +1719,7 @@ Part c) Too many issues do with Uday
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1747,8 +1747,6 @@ $
 
 </div>
 <div class='working'>
-
-Alternative Solution
 
 $
 \begin{array}{cccccccccccccc}
@@ -1928,7 +1926,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>469D229E-728D-4AC5-9C0D-417EB0BBF6F7</p>
 </div>
@@ -1939,7 +1937,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1958,13 +1956,13 @@ Work out $813 \times 72$
 
 $
 \begin{array}{cccccccccccccc}
-     &        &   8         &   1   &   3 \\
-     &        &   \times    &   7   &   2 \\
+     &        &   8   &   1   &   3 \\
+     & \times &       &   7   &   2 \\
 \hline
-     &   1    &   6         &   2   &   6 \\
-5    &   6    &   9         &   1   &   0 \\
+     &   1    &   6   &   2   &   6 \\
+5    &   6    &   9   &   1   &   0 \\
 \hline
-5    &   8    &   5         &   3   &   6
+5    &   8    &   5   &   3   &   6
 \end{array}
 $
 
@@ -2351,7 +2349,7 @@ $162$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAAB04F2-F9D2-4F37-A0C3-2B9D33692008</p>
 </div>
@@ -2362,7 +2360,7 @@ $162$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2381,13 +2379,13 @@ Calculate  $129  \times 32$
 
 $
 \begin{array}{cccccccccccccc}
-     &       &       1       & 2     & 9 \\
-{}\times     &       &       & 3     & 2 \\
+     &                &   1   &   2   &   9 \\
+             & \times &       &   3   &   2 \\
 \hline
-     &       &       2       & 5     & 8 \\
-     &      3&       8       & 7     & 0 \\
+     &       &   2    &   5   &   8 \\
+     &   3   &   8    &   7   &   0 \\
 \hline
-     &      4&       1       & 2     & 8
+     &   4   &   1    &   2   &   8
 \end{array}
 $
 
@@ -2523,7 +2521,7 @@ $104$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>40C245E0-C364-4A86-ACD3-59D1D8B4BFF0</p>
 </div>
@@ -2534,7 +2532,7 @@ $104$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2554,14 +2552,13 @@ $195 \times 47 =$
 $
 \begin{array}{cccccccccccccc}
           &    1    &    9    &    5 \\
-{}\times  &         &    4    &    7 \\
+\times    &         &    4    &    7 \\
 \hline  
      1    &    3    &    6    &    5 \\
      7    &    8    &    0    &    0 \\
 \hline
      9    &    1    &    6    &    5  
-\end{array}         
-
+\end{array}
 $     
 
 </div>
@@ -2695,7 +2692,7 @@ $196$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ECEC7A62-D4D9-4EAF-B175-9EE097AC08AE</p>
 </div>
@@ -2706,7 +2703,7 @@ $196$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2725,14 +2722,14 @@ $531 \times 135$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       5       & 3     & 1     \\
-{}\times    &       &       1        & 3    & 5     \\
+            &        &   5   &   3   &   1 \\
+            & \times &   1   &   3   &   5 \\
 \hline
-            &  2    &       6       & 5     & 5     \\
-       1    &  5    &       9       & 3     & 0     \\
-       4    &  3    &       1       & 0     & 0     \\
+            &   2    &   6   &   5   &   5 \\
+       1    &   5    &   9   &   3   &   0 \\
+       5    &   3    &   1   &   0   &   0 \\
 \hline
-       7   &      1&       6       & 8     & 5
+       7    &   1    &   6   &   8   & 5
 \end{array}
 $
 
@@ -2871,7 +2868,7 @@ Use array
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0FCDA851-B2B2-4FFB-A955-50509068409F</p>
 </div>
@@ -2882,7 +2879,7 @@ Use array
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2962,7 +2959,7 @@ $221.2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>95B95D83-440E-4D37-9093-A8502BF8615F</p>
 </div>
@@ -2973,7 +2970,7 @@ $221.2$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3383,7 +3380,7 @@ $4693$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EFF8EF51-7B6D-4D32-96E0-21CBA8A7E2D4</p>
 </div>
@@ -3394,7 +3391,7 @@ $4693$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3417,7 +3414,6 @@ $
 \times        &             &             &      7 \\
 \hline
 2             &      9      &      2      &      6 \\
-
 \end{array}
 $
 

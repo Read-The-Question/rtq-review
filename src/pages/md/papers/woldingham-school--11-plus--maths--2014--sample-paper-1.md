@@ -1,7 +1,7 @@
 ---
 slug: "papers/woldingham-school-11-plus-maths-2014-sample-paper-1"
 title: "Woldingham School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-15 07:04:45
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0BBE4126-D528-4588-9AF9-F9CE49056600</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-15 07:04:45
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,7 +43,11 @@ Calculate $6 \times 8$
 <div class='workings'>
 <div class='working'>
 
-$6 \times 8 = 48$
+$
+\begin{aligned}
+6 \times 8 &= 48
+\end{aligned}
+$
 
 </div>
 </div>
@@ -268,7 +272,7 @@ $40$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3114740D-C53A-49EC-B433-2572189ED29D</p>
 </div>
@@ -279,7 +283,7 @@ $40$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -296,7 +300,11 @@ Calculate $7 \times 8$
 <div class='workings'>
 <div class='working'>
 
-$7 \times 8 = 56$
+$
+\begin{aligned}
+7 \times 8 &= 56
+\end{aligned}
+$
 
 </div>
 </div>
@@ -348,7 +356,7 @@ Use aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F858DC13-E706-4D45-B60D-CF904A6C3072</p>
 </div>
@@ -359,7 +367,7 @@ Use aligned
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -428,7 +436,7 @@ $432$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A1BE18D-7F3E-4C3E-BBB5-57FB9BEA3BF1</p>
 </div>
@@ -439,7 +447,7 @@ $432$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -676,7 +684,7 @@ $0.82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>56E5E6AF-A895-45C2-A9F6-20497B067AAE</p>
 </div>
@@ -687,7 +695,7 @@ $0.82$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -704,11 +712,13 @@ Calculate  $- 45 + 63$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= -45 + 63 \\\\
 &= 63 - 45 \\\\
 &= 18
 \end{aligned}
+$
 
 </div>
 </div>
@@ -3411,7 +3421,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6C90D298-28FD-41C8-A233-C293F44572FA</p>
 </div>
@@ -3422,7 +3432,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3446,38 +3456,39 @@ How old is the father?
 <div class='workings'>
 <div class='working'>
 
-Let the age of father $= a$
+Let father’s age $= a$
 
-Age of daughter $= \dfrac {a} {2}$
+Daughter's age $= \dfrac {a} {2}$
 
-Age of brother $= \dfrac {a} {4}$
+Brother's age $= \dfrac {a} {4}$
 
 As per the question,
 
 $
 \begin{aligned}
-\text{Age of father} + \text{Age of daughter} + \text{Age of 2 sons}                            &= 96 \\\\
-a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac{a} {4}                                             &= 96 \\\\
-\dfrac {a \times 4} {4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
-\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             &= 96 \\\\ 
-\dfrac {4a + 2a + a + a} {4}                                                                    &= 96 \\\\
-\dfrac {8a} {4}                                                                                 &= 96 \\\\
-8a                                                                                              &= 96 \times 4 \\\\
-a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac {96 \times 4} {8} \\\\
-a                                                                                               &= \dfrac {8 \times 12 \times 4} {8} \\\\
-a                                                                                               &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
-a                                                                                               &= 12 \times 4 \\\\
-a                                                                                               &= 48
+a + \dfrac {a} {2} + \dfrac {a} {4} + \dfrac {a} {4}                                                     &= 96 \\\\
+\dfrac {a \times 4} {1 \times 4} + \dfrac {a \times 2} {2 \times 2} + \dfrac{a} {4} + \dfrac{a} {4}      &= 96 \\\\
+\dfrac {4a} {4} + \dfrac {2a} {4} + \dfrac {a} {4} + \dfrac {a} {4}                             		 &= 96 \\\\ 
+\dfrac {4a + 2a + a + a} {4}                                                                    		 &= 96 \\\\
+\dfrac {8a} {4}                                                                                 		 &= 96 \\\\
+8a                                                                                              		 &= 96 \times 4 \\\\
+a                                                                                               		 &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {96 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {8 \times 12 \times 4} {8} \\\\
+a                                                                                               		 &= \dfrac {\cancel 8 \times 12 \times 4} {\cancel 8} \\\\
+a                                                                                               		 &= 12 \times 4 \\\\
+a                                                                                               		 &= 48 \ \text {years}
 \end{aligned}
 $
+
+Father's age $ 48 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$48$
+$48 \ \text {years}$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -95,7 +95,7 @@ $561$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E3B1DC3D-1BD8-4BE9-A7C2-49FC9CB61D1F</p>
 </div>
@@ -106,7 +106,7 @@ $561$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -125,13 +125,13 @@ Work out $294 \times 70$.
 
 $
 \begin{array}{cccccccccccccc}
-            &       &       2       & 9     & 4     \\
-            &       &     {}\times  & 7     & 0     \\
+            &        &   2   &   9   &   4 \\
+            & \times &       &   7   &   0 \\
 \hline
-            &       &       0       & 0     & 0     \\
-2           &      0&       5       & 8     & 0     \\
+            &       &    0   &   0   &   0 \\
+2           &   0   &    5   &   8   &   0 \\
 \hline
-2           &      0&       5       & 8     & 0
+2           &   0   &    5   &   8   &   0
 \end{array}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-haberdashers-askes-boys-school-11-plus-maths-2011-sample-paper-3"
 title: "The Haberdashers Askes Boys School - 11 Plus - Maths - 2011 - Sample Paper 3"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -970,7 +970,7 @@ $7325$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>CE97FB1F-AA68-41D1-BD54-0147E9CD7F70</p>
 </div>
@@ -981,7 +981,7 @@ $7325$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1001,15 +1001,12 @@ Work out $0.08$ multiplied by $5$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points
+Let's first multiply the numbers ignoring the decimal points.
 
 $
-\begin{array}{cccccccccccccc}
-        &   8 \\
-\times  &   5 \\
-\hline
-   4    &   0
-\end{array}
+\begin{aligned}
+8 \times 5 &= 40
+\end{aligned}
 $
 
 Let's account for the decimal point now.

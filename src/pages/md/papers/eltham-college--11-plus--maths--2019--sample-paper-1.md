@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2019-sample-paper-1"
 title: "Eltham College - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -114,7 +114,7 @@ $12441$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B5B3F19E-4AC9-4F08-A95B-BB1D4A4B3FA4</p>
 </div>
@@ -125,7 +125,7 @@ $12441$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -149,7 +149,7 @@ What is the answer to $0.2 \times 0.03$
 
 Let's first multiply the numbers ignoring the decimal points.
 
-$2 \times 3 = 6$.
+$2 \times 3 = 6$
 
 Between the two numbers, the total number of digits after the decimal point is three.
 
@@ -1070,7 +1070,7 @@ DONE Travel time A to B without stop =
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5BF4BD68-6AE5-4ABE-99FF-3DC34888D76E</p>
 </div>
@@ -1081,7 +1081,7 @@ DONE Travel time A to B without stop =
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1103,15 +1103,13 @@ What fraction is half-way between $2$ and $2.5$?
 <div class='workings'>
 <div class='working'>
 
-Half-way between two numbers is the same as finding the average of two numbers.
-
 $
 \begin{aligned}
 &= \dfrac {2 + 2.5} {2} \\\\
 &= \dfrac {4.5} {2} \\\\
 &= \dfrac {45} {2 \times 10} \\\\
 &= \dfrac {9 \times 5} {2 \times 2 \times 5} \\\\
-&= \dfrac {9 \times \cancel{5} } {4 \times \cancel{5} } \\\\
+&= \dfrac {9 \times \cancel{5} } {2 \times 2 \times \cancel{5} } \\\\
 &= \dfrac {9} {4}
 \end{aligned}
 $

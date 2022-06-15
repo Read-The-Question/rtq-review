@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-15 07:04:45
+date: 2022-06-15 10:58:17
 ---
 <div class='paper'>
 <div class='meta'>
@@ -177,7 +177,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>15A15561-6564-4C94-9090-F4EAC0AD496E</p>
 </div>
@@ -188,7 +188,7 @@ $56$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -207,10 +207,10 @@ Multiply $76 \times 9$
 
 $
 \begin{array}{cccccccccccccc}
-       &        &   7         &   6 \\
-       &        &   \times    &   9 \\
+       &        &   7   &   6 \\
+       & \times &       &   9 \\
 \hline
-       &    6   &   8         &   4
+       &    6   &   8   &   4
 \end{array}
 $
 

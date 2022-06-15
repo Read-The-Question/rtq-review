@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-2019-sample-paper-1"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-15 17:02:05
+date: 2022-06-15 19:01:54
 ---
 <div class='paper'>
 <div class='meta'>
@@ -645,7 +645,7 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:

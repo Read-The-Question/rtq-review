@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-oldpr"
 title: "TopicPaper - Sequence - 1 - OLDPR"
-date: 2022-06-15 17:05:21
+date: 2022-06-15 19:04:54
 ---
 <ul class='question default-decimal'>
 <li>
@@ -39,7 +39,7 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:

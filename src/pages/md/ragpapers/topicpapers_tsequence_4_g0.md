@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-g0"
 title: "TopicPaper - Sequence - 4 - G0"
-date: 2022-06-15 17:05:21
+date: 2022-06-15 19:04:54
 ---
 <ul class='question default-decimal'>
 <li>
@@ -55,7 +55,8 @@ $5, 9, 13, 17, 21, \text{\textunderscore \textunderscore \textunderscore}, \text
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
@@ -104,7 +105,8 @@ $14, 13, 11, 8, 4, \text{\textunderscore \textunderscore \textunderscore}, \text
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -151,7 +153,8 @@ $3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by multiplying the previous term by $2$ and subtracted by $1$.
 
@@ -202,7 +205,8 @@ $1, 4, 9, 16, 25, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -249,7 +253,8 @@ $32, 16, 8, 4, 2, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by dividing the previous term by $2$
 
@@ -299,7 +304,8 @@ $2, 3, 5, 8, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by adding it to the previous term.
 
@@ -707,7 +713,7 @@ $7, \quad 10, \quad \text{\textunderscore \textunderscore \textunderscore}, \qua
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -761,7 +767,7 @@ $192, \quad 96, \quad 48, \quad \text{\textunderscore \textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
@@ -963,7 +969,7 @@ What is the sum of the next three terms in the sequence?
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\times 2 - 3$. Hence, the sequence would be:
@@ -1076,7 +1082,7 @@ $15, \quad 21, \quad 27, \quad 33, \quad 39, \quad \boxed{\phantom{39}}$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\times{+6}$. Hence, the sequence would be:
@@ -1566,7 +1572,7 @@ Write down the next two numbers in the pattern.
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR: Let's find the difference between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:

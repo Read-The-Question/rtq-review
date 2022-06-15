@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2018-sample-paper-5"
 title: "Reigate Grammar School - 11 Plus - Maths - 2018 - Sample Paper 5"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2837,7 +2837,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
 </div>
@@ -2848,7 +2848,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2871,15 +2871,16 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-We know, the sum of angles in a triangle is $180 \degree$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
-x                                        &= 180 - 90 - 35 \\\\
-x                                        &= 55 \degree
+90 + 35 + x      &= 180 \\\\
+x                        &= 180 - 90 - 35 \\\\
+x                        &= 55 \degree
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1913,7 +1913,7 @@ Change spacing also in blue answer.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
 </div>
@@ -1924,7 +1924,7 @@ Change spacing also in blue answer.
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1967,11 +1967,13 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all the angles}   &= 360 \degree \\\\
 2x + x + 5x + 4x                &= 360 \\\\
 12x                             &= 360 \\\\
 x                               &= \dfrac {360} {12} \\\\
@@ -2004,13 +2006,14 @@ $30 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
 
 $
 \begin {aligned}
-2x + (x + 32) + 40 \degree  &= 180 \degree \\\\
+2x + (x + 32) + 40 			&= 180 \degree \\\\
 2x + x + 32 + 40            &= 180 \\\\
 3x + 72                     &= 180 \\\\
 3x                          &= 180 - 72 \\\\

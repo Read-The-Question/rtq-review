@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2584,7 +2584,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>9046A85D-22E1-4908-9897-72940C50BAAE</p>
 </div>
@@ -2592,7 +2592,7 @@ TODOANSWER
 <p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2603,7 +2603,7 @@ TODOANSWER
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -2617,29 +2617,59 @@ What will the combined age be in $2$ years' time?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Combined age in} \ 2 \ \text {years time}    &= 24 + (4 + 2) \times 3 \\\\
+                                                    &= 24 + 6 \times 3 \\\\
+                                                    &= 24 + 18 \\\\
+                                                    &= 42 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$42 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='9046A85D-22E1-4908-9897-72940C50BAAE' id='FORM-9046A85D-22E1-4908-9897-72940C50BAAE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-9046A85D-22E1-4908-9897-72940C50BAAE'>Initial</p>
+</div>
 </div>
 </li>
 <li>

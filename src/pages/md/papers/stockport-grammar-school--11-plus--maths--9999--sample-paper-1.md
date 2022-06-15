@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -956,7 +956,7 @@ $0.35$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
 </div>
@@ -967,7 +967,7 @@ $0.35$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1749,7 +1749,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
 </div>
@@ -1760,7 +1760,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

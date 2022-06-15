@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-4"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 4"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -465,7 +465,7 @@ $45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prg question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -473,10 +473,10 @@ $45$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prg</p>
 </div>
 <div class='topics'>
 <ul>
@@ -521,7 +521,16 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a straight line is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+As per the daigram,
 
 $
 \begin{aligned}
@@ -531,7 +540,7 @@ x       &= 47 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a quardilateral is $360 \degree$. So,
+As per the daigram,
 
 $
 \begin{aligned}
@@ -567,7 +576,13 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a straight line is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -577,9 +592,9 @@ p       &= 132 \degree
 \end{aligned}
 $
 
-As it is an isosceles triangle so angle q will be equal to angle r
+As it is an isosceles triangle, angle $r= q$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the diagram,
 
 $
 \begin{aligned}
@@ -593,11 +608,11 @@ q           &= 66 \degree
 \end{aligned}
 $
 
-$\text {q} = \text {r} = 66 \degree$
+$r = q = 66 \degree$
 
-r will be equal to t as they are opposite angles.
+As $r$ and $t$ are opposite angles,
 
-$\text {r} = \text {t} = 66 \degree$
+$t = r = 66 \degree$
 
 Similarly,
 
@@ -635,37 +650,6 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' id='FORM-01546D3D-3C3F-4170-93D2-BAF39200375E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-01546D3D-3C3F-4170-93D2-BAF39200375E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -3768,7 +3752,7 @@ $180 \text { metres}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D3A08968-A69A-4BA3-95F9-C69A858F5630</p>
 </div>
@@ -3779,7 +3763,7 @@ $180 \text { metres}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3799,11 +3783,12 @@ One of the angles of an isosceles triangle is $96 \degree$ . Find the sizes of t
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
 Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
@@ -3817,6 +3802,8 @@ a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
 a               &= 42 \degree
 \end{aligned}
 $
+
+Sizes of the other two angles $= 42 \degree$
 
 </div>
 </div>

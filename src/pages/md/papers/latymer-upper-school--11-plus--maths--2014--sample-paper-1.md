@@ -1,7 +1,7 @@
 ---
 slug: "papers/latymer-upper-school-11-plus-maths-2014-sample-paper-1"
 title: "Latymer Upper School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1365,7 +1365,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>91E8F6D9-48AF-4232-8B57-274024CF21E3</p>
 </div>
@@ -1373,7 +1373,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1406,29 +1406,77 @@ E: $81$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
 
-</div>
-<div class='working'>
+$
+\begin {aligned}
+\text {Woman’s age}    &= 70 \ \text {years} + 70 \ \text {months} + 70 \ \text {weeks} + 70 \ \text {days} \\\\
+                       &= 70 \ \text {years} + 70 \ \text {months} + 70 \ \text {weeks} + \dfrac {70} {7} \ \text {weeks} \\\\
+                       &= 70 + 70 + 70 + 10 \\\\
+                       &= 70 \ \text {years} + 70 \ \text {months} + 80 \ \text {weeks} \\\\
+                       &= 70 \ \text {years} + 70 \ \text {months} + \dfrac {80} {4} \ \text {months} \\\\
+                       &= 70 + 70 + \dfrac {20 \times 4} {4} \\\\
+                       &= 70 + 70 + \dfrac {20 \times \cancel {4}} {\cancel {4}} \\\\
+                       &= 70 + 70 + 20 \\\\
+                       &= 70 \ \text {years} + 90 \ \text {months} \\\\
+                       &= 70 \ \text {years} + \dfrac {90} {12} \ \text {years} \\\\
+                       &= 70 + \dfrac {2 \times 3 \times 15} {2 \times 2 \times 3} \\\\
+                       &= 70 + \dfrac {\cancel {2} \times \cancel {3} \times 15} {\cancel {2} \times 2 \times \cancel {3}} \\\\
+                       &= 70 + \dfrac {15} {2} \\\\
+                       &= \dfrac {70 \times 2} {1 \times 2} + \dfrac {15} {2} \\\\
+                       &= \dfrac {140} {2} + \dfrac {15} {2} \\\\
+                       &= \dfrac {155} {2} \\\\
+                       &= 77 \dfrac {1} {2} \ \text {years}
+\end {aligned}
+$
 
-TODOWORKING
+Woman’s age on her next birthday $= 78 \ \text {years}$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>C</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$78 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='91E8F6D9-48AF-4232-8B57-274024CF21E3' id='FORM-91E8F6D9-48AF-4232-8B57-274024CF21E3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-91E8F6D9-48AF-4232-8B57-274024CF21E3'>Initial</p>
+</div>
 </div>
 </li>
 <li>

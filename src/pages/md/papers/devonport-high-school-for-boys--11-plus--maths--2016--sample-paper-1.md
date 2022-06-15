@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1496,9 +1496,12 @@ If two angles of a triangle add up to $137 \degree$, what is the size of the thi
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
 Let the size of the third angle $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -1507,6 +1510,8 @@ a            &= 180 - 137  \\\\
 a            &= 43 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 43 \degree$
 
 </div>
 </div>

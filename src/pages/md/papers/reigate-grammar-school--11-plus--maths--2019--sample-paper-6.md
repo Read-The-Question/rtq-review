@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2875,7 +2875,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
 </div>
@@ -2886,7 +2886,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2909,15 +2909,16 @@ Find the value of $𝑥$ in the quadrilateral shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of all four angles of a quadrilateral is $360 \degree$
+$\text{Sum of angles in a quadrilateral} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
-x                                                             &= 360 - 110 - 100 - 75 \\\\
-x                                                             &= 75 \degree
+110 + 100 + 75 + x             &= 360 \\\\
+x                              &= 360 - 110 - 100 - 75 \\\\
+x                              &= 75 \degree
 \end{aligned}
 $
 

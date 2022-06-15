@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2020-sample-paper-7"
 title: "Reigate Grammar School - 11 Plus - Maths - 2020 - Sample Paper 7"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1421,7 +1421,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
 </div>
@@ -1432,7 +1432,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1455,15 +1455,16 @@ Calculate the value of 𝑥 in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of all three angles of a triangle is $180 \degree$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
-x                                                &= 180 - 80 - 60 \\\\
-x                                                &= 40 \degree
+80 + 60 + x               &= 180 \\\\
+x                         &= 180 - 80 - 60 \\\\
+x                         &= 40 \degree
 \end{aligned}
 $
 

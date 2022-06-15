@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -645,7 +645,7 @@ $1999$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
 </div>
@@ -656,7 +656,7 @@ $1999$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -683,22 +683,23 @@ In this diagram what is the value of $x$?
 <div class='workings'>
 <div class='working'>
 
-As we know, 
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-The sum of angles of a triangle is is $180 \degree$.
 
-Angles on straight line add up to is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
-The circular measure an angle of is $360 \degree$.
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
-x + 80 + 36                                                                        &= 180 \\\\
-x                                                                                  &= 180 - 80 - 36 \\\\
-x                                                                                  &= 64 \degree
+x + (180 - 100) + (360 - 324)              &= 180 \\\\
+x + 80 + 36                                &= 180 \\\\
+x                                          &= 180 - 80 - 36 \\\\
+x                                          &= 64 \degree
 \end{aligned}
 $
 

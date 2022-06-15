@@ -1,7 +1,7 @@
 ---
 slug: "papers/merchant-taylors-school-11-plus-maths-9999-practice-paper-3"
 title: "Merchant Taylors School - 11 Plus - Maths - 9999 - Practice Paper 3"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3042,7 +3042,7 @@ $0.026 \ \text {g}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
 </div>
@@ -3053,7 +3053,7 @@ $0.026 \ \text {g}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3142,9 +3142,12 @@ $x \degree$
 <div class='workings'>
 <div class='working'>
 
-As the triangle is an isosceles triangle, the third angle is also $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As the triangle is an isosceles triangle, the third angle is also $= x$
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3180,6 +3183,8 @@ $y \degree$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's use the value of $x$ to find $y$.
 
 As per the diagram,
 

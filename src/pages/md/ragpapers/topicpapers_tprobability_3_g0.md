@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-3-g0"
 title: "TopicPaper - Probability - 3 - G0"
-date: 2022-06-15 11:01:27
+date: 2022-06-15 13:18:04
 ---
 <ul class='question default-decimal'>
 <li>

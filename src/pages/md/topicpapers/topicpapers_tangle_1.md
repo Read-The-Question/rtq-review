@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-15 11:01:27
+date: 2022-06-15 13:18:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2470,9 +2470,12 @@ If two angles of a triangle add up to $137 \degree$, what is the size of the thi
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
 Let the size of the third angle $= a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -2481,6 +2484,8 @@ a            &= 180 - 137  \\\\
 a            &= 43 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 43 \degree$
 
 </div>
 </div>
@@ -2618,9 +2623,12 @@ If two angles of a triangle add up to $49 \degree$, what is the size of the thir
 <div class='workings'>
 <div class='working'>
 
-Let the size of third angle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the size of the third angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2629,6 +2637,8 @@ a            &= 180 - 49  \\\\
 a            &= 131 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 131 \degree$
 
 </div>
 </div>
@@ -2706,9 +2716,12 @@ If two angles of a triangle are $36 \degree$ and $22 \degree$, what is the size 
 <div class='workings'>
 <div class='working'>
 
-Let the size of third angle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the size of the third angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2718,6 +2731,8 @@ a               &= 180 - 58  \\\\
 a               &= 122 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 122 \degree$
 
 </div>
 </div>
@@ -2855,9 +2870,12 @@ If two angles of a triangle add up to $89 \degree$, what is the size of the thir
 <div class='workings'>
 <div class='working'>
 
-Let the size of third angle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the size of the third angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2866,6 +2884,8 @@ a            &= 180 - 89  \\\\
 a            &= 91 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 91 \degree$
 
 </div>
 </div>
@@ -3054,25 +3074,29 @@ Write down the value of $y$.
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
 Let the third angle of triangle $= a$
 
-Now,
+As per the diagram,
 
 $
 \begin{aligned}
-a + 70 &= 180 \degree \\\\
+a + 70 &= 180 \\\\
 a      &= 180 - 70 \\\\
 a      &= 110 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$.
-
-So,
+Let's use the value of $a$ to find $y$.
 
 $
 \begin{aligned}
-y + y + a   &= 180 \degree \\\\
+y + y + a   &= 180 \\\\
 2y + 110    &= 180 \\\\
 2y          &= 180 - 110 \\\\
 2y          &= 70 \\\\
@@ -3179,7 +3203,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
 </div>
@@ -3190,7 +3214,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3235,7 +3259,8 @@ Work out the value of $x$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 $
 \begin{aligned}
@@ -3267,11 +3292,12 @@ Work out the value of $y$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles of a triangle $= 180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 $
 \begin{aligned}
-y + y + 108 &= 180 \degree \\\\
+y + y + 108 &= 180 \\\\
 2y + 108    &= 180 \\\\
 2y          &= 180 - 108 \\\\
 2y          &= 72 \\\\
@@ -3330,7 +3356,7 @@ $36 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>762303C7-0D1C-4345-AD02-7E755C4F0CE4</p>
 </div>
@@ -3341,7 +3367,7 @@ $36 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3368,22 +3394,23 @@ In this diagram what is the value of $x$?
 <div class='workings'>
 <div class='working'>
 
-As we know, 
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-The sum of angles of a triangle is is $180 \degree$.
 
-Angles on straight line add up to is $180 \degree$.
+$\text{Angles on a straight line add up to} = 180 \degree$.
 
-The circular measure an angle of is $360 \degree$.
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-x \degree + (180 \degree - 100 \degree) + (360 \degree - 324 \degree)              &= 180 \degree \\\\
-x + 80 + 36                                                                        &= 180 \\\\
-x                                                                                  &= 180 - 80 - 36 \\\\
-x                                                                                  &= 64 \degree
+x + (180 - 100) + (360 - 324)              &= 180 \\\\
+x + 80 + 36                                &= 180 \\\\
+x                                          &= 180 - 80 - 36 \\\\
+x                                          &= 64 \degree
 \end{aligned}
 $
 
@@ -3543,7 +3570,7 @@ $a = 68 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
 </div>
@@ -3554,7 +3581,7 @@ $a = 68 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3597,7 +3624,8 @@ Calculate the missing angles.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -3633,7 +3661,8 @@ $91 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -3826,7 +3855,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
 </div>
@@ -3837,7 +3866,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3860,9 +3889,13 @@ Here is a **right angled triangle** inside a **rectangle**. Calculate the value 
 <div class='workings'>
 <div class='working'>
 
-Let the third angle of triangle $=a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles on a straight line is $180 \degree$.
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the third angle of triangle $=a$
 
 As per the diagram,
 
@@ -3875,7 +3908,7 @@ a            &= 39 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let's use the value of $a$ to find $x$.
 
 $
 \begin{aligned}

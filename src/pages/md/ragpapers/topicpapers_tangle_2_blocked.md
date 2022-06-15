@@ -1,9 +1,264 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-15 11:01:27
+date: 2022-06-15 13:18:04
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prg question'>
+<div class='uuid'>
+<p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
+</div>
+<div class='papername'>
+<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prg</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the angles marked $x$ and $y$ in the diagram below
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+As per the daigram,
+
+$
+\begin{aligned}
+x + 133 &= 180 \\\\
+x       &= 180 - 133 \\\\
+x       &= 47 \degree
+\end{aligned}
+$
+
+As per the daigram,
+
+$
+\begin{aligned}
+47 + 90 + y + 100 &= 360 \\\\
+y + 237           &= 360 \\\\
+y                 &= 360 - 237 \\\\
+y                 &= 123 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree, \ 123 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+p + 48  &= 180 \\\\
+p       &= 180 - 48 \\\\
+p       &= 132 \degree
+\end{aligned}
+$
+
+As it is an isosceles triangle, angle $r= q$
+
+As per the diagram,
+
+$
+\begin{aligned}
+q + 48 + r  &= 180 \\\\
+q + q       &= 180 - 48 \\\\
+2 q         &= 132 \\\\
+q           &= \dfrac {132} {2} \\\\
+q           &= \dfrac {66 \times 2} {2} \\\\
+q           &= \dfrac {66 \times \cancel {2}} {\cancel {2}} \\\\
+q           &= 66 \degree
+\end{aligned}
+$
+
+$r = q = 66 \degree$
+
+As $r$ and $t$ are opposite angles,
+
+$t = r = 66 \degree$
+
+Similarly,
+
+u will be equal to s.
+
+As we know, the sum of a complete angle is $360 \degree$. So,
+
+$
+\begin{aligned}
+u + r + s + t    &= 360 \\\\
+s + 66 + s + 66  &= 360 \\\\
+2 s + 132        &= 360 \\\\
+2 s              &= 360 - 132 \\\\
+2 s              &= 228 \\\\
+s                &= \dfrac {228} {2} \\\\
+s                &= \dfrac {114 \times 2} {2} \\\\
+s                &= \dfrac {114 \times \cancel {2}} {\cancel {2}} \\\\
+s                &= 114 \degree
+\end{aligned}
+$
+
+$\text {s} = \text {u} = 114 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prg question'>
+<div class='uuid'>
+<p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prg</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the size of the angles marked with the letters $a$ and $b$ .
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+We know, if two parallel lines are cut by a transversal, then the alternate interior angles are equal. So,
+
+As per the diagram,
+
+Angle $a$ and $b$ are two alternate interior angles.
+
+$
+\begin{aligned}
+a           &= 31 \degree \\\\
+b           &= 31 \degree + 35 \degree \\\\
+            &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\begin{aligned}
+a &= 31 \degree \\
+b &= 66 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1431,9 +1431,12 @@ If two angles of a triangle add up to $89 \degree$, what is the size of the thir
 <div class='workings'>
 <div class='working'>
 
-Let the size of third angle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the size of the third angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -1442,6 +1445,8 @@ a            &= 180 - 89  \\\\
 a            &= 91 \degree
 \end{aligned}
 $
+
+Size of the third angle $= 91 \degree$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2017-sample-paper-6"
 title: "Oundle School - 11 Plus - Maths - 2017 - Sample Paper 6"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -866,9 +866,10 @@ What is the last angle in the list? Explain your answer.
 <div class='workings'>
 <div class='working'>
 
-Let the third angle of first triangle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the third angle of first triangle $= a$
 
 $
 \begin{aligned}
@@ -881,8 +882,6 @@ $
 
 Let the third angle of second triangle $= b$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
 $
 \begin{aligned}
 b + 85 + 75     &= 180 \\\\
@@ -891,6 +890,8 @@ b               &= 180 - 160 \\\\
 b               &= 20 \degree
 \end{aligned}
 $
+
+Last angle in the list $= 20 \degree$
 
 </div>
 </div>

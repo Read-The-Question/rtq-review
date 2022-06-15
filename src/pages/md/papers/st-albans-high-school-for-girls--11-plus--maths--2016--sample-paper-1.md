@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-high-school-for-girls-11-plus-maths-2016-sample-paper-1"
 title: "St Albans High School For Girls - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1621,7 +1621,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
 </div>
@@ -1632,7 +1632,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1655,14 +1655,15 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-We know that the sum of all angles of a triangle is $180 \degree$.
+
+As per the question,
 
 $
 \begin{aligned}
 a + b + c                                     &= 180 \\\\
-3 (2c)+ 2c + c                                &= 180 \\\\
+3 \ (2c)+ 2c + c                              &= 180 \\\\
 6c+ 2c + c                                    &= 180 \\\\
 9c                                            &= 180 \\\\
 c                                             &= \dfrac {180} {9} \\\\
@@ -1672,7 +1673,7 @@ c                                             &= 20 \degree
 \end{aligned}
 $
 
-Let's find angle $b$
+Let's use the value of $c$ to find $b$.
 
 $
 \begin{aligned}
@@ -1682,7 +1683,7 @@ b                                             &= 40
 \end{aligned}
 $
 
-We know that the sum of angles on a straight line is $180 \degree$. 
+Let's use the value of $b$ to find $d$.
 
 $
 \begin{aligned}
@@ -1698,7 +1699,8 @@ $
 
 Alternative Solution
 
-We know that the sum of all angles of a triangle is $180 \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the question,
 
@@ -1713,13 +1715,12 @@ a + b + c                                                                       
 b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
 b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
 b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
-b                                                                                  &= 20 \times 2
+b                                                                                  &= 20 \times 2 \\\\
 b                                                                                  &= 40 \degree
 \end{aligned}
 $
 
-
-We know that the sum of angles on a straight line is $180 \degree$.
+Let's use the value of $b$ to find $d$.
 
 $
 \begin{aligned}

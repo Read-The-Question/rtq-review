@@ -1,7 +1,7 @@
 ---
 slug: "papers/john-lyon-school-11-plus-maths-9999-sample-paper-1"
 title: "John Lyon School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2166,7 +2166,7 @@ $292 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B2F39BD7-5D8B-4067-8AD3-B1B40BE19482</p>
 </div>
@@ -2177,7 +2177,7 @@ $292 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2200,9 +2200,13 @@ Here is a **right angled triangle** inside a **rectangle**. Calculate the value 
 <div class='workings'>
 <div class='working'>
 
-Let the third angle of triangle $=a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles on a straight line is $180 \degree$.
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the third angle of triangle $=a$
 
 As per the diagram,
 
@@ -2215,7 +2219,7 @@ a            &= 39 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let's use the value of $a$ to find $x$.
 
 $
 \begin{aligned}

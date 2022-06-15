@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -759,9 +759,12 @@ An equilateral triangle has three sides the same length. What is the size of one
 <div class='workings'>
 <div class='working'>
 
-We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is $180 \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-Let's take  an angle $= a$
+
+All the angles in an equilateral triangle are equal
+
+Let's take an angle $= a$
 
 $
 \begin{aligned}

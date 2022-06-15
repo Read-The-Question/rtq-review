@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1258,7 +1258,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4EE39D55-56B3-48D1-8889-F7D3D5976C87</p>
 </div>
@@ -1269,7 +1269,7 @@ $18$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1312,7 +1312,8 @@ Calculate the missing angles.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -1348,7 +1349,8 @@ $91 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 

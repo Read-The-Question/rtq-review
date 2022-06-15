@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2011-sample-paper-2"
 title: "Sevenoaks School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -647,7 +647,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B</p>
 </div>
@@ -655,7 +655,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -678,29 +678,75 @@ Eliot is now twice his cousin's age. In $4$ years' time Eliot will be $16$. How 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Eliot's current age $= a$
 
-</div>
-<div class='working'>
+His cousin's current age $= \dfrac {a} {2}$
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+a + 4   &= 16 \\\\
+a       &= 16 - 4 \\\\
+a       &= 12 \ \text {years}
+\end {aligned}
+$
+
+Eliot's current age $= 12 \ \text {years}$
+
+$
+\begin {aligned}
+\text {cousin's age in} \ 4 \ \text {years}     &= \dfrac {a} {2} + 4 \\\\
+                                                &= \dfrac {12} {2} + 4 \\\\
+                                                &= \dfrac {6 \times 2} {2} + 4 \\\\
+                                                &= \dfrac {6 \times \cancel {2}} {\cancel {2}} + 4 \\\\
+                                                &= 6 + 4 \\\\
+                                                &= 10 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$10 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' id='FORM-143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-143EBA44-35A7-43F9-B4A5-2E3EFAEFDA1B'>Initial</p>
+</div>
 </div>
 </li>
 <li>

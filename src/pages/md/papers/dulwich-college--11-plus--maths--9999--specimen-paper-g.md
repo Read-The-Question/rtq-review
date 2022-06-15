@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1670,7 +1670,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7B3A5DB3-F164-4105-9701-04E51A97172C</p>
 </div>
@@ -1681,7 +1681,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1726,7 +1726,8 @@ Work out the value of $x$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 $
 \begin{aligned}
@@ -1758,11 +1759,12 @@ Work out the value of $y$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles of a triangle $= 180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 $
 \begin{aligned}
-y + y + 108 &= 180 \degree \\\\
+y + y + 108 &= 180 \\\\
 2y + 108    &= 180 \\\\
 2y          &= 180 - 108 \\\\
 2y          &= 72 \\\\

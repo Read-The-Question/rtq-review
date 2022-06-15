@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-15 11:01:27
+date: 2022-06-15 13:18:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -488,7 +488,7 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3852614B-1AE4-4DBC-B778-EAC0383CA0FA</p>
 </div>
@@ -499,7 +499,7 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1059,7 +1059,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>15416CC2-104A-4AFC-B2E3-BD1EFCF2BC21</p>
 </div>
@@ -1070,7 +1070,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1159,9 +1159,12 @@ $x \degree$
 <div class='workings'>
 <div class='working'>
 
-As the triangle is an isosceles triangle, the third angle is also $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As the triangle is an isosceles triangle, the third angle is also $= x$
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -1197,6 +1200,8 @@ $y \degree$
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let's use the value of $x$ to find $y$.
 
 As per the diagram,
 
@@ -1260,7 +1265,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prg question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -1268,10 +1273,10 @@ $110 \degree$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prg</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1316,7 +1321,16 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a straight line is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+As per the daigram,
 
 $
 \begin{aligned}
@@ -1326,7 +1340,7 @@ x       &= 47 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a quardilateral is $360 \degree$. So,
+As per the daigram,
 
 $
 \begin{aligned}
@@ -1362,7 +1376,13 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a straight line is $180 \degree$. So,
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -1372,9 +1392,9 @@ p       &= 132 \degree
 \end{aligned}
 $
 
-As it is an isosceles triangle so angle q will be equal to angle r
+As it is an isosceles triangle, angle $r= q$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the diagram,
 
 $
 \begin{aligned}
@@ -1388,11 +1408,11 @@ q           &= 66 \degree
 \end{aligned}
 $
 
-$\text {q} = \text {r} = 66 \degree$
+$r = q = 66 \degree$
 
-r will be equal to t as they are opposite angles.
+As $r$ and $t$ are opposite angles,
 
-$\text {r} = \text {t} = 66 \degree$
+$t = r = 66 \degree$
 
 Similarly,
 
@@ -1430,41 +1450,10 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='01546D3D-3C3F-4170-93D2-BAF39200375E' id='FORM-01546D3D-3C3F-4170-93D2-BAF39200375E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-01546D3D-3C3F-4170-93D2-BAF39200375E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D3A08968-A69A-4BA3-95F9-C69A858F5630</p>
 </div>
@@ -1475,7 +1464,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1495,11 +1484,12 @@ One of the angles of an isosceles triangle is $96 \degree$ . Find the sizes of t
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
 Let the missing angle $= a$
 
 As the triangle is an isosceles triangle, the third angle is also $= a$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
 
 $
 \begin{aligned}
@@ -1513,6 +1503,8 @@ a               &= \dfrac {42 \times \cancel{2}}{\cancel{2}}   \\\\
 a               &= 42 \degree
 \end{aligned}
 $
+
+Sizes of the other two angles $= 42 \degree$
 
 </div>
 </div>
@@ -1594,9 +1586,10 @@ What is the last angle in the list? Explain your answer.
 <div class='workings'>
 <div class='working'>
 
-Let the third angle of first triangle $= a$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the third angle of first triangle $= a$
 
 $
 \begin{aligned}
@@ -1609,8 +1602,6 @@ $
 
 Let the third angle of second triangle $= b$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
-
 $
 \begin{aligned}
 b + 85 + 75     &= 180 \\\\
@@ -1619,6 +1610,8 @@ b               &= 180 - 160 \\\\
 b               &= 20 \degree
 \end{aligned}
 $
+
+Last angle in the list $= 20 \degree$
 
 </div>
 </div>
@@ -1758,7 +1751,7 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F2C47797-13C0-4FDF-AA9D-ED17BA456CC4</p>
 </div>
@@ -1769,7 +1762,7 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1792,15 +1785,16 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-We know, the sum of angles in a triangle is $180 \degree$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-90 \degree + 35 \degree + x \degree      &= 180 \degree \\\\
-x                                        &= 180 - 90 - 35 \\\\
-x                                        &= 55 \degree
+90 + 35 + x      &= 180 \\\\
+x                        &= 180 - 90 - 35 \\\\
+x                        &= 55 \degree
 \end{aligned}
 $
 
@@ -1849,7 +1843,7 @@ $55 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4A3EA266-6BEF-4B0E-9F13-1DCD864E5C55</p>
 </div>
@@ -1860,7 +1854,7 @@ $55 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1883,15 +1877,16 @@ Find the value of $𝑥$ in the quadrilateral shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of all four angles of a quadrilateral is $360 \degree$
+$\text{Sum of angles in a quadrilateral} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-110 \degree + 100 \degree + 75 \degree + x \degree            &= 360 \degree \\\\
-x                                                             &= 360 - 110 - 100 - 75 \\\\
-x                                                             &= 75 \degree
+110 + 100 + 75 + x             &= 360 \\\\
+x                              &= 360 - 110 - 100 - 75 \\\\
+x                              &= 75 \degree
 \end{aligned}
 $
 
@@ -1945,7 +1940,7 @@ DONE put ° in first step please
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3E5707E8-A605-4AEB-83F5-1DF28EF49EA0</p>
 </div>
@@ -1956,7 +1951,7 @@ DONE put ° in first step please
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1979,15 +1974,16 @@ Calculate the value of 𝑥 in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-The sum of all three angles of a triangle is $180 \degree$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-80 \degree + 60 \degree + x \degree              &= 180 \degree \\\\
-x                                                &= 180 - 80 - 60 \\\\
-x                                                &= 40 \degree
+80 + 60 + x               &= 180 \\\\
+x                         &= 180 - 80 - 60 \\\\
+x                         &= 40 \degree
 \end{aligned}
 $
 
@@ -2069,9 +2065,12 @@ An equilateral triangle has three sides the same length. What is the size of one
 <div class='workings'>
 <div class='working'>
 
-We know, in an equilateral triangle, the three angles opposite to the equal sides are equal and the sum is $180 \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-Let's take  an angle $= a$
+
+All the angles in an equilateral triangle are equal
+
+Let's take an angle $= a$
 
 $
 \begin{aligned}
@@ -2138,7 +2137,7 @@ Delte line 2
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
@@ -2149,7 +2148,7 @@ Delte line 2
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2174,11 +2173,22 @@ Work out the value of $a$ and $b$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angles are a, b.
+*TODO:: Add drawing starts.*
 
-First let's see the triangle ABD
+![missing image](/papers/missing_image.svg)
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+
+*TODO:: Add an image with vertices marked ABCD$*
+
+
+*TODO:: Add drawing ends.*
+
+
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -2192,18 +2202,18 @@ a               &= 30 \degree
 \end{aligned}
 $
 
-Let's use value of $a$ in triangle ABC
+Let's use value of $a$ in triangle ABC.
 
 $
 \begin{aligned}
-(b+2a) + b + 90     &= 180 \\\\
-2b + 2a             &= 180 - 90 \\\\
-2 \times 30 + 2b    &= 90 \\\\
-2b                  &= 90 - 60 \\\\
-b                   &= \dfrac {30} {2} \\\\
-b                   &= \dfrac {15 \times 2} {2} \\\\
-b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15 \degree
+(b + 2a) + b + 90     	&= 180 \\\\
+2b + 2a             	&= 180 - 90 \\\\
+2 \times 30 + 2b    	&= 90 \\\\
+2b                  	&= 90 - 60 \\\\
+b                   	&= \dfrac {30} {2} \\\\
+b                   	&= \dfrac {15 \times 2} {2} \\\\
+b                   	&= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
+b                   	&= 15 \degree
 \end{aligned}
 $
 
@@ -2257,7 +2267,7 @@ $15 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prg question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
 </div>
@@ -2265,10 +2275,10 @@ $15 \degree$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prg</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2321,41 +2331,10 @@ $
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='71BF2B3D-3BE5-4C50-B05E-2EC50982167D' id='FORM-71BF2B3D-3BE5-4C50-B05E-2EC50982167D' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-71BF2B3D-3BE5-4C50-B05E-2EC50982167D'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>05657E57-5AAE-47F6-9CCF-40E96CD77C36</p>
 </div>
@@ -2366,7 +2345,7 @@ $
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2409,11 +2388,13 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Sum of all the angles}   &= 360 \degree \\\\
 2x + x + 5x + 4x                &= 360 \\\\
 12x                             &= 360 \\\\
 x                               &= \dfrac {360} {12} \\\\
@@ -2446,13 +2427,14 @@ $30 \degree$
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
 
 $
 \begin {aligned}
-2x + (x + 32) + 40 \degree  &= 180 \degree \\\\
+2x + (x + 32) + 40 			&= 180 \degree \\\\
 2x + x + 32 + 40            &= 180 \\\\
 3x + 72                     &= 180 \\\\
 3x                          &= 180 - 72 \\\\
@@ -2871,7 +2853,7 @@ y =44°
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>338F96DE-9214-4EE9-A056-D7F61969FCBE</p>
 </div>
@@ -2882,7 +2864,7 @@ y =44°
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2905,14 +2887,15 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-We know that the sum of all angles of a triangle is $180 \degree$.
+
+As per the question,
 
 $
 \begin{aligned}
 a + b + c                                     &= 180 \\\\
-3 (2c)+ 2c + c                                &= 180 \\\\
+3 \ (2c)+ 2c + c                              &= 180 \\\\
 6c+ 2c + c                                    &= 180 \\\\
 9c                                            &= 180 \\\\
 c                                             &= \dfrac {180} {9} \\\\
@@ -2922,7 +2905,7 @@ c                                             &= 20 \degree
 \end{aligned}
 $
 
-Let's find angle $b$
+Let's use the value of $c$ to find $b$.
 
 $
 \begin{aligned}
@@ -2932,7 +2915,7 @@ b                                             &= 40
 \end{aligned}
 $
 
-We know that the sum of angles on a straight line is $180 \degree$. 
+Let's use the value of $b$ to find $d$.
 
 $
 \begin{aligned}
@@ -2948,7 +2931,8 @@ $
 
 Alternative Solution
 
-We know that the sum of all angles of a triangle is $180 \degree$.
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the question,
 
@@ -2963,13 +2947,12 @@ a + b + c                                                                       
 b                                                                                  &= \dfrac {180 \times 2} {9} \\\\
 b                                                                                  &= \dfrac {9 \times 20 \times 2} {9} \\\\
 b                                                                                  &= \dfrac {\cancel{9} \times 20 \times 2} {\cancel{9}} \\\\
-b                                                                                  &= 20 \times 2
+b                                                                                  &= 20 \times 2 \\\\
 b                                                                                  &= 40 \degree
 \end{aligned}
 $
 
-
-We know that the sum of angles on a straight line is $180 \degree$.
+Let's use the value of $b$ to find $d$.
 
 $
 \begin{aligned}
@@ -3532,7 +3515,7 @@ $\text{angle Q}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8C58A03E-ED57-4E53-AB3D-E2B7AC28475B</p>
 </div>
@@ -3543,7 +3526,7 @@ $\text{angle Q}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3586,6 +3569,11 @@ Calculate the angles marked with letters on the following diagrams.
 <div class='workings'>
 <div class='working'>
 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
+
 $
 \begin{aligned}
 135 + a                 &=  180 \\\\
@@ -3616,6 +3604,11 @@ $45 \degree$
 </div>
 <div class='workings'>
 <div class='working'>
+
+$\text{Angles on a straight line add up to} = 360 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3717,7 +3710,7 @@ $73 \degree, 107 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A34D1AFD-1A13-4C1A-8344-2A8E62131D4A</p>
 </div>
@@ -3728,7 +3721,7 @@ $73 \degree, 107 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3808,7 +3801,7 @@ $58 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>473B53F9-0065-4183-A92E-E456B6396E3B</p>
 </div>
@@ -3819,7 +3812,7 @@ $58 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3906,7 +3899,7 @@ $56 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42DD1DEA-9421-4D3A-9922-9C450DDF4E3F</p>
 </div>
@@ -3917,7 +3910,7 @@ $56 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

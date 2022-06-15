@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-d"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper D"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2244,25 +2244,29 @@ Write down the value of $y$.
 <div class='workings'>
 <div class='working'>
 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
 Let the third angle of triangle $= a$
 
-Now,
+As per the diagram,
 
 $
 \begin{aligned}
-a + 70 &= 180 \degree \\\\
+a + 70 &= 180 \\\\
 a      &= 180 - 70 \\\\
 a      &= 110 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$.
-
-So,
+Let's use the value of $a$ to find $y$.
 
 $
 \begin{aligned}
-y + y + a   &= 180 \degree \\\\
+y + y + a   &= 180 \\\\
 2y + 110    &= 180 \\\\
 2y          &= 180 - 110 \\\\
 2y          &= 70 \\\\

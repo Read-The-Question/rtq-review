@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-15 10:58:17
+date: 2022-06-15 13:15:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1533,7 +1533,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F88E47C-D07C-48F0-9094-F886FF0D2CFA</p>
 </div>
@@ -1544,7 +1544,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1569,11 +1569,22 @@ Work out the value of $a$ and $b$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angles are a, b.
+*TODO:: Add drawing starts.*
 
-First let's see the triangle ABD
+![missing image](/papers/missing_image.svg)
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+
+*TODO:: Add an image with vertices marked ABCD$*
+
+
+*TODO:: Add drawing ends.*
+
+
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -1587,18 +1598,18 @@ a               &= 30 \degree
 \end{aligned}
 $
 
-Let's use value of $a$ in triangle ABC
+Let's use value of $a$ in triangle ABC.
 
 $
 \begin{aligned}
-(b+2a) + b + 90     &= 180 \\\\
-2b + 2a             &= 180 - 90 \\\\
-2 \times 30 + 2b    &= 90 \\\\
-2b                  &= 90 - 60 \\\\
-b                   &= \dfrac {30} {2} \\\\
-b                   &= \dfrac {15 \times 2} {2} \\\\
-b                   &= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
-b                   &= 15 \degree
+(b + 2a) + b + 90     	&= 180 \\\\
+2b + 2a             	&= 180 - 90 \\\\
+2 \times 30 + 2b    	&= 90 \\\\
+2b                  	&= 90 - 60 \\\\
+b                   	&= \dfrac {30} {2} \\\\
+b                   	&= \dfrac {15 \times 2} {2} \\\\
+b                   	&= \dfrac {15 \times \cancel {2} } {\cancel {2} } \\\\
+b                   	&= 15 \degree
 \end{aligned}
 $
 

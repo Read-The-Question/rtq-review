@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-15 05:39:20
+date: 2022-06-15 07:04:45
 ---
 <div class='paper'>
 <div class='meta'>
@@ -80,9 +80,6 @@ $1237$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='B861F19A-C938-4447-8E3E-658832E76AC1' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='B861F19A-C938-4447-8E3E-658832E76AC1' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -172,9 +169,6 @@ $171900$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='60D80FC1-4C9E-4EC8-896C-04247669944B' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='60D80FC1-4C9E-4EC8-896C-04247669944B' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G2' data-uuid='60D80FC1-4C9E-4EC8-896C-04247669944B' id='FORM-60D80FC1-4C9E-4EC8-896C-04247669944B' onsubmit='submitComment(event)'>
@@ -256,9 +250,6 @@ $0.35$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='051EA915-77B1-4C90-B44F-067124622F8F' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -344,9 +335,6 @@ $\dfrac{3}{8}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='DD9DD726-1CE0-4DDC-863C-8DB9621C8BC0' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -449,9 +437,6 @@ $5.9$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='2377F631-0B3B-443B-ACA8-80A032557FBC' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='2377F631-0B3B-443B-ACA8-80A032557FBC' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='2377F631-0B3B-443B-ACA8-80A032557FBC' id='FORM-2377F631-0B3B-443B-ACA8-80A032557FBC' onsubmit='submitComment(event)'>
@@ -547,9 +532,6 @@ Give answer as only a mixed fraction
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C135697D-F7AA-4A2E-9224-953D73C4FFCC' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='C135697D-F7AA-4A2E-9224-953D73C4FFCC' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -678,9 +660,6 @@ $51$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='62A1AB1D-19F1-4582-8B13-6027E86309DF' id='FORM-62A1AB1D-19F1-4582-8B13-6027E86309DF' onsubmit='submitComment(event)'>
@@ -787,9 +766,6 @@ $105 \degree$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='A56ACBA8-8B03-4C19-A720-E78F6EDE381F' id='FORM-A56ACBA8-8B03-4C19-A720-E78F6EDE381F' onsubmit='submitComment(event)'>
@@ -884,9 +860,6 @@ $\pounds 50$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='A31A6436-9C6D-4A0E-B943-F8626DF8E8C7' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='A31A6436-9C6D-4A0E-B943-F8626DF8E8C7' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1001,9 +974,6 @@ rtq_abbr_katex_formula_perimeter_rectangle
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='D62B63A1-CA82-4AA9-B4FE-290BB7B57B95' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1253,9 +1223,6 @@ $130 \ \text {grams}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E2B23658-50CC-43B0-813D-B11A7DDE570B' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='E2B23658-50CC-43B0-813D-B11A7DDE570B' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='E2B23658-50CC-43B0-813D-B11A7DDE570B' id='FORM-E2B23658-50CC-43B0-813D-B11A7DDE570B' onsubmit='submitComment(event)'>
@@ -1348,9 +1315,6 @@ $129$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='CE0DC367-FC2F-48CA-A2AC-370BA4DBBEAF' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1448,9 +1412,6 @@ $\text{February } 13$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' id='FORM-0B47659C-81C5-46B4-8F2D-C1372D5BCBAD' onsubmit='submitComment(event)'>
@@ -1540,9 +1501,6 @@ $\dfrac { 6 } { 25 }$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='E6588871-D766-4716-B6B4-2BB08ABB7D9F' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1773,9 +1731,6 @@ Remove 1s where not required
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRCT</button>
 </li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' onclick='submitReview(event)'>PRG2</button>
-</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='341FE350-6A25-436A-A25E-E7AB9A1C6E15' id='FORM-341FE350-6A25-436A-A25E-E7AB9A1C6E15' onsubmit='submitComment(event)'>
@@ -1944,9 +1899,6 @@ $11, 13, 17, 31, 37, 71, 73, 79, 97$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9EA7238D-852E-470E-96A6-D31F589B812A' onclick='submitReview(event)'>PRCT</button>
-</li>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='9EA7238D-852E-470E-96A6-D31F589B812A' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -750,7 +750,7 @@ $\pounds 28$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -761,7 +761,7 @@ $\pounds 28$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -787,7 +787,11 @@ Find the missing angles (diagrams not to scale):
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -800,7 +804,7 @@ a            &= 50 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+Let's use the value of $a$ to find $b$.
 
 $
 \begin{aligned}
@@ -814,7 +818,8 @@ $
 </div>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 

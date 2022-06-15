@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2372,7 +2372,7 @@ $37620$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>1F8FCC2E-7969-46DC-AD0C-AA18C14714DA</p>
 </div>
@@ -2383,7 +2383,7 @@ $37620$
 <p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

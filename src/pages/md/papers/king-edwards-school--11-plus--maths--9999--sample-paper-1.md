@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-edwards-school-11-plus-maths-9999-sample-paper-1"
 title: "King Edwards School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>

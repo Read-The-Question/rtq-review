@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-2019-sample-paper-2"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 2019 - Sample Paper 2"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -245,9 +245,10 @@ Calculate the angle marked with the letter $x$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
 
 $
 \begin{aligned}

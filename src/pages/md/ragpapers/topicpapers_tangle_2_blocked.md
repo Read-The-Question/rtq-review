@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-15 13:18:04
 <p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -193,7 +193,83 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-6:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The six angles of two different triangles are listed in decreasing order. The list starts $115 \degree, 85 \degree, 75 \degree$ and $35 \degree$. 
+
+What is the last angle in the list? Explain your answer.
+
+*Hint: Remember that the angles inside any triangle always add up to 180 degrees*. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+Let the third angle of first triangle $= a$
+
+$
+\begin{aligned}
+a + 115 + 35    &= 180 \\\\
+a + 150         &= 180 \\\\
+a               &= 180 - 150 \\\\
+a               &= 30 \degree
+\end{aligned}
+$
+
+Let the third angle of second triangle $= b$
+
+$
+\begin{aligned}
+b + 85 + 75     &= 180 \\\\
+b + 160         &= 180 \\\\
+b               &= 180 - 160 \\\\
+b               &= 20 \degree
+\end{aligned}
+$
+
+Last angle in the list $= 20 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \degree$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
 </div>
@@ -204,7 +280,7 @@ $132 \degree, \ 66 \degree, \  66 \degree, 114 \degree, \ 66 \degree, \ 114 \deg
 <p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-albans-school-11-plus-maths-9999-sample-paper-2"
 title: "St Albans School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1994,7 +1994,7 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
@@ -2005,7 +2005,7 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2052,15 +2052,14 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 <div class='workings'>
 <div class='working'>
 
-According to question,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-angle B $=$ angle A
 
-angle C $= 2 \times$ angle B
+As per the question,
 
 $
 \begin{aligned}
-A + B + C                &= 180 \degree \\\\
+A + B + C                &= 180 \\\\
 A + A + 2A               &= 180 \\\\
 4A                       &= 180 \\\\
 A                        &= \dfrac {180} {4} \\\\
@@ -2070,9 +2069,9 @@ A                        &= 45 \degree
 \end{aligned}
 $
 
-So, angle A $=$ angle B $= 45 \degree$
+So, angle B $=$ angle A $= 45 \degree$
 
-angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$
 
 </div>
 </div>
@@ -2105,10 +2104,10 @@ As per the question,
 
 $
 \begin{aligned}
-x + x + x + 90 \degree  &= 360 \degree \\\\
-3x                      &= 360 \degree - 90 \degree \\\\
-3x                      &= 270 \degree \\\\
-x                       &= 90 \degree
+x + x + x + 90  &= 360 \\\\
+3x              &= 360 - 90 \\\\
+3x              &= 270 \\\\
+x               &= 90 \degree
 \end{aligned}
 $
 

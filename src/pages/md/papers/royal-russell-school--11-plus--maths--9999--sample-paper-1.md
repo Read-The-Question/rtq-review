@@ -1,7 +1,7 @@
 ---
 slug: "papers/royal-russell-school-11-plus-maths-9999-sample-paper-1"
 title: "Royal Russell School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -731,7 +731,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AB151B1F-7B35-4FF4-AC18-4876BE694A05</p>
 </div>
@@ -742,7 +742,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -762,9 +762,11 @@ An equilateral triangle has three sides the same length. What is the size of one
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-All the angles in an equilateral triangle are equal
+All the angles in an equilateral triangle are equal.
 
 Let's take an angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}

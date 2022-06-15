@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-3-g0"
 title: "TopicPaper - Detailedsubtraction - 3 - G0"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -149,6 +149,10 @@ $4.744$
 
 <h4>Review Comments</h4>
 Change to the right decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>

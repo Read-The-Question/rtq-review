@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-francis-college-11-plus-maths-2017-sample-paper-1"
 title: "St Francis College - 11 Plus - Maths - 2017 - Sample Paper 1"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2748,7 +2748,13 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -2758,6 +2764,8 @@ f           &= 180 - 107 \\\\
 f           &= 73 \degree
 \end{aligned}
 $
+
+Let's use the value of $f$ to find $g$.
 
 $
 \begin{aligned}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-1"
 title: "TopicPaper - Detailedsubtraction - 1"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1857,6 +1857,10 @@ $2.769$
 
 <h4>Review Comments</h4>
 Change to the right decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>
@@ -2423,6 +2427,10 @@ $33.33$
 
 <h4>Review Comments</h4>
 Change to the right decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>
@@ -3190,6 +3198,10 @@ $1.774$
 
 <h4>Review Comments</h4>
 Add decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2011-group-2"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2011 - Group 2"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -384,6 +384,10 @@ $2.23$
 
 <h4>Review Comments</h4>
 Add decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>

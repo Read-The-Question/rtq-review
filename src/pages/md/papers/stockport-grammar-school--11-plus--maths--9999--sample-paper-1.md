@@ -1,7 +1,7 @@
 ---
 slug: "papers/stockport-grammar-school-11-plus-maths-9999-sample-paper-1"
 title: "Stockport Grammar School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 13:15:01
+date: 2022-06-15 15:53:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -990,7 +990,8 @@ Find the missing angle, $x$:
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
@@ -1783,11 +1784,12 @@ Find the size of angle $x$:
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As the triangle is an isosceles triangle, the third angle is also $= x$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the diagram,
 
 $
 \begin{aligned}

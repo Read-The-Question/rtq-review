@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-2"
 title: "TopicPaper - Detailedsubtraction - 2"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2705,6 +2705,10 @@ $2.23$
 
 <h4>Review Comments</h4>
 Add decimal prompt
+
+
+
+Use abbreviation rtq_abbr_md_decimal_point_alignment_note
 </div>
 
 <div class='review'>

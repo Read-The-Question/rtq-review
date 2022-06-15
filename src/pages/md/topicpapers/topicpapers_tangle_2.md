@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-15 13:18:04
+date: 2022-06-15 15:57:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -818,7 +818,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -829,7 +829,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -855,7 +855,11 @@ Find the missing angles (diagrams not to scale):
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -868,7 +872,7 @@ a            &= 50 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+Let's use the value of $a$ to find $b$.
 
 $
 \begin{aligned}
@@ -882,7 +886,8 @@ $
 </div>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
@@ -1265,7 +1270,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>01546D3D-3C3F-4170-93D2-BAF39200375E</p>
 </div>
@@ -1276,7 +1281,7 @@ $110 \degree$
 <p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1551,7 +1556,7 @@ $42$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>C4397B4E-BA18-4B0D-A072-7C5F9C2B0637</p>
 </div>
@@ -1559,10 +1564,10 @@ $42$
 <p>oundle-school--11-plus--maths--2017--sample-paper-6:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1624,37 +1629,6 @@ $20 \degree$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' id='FORM-C4397B4E-BA18-4B0D-A072-7C5F9C2B0637' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C4397B4E-BA18-4B0D-A072-7C5F9C2B0637'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2037,7 +2011,7 @@ DONE put ° in first step please
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AB151B1F-7B35-4FF4-AC18-4876BE694A05</p>
 </div>
@@ -2048,7 +2022,7 @@ DONE put ° in first step please
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2068,9 +2042,11 @@ An equilateral triangle has three sides the same length. What is the size of one
 $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-All the angles in an equilateral triangle are equal
+All the angles in an equilateral triangle are equal.
 
 Let's take an angle $= a$
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2267,7 +2243,7 @@ $15 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prg question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>71BF2B3D-3BE5-4C50-B05E-2EC50982167D</p>
 </div>
@@ -2278,7 +2254,7 @@ $15 \degree$
 <p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prg</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3243,7 +3219,7 @@ $150\degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
@@ -3254,7 +3230,7 @@ $150\degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3301,15 +3277,14 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 <div class='workings'>
 <div class='working'>
 
-According to question,
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-angle B $=$ angle A
 
-angle C $= 2 \times$ angle B
+As per the question,
 
 $
 \begin{aligned}
-A + B + C                &= 180 \degree \\\\
+A + B + C                &= 180 \\\\
 A + A + 2A               &= 180 \\\\
 4A                       &= 180 \\\\
 A                        &= \dfrac {180} {4} \\\\
@@ -3319,9 +3294,9 @@ A                        &= 45 \degree
 \end{aligned}
 $
 
-So, angle A $=$ angle B $= 45 \degree$
+So, angle B $=$ angle A $= 45 \degree$
 
-angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$.
+angle C $= 2 \times$ A $= 2 \times 45 = 90 \degree$
 
 </div>
 </div>
@@ -3354,10 +3329,10 @@ As per the question,
 
 $
 \begin{aligned}
-x + x + x + 90 \degree  &= 360 \degree \\\\
-3x                      &= 360 \degree - 90 \degree \\\\
-3x                      &= 270 \degree \\\\
-x                       &= 90 \degree
+x + x + x + 90  &= 360 \\\\
+3x              &= 360 - 90 \\\\
+3x              &= 270 \\\\
+x               &= 90 \degree
 \end{aligned}
 $
 
@@ -3409,7 +3384,7 @@ $90 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F9F32E1-F006-4C6E-8240-5A785690A7E2</p>
 </div>
@@ -3420,7 +3395,7 @@ $90 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3642,7 +3617,13 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+$\text{Sum of angles in a triangle} = 180 \degree$
+
+
+$\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3652,6 +3633,8 @@ f           &= 180 - 107 \\\\
 f           &= 73 \degree
 \end{aligned}
 $
+
+Let's use the value of $f$ to find $g$.
 
 $
 \begin{aligned}
@@ -3744,7 +3727,8 @@ Find the missing angle, $x$:
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
@@ -3835,11 +3819,12 @@ Find the size of angle $x$:
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As the triangle is an isosceles triangle, the third angle is also $= x$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3939,9 +3924,10 @@ Calculate the angle marked with the letter $x$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -4107,7 +4093,7 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D25333F7-26CB-40ED-B8C0-0A79EDC6213F</p>
 </div>
@@ -4118,7 +4104,7 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4147,7 +4133,8 @@ Calculate the angle marked with the letter $a$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+$\text{Angles on a straight line add up to} = 180 \degree$.
+ 
 
 As per the diagram,
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/christs-hospital-school-11-plus-maths-2014-sample-paper-1"
 title: "Christs Hospital School - 11 Plus - Maths - 2014 - Sample Paper 1"
-date: 2022-06-15 15:53:36
+date: 2022-06-15 17:02:05
 ---
 <div class='paper'>
 <div class='meta'>

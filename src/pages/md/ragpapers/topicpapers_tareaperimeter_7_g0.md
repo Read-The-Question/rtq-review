@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0"
 title: "TopicPaper - Areaperimeter - 7 - G0"
-date: 2022-06-15 15:57:03
+date: 2022-06-15 17:05:21
 ---
 <ul class='question default-decimal'>
 <li>

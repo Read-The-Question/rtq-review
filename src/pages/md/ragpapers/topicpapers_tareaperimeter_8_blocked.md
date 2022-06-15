@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-blocked"
 title: "TopicPaper - Areaperimeter - 8 - BLOCKED"
-date: 2022-06-15 15:57:03
+date: 2022-06-15 17:05:21
 ---
 <ul class='question default-decimal'>
 <li>

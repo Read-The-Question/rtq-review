@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2013-sample-paper-4"
 title: "Sevenoaks School - 11 Plus - Maths - 2013 - Sample Paper 4"
-date: 2022-06-15 15:53:36
+date: 2022-06-15 17:02:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1823,7 +1823,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5BB59E9D-C92A-4395-B304-0088A8D9CB1F</p>
 </div>
@@ -1831,7 +1831,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2013--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1854,29 +1854,95 @@ Today Jack is twice as old as Jill. In ten years' time Jack will be one and a ha
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Jill's current age $= a$
 
-</div>
-<div class='working'>
+Jack's current age $= 2a$
 
-TODOWORKING
+Jill's age in $20$ years $= a + 20$
+
+Jack's age in $20$ years $= 2a + 20$ 
+
+As per the question,
+
+$
+\begin {aligned}
+2a + 10                                                 &= 1 \dfrac {1} {2} \times (a + 10) \\\\
+2a + 10                                                 &= \dfrac {3} {2} \times {a + 10} \\\\
+2a + 10                                                 &= \dfrac {3 \times (a + 10)} {2} \\\\
+2a + 10                                                 &= \dfrac {3a + 30} {2} \\\\
+2a + 10                                                 &= \dfrac {3a} {2} + \dfrac {30} {2} \\\\
+2a - \dfrac {3a} {2}                                    &= \dfrac {30} {2} - 10 \\\\
+\dfrac {2a \times 2} {1 \times 2} - \dfrac {3a} {2}     &= \dfrac {30} {2} - \dfrac {10 \times 2} {1 \times 2} \\\\
+\dfrac {4a} {2} - \dfrac {3a} {2}                       &= \dfrac {30} {2} - \dfrac {20} {2} \\\\
+\dfrac {4a - 3a} {2}                                    &= \dfrac {30 - 20} {2} \\\\
+\dfrac {a} {2}                                          &= \dfrac {10} {2} \\\\
+a                                                       &= \dfrac {10 \times 2} {2} \\\\
+a                                                       &= \dfrac {10 \times \cancel {2}} {\cancel {2}} \\\\
+a                                                       &= 10 \ \text {years}
+\end {aligned}
+$
+
+Jill's current age $= 10 \ \text {years}$
+
+$
+\begin {aligned}
+\text {Jill's age in 20 years}  &= a + 20 \\\\
+                                &= 10 + 20 \\\\
+                                &= 30 \ \text {years} \\\\
+\text {Jack's age in 20 years}  &= 2a + 20 \\\\
+                                &= 2 \times 10 + 20 \\\\
+                                &= 20 + 20 \\\\
+                                &= 40 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Jill $=$ $30 \ \text {years}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Jack $=$ $40 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5BB59E9D-C92A-4395-B304-0088A8D9CB1F' id='FORM-5BB59E9D-C92A-4395-B304-0088A8D9CB1F' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5BB59E9D-C92A-4395-B304-0088A8D9CB1F'>Initial</p>
+</div>
 </div>
 </li>
 </ul>

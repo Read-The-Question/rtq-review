@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 15:53:36
+date: 2022-06-15 17:02:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -887,7 +887,7 @@ $2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
 </div>
@@ -898,7 +898,7 @@ $2$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1064,6 +1064,14 @@ $1 \ \dfrac {7} {24}$
 Part b) Wrong workings add factors in, wrong answer
 
 Part d) Use LCM in S3 and update other workings accordingly
+
+
+
+Part d has steps missing, show denominator becoming the same before adding the numerators like other questions.
+
+
+
+Part d has steps missing, show denominator becoming the same before adding the numerators like other questions.
 </div>
 
 <div class='review'>
@@ -1395,7 +1403,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>16C2DCFA-5867-4439-AAD8-0886FF1DB404</p>
 </div>
@@ -1403,10 +1411,10 @@ TODOANSWER
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1536,35 +1544,30 @@ $11.025$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-All parts Add S1 with of
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' id='FORM-16C2DCFA-5867-4439-AAD8-0886FF1DB404' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='16C2DCFA-5867-4439-AAD8-0886FF1DB404' id='FORM-16C2DCFA-5867-4439-AAD8-0886FF1DB404' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

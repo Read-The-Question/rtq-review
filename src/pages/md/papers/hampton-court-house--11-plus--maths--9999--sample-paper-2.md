@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-2"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 15:53:36
+date: 2022-06-15 17:02:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -821,7 +821,6 @@ What percentage of Jon’s animals are chickens?
 
 $
 \begin{aligned}
-&= \dfrac {6} {2 + 6} \\\\
 &= \dfrac {6} {2 + 6} \times 100 \\\\
 &= \dfrac {6 \times 100} {8} \\\\
 &= \dfrac {2 \times 3 \times 4 \times 25} {2 \times 4} \\\\
@@ -2133,7 +2132,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
 </div>
@@ -2144,7 +2143,7 @@ $\dfrac{7} {3}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2244,6 +2243,10 @@ S2 dont multiply by 1 on 3/8
 S5 alignment issue take minus out of dfrac
 
 Answer take minus out of dfrac
+
+
+
+Do part a similar to part b. 
 </div>
 
 <div class='review'>

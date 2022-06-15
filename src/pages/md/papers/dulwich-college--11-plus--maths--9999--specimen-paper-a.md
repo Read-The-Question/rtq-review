@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-15 15:53:36
+date: 2022-06-15 17:02:05
 ---
 <div class='paper'>
 <div class='meta'>
@@ -696,7 +696,7 @@ $
 \begin{aligned}
 &= \dfrac {1} {2} \text { of } \dfrac {1} {3} \text { of } \dfrac {1} {4} \text { of } 48 \\\\
 &= \dfrac {1} {2} \times \dfrac {1} {3} \times \dfrac {1} {4} \times 48 \\\\
-&= \dfrac {48} {2 \times 3 \times 4}
+&= \dfrac {48} {2 \times 3 \times 4} \\\\
 &= \dfrac {2 \times 3 \times 4 \times 2} {2 \times 3 \times 4} \\\\
 &= \dfrac {\cancel {2} \times \cancel {3} \times \cancel {4} \times 2} {\cancel {2} \times \cancel {3} \times \cancel {4}} \\\\
 &= 2

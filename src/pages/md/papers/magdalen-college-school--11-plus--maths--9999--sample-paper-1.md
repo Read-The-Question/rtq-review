@@ -1,7 +1,7 @@
 ---
 slug: "papers/magdalen-college-school-11-plus-maths-9999-sample-paper-1"
 title: "Magdalen College School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 13:58:17
+date: 2022-06-15 05:39:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -312,6 +312,9 @@ katex error part G
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='39FEECD6-F2F2-4967-9FC1-5D2680489012' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='39FEECD6-F2F2-4967-9FC1-5D2680489012' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='39FEECD6-F2F2-4967-9FC1-5D2680489012' id='FORM-39FEECD6-F2F2-4967-9FC1-5D2680489012' onsubmit='submitComment(event)'>
@@ -334,7 +337,7 @@ katex error part G
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -415,6 +418,9 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5D763DCC-BA8B-4FED-92C6-D8B848454B73' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='5D763DCC-BA8B-4FED-92C6-D8B848454B73' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -559,6 +565,9 @@ $\dfrac {1} {2}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='C9A69D3A-7B6D-43DE-9AB9-5AE02CE0F1EF' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='C9A69D3A-7B6D-43DE-9AB9-5AE02CE0F1EF' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -736,6 +745,9 @@ $\pounds 28$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='FB9C0752-B2BA-49B8-96AA-048619C2539C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='FB9C0752-B2BA-49B8-96AA-048619C2539C' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='FB9C0752-B2BA-49B8-96AA-048619C2539C' id='FORM-FB9C0752-B2BA-49B8-96AA-048619C2539C' onsubmit='submitComment(event)'>
@@ -758,7 +770,7 @@ $\pounds 28$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -864,6 +876,9 @@ $28 \degree, \ 28 \degree$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1769,7 +1784,7 @@ TODOANSWER
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1850,6 +1865,9 @@ $60 \%,  \quad 0.66, \quad \dfrac {2} {3}, \quad \dfrac {17} {25}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='09479747-8FB8-481F-A4B4-A3396CB2F2E9' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='09479747-8FB8-481F-A4B4-A3396CB2F2E9' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -2004,6 +2022,9 @@ $5{:}55 \ \text{am}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='7A398F6B-C825-4D14-888B-7DE1673A5240' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -2252,6 +2273,9 @@ $76 \times 8$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='F3144B09-1621-4BF8-A18D-56C923A48403' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

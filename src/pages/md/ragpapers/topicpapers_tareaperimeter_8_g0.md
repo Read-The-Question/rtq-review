@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-g0"
 title: "TopicPaper - Areaperimeter - 8 - G0"
-date: 2022-06-14 14:01:48
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-14 14:01:48
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -141,6 +141,9 @@ $16 \ \text{cm}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7F5F775B-7E11-4998-A118-784117B4C479' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='7F5F775B-7E11-4998-A118-784117B4C479' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='7F5F775B-7E11-4998-A118-784117B4C479' id='FORM-7F5F775B-7E11-4998-A118-784117B4C479' onsubmit='submitComment(event)'>
@@ -163,7 +166,7 @@ $16 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -241,6 +244,9 @@ $36 \ \text{cm}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='879257AD-7CA0-4670-881E-438490A5C1DC' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='879257AD-7CA0-4670-881E-438490A5C1DC' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='879257AD-7CA0-4670-881E-438490A5C1DC' id='FORM-879257AD-7CA0-4670-881E-438490A5C1DC' onsubmit='submitComment(event)'>
@@ -263,7 +269,7 @@ $36 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -350,6 +356,9 @@ $40 \ \text{cm}^2$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='225FE540-8613-4C8B-B119-CC67CEA85C4B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='225FE540-8613-4C8B-B119-CC67CEA85C4B' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='225FE540-8613-4C8B-B119-CC67CEA85C4B' id='FORM-225FE540-8613-4C8B-B119-CC67CEA85C4B' onsubmit='submitComment(event)'>
@@ -372,7 +381,7 @@ $40 \ \text{cm}^2$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -445,6 +454,9 @@ $24.9 \ \text{cm}^2$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='857C8851-DFFE-4176-BC5A-986FC02066A9' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='857C8851-DFFE-4176-BC5A-986FC02066A9' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='857C8851-DFFE-4176-BC5A-986FC02066A9' id='FORM-857C8851-DFFE-4176-BC5A-986FC02066A9' onsubmit='submitComment(event)'>
@@ -467,7 +479,7 @@ $24.9 \ \text{cm}^2$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -550,6 +562,9 @@ $56$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='36E95BDA-CF7B-4EEC-AF73-C18EE5638591' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='36E95BDA-CF7B-4EEC-AF73-C18EE5638591' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='36E95BDA-CF7B-4EEC-AF73-C18EE5638591' id='FORM-36E95BDA-CF7B-4EEC-AF73-C18EE5638591' onsubmit='submitComment(event)'>
@@ -572,7 +587,7 @@ $56$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -665,6 +680,9 @@ $28 \ \text{m}^2$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4C4D2D05-7411-4B91-B9C3-73F6D271E210' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='4C4D2D05-7411-4B91-B9C3-73F6D271E210' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='4C4D2D05-7411-4B91-B9C3-73F6D271E210' id='FORM-4C4D2D05-7411-4B91-B9C3-73F6D271E210' onsubmit='submitComment(event)'>
@@ -687,7 +705,7 @@ $28 \ \text{m}^2$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ad_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -763,6 +781,9 @@ $\pounds 74.1$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B5F661C5-EDE9-4D72-925A-85A6F3D58E56' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='B5F661C5-EDE9-4D72-925A-85A6F3D58E56' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

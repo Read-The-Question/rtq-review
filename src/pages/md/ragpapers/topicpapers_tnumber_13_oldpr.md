@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-13-oldpr"
 title: "TopicPaper - Number - 13 - OLDPR"
-date: 2022-06-14 14:01:48
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -91,6 +91,9 @@ Alternative solution, (line 1 in second option)
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='E7C66B09-5BA0-4B5C-BA6E-344436152AFE' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdivision-1-oldpr"
 title: "TopicPaper - Division - 1 - OLDPR"
-date: 2022-06-14 14:01:48
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -82,6 +82,9 @@ $16$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D5204F4A-B807-43B1-A353-487CB9B6B8B2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='D5204F4A-B807-43B1-A353-487CB9B6B8B2' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -178,6 +181,9 @@ Coding guidlines ,......., I SAW NO CHANGES
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='EC50BF96-8275-40FB-9755-C0806452FE6D' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='EC50BF96-8275-40FB-9755-C0806452FE6D' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

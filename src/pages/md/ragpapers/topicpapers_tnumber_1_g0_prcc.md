@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-1-g0-prcc"
 title: "TopicPaper - Number - 1 - G0 - PRCC"
-date: 2022-06-14 14:50:05
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -206,6 +206,9 @@ Not following the coding guidelines for simple algebra.
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='9D649605-D139-478F-BB54-746029DB4066' id='FORM-9D649605-D139-478F-BB54-746029DB4066' onsubmit='submitComment(event)'>
@@ -377,6 +380,9 @@ $\dfrac {4} {5}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='4624AA36-41A6-4B3C-B4F2-11671F5E0925' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -550,6 +556,9 @@ $27$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='5795CBC5-BF94-4D7F-BB5B-55C2F37EC9F2' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -742,6 +751,9 @@ $7995$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='269CAEB1-ECC7-4634-9068-42EF39354F2F' id='FORM-269CAEB1-ECC7-4634-9068-42EF39354F2F' onsubmit='submitComment(event)'>
@@ -884,6 +896,9 @@ $492$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CB985892-807A-481A-863E-243A882E5ED9' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='CB985892-807A-481A-863E-243A882E5ED9' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

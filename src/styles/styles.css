@@ -88,7 +88,7 @@ img {
 }
 
 .question_envelope.question.rag_blocked  {
-    background-color: crimson;
+    background-color: darkkhaki;
 }
 
 .question_envelope.question.rag_oldpr  {
@@ -166,7 +166,7 @@ img {
 .question_envelope.question.rag_prbd {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
-    background-color: crimson;
+    background-color: darkkhaki;
 }
 
 .question_envelope.question.rag_prr {

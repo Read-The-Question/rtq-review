@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-oldpr"
 title: "TopicPaper - Sequence - 4 - OLDPR"
-date: 2022-06-14 14:01:48
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-14 14:01:48
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -287,6 +287,9 @@ Part b difference is -4, part c+d  comma missign after first dots. Part d descri
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='D33DC09F-B58A-476F-A745-66D21A031401' id='FORM-D33DC09F-B58A-476F-A745-66D21A031401' onsubmit='submitComment(event)'>
@@ -309,7 +312,7 @@ Part b difference is -4, part c+d  comma missign after first dots. Part d descri
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -518,6 +521,9 @@ Part b description missign. part c can be simple 100,90,80,,
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='466857D6-9034-43F0-A8A6-12E5F1C6D0C0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='466857D6-9034-43F0-A8A6-12E5F1C6D0C0' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='466857D6-9034-43F0-A8A6-12E5F1C6D0C0' id='FORM-466857D6-9034-43F0-A8A6-12E5F1C6D0C0' onsubmit='submitComment(event)'>
@@ -540,7 +546,7 @@ Part b description missign. part c can be simple 100,90,80,,
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -804,6 +810,9 @@ description missing /line 1 missing
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1540DF4F-AD9B-49DE-8233-4569D99EFC30' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='1540DF4F-AD9B-49DE-8233-4569D99EFC30' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='1540DF4F-AD9B-49DE-8233-4569D99EFC30' id='FORM-1540DF4F-AD9B-49DE-8233-4569D99EFC30' onsubmit='submitComment(event)'>
@@ -826,7 +835,7 @@ description missing /line 1 missing
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1082,6 +1091,9 @@ $122, 365$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AE9B538A-8351-4BCF-B36D-B5B1D18CF66B' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='AE9B538A-8351-4BCF-B36D-B5B1D18CF66B' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='AE9B538A-8351-4BCF-B36D-B5B1D18CF66B' id='FORM-AE9B538A-8351-4BCF-B36D-B5B1D18CF66B' onsubmit='submitComment(event)'>
@@ -1104,7 +1116,7 @@ $122, 365$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1359,6 +1371,9 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='CC407948-E5AE-4B12-9ECD-9E6C2D91A291' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='CC407948-E5AE-4B12-9ECD-9E6C2D91A291' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='CC407948-E5AE-4B12-9ECD-9E6C2D91A291' id='FORM-CC407948-E5AE-4B12-9ECD-9E6C2D91A291' onsubmit='submitComment(event)'>
@@ -1381,7 +1396,7 @@ $\dfrac {1} {16}, \quad \dfrac {1} {64}$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1542,6 +1557,9 @@ $-1, -7$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='219E449F-2516-48DE-B763-E1C74A1FC8E4' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='219E449F-2516-48DE-B763-E1C74A1FC8E4' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='219E449F-2516-48DE-B763-E1C74A1FC8E4' id='FORM-219E449F-2516-48DE-B763-E1C74A1FC8E4' onsubmit='submitComment(event)'>
@@ -1564,7 +1582,7 @@ $-1, -7$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1651,6 +1669,9 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0' id='FORM-0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0' onsubmit='submitComment(event)'>
@@ -1673,7 +1694,7 @@ $\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1760,6 +1781,9 @@ $315, 240$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DA1C609B-7D16-4855-AF28-E9B812315F33' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='DA1C609B-7D16-4855-AF28-E9B812315F33' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='DA1C609B-7D16-4855-AF28-E9B812315F33' id='FORM-DA1C609B-7D16-4855-AF28-E9B812315F33' onsubmit='submitComment(event)'>
@@ -1782,7 +1806,7 @@ $315, 240$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1875,6 +1899,9 @@ $3,-1$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='49F4F71D-E31B-4B40-81AA-518393D5C392' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='49F4F71D-E31B-4B40-81AA-518393D5C392' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='49F4F71D-E31B-4B40-81AA-518393D5C392' id='FORM-49F4F71D-E31B-4B40-81AA-518393D5C392' onsubmit='submitComment(event)'>
@@ -1897,7 +1924,7 @@ $3,-1$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1994,6 +2021,9 @@ $50$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='698B11F8-9733-47E3-A64E-683A3E3D6D13' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='698B11F8-9733-47E3-A64E-683A3E3D6D13' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='698B11F8-9733-47E3-A64E-683A3E3D6D13' id='FORM-698B11F8-9733-47E3-A64E-683A3E3D6D13' onsubmit='submitComment(event)'>
@@ -2016,7 +2046,7 @@ $50$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2168,6 +2198,9 @@ $17 - 4n$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='ED704D79-81D3-4EB7-A041-6E67CD5FE873' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='ED704D79-81D3-4EB7-A041-6E67CD5FE873' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='ED704D79-81D3-4EB7-A041-6E67CD5FE873' id='FORM-ED704D79-81D3-4EB7-A041-6E67CD5FE873' onsubmit='submitComment(event)'>
@@ -2190,7 +2223,7 @@ $17 - 4n$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:0</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2319,6 +2352,9 @@ The number that replaces $B = 6$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3' id='FORM-2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3' onsubmit='submitComment(event)'>
@@ -2341,7 +2377,7 @@ The number that replaces $B = 6$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2416,6 +2452,9 @@ $A = 14$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1BF5B2D6-98CF-4595-ACA4-62872303DF5D' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='1BF5B2D6-98CF-4595-ACA4-62872303DF5D' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='PR' data-uuid='1BF5B2D6-98CF-4595-ACA4-62872303DF5D' id='FORM-1BF5B2D6-98CF-4595-ACA4-62872303DF5D' onsubmit='submitComment(event)'>
@@ -2438,7 +2477,7 @@ $A = 14$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:2</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2544,6 +2583,9 @@ Last sentence : No. of matches the 4th shape will have$=22$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='21F86FF9-737E-4AF5-8F7F-6D8695AFFE38' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

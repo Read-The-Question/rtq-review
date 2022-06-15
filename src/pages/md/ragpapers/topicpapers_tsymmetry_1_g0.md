@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsymmetry-1-g0"
 title: "TopicPaper - Symmetry - 1 - G0"
-date: 2022-06-14 14:01:48
+date: 2022-06-15 05:43:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -68,6 +68,9 @@ $\text {E, \ D, \ Z}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CF538E3C-9256-410E-8CF8-47DD610CDB1F' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='CF538E3C-9256-410E-8CF8-47DD610CDB1F' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

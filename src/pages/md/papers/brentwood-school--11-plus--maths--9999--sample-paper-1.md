@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-14 13:58:17
+date: 2022-06-15 05:39:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -78,6 +78,9 @@ $358903$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D3FCF57E-0B8B-4DB3-A756-F2E99287A6C5' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='D3FCF57E-0B8B-4DB3-A756-F2E99287A6C5' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -216,6 +219,9 @@ $\dfrac {9} {20}$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='C975AC61-182A-4033-B6BF-F2639EFA1ED9' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='C975AC61-182A-4033-B6BF-F2639EFA1ED9' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -592,6 +598,9 @@ $\dfrac {7} {32}$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G2' data-uuid='65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' id='FORM-65924DEB-BA9F-4F6D-B7F1-41E14CC13E7E' onsubmit='submitComment(event)'>
@@ -873,6 +882,9 @@ Only show the mixed fraction in the answer not both
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' id='FORM-62E0F078-7FB5-44EC-BC99-CC28C10BCB5C' onsubmit='submitComment(event)'>
@@ -895,7 +907,7 @@ Only show the mixed fraction in the answer not both
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1120,6 +1132,9 @@ $39, \quad 52$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1520,7 +1535,7 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g2</p>
+<p>rag_ad_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1647,6 +1662,9 @@ $36 \ \text {m}^2$
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G2' data-uuid='E52F477B-FFCA-4102-95D0-AD1EFD89B90D' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -1925,6 +1943,9 @@ $9909999$
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B5875D8A-0E59-497A-87D0-9B611FB2A027' onclick='submitReview(event)'>PRCT</button>
 </li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='B5875D8A-0E59-497A-87D0-9B611FB2A027' onclick='submitReview(event)'>PRG2</button>
+</li>
 </ul>
 
 <form class='review' data-sheet='G1' data-uuid='B5875D8A-0E59-497A-87D0-9B611FB2A027' id='FORM-B5875D8A-0E59-497A-87D0-9B611FB2A027' onsubmit='submitComment(event)'>
@@ -1995,7 +2016,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>6419C0CA-625C-4E98-89C3-02A997864D0B</p>
 </div>
@@ -2003,10 +2024,10 @@ TODOANSWER
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2029,34 +2050,35 @@ Find the sizes of angles $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= x$
+$\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+
+$\text{Angles on a straight line add up to} = 180 \degree$
+As we know, the sum of angles on a straight line is $180 \degree$.
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-x + 104 \degree  &= 180 \degree  \\\\
-x                &= 180 \degree - 104 \degree \\\\
-x                &= 76 \degree
+x + 104     &= 180   \\\\
+x           &= 180  - 104  \\\\
+x           &= 76 \degree
 \end{aligned}
 $
 
-Let the missing angle $= y$
-
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let's use the value of $x$ to find $y$.
 
 $
 \begin{aligned}
-76 \degree + y + y     &= 180 \degree                \\\\
-76 \degree +2y         &= 180 \degree                \\\\
-2y                     &= 180 \degree - 76 \degree   \\\\
-2y                     &= 104 \degree                \\\\
-y                      &= \dfrac {104 \degree} {2}   \\\\
-y                      &= \dfrac {52 \times 2} {2}   \\\\
-y                      &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
-y                      &= 52 \degree
+x  + y + y              &= 180 \\\\
+76  + 2y                &= 180 \\\\
+2y                      &= 180  - 76 \\\\
+2y                      &= 104  \\\\
+y                       &= \dfrac {104 } {2}   \\\\
+y                       &= \dfrac {52 \times 2} {2}   \\\\
+y                       &= \dfrac {52 \times \cancel {2}} {\cancel {2}} \\\\
+y                       &= 52 \degree
 \end{aligned}
 $
 
@@ -2065,12 +2087,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$
-\begin{aligned}
-x   &= 76 \degree \\\\
-y   &= 52 \degree
-\end{aligned}
-$
+$x$ $=$ $76 \degree$
+
+</div>
+<div class='answer'>
+
+$y$ $=$ $52 \degree$
 
 </div>
 </div>
@@ -2100,6 +2122,9 @@ WE will visit this answer again. but put a second solution using exterior angle 
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6419C0CA-625C-4E98-89C3-02A997864D0B' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='PR' data-uuid='6419C0CA-625C-4E98-89C3-02A997864D0B' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 
@@ -2180,6 +2205,9 @@ $1$ January
 </li>
 <li class='review'>
 <button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRCT</button>
+</li>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG2' data-sheet='G1' data-uuid='EA0D9F6B-CCDB-46F1-861B-B145EFF45CCD' onclick='submitReview(event)'>PRG2</button>
 </li>
 </ul>
 

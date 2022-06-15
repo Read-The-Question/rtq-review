@@ -130,6 +130,27 @@ const linkStyle = {
 
 // markup
 const IndexPage = ({data}) => {
+  const prccNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("ragpapers") && (slug.includes("-prcc"));
+    });
+  }
+
+  const blockedNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("ragpapers") && slug.includes("-blocked");
+    });
+  }
+
+  const restOfNodes = (data) => {
+    return data.allMarkdownRemark.edges.filter(({ node }) => {
+      const slug = node.frontmatter.slug;
+      return slug.startsWith("ragpapers") && !((slug.includes("-blocked")) || (slug.includes("-prcc")));
+    });
+  }
+
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
@@ -143,8 +164,7 @@ const IndexPage = ({data}) => {
 
       {/* Filter Ragpapers and PRCC */}
       <ul style={listStyles}>
-        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("ragpapers")) 
-        && (node.frontmatter.slug.includes("-prcc"))).map(({ node }) => (
+        {prccNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -159,14 +179,13 @@ const IndexPage = ({data}) => {
         ))}
       </ul>
 
-      {/* Filter PRCC from here */}
       <h2 style={headingStyles}>
         TopicPapers - RAG
       </h2>
 
+      {/* Filter Rest */}
       <ul style={listStyles}>
-        {data.allMarkdownRemark.edges.filter(({ node }) => (node.frontmatter.slug.startsWith("ragpapers")) &&
-           !(node.frontmatter.slug.includes("-prcc"))).map(({ node }) => (
+        {restOfNodes(data).map(({ node }) => (
           <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
             <span>
               <Link
@@ -180,6 +199,29 @@ const IndexPage = ({data}) => {
           </li>
         ))}
       </ul>
+
+      <h2 style={headingStyles}>
+        TopicPapers - Blocked
+      </h2>
+
+      {/* Filter Ragpapers and Blocked */}
+      <ul style={listStyles}>
+        {blockedNodes(data).map(({ node }) => (
+          <li key={node.id} style={{ ...listItemStyles, color: "#8EB814" }}>
+            <span>
+              <Link
+                style={linkStyle}
+                to={node.frontmatter.slug}
+              >
+                {node.frontmatter.title} {" "}
+              </Link>
+
+            </span>
+          </li>
+        ))}
+      </ul>
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -675,7 +675,7 @@ Length of the rectangle $= a$
 
 Width of the rectangle $= \dfrac {a} { 2 }$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
 
 Let's equate the perimeter to the length and width we get,

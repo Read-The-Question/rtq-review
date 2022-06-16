@@ -1,7 +1,7 @@
 ---
 slug: "papers/warwick-school-11-plus-maths-9999-sample-paper-1"
 title: "Warwick School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -449,7 +449,8 @@ $50\:\:\:42\:\:\:34\:\:\:\Box\:\:\:18$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $8$. Hence, the sequence would be:
 
@@ -496,7 +497,8 @@ $2.302\:\:\:2.304\:\:\:2.306\:\:\:2.308\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $0.002$. Hence, the sequence would be:
 
@@ -543,7 +545,8 @@ $4\:\:\:7\:\:\:13\:\:\:25\:\:\:49\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -591,7 +594,8 @@ $100\:\:\:81\:\:\:64\:\:\:49\:\:\:36\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -638,7 +642,8 @@ $\Box\:\:\:3.5\:\:\:7\:\:\:14\:\:\:28$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1325,14 +1330,14 @@ $\:\:\:\:\:\:\:$![missing image](/papers/missing_image.svg)
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 
 The rectangle measurement is given in metres while the triangle measurement is given in cm.
 
 Let's convert the rectangle measurements into $\text{cm}$.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-g"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper G"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -238,7 +238,8 @@ $15 , \quad 22 , \quad 29 , \quad \text{\textunderscore \textunderscore \textund
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
@@ -294,7 +295,8 @@ $9 , \quad 5 , \quad 1 , \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
@@ -348,7 +350,8 @@ $96 , \quad -48 , \quad 24 , \quad -12 , \quad \text{\textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by dividing the previous term by $-2$. Hence, the sequence would be:
 
@@ -698,7 +701,7 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 $
@@ -1726,7 +1729,7 @@ Work out the value of $x$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 $
@@ -1759,7 +1762,7 @@ Work out the value of $y$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 $

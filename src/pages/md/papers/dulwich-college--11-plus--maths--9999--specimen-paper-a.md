@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-a"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper A"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -483,7 +483,8 @@ $14, \quad 17, \quad 20, \quad 23, \quad \text{\textunderscore \textunderscore \
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $3$. Hence, the sequence would be:
 
@@ -539,7 +540,8 @@ $14, \quad 13.25, \quad 12.5, \quad 11.75, \quad \text{\textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $-0.75$. Hence, the sequence would be:
 
@@ -1128,7 +1130,7 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $

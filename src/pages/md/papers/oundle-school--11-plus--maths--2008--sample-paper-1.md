@@ -1,7 +1,7 @@
 ---
 slug: "papers/oundle-school-11-plus-maths-2008-sample-paper-1"
 title: "Oundle School - 11 Plus - Maths - 2008 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -848,7 +848,7 @@ $4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $+6$. Hence, the sequence would be:
@@ -949,7 +949,7 @@ $12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-5$. Hence, the sequence would be:

@@ -1,7 +1,7 @@
 ---
 slug: "papers/kings-college-school-11-plus-maths-2014-specimen-paper-e"
 title: "Kings College School - 11 Plus - Maths - 2014 - Specimen Paper E"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1504,7 +1504,7 @@ $1, \quad 4, \quad 8, \quad 13, \quad 19, \quad \text{\textunderscore \textunder
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $1$ more than the difference between the previous numbers. Hence, the sequence would be:
@@ -1554,7 +1554,7 @@ $1, \quad 2, \quad 4, \quad 8, \quad 16, \quad \text{\textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -1605,7 +1605,7 @@ $100, \quad 99, \quad 96, \quad 91, \quad 84, \quad \text{\textunderscore \textu
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing in the sequence of natural odd numbers. Hence, the sequence would be:
@@ -1655,7 +1655,7 @@ $89, \quad 55, \quad 34, \quad 21, \quad 13, \quad \text{\textunderscore \textun
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the previous two terms is next number in the sequence. Hence, the sequence would be:
@@ -1729,7 +1729,7 @@ $1, \quad 8, \quad 27,\quad \text{\textunderscore \textunderscore \textunderscor
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 It is a sequence of cube numbers.

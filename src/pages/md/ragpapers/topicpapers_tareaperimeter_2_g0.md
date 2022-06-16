@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0"
 title: "TopicPaper - Areaperimeter - 2 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1044,7 +1044,7 @@ Estimate the area of this triangle
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the diagram,
@@ -1230,7 +1230,7 @@ How many slabs will he need?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $

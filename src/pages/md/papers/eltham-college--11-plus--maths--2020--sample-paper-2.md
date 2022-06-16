@@ -1,7 +1,7 @@
 ---
 slug: "papers/eltham-college-11-plus-maths-2020-sample-paper-2"
 title: "Eltham College - 11 Plus - Maths - 2020 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -683,13 +683,13 @@ In this diagram what is the value of $x$?
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 As per the diagram,

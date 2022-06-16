@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-1"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1062,7 +1062,8 @@ $3, 9, 15, 21, 27, 33, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
@@ -1113,7 +1114,8 @@ $2, 5, 10, 17, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1160,7 +1162,8 @@ $1000, 900, 810, 730, 660, \ldots$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by multiplying the previous term by $\dfrac{9} {10}$
 

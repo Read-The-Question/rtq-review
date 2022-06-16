@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2544,7 +2544,7 @@ Estimate the area of this triangle
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the diagram,
@@ -3030,7 +3030,7 @@ How many slabs will he need?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -4749,7 +4749,7 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 $

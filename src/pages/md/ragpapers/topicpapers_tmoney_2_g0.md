@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0"
 title: "TopicPaper - Money - 2 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -40,7 +40,7 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $
@@ -133,7 +133,7 @@ Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $
@@ -2147,7 +2147,7 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 Price of Cola $= \pounds 1.09$
@@ -2576,7 +2576,7 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 . Let's convert pence into pounds.
 
 $
@@ -2676,7 +2676,7 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 . Let's convert pence into pounds.
 
 $
@@ -3188,7 +3188,7 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 . Let's convert pence into pounds.
 
 $\pounds 1 = 100 \text{p}$

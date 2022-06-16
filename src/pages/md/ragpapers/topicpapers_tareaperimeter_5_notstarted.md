@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-notstarted"
 title: "TopicPaper - Areaperimeter - 5 - NOTSTARTED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -860,7 +860,7 @@ Find the area of the triangle
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 $

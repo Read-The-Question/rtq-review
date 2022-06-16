@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2009-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2009 - Group 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -278,7 +278,7 @@ Give your answer in metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $

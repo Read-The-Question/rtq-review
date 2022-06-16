@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:29:03
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2820,7 +2820,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>872AF346-F083-464D-8D78-F9ED85CC0CD9</p>
 </div>
@@ -2828,7 +2828,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ak_blocked</p>
+<p>rag_ak_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2886,6 +2886,37 @@ Catherine $=$ $7 \ \text {years}$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' id='FORM-872AF346-F083-464D-8D78-F9ED85CC0CD9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-872AF346-F083-464D-8D78-F9ED85CC0CD9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3172,6 +3203,7 @@ As per the question,
 
 $
 \begin{aligned}
+\text{May's age}    &= 14 \ \text{years} \\\\
 \text{Father's age} &= 14 + 39 \\\\
                     &= 53 \ \text{years} \\\\
 \text{Mother's age} &= 53 - 8 \\\\
@@ -3466,17 +3498,18 @@ How old is her brother?
 
 $
 \begin{aligned}
+\text{Becky's age}      &= 10 \dfrac {1} {2} \ \text {years} \\\\
 \text{Brother's age}    &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
                         &= 10 \dfrac {1} {2} \ \text {years} - 1 \dfrac {8} {12} \ \text {years} \\\\
-                        &= 10 \dfrac {1} {2} - 1 \dfrac {2 \times 4} {3 \times 4} \\\\
-                        &= 10 \dfrac {1} {2} - 1 \dfrac {2 \times \cancel {4}} {3 \times \cancel {4}} \\\\
                         &= 10 \dfrac {1} {2} - 1 \dfrac {2} {3} \\\\
                         &= \dfrac {21} {2} - \dfrac {5} {3} \\\\
                         &= \dfrac {21 \times 3} {2 \times 3} - \dfrac {5 \times 2} {3 \times 2} \\\\
                         &= \dfrac {63} {6} - \dfrac {10} {6} \\\\
                         &= \dfrac {63 - 10} {6} \\\\
                         &= \dfrac {53} {6} \\\\
-                        &= 8 \dfrac {5} {6} \ \text {years}
+                        &= 8 \dfrac {5} {6} \ \text {years} \\\\
+                        &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months} \\\\
 \end{aligned}
 $
 
@@ -3485,7 +3518,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \dfrac {5} {6} \ \text {years}$
+$8 \ \text {years } 10 \ \text {months}$
 
 </div>
 </div>
@@ -3582,9 +3615,9 @@ By how many years and months is Katharine older than Helen?
 
 $
 \begin {aligned}
-\text {Difference between Katharine and Helen}      &= \text {Helen's date of birth} - \text {Katharine's date of birth} \\\\
-                                                    &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
-                                                    &= 5 \ \text {years} \ 10 \ \text {months}
+\text {Difference}      &= \text {Helen's date of birth} - \text {Katharine's date of birth} \\\\
+                        &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
+                        &= 5 \ \text {years} \ 10 \ \text {months}
 \end {aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-g0"
 title: "TopicPaper - Algebra - 1 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -737,7 +737,7 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 Let's convert the total amount into pence.

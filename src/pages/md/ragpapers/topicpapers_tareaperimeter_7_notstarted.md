@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-notstarted"
 title: "TopicPaper - Areaperimeter - 7 - NOTSTARTED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2253,7 +2253,7 @@ Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
 
 A quick check shows that $5$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 Width of the rectangle $= 5 \ \text{cm}$ 

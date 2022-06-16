@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-3-g2"
 title: "TopicPaper - Detailedsubtraction - 3 - G2"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -364,7 +364,7 @@ Work out $3.19 - 1.72$.
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2019-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2019 - Arithmetic A"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -296,7 +296,7 @@ Work out $3.19 - 1.72$.
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $
@@ -464,7 +464,7 @@ $101, \quad 86, \quad 74, \quad 65, \quad \ldots, \quad 56$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1406,7 +1406,7 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
@@ -1580,7 +1580,7 @@ This box will have a height of $10 \ \text{cm}$ and a square base. What will be 
 
 Let the length of the base (in $\text{cm}$) $= a$
 
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
 
 As per the question, the two boxes have the same volume. Using that we get,

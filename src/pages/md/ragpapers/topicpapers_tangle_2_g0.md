@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g0"
 title: "TopicPaper - Angle - 2 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -179,10 +179,10 @@ Find the missing angles (diagrams not to scale):
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -210,7 +210,7 @@ $
 </div>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -376,7 +376,7 @@ $x \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As the triangle is an isosceles triangle, the third angle is also $= x$
@@ -513,7 +513,7 @@ One of the angles of an isosceles triangle is $96 \degree$ . Find the sizes of t
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the missing angle $= a$
@@ -614,7 +614,7 @@ Find the value of $𝑥$ in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -706,7 +706,7 @@ Find the value of $𝑥$ in the quadrilateral shown.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a quadrilateral} = 360 \degree$
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
 
 
 As per the diagram,
@@ -803,7 +803,7 @@ Calculate the value of 𝑥 in the triangle shown.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -894,7 +894,7 @@ An equilateral triangle has three sides the same length. What is the size of one
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 All the angles in an equilateral triangle are equal.
@@ -1004,7 +1004,7 @@ Work out the value of $a$ and $b$.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -1013,10 +1013,10 @@ Work out the value of $a$ and $b$.
 *TODO:: Add an image with vertices marked ABCD$*
 
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -1152,7 +1152,7 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -1191,7 +1191,7 @@ $30 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -1292,7 +1292,7 @@ The angles in a triangle always add up to $180 \degree$ . In the triangle shown 
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the question,
@@ -1336,7 +1336,7 @@ $
 
 Alternative Solution
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the question,
@@ -1568,7 +1568,7 @@ In this  triangle angle A  is the   same  as angle B, and   angle C  is twice an
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the question,
@@ -1835,7 +1835,7 @@ Calculate the angles marked with letters on the following diagrams.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -1871,7 +1871,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -1908,10 +1908,10 @@ $96 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -2018,7 +2018,7 @@ Find the missing angle, $x$:
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -2110,7 +2110,7 @@ Find the size of angle $x$:
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As the triangle is an isosceles triangle, the third angle is also $= x$
@@ -2215,7 +2215,7 @@ Calculate the angle marked with the letter $x$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,
@@ -2317,7 +2317,7 @@ Calculate the angle marked with the letter $a$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
  
 
 As per the diagram,

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -197,7 +197,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 We know,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -302,10 +302,10 @@ A floor measures $5 \ \text{m}$ by $4 \ \text{m}$. It is to be covered by rectan
 
 As per the question,
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
     \\\\
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
     \\\\
 
 $

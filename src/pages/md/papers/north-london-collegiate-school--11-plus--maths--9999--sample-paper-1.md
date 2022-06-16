@@ -1,7 +1,7 @@
 ---
 slug: "papers/north-london-collegiate-school-11-plus-maths-9999-sample-paper-1"
 title: "North London Collegiate School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -528,7 +528,7 @@ $37\:\: 34\:\: 31\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -578,7 +578,7 @@ $0.8\:\: 0.4\:\: 0.2\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -626,7 +626,7 @@ $1\:\: 3\:\: 9\:\: 27\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
@@ -1644,7 +1644,7 @@ How many **pages** are in his book?
 
 Let the number of pages $=a$
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 . Let's convert pounds in pence.
 
 As per the question,

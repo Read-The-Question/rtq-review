@@ -1,7 +1,7 @@
 ---
 slug: "papers/alderley-edge-school-for-girls-11-plus-maths-9999-sample-paper-2"
 title: "Alderley Edge School For Girls - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1664,7 +1664,7 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the third angle $= a$
@@ -1758,10 +1758,10 @@ Find the area of a square whose perimeter is $20 \ \text{cm}$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of square} = 4 \times \text{side}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 Let the side of the square (in $\text{cm}$) $= a$
@@ -2059,7 +2059,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 Let the height of the second triangle $= a$.
@@ -2558,7 +2558,7 @@ Use the rules to write the next **two** numbers in each sequence.
 **Rule: Add $8$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -2567,7 +2567,7 @@ $
 **Rule: Multiply by $3$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -2576,7 +2576,7 @@ $
 **Rule: Divide by $4$ then add $11$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -2615,7 +2615,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A sequence of numbers starts like thus: 
+A sequence of numbers starts like thus:
 
 $30 \quad 22 \quad 18$
 
@@ -5215,7 +5215,7 @@ To find the $n \text{th} \text{ triangular number}$, you can use this rule.
 
 $n \text{th} \text{ triangular number} = \dfrac{n}{2}(n + 1)$
 
-Example: 
+Example:
 
 $
 \begin{aligned}

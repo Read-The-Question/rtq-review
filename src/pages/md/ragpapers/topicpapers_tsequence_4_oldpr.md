@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-oldpr"
 title: "TopicPaper - Sequence - 4 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -56,7 +56,7 @@ $-2.0, -1.7, -1.4 , -1.1$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
@@ -108,7 +108,7 @@ $15, 11,  7, 3$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -160,7 +160,7 @@ $0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
@@ -220,7 +220,7 @@ $5, 8 , 13, 20$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -351,7 +351,7 @@ $3, 9, 15, 21, 27, 33, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $6$. Hence, the sequence would be:
@@ -403,7 +403,7 @@ $2, 5, 10, 17, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -451,7 +451,7 @@ $1000, 900, 810, 730, 660, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 Each consecutive term is calculated by multiplying the previous term by $\dfrac{9} {10}$
@@ -585,7 +585,7 @@ $3 \,\,\,\,\, 10 \,\,\,\,\, 17 \,\,\,\,\, 24 \,\,\,\,\, 31$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -686,7 +686,7 @@ $3 \,\,\,\,\, 4 \,\,\,\,\, 6  \,\,\,\,\, 10  \,\,\,\,\, 18$   …  …
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous sequence difference by 2. Hence, the sequence would be:
@@ -739,7 +739,7 @@ $1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  …
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by adding the previous two numbers in sequence. Hence, the sequence would be:
@@ -874,7 +874,7 @@ $1 \,\,\,\,  7 \,\,\,\,  13 \,\,\,\, 19 \,\,\,\, 25$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -925,7 +925,7 @@ $1 \,\,\,\, 2 \,\,\,\, 4 \,\,\,\, 8 \,\,\,\, 16$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -976,7 +976,7 @@ $1 \,\,\,\,\,\,\,\, 4 \,\,\,\, 9 \,\,\,\, 16 \,\,\,\, 25$ ...  ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by adding 2 to the difference in the sequence. Hence, the sequence would be:
@@ -1029,7 +1029,7 @@ $1 \,\,\,\, 2 \,\,\,\, 5 \,\,\,\, 14 \,\,\,\, 41$  ... ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1156,7 +1156,7 @@ $64 \,\,\,\, 69 \,\,\,\, 74 \,\,\,\, 79 \,\,\,\, 84$ ... ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1207,7 +1207,7 @@ $64 \,\,\,\, 49 \,\,\,\, 34 \,\,\,\, 19 \,\,\,\, 4$ ... ...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1435,7 +1435,7 @@ Write down the next two numbers in the following sequences?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
@@ -1485,7 +1485,7 @@ $\dfrac{1}{2}, \dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-6$. Hence, the sequence would be:
@@ -1713,7 +1713,7 @@ $315 \quad 561 \quad 240 \quad 620 \quad 964$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $15$. Hence, the sequence would be:
@@ -1823,7 +1823,7 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $- \dfrac{1}{3}$. 
@@ -1941,7 +1941,7 @@ Which of these is not part of the sequence?
 
 As per the question,
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -2080,7 +2080,7 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
- ABBR: Let's find the difference between the consecutive terms of the sequence.
+ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be

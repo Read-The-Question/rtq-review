@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g0-prcc"
 title: "TopicPaper - Detailedaddition - 1 - G0 - PRCC"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -127,7 +127,7 @@ $4.679 + 2.15 = {?}$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $
@@ -301,7 +301,7 @@ $875.25 + 2.6$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $
@@ -335,7 +335,7 @@ $691.6 - 84.3$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $

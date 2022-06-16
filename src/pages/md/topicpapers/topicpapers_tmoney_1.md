@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-1"
 title: "TopicPaper - Money - 1"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -206,7 +206,7 @@ She spends $\pounds 1.90$ on magazines, $\pounds 2.45$ on a birthday card and $7
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 Let's convert all the expenses into $\text{pence}$.
@@ -3601,7 +3601,7 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 As per the question,
@@ -3690,7 +3690,7 @@ I buy $11$ chocolate bars costing $27 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 As per the question,
@@ -4000,7 +4000,7 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 As per the question,

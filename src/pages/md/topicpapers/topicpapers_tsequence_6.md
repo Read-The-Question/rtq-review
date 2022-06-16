@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-6"
 title: "TopicPaper - Sequence - 6"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -67,7 +67,7 @@ $50\:\:\:42\:\:\:34\:\:\:\Box\:\:\:18$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $8$. Hence, the sequence would be:
@@ -115,7 +115,7 @@ $2.302\:\:\:2.304\:\:\:2.306\:\:\:2.308\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.002$. Hence, the sequence would be:
@@ -163,7 +163,7 @@ $4\:\:\:7\:\:\:13\:\:\:25\:\:\:49\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -212,7 +212,7 @@ $100\:\:\:81\:\:\:64\:\:\:49\:\:\:36\:\:\:\Box$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -260,7 +260,7 @@ $\Box\:\:\:3.5\:\:\:7\:\:\:14\:\:\:28$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $

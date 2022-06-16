@@ -1,7 +1,7 @@
 ---
 slug: "papers/colfes-school-11-plus-maths-9999-sample-paper"
 title: "Colfes School - 11 Plus - Maths - 9999 - Sample Paper"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -601,7 +601,7 @@ Work out $3.45 + 11.01 + 2.3$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $
@@ -1245,7 +1245,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -1301,7 +1301,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-9$. Hence, the sequence would be:

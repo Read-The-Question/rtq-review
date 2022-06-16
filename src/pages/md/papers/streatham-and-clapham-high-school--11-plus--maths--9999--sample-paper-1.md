@@ -1,7 +1,7 @@
 ---
 slug: "papers/streatham-and-clapham-high-school-11-plus-maths-9999-sample-paper-1"
 title: "Streatham And Clapham High School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -243,7 +243,7 @@ Calculate the area of the rectangle.
 
 As per the question,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 $
@@ -542,7 +542,7 @@ Calculate the angle marked with the letter $a$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
  
 
 As per the diagram,
@@ -1300,7 +1300,7 @@ Convert $340 \ \text{millimetres}$ to metres.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 
 $
@@ -1560,7 +1560,8 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
- Let's find the difference between the consecutive terms of the sequence.
+ ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be
 
@@ -1814,7 +1815,7 @@ Pens cost $35 \text{p}$ each. How much money will a box of $25$ pens cost?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 
 As per the question,
@@ -4437,7 +4438,7 @@ The perimeter of this outer square shape
 
 As per the question,
 
-$\text{Perimeter} = 4 \times \text{side})$
+ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
 
 $

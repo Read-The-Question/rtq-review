@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-1-oldpr"
 title: "TopicPaper - Algebra - 1 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -215,7 +215,7 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total weight into $\text{grams}$.
 
 $
@@ -425,7 +425,7 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total water into $\text{ml}$.
 
 $
@@ -529,7 +529,7 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\text{pence}$.
 
 As per the question,

@@ -1,7 +1,7 @@
 ---
 slug: "papers/king-henry-viii-school-11-plus-maths-9999-sample-paper-1"
 title: "King Henry Viii School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -896,7 +896,7 @@ Calculate $5.221 + 5.8$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $

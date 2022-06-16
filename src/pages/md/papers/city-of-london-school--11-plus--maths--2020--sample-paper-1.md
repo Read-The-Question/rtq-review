@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-school-11-plus-maths-2020-sample-paper-1"
 title: "City Of London School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1281,7 +1281,7 @@ Calculate the size of the missing angle in this triangle. The diagram is **not**
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the missing angle $= a$

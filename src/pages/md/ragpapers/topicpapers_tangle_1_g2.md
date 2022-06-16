@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -39,7 +39,7 @@ Calculate the missing angle in this isosceles triangle.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the missing angle $= a$
@@ -142,7 +142,7 @@ What is the value of the missing angle?
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 Let the missing angle $= a$
@@ -238,7 +238,7 @@ Work out the angle marked ?.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -247,10 +247,10 @@ Work out the angle marked ?.
 *TODO:: Add an image with vertices marked ABCD. The smaller trialge is ABD and the bigger one is ABC.*
 
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram, the triangle $ABD$ is an isosceles triangle.
@@ -410,7 +410,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -502,7 +502,7 @@ Two angles of a triangle are $49 \degree$ and $52 \degree$. What is the third an
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the third angle $= a$
@@ -602,7 +602,7 @@ Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third an
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the third angle $= a$
@@ -707,10 +707,10 @@ Find the missing angles $a \degree$ and $b \degree$ :
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,

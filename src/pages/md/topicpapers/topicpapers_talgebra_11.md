@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-11"
 title: "TopicPaper - Algebra - 11"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -90,7 +90,7 @@ Factor pairs of $84$ that are smaller than $20 = 6, 14 \ \text {and} \ 7, 12$
 
 A quick check shows that $6$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 The two numbers which Winston thinks $= 6,14$

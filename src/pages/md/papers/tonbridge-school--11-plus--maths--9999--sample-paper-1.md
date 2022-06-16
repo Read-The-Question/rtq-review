@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-11-plus-maths-9999-sample-paper-1"
 title: "Tonbridge School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1774,7 +1774,8 @@ $2,\:\: 4,\:\: 7,\:\: 11,\:\: …\:\: …$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1823,7 +1824,8 @@ $\frac {2} {3},\:\: 2,\:\: 6,\:\: 18,\:\: …\:\: ….$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}

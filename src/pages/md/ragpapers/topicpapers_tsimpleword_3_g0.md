@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-3-g0"
 title: "TopicPaper - Simpleword - 3 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -602,7 +602,7 @@ A length of rope is $5 \ \text{m}$ long. It is cut into four unequal lengths. Th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 $
@@ -777,7 +777,7 @@ What is their total mass, give your answer in grams.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the masses into $\text{g}$.
 
 $

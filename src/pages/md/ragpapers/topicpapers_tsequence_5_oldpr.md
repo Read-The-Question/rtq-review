@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-oldpr"
 title: "TopicPaper - Sequence - 5 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,7 +35,7 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -408,7 +408,7 @@ $11,\:\:\:15,\:\:\:19,\:\:\:23,\:\:\:………$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -456,7 +456,7 @@ $17,\:\:\:12,\:\:\:7,\:\:\:2,\:\:\: ………$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $5$. Hence, the sequence would be:
@@ -504,7 +504,7 @@ $2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
@@ -632,7 +632,7 @@ $2,\:\: 4,\:\: 7,\:\: 11,\:\: …\:\: …$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -682,7 +682,7 @@ $\frac {2} {3},\:\: 2,\:\: 6,\:\: 18,\:\: …\:\: ….$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $

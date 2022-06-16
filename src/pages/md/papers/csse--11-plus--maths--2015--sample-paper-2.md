@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2015-sample-paper-2"
 title: "Csse - 11 Plus - Maths - 2015 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2882,7 +2882,7 @@ $112$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$. 
+The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
 
 What is the $24 \text{th}$ number?
 

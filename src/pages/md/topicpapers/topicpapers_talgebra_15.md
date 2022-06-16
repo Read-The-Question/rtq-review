@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-15"
 title: "TopicPaper - Algebra - 15"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2038,7 +2038,7 @@ $10 \text{p}$ coins $= 2a$
 
 $5 \text{p}$ coins $= 4a$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total amount into pence.
 
 $
@@ -2812,7 +2812,7 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
@@ -3047,7 +3047,7 @@ What is its length if the volume of a cuboid is given by length x width x height
 
 Let the length of the second cuboid (in $\text{cm}$) $= l$
 
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
 
 As per the question, the two weights have the same volume. Using that we get,
@@ -3152,7 +3152,7 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total amount into pence.
 
 As per the question,
@@ -4926,7 +4926,7 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert both the costs into pence.
 
 As per the question,

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-b"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper B"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -458,7 +458,8 @@ $22, \quad 29, \quad 36, \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $7$. Hence, the sequence would be:
 
@@ -514,7 +515,8 @@ $3, \quad 6, \quad 12, \quad \text{\textunderscore \textunderscore \textundersco
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
 
@@ -628,7 +630,7 @@ Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps th
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $

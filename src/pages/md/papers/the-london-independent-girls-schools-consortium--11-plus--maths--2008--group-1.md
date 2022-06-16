@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2008-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2008 - Group 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -629,7 +629,7 @@ What is the difference, in cm, between $3.2 \ \text{metres}$ and $30 \ \text{cm}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $
@@ -795,7 +795,7 @@ $5,  \quad 6\dfrac{1}{2}, \quad 8, \quad 9\dfrac{1}{2}, \quad \ldots, \quad \ldo
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $1 \dfrac{1}{2}$. Hence, the sequence would be:

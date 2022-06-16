@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-1"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2399,7 +2399,7 @@ What is the maximum number of stickers I can fit on the wall?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the question,

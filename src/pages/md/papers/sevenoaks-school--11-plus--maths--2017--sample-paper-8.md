@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2017-sample-paper-8"
 title: "Sevenoaks School - 11 Plus - Maths - 2017 - Sample Paper 8"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -401,7 +401,7 @@ $-2.0, -1.7, -1.4 , -1.1$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $0.3$. Hence, the sequence would be:
@@ -453,7 +453,7 @@ $15, 11,  7, 3$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -505,7 +505,7 @@ $0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\dfrac {3} {5}$. Hence, the sequence would be:
@@ -565,7 +565,7 @@ $5, 8 , 13, 20$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1967,7 +1967,7 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -2006,7 +2006,7 @@ $30 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,

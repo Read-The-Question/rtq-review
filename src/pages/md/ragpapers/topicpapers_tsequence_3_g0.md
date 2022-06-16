@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-g0"
 title: "TopicPaper - Sequence - 3 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -33,7 +33,7 @@ Write down the next fraction in the sequence: $\dfrac{5}{8}, \quad \dfrac{10}{16
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -153,7 +153,7 @@ $10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $3$. Hence, the sequence would be:
@@ -207,7 +207,7 @@ $29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be:
@@ -263,7 +263,7 @@ $1,\:\: -2,\:\: 4,\:\: -8,\:\:\:\:\:\: 64,\:\: -128$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
@@ -397,7 +397,7 @@ $28,\ 25,\ 22,\    13,\ 10.$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -451,7 +451,7 @@ $3,\ 4,\ 6,\ 9,\ 13,  31$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -499,7 +499,7 @@ $5,\ -10,\ 20,  -160,\ 320$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $-2$. Hence, the sequence would be:
@@ -724,7 +724,7 @@ $7, 14, 21, 28,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -776,7 +776,7 @@ $3, 6, 12, 24,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -828,7 +828,7 @@ $50, 41, 33, 26,$ _______, _______.
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1102,7 +1102,7 @@ $3, 6, 9, 12,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -1154,7 +1154,7 @@ $2, 7, 12, 17,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $5$. Hence, the sequence would be:
@@ -1206,7 +1206,7 @@ $1, 4, 9, 16,$ ____, _____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1258,7 +1258,7 @@ $29, 23, 18, 14, 11,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1386,7 +1386,7 @@ $10, \quad 13, \quad 16, \quad 19, \quad 22, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -1440,7 +1440,7 @@ $60, \quad 59, \quad 57, \quad 54, \quad 50, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1492,7 +1492,7 @@ $1, \quad 2, \quad 6, \quad 24, \quad 120, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -1621,7 +1621,7 @@ $5, \quad 12, \quad 19, \quad 26, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -1673,7 +1673,7 @@ $11, \quad 8, \quad 5, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -1725,7 +1725,7 @@ $2, \quad 6, \quad 18, \quad 54, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
@@ -1853,7 +1853,7 @@ $7, \quad 9, \quad 11, \quad 13, \quad 15,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -1903,7 +1903,7 @@ $-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-4$. Hence, the sequence would be:
@@ -1951,7 +1951,7 @@ $1, \quad 8, \quad 27, \quad 64,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -2075,7 +2075,7 @@ $5, \quad 11, \quad 17, \quad 23, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $6$. Hence, the sequence would be:
@@ -2127,7 +2127,7 @@ $10, \quad 7, \quad 4, \quad 1, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -2179,7 +2179,7 @@ $2, \quad 8, \quad 32, \quad 128, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $4$. Hence, the sequence would be:
@@ -2307,7 +2307,7 @@ $37\:\: 34\:\: 31\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-3$. Hence, the sequence would be:
@@ -2357,7 +2357,7 @@ $0.8\:\: 0.4\:\: 0.2\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -2405,7 +2405,7 @@ $1\:\: 3\:\: 9\:\: 27\:\: .....\:\: .....$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
@@ -2533,7 +2533,7 @@ $4, \quad 10, \quad 16, \quad 22, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $+6$. Hence, the sequence would be:
@@ -2634,7 +2634,7 @@ $12, \quad 7, \quad 2, \quad -3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-5$. Hence, the sequence would be:
@@ -2941,7 +2941,7 @@ $5, 8, 11, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -2991,7 +2991,7 @@ $4, 8, 16, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -3041,7 +3041,7 @@ $100, 90, 80, \ldots, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-10$. Hence, the sequence would be:
@@ -3167,7 +3167,7 @@ $1, 3, 5, \text{\textunderscore \textunderscore \textunderscore}, \text{\textund
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:

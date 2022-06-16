@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-1"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -819,7 +819,8 @@ $3 \,\,\,\,\, 10 \,\,\,\,\, 17 \,\,\,\,\, 24 \,\,\,\,\, 31$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -919,7 +920,8 @@ $3 \,\,\,\,\, 4 \,\,\,\,\, 6  \,\,\,\,\, 10  \,\,\,\,\, 18$   …  …
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by multiplying the previous sequence difference by 2. Hence, the sequence would be:
 
@@ -971,7 +973,8 @@ $1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  …
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by adding the previous two numbers in sequence. Hence, the sequence would be:
 

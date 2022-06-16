@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2018-sample-paper-3"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2018 - Sample Paper 3"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1694,7 +1694,7 @@ If two angles of a triangle are $36 \degree$ and $22 \degree$, what is the size 
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the size of the third angle $= a$
@@ -2789,7 +2789,7 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.

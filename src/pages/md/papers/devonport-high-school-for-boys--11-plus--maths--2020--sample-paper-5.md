@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2020-sample-paper-5"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2020 - Sample Paper 5"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -667,7 +667,7 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $
@@ -839,7 +839,7 @@ $47, 40, 33, 26, \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $7$. Hence, the sequence would be:
@@ -2133,7 +2133,7 @@ $4.679 + 2.15 = {?}$
 <div class='workings'>
 <div class='working'>
 
-Remember to line up the decimal points.
+ABBR: Remember to line up the decimal points.
 
 
 $
@@ -2529,7 +2529,7 @@ How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 As per the question,
@@ -2852,7 +2852,7 @@ How many slabs will he need?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-g0"
 title: "TopicPaper - Areaperimeter - 5 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -676,7 +676,7 @@ As per the question,
 
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $

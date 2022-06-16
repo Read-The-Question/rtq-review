@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2017-sample-paper-3"
 title: "Bancrofts School - 11 Plus - Maths - 2017 - Sample Paper 3"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1764,9 +1764,9 @@ talgebra
 <div class='question question'>
 
 A sequence of numbers is formed by always adding the same number
-to get the next number in the sequence. 
+to get the next number in the sequence.
 
-The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$. 
+The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$.
 
 What is the $12 \text{th}$ number?
 

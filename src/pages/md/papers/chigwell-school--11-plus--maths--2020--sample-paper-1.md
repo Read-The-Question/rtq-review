@@ -1,7 +1,7 @@
 ---
 slug: "papers/chigwell-school-11-plus-maths-2020-sample-paper-1"
 title: "Chigwell School - 11 Plus - Maths - 2020 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1109,7 +1109,6 @@ What is the difference between Liam's $50 \text{th}$ number and Louise's $50 \te
 <div class='workings'>
 <div class='working'>
 
- 
 Let Liam's $50 \text{th}$ number $= a$.
 
 Let Louise's $50 \text{th}$ number $= b$.

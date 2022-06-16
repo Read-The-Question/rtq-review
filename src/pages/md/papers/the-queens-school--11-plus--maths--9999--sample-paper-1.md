@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-queens-school-11-plus-maths-9999-sample-paper-1"
 title: "The Queens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -571,7 +571,8 @@ $11,\:\:\:15,\:\:\:19,\:\:\:23,\:\:\:………$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
@@ -618,7 +619,8 @@ $17,\:\:\:12,\:\:\:7,\:\:\:2,\:\:\: ………$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $5$. Hence, the sequence would be:
 
@@ -665,7 +667,8 @@ $2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2531,7 +2531,7 @@ Let the cost of a bottle of water (in pence) $= w$
 
 Let the cost of a bag of fruit (in pence) $= f$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 The cost is given in pounds and pence. Let's convert all the costs into pence.
@@ -2705,7 +2705,7 @@ This box will have a height of $10 \ \text{cm}$ and a square base. What will be 
 
 Let the length of the base (in $\text{cm}$) $= a$
 
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
 
 As per the question, the two boxes have the same volume. Using that we get,

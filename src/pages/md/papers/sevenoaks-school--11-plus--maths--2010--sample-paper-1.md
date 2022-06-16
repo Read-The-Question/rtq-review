@@ -1,7 +1,7 @@
 ---
 slug: "papers/sevenoaks-school-11-plus-maths-2010-sample-paper-1"
 title: "Sevenoaks School - 11 Plus - Maths - 2010 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1569,7 +1569,7 @@ Work out the value of $a$ and $b$.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -1578,10 +1578,10 @@ Work out the value of $a$ and $b$.
 *TODO:: Add an image with vertices marked ABCD$*
 
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram,

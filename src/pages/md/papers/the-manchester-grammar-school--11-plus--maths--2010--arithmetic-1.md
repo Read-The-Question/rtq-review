@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2010-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2010 - Arithmetic 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -826,7 +826,7 @@ Adam ran $3 \ \text{kilometres}$ in $13 \ \text{minutes}$. Jackie started $30 \ 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The time is given in minutes and seconds and the final speed has to be in kilometres per hour.
 
 Distance $= 3 \ \text{km}$
@@ -1241,7 +1241,7 @@ $1 \ \text{cm}$ on a map represents a distance of $2 \ \text{km}$ on the ground.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The distance is given in kilometres, but the answer has to be in metres.
 
 $
@@ -1426,7 +1426,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 The wall measurement is given in feet while the tile measurement is given in inches.
 

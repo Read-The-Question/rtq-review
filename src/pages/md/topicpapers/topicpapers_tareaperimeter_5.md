@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1631,7 +1631,7 @@ The Floor measurement is given in metres while the tile measurement is given in 
 
 Let's convert the wall measurements into $\text{cm}$.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -2278,7 +2278,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -3411,7 +3411,7 @@ Find the area of the triangle
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 $
@@ -3525,7 +3525,7 @@ As per the question,
 
 The area of the shaded shape $=$ Area of rectangle + $2 \times$ Area of triangle. 
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -4248,7 +4248,7 @@ Calculate the area of the rectangle.
 
 As per the question,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 $
@@ -4643,7 +4643,7 @@ The perimeter of this outer square shape
 
 As per the question,
 
-$\text{Perimeter} = 4 \times \text{side})$
+ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
 
 $

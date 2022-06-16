@@ -1,7 +1,7 @@
 ---
 slug: "papers/solihull-school-11-plus-maths-9999-sample-paper-2"
 title: "Solihull School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1637,7 +1637,8 @@ $5, 9, 13, 17, 21, \text{\textunderscore \textunderscore \textunderscore}, \text
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
@@ -1686,7 +1687,8 @@ $14, 13, 11, 8, 4, \text{\textunderscore \textunderscore \textunderscore}, \text
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1733,7 +1735,8 @@ $3, 5, 9, 17, 33, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by multiplying the previous term by $2$ and subtracted by $1$.
 
@@ -1784,7 +1787,8 @@ $1, 4, 9, 16, 25, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1831,7 +1835,8 @@ $32, 16, 8, 4, 2, \text{\textunderscore \textunderscore \textunderscore}, \text{
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by dividing the previous term by $2$
 
@@ -1881,7 +1886,8 @@ $2, 3, 5, 8, 13, \text{\textunderscore \textunderscore \textunderscore}, \text{\
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 Each consecutive term is calculated by adding it to the previous term.
 
@@ -3786,7 +3792,7 @@ The Floor measurement is given in metres while the tile measurement is given in 
 
 Let's convert the wall measurements into $\text{cm}$.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $

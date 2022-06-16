@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-2"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -994,7 +994,7 @@ What is the value of the missing angle?
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 Let the missing angle $= a$
@@ -1101,7 +1101,7 @@ Work out the weight of one small can.
 
 Let the weight of a small can (in $\text{grams}$) $= w$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total weight into $\text{grams}$.
 
 $
@@ -1897,7 +1897,7 @@ Estimate the size of angle $r$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 The acute angle is approximately $60 \degree$.
@@ -2106,7 +2106,7 @@ A} space in blue answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
 </div>
@@ -2114,10 +2114,10 @@ A} space in blue answer
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2128,7 +2128,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the missing numbers in the sequences below. 
+Fill in the missing numbers in the sequences below.
 
 </div>
 <div class='workings'>
@@ -2156,21 +2156,21 @@ $-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $5$. Hence, the sequence would be:
+The next term is calculated by adding $5$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+5)}} 
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}   
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}   
+{(+5)}}
 &&  \footnotesize{\maroonC
 {(+5)}}  \\
 -8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
@@ -2191,7 +2191,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12, 17$
+$12$
+
+</div>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -2208,21 +2213,21 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
+The next term is calculated by subtracting $8$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-8)}} 
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}  
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
 {(-8)}}  \\
 61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
@@ -2243,7 +2248,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45, 29$
+$45$
+
+</div>
+<div class='answer'>
+
+$29$
 
 </div>
 </div>
@@ -2260,7 +2270,7 @@ $240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
@@ -2268,13 +2278,13 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(\div 2)}} 
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}  
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}   
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}   
+{(\div 2)}}
 &&  \footnotesize{\maroonC
 {(\div 2)}}  \\
 240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
@@ -2295,7 +2305,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60, 7.5$
+$60$
+
+</div>
+<div class='answer'>
+
+$7.5$
 
 </div>
 </div>
@@ -2307,26 +2322,26 @@ $60, 7.5$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' id='FORM-E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' id='FORM-E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2459,7 +2474,7 @@ How many $200 \ \text{ml}$ glasses of water can it fill before it needs replacin
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total water into $\text{ml}$.
 
 $
@@ -2652,7 +2667,7 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 Width of the rectangle $= 4 \ \text{cm}$ 
@@ -3086,7 +3101,7 @@ Let the cost of an apple (in $\text{pence}$) $= a$
 
 Let the cost of a banana (in $\text{pence}$) $= b$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\text{pence}$.
 
 As per the question,

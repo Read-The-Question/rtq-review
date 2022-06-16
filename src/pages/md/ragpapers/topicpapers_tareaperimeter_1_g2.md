@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-g2"
 title: "TopicPaper - Areaperimeter - 1 - G2"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -41,10 +41,10 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the question,
@@ -163,10 +163,10 @@ How many tiles will I need?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 The wall measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
 
@@ -303,14 +303,14 @@ Find the perimeter of the shape below.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
 
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.*
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
 As per the diagram,
@@ -399,10 +399,10 @@ Find the area of a square whose perimeter is $20 \ \text{cm}$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Perimeter of square} = 4 \times \text{side}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 Let the side of the square (in $\text{cm}$) $= a$
@@ -507,7 +507,7 @@ What is the maximum number of stickers I can fit on the wall?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the question,
@@ -605,10 +605,10 @@ What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
-$\text{Perimeter of square} = 4 \times \text{side}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
 
 Let the side of the square (in $\text{cm}$) $= a$
@@ -715,7 +715,7 @@ How many paving stones does he need to pave his garden?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the question,
@@ -830,13 +830,13 @@ Calculate the area of the shape below:
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -844,7 +844,7 @@ $\text{Area of square} = \text{side} \times \text{side}$
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the two missing sides are 11 and 4.*
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
 As per the diagram, the shape can be divided into a rectangle and a square.
@@ -991,10 +991,10 @@ Calculate the size of the area left when a square side length $2 \ \text{metres}
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 $

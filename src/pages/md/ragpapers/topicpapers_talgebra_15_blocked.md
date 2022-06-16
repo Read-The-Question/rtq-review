@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-blocked"
 title: "TopicPaper - Algebra - 15 - BLOCKED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -46,7 +46,7 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert both the costs into pence.
 
 As per the question,

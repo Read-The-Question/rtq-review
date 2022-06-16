@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-7"
 title: "TopicPaper - Areaperimeter - 7"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -343,7 +343,7 @@ What area of red card is showing?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -2476,7 +2476,7 @@ each side. How many tiles does he need to tile the wall?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 The wall measurement is given in feet while the tile measurement is given in inches.
 
@@ -2857,7 +2857,7 @@ $a \times (a + 1) = 72$
 
 This is a quadratic equation and we can infer the value for $a$ by looking at the factors for $72$.
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 $
@@ -3712,7 +3712,7 @@ Length of the rectangle $= a$
 
 Width of the rectangle $= \dfrac {a} { 2 }$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
 
 Let's equate the perimeter to the length and width we get,
@@ -4446,7 +4446,7 @@ Factors of $70 = 1, 2, 5, 7, 10, 14, 35, 70$
 
 A quick check shows that $5$ and $14$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 Width of the rectangle $= 5 \ \text{cm}$ 

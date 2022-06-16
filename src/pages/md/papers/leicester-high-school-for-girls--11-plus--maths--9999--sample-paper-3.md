@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-3"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -514,7 +514,7 @@ Find the length of the side of the square.
 
 Let the side of the square $=a$
 
-$\text{Perimeter} = 4 \times \text{side})$
+ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
 
 $
@@ -549,7 +549,7 @@ Calculate the $\text{AREA}$ of the square.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{side} \times \text{side}$
+ABBR: $\text{Area} = \text{side} \times \text{side}$
 
 
 $
@@ -993,7 +993,7 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 . Let's convert pence into pounds.
 
 $\pounds 1 = 100 \text{p}$
@@ -2159,7 +2159,7 @@ $3, 6, 9, 12,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $3$. Hence, the sequence would be:
@@ -2211,7 +2211,7 @@ $2, 7, 12, 17,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $5$. Hence, the sequence would be:
@@ -2263,7 +2263,7 @@ $1, 4, 9, 16,$ ____, _____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
@@ -2315,7 +2315,7 @@ $29, 23, 18, 14, 11,$ ____, ____
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $

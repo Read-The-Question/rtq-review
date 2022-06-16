@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-notstarted"
 title: "TopicPaper - Sequence - 1 - NOTSTARTED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -66,7 +66,7 @@ Use the rules to write the next **two** numbers in each sequence.
 **Rule: Add $8$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -75,7 +75,7 @@ $
 **Rule: Multiply by $3$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -84,7 +84,7 @@ $
 **Rule: Divide by $4$ then add $11$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -123,7 +123,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A sequence of numbers starts like thus: 
+A sequence of numbers starts like thus:
 
 $30 \quad 22 \quad 18$
 
@@ -190,7 +190,7 @@ To find the $n \text{th} \text{ triangular number}$, you can use this rule.
 
 $n \text{th} \text{ triangular number} = \dfrac{n}{2}(n + 1)$
 
-Example: 
+Example:
 
 $
 \begin{aligned}
@@ -909,7 +909,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Here is a part of a number line. Write the two missing numbers in the boxes. 
+Here is a part of a number line. Write the two missing numbers in the boxes.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -1263,9 +1263,9 @@ talgebra
 <div class='question question'>
 
 A sequence of numbers is formed by always adding the same number
-to get the next number in the sequence. 
+to get the next number in the sequence.
 
-The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$. 
+The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$.
 
 What is the $12 \text{th}$ number?
 
@@ -1446,7 +1446,7 @@ tsequence
 
 I write down a sequence of numbers.
 
-My first number is $160000$ and then I divide by $4$ to get the next number each time. 
+My first number is $160000$ and then I divide by $4$ to get the next number each time.
 What is the $5 \text{th}$ number in my sequence?
 
 </div>
@@ -1501,7 +1501,7 @@ tsequence
 </div>
 <div class='question question'>
 
-A pattern that repeats every six symbols starts like ths: 
+A pattern that repeats every six symbols starts like ths:
 
 %waffles%
 
@@ -1628,7 +1628,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Ben made a stack of identical cans with $6$ on the bottom 
+Ben made a stack of identical cans with $6$ on the bottom
 row, $5$ above that, then $4$, then $3$, then $2$, then $1$ on top.
 
 Jamal makes a stack twice as high.
@@ -1709,7 +1709,7 @@ tsequence
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Here are the first six terms of a number sequence. 
+Here are the first six terms of a number sequence.
 
 $11, \quad 14, \quad 17, \quad 20, \quad 23, \quad 26$
 
@@ -1747,11 +1747,11 @@ $50$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The rule to get the next term in a sequence is: 
+The rule to get the next term in a sequence is:
 
 **“add the previous two terms together”**
 
-The fourth term is $7$ and the fifth term is $11$. 
+The fourth term is $7$ and the fifth term is $11$.
 
 What are the first two terms of the sequence?
 
@@ -1984,7 +1984,7 @@ Draw pattern $4$ in the space below.
 Fill in this table:
 
 ![missing table](/papers/missing_table.svg)
- 
+
 
 </div>
 <div class='workings'>
@@ -2213,7 +2213,7 @@ tsequence
 </div>
 <div class='question question'>
 
-If the name KATHRYN is written over and over again like this: 
+If the name KATHRYN is written over and over again like this:
 
 KATHRYNKATHRYNKA...
 
@@ -2560,13 +2560,13 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the next two numbers in the following sequence: 
+Fill in the next two numbers in the following sequence:
 
 $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 
--  $38, 47$ 
--  $37, 45$ 
--  $37, 46$ 
+-  $38, 47$
+-  $37, 45$
+-  $37, 46$
 -  $38, 46$
 
 </div>
@@ -2576,9 +2576,9 @@ $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 $
 \begin{matrix}
 &&  \footnotesize{\maroonC
-{(+8)}}  
+{(+8)}}
 &&  \footnotesize{\maroonC
-{(+8)}}   
+{(+8)}}
 &&  \footnotesize{\maroonC
 {(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
@@ -2590,7 +2590,7 @@ $
 \text{First Missing number}     &= 29 + 8 \\\\
                                 &= 37 \\\\
 \text{Second Missing number}    &= 37 + 8 \\\\
-                                &= 45                      
+                                &= 45
 \end{aligned}
 $
 
@@ -2613,7 +2613,7 @@ $37 , \45$
 
 Describe how you completed the problem:
 
--   Multiply by $2$ then add $2$ 
+-   Multiply by $2$ then add $2$
 -   Plus $9$
 -   Plus $8$
 -   Multiply by $3$ then subtract $1$
@@ -2673,7 +2673,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the next two numbers in the following sequence: 
+Fill in the next two numbers in the following sequence:
 5, 13, 21, 29, ....., .....
 
 - 38,47
@@ -2695,9 +2695,9 @@ Describe how you completed the problem:
 $
 \begin{matrix}
 &&  \footnotesize{\maroonC
-{(+8)}}  
+{(+8)}}
 &&  \footnotesize{\maroonC
-{(+8)}}    
+{(+8)}}
 &&  \footnotesize{\maroonC
 {(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
@@ -2709,7 +2709,7 @@ $
 \text{First Missing number}     &= 29 + 8 \\\\
                                 &= 37 \\\\
 \text{Second Missing number}    &= 37 + 8 \\\\
-                                &= 45 \\\\                      
+                                &= 45 \\\\
 \end{aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-4"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -466,7 +466,7 @@ She spends $\pounds 1.90$ on magazines, $\pounds 2.45$ on a birthday card and $7
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 Let's convert all the expenses into $\text{pence}$.
@@ -1515,7 +1515,7 @@ $\text {Hannah}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>69DF6F66-1121-4766-9A63-B20D699A29B5</p>
 </div>
@@ -1523,10 +1523,10 @@ $\text {Hannah}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1565,10 +1565,10 @@ $-3 \quad 1 \quad 5 \quad 9 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -1600,7 +1600,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13, 17$
+$13$
+
+</div>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -1617,10 +1622,10 @@ $32 \quad 26 \quad  \ldots \quad  14 \quad  \ldots \quad 2$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $6$. Hence, the sequence would be:
+The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -1652,7 +1657,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20, 8$
+$20$
+
+</div>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -1669,7 +1679,7 @@ $3 \quad 6 \quad 12 \quad \ldots \quad 48 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -1704,7 +1714,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24, 96$
+$24$
+
+</div>
+<div class='answer'>
+
+$96$
 
 </div>
 </div>
@@ -1721,14 +1736,14 @@ $1 \quad 4 \quad \ldots \quad 16 \quad 25 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 It is a sequence of square numbers.
 
 $
 \begin {matrix}
-$   \footnotesize{\maroonC
+    \footnotesize{\maroonC
 {(1^2)}}
 &&  \footnotesize{\maroonC
 {(2^2)}}
@@ -1737,9 +1752,9 @@ $   \footnotesize{\maroonC
 &&  \footnotesize{\maroonC
 {(4^2)}}
 &&  \footnotesize{\maroonC
-{(5^2)}}  \\
+{(5^2)}}
 &&  \footnotesize{\maroonC
-{(6^2)}}  \\
+{(6^2)}}  \\\\
 1, && 4, && \ldots, && 16, && 25, && \ldots
 \end {matrix}
 $
@@ -1758,7 +1773,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9, 36$
+$9$
+
+</div>
+<div class='answer'>
+
+$36$
 
 </div>
 </div>
@@ -1770,26 +1790,26 @@ $9, 36$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' id='FORM-69DF6F66-1121-4766-9A63-B20D699A29B5' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' id='FORM-69DF6F66-1121-4766-9A63-B20D699A29B5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1879,7 +1899,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -2216,7 +2236,7 @@ If the probability of it raining tomorrow is $0.08$, what is the probability of 
 <div class='workings'>
 <div class='working'>
 
-Probabilities ALWAYS add up to 1.
+ABBR: Probabilities ALWAYS add up to $1$.
 
 
 $
@@ -2797,7 +2817,7 @@ Given that she had plenty of all the other ingredients, how many cupcakes can sh
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 $
@@ -3186,14 +3206,14 @@ Find the perimeter of the shape below.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
 
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown.*
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
 As per the diagram,

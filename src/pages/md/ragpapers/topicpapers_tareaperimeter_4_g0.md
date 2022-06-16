@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -65,7 +65,7 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -77,7 +77,7 @@ $
 \end{aligned}
 $
 
-$\text{Area} = \text{side} \times \text{side}$
+ABBR: $\text{Area} = \text{side} \times \text{side}$
 
 
 Let the side of square $= s$
@@ -1342,7 +1342,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 We know,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,

@@ -1,7 +1,7 @@
 ---
 slug: "papers/city-of-london-freemens-school-11-plus-maths-9999-sample-paper-1"
 title: "City Of London Freemens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -646,13 +646,13 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the next two numbers in the following sequence: 
+Fill in the next two numbers in the following sequence:
 
 $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 
--  $38, 47$ 
--  $37, 45$ 
--  $37, 46$ 
+-  $38, 47$
+-  $37, 45$
+-  $37, 46$
 -  $38, 46$
 
 </div>
@@ -662,9 +662,9 @@ $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 $
 \begin{matrix}
 &&  \footnotesize{\maroonC
-{(+8)}}  
+{(+8)}}
 &&  \footnotesize{\maroonC
-{(+8)}}   
+{(+8)}}
 &&  \footnotesize{\maroonC
 {(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
@@ -676,7 +676,7 @@ $
 \text{First Missing number}     &= 29 + 8 \\\\
                                 &= 37 \\\\
 \text{Second Missing number}    &= 37 + 8 \\\\
-                                &= 45                      
+                                &= 45
 \end{aligned}
 $
 
@@ -699,7 +699,7 @@ $37 , \45$
 
 Describe how you completed the problem:
 
--   Multiply by $2$ then add $2$ 
+-   Multiply by $2$ then add $2$
 -   Plus $9$
 -   Plus $8$
 -   Multiply by $3$ then subtract $1$
@@ -1605,10 +1605,10 @@ Find the missing angles $a \degree$ and $b \degree$ :
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,

@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2018-sample-paper-4"
 title: "Bancrofts School - 11 Plus - Maths - 2018 - Sample Paper 4"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1600,7 +1600,7 @@ tsequence
 
 I write down a sequence of numbers.
 
-My first number is $160000$ and then I divide by $4$ to get the next number each time. 
+My first number is $160000$ and then I divide by $4$ to get the next number each time.
 What is the $5 \text{th}$ number in my sequence?
 
 </div>
@@ -1655,7 +1655,7 @@ tsequence
 </div>
 <div class='question question'>
 
-A pattern that repeats every six symbols starts like ths: 
+A pattern that repeats every six symbols starts like ths:
 
 %waffles%
 
@@ -1782,7 +1782,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Ben made a stack of identical cans with $6$ on the bottom 
+Ben made a stack of identical cans with $6$ on the bottom
 row, $5$ above that, then $4$, then $3$, then $2$, then $1$ on top.
 
 Jamal makes a stack twice as high.

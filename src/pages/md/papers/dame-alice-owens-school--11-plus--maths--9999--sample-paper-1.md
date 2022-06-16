@@ -1,7 +1,7 @@
 ---
 slug: "papers/dame-alice-owens-school-11-plus-maths-9999-sample-paper-1"
 title: "Dame Alice Owens School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -903,7 +903,7 @@ Estimate the area of this triangle
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the diagram,
@@ -1063,7 +1063,7 @@ I cook rice for four people. I use $60 \ \text{grams}$ per person. How much, in 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .  The weight measurements are given in both kilograms and grams.
 
 $
@@ -1624,7 +1624,7 @@ What is the next number in the pattern?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -1632,13 +1632,13 @@ The difference between the terms is $4$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+4)}} 
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}  
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}   
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}   
+ {(+4)}}
 &&  \footnotesize {\maroonC
  {(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots

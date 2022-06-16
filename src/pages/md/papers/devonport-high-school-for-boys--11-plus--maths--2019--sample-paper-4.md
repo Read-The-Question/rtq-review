@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2019-sample-paper-4"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2019 - Sample Paper 4"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1207,7 +1207,7 @@ $871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunde
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $77$. Hence, the sequence would be:
@@ -1431,7 +1431,7 @@ If two angles of a triangle add up to $89 \degree$, what is the size of the thir
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the size of the third angle $= a$
@@ -2946,7 +2946,7 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2013-arithmetic-1"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2013 - Arithmetic 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -649,7 +649,7 @@ John the electrician needs to cut three lengths of wire from the $5 \ \text{metr
 
 Let the left over wire (in $\text {cm}$) $= w$.
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The wire measurement are given in multiple units.
 
 Let's convert all the measurements into $\text{cm}$.
@@ -1242,7 +1242,7 @@ What is its length if the volume of a cuboid is given by length x width x height
 
 Let the length of the second cuboid (in $\text{cm}$) $= l$
 
-$\text{Volume} = \text{length} \times \text{width} \times \text{height}$
+ABBR: $\text{Volume} = \text{length} \times \text{width} \times \text{height}$
 
 
 As per the question, the two weights have the same volume. Using that we get,
@@ -1456,7 +1456,7 @@ How many coins were there altogether?
 
 Let the count of coins of each denomination $= c$.
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert the total amount into pence.
 
 As per the question,
@@ -1555,7 +1555,7 @@ In the sequence of numbers $2, 3, 5, 8, 12, \ldots$, what is the first **three d
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by 1 more than the difference between the previous numbers. Hence, the sequence would be:

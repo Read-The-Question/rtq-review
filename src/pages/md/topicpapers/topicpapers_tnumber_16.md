@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-16"
 title: "TopicPaper - Number - 16"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -683,7 +683,7 @@ Add together the three lengths $1.4 \ \text{m}$, $33 \  \text{cm}$ and $580 \  \
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The three lengths are given in multiple units.
 
 Let's convert all the measurements into the same unit $\text{cm}$.

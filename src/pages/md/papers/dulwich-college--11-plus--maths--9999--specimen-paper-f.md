@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-f"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper F"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -369,7 +369,8 @@ $3 , \quad 9 , \quad \text{\textunderscore \textunderscore \textunderscore} , \q
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $6$. Hence, the sequence would be:
 
@@ -420,7 +421,8 @@ $\text{\textunderscore \textunderscore \textunderscore } , \quad 16 , \quad 8 , 
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
@@ -471,7 +473,8 @@ $100 , \quad 132 , \quad 116 , \quad 124 , \quad 120 , \quad \text{\textundersco
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by adding or Subtracting half of the difference of the two numbers. Hence, the sequence would be:
 
@@ -524,7 +527,8 @@ $1 , \quad 2 , \quad 6 , \quad 24 , \quad \text{\textunderscore \textunderscore 
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by multiplying the next term by adding 1 to the previously multiplied term. Hence, the sequence would be:
 

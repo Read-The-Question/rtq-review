@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -61,13 +61,13 @@ Calculate the angles marked $x$ and $y$ in the diagram below
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-$\text{Sum of angles in a quadrilateral} = 360 \degree$
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
 
 
 As per the daigram,
@@ -116,10 +116,10 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 <div class='workings'>
 <div class='working'>
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-$\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -228,7 +228,7 @@ What is the last angle in the list? Explain your answer.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the third angle of first triangle $= a$

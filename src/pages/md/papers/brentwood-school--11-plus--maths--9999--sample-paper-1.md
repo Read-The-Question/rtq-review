@@ -1,7 +1,7 @@
 ---
 slug: "papers/brentwood-school-11-plus-maths-9999-sample-paper-1"
 title: "Brentwood School - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -936,7 +936,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $6$. Hence, the sequence would be:
@@ -944,15 +944,15 @@ The difference between the terms is increasing by $6$. Hence, the sequence would
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+6)}} 
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}  
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
 {(+6)}}  \\
 11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
@@ -993,7 +993,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $8$. Hence, the sequence would be:
@@ -1001,15 +1001,15 @@ The difference between the terms is decreasing by $8$. Hence, the sequence would
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-8)}} 
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}  
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
 {(-8)}}  \\
 108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
@@ -1050,7 +1050,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
@@ -1058,15 +1058,15 @@ The difference between the terms is increasing by $2$ more than the difference b
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+3)}} 
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+9)}}   
+{(+9)}}
 &&  \footnotesize{\maroonC
-{(+11)}}   
+{(+11)}}
 &&  \footnotesize{\maroonC
 {(+13)}}  \\
 4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
@@ -1563,10 +1563,10 @@ Calculate the size of the area left when a square side length $2 \ \text{metres}
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 $
@@ -2024,10 +2024,10 @@ Find the sizes of angles $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
-$\text{Angles on a straight line add up to} = 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
 As per the diagram,
@@ -2613,7 +2613,7 @@ tsequence
 </div>
 <div class='question question'>
 
-If the name KATHRYN is written over and over again like this: 
+If the name KATHRYN is written over and over again like this:
 
 KATHRYNKATHRYNKA...
 

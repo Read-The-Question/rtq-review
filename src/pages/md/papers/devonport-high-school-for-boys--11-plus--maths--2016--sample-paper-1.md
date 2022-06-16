@@ -1,7 +1,7 @@
 ---
 slug: "papers/devonport-high-school-for-boys-11-plus-maths-2016-sample-paper-1"
 title: "Devonport High School For Boys - 11 Plus - Maths - 2016 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1272,7 +1272,7 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $123$. Hence, the sequence would be:
@@ -1280,11 +1280,11 @@ The difference between the terms is $123$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-123)} } 
+ {(-123)} }
 &&  \footnotesize {\maroonC
- {(-123)} }  
+ {(-123)} }
 &&  \footnotesize {\maroonC
- {(-123)} }   
+ {(-123)} }
 &&  \footnotesize {\maroonC
  {(-123)} }  \\
 951,  &&    828,  &&  705,  &&   \ldots && \ldots
@@ -1496,7 +1496,7 @@ If two angles of a triangle add up to $137 \degree$, what is the size of the thi
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the size of the third angle $= a$
@@ -1667,7 +1667,7 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert all the costs into $\pounds$.
 
 As per the question,
@@ -3107,7 +3107,7 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.

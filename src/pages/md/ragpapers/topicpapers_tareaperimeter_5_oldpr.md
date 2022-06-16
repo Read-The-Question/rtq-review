@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1146,7 +1146,7 @@ The Floor measurement is given in metres while the tile measurement is given in 
 
 Let's convert the wall measurements into $\text{cm}$.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -1245,7 +1245,7 @@ A rectangle measures $4.0 \ \text{cm}$ by $7.1 \ \text{cm}$. What is its area?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -2200,7 +2200,7 @@ Calculate the area of the rectangle.
 
 As per the question,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 $
@@ -2595,7 +2595,7 @@ The perimeter of this outer square shape
 
 As per the question,
 
-$\text{Perimeter} = 4 \times \text{side})$
+ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
 
 $

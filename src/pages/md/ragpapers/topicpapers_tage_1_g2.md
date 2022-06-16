@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g2"
 title: "TopicPaper - Age - 1 - G2"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:29:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1512,6 +1512,106 @@ $11 \ \text {years}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4C17A102-B152-4344-95F9-A972131EDBC2'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>872AF346-F083-464D-8D78-F9ED85CC0CD9</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Alison, Bethany and Catherine are three sisters. 
+They are $6$ years old, $7$ years old and $12$ years old. 
+
+Bethany is older than Alison. 
+Catherine's age is a prime number. 
+
+What is each girls' age?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As Catherine’s age is a prime number,
+Catherine is $ 7 \ \text{years}$ old.
+
+Bethany is older than Alison,
+so Bethany is $12 \ \text {years}$ old.
+
+Hence, Alison is $6 \ \text {years}$ old.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Alison $=$ $6 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Bethany $=$ $12 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Catherine $=$ $7 \ \text {years}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='872AF346-F083-464D-8D78-F9ED85CC0CD9' id='FORM-872AF346-F083-464D-8D78-F9ED85CC0CD9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-872AF346-F083-464D-8D78-F9ED85CC0CD9'>Initial</p>
 </div>
 </div>
 </li>

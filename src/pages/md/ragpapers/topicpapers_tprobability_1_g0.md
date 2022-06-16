@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-g0"
 title: "TopicPaper - Probability - 1 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -33,7 +33,7 @@ If the probability of it raining tomorrow is $0.08$, what is the probability of 
 <div class='workings'>
 <div class='working'>
 
-Probabilities ALWAYS add up to 1.
+ABBR: Probabilities ALWAYS add up to $1$.
 
 
 $

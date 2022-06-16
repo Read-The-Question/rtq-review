@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-georges-college-11-plus-maths-9999-sample-paper-2"
 title: "St Georges College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1351,7 +1351,7 @@ Write down the next two numbers in the following sequences?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $\dfrac{1}{2}$. Hence, the sequence would be:
@@ -1401,7 +1401,7 @@ $\dfrac{1}{2}, \dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-6$. Hence, the sequence would be:
@@ -1868,7 +1868,7 @@ Jennifer is assembling a wardrobe. The measurements for the 3 sections are given
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 As the answer is to be given in cm, let's convert all measurements into cms.

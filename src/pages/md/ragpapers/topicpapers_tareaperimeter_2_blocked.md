@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-blocked"
 title: "TopicPaper - Areaperimeter - 2 - BLOCKED"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -382,7 +382,7 @@ Find the area of the rectangle.
 <div class='workings'>
 <div class='working'>
 
-*Note: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 $

@@ -1,7 +1,7 @@
 ---
 slug: "papers/alleyns-school-11-plus-maths-9999-sample-paper-2"
 title: "Alleyns School - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -503,7 +503,7 @@ Two of the angles in a triangle are $25 \degree$ and $107 \degree$. The third an
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the third angle $= a$
@@ -606,10 +606,10 @@ What is the perimeter of a square whose area is $36 \ \text{cm}^2$?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
-$\text{Perimeter of square} = 4 \times \text{side}$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
 
 Let the side of the square (in $\text{cm}$) $= a$

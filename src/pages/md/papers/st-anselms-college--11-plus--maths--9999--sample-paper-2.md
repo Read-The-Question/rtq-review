@@ -1,7 +1,7 @@
 ---
 slug: "papers/st-anselms-college-11-plus-maths-9999-sample-paper-2"
 title: "St Anselms College - 11 Plus - Maths - 9999 - Sample Paper 2"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -941,7 +941,8 @@ $1 \,\,\,\,  7 \,\,\,\,  13 \,\,\,\, 19 \,\,\,\, 25$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -991,7 +992,8 @@ $1 \,\,\,\, 2 \,\,\,\, 4 \,\,\,\, 8 \,\,\,\, 16$  ...  ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}
@@ -1041,7 +1043,8 @@ $1 \,\,\,\,\,\,\,\, 4 \,\,\,\, 9 \,\,\,\, 16 \,\,\,\, 25$ ...  ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by adding 2 to the difference in the sequence. Hence, the sequence would be:
 
@@ -1093,7 +1096,8 @@ $1 \,\,\,\, 2 \,\,\,\, 5 \,\,\,\, 14 \,\,\,\, 41$  ... ...
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 $
 \begin{matrix}

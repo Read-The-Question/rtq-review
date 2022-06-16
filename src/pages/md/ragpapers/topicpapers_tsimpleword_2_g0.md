@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-2-g0"
 title: "TopicPaper - Simpleword - 2 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1201,7 +1201,7 @@ A full sweet jar weighs $165.5 \ \text{g}$. The jar contains $90$ sweets. Each s
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
@@ -1553,7 +1553,7 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of sweets is given in $\text{mg}$ while the weight of jar is given in $\text{g}$.
@@ -1973,7 +1973,7 @@ A medicine bottle contains $90$ pills. Each pill weighs $250 \  \text{mg}$, The 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of pills is given in $\text{mg}$ while the weight of the bottle is given in $\text{g}$.
@@ -2326,7 +2326,7 @@ How much does the empty jar weigh?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 The weight of sweets is given in $\text{mg}$ while the weight of the jar is given in $\text{g}$.
@@ -2423,7 +2423,7 @@ How many $15\ \text{cm}$ strips can I cut from a ribbon $1\ \text{m}$ long?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . 
 
 $

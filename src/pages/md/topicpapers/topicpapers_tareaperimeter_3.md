@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "TopicPaper - Areaperimeter - 3"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -673,7 +673,7 @@ Neither diagram is drawn to scale.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the diagram,
@@ -1744,7 +1744,7 @@ What is the area covered by Mr Green's lawn?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -1830,14 +1830,14 @@ How many paving stones are needed to pave the patio?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
 
 
 The patio measurements is given in metres while the paving stones measurement is given in cm.
 
 Let's convert the wall measurements into $\text{cm}$.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -2230,7 +2230,7 @@ What is the area of this shape?
 
 We can divide the shape into $2$ rectangle as per the diagram shown below.
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -3250,7 +3250,7 @@ E: $\text{More information needed}$
 
 We can divide the shape into 2 rectangle as per the diagram shown below.
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 $
@@ -3351,7 +3351,7 @@ E: $17.5 \ cm^2$
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 $
@@ -3932,7 +3932,7 @@ Find the length of the side of the square.
 
 Let the side of the square $=a$
 
-$\text{Perimeter} = 4 \times \text{side})$
+ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
 
 $
@@ -3967,7 +3967,7 @@ Calculate the $\text{AREA}$ of the square.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{side} \times \text{side}$
+ABBR: $\text{Area} = \text{side} \times \text{side}$
 
 
 $

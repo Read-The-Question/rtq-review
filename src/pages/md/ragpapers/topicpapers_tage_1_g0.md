@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g0"
 title: "TopicPaper - Age - 1 - G0"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:29:03
 ---
 <ul class='question default-decimal'>
 <li>
@@ -334,6 +334,7 @@ As per the question,
 
 $
 \begin{aligned}
+\text{May's age}    &= 14 \ \text{years} \\\\
 \text{Father's age} &= 14 + 39 \\\\
                     &= 53 \ \text{years} \\\\
 \text{Mother's age} &= 53 - 8 \\\\
@@ -471,17 +472,18 @@ How old is her brother?
 
 $
 \begin{aligned}
+\text{Becky's age}      &= 10 \dfrac {1} {2} \ \text {years} \\\\
 \text{Brother's age}    &= 10 \dfrac {1} {2} \ \text {years} - 1 \ \text {years} \ 8 \ \text {months} \\\\
                         &= 10 \dfrac {1} {2} \ \text {years} - 1 \dfrac {8} {12} \ \text {years} \\\\
-                        &= 10 \dfrac {1} {2} - 1 \dfrac {2 \times 4} {3 \times 4} \\\\
-                        &= 10 \dfrac {1} {2} - 1 \dfrac {2 \times \cancel {4}} {3 \times \cancel {4}} \\\\
                         &= 10 \dfrac {1} {2} - 1 \dfrac {2} {3} \\\\
                         &= \dfrac {21} {2} - \dfrac {5} {3} \\\\
                         &= \dfrac {21 \times 3} {2 \times 3} - \dfrac {5 \times 2} {3 \times 2} \\\\
                         &= \dfrac {63} {6} - \dfrac {10} {6} \\\\
                         &= \dfrac {63 - 10} {6} \\\\
                         &= \dfrac {53} {6} \\\\
-                        &= 8 \dfrac {5} {6} \ \text {years}
+                        &= 8 \dfrac {5} {6} \ \text {years} \\\\
+                        &= 8 \ \text {years} \ \dfrac {5} {6} \times 12 \ \text {months} \\\\
+                        &= 8 \ \text {years } 10 \ \text {months} \\\\
 \end{aligned}
 $
 
@@ -490,7 +492,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$8 \dfrac {5} {6} \ \text {years}$
+$8 \ \text {years } 10 \ \text {months}$
 
 </div>
 </div>
@@ -587,9 +589,9 @@ By how many years and months is Katharine older than Helen?
 
 $
 \begin {aligned}
-\text {Difference between Katharine and Helen}      &= \text {Helen's date of birth} - \text {Katharine's date of birth} \\\\
-                                                    &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
-                                                    &= 5 \ \text {years} \ 10 \ \text {months}
+\text {Difference}      &= \text {Helen's date of birth} - \text {Katharine's date of birth} \\\\
+                        &= 1 \text{st} \ \text {March} \ 2003 - 1 \text{st} \ \text {May} \ 1997 \\\\
+                        &= 5 \ \text {years} \ 10 \ \text {months}
 \end {aligned}
 $
 

@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-manchester-grammar-school-11-plus-maths-2016-arithmetic-a"
 title: "The Manchester Grammar School - 11 Plus - Maths - 2016 - Arithmetic A"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -380,7 +380,7 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
@@ -914,7 +914,7 @@ Length of the rectangle $= a$
 
 Width of the rectangle $= \dfrac {a} { 2 }$
 
-$\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
 
 Let's equate the perimeter to the length and width we get,
@@ -1030,7 +1030,7 @@ Let the cost of a bag of sweets (in $\text{pence}$) $= s$
 
 Let the cost of a can of drink (in $\text{pence}$) $= d$
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . Let's convert both the costs into pence.
 
 As per the question,

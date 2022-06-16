@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-oldpr"
 title: "TopicPaper - Areaperimeter - 1 - OLDPR"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <ul class='question default-decimal'>
 <li>
@@ -167,7 +167,7 @@ Factors of $36 = 1, 2, 3, 4, 6, 9, 12, 18, 36$
 
 A quick check shows that $4$ and $9$ meets all the criteria above.
 
-*Note: The two equations form a quadratic equation. Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
+*Note: The two equations form a quadratic equation. ABBR: Solving quadratic equations is beyond the scope and any such equations can be easily inferred by trial and error method.
 *
 
 Width of the rectangle $= 4 \ \text{cm}$ 
@@ -267,7 +267,7 @@ How many posts will he need?
 
 Let's the side of the square garden (in $\text{m}$) $= s$
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 As per the question,
@@ -496,7 +496,7 @@ triangle of base length $8 \ \text{cm}$. How tall is the triangle?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 Let the height of the second triangle $= a$.

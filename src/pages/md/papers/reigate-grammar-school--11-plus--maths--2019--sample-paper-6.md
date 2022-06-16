@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2019-sample-paper-6"
 title: "Reigate Grammar School - 11 Plus - Maths - 2019 - Sample Paper 6"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2909,7 +2909,7 @@ Find the value of $𝑥$ in the quadrilateral shown.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a quadrilateral} = 360 \degree$
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
 
 
 As per the diagram,
@@ -3153,7 +3153,7 @@ The plan on the right shows a garden. There is a $2 \ \text{m}$ wide path around
 
 We know,
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the diagram,

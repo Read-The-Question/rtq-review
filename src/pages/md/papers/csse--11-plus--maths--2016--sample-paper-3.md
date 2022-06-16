@@ -1,7 +1,7 @@
 ---
 slug: "papers/csse-11-plus-maths-2016-sample-paper-3"
 title: "Csse - 11 Plus - Maths - 2016 - Sample Paper 3"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -65,7 +65,7 @@ $\ldots, \quad 7020, \quad 702, \quad \ldots, \quad 7.02, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
@@ -121,7 +121,7 @@ $\ldots, \quad 0.64, \quad 12.8, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
@@ -171,7 +171,7 @@ $\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldot
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
@@ -228,7 +228,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
@@ -280,7 +280,7 @@ $18, \quad 6, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:

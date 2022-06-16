@@ -1,7 +1,7 @@
 ---
 slug: "papers/bancrofts-school-11-plus-maths-2021-sample-paper-7"
 title: "Bancrofts School - 11 Plus - Maths - 2021 - Sample Paper 7"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1444,7 +1444,7 @@ tsequence
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Here are the first six terms of a number sequence. 
+Here are the first six terms of a number sequence.
 
 $11, \quad 14, \quad 17, \quad 20, \quad 23, \quad 26$
 
@@ -1482,11 +1482,11 @@ $50$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The rule to get the next term in a sequence is: 
+The rule to get the next term in a sequence is:
 
 **“add the previous two terms together”**
 
-The fourth term is $7$ and the fifth term is $11$. 
+The fourth term is $7$ and the fifth term is $11$.
 
 What are the first two terms of the sequence?
 
@@ -3149,7 +3149,7 @@ How many paving stones does he need to pave his garden?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
 As per the question,
@@ -3264,13 +3264,13 @@ Calculate the area of the shape below:
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -3278,7 +3278,7 @@ $\text{Area of square} = \text{side} \times \text{side}$
 *TODO:: Show the diagram with the calculations for the parts of the path which do not have measurements shown. 
 Show the two missing sides are 11 and 4.*
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
 As per the diagram, the shape can be divided into a rectangle and a square.

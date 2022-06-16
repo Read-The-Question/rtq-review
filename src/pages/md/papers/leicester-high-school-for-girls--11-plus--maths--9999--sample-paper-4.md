@@ -1,7 +1,7 @@
 ---
 slug: "papers/leicester-high-school-for-girls-11-plus-maths-9999-sample-paper-4"
 title: "Leicester High School For Girls - 11 Plus - Maths - 9999 - Sample Paper 4"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1648,7 +1648,7 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area} = \text{length} \times \text{width}$
 
 
 As per the diagram,
@@ -1660,7 +1660,7 @@ $
 \end{aligned}
 $
 
-$\text{Area} = \text{side} \times \text{side}$
+ABBR: $\text{Area} = \text{side} \times \text{side}$
 
 
 Let the side of square $= s$

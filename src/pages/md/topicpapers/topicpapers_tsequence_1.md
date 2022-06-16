@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-06-15 19:04:54
+date: 2022-06-16 05:12:56
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-15 19:04:54
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
 </div>
@@ -23,10 +23,10 @@ date: 2022-06-15 19:04:54
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -65,21 +65,21 @@ $-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+7)}} 
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}  
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
 {(+7)}}  \\
 -2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
@@ -115,21 +115,21 @@ $43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $6$. Hence, the sequence would be:
+The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-6)}} 
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}  
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}   
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}   
+{(-6)}}
 &&  \footnotesize{\maroonC
 {(-6)}}  \\
 43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
@@ -165,7 +165,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
@@ -173,15 +173,15 @@ The difference between the terms is increasing in the sequence of natural odd nu
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(3)}} 
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(9)}}   
+{(+9)}}
 &&  \footnotesize{\maroonC
-{(11)}}  \\
+{(+11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
@@ -210,26 +210,26 @@ $26$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' id='FORM-497B0D73-E53D-490C-9D71-8CF4C974875D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' id='FORM-497B0D73-E53D-490C-9D71-8CF4C974875D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -241,7 +241,7 @@ $26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E08043A3-1AF9-4DBF-86C5-BE917D72DCEF</p>
 </div>
@@ -249,10 +249,10 @@ $26$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -263,7 +263,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the missing numbers in the sequences below. 
+Fill in the missing numbers in the sequences below.
 
 </div>
 <div class='workings'>
@@ -291,21 +291,21 @@ $-8 \quad -3 \quad 2 \quad 7 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $5$. Hence, the sequence would be:
+The next term is calculated by adding $5$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+5)}} 
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}   
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+5)}}   
+{(+5)}}
 &&  \footnotesize{\maroonC
 {(+5)}}  \\
 -8,  &&    -3,  &&  2,  &&   7,  &&   \ldots, && \ldots
@@ -326,7 +326,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12, 17$
+$12$
+
+</div>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -343,21 +348,21 @@ $61 \quad 53 \quad \ldots \quad 37 \quad \ldots \quad 21$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing  by $8$. Hence, the sequence would be:
+The next term is calculated by subtracting $8$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-8)}} 
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}  
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
 {(-8)}}  \\
 61,  &&    53,  &&  \ldots,  &&   37,  &&   \ldots, && 21
@@ -378,7 +383,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45, 29$
+$45$
+
+</div>
+<div class='answer'>
+
+$29$
 
 </div>
 </div>
@@ -395,7 +405,7 @@ $240 \quad 120 \quad \ldots \quad 30 \quad 15 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
@@ -403,13 +413,13 @@ The next term is calculated by dividing the previous term by $2$. Hence, the seq
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(\div 2)}} 
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}  
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}   
+{(\div 2)}}
 &&  \footnotesize{\maroonC
-{(\div 2)}}   
+{(\div 2)}}
 &&  \footnotesize{\maroonC
 {(\div 2)}}  \\
 240,  &&    120,  &&  \ldots,  &&   30,  &&   15, && \ldots
@@ -430,7 +440,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$60, 7.5$
+$60$
+
+</div>
+<div class='answer'>
+
+$7.5$
 
 </div>
 </div>
@@ -442,26 +457,26 @@ $60, 7.5$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' id='FORM-E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' id='FORM-E08043A3-1AF9-4DBF-86C5-BE917D72DCEF' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -473,7 +488,7 @@ $60, 7.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>69DF6F66-1121-4766-9A63-B20D699A29B5</p>
 </div>
@@ -481,10 +496,10 @@ $60, 7.5$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -523,10 +538,10 @@ $-3 \quad 1 \quad 5 \quad 9 \quad \ldots \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -558,7 +573,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13, 17$
+$13$
+
+</div>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -575,10 +595,10 @@ $32 \quad 26 \quad  \ldots \quad  14 \quad  \ldots \quad 2$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $6$. Hence, the sequence would be:
+The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -610,7 +630,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20, 8$
+$20$
+
+</div>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -627,7 +652,7 @@ $3 \quad 6 \quad 12 \quad \ldots \quad 48 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -662,7 +687,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24, 96$
+$24$
+
+</div>
+<div class='answer'>
+
+$96$
 
 </div>
 </div>
@@ -679,14 +709,14 @@ $1 \quad 4 \quad \ldots \quad 16 \quad 25 \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 It is a sequence of square numbers.
 
 $
 \begin {matrix}
-$   \footnotesize{\maroonC
+    \footnotesize{\maroonC
 {(1^2)}}
 &&  \footnotesize{\maroonC
 {(2^2)}}
@@ -695,9 +725,9 @@ $   \footnotesize{\maroonC
 &&  \footnotesize{\maroonC
 {(4^2)}}
 &&  \footnotesize{\maroonC
-{(5^2)}}  \\
+{(5^2)}}
 &&  \footnotesize{\maroonC
-{(6^2)}}  \\
+{(6^2)}}  \\\\
 1, && 4, && \ldots, && 16, && 25, && \ldots
 \end {matrix}
 $
@@ -716,7 +746,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9, 36$
+$9$
+
+</div>
+<div class='answer'>
+
+$36$
 
 </div>
 </div>
@@ -728,26 +763,26 @@ $9, 36$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' id='FORM-69DF6F66-1121-4766-9A63-B20D699A29B5' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='69DF6F66-1121-4766-9A63-B20D699A29B5' id='FORM-69DF6F66-1121-4766-9A63-B20D699A29B5' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -759,7 +794,7 @@ $9, 36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6CDE9B85-33D8-4FE1-8A7C-C1030D86C401</p>
 </div>
@@ -767,10 +802,10 @@ $9, 36$
 <p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -793,10 +828,10 @@ $1, 1, 2, 3, 5,$ are...
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-In this sequence we are getting the next term by adding previous term to the current term. Hence the sequence would be:
+The next term is calculated by adding together the last two terms. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -812,7 +847,7 @@ $
  {(3 + 5)} }
 &&  \footnotesize {\maroonC
  {(5 + 8)} }  \\
-1,  &&  1, &&  2, &&  3, &&  5,  &&  \text{\textunderscore \textunderscore \textunderscore }, && \text{\textunderscore \textunderscore \textunderscore }
+1,  &&  1, &&  2, &&  3, &&  5,  &&  \ldots, && \ldots
 \end{matrix}
 $
 
@@ -838,35 +873,30 @@ $8, 13$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Change the explanation sentence : Line 1 : The next term is calculated by adding together the last two terms. Hence, the sequence would be: 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' id='FORM-6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' id='FORM-6CDE9B85-33D8-4FE1-8A7C-C1030D86C401' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -939,7 +969,7 @@ Use the rules to write the next **two** numbers in each sequence.
 **Rule: Add $8$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -948,7 +978,7 @@ $
 **Rule: Multiply by $3$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -957,7 +987,7 @@ $
 **Rule: Divide by $4$ then add $11$**
 
 $
-4 \quad 
+4 \quad
 12 \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
 \text{\textunderscore \textunderscore \textunderscore} \quad
@@ -996,7 +1026,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-A sequence of numbers starts like thus: 
+A sequence of numbers starts like thus:
 
 $30 \quad 22 \quad 18$
 
@@ -1063,7 +1093,7 @@ To find the $n \text{th} \text{ triangular number}$, you can use this rule.
 
 $n \text{th} \text{ triangular number} = \dfrac{n}{2}(n + 1)$
 
-Example: 
+Example:
 
 $
 \begin{aligned}
@@ -1782,7 +1812,7 @@ TODOANSWER
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Here is a part of a number line. Write the two missing numbers in the boxes. 
+Here is a part of a number line. Write the two missing numbers in the boxes.
 
 ![missing image](/papers/missing_image.svg)
 
@@ -2136,9 +2166,9 @@ talgebra
 <div class='question question'>
 
 A sequence of numbers is formed by always adding the same number
-to get the next number in the sequence. 
+to get the next number in the sequence.
 
-The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$. 
+The $10 \text{th}$ number in the sequence is $23$ and the $15 \text{th}$ number is $38$.
 
 What is the $12 \text{th}$ number?
 
@@ -2319,7 +2349,7 @@ tsequence
 
 I write down a sequence of numbers.
 
-My first number is $160000$ and then I divide by $4$ to get the next number each time. 
+My first number is $160000$ and then I divide by $4$ to get the next number each time.
 What is the $5 \text{th}$ number in my sequence?
 
 </div>
@@ -2374,7 +2404,7 @@ tsequence
 </div>
 <div class='question question'>
 
-A pattern that repeats every six symbols starts like ths: 
+A pattern that repeats every six symbols starts like ths:
 
 %waffles%
 
@@ -2501,7 +2531,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Ben made a stack of identical cans with $6$ on the bottom 
+Ben made a stack of identical cans with $6$ on the bottom
 row, $5$ above that, then $4$, then $3$, then $2$, then $1$ on top.
 
 Jamal makes a stack twice as high.
@@ -2582,7 +2612,7 @@ tsequence
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-Here are the first six terms of a number sequence. 
+Here are the first six terms of a number sequence.
 
 $11, \quad 14, \quad 17, \quad 20, \quad 23, \quad 26$
 
@@ -2620,11 +2650,11 @@ $50$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The rule to get the next term in a sequence is: 
+The rule to get the next term in a sequence is:
 
 **“add the previous two terms together”**
 
-The fourth term is $7$ and the fifth term is $11$. 
+The fourth term is $7$ and the fifth term is $11$.
 
 What are the first two terms of the sequence?
 
@@ -2870,7 +2900,7 @@ $3, \quad 5, \quad 7, \quad 9, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -2922,7 +2952,7 @@ $5.1, \quad 6.3, \quad 7.5, \quad 8.7, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $1.2$. Hence, the sequence would be:
@@ -2974,7 +3004,7 @@ $1, \quad 3, \quad 9, \quad 27, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
@@ -3026,7 +3056,7 @@ $0.3, \quad 0.6, \quad 1.2, \quad 2.4, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
@@ -3078,7 +3108,7 @@ $15, \quad 11, \quad 7, \quad 3, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -3193,7 +3223,7 @@ Draw pattern $4$ in the space below.
 Fill in this table:
 
 ![missing table](/papers/missing_table.svg)
- 
+
 
 </div>
 <div class='workings'>
@@ -3454,7 +3484,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $6$. Hence, the sequence would be:
@@ -3462,15 +3492,15 @@ The difference between the terms is increasing by $6$. Hence, the sequence would
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+6)}} 
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}  
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
-{(+6)}}   
+{(+6)}}
 &&  \footnotesize{\maroonC
 {(+6)}}  \\
 11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
@@ -3511,7 +3541,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $8$. Hence, the sequence would be:
@@ -3519,15 +3549,15 @@ The difference between the terms is decreasing by $8$. Hence, the sequence would
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-8)}} 
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}  
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
-{(-8)}}   
+{(-8)}}
 &&  \footnotesize{\maroonC
 {(-8)}}  \\
 108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
@@ -3568,7 +3598,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
@@ -3576,15 +3606,15 @@ The difference between the terms is increasing by $2$ more than the difference b
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+3)}} 
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+9)}}   
+{(+9)}}
 &&  \footnotesize{\maroonC
-{(+11)}}   
+{(+11)}}
 &&  \footnotesize{\maroonC
 {(+13)}}  \\
 4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
@@ -3670,7 +3700,7 @@ tsequence
 </div>
 <div class='question question'>
 
-If the name KATHRYN is written over and over again like this: 
+If the name KATHRYN is written over and over again like this:
 
 KATHRYNKATHRYNKA...
 
@@ -3840,7 +3870,6 @@ What is the difference between Liam's $50 \text{th}$ number and Louise's $50 \te
 <div class='workings'>
 <div class='working'>
 
- 
 Let Liam's $50 \text{th}$ number $= a$.
 
 Let Louise's $50 \text{th}$ number $= b$.
@@ -4079,7 +4108,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -4134,7 +4163,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
@@ -4189,7 +4218,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
@@ -4351,13 +4380,13 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the next two numbers in the following sequence: 
+Fill in the next two numbers in the following sequence:
 
 $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 
--  $38, 47$ 
--  $37, 45$ 
--  $37, 46$ 
+-  $38, 47$
+-  $37, 45$
+-  $37, 46$
 -  $38, 46$
 
 </div>
@@ -4367,9 +4396,9 @@ $5, \quad 13, \quad 21, \quad 29, \quad \ldots, \quad \ldots$
 $
 \begin{matrix}
 &&  \footnotesize{\maroonC
-{(+8)}}  
+{(+8)}}
 &&  \footnotesize{\maroonC
-{(+8)}}   
+{(+8)}}
 &&  \footnotesize{\maroonC
 {(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
@@ -4381,7 +4410,7 @@ $
 \text{First Missing number}     &= 29 + 8 \\\\
                                 &= 37 \\\\
 \text{Second Missing number}    &= 37 + 8 \\\\
-                                &= 45                      
+                                &= 45
 \end{aligned}
 $
 
@@ -4404,7 +4433,7 @@ $37 , \45$
 
 Describe how you completed the problem:
 
--   Multiply by $2$ then add $2$ 
+-   Multiply by $2$ then add $2$
 -   Plus $9$
 -   Plus $8$
 -   Multiply by $3$ then subtract $1$
@@ -4464,7 +4493,7 @@ tsequence
 </div>
 <div class='question question'>
 
-Fill in the next two numbers in the following sequence: 
+Fill in the next two numbers in the following sequence:
 5, 13, 21, 29, ....., .....
 
 - 38,47
@@ -4486,9 +4515,9 @@ Describe how you completed the problem:
 $
 \begin{matrix}
 &&  \footnotesize{\maroonC
-{(+8)}}  
+{(+8)}}
 &&  \footnotesize{\maroonC
-{(+8)}}    
+{(+8)}}
 &&  \footnotesize{\maroonC
 {(+8)}} \\
 5,  &&    13,  &&  21,  &&   29 \ldots
@@ -4500,7 +4529,7 @@ $
 \text{First Missing number}     &= 29 + 8 \\\\
                                 &= 37 \\\\
 \text{Second Missing number}    &= 37 + 8 \\\\
-                                &= 45 \\\\                      
+                                &= 45 \\\\
 \end{aligned}
 $
 
@@ -4631,7 +4660,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $2$. Hence, the sequence would be:
@@ -4687,7 +4716,7 @@ $
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $-9$. Hence, the sequence would be:
@@ -5146,7 +5175,7 @@ $112$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$. 
+The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
 
 What is the $24 \text{th}$ number?
 
@@ -5271,7 +5300,7 @@ $\ldots, \quad 7020, \quad 702, \quad \ldots, \quad 7.02, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
@@ -5327,7 +5356,7 @@ $\ldots, \quad 0.64, \quad 12.8, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by multiplying the previous term by $20$. Hence, the sequence would be:
@@ -5377,7 +5406,7 @@ $\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldot
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
@@ -5434,7 +5463,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
@@ -5486,7 +5515,7 @@ $18, \quad 6, \quad 2, \quad \ldots, \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The next term is calculated by dividing the previous term by $3$. Hence, the sequence would be:
@@ -5753,7 +5782,7 @@ What is the next number in the pattern?
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $4$. Hence, the sequence would be:
@@ -5761,13 +5790,13 @@ The difference between the terms is $4$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+4)}} 
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}  
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}   
+ {(+4)}}
 &&  \footnotesize {\maroonC
- {(+4)}}   
+ {(+4)}}
 &&  \footnotesize {\maroonC
  {(+4)}}  \\
 3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
@@ -5938,7 +5967,7 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is $123$. Hence, the sequence would be:
@@ -5946,11 +5975,11 @@ The difference between the terms is $123$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-123)} } 
+ {(-123)} }
 &&  \footnotesize {\maroonC
- {(-123)} }  
+ {(-123)} }
 &&  \footnotesize {\maroonC
- {(-123)} }   
+ {(-123)} }
 &&  \footnotesize {\maroonC
  {(-123)} }  \\
 951,  &&    828,  &&  705,  &&   \ldots && \ldots

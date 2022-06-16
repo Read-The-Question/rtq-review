@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-9999-sample-paper-3"
 title: "Aldenham School - 11 Plus - Maths - 9999 - Sample Paper 3"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -613,7 +613,7 @@ How many cookies did they need to sell to reach their target?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 
 Let's convert the total amount into pence.
@@ -921,10 +921,10 @@ This triangle and rectangle have the same area. Find the height of the triangle.
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-$\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
 As per the question,
@@ -1074,7 +1074,7 @@ Given that Abbleshem is $170 \ \text{miles}$ away from Hocksworth, what was the 
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 . The time is calculated in minutes, but the final speed has to be in miles per hour.
 
 $
@@ -1410,10 +1410,10 @@ How many tiles will I need?
 <div class='workings'>
 <div class='working'>
 
-$\text{Area of rectangle} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-It is really important to use the right units in calculations and convert where required
+ABBR: It is really important to use the right units in calculations and convert where required
 .
 The wall measurement is given in $\text{meters}$ while the tile measurement is given in $\text{cm}$.
 
@@ -2057,7 +2057,7 @@ Work out the angle marked ?.
 <div class='workings'>
 <div class='working'>
 
-*TODO:: Add drawing starts.*
+*ABBR: TODO:: Add drawing starts.*
 
 ![missing image](/papers/missing_image.svg)
 
@@ -2066,10 +2066,10 @@ Work out the angle marked ?.
 *TODO:: Add an image with vertices marked ABCD. The smaller trialge is ABD and the bigger one is ABC.*
 
 
-*TODO:: Add drawing ends.*
+*ABBR: TODO:: Add drawing ends.*
 
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 As per the diagram, the triangle $ABD$ is an isosceles triangle.
@@ -2664,7 +2664,7 @@ How many posts will he need?
 
 Let's the side of the square garden (in $\text{m}$) $= s$
 
-$\text{Area of square} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
 
 As per the question,

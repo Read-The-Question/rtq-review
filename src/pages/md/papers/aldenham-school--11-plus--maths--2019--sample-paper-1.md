@@ -1,7 +1,7 @@
 ---
 slug: "papers/aldenham-school-11-plus-maths-2019-sample-paper-1"
 title: "Aldenham School - 11 Plus - Maths - 2019 - Sample Paper 1"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -875,7 +875,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>497B0D73-E53D-490C-9D71-8CF4C974875D</p>
 </div>
@@ -883,10 +883,10 @@ TODOANSWER
 <p>aldenham-school--11-plus--maths--2019--sample-paper-1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -925,21 +925,21 @@ $-2, \quad 5,  \quad 12,  \quad 19,  \quad 26,  \quad \ldots$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+7)}} 
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}  
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(+7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
 {(+7)}}  \\
 -2,  &&    5,  &&  12,  &&   19,  &&   26, && \ldots
@@ -975,21 +975,21 @@ $43,  \quad \ldots,  \quad 31,  \quad 25,  \quad 19,  \quad 13$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $6$. Hence, the sequence would be:
+The next term is calculated by subtracting $6$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-6)}} 
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}  
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}   
+{(-6)}}
 &&  \footnotesize{\maroonC
-{(-6)}}   
+{(-6)}}
 &&  \footnotesize{\maroonC
 {(-6)}}  \\
 43,  &&    \ldots,  &&  31,  &&   25,  &&   19, && 13
@@ -1025,7 +1025,7 @@ $2,  \quad 5,  \quad 10,  \quad 17,  \quad \ldots,  \quad 37$
 <div class='workings'>
 <div class='working'>
 
-ABBR: Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is increasing in the sequence of natural odd numbers. Hence, the sequence would be:
@@ -1033,15 +1033,15 @@ The difference between the terms is increasing in the sequence of natural odd nu
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(3)}} 
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(5)}}  
+{(+5)}}
 &&  \footnotesize{\maroonC
-{(7)}}   
+{(+7)}}
 &&  \footnotesize{\maroonC
-{(9)}}   
+{(+9)}}
 &&  \footnotesize{\maroonC
-{(11)}}  \\
+{(+11)}}  \\
 2,  &&    5,  &&  10,  &&   17,  &&  \ldots, && 37
 \end{matrix}
 $
@@ -1070,26 +1070,26 @@ $26$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' id='FORM-497B0D73-E53D-490C-9D71-8CF4C974875D' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='497B0D73-E53D-490C-9D71-8CF4C974875D' id='FORM-497B0D73-E53D-490C-9D71-8CF4C974875D' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1228,7 +1228,7 @@ Calculate the missing angle in this isosceles triangle.
 <div class='workings'>
 <div class='working'>
 
-$\text{Sum of angles in a triangle} = 180 \degree$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
 
 Let the missing angle $= a$

@@ -1,7 +1,7 @@
 ---
 slug: "papers/dulwich-college-11-plus-maths-9999-specimen-paper-e"
 title: "Dulwich College - 11 Plus - Maths - 9999 - Specimen Paper E"
-date: 2022-06-15 19:01:54
+date: 2022-06-16 05:10:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -408,7 +408,8 @@ $5, \quad 9, \quad 13, \quad 17, \quad \text{\textunderscore \textunderscore \te
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The difference between the terms is $4$. Hence, the sequence would be:
 
@@ -459,7 +460,8 @@ $1000, \quad 100, \quad 10, \quad \text{\textunderscore \textunderscore \textund
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 The next term is calculated by dividing the previous term by $10$. Hence, the sequence would be:
 
@@ -508,7 +510,8 @@ $1, \quad  3, \quad  4, \quad  7, \quad  11, \quad  \text{\textunderscore \textu
 <div class='workings'>
 <div class='working'>
 
-Let's find the difference between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
 
 In this sequence we are getting the next term by adding previous term to the current term:
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tstatistics-2-oldpr"
 title: "TopicPaper - Statistics - 2 - OLDPR"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <ul class='question default-decimal'>
 <li>

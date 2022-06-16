@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-g2"
 title: "TopicPaper - Detailedmultiplication - 3 - G2"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1978,7 +1978,8 @@ Work out $2.35 \times 1.8$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin {array}{cccccccccccccc}
@@ -2074,7 +2075,8 @@ Work out $2.42 \times 1.6$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

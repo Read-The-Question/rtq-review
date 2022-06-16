@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2387,7 +2387,9 @@ a               &= 9 \ \text {years}
 \end {aligned}
 $
 
-Mary's age $= 9 \ \text {years}$
+Mary's age in $2015$ $= 9 \ \text {years}$
+
+Let's find Anna’s and Rebecca’s age in $2015$,
 
 $
 \begin {aligned}
@@ -2460,7 +2462,7 @@ Rebecca $=$ $12 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2B0AEF72-F769-4481-8C2F-34147267D61E</p>
 </div>
@@ -2468,7 +2470,7 @@ Rebecca $=$ $12 \ \text {years}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2495,33 +2497,108 @@ How old are the three girls in November $2009$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Anna’s age in $2006$ $= a$
 
-</div>
-<div class='working'>
+Becky’s age $= 2 \dfrac {1} {2} \times a$
 
-TODOWORKING
+Mary's age $= 2a$
+
+As per the question,
+
+$
+\begin {aligned}
+2 \times (a + 3)                                        &= 2 \dfrac {1} {2} \times a + 3 \\\\
+2a + 6                                                  &= \dfrac {5} {2} \times a + 3 \\\\
+2a + 6                                                  &= \dfrac {5a} {2} + 3 \\\\
+2a - \dfrac {5a} {2}                                    &= 3 - 6 \\\\
+\dfrac {2a \times 2} {1 \times 2} - \dfrac {5a} {2}     &= -3 \\\\
+\dfrac {4a} {2} - \dfrac {5a} {2}                       &= -3 \\\\
+\dfrac {4a - 5a} {2}                                    &= -3 \\\\
+{}- \dfrac {a} {2}                                      &= -3 \\\\
+\cancel {-} \dfrac {a} {2}                              &= \cancel {-} 3 \\\\
+\dfrac {a} {2}                                          &= 3 \\\\
+a                                                       &= 3 \times 2 \\\\
+a                                                       &= 6 \ \text {years}
+\end {aligned}
+$
+
+Anna’s age in $2006$ $= 6 \ \text {years}$
+
+Let's find the age of the three girls in $2009$,
+
+$
+\begin {aligned}
+\text {Anna’s age}  &= a + 3 \\\\
+                    &= 6 + 3 \\\\
+                    &= 9 \ \text {years} \\\\
+\text {Mary's age}  &= 9 + 6 \\\\
+                    &= 15 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Becky's age} &= 2 \times 9 \\\\
+                    &= 18 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Anna $=$ $9 \ \text {years}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Mary $=$ $15 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Becky $=$ $18 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2B0AEF72-F769-4481-8C2F-34147267D61E' id='FORM-2B0AEF72-F769-4481-8C2F-34147267D61E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2B0AEF72-F769-4481-8C2F-34147267D61E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C</p>
 </div>
@@ -2529,7 +2606,7 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2556,33 +2633,111 @@ How old are the three girls in November $2009$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Anna’s age in $2007$ $= a$
 
-</div>
-<div class='working'>
+Becky’s age $= 6a$
 
-TODOWORKING
+Mary's age $= 4a$
+
+As per the question,
+
+$
+\begin {aligned}
+4 \times (a + 2)    &= 6a + 2 \\\\
+4a + 8              &= 6a + 2 \\\\
+4a - 6a             &= 2 - 8 \\\\
+-2a                 &= -6 \\\\
+\cancel {-} 2a      &= \cancel {-} 6 \\\\
+2a                  &= 6 \\\\
+a                   &= \dfrac {6} {2} \\\\
+a                   &= \dfrac {3 \times 2} {2} \\\\
+a                   &= \dfrac {3 \times \cancel {2}} {\cancel {2}} \\\\
+a                   &= 3 \ \text {years}
+\end {aligned}
+$
+
+Anna’s age in $2007$ $= 3 \ \text {years}$
+
+Let's find the age of the three girls in $2009$,
+
+$
+\begin {aligned}
+\text {Anna’s age}  &= 3 + 2 \\\\
+                    &= 3 + 2 \\\\
+                    &= 5 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Becky's age} &= 4 \times 5 \\\\
+                    &= 20 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Mary's age}  &= 20 - 6 \\\\
+                    &= 14 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Anna $=$ $5 \ \text {years}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Mary $=$ $14 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Becky $=$ $20 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' id='FORM-CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CDD0D7DC-10DE-44D9-A698-AC052B5B8D8C'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DB11EA17-07A1-4A99-8F55-108D4D694766</p>
 </div>
@@ -2590,7 +2745,7 @@ TODOANSWER
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2618,29 +2773,99 @@ How old are the three boys today?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Anthony’s current age $= a$
 
-</div>
-<div class='working'>
+Michael's age $= \dfrac {a} {2}$
 
-TODOWORKING
+Paul's age $= \dfrac {a} {2} + 4$
+
+As per the question,
+
+$
+\begin {aligned}
+a   &= \dfrac {a} {2} + 4 + 3 \\\\
+a - \dfrac {a} {2}  &= 7 \\\\
+\dfrac {a \times 2} {1 \times 2} - \dfrac {a} {2}       &= 7 \\\\
+\dfrac {2a} {2} - \dfrac {a} {2}                        &= 7 \\\\
+\dfrac {2a - a} {2}                                     &= 7 \\\\
+\dfrac {a} {2}                                          &= 7 \\\\
+a                                                       &= 7 \times 2 \\\\
+a                                                       &= 14 \ \text {years}
+\end {aligned}
+$
+
+Anthony’s age $= 14 \ \text {years}$
+
+$
+\begin {aligned}
+\text {Michael's age}   &= \dfrac {a} {2} \\\\
+                        &= \dfrac {14} {2} \\\\
+                        &= \dfrac {7 \times 2} {2} \\\\
+                        &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
+                        &= 7 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Paul's age}   &= \dfrac {a} {2} + 4 \\\\
+                     &= 7 + 4 \\\\
+                     &= 11 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+Anthony $=$ $14 \ \text {years}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+Michael $=$ $7 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Paul $=$ $11 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DB11EA17-07A1-4A99-8F55-108D4D694766' id='FORM-DB11EA17-07A1-4A99-8F55-108D4D694766' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DB11EA17-07A1-4A99-8F55-108D4D694766'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2915,18 +3140,8 @@ Hermione was $7$ years ago?
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER

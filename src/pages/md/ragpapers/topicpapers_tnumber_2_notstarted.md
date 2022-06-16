@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-2-notstarted"
 title: "TopicPaper - Number - 2 - NOTSTARTED"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2044,7 +2044,8 @@ Is the answer to $32.6578 \times 32.6578$:
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tnumber-12"
 title: "TopicPaper - Number - 12"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2089,7 +2089,8 @@ $3.2 \times 2.6 =$
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

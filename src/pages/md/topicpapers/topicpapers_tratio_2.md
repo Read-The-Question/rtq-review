@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-2"
 title: "TopicPaper - Ratio - 2"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4257,7 +4257,8 @@ $
 \end{aligned}
 $
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

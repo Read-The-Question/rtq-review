@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tnumber-16-g0"
 title: "TopicPaper - Number - 16 - G0"
-date: 2022-06-16 07:15:44
+date: 2022-06-16 09:16:00
 ---
 <ul class='question default-decimal'>
 <li>
@@ -964,7 +964,8 @@ Work out $2.35 \times 3000$.
 <div class='workings'>
 <div class='working'>
 
-Let's first multiply the numbers ignoring the decimal points and zeroes.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+and zeroes.
 
 $
 \begin{array}{cccccccccccccc}
@@ -2422,7 +2423,8 @@ $57.8 \times 0.1$
 <div class='working'>
 
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 578 \times 1 = 578
@@ -2595,7 +2597,8 @@ $3.6 \times 9$
 <div class='working'>
 
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2793,7 +2796,8 @@ Calculate $8.72 \times 0.1$
 <div class='working'>
 
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 872 \times 1 = 872 \\
@@ -3428,7 +3432,8 @@ $5.4 \times 0.8$
 <div class='working'>
 
 
-Let's first multiply the numbers ignoring the decimal points.
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

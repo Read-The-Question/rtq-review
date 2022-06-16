@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-1"
 title: "TopicPaper - Detailedmultiplication - 1"
-date: 2022-06-16 09:16:00
+date: 2022-06-16 13:00:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1161,7 +1161,8 @@ $12 \times 1000 =$
 
 $
 \begin{aligned}
-12 \times 1000 &= 12000
+&= 12 \times 1000 \\\\
+&= 12000
 \end{aligned}
 $
 

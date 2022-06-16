@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-16 09:16:00
+date: 2022-06-16 13:00:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3048,7 +3048,7 @@ $11 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D315CB50-201F-44CC-B34C-D567BD5B3098</p>
 </div>
@@ -3056,7 +3056,7 @@ $11 \ \text {years}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3079,33 +3079,73 @@ On $1 \text{st}$ December $2008$ my grandmother was $80$ years old. Her daughter
 <div class='workings'>
 <div class='working'>
 
+Grandmother's age on $1 \text {st}$ December $2008 = 80 \ \text {years}$
+
+Her daughter's on $1 \text {st}$ December $1996 = 40 \ \text {years}$
+
 As per the question,
 
-Age of grandmother on $1 \text {st}$ December $2008 = 80 \ \text {years}$
+$
+\begin {aligned}
+\text {Daughter’s date of birth}    &= 1 \ \text {st December} \ 1996 - 40 \ \text {years} \\\\
+                                    &= 1 \ \text {st December} \ 1956 
+\end {aligned}
+$
 
-Age of her daughter on $1 \text {st}$ December $1996 = 40 \ \text {years}$
-
-Date on which her daughter was born $= 1 \text {st December} 1996 - 40 \ \text {years}$
-                                    $= 1 \text {st December} 1956$
-
-Age of grandmother on $1 \text {st December} = 1956 + 80 - 2006$
-                                    $30 \ \text {years}$
+$
+\begin {aligned}
+\text {Grandmother's age on her daughter's birth}   &= 80 - (1 \ \text {st December} \ 2008 - 1 \ \text {st December} \ 1956) \\\\
+                                                    &= 80 - 52 \\\\
+                                                    &= 28 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$30 \ \text{years}$
+$28 \ \text{years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D315CB50-201F-44CC-B34C-D567BD5B3098' id='FORM-D315CB50-201F-44CC-B34C-D567BD5B3098' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D315CB50-201F-44CC-B34C-D567BD5B3098'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4</p>
 </div>
@@ -3113,7 +3153,7 @@ $30 \ \text{years}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3124,7 +3164,7 @@ $30 \ \text{years}$
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3137,19 +3177,68 @@ Hermione was $7$ years ago?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+As per the question,
+
+$
+\begin {aligned}
+\text {Mother's age}    &= 12 \times \text {Hermione's age} \ 7 \ \text {years ago} \\\\
+                        &= 12 \times 11 -  \\\\
+                        &= 12 \times 4 \\\\
+                        &= 48 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Hermione's age}  &= \text {Mother's age} - \text {Difference between their ages} \\\\
+                        &= 48 - (43 - 11) \\\\
+                        &= 48 - 32 \\\\
+                        &= 16 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$16 \ \text {years}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' id='FORM-5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5A72C0B4-4F33-46D7-9B6D-34FEFF5F40A4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3280,14 +3369,13 @@ talgebra
 
 Eleanor is $11$ years and $4$ months old. Her sister Mary is $3$ years and $10$ months younger than Eleanor.
 
-
 How old is Mary? Give your answer in years and months.
 
 </div>
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+
 
 </div>
 </div>
@@ -3606,7 +3694,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>32D7B1B8-95FC-485F-98B5-0433C85B6ACB</p>
 </div>
@@ -3614,7 +3702,7 @@ $16$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:39</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3637,14 +3725,14 @@ talgebra
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -3662,14 +3750,46 @@ How old is Preeya?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Anna’s age $= a$
+
+David's age $= \dfrac {a} {2}$
+
+Preeya's age $= 2a$
+
+As per the question,
+
+$
+\begin {aligned}
+a + \dfrac {a} {2} + 2a                                                                 &= 21 \\\\
+\dfrac {a \times 2} {1 \times 2} + \dfrac {a} {2} + \dfrac {2a \times 2} {1 \times 2}   &= 21 \\\\
+\dfrac {2a} {2} + \dfrac {a} {2} + \dfrac {4a} {2}                                      &= 21 \\\\
+\dfrac {2a + a + 4a} {2}                                                                &= 21 \\\\
+\dfrac {7a} {2}                                                                         &= 21 \\\\
+7a                                                                                      &= 21 \times 2 \\\\
+a                                                                                       &= \dfrac {21 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {7 \times 3 \times 2} {7} \\\\
+a                                                                                       &= \dfrac {\cancel {7} \times 3 \times 2} {\cancel {7}} \\\\
+a                                                                                       &= 3 \times 2 \\\\
+a                                                                                       &= 6 \ \text {years}
+\end {aligned}
+$
+
+Anna’s age $= 6 \ \text {years}$
+
+$
+\begin {aligned}
+\text {Preeya's age}    &= 2a \\\\
+                        &= 2 \times 6 \\\\
+                        &= 12 \ \text {years}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$12 \ \text {years}$
 
 </div>
 </div>
@@ -3693,14 +3813,45 @@ How tall is Davina?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Let Preetesh's height $= a$
+
+Let Davina's height $= b$
+
+Let Alicia's height $= c$
+
+As per the question,
+
+$
+\begin {aligned}
+a - b   &= b - c \\\\
+a + c   &= b + b \\\\
+a + c   &= 2b
+\end {aligned}
+$
+
+Using this we get,
+
+$
+\begin {aligned}
+a + b + c   &= 300 \ \text {cm} \\\\
+a + c + b   &= 300 \\\\
+2b + b      &= 300 \\\\
+3b          &= 300 \\\\
+b           &= \dfrac {300} {3} \\\\
+b           &= \dfrac {3 \times 100} {3} \\\\
+b           &= \dfrac {\cancel {3} \times 100} {\cancel {3}} \\\\
+b           &= 100 \ \text {cm}
+\end {aligned}
+$
+
+Davina's height $= 100 \ \text {cm}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$100 \ \text {cm}$
 
 </div>
 </div>
@@ -3709,10 +3860,41 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='32D7B1B8-95FC-485F-98B5-0433C85B6ACB' id='FORM-32D7B1B8-95FC-485F-98B5-0433C85B6ACB' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-32D7B1B8-95FC-485F-98B5-0433C85B6ACB'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>182B0149-4149-4F74-99BA-3E0B634C604A</p>
 </div>
@@ -3720,7 +3902,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3747,19 +3929,56 @@ How old is Rover?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin {aligned}
+\text {Rover's age}     &= \text {Kitty's age} - 5 \ \text {years} \ 8 \ \text {months} \\\\
+                        &= 8 \ \text {years} \ 5 \ \text {months} - 5 \ \text {years} \ 8 \ \text {months} \\\\
+                        &= 2 \ \text {years} \ 9 \ \text {months}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$2 \ \text {years} \ 9 \ \text {months}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='182B0149-4149-4F74-99BA-3E0B634C604A' id='FORM-182B0149-4149-4F74-99BA-3E0B634C604A' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-182B0149-4149-4F74-99BA-3E0B634C604A'>Initial</p>
+</div>
 </div>
 </li>
 <li>

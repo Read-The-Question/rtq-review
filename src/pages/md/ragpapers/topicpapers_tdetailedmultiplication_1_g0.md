@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-1-g0"
 title: "TopicPaper - Detailedmultiplication - 1 - G0"
-date: 2022-06-16 09:16:00
+date: 2022-06-16 13:00:23
 ---
 <ul class='question default-decimal'>
 <li>
@@ -40,7 +40,8 @@ $12 \times 1000 =$
 
 $
 \begin{aligned}
-12 \times 1000 &= 12000
+&= 12 \times 1000 \\\\
+&= 12000
 \end{aligned}
 $
 

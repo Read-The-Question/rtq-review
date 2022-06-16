@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedaddition-1-g0"
 title: "TopicPaper - Detailedaddition - 1 - G0"
-date: 2022-06-16 09:16:00
+date: 2022-06-16 13:00:23
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 09:16:00
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -57,10 +57,10 @@ $356 + 63$
 
 $
 \begin{array}{cccccccccccccc}
-    &   2   &   5   &   6 \\
+    &   3   &   5   &   6 \\
 {}+ &       &   6   &   3 \\
 \hline
-    &   3   &   1   &   9
+    &   4   &   1   &   9
 \end{array}
 $
 
@@ -69,7 +69,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$319$
+$419$
 
 </div>
 </div>
@@ -122,10 +122,10 @@ ABBR: Remember to line up the decimal points.
 
 $
 \begin{array}{cccccccccccccc}
-    &   8   &   7   &   5 \ .   &   2 \\
-{}+ &       &       &   2 \ .   &   6 \\
+    &   8   &   7   &   5 \ .   &   2   &   5 \\
+{}+ &       &       &   2 \ .   &   6   &   0 \\
 \hline
-    &   8   &   7   &   7 \ .   &   8
+    &   8   &   7   &   7 \ .   &   8   &   5
 \end{array}
 $
 
@@ -134,7 +134,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$877.8$
+$877.85$
 
 </div>
 </div>

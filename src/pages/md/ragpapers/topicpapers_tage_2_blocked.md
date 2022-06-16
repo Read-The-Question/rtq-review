@@ -1,11 +1,11 @@
 ---
-slug: "ragpapers/topicpapers-tage-2-notstarted"
-title: "TopicPaper - Age - 2 - NOTSTARTED"
-date: 2022-06-16 09:16:00
+slug: "ragpapers/topicpapers-tage-2-blocked"
+title: "TopicPaper - Age - 2 - BLOCKED"
+date: 2022-06-16 13:00:23
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>F7FBC2DE-C5BB-494E-9780-E9604EA75A45</p>
 </div>
@@ -13,7 +13,7 @@ date: 2022-06-16 09:16:00
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -36,24 +36,14 @@ Joanna was born on $19$ August $2004$ and her mother, Wendy, was born on the sam
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -68,24 +58,19 @@ What is Joanna’s age, **on $1 \text{st}$ January**, in $2016$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin {aligned}
+\text {Joanna’s age on} \ 1 \ {st January}	&= 1 \ \text {st January} \ 2016 - 19 \ \text {August} \ 2004 \\\\
+											&= 11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$11 \ \text {years} \ 4 \ \text {months} \ 13 \ \text {days}$
 
 </div>
 </div>
@@ -102,21 +87,11 @@ In which year, **on $1 \text{st}$ January**, will Wendy’s age be three times J
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+TODOANSWER
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-1"
 title: "TopicPaper - Areaperimeter - 1"
-date: 2022-06-16 09:16:00
+date: 2022-06-16 13:00:23
 ---
 <div class='paper'>
 <div class='meta'>
@@ -53,10 +53,11 @@ Find the value of $t$.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+_expanded
+
 $
 \begin{aligned}
-\text{Perimeter} &= 2 \times (\text{length} + \text{width})
- \\\\
 36                                         &= 2 \times (10 + t) \\\\
 2 \times (10 + t)                          &= 36 \\\\
 10 + t                                     &= \dfrac{36}{2} \\\\

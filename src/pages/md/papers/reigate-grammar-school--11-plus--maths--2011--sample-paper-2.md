@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2011-sample-paper-2"
 title: "Reigate Grammar School - 11 Plus - Maths - 2011 - Sample Paper 2"
-date: 2022-06-16 06:17:33
+date: 2022-06-16 07:12:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -125,7 +125,11 @@ $2011 - 999 =$
 
 $
 \begin{aligned}
-2011 - 1000 + 1 &= 1012
+&= 2011 - 999 \\\\
+&= 2011 - 1000 + 1 \\\\
+&= (2011 - 1000) + 1 \\\\
+&= 1011 + 1
+&= 1012
 \end{aligned}
 $
 

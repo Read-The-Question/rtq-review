@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfactor-1-oldpr"
 title: "TopicPaper - Factor - 1 - OLDPR"
-date: 2022-06-16 06:20:25
+date: 2022-06-16 07:15:44
 ---
 <ul class='question default-decimal'>
 <li>

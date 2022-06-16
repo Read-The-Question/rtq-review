@@ -1,7 +1,7 @@
 ---
 slug: "papers/hampton-court-house-11-plus-maths-9999-sample-paper-1"
 title: "Hampton Court House - 11 Plus - Maths - 9999 - Sample Paper 1"
-date: 2022-06-16 06:17:33
+date: 2022-06-16 07:12:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -209,7 +209,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -220,7 +220,7 @@ $87$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -386,6 +386,10 @@ $607.3$
 Part a) wrong number used in working
 
 part c) missing number in working
+
+
+
+Part a and c are still wrong. What happened here?
 </div>
 
 <div class='review'>

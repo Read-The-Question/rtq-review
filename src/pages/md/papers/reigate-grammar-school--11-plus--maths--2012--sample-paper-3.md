@@ -1,7 +1,7 @@
 ---
 slug: "papers/reigate-grammar-school-11-plus-maths-2012-sample-paper-3"
 title: "Reigate Grammar School - 11 Plus - Maths - 2012 - Sample Paper 3"
-date: 2022-06-16 06:17:33
+date: 2022-06-16 07:12:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -107,7 +107,7 @@ $3001$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0F0DB0B9-CB86-40BB-8C55-778C4CD372B3</p>
 </div>
@@ -118,7 +118,7 @@ $3001$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -169,6 +169,10 @@ $1003$
 Use aligned
 
 Remove the phrase alternative solution
+
+
+
+Please refer 875BB017-AED1-426A-AA78-AA89E462D760 on how to write the faster solution approach.
 </div>
 
 <div class='review'>

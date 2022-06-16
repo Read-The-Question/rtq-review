@@ -1,7 +1,7 @@
 ---
 slug: "papers/the-london-independent-girls-schools-consortium-11-plus-maths-2010-group-1"
 title: "The London Independent Girls Schools Consortium - 11 Plus - Maths - 2010 - Group 1"
-date: 2022-06-16 06:17:33
+date: 2022-06-16 07:12:27
 ---
 <div class='paper'>
 <div class='meta'>
@@ -143,7 +143,6 @@ $
 {}-   &         &    9    &    0    &    8 \\
 \hline
       &    2    &   7     &    0    &    9 \\
-\hline
 \end{array}
 $
 

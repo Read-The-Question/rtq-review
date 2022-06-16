@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-blocked"
 title: "TopicPaper - Fraction - 3 - BLOCKED"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -761,6 +761,184 @@ $
 <div class='answer'>
 
 $0.45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find $\text{one ninth of 360}$
+
+Use your answer to find $\text{four ninths of 360}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {9} \ \text{of} \ 360 \\\\
+&= \dfrac {1} {9} \times 360 \\\\
+&= \dfrac {360} {9} \\\\
+&= \dfrac {40 \times 9} {9} \\\\
+&= \dfrac {40 \times \cancel{9}} {\cancel{9}} \\\\
+&= 40
+\end{aligned}
+$
+
+Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
+
+$
+\begin{aligned}
+\text{four ninths of 360} &= 4 \times \text{one ninth of 360} \\\\
+                          &= 4 \times 40 \\\\
+                          &= 160
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {1} {9} \text{ of } 360 \ = \ 40 \\\ \\\\ \dfrac {4} {9} \text{ of } 360 \ = \ 160$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>7C3DC077-F159-440D-95DC-21DDF801F0B4</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What fraction of this flag is shaded?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {12} {30} \\\\
+&= \dfrac {2 \times 6} {5 \times 6} \\\\
+&= \dfrac {2 \times \cancel{6}} {5 \times \cancel{6}} \\\\
+&= \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {2} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+
+How many more rectangles need to be shaded to fill $\dfrac{4}{5}$ of the flag?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {No. of rectangles}                            &= \text {Fraction to be filled} - \ \text {Shaded rectangles} \\\\
+                                                     &= \dfrac {4} {5} \times 30 - 12 \\\\
+                                                     &= \dfrac {4 \times 30} {5} - 12 \\\\
+                                                     &= \dfrac {120} {5} - 12 \\\\
+                                                     &= \dfrac {24 \times 5} {5} - 12 \\\\
+                                                     &= \dfrac {24 \times \cancel{5}} {\cancel{5}} - 12 \\\\
+                                                     &= 24 - 12 \\\\
+                                                     &= 12
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$12$
 
 </div>
 </div>

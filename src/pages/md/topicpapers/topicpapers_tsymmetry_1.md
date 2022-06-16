@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsymmetry-1"
 title: "TopicPaper - Symmetry - 1"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <div class='paper'>
 <div class='meta'>

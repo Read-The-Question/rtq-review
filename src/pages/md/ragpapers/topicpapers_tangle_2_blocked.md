@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -119,7 +119,7 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,

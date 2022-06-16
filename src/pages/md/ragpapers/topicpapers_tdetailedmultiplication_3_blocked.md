@@ -1,9 +1,66 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-blocked"
 title: "TopicPaper - Detailedmultiplication - 3 - BLOCKED"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>BCD8F98E-1992-48C8-9BF7-D16279322487</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in the spaces in the boxes below with each of the digits $1, 3, 6, 7$ and $8$ to make a correct sum:
+
+$
+\boxed{\phantom{1}} \ \boxed{\phantom{1}} \times \boxed{\phantom{1}} =
+\boxed{\phantom{1}} \
+\boxed{\phantom{1}}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+       &    1   &   3 \\
+\times &        &   6 \\
+\hline
+       &    7   &   8
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\boxed{1} \ \boxed{3} \times \boxed{6} =\boxed{7} \ \boxed{8}$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

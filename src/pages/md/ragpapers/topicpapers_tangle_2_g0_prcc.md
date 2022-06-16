@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g0-prcc"
 title: "TopicPaper - Angle - 2 - G0 - PRCC"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1152,7 +1152,7 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -1415,6 +1415,104 @@ $140 \degree$
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
+<p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_na_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows two equilateral triangles and a rectangle. Calculate the size of angle $a \degree$.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
+ABBR: $\text{Each angle of an equilateral triangle} = 60 \degree$
+
+
+ABBR: $\text{Each angle of a rectangle} = 90 \degree$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+90 + 60 + 60 + a                               &= 360 \\\\
+a                                              &= 360 - 90 - 60 - 60\\\\
+a                                              &= 150 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$150 \degree$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' id='FORM-BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
 <p>B0CC5C22-DFC6-468C-A06B-7B4D743851D2</p>
 </div>
 <div class='papername'>
@@ -1526,6 +1624,9 @@ $
 x + x + x + 90  &= 360 \\\\
 3x              &= 360 - 90 \\\\
 3x              &= 270 \\\\
+x               &= \dfrac {270} {3} \\\\
+x               &= \dfrac {3 \times 90} {3} \\\\
+x               &= \dfrac {\cancel {3} \times 90} {\cancel {3}} \\\\
 x               &= 90 \degree
 \end{aligned}
 $
@@ -1774,7 +1875,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,

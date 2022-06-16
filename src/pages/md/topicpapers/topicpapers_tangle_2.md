@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1384,7 +1384,7 @@ Calculate the angles marked $p, q, r, s$ and $t$ in the diagram below:
 ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -2364,7 +2364,7 @@ Calculate the value of $x$ in each of the diagrams below.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,
@@ -2984,7 +2984,7 @@ $140 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BDBD9F5A-BF74-4CE1-8E8A-2C1E1E7323B9</p>
 </div>
@@ -2995,7 +2995,7 @@ $140 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3018,13 +3018,14 @@ The diagram shows two equilateral triangles and a rectangle. Calculate the size 
 <div class='workings'>
 <div class='working'>
 
-We know,
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
-An angle of an equilateral $= 60 \degree$
 
-An angle of a rectangle $= 90 \degree$
+ABBR: $\text{Each angle of an equilateral triangle} = 60 \degree$
 
-Sum of all angles at a point $= 360 \degree$
+
+ABBR: $\text{Each angle of a rectangle} = 90 \degree$
+
 
 As per the diagram,
 
@@ -3332,6 +3333,9 @@ $
 x + x + x + 90  &= 360 \\\\
 3x              &= 360 - 90 \\\\
 3x              &= 270 \\\\
+x               &= \dfrac {270} {3} \\\\
+x               &= \dfrac {3 \times 90} {3} \\\\
+x               &= \dfrac {\cancel {3} \times 90} {\cancel {3}} \\\\
 x               &= 90 \degree
 \end{aligned}
 $
@@ -3580,7 +3584,7 @@ $45 \degree$
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 As per the diagram,

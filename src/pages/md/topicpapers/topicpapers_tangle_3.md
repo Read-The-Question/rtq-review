@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -190,7 +190,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2C5C8574-9C13-4432-A6BD-A69701D55857</p>
 </div>
@@ -201,7 +201,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -221,14 +221,18 @@ One angle of a triangle is $30 \degree$. The second angle is twice the size of t
 <div class='workings'>
 <div class='working'>
 
-Let the third angle $= a$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As per the question, the second angle $= 2a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let the second angle $= a$
+
+Third angle $= 2a$
+
+As per the question,
 
 $
 \begin{aligned}
+a + 2a + 30     &= 180  \\\\
 a + 2a + 30     &= 180  \\\\
 3a + 30         &= 180  \\\\
 3a              &= 180 - 30  \\\\
@@ -240,16 +244,16 @@ a               &= 50 \degree
 \end{aligned}
 $
 
-We know the size of the third angle now. 
-However, we need to find the largest angle which is the second angle.
-
 $
 \begin{aligned}
-\text{Largest angle} &= 2a  \\\\
-&= 2 \times 50  \\\\
-&= 100  \degree
+\text {Second angle}    &= 50 \degree \\\\
+\text {Third angle}     &= 2b \\\\
+                        &= 2 \times 50 \\\\
+                        &= 100 \degree
 \end{aligned}
 $
+
+Largest angle $= 100 \degree$ 
 
 </div>
 </div>
@@ -523,7 +527,7 @@ $45 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>891C1C55-B5B1-425B-8595-6A3DDCA6BB8B</p>
 </div>
@@ -534,7 +538,7 @@ $45 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -554,11 +558,14 @@ In a triangle, two angles are the same and the third angle is THREE times bigger
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
 Let the two equal angles $= a$
 
-As per the question, the third angle $= 3a$
+Third angle $= 3a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the question,
 
 $
 \begin {aligned}
@@ -571,17 +578,16 @@ a               &= 36 \degree
 \end {aligned}
 $
 
-We know the size of the first angle now.
-
-However, we need to find the largest angle which is the third angle.
-
 $
 \begin {aligned}
-\text {Largest angle}   &= 3a \\\\
+\text{First angle}      &= 36 \degree \\\\
+\text {Third angle}     &= 3a \\\\
                         &= 3 \times 36 \\\\
-                        &= 108 \degree
+                        &= 126 \degree \\\\
 \end {aligned}
 $
+
+Biggest angle $= 108 \degree$
 
 </div>
 </div>
@@ -628,7 +634,7 @@ $108 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DB9E2E26-0316-4C3F-9AF2-5DD67552215E</p>
 </div>
@@ -639,7 +645,7 @@ $108 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -681,9 +687,10 @@ In a triangle, one of the angles is $39\degree$, the second is $81\degree$, what
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= a$.
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+Let the third angle $= a$
 
 $
 \begin{aligned}
@@ -693,6 +700,8 @@ a             &= 180 - 120 \\\\
 a             &= 60 \degree
 \end{aligned}
 $
+
+Third angle $= 60 \degree$
 
 </div>
 </div>
@@ -716,21 +725,16 @@ A second triangle is isosceles, and one of its angles is $48\degree$. What are t
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As the triangle is an isosceles triangle, there are two possiblities:
-
-The two missing angles are equal.
-
-Assuming this, we get
 
 Let the two missing angles $= a$.
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the question,
 
 $
 \begin {aligned}
-a + a + 48 \degree   &= 180 \degree \\\\
+a + a + 48           &= 180 \\\\
 2a + 48              &= 180 \\\\
 2a                   &= 180 - 48 \\\\
 2a                   &= 132 \\\\
@@ -739,22 +743,26 @@ a                    &= 66 \degree
 \end {aligned}
 $
 
-The two angles are $66 \degree , 66 \degree$.
+Two mising angles are $66 \degree , 66 \degree$.
 
-Or, One of the missing angles is $= 48 \degree$.
+Or,
 
-Let the third angle $= b$.
+Let one of the missing angles $= 48 \degree$
+
+Let the third angle $= b$
+
+As per the question,
 
 $
 \begin {aligned}
-48 + 48 + b    &= 180 \degree \\\\
+48 + 48 + b    &= 180 \\\\
 96 + b         &= 180 \\\\
 b              &= 180 - 96 \\\\
 b              &= 84 \degree
 \end {aligned}
 $
 
-The two angles are $48 \degree, 84 \degree$. 
+Two missing angles are $48 \degree, 84 \degree$. 
 
 </div>
 </div>
@@ -784,9 +792,10 @@ What is the size of angle $A$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+
+As per the question,
 
 $
 \begin{aligned}
@@ -850,7 +859,7 @@ $40 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A56ACBA8-8B03-4C19-A720-E78F6EDE381F</p>
 </div>
@@ -861,7 +870,7 @@ $40 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -881,15 +890,18 @@ One of the angles in a triangle is $40 \degree$. One of the remaining two angles
 <div class='workings'>
 <div class='working'>
 
-Let the smaller angle $= a$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As per the question, the second angle $= 3a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+Let the remaining angle $= a$
+
+Larger angle $= 3a$
+
+As per the question,
 
 $
 \begin{aligned}
-a + 3a + 40 \degree     &= 180 \degree \\\\
+a + 3a + 40             &= 180 \\\\
 4a + 40                 &= 180  \\\\
 4a                      &= 180 - 40  \\\\
 4a                      &= 140  \\\\
@@ -900,16 +912,17 @@ a                       &= 35 \degree
 \end{aligned}
 $
 
-We know the size of the third angle now.
-However, we need to find the largest angle which is the second angle.
 
 $
 \begin{aligned}
-\text{Largest angle}         &= 3a  \\\\
+\text {Remaining angle}      & = 35 \degree \\\\
+\text {Larger angle}         &= 3a  \\\\
                              &= 3 \times 35  \\\\
                              &= 105  \degree
 \end{aligned}
 $
+
+Largest angle $= 105 \degree$
 
 </div>
 </div>
@@ -956,7 +969,7 @@ $105 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>534AB0EB-98BA-4FF7-BBA3-6A6F9B846FB2</p>
 </div>
@@ -967,7 +980,7 @@ $105 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -987,15 +1000,16 @@ In a triangle, the largest angle is two times the middle angle and the middle an
 <div class='workings'>
 <div class='working'>
 
-Let the smallest angle $= a$
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-As per the question, 
+
+Let the smallest angle $= a$
 
 Middle angle $= 3a$
 
 Largest angle $= 6a$
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+As per the question,
 
 $
 \begin{aligned}
@@ -1007,13 +1021,10 @@ a               &= 18 \degree
 \end{aligned}
 $
 
-We know the size of the smallest angle now.
-
-However, we need to find the largest angle.
-
 $
 \begin{aligned}
-\text{Largest angle}    &= 6a \\\\
+\text {Smallest angle}  &= 18 \degree \\\\
+\text {Largest angle}   &= 6a \\\\
                         &= 6 \times 18 \\\\
                         &= 108 \degree
 \end{aligned}
@@ -1064,7 +1075,7 @@ $108 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D5B7995B-1A69-47C2-AD74-3593471D778A</p>
 </div>
@@ -1075,7 +1086,7 @@ $108 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1100,25 +1111,22 @@ Calculate each of the angles marked $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \degree$. 
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-x + 63 \degree          &= 180 \degree  \\\\
+x + 63                  &= 180 \\\\
 x                       &= 180 - 63 \\\\
 x                       &= 117 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$. 
-
-As per the diagram,
-
 $
 \begin{aligned}
-y + 63 \degree + 88 \degree         &= 180 \degree \\\\
+y + 63  + 88                        &= 180 \\\\
 y + 151                             &= 180 \\\\
 y                                   &= 180 - 151 \\\\
 y                                   &= 29 \degree
@@ -1170,7 +1178,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>93995941-DF79-4306-A16E-1B3F36315184</p>
 </div>
@@ -1181,7 +1189,7 @@ $x = 117 \degree, \ \ y = 29 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1204,25 +1212,31 @@ What is the size of the angle marked $χ$ in the diagram below? [diagram not dra
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
 Let the other angles in the triangle $=a, b$
 
-As we know, the sum of angles in a straight line is $180 \degree$.
+As per the question,
 
 $
 \begin{aligned}
-a               &= 180 - 110 \\\\
+a              &= 180 - 110 \\\\
 a              &= 70 \degree
 \end{aligned}
 $
 
 $
 \begin{aligned}
-b               &= 180 - 100 \\\\
+b              &= 180 - 100 \\\\
 b              &= 80 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles in a triangle is $180 \degree$.
+Let's use the value of $a$ and $b$ to find $χ$.
 
 $
 \begin{aligned}
@@ -1779,7 +1793,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D90DBE3D-71F6-47D8-B03D-147F904077DE</p>
 </div>
@@ -1790,7 +1804,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1816,9 +1830,11 @@ Calculate the value of angle $x$.
 <div class='workings'>
 <div class='working'>
 
-All angles of an equilateral triangle $= 60 \degree$
+ABBR: $\text{Each angle of an equilateral triangle} = 60 \degree$
 
-All angles of a rectangle $= 90  \degree$
+
+ABBR: $\text{Each angle of a rectangle} = 90 \degree$
+
 
 As per the figure,
 

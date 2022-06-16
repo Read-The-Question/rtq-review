@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-oldpr"
 title: "TopicPaper - Angle - 1 - OLDPR"
-date: 2022-06-16 18:31:18
+date: 2022-06-16 21:37:24
 ---
 <ul class='question default-decimal'>
 <li>
@@ -39,7 +39,7 @@ Estimate the size of angle $r$.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Angles on a straight line add up to} = 360 \degree$
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
 
 The acute angle is approximately $60 \degree$.
@@ -429,7 +429,7 @@ WE will visit this answer again. but put a second solution using exterior angle 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
 </div>
@@ -440,7 +440,7 @@ WE will visit this answer again. but put a second solution using exterior angle 
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

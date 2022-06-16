@@ -1,9 +1,121 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-blocked"
 title: "TopicPaper - Angle - 2 - BLOCKED"
-date: 2022-06-16 21:37:24
+date: 2022-06-16 22:12:25
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
+</div>
+<div class='papername'>
+<p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:4</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the missing angles (diagrams not to scale):
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 100 + 30 &= 180 \\\\
+a + 130      &= 180 \\\\
+a            &= 180 - 130 \\\\
+a            &= 50 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + b        &= 180 \\\\
+50 + b       &= 180 \\\\
+b            &= 180 - 50 \\\\
+b            &= 130 \degree
+\end{aligned}
+$
+
+</div>
+<div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
+
+$
+\begin{aligned}
+c + 62 + 90  &= 180 \\\\
+c + 152      &= 180 \\\\
+c            &= 180 - 152 \\\\
+c            &= 28 \degree
+\end{aligned}
+$
+
+$c$ and $d$ are vertically opposite angles.
+
+Hence $d = 28 \degree$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$50 \degree, \ 130 \degree$
+
+</div>
+<div class='answer'>
+
+$c$ $=$ $28 \degree$
+
+</div>
+<div class='answer'>
+
+$d$ $=$ $28 \degree$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

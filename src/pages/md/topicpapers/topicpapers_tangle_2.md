@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-16 21:37:24
+date: 2022-06-16 22:12:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-16 21:37:24
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8A00786C-8FA5-49F0-B059-E903FB36850E</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-16 21:37:24
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -69,15 +69,17 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <div class='workings'>
 <div class='working'>
 
+Right angle $= 90 \degree$
+
 Let the missing angle $= a$
 
-As per the diagram it is a right angle. The sum of a right angle $= 90 \degree$
+As per the diagram,
 
 $
 \begin {aligned}
-a + 44 \degree                 &= 90 \degree \\\\
-a                              &= 90 \degree - 44 \degree \\\\
-a                              &= 46 \degree
+a + 44 	               			&= 90 \\\\
+a                              	&= 90 - 44 \\\\
+a                              	&= 46 \degree
 \end {aligned}
 $
 
@@ -106,18 +108,19 @@ $46 \degree$
 <div class='workings'>
 <div class='working'>
 
-Let the missing angle $= b$
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
-As we know, the sum of angles on a straight line is $180 \degree$ 
+
+Let the missing angle $= b$
 
 As per the diagram,
 
 $
 \begin {aligned}
-b + 48 \degree + 67 \degree    &= 180 \degree \\\\
-b + 115 \degree                &= 180 \degree \\\\
-b                              &= 180 \degree - 115 \degree \\\\
-b                              &= 65 \degree
+b + 48 + 67    		&= 180 \\\\
+b + 115        		&= 180 \\\\
+b              		&= 180 - 115 \\\\
+b              		&= 65 \degree
 \end {aligned}
 $
 
@@ -146,16 +149,17 @@ $65 \degree$
 <div class='workings'>
 <div class='working'>
 
-The sum of a complete angle is $360 \degree$ 
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin {aligned}
-d + 140 \degree + 160 \degree &= 360 \degree \\\\
-d + 300                       &= 360 \\\\
-d                             &= 360 - 300 \\\\
-d                             &= 60 \degree
+d + 140 + 160 		&= 360 \\\\
+d + 300       		&= 360 \\\\
+d             		&= 360 - 300 \\\\
+d             		&= 60 \degree
 \end {aligned}
 $
 
@@ -216,7 +220,7 @@ Line 3 : We know, the sum of a right angle is 90°.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8A383F5B-18E8-4FBA-8F48-1E28EDC1AB8D</p>
 </div>
@@ -227,7 +231,7 @@ Line 3 : We know, the sum of a right angle is 90°.
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -272,13 +276,14 @@ Calculate the size of the missing angles
 <div class='workings'>
 <div class='working'>
 
-As we know, the angle in one full turn is $= 360 \degree$.
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-a + 76 \degree + 87 \degree + 113 \degree &= 360 \degree \\\\
+a + 76 + 87 + 113 						  &= 360 \\\\
 a + 276                                   &= 360 \\\\
 a                                         &= 360 - 276 \\\\
 a                                         &= 84 \degree
@@ -309,13 +314,14 @@ $84 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of interior angles of a quadrilateral is $= 360 \degree$.
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-b + 101 \degree + 74 \degree + 67 \degree &= 360 \degree \\\\
+b + 101 + 74 + 67 						  &= 360 \\\\
 b + 242                                   &= 360 \\\\
 b                                         &= 360 - 242 \\\\
 b                                         &= 118 \degree
@@ -346,13 +352,14 @@ $118 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $= 180 \degree$.
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-c + 69 \degree + 54 \degree  &= 180 \degree \\\\
+c + 69 + 54  				 &= 180 \\\\
 c + 123                      &= 180 \\\\
 c                            &= 180 - 123 \\\\
 c                            &= 57 \degree
@@ -383,13 +390,14 @@ $57 \degree$
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles of a triangle is $= 180 \degree$.
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
 
 As per the diagram,
 
 $
 \begin{aligned}
-d + 63 \degree + 38 \degree  &= 180 \degree \\\\
+d + 63 + 38  				 &= 180 \\\\
 d + 101                      &= 180 \\\\
 d                            &= 180 - 101 \\\\
 d                            &= 79 \degree
@@ -420,18 +428,19 @@ $79 \degree$
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
 As per the diagram, the triangle is an isosceles triangle. 
 
 We know that angles opposite the equal side are always equal.
 
-We also know that the sum of all angles $= 180 \degree$
-
 $
 \begin{aligned}
-e + (2 \times 71 \degree)    &= 180 \degree \\\\
-e + 142                      &= 180 \\\\
-e                            &= 180 - 142 \\\\
-e                            &= 38 \degree
+e + (2 \times 71)    &= 180 \\\\
+e + 142              &= 180 \\\\
+e                    &= 180 - 142 \\\\
+e                    &= 38 \degree
 \end{aligned}
 $
 
@@ -556,9 +565,12 @@ The obtuse angle is $A$.
 <div class='answers'>
 <div class='answer'>
 
-The acute angle is $B$.
+Acute angle $= B$
 
-The obtuse angle is $A$.
+</div>
+<div class='answer'>
+
+Obtuse angle $= A$
 
 </div>
 </div>
@@ -590,6 +602,15 @@ $90 \degree$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Uday: review after multiple answers for a.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -818,7 +839,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>D14EA30C-684C-4254-A3CF-C93663F3D76A</p>
 </div>
@@ -826,10 +847,10 @@ TODOANSWER
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -874,6 +895,8 @@ $
 
 Let's use the value of $a$ to find $b$.
 
+As per the diagram,
+
 $
 \begin{aligned}
 a + b        &= 180 \\\\
@@ -900,7 +923,9 @@ c            &= 28 \degree
 \end{aligned}
 $
 
-The value of $d$ will also be equal to $28$ because they are opposite angles.
+$c$ and $d$ are vertically opposite angles.
+
+Hence $d = 28 \degree$
 
 </div>
 </div>
@@ -912,43 +937,17 @@ $50 \degree, \ 130 \degree$
 </div>
 <div class='answer'>
 
-$28 \degree, \ 28 \degree$
+$c$ $=$ $28 \degree$
+
+</div>
+<div class='answer'>
+
+$d$ $=$ $28 \degree$
 
 </div>
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='D14EA30C-684C-4254-A3CF-C93663F3D76A' id='FORM-D14EA30C-684C-4254-A3CF-C93663F3D76A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D14EA30C-684C-4254-A3CF-C93663F3D76A'>Initial</p>
-</div>
 </div>
 </li>
 <li>

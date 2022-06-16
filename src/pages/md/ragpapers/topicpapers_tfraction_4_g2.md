@@ -1,9 +1,94 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g2"
 title: "TopicPaper - Fraction - 4 - G2"
-date: 2022-06-16 21:37:24
+date: 2022-06-16 22:12:25
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Dan has to walk $1\dfrac {3} {4} \ \text{km}$ to school. How far has he walked when he is halfway?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Halfway}                           &= \dfrac {\text{Total distance}} {2} \\\\
+                                         &= 1 \dfrac {3} {4} \div 2 \\\\
+                                         &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
+                                         &= \dfrac {7} {4 \times 2} \\\\
+                                         &= \dfrac {7} {8} \ \text{km}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {7} {8} \ \text{km}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' id='FORM-15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-15AB3B3D-E805-4DE3-9701-7E1997E30FB3'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
@@ -143,6 +228,90 @@ $\dfrac {3} {7}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-4F3F9BCF-587C-4A2F-8E8F-1C690544EDC4'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>64E8E815-C669-487D-AEA2-5443BC448443</p>
+</div>
+<div class='papername'>
+<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much larger is $7 \dfrac {4} {5}$ than $3\dfrac {2} {5}$?   
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ 
+$
+\begin{aligned}
+&= 7 \dfrac {4} {5} - 3 \dfrac {2} {5}\\\\
+&= \dfrac {39} {5} - \dfrac {17} {5}  \\\\
+&= \dfrac {39 - 17} {5} \\\\
+&= \dfrac {22} {5} \\\\
+&= 4 \dfrac {2} {5}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$4 \dfrac {2} {5}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' id='FORM-64E8E815-C669-487D-AEA2-5443BC448443' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-64E8E815-C669-487D-AEA2-5443BC448443'>Initial</p>
 </div>
 </div>
 </li>

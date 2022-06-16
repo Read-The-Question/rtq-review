@@ -1,9 +1,188 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-blocked"
 title: "TopicPaper - Angle - 1 - BLOCKED"
-date: 2022-06-16 21:37:24
+date: 2022-06-16 22:12:25
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>1560E53F-1121-4690-82F4-852BE2494204</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Calculate the missing angles $p, q$ and $r$.
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+35 + 90 + p   &= 180 \\\\
+125 + p       &= 180 \\\\
+p             &= 180 - 125 \\\\
+p             &= 55 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$55 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+81 + 52 + q     &= 180 \\\\
+133 + q         &= 180 \\\\
+q               &= 180 - 133 \\\\
+q               &= 47 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$47 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add an image with alternate angle marked *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram, the shape is a parallelogram.
+
+Angle $r$ and $r$ are equal as they are alternate angles.
+
+Using that, we get
+
+$
+\begin {aligned}
+140 + 24 + r    &= 180 \\\\
+r + 164         &= 180 \\\\
+r               &= 180 - 164 \\\\
+r               &= 16 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

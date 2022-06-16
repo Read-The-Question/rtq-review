@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g0"
 title: "TopicPaper - Fraction - 4 - G0"
-date: 2022-06-16 21:37:24
+date: 2022-06-16 22:12:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -289,107 +289,7 @@ Remove units from S6 and give answer as a mixed fraction not both options
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
-</div>
-<div class='papername'>
-<p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Dan has to walk $1\dfrac {3} {4} \ \text{km}$ to school. How far has he walked when he is halfway?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Halfway}                           &= \dfrac {\text{Total distance}} {2} \\\\
-                                         &= 1 \dfrac {3} {4} \div 2 \\\\
-                                         &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
-                                         &= \dfrac {7} {4 \times 2} \\\\
-                                         &= \dfrac {7} {8} \ \text{km}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {7} {8} \ \text{km}$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Change to Halfway = Total distance/2 
-
-Remove 1 where not required
-
-
-
-
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='15AB3B3D-E805-4DE3-9701-7E1997E30FB3' id='FORM-15AB3B3D-E805-4DE3-9701-7E1997E30FB3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-15AB3B3D-E805-4DE3-9701-7E1997E30FB3'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA</p>
 </div>
@@ -400,7 +300,7 @@ Remove 1 where not required
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -536,6 +436,12 @@ Part a) Change S2 to 1/4x3
 Part b) Remove S3
 
 Part c) Only give mixed number as answer option
+
+
+
+Part b) Write in fraction division prompt
+
+
 </div>
 
 <div class='review'>
@@ -572,189 +478,7 @@ Part c) Only give mixed number as answer option
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>48450F7A-0A8A-471A-90C4-B1E78B195B12</p>
-</div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\dfrac {2536} {4}$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {2536} {4} \\\\
-&= \dfrac {4 \times 634} {4} \\\\
-&= \dfrac {\cancel 4 \times 634} {\cancel 4} \\\\
-&= 634
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$634$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Discuss division VS fraction
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='48450F7A-0A8A-471A-90C4-B1E78B195B12' id='FORM-48450F7A-0A8A-471A-90C4-B1E78B195B12' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-48450F7A-0A8A-471A-90C4-B1E78B195B12'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>6864E850-7B4A-42CC-B277-9E186CB962B8</p>
-</div>
-<div class='papername'>
-<p>solihull-school--11-plus--maths--9999--sample-paper-2:0:3</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-$\dfrac{3184} {8}$ is
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac {3184} {8} \\\\
-&= \dfrac {2 \times 2 \times 2 \times 398} {2 \times 2 \times 2} \\\\
-&= \dfrac {\cancel {2} \times \cancel {2} \times \cancel {2} \times 398} { \cancel {2} \times \cancel {2} \times \cancel {2} } \\\\
-&= 398
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$398$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Discuss division VS fraction
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='6864E850-7B4A-42CC-B277-9E186CB962B8' id='FORM-6864E850-7B4A-42CC-B277-9E186CB962B8' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6864E850-7B4A-42CC-B277-9E186CB962B8'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>018B54D1-3C23-4B75-8420-8637D0627456</p>
 </div>
@@ -765,7 +489,7 @@ Discuss division VS fraction
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -968,6 +692,10 @@ $\dfrac {13} {12}$
 Part c) Insert S2 that says 3/7x9 and Remove 1 from S3
 
 Parr e) Remove first sentence
+
+
+
+In all parts remove 1 where not required
 </div>
 
 <div class='review'>
@@ -1000,99 +728,6 @@ Parr e) Remove first sentence
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-018B54D1-3C23-4B75-8420-8637D0627456'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>64E8E815-C669-487D-AEA2-5443BC448443</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-How much larger is $7 \dfrac {4} {5}$ than $3\dfrac {2} {5}$?   
-
-</div>
-<div class='workings'>
-<div class='working'>
-
- 
-$
-\begin{aligned}
-&= 7 \dfrac {4} {5} - 3 \dfrac {2} {5}\\\\
-&= \dfrac {39} {5} - \dfrac {17} {5}  \\\\
-&= \dfrac {39 - 17} {5} \\\\
-&= \dfrac {22} {5} \\\\
-&= 4 \dfrac {2} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4 \dfrac {2} {5}$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Remove the second solution
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='64E8E815-C669-487D-AEA2-5443BC448443' id='FORM-64E8E815-C669-487D-AEA2-5443BC448443' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-64E8E815-C669-487D-AEA2-5443BC448443'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tgraph-3-g0"
 title: "TopicPaper - Graph - 3 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E9BAB955-4373-41E3-B08D-F252C334A4C5</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 13:00:23
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

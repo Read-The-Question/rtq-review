@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-g0"
 title: "TopicPaper - Fraction - 3 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>452B5F78-B44B-4698-881F-BB372733F867</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 13:00:23
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -48,7 +48,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$twenty-one over thirty-two$
+twenty-one over thirty-two
 
 </div>
 </div>
@@ -93,207 +93,7 @@ Write answer withouth KATEX
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:1</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Calculate two thirds of five and a quarter.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{2}{3} \times 5 \dfrac{1}{4} \\\\
-&= \dfrac{2}{3} \times \dfrac{21}{4} \\\\
-&= \dfrac{2 \times 21}{3 \times 4} \\\\
-&= \dfrac{2 \times 7 \times 3} {3 \times 2 \times 2} \\\\
-&= \dfrac{\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2} \times 2} \\\\
-&= \dfrac{7}{2}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{7}{2}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Add five eighths to three quarters.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{5}{8} + \dfrac{3}{4} \\\\
-&= \dfrac{5}{8} + \dfrac{3 \times 2}{4 \times 2} \\\\
-&= \dfrac{5}{8} + \dfrac{6}{8} \\\\ 
-&= \dfrac{5 + 6}{8} \\\\
-&= \dfrac{11}{8}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{11}{8}$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Four cakes are divided equally amongst seven people. One fifth of a cake is left over. What fraction of a cake does each person get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write down a fraction between nine fifths and two.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\dfrac{19}{10}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{19}{10}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part a) Write answer as mixed fraction and add step at the end
-
-Part c) Workings and answer are empty
-
-Part d) Workings not written
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' id='FORM-7F8B7DAA-2971-4079-9737-6D7B149AA96E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7F8B7DAA-2971-4079-9737-6D7B149AA96E'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AFEEC0B-0A5C-4959-86EB-B1237A25AF55</p>
 </div>
@@ -304,7 +104,7 @@ Part d) Workings not written
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -326,15 +126,12 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 $
 \begin{aligned}
-&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
-&= \dfrac {9} {24} \\\\
-&= \dfrac {3 \times 3} {8 \times 3} \\\\
-&= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
-&= \dfrac {3} {8}
+\dfrac {\text{Shaded portion}} {\text{Count of portions}} &= \dfrac {9} {24} \\\\
+                                                          &= \dfrac {3 \times 3} {8 \times 3} \\\\
+                                                          &= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
+                                                          &= \dfrac {3} {8}
 \end{aligned}
 $
-
-Fraction of flag that has been shaded in simple fraction $= \dfrac {3} {8}$
 
 </div>
 </div>
@@ -386,7 +183,7 @@ Remove S1, Write LHS, Remove last sentence
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D13B102-C31F-46B4-9F05-1CA5A1F3F0AC</p>
 </div>
@@ -397,7 +194,7 @@ Remove S1, Write LHS, Remove last sentence
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -419,15 +216,12 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 $
 \begin{aligned}
-&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
-&= \dfrac {9} {24} \\\\
-&= \dfrac {3 \times 3} {8 times 3} \\\\
-&= \dfrac {3 \times \cancel{3}} {8 times \cancel{3}} \\\\
-&= \dfrac {3} {8}
+\dfrac {\text{Shaded portion}} {\text{Count of portions}} &= \dfrac {9} {24} \\\\
+                                                          &= \dfrac {3 \times 3} {8 \times 3} \\\\
+                                                          &= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
+                                                          &= \dfrac {3} {8}
 \end{aligned}
 $
-
-Fraction of flag that has been shaded in simple fraction $= \dfrac {3} {8}$
 
 </div>
 </div>

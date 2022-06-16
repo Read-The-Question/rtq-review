@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-4-g0"
 title: "TopicPaper - Detailedmultiplication - 4 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4260496C-5CFD-4DCF-AD5E-0942547499C8</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 13:00:23
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -34,36 +34,11 @@ $14 \times 7 \times 2$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-        &   1   &   4 \\
-\times  &       &   7 \\
-\hline
-        &   9   &   8 \\
-\times  &       &   2 \\
-\hline
-1       &   9   &   6
-\end{array}
-$
-
-</div>
-<div class='working'>
-
-$
 \begin{aligned}
-14 \times 7 \times 2 &= 14 \times 14
+&= 14 \times 7 \times 2 \\\\
+&= 14 \times 14 \\\\
+&= 196
 \end{aligned}
-$
-
-$
-\begin{array}{cccccccccccccc}
-    &       &   1   &   4 \\
-& \times    &   1   &   4 \\
-\hline
-    &       &   5   &   6 \\
-    &   1   &   4   &   0 \\
-\hline
-    &   1   &   9   &   6
-\end{array}
 $
 
 </div>
@@ -126,7 +101,7 @@ Use begin aligned to write
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0BBE4126-D528-4588-9AF9-F9CE49056600</p>
 </div>
@@ -137,7 +112,7 @@ Use begin aligned to write
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -156,7 +131,8 @@ Calculate $6 \times 8$
 
 $
 \begin{aligned}
-6 \times 8 &= 48
+&= 6 \times 8 \\\\
+&= 48
 \end{aligned}
 $
 
@@ -220,7 +196,7 @@ Use begin aligned
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3114740D-C53A-49EC-B433-2572189ED29D</p>
 </div>
@@ -231,7 +207,7 @@ Use begin aligned
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -250,7 +226,8 @@ Calculate $7 \times 8$
 
 $
 \begin{aligned}
-7 \times 8 &= 56
+&= 7 \times 8 \\\\
+&= 56
 \end{aligned}
 $
 

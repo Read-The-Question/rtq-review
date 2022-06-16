@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tprobability-1-g0"
 title: "TopicPaper - Probability - 1 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4D10C32B-84EF-4926-8792-562717818250</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 13:00:23
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -89,7 +89,7 @@ $0.92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>2EF6FBC9-C042-42F3-9C0F-7BBB8E6DF8E8</p>
 </div>
@@ -100,7 +100,7 @@ $0.92$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -173,7 +173,7 @@ $\text {Fairly unlikely}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>675DE6CE-81D9-4032-994A-7C24719EF132</p>
 </div>
@@ -184,7 +184,7 @@ $\text {Fairly unlikely}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -257,7 +257,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>F96ADDDB-D1DA-4669-B9D8-6F1709C2D0E4</p>
 </div>
@@ -268,7 +268,7 @@ $4$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -336,7 +336,7 @@ $\text {likely}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>EA3C0024-E00A-4E80-A79B-9CAD2EA7DFA1</p>
 </div>
@@ -347,7 +347,7 @@ $\text {likely}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -411,7 +411,7 @@ $\text {Certain}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>A47DB4E1-F2E1-4223-910E-E35218E5B40F</p>
 </div>
@@ -422,7 +422,7 @@ $\text {Certain}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -486,7 +486,7 @@ $\text {unlikely}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>97658705-5BFD-43C2-8EC0-F96EA2170CC7</p>
 </div>
@@ -497,7 +497,7 @@ $\text {unlikely}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -561,7 +561,7 @@ $\text {Certain}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>22C2F81E-348A-4147-8F66-92DD1DE389E0</p>
 </div>
@@ -572,7 +572,7 @@ $\text {Certain}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -636,7 +636,7 @@ $\text {Impossible}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>FA4F6584-F867-4263-B1CA-F813E4733C7A</p>
 </div>
@@ -647,7 +647,7 @@ $\text {Impossible}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -729,7 +729,7 @@ $\dfrac {4} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>2B0B43F3-6E8B-41F9-A516-B83235232CD8</p>
 </div>
@@ -740,7 +740,7 @@ $\dfrac {4} {15}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -822,7 +822,7 @@ $\dfrac {2} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>E50AC62E-2A13-48E0-95A5-375ED2BF99DD</p>
 </div>
@@ -833,7 +833,7 @@ $\dfrac {2} {15}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -906,7 +906,7 @@ $\dfrac {7} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>869FD852-D1F1-49AF-B701-45D924CC185A</p>
 </div>
@@ -917,7 +917,7 @@ $\dfrac {7} {15}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1002,7 +1002,7 @@ $\dfrac {1} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0C78B677-D503-445A-ACF4-68235AF1196A</p>
 </div>
@@ -1013,7 +1013,7 @@ $\dfrac {1} {5}$
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>

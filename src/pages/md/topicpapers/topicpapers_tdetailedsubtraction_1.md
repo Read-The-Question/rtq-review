@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-1"
 title: "TopicPaper - Detailedsubtraction - 1"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1796,7 +1796,7 @@ $1.05$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>819E0D73-2B95-44E7-9BB0-3A0F62C2E725</p>
 </div>
@@ -1807,7 +1807,7 @@ $1.05$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1827,7 +1827,8 @@ $3.88 - 1.111$
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -2366,7 +2367,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7002E449-EEBA-49EF-A1BD-DA0806D4924B</p>
 </div>
@@ -2377,7 +2378,7 @@ $82$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2397,7 +2398,8 @@ What is $30.03 - 3.3$?
 <div class='workings'>
 <div class='working'>
 
-Ensure to line up the decimal points.
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}
@@ -3139,7 +3141,7 @@ $247$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>053DE0A7-D1C1-4A3D-BF4B-BABFF4D1EE9C</p>
 </div>
@@ -3150,7 +3152,7 @@ $247$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3169,6 +3171,9 @@ Calculate $6 - 4.226$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin {array}{cccccccccccccc}

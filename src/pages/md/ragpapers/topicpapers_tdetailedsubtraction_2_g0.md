@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-2-g0"
 title: "TopicPaper - Detailedsubtraction - 2 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F0DB0B9-CB86-40BB-8C55-778C4CD372B3</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-16 13:00:23
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -35,7 +35,11 @@ $2002 - 999 =$
 
 $
 \begin{aligned}
-2002 - 1000 + 1 &= 1003
+&= 2002 - 999 \\\\
+&= 2002 - 1000 + 1 \\\\
+&= (2002 - 1000) + 1 \\\\
+&= 1002 + 1 \\\\
+&= 1003
 \end{aligned}
 $
 
@@ -107,7 +111,7 @@ Please refer 875BB017-AED1-426A-AA78-AA89E462D760 on how to write the faster sol
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C09205D6-59E5-4AB9-B3B3-3609A0CB4402</p>
 </div>
@@ -118,7 +122,7 @@ Please refer 875BB017-AED1-426A-AA78-AA89E462D760 on how to write the faster sol
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -137,8 +141,12 @@ $2030 - 997 =$
 
 $
 \begin{aligned}
-2030 - 1000 + 3 &= 1033
-end{aligned}
+&= 2030 - 997 \\\\
+&= 2030 - 1000 + 3 \\\\
+&= (2030 - 1000) + 3 \\\\
+&= 1030 + 3 \\\\
+&= 1033
+\end{aligned}
 $
 
 </div>
@@ -213,7 +221,7 @@ Katex is broken!!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A750C241-48C7-4C08-BD12-8DD6F69FB939</p>
 </div>
@@ -224,7 +232,7 @@ Katex is broken!!!
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -243,6 +251,9 @@ Calculate $2.7 - 0.47$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Remember to line up the decimal points.
+
 
 $
 \begin{array}{cccccccccccccc}

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedaddition-1"
 title: "TopicPaper - Detailedaddition - 1"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2009,7 +2009,7 @@ $994$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F39E624B-7AB1-48EE-82CC-85EAC191BF13</p>
 </div>
@@ -2017,10 +2017,10 @@ $994$
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-1:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2180,41 +2180,30 @@ $607.3$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part a) wrong number used in working
-
-part c) missing number in working
-
-
-
-Part a and c are still wrong. What happened here?
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' id='FORM-F39E624B-7AB1-48EE-82CC-85EAC191BF13' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='F39E624B-7AB1-48EE-82CC-85EAC191BF13' id='FORM-F39E624B-7AB1-48EE-82CC-85EAC191BF13' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

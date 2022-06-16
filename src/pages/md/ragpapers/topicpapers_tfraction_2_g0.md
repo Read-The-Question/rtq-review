@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-g0"
 title: "TopicPaper - Fraction - 2 - G0"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -142,7 +142,7 @@ Part b) Remove 1s in S3, Missing enter
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
 </div>
@@ -153,7 +153,7 @@ Part b) Remove 1s in S3, Missing enter
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -290,7 +290,8 @@ $
 \begin{aligned}
 &= 1 \dfrac {1} {8} + \dfrac {1} {6} \\\\
 &= \dfrac {9} {8} + \dfrac {1} {6} \\\\
-&= \dfrac {9 \times 6 + 1 \times 8} {48} \\\\
+&= \dfrac {9 \times 6} {8 \times 6} + \dfrac {1 \times 8} {6 \times 8} \\\\
+&= \dfrac {54} {48} + \dfrac {8} {48} \\\\
 &= \dfrac {54 + 8} {48} \\\\
 &= \dfrac {62} {48} \\\\
 &= \dfrac {2 \times 31} {2 \times 24} \\\\
@@ -513,7 +514,7 @@ ducks
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
 </div>
@@ -524,7 +525,7 @@ ducks
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -566,7 +567,9 @@ $\dfrac{1}{4} + \dfrac{3}{8}$
 $
 \begin{aligned}
 &= \dfrac {1} {4} + \dfrac {3} {8} \\\\
-&= \dfrac {1 \times 2 + 3 \times 1} {8} \\\\
+&= \dfrac {1 \times 2} {4 \times 2} + \dfrac {3 \times 1} {8 \times 1} \\\\
+&= \dfrac {2} {8} + \dfrac {3} {8} \\\\
+&= \dfrac {2 + 3} {8} \\\\
 &= \dfrac {5} {8}
 \end{aligned}
 $
@@ -664,7 +667,7 @@ Do part a similar to part b.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
 </div>
@@ -675,7 +678,7 @@ Do part a similar to part b.
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -696,9 +699,9 @@ Give your answer in its simplest form.
 
 $
 \begin{aligned}
-&= \dfrac {1} {2} \times \dfrac {3} {7} + \dfrac {4} {7} \\\\
-&= \dfrac {1} {2} \times \dfrac {3 + 4} {7} \\\\
-&= \dfrac {1} {2} \times \dfrac {7} {7} \\\\
+&= \dfrac {1} {2} \times ( \dfrac {3} {7} + \dfrac {4} {7} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {3 + 4} {7} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {7} {7} ) \\\\
 &= \dfrac {1} {2} \times \dfrac {\cancel {7}} {\cancel {7}} \\\\
 &= \dfrac {1} {2}
 \end{aligned}

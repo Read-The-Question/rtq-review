@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -74,7 +74,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>452B5F78-B44B-4698-881F-BB372733F867</p>
 </div>
@@ -85,7 +85,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -117,7 +117,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$twenty-one over thirty-two$
+twenty-one over thirty-two
 
 </div>
 </div>
@@ -397,7 +397,7 @@ $\dfrac {2} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
 </div>
@@ -405,10 +405,10 @@ $\dfrac {2} {5}$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -449,12 +449,13 @@ Calculate two thirds of five and a quarter.
 
 $
 \begin{aligned}
-&= \dfrac{2}{3} \times 5 \dfrac{1}{4} \\\\
-&= \dfrac{2}{3} \times \dfrac{21}{4} \\\\
-&= \dfrac{2 \times 21}{3 \times 4} \\\\
-&= \dfrac{2 \times 7 \times 3} {3 \times 2 \times 2} \\\\
-&= \dfrac{\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2} \times 2} \\\\
-&= \dfrac{7}{2}
+&= \dfrac {2} {3} \times 5 \dfrac {1} {4} \\\\
+&= \dfrac {2} {3} \times \dfrac {21} {4} \\\\
+&= \dfrac {2 \times 21} {3 \times 4} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2} \times 2} \\\\
+&= \dfrac{7} {2} \\\\
+&= 3 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -463,7 +464,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{7}{2}$
+$3 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -512,7 +513,11 @@ Four cakes are divided equally amongst seven people. One fifth of a cake is left
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+
+\end{aligned}
+$
 
 </div>
 </div>
@@ -537,7 +542,15 @@ Write down a fraction between nine fifths and two.
 <div class='working'>
 
 $
-\dfrac{19}{10}
+\begin{aligned}
+&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {2} {1} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9 \times 1} {5 \times 1} + \dfrac {2 \times 5} {1 \times 5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {10} {5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9 + 10} {5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {19} {5} ) \\\\
+&= \dfrac {19} {10} \\\\
+&= 1 \dfrac {9} {10} 
+\end{aligned}
 $
 
 </div>
@@ -545,7 +558,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{19}{10}$
+$1 \dfrac {9} {10}$
 
 </div>
 </div>
@@ -553,47 +566,7 @@ $\dfrac{19}{10}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-Part a) Write answer as mixed fraction and add step at the end
-
-Part c) Workings and answer are empty
-
-Part d) Workings not written
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='7F8B7DAA-2971-4079-9737-6D7B149AA96E' id='FORM-7F8B7DAA-2971-4079-9737-6D7B149AA96E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7F8B7DAA-2971-4079-9737-6D7B149AA96E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -1157,7 +1130,7 @@ $0.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>2AFEEC0B-0A5C-4959-86EB-B1237A25AF55</p>
 </div>
@@ -1168,7 +1141,7 @@ $0.45$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1190,15 +1163,12 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 $
 \begin{aligned}
-&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
-&= \dfrac {9} {24} \\\\
-&= \dfrac {3 \times 3} {8 \times 3} \\\\
-&= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
-&= \dfrac {3} {8}
+\dfrac {\text{Shaded portion}} {\text{Count of portions}} &= \dfrac {9} {24} \\\\
+                                                          &= \dfrac {3 \times 3} {8 \times 3} \\\\
+                                                          &= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
+                                                          &= \dfrac {3} {8}
 \end{aligned}
 $
-
-Fraction of flag that has been shaded in simple fraction $= \dfrac {3} {8}$
 
 </div>
 </div>
@@ -1403,7 +1373,7 @@ $\dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4D13B102-C31F-46B4-9F05-1CA5A1F3F0AC</p>
 </div>
@@ -1414,7 +1384,7 @@ $\dfrac {1} {3}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1436,15 +1406,12 @@ What fraction of this flag has been shaded? Give the fraction as simply as possi
 
 $
 \begin{aligned}
-&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
-&= \dfrac {9} {24} \\\\
-&= \dfrac {3 \times 3} {8 times 3} \\\\
-&= \dfrac {3 \times \cancel{3}} {8 times \cancel{3}} \\\\
-&= \dfrac {3} {8}
+\dfrac {\text{Shaded portion}} {\text{Count of portions}} &= \dfrac {9} {24} \\\\
+                                                          &= \dfrac {3 \times 3} {8 \times 3} \\\\
+                                                          &= \dfrac {3 \times \cancel{3}} {8 \times \cancel{3}} \\\\
+                                                          &= \dfrac {3} {8}
 \end{aligned}
 $
-
-Fraction of flag that has been shaded in simple fraction $= \dfrac {3} {8}$
 
 </div>
 </div>

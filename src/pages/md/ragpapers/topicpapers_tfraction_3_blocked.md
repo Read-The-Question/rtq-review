@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-blocked"
 title: "TopicPaper - Fraction - 3 - BLOCKED"
-date: 2022-06-16 13:00:23
+date: 2022-06-16 15:24:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -229,6 +229,179 @@ $
 <div class='answer'>
 
 $\dfrac {2} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>7F8B7DAA-2971-4079-9737-6D7B149AA96E</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2017--sample-paper-7:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Calculate two thirds of five and a quarter.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {2} {3} \times 5 \dfrac {1} {4} \\\\
+&= \dfrac {2} {3} \times \dfrac {21} {4} \\\\
+&= \dfrac {2 \times 21} {3 \times 4} \\\\
+&= \dfrac {2 \times 7 \times 3} {3 \times 2 \times 2} \\\\
+&= \dfrac {\cancel{2} \times 7 \times \cancel{3}} {\cancel{3} \times \cancel{2} \times 2} \\\\
+&= \dfrac{7} {2} \\\\
+&= 3 \dfrac {1} {2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3 \dfrac {1} {2}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Add five eighths to three quarters.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac{5}{8} + \dfrac{3}{4} \\\\
+&= \dfrac{5}{8} + \dfrac{3 \times 2}{4 \times 2} \\\\
+&= \dfrac{5}{8} + \dfrac{6}{8} \\\\ 
+&= \dfrac{5 + 6}{8} \\\\
+&= \dfrac{11}{8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{11}{8}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Four cakes are divided equally amongst seven people. One fifth of a cake is left over. What fraction of a cake does each person get?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write down a fraction between nine fifths and two.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {2} {1} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9 \times 1} {5 \times 1} + \dfrac {2 \times 5} {1 \times 5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9} {5} + \dfrac {10} {5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {9 + 10} {5} ) \\\\
+&= \dfrac {1} {2} \times ( \dfrac {19} {5} ) \\\\
+&= \dfrac {19} {10} \\\\
+&= 1 \dfrac {9} {10} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1 \dfrac {9} {10}$
 
 </div>
 </div>

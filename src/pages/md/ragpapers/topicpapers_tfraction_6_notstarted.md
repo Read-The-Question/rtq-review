@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-notstarted"
 title: "TopicPaper - Fraction - 6 - NOTSTARTED"
-date: 2022-06-16 05:12:56
+date: 2022-06-16 06:20:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-16 05:12:56
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:33</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -210,7 +210,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -265,7 +265,7 @@ $3\dfrac{1}{2}$ or $\dfrac{7}{2}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -322,7 +322,7 @@ TODOANSWER
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -454,7 +454,7 @@ TODOANSWER
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -512,7 +512,7 @@ $63$
 <p>whitgift-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

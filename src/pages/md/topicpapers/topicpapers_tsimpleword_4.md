@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsimpleword-4"
 title: "TopicPaper - Simpleword - 4"
-date: 2022-06-16 05:12:56
+date: 2022-06-16 06:20:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -282,7 +282,7 @@ $128$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -804,7 +804,7 @@ $613$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2468,7 +2468,7 @@ $576$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2688,7 +2688,7 @@ $315 \ \text{cm}$
 <p>sevenoaks-school--11-plus--maths--2010--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2946,7 +2946,7 @@ $17$
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4879,7 +4879,7 @@ $\dfrac {1} {3}$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

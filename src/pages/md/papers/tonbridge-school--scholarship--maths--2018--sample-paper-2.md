@@ -1,7 +1,7 @@
 ---
 slug: "papers/tonbridge-school-scholarship-maths-2018-sample-paper-2"
 title: "Tonbridge School - Scholarship - Maths - 2018 - Sample Paper 2"
-date: 2022-06-16 05:10:00
+date: 2022-06-16 06:17:33
 ---
 <div class='paper'>
 <div class='meta'>
@@ -21,7 +21,7 @@ date: 2022-06-16 05:10:00
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -215,7 +215,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -380,7 +380,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -511,7 +511,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ad_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -674,7 +674,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -869,7 +869,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1060,7 +1060,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_wf_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

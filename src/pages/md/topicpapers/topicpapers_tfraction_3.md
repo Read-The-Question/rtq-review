@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-16 05:12:56
+date: 2022-06-16 06:20:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-16 05:12:56
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1258,7 +1258,7 @@ Remove S1, Write LHS, Remove last sentence
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1506,7 +1506,7 @@ Remove last sentence
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2803,7 +2803,7 @@ $\dfrac {303} {1000}$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:35</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2860,7 +2860,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:39</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3929,7 +3929,7 @@ $7 \dfrac {11} {42}$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4379,7 +4379,7 @@ Change to mixed fraction 1 3 /4/
 <p>sevenoaks-school--11-plus--maths--2011--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

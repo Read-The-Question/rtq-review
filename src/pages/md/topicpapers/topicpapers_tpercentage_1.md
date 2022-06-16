@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-16 05:12:56
+date: 2022-06-16 06:20:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -262,7 +262,7 @@ Use part a) in the calculation
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -388,7 +388,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -447,7 +447,7 @@ $40 \%$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2236,7 +2236,7 @@ Remove x 1 wherever it isnt required as a factor
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2393,7 +2393,7 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3144,7 +3144,7 @@ Part b) D
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_ar_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

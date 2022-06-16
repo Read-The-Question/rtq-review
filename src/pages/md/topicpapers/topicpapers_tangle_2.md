@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-16 05:12:56
+date: 2022-06-16 06:20:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -633,7 +633,7 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -762,7 +762,7 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-4:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -960,7 +960,7 @@ $28 \degree, \ 28 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1020,7 +1020,7 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3089,7 +3089,7 @@ $150 \degree$
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3146,7 +3146,7 @@ TODOANSWER
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4447,7 +4447,7 @@ show working for y = 30 ... y = 180/6......
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4519,7 +4519,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4580,7 +4580,7 @@ TODOANSWER
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_up_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

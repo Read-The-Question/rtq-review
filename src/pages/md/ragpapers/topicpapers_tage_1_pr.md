@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-pr"
 title: "TopicPaper - Age - 1 - PR"
-date: 2022-06-16 05:29:03
+date: 2022-06-16 06:20:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -725,6 +725,242 @@ Jack $=$ $40 \ \text {years}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-5BB59E9D-C92A-4395-B304-0088A8D9CB1F'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>8D09280B-2F5D-4FE1-98CE-8CADE8B9435C</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A man is $30$ years older than his youngest son. In $17$ years he will be twice his son's age. How old is the son?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let man's age $= a$
+
+His son's  age $= a - 30$
+
+As per the question,
+
+$
+\begin {aligned}
+a + 17          &= 2 \times (a - 30 + 17) \\\\
+a + 17          &= 2 \times (a - 13) \\\\
+a + 17          &= 2a - 26 \\\\
+a - 2a          &= - 26 - 17 \\\\
+-a              &= -43 \\\\
+\cancel {-} a   &= \cancel {-} 43 \\\\
+a               &= 43 \ \text {years}
+\end {aligned}
+$
+
+Man's age $= 43 \ \text {years}$
+
+$
+\begin {aligned}
+\text {Son's age}   &= a - 30 \\\\
+                    &= 43 - 30 \\\\
+                    &= 13 \ \text {years}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13 \ \text {years}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' id='FORM-8D09280B-2F5D-4FE1-98CE-8CADE8B9435C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8D09280B-2F5D-4FE1-98CE-8CADE8B9435C'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>FD3BD620-B568-4EAC-8F5A-72D6350A1625</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:21</p>
+</div>
+<div class='rag'>
+<p>rag_ak_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In September 2015 Mary was seven years older than Anna and Rebecca was three years older than Mary.
+
+In September 2018 Rebecca’s age is three times Anna’s age.  
+
+How old were the three girls in September 2015? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Mary's age $= a$
+
+Anna’s age $= a - 7$
+
+Rebecca’s age $= a + 3$
+
+As per the question,
+
+$
+\begin {aligned}
+a + 3 + 3       &= 3 \times (a - 7 + 3) \\\\
+a + 6           &= 3 \times (a - 4) \\\\
+a + 6           &= 3a - 12 \\\\
+a - 3a          &= -12 - 6 \\\\
+-2a             &= -18 \\\\
+\cancel {-} 2a  &= \cancel {-} 18 \\\\
+2a              &= 18 \\\\
+a               &= \dfrac {18} {2} \\\\
+a               &= \dfrac {2 \times 9} {2} \\\\
+a               &= \dfrac {\cancel {2} \times 9} {\cancel {2}} \\\\
+a               &= 9 \ \text {years}
+\end {aligned}
+$
+
+Mary's age $= 9 \ \text {years}$
+
+$
+\begin {aligned}
+\text {Anna’s age}      &= a - 7 \\\\
+                        &= 9 - 7 \\\\
+                        &= 2 \ \text {years}
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Rebecca’s age}   &= a + 3 \\\\
+                        &= 9 + 3 \\\\
+                        &= 12 \ \text {years}
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+Mary $=$ $9 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Anna $=$ $2 \ \text {years}$
+
+</div>
+<div class='answer'>
+
+Rebecca $=$ $12 \ \text {years}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='FD3BD620-B568-4EAC-8F5A-72D6350A1625' id='FORM-FD3BD620-B568-4EAC-8F5A-72D6350A1625' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FD3BD620-B568-4EAC-8F5A-72D6350A1625'>Initial</p>
 </div>
 </div>
 </li>

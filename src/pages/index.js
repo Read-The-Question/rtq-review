@@ -133,7 +133,11 @@ const IndexPage = ({data}) => {
   const prccNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      return slug.startsWith("ragpapers") && (slug.includes("-prcc") || (slug.includes("-prns"))) && !slug.includes("-blocked");
+      return slug.startsWith("ragpapers") && 
+      (
+        slug.includes("-prcc") || 
+        (slug.includes("-prns"))
+      );
     });
   }
 
@@ -147,7 +151,13 @@ const IndexPage = ({data}) => {
   const restOfNodes = (data) => {
     return data.allMarkdownRemark.edges.filter(({ node }) => {
       const slug = node.frontmatter.slug;
-      return slug.startsWith("ragpapers") && !((slug.includes("-blocked")) || (slug.includes("-prcc")) || (slug.includes("-prns")));
+
+      return slug.startsWith("ragpapers") && 
+      !(
+        (slug.includes("-blocked")) || 
+        (slug.includes("-prcc")) || 
+        (slug.includes("-prns"))
+        );
     });
   }
 

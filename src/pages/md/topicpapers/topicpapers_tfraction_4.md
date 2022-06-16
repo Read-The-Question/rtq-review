@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -330,13 +330,13 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Length (Left over)}          &= \ \text{Length (Total wire)} - \text{Length (Cut off piece)} \\\\
+\text {Left over}                  &= \ \text {Total wire} - \text {piece cut off} \\\\
                                    &= 15 \dfrac {1} {2} \text{m} - 2 \dfrac {3} {4} \text{m} \\\\
                                    &= \dfrac {31} {2} - \dfrac {11} {4} \\\\
                                    &= \dfrac {31 \times 2} {2  \times 2} - \dfrac {11} {4} \\\\
                                    &= \dfrac {62} {4} - \dfrac {11} {4} \\\\
                                    &= \dfrac {62 - 11} {4} \\\\
-                                   &= \dfrac {51} {4} \text{m} \\\\
+                                   &= \dfrac {51} {4} \\\\
                                    &= 12 \dfrac {3} {4} \text{m}
 \end{aligned}
 $
@@ -346,7 +346,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$12 \dfrac {3} {4} \text{m}$ or $\dfrac {51} {4} \text{m}$
+$12 \dfrac {3} {4} \text{m}$
 
 </div>
 </div>
@@ -397,7 +397,7 @@ Remove units from S6 and give answer as a mixed fraction not both options
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>15AB3B3D-E805-4DE3-9701-7E1997E30FB3</p>
 </div>
@@ -408,7 +408,7 @@ Remove units from S6 and give answer as a mixed fraction not both options
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -429,10 +429,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Distance walked (Halfway)}         &= \text{Total distance} \div 2 \\\\
+\text{Halfway}                           &= \dfrac {\text{Total distance}} {2} \\\\
                                          &= 1 \dfrac {3} {4} \div 2 \\\\
                                          &= \dfrac {7} {4} \times \dfrac {1} {2} \\\\
-                                         &= \dfrac {7 \times 1} {4 \times 2} \\\\
+                                         &= \dfrac {7} {4 \times 2} \\\\
                                          &= \dfrac {7} {8} \ \text{km}
 \end{aligned}
 $
@@ -639,7 +639,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA</p>
 </div>
@@ -650,7 +650,7 @@ $\dfrac {3} {7}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -692,7 +692,7 @@ $\dfrac {1} {4} \times \dfrac {1} {3}$
 $
 \begin{aligned}
 &= \dfrac {1} {4} \times \dfrac {1} {3} \\\\
-&= \dfrac {1 \times 1} {4 \times 3} \\\\
+&= \dfrac {1} {4 \times 3} \\\\
 &= \dfrac {1} {12}                            
 \end{aligned}
 $
@@ -723,7 +723,6 @@ $
 \begin{aligned}
 &= \dfrac {1} {4} \div \dfrac {1} {3} \\\\
 &= \dfrac {1} {4} \times \dfrac {3} {1} \\\\
-&= \dfrac {1 \times 3} {4 \times 1} \\\\
 &= \dfrac {3} {4}                          
 \end{aligned}
 $
@@ -767,7 +766,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7 \dfrac{7}{12}$ or $\dfrac{91}{12}$
+$7 \dfrac{7}{12}$
 
 </div>
 </div>
@@ -823,7 +822,7 @@ Part c) Only give mixed number as answer option
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>48450F7A-0A8A-471A-90C4-B1E78B195B12</p>
 </div>
@@ -834,7 +833,7 @@ Part c) Only give mixed number as answer option
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -914,7 +913,7 @@ Discuss division VS fraction
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6864E850-7B4A-42CC-B277-9E186CB962B8</p>
 </div>
@@ -925,7 +924,7 @@ Discuss division VS fraction
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -945,12 +944,8 @@ $\dfrac{3184} {8}$ is
 $
 \begin{aligned}
 &= \dfrac {3184} {8} \\\\
-&= \dfrac {2 \times 1592} {2 \times 4} \\\\
-&= \dfrac {\cancel 2 \times 1592} {\cancel 2 \times 4} \\\\
-&= \dfrac {2 \times 796} {2 \times 2} \\\\
-&= \dfrac {\cancel 2 \times 796} {\cancel 2 \times 2} \\\\
-&= \dfrac {2 \times 398} {2} \\\\
-&= \dfrac {\cancel 2 \times 398} {\cancel 2} \\\\
+&= \dfrac {2 \times 2 \times 2 \times 398} {2 \times 2 \times 2} \\\\
+&= \dfrac {\cancel {2} \times \cancel {2} \times \cancel {2} \times 398} { \cancel {2} \times \cancel {2} \times \cancel {2} } \\\\
 &= 398
 \end{aligned}
 $
@@ -1009,7 +1004,7 @@ Discuss division VS fraction
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>018B54D1-3C23-4B75-8420-8637D0627456</p>
 </div>
@@ -1020,7 +1015,7 @@ Discuss division VS fraction
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1126,7 +1121,8 @@ $\dfrac {3}{7} \times \dfrac {1}{9}$
 $
 \begin{aligned}
 &= \dfrac {3} {7} \times \dfrac {1} {9} \\\\
-&= \dfrac {3 \times 1} {7 \times 3 \times 3} \\\\
+&= \dfrac {3} {7 \times 9} \\\\
+&= \dfrac {3} {7 \times 3 \times 3} \\\\
 &= \dfrac {\cancel {3}} {7 \times 3 \times \cancel {3}} \\\\
 &= \dfrac {1} {21}
 \end{aligned}
@@ -1188,8 +1184,6 @@ $\dfrac {1}{2} + \dfrac {1}{3} +  \dfrac {1}{4}$
 </div>
 <div class='workings'>
 <div class='working'>
-
-Let's make the denominator the same for all the fractions.
 
 $
 \begin{aligned}
@@ -1260,7 +1254,7 @@ Parr e) Remove first sentence
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>64E8E815-C669-487D-AEA2-5443BC448443</p>
 </div>
@@ -1271,7 +1265,7 @@ Parr e) Remove first sentence
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1296,22 +1290,6 @@ $
 &= \dfrac {39 - 17} {5} \\\\
 &= \dfrac {22} {5} \\\\
 &= 4 \dfrac {2} {5}
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Alternative Solution
-
-As the denominator of the mixed fraction is same, we can subtract both fractions direcltly.
-
-$
-\begin{aligned} 
-    &    7    &   \dfrac {4} {5} \\
-{}- &    3    &   \dfrac {2} {5} \\
-\hline
-    &    4    &   \cfrac {2} {5}
 \end{aligned}
 $
 
@@ -1454,7 +1432,7 @@ $3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>438BD9BA-0277-473A-99CB-FE5F23A3718E</p>
 </div>
@@ -1465,7 +1443,7 @@ $3$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1484,11 +1462,9 @@ Work out one third of one quarter of 252
 
 $
 \begin{aligned}
-&= \text{one third of one quarter of} 252 \\\\
+&= \text {one third of one quarter of} \ 252 \\\\
 &= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
-&= \dfrac {1 \times 1 \times 252} {3 \times 4} \\\\
-&= \dfrac {2 \times 126} {3 \times 2 \times 2} \\\\
-&= \dfrac {2 \times 3 \times 42} {3 \times 2 \times 2} \\\\
+&= \dfrac {252} {3 \times 4} \\\\
 &= \dfrac {2 \times 3 \times 2 \times 21} {3 \times 2 \times 2} \\\\
 &= \dfrac {\cancel{2} \times \cancel{3} \times \cancel{2} \times 21} {\cancel{3} \times \cancel{2} \times \cancel{2}} \\\\
 &= 21
@@ -1549,7 +1525,7 @@ In S1 add space, In S3 remove 1s, Remove S4 and S5
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8992E35F-6A69-4AF4-AE67-0068769E9060</p>
 </div>
@@ -1560,7 +1536,7 @@ In S1 add space, In S3 remove 1s, Remove S4 and S5
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1580,13 +1556,9 @@ How much more cake does Simon have left than Paulina?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-As both baked $5$ cakes each, to find how much more cake Simon have left than Paulina we need to find the difference only.
-
 $
 \begin{aligned}
-&= \text {Cake Paulina sold} - \text {Cake Simon sold}
+&= \text {Cake Paulina sold} - \text {Cake Simon sold} \\\\
 &= 4 \dfrac {3} {4} - 2 \dfrac {1} {4} \\\\
 &= \dfrac {19} {4} - \dfrac {9} {4} \\\\
 &= \dfrac {19 - 9} {4} \\\\
@@ -1597,8 +1569,6 @@ $
 &= 2 \dfrac {1} {2}
 \end{aligned}
 $
-
-Cake Simon have left more than Paulina $= 2 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -1658,7 +1628,7 @@ Remove last sentence
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>49B00B08-583C-4982-92BC-E09BCE8B7244</p>
 </div>
@@ -1669,7 +1639,7 @@ Remove last sentence
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1686,6 +1656,8 @@ Fill in three missing numbers to make these four fractions equivalent
 </div>
 <div class='workings'>
 <div class='working'>
+
+Let the missing numbers be a, b, c respectively.
 
 $
 \begin{aligned}
@@ -1773,7 +1745,7 @@ Uday have a look
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C30BF301-31A8-49BD-93AF-8F4445A5BECD</p>
 </div>
@@ -1784,7 +1756,7 @@ Uday have a look
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1872,6 +1844,7 @@ As per the question,
 $
 \begin{aligned}
 \dfrac {4} {5} \times \dfrac {11} {12} &= \dfrac {11} {15} \\\\
+\dfrac {11} {12}                       &= \dfrac{11} {15} \times \dfrac{5}{4} \\\\
 \dfrac {11} {12}                       &= \dfrac{11} {15} \div \dfrac{4}{5} \\\\
 \dfrac {11} {15} \div \dfrac {4} {5}   &= \dfrac {11} {12}
 \end{aligned}
@@ -2250,7 +2223,7 @@ $6$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A133195C-50E7-4B5A-BEED-8C9CC8036DBA</p>
 </div>
@@ -2261,7 +2234,7 @@ $6$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2363,7 +2336,7 @@ Uday have a look
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>92F38040-1A4F-426B-B28B-AB989B5B7154</p>
 </div>
@@ -2374,7 +2347,7 @@ Uday have a look
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2457,7 +2430,7 @@ Uday have a look
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8B4FB110-F401-4A33-A275-E3985E0D86D3</p>
 </div>
@@ -2468,7 +2441,7 @@ Uday have a look
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2491,9 +2464,9 @@ As per the question,
 
 $
 \begin{aligned}
-\dfrac {2} {3} \ \text {of x}     &= 14 \\\\
 \dfrac {2} {3} \times \text {x}   &= 14 \\\\
 2 \times \text{x}                 &= 14 \times 3 \\\\
+\text{x}                          &= \dfrac {14 \times 3} {2} \\\\
 \text{x}                          &= \dfrac {7 \times 2 \times 3} {2} \\\\
 \text{x}                          &= \dfrac {7 \times \cancel {2} \times 3}{\cancel {2}} \\\\
 \text{x}                          &= 7 \times{3} \\\\
@@ -4877,7 +4850,7 @@ $18$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>055B29BD-B79C-4165-ABA0-871C50A3CE48</p>
 </div>
@@ -4888,7 +4861,7 @@ $18$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4912,7 +4885,7 @@ $
 &= \dfrac {5 \times 112} {7} \\\\
 &= \dfrac {5 \times 16 \times 7} {7} \\\\
 &= \dfrac {5 \times 16 \times \cancel {7}} {\cancel{7}} \\\\
-&= 16 \times 5 \\\\\
+&= 5 \times 16 \\\\\
 &= 80
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-3"
 title: "TopicPaper - Detailedmultiplication - 3"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <div class='paper'>
 <div class='meta'>

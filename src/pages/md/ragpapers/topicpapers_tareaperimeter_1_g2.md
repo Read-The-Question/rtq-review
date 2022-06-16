@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-1-g2"
 title: "TopicPaper - Areaperimeter - 1 - G2"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-16 15:24:20
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -115,7 +115,7 @@ $32 \ \text {cm}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-3:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -280,7 +280,7 @@ $150$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -376,7 +376,7 @@ $56 \ \text {cm}$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -482,7 +482,7 @@ $25 \ \text{cm}^{2}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -576,7 +576,7 @@ $44$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -688,7 +688,7 @@ $24 \ \text{cm}$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -785,7 +785,7 @@ $240$
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -943,7 +943,7 @@ $50 \ \text{m}$
 <p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g2</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

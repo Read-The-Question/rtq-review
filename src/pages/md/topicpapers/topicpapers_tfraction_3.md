@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1610,7 +1610,7 @@ $\dfrac {2} {27}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A3BF54BC-2019-48A1-BAF0-36A36DD5F6E6</p>
 </div>
@@ -1621,7 +1621,7 @@ $\dfrac {2} {27}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1647,7 +1647,6 @@ $
 &= \dfrac {360} {9} \\\\
 &= \dfrac {40 \times 9} {9} \\\\
 &= \dfrac {40 \times \cancel{9}} {\cancel{9}} \\\\
-&= 40 \\\\
 &= 40
 \end{aligned}
 $
@@ -1656,11 +1655,9 @@ Using the above answer to find $\dfrac {4} {9} \ \text{of} \ 360$.
 
 $
 \begin{aligned}
-&= \dfrac {4} {9} \ \text{of} \ 360 \\\\
-&= \dfrac {4} {9} \times 360 \\\\
-&= 4 \times \dfrac {360} {9} \\\\
-&= 4 \times 40 \\\\
-&= 160
+\text{four ninths of 360} &= 4 \times \text{one ninth of 360} \\\\
+                          &= 4 \times 40 \\\\
+                          &= 160
 \end{aligned}
 $
 
@@ -1722,7 +1719,7 @@ Use separate TOML answers
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BA8C9025-5D51-45CB-AB50-26D0AF93F391</p>
 </div>
@@ -1733,7 +1730,7 @@ Use separate TOML answers
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1760,7 +1757,7 @@ $
 \begin{aligned}
 &= \dfrac {1} {4} \ \text{ of } \ 24 + \dfrac {2} {5} \ \text{ of } \ 30 + \dfrac {1} {3} \ \text{ of } \ 15 \\\\
 &= \dfrac {1} {4} \times 24 + \dfrac {2} {5} \times 30 + \dfrac {1} {3} \times 15 \\\\
-&= \dfrac {1 \times 24} {4} + \dfrac {2 \times 30} {5} + \dfrac {1 \times 15} {3} \\\\
+&= \dfrac {24} {4} + \dfrac {2 \times 30} {5} + \dfrac {15} {3} \\\\
 &= \dfrac {24} {4} + \dfrac {60} {5} + \dfrac {15} {3} \\\\
 &= \dfrac {6 \times 4} {4} + \dfrac {12 \times 5} {5} + \dfrac {5 \times 3} {3} \\\\
 &= \dfrac {6 \times \cancel{4}} {\cancel{4}} + \dfrac {12 \times \cancel{5}} {\cancel{5}} + \dfrac {5 \times \cancel{3}} {\cancel{3}} \\\\
@@ -1992,7 +1989,7 @@ $\dfrac {1} {15}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4DAC2267-23FB-4819-9BFF-D6661D1E820C</p>
 </div>
@@ -2003,7 +2000,7 @@ $\dfrac {1} {15}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2022,22 +2019,7 @@ What is $\text{half of 999}$?
 
 $
 \begin{aligned}
-&= \text{half of 999} \\\\\
 &= \dfrac {999} {2} \\\\\
-&= 499.5
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text{half of 999} \\\\\
-&= \dfrac {999} {2} \\\\\
-&= \dfrac {1000 - 1} {2} \\\\\
-&= \dfrac {1000} {2} - \dfrac {1} {2} \\\\\
-&= 500 - 0.50 \\\\
 &= 499.5
 \end{aligned}
 $
@@ -2098,7 +2080,7 @@ In first work drop S1
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B5D8F8D-C8DE-4749-80CE-805DE7791F8B</p>
 </div>
@@ -2109,7 +2091,7 @@ In first work drop S1
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2150,10 +2132,9 @@ Find $\text{one seventh of 280}$
 
 $
 \begin{aligned}
-&= \text{one seventh of 280} \\\\
 &= \dfrac {1} {7} \ \text{of} \ 280 \\\\
 &= \dfrac {1} {7} \times 280 \\\\
-&= \dfrac {1 \times 280} {7} \\\\
+&= \dfrac {280} {7} \\\\
 &= \dfrac {7 \times 40} {7} \\\\
 &= \dfrac {\cancel{7} \times 40} {\cancel{7}} \\\\
 &= 40
@@ -2247,7 +2228,7 @@ Part a) Remove S1, Remove 1 in S4
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7C3DC077-F159-440D-95DC-21DDF801F0B4</p>
 </div>
@@ -2258,7 +2239,7 @@ Part a) Remove S1, Remove 1 in S4
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2300,15 +2281,12 @@ What fraction of this flag is shaded?
 
 $
 \begin{aligned}
-&= \dfrac {\text{Shaded portion}} {\text{Count of portions}} \\\\
 &= \dfrac {12} {30} \\\\
 &= \dfrac {2 \times 6} {5 \times 6} \\\\
 &= \dfrac {2 \times \cancel{6}} {5 \times \cancel{6}} \\\\
 &= \dfrac {2} {5}
 \end{aligned}
 $
-
-Fraction of flag that has been shaded in simple fraction $= \dfrac {2} {5}$
 
 </div>
 </div>
@@ -2333,13 +2311,9 @@ How many more rectangles need to be shaded to fill $\dfrac{4}{5}$ of the flag?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Required rectangles to be shaded = Rectangle to be shaded - shaded rectangles
-
 $
 \begin{aligned}
-\text{No. of rectangels to be shaded}                &= \text{Fraction to be filled} - \ \text{Shaded rectangle} \\\\
+\text {No. of rectangles}                            &= \text {Fraction to be filled} - \ \text {Shaded rectangles} \\\\
                                                      &= \dfrac {4} {5} \times 30 - 12 \\\\
                                                      &= \dfrac {4 \times 30} {5} - 12 \\\\
                                                      &= \dfrac {120} {5} - 12 \\\\
@@ -2349,8 +2323,6 @@ $
                                                      &= 12
 \end{aligned}
 $
-
-Number of rectangles that needs to be shaded to fill $\dfrac {4} {5} = 12$
 
 </div>
 </div>
@@ -3047,7 +3019,7 @@ $\dfrac {22} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>67DF39CD-1E0F-4819-A398-56826AE81698</p>
 </div>
@@ -3058,7 +3030,7 @@ $\dfrac {22} {25}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3100,7 +3072,7 @@ $\dfrac{3}{8}\times\dfrac{1}{4}$
 $
 \begin{aligned}
 &= \dfrac {3} {8} \times \dfrac {1} {4} \\\\
-&= \dfrac {3 \times 1} {8 \times 4} \\\\
+&= \dfrac {3} {8 \times 4} \\\\
 &= \dfrac {3} {32}
 \end{aligned}
 $
@@ -3132,8 +3104,8 @@ Dividing fractions is the same as multiplying by the reciprocal (inverse) of the
 $
 \begin{aligned}
 &= \dfrac {3} {8} \div \dfrac {1} {4} \\\\
-&= \dfrac {3} {8} \times \dfrac {4} {1} \\\\
-&= \dfrac {3 \times 4} {8 \times 1} \\\\
+&= \dfrac {3} {8} \times 4 \\\\
+&= \dfrac {3 \times 4} {8} \\\\
 &= \dfrac {3 \times 4} {2 \times 4} \\\\
 &= \dfrac {3 \times \cancel{4}} {2 \times \cancel{4}} \\\\
 &= \dfrac {3} {2}
@@ -3201,7 +3173,7 @@ Remove 1 in both questions where not required
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>20FFB3B3-D90A-4723-80DE-4B7A60EEC7ED</p>
 </div>
@@ -3212,7 +3184,7 @@ Remove 1 in both questions where not required
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3246,7 +3218,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {27} {8} \ \text{or} \ 3 \dfrac {1} {8}$
+$3 \dfrac {1} {8}$
 
 </div>
 </div>
@@ -3295,7 +3267,7 @@ Drop 27/8 in the answer. 27/8 is wrong anyway.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>51BE3331-B883-4A95-BF82-EF9386AA637F</p>
 </div>
@@ -3306,7 +3278,7 @@ Drop 27/8 in the answer. 27/8 is wrong anyway.
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3343,7 +3315,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {17} {2} \ \text{or} \ 8 \dfrac {1} {2}$
+$8 \dfrac {1} {2}$
 
 </div>
 </div>
@@ -3564,7 +3536,7 @@ $\dfrac {101} {250}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>19EB1F00-24D6-4752-9327-34D60363D8FE</p>
 </div>
@@ -3575,7 +3547,7 @@ $\dfrac {101} {250}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3617,7 +3589,7 @@ $\dfrac{3}{4}\times\dfrac{1}{6}$
 $
 \begin{aligned}
 &= \dfrac {3} {4} \times \dfrac {1} {6} \\\\
-&= \dfrac {3 \times 1} {4 \times 6} \\\\
+&= \dfrac {3} {4 \times 6} \\\\
 &= \dfrac {3} {4 \times 2 \times 3} \\\\
 &= \dfrac {\cancel{3}} {8 \times \cancel{3}} \\\\
 &= \dfrac {1} {8}
@@ -3651,8 +3623,8 @@ $\dfrac{3}{4}\div\dfrac{1}{6}$
 $
 \begin{aligned}
 &= \dfrac {3} {4} \div \dfrac {1} {6} \\\\
-&= \dfrac {3} {4} \times \dfrac {6} {1} \\\\
-&= \dfrac {3 \times 6} {4 \times 1} \\\\
+&= \dfrac {3} {4} \times 6 \\\\
+&= \dfrac {3 \times 6} {4} \\\\
 &= \dfrac {3 \times 3 \times 2} {2 \times 2} \\\\
 &= \dfrac {3 \times 3 \times \cancel{2}} {2 \times \cancel{2}} \\\\
 &= \dfrac {9} {2}
@@ -4150,7 +4122,7 @@ $\dfrac{3}{7}\times\dfrac{1}{2}$
 $
 \begin{aligned}
 &= \dfrac {3} {7} \times \dfrac {1} {2} \\\\
-&= \dfrac {3 \times 1} {7 \times 2} \\\\
+&= \dfrac {3} {7 \times 2} \\\\
 &= \dfrac {3} {14}
 \end{aligned}
 $
@@ -4182,8 +4154,8 @@ Dividing fractions is the same as multiplying by the reciprocal (inverse) of the
 $
 \begin{aligned}
 &= \dfrac {3} {7} \div \dfrac {1} {2} \\\\
-&= \dfrac {3} {7} \times \dfrac {2} {1} \\\\
-&= \dfrac {3 \times 2} {7 \times 1} \\\\
+&= \dfrac {3} {7} \times 2 \\\\
+&= \dfrac {3 \times 2} {7} \\\\
 &= \dfrac {6} {7}
 \end{aligned}
 $
@@ -4280,7 +4252,8 @@ $
 &= \dfrac {17} {4} - \dfrac {5 \times 2} {2 \times 2} \\\\
 &= \dfrac {17} {4} - \dfrac {10} {4} \\\\
 &= \dfrac {17 - 10} {4} \\\\
-&= \dfrac {7} {4}
+&= \dfrac {7} {4} \\\\
+&= 1 \dfrac {3} {4}
 \end{aligned}
 $
 
@@ -4289,7 +4262,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {7} {4}$
+$1 \dfrac {3} {4}$
 
 </div>
 </div>
@@ -4395,7 +4368,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A62FD050-8CF5-4180-9976-6E1B8C2FC613</p>
 </div>
@@ -4406,7 +4379,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4451,7 +4424,7 @@ $
 &= \dfrac {2} {5} \times 2.50 \\\\
 &= \dfrac {2 \times 2.50} {5} \\\\
 &= \dfrac {5} {5} \\\\
-&= 1
+&= \pounds 1
 \end{aligned}
 $
 
@@ -4460,7 +4433,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1$
+$\pounds 1$
 
 </div>
 </div>
@@ -4479,12 +4452,12 @@ $\dfrac {3} {7} \text{ of }  35$
 
 $
 \begin{aligned}
-&= \dfrac {3} {7} \text { of } \pounds{35} \\\\
+&= \dfrac {3} {7} \text { of } 35 \\\\
 &= \dfrac {3} {7} \times 35 \\\\
 &= \dfrac {3 \times 35} {7} \\\\
 &= \dfrac {3 \times 7 \times 5} {7} \\\\
 &= \dfrac {3 \times \cancel{7} \times 5} {\cancel{7}} \\\\
-&= 5 \times 3 \\\\
+&= 3 \times 5 \\\\
 &= 15
 \end{aligned}
 $

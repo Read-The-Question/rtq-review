@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-g0"
 title: "TopicPaper - Areaperimeter - 8 - G0"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-16 15:24:20
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -163,7 +163,7 @@ $16 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -263,7 +263,7 @@ $36 \ \text{cm}$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -372,7 +372,7 @@ $40 \ \text{cm}^2$
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -467,7 +467,7 @@ $24.9 \ \text{cm}^2$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -572,7 +572,7 @@ $56$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -687,7 +687,7 @@ $28 \ \text{m}^2$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-g0"
 title: "TopicPaper - Areaperimeter - 7 - G0"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-16 15:24:20
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:38</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -111,7 +111,7 @@ $126 \ \text{cm} ^ 2$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:31</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -218,7 +218,7 @@ $8 \ \text {cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -306,7 +306,7 @@ $\dfrac {1} {9}$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -407,7 +407,7 @@ $135$
 <p>the-manchester-grammar-school--11-plus--maths--2010--arithmetic-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -504,7 +504,7 @@ $34 \ \text{cm}^2$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -611,7 +611,7 @@ $30 \ \text{cm}^2$
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -727,7 +727,7 @@ $34 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -822,7 +822,7 @@ $48 \ \text{cm}$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -978,7 +978,7 @@ $38 \ \text {cm} ^ 2$
 <p>the-manchester-grammar-school--11-plus--maths--2014--arithmetic-a:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1096,7 +1096,7 @@ $60 \ \text{cm}^{2}$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1202,7 +1202,7 @@ $48 \ \text{cm}^2$
 <p>the-manchester-grammar-school--11-plus--maths--2017--arithmetic-a:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1322,7 +1322,7 @@ $6 \ \text {m}$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ad_g0</p>
+<p>rag_wf_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

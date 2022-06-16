@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-6-oldpr"
 title: "TopicPaper - Areaperimeter - 6 - OLDPR"
-date: 2022-06-16 15:24:20
+date: 2022-06-16 18:31:18
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-16 15:24:20
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ad_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -113,7 +113,7 @@ align on    &=        (see slack)
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ad_oldpr</p>
+<p>rag_wf_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

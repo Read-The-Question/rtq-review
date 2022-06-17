@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g0"
 title: "TopicPaper - Fraction - 4 - G0"
-date: 2022-06-16 22:12:25
+date: 2022-06-17 05:51:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -728,99 +728,6 @@ In all parts remove 1 where not required
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-018B54D1-3C23-4B75-8420-8637D0627456'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>438BD9BA-0277-473A-99CB-FE5F23A3718E</p>
-</div>
-<div class='papername'>
-<p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ar_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Work out one third of one quarter of 252 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \text {one third of one quarter of} \ 252 \\\\
-&= \dfrac {1} {3} \times \dfrac {1} {4} \times 252 \\\\
-&= \dfrac {252} {3 \times 4} \\\\
-&= \dfrac {2 \times 3 \times 2 \times 21} {3 \times 2 \times 2} \\\\
-&= \dfrac {\cancel{2} \times \cancel{3} \times \cancel{2} \times 21} {\cancel{3} \times \cancel{2} \times \cancel{2}} \\\\
-&= 21
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$21$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-In S1 add space, In S3 remove 1s, Remove S4 and S5
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='438BD9BA-0277-473A-99CB-FE5F23A3718E' id='FORM-438BD9BA-0277-473A-99CB-FE5F23A3718E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-438BD9BA-0277-473A-99CB-FE5F23A3718E'>Initial</p>
 </div>
 </div>
 </li>

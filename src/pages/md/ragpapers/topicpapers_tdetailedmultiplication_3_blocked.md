@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-blocked"
 title: "TopicPaper - Detailedmultiplication - 3 - BLOCKED"
-date: 2022-06-16 22:12:25
+date: 2022-06-17 05:51:49
 ---
 <ul class='question default-decimal'>
 <li>

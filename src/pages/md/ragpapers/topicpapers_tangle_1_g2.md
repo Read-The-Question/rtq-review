@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-g2"
 title: "TopicPaper - Angle - 1 - G2"
-date: 2022-06-16 22:12:25
+date: 2022-06-17 05:51:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -879,6 +879,95 @@ $y$ $=$ $52 \degree$
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
+<p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
+</div>
+<div class='papername'>
+<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_na_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The diagram shows a protractor being used to measure the angle between two lines.
+
+![missing image](/papers/missing_image.svg)
+
+
+The lines are labelled **Line $1$** and **Line $2$**.
+
+Use the protractor to measure the angle between **Line $1$** and **Line $2$**.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the diagram,
+
+$
+\begin {aligned}
+\text {Angle}   &= 110 \degree - 50 \degree \\\\
+                &= 60 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60 \ \text {degrees}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' id='FORM-CFF3BE59-53C8-4689-9970-4DE5520555CE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-CFF3BE59-53C8-4689-9970-4DE5520555CE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
 <p>40FF7E29-DBCE-405A-9982-1F39CD4E3D5E</p>
 </div>
 <div class='papername'>
@@ -1085,6 +1174,115 @@ $62 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-3F849C5D-4F08-4C1D-8B66-7345401C3CFA'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_na_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at the diagram.
+
+![missing image](/papers/missing_image.svg)
+
+
+Find the size of angle $k$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add an image with angles inside of the triangle shown *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+As per the diagram,
+
+$
+\begin {aligned}
+k + (180 - 130) + (180 - 85)    &= 180 \\\\
+k + 50 + 95                     &= 180 \\\\
+k + 145                         &= 180 \\\\
+k                               &= 180 - 145 \\\\
+k                               &= 35 \degree
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$35 \degree$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' id='FORM-E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-E6029E08-D0C0-42FA-85EF-4F7D6CD587FD'>Initial</p>
 </div>
 </div>
 </li>

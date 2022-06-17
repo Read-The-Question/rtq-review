@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tage-1"
 title: "TopicPaper - Age - 1"
-date: 2022-06-16 22:12:25
+date: 2022-06-17 05:51:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3342,7 +3342,7 @@ Catherine $=$ $7 \ \text {years}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>115CB135-A9EE-40E1-B989-BEDFDFB53FEE</p>
 </div>
@@ -3350,7 +3350,7 @@ Catherine $=$ $7 \ \text {years}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ak_notstarted</p>
+<p>rag_ak_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3361,7 +3361,7 @@ Catherine $=$ $7 \ \text {years}$
 tage
 </li>
 <li>
-talgebra
+tsimpleword
 </li>
 </ul>
 </div>
@@ -3375,19 +3375,58 @@ How old is Mary? Give your answer in years and months.
 <div class='workings'>
 <div class='working'>
 
+As per the question,
 
+$
+\begin {aligned}
+\text {Mary's age}  &= \text {Eleanor's age} - 3 \ \text {years} \ 10 \ \text {months} \\\\
+                    &= 11 \ \text {years} \ 4 \ \text {months} - 3 \ \text {years} \ 10 \ \text {months} \\\\
+                    &= 7 \ \text {years} \ 6 \ \text {months}
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$7 \ \text {years} \ 6 \ \text {months}$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='115CB135-A9EE-40E1-B989-BEDFDFB53FEE' id='FORM-115CB135-A9EE-40E1-B989-BEDFDFB53FEE' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-115CB135-A9EE-40E1-B989-BEDFDFB53FEE'>Initial</p>
+</div>
 </div>
 </li>
 <li>

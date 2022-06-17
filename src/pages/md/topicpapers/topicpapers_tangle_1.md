@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-16 22:12:25
+date: 2022-06-17 05:51:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1515,7 +1515,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>CFF3BE59-53C8-4689-9970-4DE5520555CE</p>
 </div>
@@ -1523,10 +1523,10 @@ TODOANSWER
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_na_g0</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1573,26 +1573,26 @@ $60 \ \text {degrees}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' id='FORM-CFF3BE59-53C8-4689-9970-4DE5520555CE' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='CFF3BE59-53C8-4689-9970-4DE5520555CE' id='FORM-CFF3BE59-53C8-4689-9970-4DE5520555CE' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -2259,7 +2259,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>E6029E08-D0C0-42FA-85EF-4F7D6CD587FD</p>
 </div>
@@ -2267,10 +2267,10 @@ TODOANSWER
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_na_oldpr</p>
+<p>rag_na_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2294,6 +2294,16 @@ Find the size of angle $k$.
 </div>
 <div class='workings'>
 <div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add an image with angles inside of the triangle shown *
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
@@ -2327,26 +2337,26 @@ $35 \degree$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' id='FORM-E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' id='FORM-E6029E08-D0C0-42FA-85EF-4F7D6CD587FD' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

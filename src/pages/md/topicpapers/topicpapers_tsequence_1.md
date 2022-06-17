@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-1"
 title: "TopicPaper - Sequence - 1"
-date: 2022-06-17 05:51:49
+date: 2022-06-17 18:35:44
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2903,7 +2903,7 @@ $3, \quad 5, \quad 7, \quad 9, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $2$. Hence, the sequence would be:
+The next term is calculated by adding $2$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -2935,7 +2935,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11, 13$
+$11$
+
+</div>
+<div class='answer'>
+
+$13$
 
 </div>
 </div>
@@ -2955,7 +2960,7 @@ $5.1, \quad 6.3, \quad 7.5, \quad 8.7, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $1.2$. Hence, the sequence would be:
+The next term is calculated by adding $1.2$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -2987,7 +2992,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9.9, 11.1$
+$9.9$
+
+</div>
+<div class='answer'>
+
+$11.1$
 
 </div>
 </div>
@@ -3039,7 +3049,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$81, 243$
+$81$
+
+</div>
+<div class='answer'>
+
+$243$
 
 </div>
 </div>
@@ -3091,7 +3106,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.8, 9.6$
+$4.8$
+
+</div>
+<div class='answer'>
+
+$9.6$
 
 </div>
 </div>
@@ -3111,7 +3131,7 @@ $15, \quad 11, \quad 7, \quad 3, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -3143,7 +3163,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-1, -5$
+$-1$
+
+</div>
+<div class='answer'>
+
+$-5$
 
 </div>
 </div>

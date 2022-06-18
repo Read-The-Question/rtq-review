@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-1"
 title: "TopicPaper - Detailedsubtraction - 1"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2358,7 +2358,7 @@ $82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7002E449-EEBA-49EF-A1BD-DA0806D4924B</p>
 </div>
@@ -2369,7 +2369,7 @@ $82$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2395,9 +2395,9 @@ ABBR: Remember to line up the decimal points.
 $
 \begin{array}{cccccccccccccc}
     &   3   &   0 \ .    &    0  &   3 \\
-{}+ &       &   3 \ .    &    3  &   0 \\
+{}- &       &   3 \ .    &    3  &   0 \\
 \hline
-    &   3   &   3 \ .    &    3  &   3
+    &   2   &   6 \ .    &    7  &   3
 \end{array}
 $
 
@@ -2406,7 +2406,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33.33$
+$26.73$
 
 </div>
 </div>

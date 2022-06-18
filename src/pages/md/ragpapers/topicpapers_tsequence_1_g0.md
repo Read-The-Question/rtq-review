@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-g0"
 title: "TopicPaper - Sequence - 1 - G0"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>89F00B0D-2774-43B2-B069-D08574377959</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-17 18:35:44
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -368,254 +368,6 @@ $-5$
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
-<p>2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C</p>
-</div>
-<div class='papername'>
-<p>brentwood-school--11-plus--maths--9999--sample-paper-1:0:7</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two numbers in these sequences:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$11, \quad 17, \quad 23, \quad 29, \quad 35,
-\quad \ldots,
-\quad \ldots
-$
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is increasing by $6$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}
-&&  \footnotesize{\maroonC
-{(+6)}}  \\
-11,  &&    17,  &&  23,  &&   29,  &&   35, && \ldots , && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= 35 + 6 \\\\
-                               &= 41 \\\\
-\text{Second missing number}   &= 41 + 6 \\\\
-                               &= 47
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$41, \quad 47$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$108, \quad 100, \quad 92, \quad 84, \quad 76,
-\quad \ldots,
-\quad \ldots
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is decreasing by $8$. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}
-&&  \footnotesize{\maroonC
-{(-8)}}  \\
-108,  &&    100,  &&  92,  &&   84,  &&   76, && \ldots , && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= 76 - 8 \\\\
-                               &= 68 \\\\
-\text{Second missing number}   &= 68 - 8 \\\\
-                               &= 60
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$68, \quad 60$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$4, \quad 7, \quad 12, \quad 19, \quad 28,
-\quad \ldots,
-\quad \ldots
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is increasing by $2$ more than the difference between the previous numbers. Hence, the sequence would be:
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}
-&&  \footnotesize{\maroonC
-{(+5)}}
-&&  \footnotesize{\maroonC
-{(+7)}}
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}}  \\
-4,  &&   7,  &&  12,  &&   19,  &&   28, && \ldots , && \ldots
-\end{matrix}
-$
-
-$
-\begin{aligned}
-\text{First missing number}    &= 28 + 11 \\\\
-                               &= 39 \\\\
-\text{Second missing number}   &= 39 + 13 \\\\
-                               &= 52
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$39, \quad 52$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' id='FORM-2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-2FCD4BD0-D6AF-4612-BAA0-7D733AC6427C'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
 <p>38069E88-D243-49CC-BCD6-9BF82C104E6B</p>
 </div>
 <div class='papername'>
@@ -706,248 +458,7 @@ $48$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>170804EC-CA6F-4013-8E66-B33A787CAD95</p>
-</div>
-<div class='papername'>
-<p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:2</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Write down the next two items in each of these patterns:
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$7,  \quad 11,  \quad 15,  \quad 19,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The difference between the terms is $4$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+4)} }  \\
-7,  &&    11,  &&  15,  &&   19,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 19 + 4\\\\
-                               &= 23 \\\\
-\text {Second missing number}  &= 23 + 4\\\\
-                               &= 27
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$23, \ 27$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$96, \quad  48, \quad  24, \quad  12,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }
-&&  \footnotesize {\maroonC
- {(\div 2)} }  \\
-96,  &&    48,  &&  24,  &&   12,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 12 \div 2 \\\\
-                               &= 6 \\\\
-\text {Second missing number}  &= 6 \div 2 \\\\
-                               &= 3
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6, \ 3$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$2, \quad  4, \quad  7, \quad  11,
-\quad  \boxed { \phantom{19} },
-\quad  \boxed { \phantom{19} }
-$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR:  Let's find the relation between the consecutive terms of the sequence.
-
-
-The next term is calculated by adding $1$ more to difference between the previous sequence. Hence, the sequence would be:
-
-$
-\begin {matrix}
-&   \footnotesize {\maroonC
- {(+2)} }
-&&  \footnotesize {\maroonC
- {(+3)} }
-&&  \footnotesize {\maroonC
- {(+4)} }
-&&  \footnotesize {\maroonC
- {(+5)} }
-&&  \footnotesize {\maroonC
- {(+6)} }  \\
-2,  &&    4,  &&  7,  &&   11,  &&   \ldots,  &&   \ldots
-\end {matrix}
-$
-
-$
-\begin {aligned}
-\text {First missing number}   &= 11 + 5\\\\
-                               &= 16 \\\\
-\text {Second missing number}  &= 16 + 6\\\\
-                               &= 22
-\end {aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$16, \ 22$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='170804EC-CA6F-4013-8E66-B33A787CAD95' id='FORM-170804EC-CA6F-4013-8E66-B33A787CAD95' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-170804EC-CA6F-4013-8E66-B33A787CAD95'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BE08ACA5-1407-4A83-8951-3EF9D0D69289</p>
 </div>
@@ -958,7 +469,7 @@ $16, \ 22$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1004,7 +515,7 @@ $
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $2$. Hence, the sequence would be:
+The next term is calculated by adding $2$ to the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -1018,7 +529,7 @@ $
 {(+2)}}
 &&  \footnotesize{\maroonC
 {(+2)}}  \\
-7,  &&    9,  &&   11,  &&   13,  &&   \ldots &&   \ldots
+7,  &&    9,  &&   11,  &&   13,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
 
@@ -1036,7 +547,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15, 17$
+$15$
+
+</div>
+<div class='answer'>
+
+$17$
 
 </div>
 </div>
@@ -1060,7 +576,7 @@ $
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-9$. Hence, the sequence would be:
+The next term is calculated by subtracting $9$ from the previous term. Hence, the sequence would be:
 
 $
 \begin {matrix}
@@ -1074,7 +590,7 @@ $
 {(-9)}}
 &&  \footnotesize{\maroonC
 {(-9)}}  \\
-105,  &&    96,  &&   87,  &&   78,  &&   \ldots &&   \ldots
+105,  &&    96,  &&   87,  &&   78,  &&   \ldots, &&   \ldots
 \end {matrix}
 $
 
@@ -1092,7 +608,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$69, 60$
+$69$
+
+</div>
+<div class='answer'>
+
+$60$
 
 </div>
 </div>
@@ -1135,203 +656,7 @@ $69, 60$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2015--sample-paper-2:0:14</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-This question concerns the number sequence that is starting at '$100$', then repeatedly following four steps: adding $2$,
-dividing by $2$, adding $1$, multiplying by $2$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The first two numbers are $100$ and $102$. What are the next three numbers in the sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Third number in the sequence}     &= (((102 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((104 \div 2) +1) \times 2 \\\\
-                                        &= (52 +1) \times 2 \\\\
-                                        &= 53 \times 2 \\\\
-                                        &= 106 \\\\
-\text{Fourth number in the sequence}    &= (((106 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((108 \div 2) +1) \times 2 \\\\
-                                        &= (55 +1) \times 2 \\\\
-                                        &= 55 \times 2 \\\\
-                                        &= 110 \\\\
-\text{Fifth number in the sequence}     &= (((110 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((112 \div 2) +1) \times 2 \\\\
-                                        &= (56 +1) \times 2 \\\\
-                                        &= 57 \times 2 \\\\
-                                        &= 114
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$106, 110, 114$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Which number comes after $108$ in the sequence?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{Next number after 108}            &= (((108 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((110 \div 2) +1) \times 2 \\\\
-                                        &= (55 +1) \times 2 \\\\
-                                        &= 56 \times 2 \\\\
-                                        &= 112
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$112$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-The $21 \text{st}$ number is $120$ and the $22 \text{nd}$ number is $122$.
-
-What is the $24 \text{th}$ number?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-$
-\begin{aligned}
-\text{23rd number}                      &= (((122 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((124 \div 2) + 1) \times 2 \\\\
-                                        &= (62 + 1) \times 2 \\\\
-                                        &= 63 \times 2 \\\\
-                                        &= 126 \\\\
-\text{24th number}                      &= (((126 + 2) \div 2) + 1) \times 2 \\\\
-                                        &= ((128 \div 2) + 1) \times 2 \\\\
-                                        &= (64 + 1) \times 2 \\\\
-                                        &= 65 \times 2 \\\\
-                                        &= 130
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$130$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' id='FORM-6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-6D4D32D1-1C8A-41BE-8BF0-9E949E2F4CE1'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>47724B7C-71A5-4E55-B831-A798B3984E25</p>
 </div>
@@ -1342,7 +667,7 @@ $130$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1406,12 +731,12 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= 7020 \times 10 \\\\
-                            &= 70200 \\\\
-\text{Second number}        &= 702 \div 10 \\\\
-                            &= 70.2 \\\\
-\text{Third number}         &= 7.02 \div 10 \\\\
-                            &= 0.702
+\text{First missing number}         &= 7020 \times 10 \\\\
+                                    &= 70200 \\\\
+\text{Second missing number}        &= 702 \div 10 \\\\
+                                    &= 70.2 \\\\
+\text{Third missing number}         &= 7.02 \div 10 \\\\
+                                    &= 0.702
 \end{aligned}
 $
 
@@ -1420,7 +745,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$70200, 70.2, 0.702$
+$70200$
+
+</div>
+<div class='answer'>
+
+$70.2$
+
+</div>
+<div class='answer'>
+
+$0.702$
 
 </div>
 </div>
@@ -1458,10 +793,10 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= 0.64 \div 20 \\\\
-                            &= 0.032 \\\\
-\text{Second number}        &= 12.8 \times 20 \\\\
-                            &= 256
+\text{First missing number}         &= 0.64 \div 20 \\\\
+                                    &= 0.032 \\\\
+\text{Second missing number}        &= 12.8 \times 20 \\\\
+                                    &= 256
 \end{aligned}
 $
 
@@ -1470,7 +805,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$0.032, 256$
+$0.032$
+
+</div>
+<div class='answer'>
+
+$256$
 
 </div>
 </div>
@@ -1492,7 +832,7 @@ $\ldots, \quad \dfrac{3}{4}, \quad \dfrac{1}{2}, \quad \dfrac{1}{4}, \quad \ldot
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by subtracting the previous term by $\dfrac {1} {4}$. Hence, the sequence would be:
+The next term is calculated by subtracting $\dfrac {1} {4}$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1512,13 +852,13 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= \dfrac {3} {4} + \dfrac {1} {4} \\\\
-                            &= \dfrac {4} {4} \\\\
-                            &= 1 \\\\
-\text{Second number}        &= \dfrac {1} {4} - \dfrac {1} {4} \\\\
-                            &= 0 \\\\
-\text{Third number}         &= 0 - \dfrac {1} {4} \\\\
-                            &= - \dfrac {1} {4}
+\text{First missing number}         &= \dfrac {3} {4} + \dfrac {1} {4} \\\\
+                                    &= \dfrac {4} {4} \\\\
+                                    &= 1 \\\\
+\text{Second missing number}        &= \dfrac {1} {4} - \dfrac {1} {4} \\\\
+                                    &= 0 \\\\
+\text{Third missing number}         &= 0 - \dfrac {1} {4} \\\\
+                                    &= - \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -1527,7 +867,17 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1, 0, - \dfrac {1} {4}$
+$1$
+
+</div>
+<div class='answer'>
+
+$0$
+
+</div>
+<div class='answer'>
+
+$- \dfrac {1} {4}$
 
 </div>
 </div>
@@ -1549,7 +899,7 @@ $\dfrac{2}{3}, \quad \ldots, \quad \ldots, \quad 1 \dfrac{1}{6}$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by subtracting the previous term by $\dfrac {1} {6}$. Hence, the sequence would be:
+The next term is calculated by adding $\dfrac {1} {6}$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1565,12 +915,14 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
-                            &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
-                            &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
-                            &= \dfrac {5} {6} \\\\
-\text{Second number}        &= \dfrac {1} {6} - \dfrac {1} {6} \\\\
-                            &= 0
+\text{First missing number}         &= \dfrac {2} {3} + \dfrac {1} {6} \\\\
+                                    &= \dfrac {2 \times 2} {3 \times 2} + \dfrac {1} {6} \\\\
+                                    &= \dfrac {4} {6} + \dfrac {1} {6} \\\\
+                                    &= \dfrac {5} {6} \\\\
+\text{Second missing number}        &= \dfrac {5} {6} + \dfrac {1} {6} \\\\
+                                    &= \dfrac {5 + 1} {6} \\\\
+                                    &= \dfrac {6} {6} \\\\
+                                    &= 1
 \end{aligned}
 $
 
@@ -1579,7 +931,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {11} {6}, 0$
+$\dfrac {5} {6}$
+
+</div>
+<div class='answer'>
+
+$1$
 
 </div>
 </div>
@@ -1619,11 +976,11 @@ $
 
 $
 \begin{aligned}
-\text{First number}         &= 2 \div 3 \\\\
-                            &= \dfrac {2} {3} \\\\
-\text{Second number}        &= \dfrac {2} {3} \div 3 \\\\
-                            &= \dfrac {2} {3} \times \dfrac {1} {3} \\\\
-                            &= \dfrac {2} {9}
+\text{First missing number}         &= 2 \div 3 \\\\
+                                    &= \dfrac {2} {3} \\\\
+\text{Second missing number}        &= \dfrac {2} {3} \div 3 \\\\
+                                    &= \dfrac {2} {3} \times \dfrac {1} {3} \\\\
+                                    &= \dfrac {2} {9}
 \end{aligned}
 $
 
@@ -1632,7 +989,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {2} {3}, \dfrac {2} {9}$
+$\dfrac {2} {3}$
+
+</div>
+<div class='answer'>
+
+$\dfrac {2} {9}$
 
 </div>
 </div>
@@ -1675,7 +1037,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BEC88501-DF80-4A91-8F0F-63F668FDC942</p>
 </div>
@@ -1686,7 +1048,7 @@ $\dfrac {2} {3}, \dfrac {2} {9}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1706,7 +1068,7 @@ What is the next number in the pattern?
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by adding $5$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1720,14 +1082,14 @@ $
  {(+4)}}
 &&  \footnotesize {\maroonC
  {(+4)}}  \\
-3,  &&    7,  &&  11,  &&   15,  &&   19 && \ldots
+3,  &&    7,  &&  11,  &&   15,  &&   19, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Next number in the pattern}   &= 19 + 4 \\\\
-                                    &= 23
+\text{Missing number}   &= 19 + 4 \\\\
+                        &= 23
 \end{aligned}
 $
 
@@ -1891,7 +1253,7 @@ $951 \quad 828 \quad 705 \quad \text{\textunderscore \textunderscore \textunders
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $123$. Hence, the sequence would be:
+The next term is calculated by subtracting $123$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1903,16 +1265,16 @@ $
  {(-123)} }
 &&  \footnotesize {\maroonC
  {(-123)} }  \\
-951,  &&    828,  &&  705,  &&   \ldots && \ldots
+951,  &&    828,  &&  705,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Fourth number}        &= 705 - 123 \\\\
-                            &= 582 \\\\
-\text{Fifth number}         &= 582 - 123 \\\\
-                            &= 459
+\text {Fourth number}   &= 705 - 123 \\\\
+                        &= 582 \\\\
+\text {Fifth number}    &= 582 - 123 \\\\
+                        &= 459
 \end{aligned}
 $
 

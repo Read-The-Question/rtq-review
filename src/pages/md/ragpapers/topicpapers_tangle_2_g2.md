@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-g2"
 title: "TopicPaper - Angle - 2 - G2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>

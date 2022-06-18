@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1084,7 +1084,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>73DB7EA7-A552-463A-A18C-5677985F3293</p>
 </div>
@@ -1095,7 +1095,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1169,6 +1169,7 @@ $\dfrac{5}{12} \times \dfrac{1}{4}$
 $
 \begin{aligned}
 &= \dfrac {5} {12} \times \dfrac {1} {4} \\\\
+&= \dfrac {5} {12 \times 4} \\\\
 &= \dfrac {5} {48}
 \end{aligned}
 $
@@ -1232,12 +1233,9 @@ $
 \begin{aligned}
 &= 1 \dfrac {1} {8} + \dfrac {1} {6} \\\\
 &= \dfrac {9} {8} + \dfrac {1} {6} \\\\
-&= \dfrac {9 \times 6} {8 \times 6} + \dfrac {1 \times 8} {6 \times 8} \\\\
-&= \dfrac {54} {48} + \dfrac {8} {48} \\\\
-&= \dfrac {54 + 8} {48} \\\\
-&= \dfrac {62} {48} \\\\
-&= \dfrac {2 \times 31} {2 \times 24} \\\\
-&= \dfrac {\cancel {2} \times 31} {\cancel {2} \times 24} \\\\
+&= \dfrac {9 \times 3} {8 \times 3} + \dfrac {1 \times 4} {6 \times 4} \\\\
+&= \dfrac {27} {24} + \dfrac {4} {24} \\\\
+&= \dfrac {27 + 4} {24} \\\\
 &= \dfrac {31} {24} \\\\
 &= 1 \dfrac {7} {24}
 \end{aligned}
@@ -1999,7 +1997,7 @@ $\dfrac{7} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>22705A54-9AB4-4D0D-8448-96A567590E3C</p>
 </div>
@@ -2010,7 +2008,7 @@ $\dfrac{7} {3}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2052,7 +2050,7 @@ $\dfrac{1}{4} + \dfrac{3}{8}$
 $
 \begin{aligned}
 &= \dfrac {1} {4} + \dfrac {3} {8} \\\\
-&= \dfrac {2} {4 \times 2} + \dfrac {31} {8} \\\\
+&= \dfrac {1 \times 2} {4 \times 2} + \dfrac {3} {8} \\\\
 &= \dfrac {2} {8} + \dfrac {3} {8} \\\\
 &= \dfrac {2 + 3} {8} \\\\
 &= \dfrac {5} {8}
@@ -4408,7 +4406,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DAF3531A-EB9D-4CFC-8D7B-E29EB5E1523E</p>
 </div>
@@ -4419,7 +4417,7 @@ $\dfrac {3} {4}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4441,7 +4439,8 @@ Give your answer in its simplest form.
 $
 \begin{aligned}
 &= \dfrac {1} {2} \times ( \dfrac {3} {7} + \dfrac {4} {7} ) \\\\
-&= \dfrac {1} {2} \times  \dfrac {7} {7}  \\\\
+&= \dfrac {1} {2} \times ( \dfrac {3 + 4} {7} ) \\\\
+&= \dfrac {1} {2} \times \dfrac {7} {7} \\\\
 &= \dfrac {1} {2} \times \dfrac {\cancel {7}} {\cancel {7}} \\\\
 &= \dfrac {1} {2}
 \end{aligned}

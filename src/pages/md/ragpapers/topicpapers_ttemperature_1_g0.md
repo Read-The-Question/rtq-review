@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0"
 title: "TopicPaper - Temperature - 1 - G0"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1E264F42-A79F-4BD6-8505-D6B4192C2293</p>
 </div>
@@ -13,10 +13,10 @@ date: 2022-06-17 18:35:44
 <p>aldenham-school--11-plus--maths--9999--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -108,8 +108,6 @@ What was the temperature on Sunday?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Temperature on Sunday} &= \text{Temperature on Saturday} + 5 \\\\
@@ -166,7 +164,7 @@ $4 \degree  \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EB3A5A5B-3EA3-4765-ABA1-9AE3D43D7550</p>
 </div>
@@ -174,10 +172,10 @@ $4 \degree  \text{C}$
 <p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -235,8 +233,6 @@ What was the temperature in Paris?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
 \text{Temperature in Paris}  &= \text{Temperature in London} - 8 \\\\
@@ -266,8 +262,6 @@ What was the difference in temperature between Oslo and NewYork?
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -324,7 +318,7 @@ $12 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED2CF462-E670-4B65-8B5D-82625336C84A</p>
 </div>
@@ -332,10 +326,10 @@ $12 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -352,12 +346,10 @@ How much more than $-3 \degree \text{C}$ is $4 \degree \text{C}$?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-&= 4 \degree - (-3 \degree ) \\\\
-&= 7 \degree \text{C}
+\text{Difference}   &= 4 \degree - (-3 \degree ) \\\\
+                    &= 7 \degree \text{C}
 \end{aligned}
 $
 
@@ -406,7 +398,7 @@ $7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>769EDE45-5C4E-4FA8-B1BF-32600F0B0875</p>
 </div>
@@ -414,10 +406,10 @@ $7 \degree \text{C}$
 <p>csse--11-plus--maths--2015--sample-paper-2:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -595,7 +587,7 @@ $10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D0574D7-7E64-4EEA-A89A-3D7CBF4AD806</p>
 </div>
@@ -603,10 +595,10 @@ $10$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -675,7 +667,7 @@ $- 2 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>12BD4A22-072D-4543-95F1-81147B89584D</p>
 </div>
@@ -683,10 +675,10 @@ $- 2 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:27</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -727,7 +719,7 @@ What will the temperature be at $1500 \ \text{hrs}$?
 
 $
 \begin{aligned}
-\text{Temperature at 1500 hrs} &= 3 + 3 \times 1.5 \\\\
+\text{Temperature at 1500 hrs} &= 3 + 1.5 \times 3 \\\\
                                &= 3 + 4.5 \\\\
                                &= 7.5 \degree C
 \end{aligned}
@@ -758,12 +750,15 @@ What will the temperature be by $0400 \ \text{hrs}$?
 <div class='workings'>
 <div class='working'>
 
+As per the question, the temperature rose for $6 \text{ hrs } (1800 \text{ hrs } - 1200 \text{ hrs})$ and then it fell for next $10 \text{ hrs } (0400 \text{ hrs }- 1800 \text{ hrs})$.
+
+Using that,
+
 $
 \begin{aligned}
-\text{Temperature by 0400 hrs} &= 7.5 + 3 \times 1.5 + 10 \times - 3 \\\\
-                               &= 7.5 + 4.5 - 30 \\\\
-                               &= 12 - 30 \\\\
-                               &= - 18 \degree C
+\text{Temperature at 0400 hrs} &= 3 + 6 \times 1.5 - 10 \times 3 \\\\
+                               &= 3 + 9 - 30 \\\\
+                               &= -18 \degree C
 \end{aligned}
 $
 
@@ -772,7 +767,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 18 \degree C$
+$-18 \degree C$
 
 </div>
 </div>
@@ -815,7 +810,7 @@ $- 18 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C6834D71-AFD9-48CA-8FE5-4FD0495C3D22</p>
 </div>
@@ -823,10 +818,10 @@ $- 18 \degree C$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -894,10 +889,12 @@ Raj is overdrawn at the bank by $\pounds 40$. His sister Sarina is richer than h
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Sarina has} &= 70 + 40 \\\\
-                  &= \pounds 110
+\text{Sarina has} &= -40 + 70 \\\\
+                  &= \pounds 30
 \end{aligned}
 $
 
@@ -906,7 +903,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 110$
+$\pounds 30$
 
 </div>
 </div>
@@ -949,7 +946,7 @@ $\pounds 110$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D5C935D-6242-4581-8002-1AD41AAEA501</p>
 </div>
@@ -957,10 +954,10 @@ $\pounds 110$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1026,6 +1023,8 @@ What was the difference between the lowest and highest temperature on Tuesday?
 <div class='workings'>
 <div class='working'>
 
+As per the table,
+
 $
 \begin{aligned}
 \text {Difference} &= - 3 - 4 \\\\
@@ -1088,8 +1087,8 @@ Bearing in mind his thermometer is broken, what will the actual temperature be o
 
 $
 \begin{aligned}
-\text {Temperature at 2 am on Wednesday} &= -1 - 3 \\\\
-                                         &= - 4 \degree \text {C}
+\text {Temperature at 2 am on Wednesday} &= -1 - 5 - 3 \\\\
+                                         &= - 9 \degree \text {C}
 \end{aligned}
 $
 
@@ -1098,7 +1097,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 4 \degree \text {C}$
+$-9 \degree \text {C}$
 
 </div>
 </div>
@@ -1141,7 +1140,7 @@ $- 4 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>752098FA-6C94-4462-980C-6ECAC6F2EACC</p>
 </div>
@@ -1149,10 +1148,10 @@ $- 4 \degree \text {C}$
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1171,9 +1170,9 @@ When Greg started to climb Ben Nevis, the temperature at the bottom was $17$ deg
 
 $
 \begin{aligned}
-&= 17 - (-2) \\\\
-&= 17 + 2 \\\\
-&= 19
+\text{Difference}   &= 17 - (-2) \\\\
+                    &= 17 + 2 \\\\
+                    &= 19 \degree
 \end{aligned}
 $
 
@@ -1182,7 +1181,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19$
+$19 \degree$
 
 </div>
 </div>
@@ -1222,7 +1221,7 @@ $19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5E0750D3-B277-4BD3-9DE3-609CCC70C5CD</p>
 </div>
@@ -1230,10 +1229,10 @@ $19$
 <p>reigate-grammar-school--11-plus--maths--2019--sample-paper-6:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1254,8 +1253,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature in London}                        &= \dfrac {\text{Temperature in (Helsinki + Madrid)}} {2} \\\\
-                                                    &= \dfrac {-4 \degree \text{C} + 12 \degree \text{C}} {2} \\\\
+\text{Temperature in London}                        &= \dfrac {-4 + 12 } {2} \\\\
                                                     &= \dfrac {8} {2} \\\\
                                                     &= \dfrac {2 \times 4} {2} \\\\
                                                     &= \dfrac {\cancel{2} \times 4} {\cancel{2}} \\\\
@@ -1316,7 +1314,7 @@ $4 \degree \text{C}$
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1402,7 +1400,7 @@ $19 \degree \text{C}$
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1487,7 +1485,7 @@ $-7 \degree \text{C}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1573,7 +1571,7 @@ $11\degree C$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1719,7 +1717,7 @@ $-7 \degree \text{C}$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1801,7 +1799,7 @@ $5 \degree \text {C}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1949,7 +1947,7 @@ $-5 \degree \ \text{C}$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2033,7 +2031,7 @@ $4.05 \degree \ \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2113,7 +2111,7 @@ $-8 \degree C$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2255,7 +2253,7 @@ $-7 \degree C$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2404,7 +2402,7 @@ $- 5 \degree \ \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2550,7 +2548,7 @@ $- 17 \degree \ \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

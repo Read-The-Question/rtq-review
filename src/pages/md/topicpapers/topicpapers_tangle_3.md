@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -300,7 +300,7 @@ $100 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>49AAD1B8-2F4E-4147-AA60-E6B5D8F00875</p>
 </div>
@@ -311,7 +311,7 @@ $100 \degree$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -377,7 +377,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Sum of angles}                                  &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
-a \degree + 120 \degree + 70 \degree + 60 \degree     &= 180 \degree \times 4 - 360 \degree \\\\
+a + 120 + 70 + 60                                     &= 180 \times 4 - 360 \\\\
 a + 250                                               &= 720 - 360 \\\\
 a + 250                                               &= 360 \\\\
 a                                                     &= 360 - 250 \\\\
@@ -416,7 +416,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Sum of angles}                                                           &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
-b \degree + b \degree + b \degree + 150 \degree + 120 \degree + 60 \degree     &= 180 \degree \times 6 - 360 \degree \\\\
+b + b + b + 150 + 120 + 60                                                     &= 180 \times 6 - 360 \\\\
 3b + 330                                                                       &= 1080 - 360 \\\\
 3b + 330                                                                       &= 720 \\\\
 3b                                                                             &= 720 - 330 \\\\
@@ -453,12 +453,15 @@ Find $c$
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
 As per the question, 
 
 $
 \begin{aligned}
 \text{Sum of angles}                        &= 180 \degree \times \text{number of sides} - 360 \degree \\\\
-x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree + x \degree        &= 180 \degree \times 8 - 360 \degree \\\\
+x + x + x + x + x + x + x + x               &= 180 \times 8 - 360 \\\\
 8x                                          &= 1440 - 360 \\\\
 8x                                          &= 1080 \\\\
 x                                           &= \dfrac {1080} {8} \\\\
@@ -468,11 +471,11 @@ x                                           &= 135 \degree
 \end{aligned}
 $
 
-As we know, the sum of angles on a straight line is $180 \degree$.
+Let's use the value of $x$ to find $c$.
 
 $
 \begin{aligned}
-x \degree + c \degree        &= 180 \degree \\\\
+x + c                        &= 180 \\\\
 135 + c                      &= 180 \\\\
 c                            &= 180 - 135 \\\\
 c                            &= 45 \degree
@@ -1370,7 +1373,7 @@ $110 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D5EA307D-A637-466A-B45F-001616286B7A</p>
 </div>
@@ -1381,7 +1384,7 @@ $110 \degree$
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

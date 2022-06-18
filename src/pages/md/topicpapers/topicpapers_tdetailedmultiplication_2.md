@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1250,7 +1250,7 @@ $216000$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A0351803-0890-4037-9AE0-32CA4800A3DD</p>
 </div>
@@ -1261,7 +1261,7 @@ $216000$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1280,7 +1280,8 @@ What is $2002 \times 10?$
 
 $
 \begin{aligned}
-2002 \times 10 &= 20020
+&= 2002 \times 10 \\\\
+&= 20020
 \end{aligned}
 $
 

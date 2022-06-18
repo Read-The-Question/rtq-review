@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -103,7 +103,7 @@ Write LHS \"Jills mark\"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -252,7 +252,7 @@ Use part a) in the calculation
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -341,7 +341,7 @@ Change LHS to \"Manreets mark\", In answer write 80% not just  80
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -430,7 +430,7 @@ Use factors and cancellation
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -519,7 +519,7 @@ Change to double space S2, remove line under 300 S2
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -616,7 +616,7 @@ per the diagram
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -709,7 +709,7 @@ $\pounds 428$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -798,7 +798,7 @@ Change factors in S4 and S5
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -887,7 +887,7 @@ Wrong answer written
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1038,7 +1038,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1189,7 +1189,7 @@ Part b) Use answer from part a)
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1286,7 +1286,7 @@ Remove x 1 wherever it isnt required as a factor
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1377,7 +1377,7 @@ Change to single factor and cancellation step
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1543,7 +1543,7 @@ Part b) D
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

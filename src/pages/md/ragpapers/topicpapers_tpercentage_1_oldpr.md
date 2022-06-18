@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-oldpr"
 title: "TopicPaper - Percentage - 1 - OLDPR"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -183,7 +183,7 @@ $\dfrac {3} {8}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

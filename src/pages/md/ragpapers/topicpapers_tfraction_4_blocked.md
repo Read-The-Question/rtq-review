@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-blocked"
 title: "TopicPaper - Fraction - 4 - BLOCKED"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -99,6 +99,156 @@ $
 <div class='answer'>
 
 $398$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>49B00B08-583C-4982-92BC-E09BCE8B7244</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Fill in three missing numbers to make these four fractions equivalent
+**$\dfrac {4} {}$ = $\dfrac {} {10}$ = $\dfrac {12} {15}$ = $\dfrac {20} {}$**
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing numbers be a, b, c respectively.
+
+$
+\begin{aligned}
+\dfrac {4} {a}    &= \dfrac {12} {15} \\\\
+a                 &= \dfrac {15 \times 4} {12} \\\\
+a                 &= \dfrac {5 \times 3 \times 4} {4 \times 3} \\\\
+a                 &= \dfrac {5 \times \cancel {3} \times \cancel {4}} {\cancel {4} \times \cancel {3}} \\\\
+a                 &= 5
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {b} {10}    &= \dfrac {12} {15} \\\\
+b                  &= \dfrac {12 \times 10} {15} \\\\
+b                  &= \dfrac {4 \times 3 \times 5 \times 2} {5 \times 3} \\\\
+b                  &= \dfrac {4 \times \cancel {3} \times \cancel {5} \times 2} {\cancel {5} \times \cancel {3}} \\\\
+b                  &= 4 \times 2 \\\\
+b                  &= 8
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac {20} {c}  &= \dfrac {12} {15} \\\\
+c                &= \dfrac {15 \times 20} {12} \\\\
+c                &= \dfrac {5 \times 3 \times 4 \times 5} {4 \times 3} \\\\
+c                &= \dfrac {5 \times \cancel {3} \times \cancel {4} \times 5} {\cancel {4} \times \cancel {3}} \\\\
+c                &= 5 \times 5 \\\\
+c                &= 25
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5, \ 8, \ 25$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>A133195C-50E7-4B5A-BEED-8C9CC8036DBA</p>
+</div>
+<div class='papername'>
+<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The   following   fractions   are   equivalent. Fill  in the   missing  numbers.
+
+$\dfrac {} {8}$  = $\dfrac {9} {12}$ = $\dfrac {21} {}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the mising numerator $= a$
+
+Let the mising denominator $= b$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{a} {8}    &= \dfrac {9} {12} \\\\
+a                &= \dfrac {9} {12} \times 8 \\\\
+a                &= \dfrac {9 \times 8} {12} \\\\
+a                &= \dfrac {3 \times 3 \times 4 \times 2} {4 \times 3} \\\\
+a                &= \dfrac {3 \times \cancel{3} \times \cancel{4} \times 2} {\cancel{4} \times \cancel{3}} \\\\
+a                &= 3 \times 2 \\\\
+a                &= 6
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\dfrac{9} {12}   &= \dfrac {21} {b} \\\\
+b                &= \dfrac {21 \times 12} {9} \\\\\
+b                &= \dfrac {3 \times 7 \times 4 \times 3} {3 \times 3} \\\\
+b                &= \dfrac {\cancel{3} \times 7 \times 4 \times \cancel{3}}{\cancel{3} \times \cancel{3}} \\\\
+b                &= 7 \times 4 \\\\
+b                &= 28
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6, 28$
 
 </div>
 </div>

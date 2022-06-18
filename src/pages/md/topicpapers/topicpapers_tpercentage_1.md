@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-17 18:35:44
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -113,7 +113,7 @@ Write LHS \"Jills mark\"
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -262,7 +262,7 @@ Use part a) in the calculation
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -388,7 +388,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -447,7 +447,7 @@ $40 \%$
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -496,7 +496,7 @@ TODOANSWER
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -585,7 +585,7 @@ Change LHS to \"Manreets mark\", In answer write 80% not just  80
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -758,7 +758,7 @@ $92$
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -946,7 +946,7 @@ $400$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1035,7 +1035,7 @@ Change to double space S2, remove line under 300 S2
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1214,7 +1214,7 @@ $30\% \text{ of } \ 30$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1311,7 +1311,7 @@ per the diagram
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1395,7 +1395,7 @@ $\pounds 212$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1488,7 +1488,7 @@ $\pounds 428$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-3:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1577,7 +1577,7 @@ Change factors in S4 and S5
 <p>oundle-school--11-plus--maths--2008--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1666,7 +1666,7 @@ Wrong answer written
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1752,7 +1752,7 @@ $1$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1837,7 +1837,7 @@ $1.3$
 <p>reigate-grammar-school--11-plus--maths--2010--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1988,7 +1988,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 <p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2139,7 +2139,7 @@ Part b) Use answer from part a)
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2236,7 +2236,7 @@ Remove x 1 wherever it isnt required as a factor
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2393,7 +2393,7 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2550,7 +2550,7 @@ TODOANSWER
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2641,7 +2641,7 @@ Change to single factor and cancellation step
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2811,7 +2811,7 @@ $\dfrac {3} {8}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2978,7 +2978,7 @@ $30 \%$
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3144,7 +3144,7 @@ Part b) D
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3314,7 +3314,7 @@ TODOANSWER
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1848,7 +1848,7 @@ $a = 48 \degree, b = 63 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F6B6B48-EC9B-41A8-8A65-09482A6B04A0</p>
 </div>
@@ -1859,7 +1859,7 @@ $a = 48 \degree, b = 63 \degree$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1897,21 +1897,21 @@ As per the diagram,
 
 $
 \begin{aligned}
-b + 69                                                  &= 132 \\\\
-b                                                       &= 132 - 69 \\\\
-b                                                       &= 63 \degree
+a + 132                                                &= 180 \\\\
+a                                                      &= 180 - 32 \\\\
+a                                                      &= 48 \degree
 \end{aligned}
 $
 
-Let's use the value of $b$ to find $a$.
+Let's use the value of $a$ to find $b$.
 
 $
 \begin{aligned}
 a + b + 69                                              &= 180 \\\\
-a + 63 + 69                                             &= 180 \\\\
-a + 132                                                 &= 180 \\\\
-a                                                       &= 180 - 132 \\\\
-a                                                       &= 48 \degree
+48 + b + 69                                             &= 180 \\\\
+b + 117                                                 &= 180 \\\\
+b                                                       &= 180 - 117 \\\\
+b                                                       &= 63 \degree
 \end{aligned}
 $
 

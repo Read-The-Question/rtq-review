@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-g0"
 title: "TopicPaper - Sequence - 2 - G0"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0907F8CD-02DC-4336-B721-E39389BE9AAC</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-17 18:35:44
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,19 +38,19 @@ $991 \quad 864 \quad 737 \quad \text{\textunderscore \textunderscore \textunders
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $127$. Hence, the sequence would be:
+The next term is calculated by subtracting $127$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-127)} } 
+ {(-127)} }
 &&  \footnotesize {\maroonC
- {(-127)} }  
+ {(-127)} }
 &&  \footnotesize {\maroonC
- {(-127)} }   
+ {(-127)} }
 &&  \footnotesize {\maroonC
  {(-127)} }  \\
-991,  &&    864,  &&  737,  &&   \ldots && \ldots
+991,  &&    864,  &&  737,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -273,7 +273,7 @@ ${}- 17$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>716C57BB-9010-4494-B652-732331F8B40D</p>
 </div>
@@ -284,7 +284,7 @@ ${}- 17$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -306,19 +306,19 @@ $871 \quad  794 \quad  717 \quad \text{\textunderscore \textunderscore \textunde
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $77$. Hence, the sequence would be:
+The next term is calculated by subtracting $77$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-77)} } 
+ {(-77)} }
 &&  \footnotesize {\maroonC
- {(-77)} }  
+ {(-77)} }
 &&  \footnotesize {\maroonC
- {(-77)} }   
+ {(-77)} }
 &&  \footnotesize {\maroonC
  {(-77)} }  \\
-871,  &&    794,  &&   717,  &&   \ldots && \ldots
+871,  &&    794,  &&   717,  &&   \ldots, && \ldots
 \end{matrix}
 $
 
@@ -376,7 +376,7 @@ $563$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BD72F43E-8D06-4C07-B142-E87805AC1946</p>
 </div>
@@ -387,7 +387,7 @@ $563$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -409,16 +409,16 @@ $47, 40, 33, 26, \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-7)} } 
+ {(-7)} }
 &&  \footnotesize {\maroonC
- {(-7)} }  
+ {(-7)} }
 &&  \footnotesize {\maroonC
- {(-7)} }   
+ {(-7)} }
 &&  \footnotesize {\maroonC
  {(-7)} }  \\
 47,  &&    40,  &&  33,  &&   26, && \ldots
@@ -427,8 +427,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}                 &= 26 - 7 \\\\
-                                   &= 19
+\text{Missing number}   &= 26 - 7 \\\\
+                        &= 19
 \end{aligned}
 $
 
@@ -477,7 +477,7 @@ $19$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>470380B7-B2D2-4F6D-A6F5-B325F66A8144</p>
 </div>
@@ -488,7 +488,7 @@ $19$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -530,35 +530,30 @@ $14, \quad 17, \quad 20, \quad 23, \quad \text{\textunderscore \textunderscore \
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $3$. Hence, the sequence would be:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+3)} } 
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }  
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }    
+ {(+3)} }
 &&  \footnotesize {\maroonC
  {(+3)} }  \\
-14,  &&   17,  &&  20, &&  23, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+14,  &&   17,  &&  20, &&  23, && ldots, && ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-1 \text{st missing number} &= 23 + 3 \\\\
-                           &= 26
-\end{aligned}
-$
-
-$
-\begin{aligned}
-2 \text{nd missing number} &= 26 + 3 \\\\
-                           &= 29
+\text {First missing number}    &= 23 + 3 \\\\
+                                &= 26 \\\\
+\text {Second missing number}   &= 26 + 3 \\\\
+                                &= 29
 \end{aligned}
 $
 
@@ -567,7 +562,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$26 \quad 29$
+$26$
+
+</div>
+<div class='answer'>
+
+$29$
 
 </div>
 </div>
@@ -587,35 +587,30 @@ $14, \quad 13.25, \quad 12.5, \quad 11.75, \quad \text{\textunderscore \textunde
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-0.75$. Hence, the sequence would be:
+The next term is calculated by subtracting $0.75$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-0.75)} } 
+ {(-0.75)} }
 &&  \footnotesize {\maroonC
- {(-0.75)} }  
+ {(-0.75)} }
 &&  \footnotesize {\maroonC
- {(-0.75)} }   
+ {(-0.75)} }
 &&  \footnotesize {\maroonC
- {(-0.75)} }    
+ {(-0.75)} }
 &&  \footnotesize {\maroonC
  {(-0.75)} }  \\
-14, && 13.25, && 12.5, && 11.75, && \text{\textunderscore \textunderscore \textunderscore}, && \text{\textunderscore \textunderscore \textunderscore}
+14, && 13.25, && 12.5, && 11.75, && ldots,  && ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-1 \text {st missing number} &= 11.75 - 0.75 \\\\
-                            &= 11
-\end{aligned}
-$
-
-$
-\begin{aligned}
-2 \text {nd missing number} &= 11 - 0.75 \\\\
-                            &= 10.25
+\text {First missing number}    &= 11.75 - 0.75 \\\\
+                                &= 11 \\\\
+\text {Second missing number}   &= 11 - 0.75 \\\\
+                                &= 10.25
 \end{aligned}
 $
 
@@ -624,7 +619,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$11 \quad 10.25$
+$11$
+
+</div>
+<div class='answer'>
+
+$10.25$
 
 </div>
 </div>
@@ -667,7 +667,7 @@ $11 \quad 10.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D4A0605-93BB-4D76-B16D-57CA50B4DB4A</p>
 </div>
@@ -678,7 +678,7 @@ $11 \quad 10.25$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -720,7 +720,7 @@ $22, \quad 29, \quad 36, \quad \text{\textunderscore \textunderscore \textunders
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -734,21 +734,16 @@ $
  {(+7)} }
 &&  \footnotesize {\maroonC
  {(+7)} }  \\
-22, && 29, && 36, && \text{\textunderscore \textunderscore \textunderscore }, && 50, && \text{\textunderscore \textunderscore \textunderscore }
+22, && 29, && 36, && ldots, && 50, && ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-1 \text {st missing number} &= 36 + 7 \\\\
-                            &= 43
-\end{aligned}
-$
-
-$
-\begin{aligned}
-2 \text {nd missing number} &= 50 + 7 \\\\
-                            &= 57
+\text {First missing number}    &= 36 + 7 \\\\
+                                &= 43 \\\\
+\text {Second missing number}   &= 50 + 7 \\\\
+                                &= 57
 \end{aligned}
 $
 
@@ -757,7 +752,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$43 \quad 50 \quad 57$
+$43$
+
+</div>
+<div class='answer'>
+
+$57$
 
 </div>
 </div>
@@ -791,21 +791,16 @@ $
  {(\times 2)} }
 &&  \footnotesize {\maroonC
  {(\times 2)} }  \\
-3, && 6, && 12, && \text{\textunderscore \textunderscore \textunderscore }, && 48, && \text{\textunderscore \textunderscore \textunderscore }
+3, && 6, && 12, && ldots, && 48, && ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-1 \text {st missing number} &= 12 \times 2 \\\\
-                            &= 24
-\end{aligned}
-$
-
-$
-\begin{aligned}
-2 \text {nd missing number} &= 48 \times 2 \\\\
-                            &= 96
+\text {First missing number}    &= 12 \times 2 \\\\
+                                &= 24 \\\\
+\text {Second missing number}   &= 48 \times 2 \\\\
+                                &= 96
 \end{aligned}
 $
 
@@ -814,7 +809,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \quad 48 \quad 96$
+$24$
+
+</div>
+<div class='answer'>
+
+$96$
 
 </div>
 </div>

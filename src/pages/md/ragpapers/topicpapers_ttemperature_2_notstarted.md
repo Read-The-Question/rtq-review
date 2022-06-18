@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-notstarted"
 title: "TopicPaper - Temperature - 2 - NOTSTARTED"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-oldpr"
 title: "TopicPaper - Temperature - 2 - OLDPR"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -97,7 +97,7 @@ $3 \degree \text {C}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -175,7 +175,7 @@ $-6 \degree C$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

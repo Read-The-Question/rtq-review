@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-oldpr"
 title: "TopicPaper - Angle - 2 - OLDPR"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -59,7 +59,7 @@ Find the missing angles by calculation. The diagrams are not to scale:
 <div class='workings'>
 <div class='working'>
 
-Right angle $= 90 \degree$
+We know, the sum of a right angle is $90 \degree$.
 
 Let the missing angle $= a$
 
@@ -487,7 +487,7 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2A28B44D-4B73-46C1-955A-1029E0F22147</p>
 </div>
@@ -498,7 +498,7 @@ Please change all = 180 or 360..etc. in the first lines to \"is\" in all parts. 
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -518,15 +518,23 @@ In a triangle, one of the angles is $45$ degrees. The other two angles in the tr
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the question,
+
 $
 \begin{aligned}
-4x \degrees + 5x  \degrees+ 45 \degrees                     &= 180 \degrees \\\\
-9x + 45                                                     &= 180 \\\\
-9x                                                          &= 180 - 45 \\\\
-9x                                                          &= 135 \\\\
-x                                                           &= 15 \\\\
-5x                                                          &= 5 \times 15 \\\\
-5x                                                          &=75 \degrees
+4x  + 5x + 45                    &= 180 \\\\
+9x + 45                          &= 180 \\\\
+9x                               &= 180 - 45 \\\\
+9x                               &= 135 \\\\
+x                                &= \dfrac {135} {9} \\\\
+x                                &= \dfrac {9 \times 15} {9} \\\\
+x                                &= \dfrac {\cancel {9} \times 15} {\cancel {9}} \\\\
+x                                &= 15 \\\\
+5x                               &= 5 \times 15 \\\\
+5x                               &= 75 \degree
 \end{aligned}
 $
 
@@ -535,7 +543,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$75 \degrees$
+$75 \degree$
 
 </div>
 </div>
@@ -580,7 +588,7 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>802A33FA-D4AC-4248-BE3E-09CA75FF7E82</p>
 </div>
@@ -591,7 +599,7 @@ Write the line sum of angle = 180 .. search the line from website....wording req
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -636,7 +644,11 @@ Find the angles marked $a$ and $b$.
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of the angles in a triangle is $180 \ \text {degrees}$. So,
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
@@ -645,13 +657,11 @@ $
 a + 80 + 70  &= 180 \\\\
 a            &= 180 - 80 - 70 \\\\
 a            &= 180 - 150 \\\\
-a            &= 30 \ \text {degrees}
+a            &= 30 \degree
 \end {aligned}
 $
 
-Let's find the angle marked $b$.
-
-As we know, the sum of angles on a straight line is $180 \ \text {degrees}$.
+Let's use the value of $a$ to find $b$.
 
 As per the diagram,
 
@@ -659,7 +669,7 @@ $
 \begin {aligned}
 b + 70  &= 180 \\\\
 b       &= 180 - 70 \\\\
-b       &= 110 \ \text {degrees}
+b       &= 110 \degree
 \end{aligned}
 $
 
@@ -668,7 +678,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$30 \ \text {degrees}, 110 \ \text {degrees}$
+$30 \degree , 110 \degree$
 
 </div>
 </div>
@@ -685,7 +695,8 @@ The $80 \degree$ angle decreases to $75 \degree$ as the tipper tips further. Wha
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles on a straight line is $180 \ \text {degrees}$. So,
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the question,
 
@@ -693,7 +704,7 @@ $
 \begin {aligned}
 c + 75  &= 180 \\\\
 c       &= 180 - 75 \\\\
-c       &= 105 \ \text {degrees}
+c       &= 105 \degree
 \end {aligned}
 $
 
@@ -702,7 +713,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$105 \ \text {degrees}$
+$105 \degree$
 
 </div>
 </div>
@@ -810,7 +821,7 @@ In blue answer
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>3E301085-F062-490D-99FF-D572D1FB6E58</p>
 </div>
@@ -821,7 +832,7 @@ In blue answer
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -844,28 +855,32 @@ In the diagram below (not to scale), find the angles marked $x$ and $y$.
 <div class='workings'>
 <div class='working'>
 
-As we know in a triangle, the sum of two interior angles is equal to sum of opposite exterior angle. So,
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
 
 As per the diagram,
 
 $
-\begin{aligned}
-x   &= 84 \degree + 52 \degree \\\\
-x   &= 136 \degree
-\end{aligned}
+\begin {aligned}
+y + 84 + 52                     &= 180 \\\\
+y + 136                         &= 180 \\\\
+y                               &= 180 - 136 \\\\
+y                               &= 44 \degree
+\end {aligned}
 $
 
-As we know, the sum of angles on a strainght line is $180 \degree$ ,
-
-As per the diagram,
+Let's use the value of $y$ to find $x$.
 
 $
-\begin{aligned}
-y + x           &= 180 \degree \\\\
-y + 136 \degree &= 180 \degree \\\\
-y               &= 180 \degree - 136 \degree \\\\
-y               &= 44 \degree
-\end{aligned}
+\begin {aligned}
+x + y                   &= 180 \\\\
+x + 44                  &= 180 \\\\
+x                       &= 180 - 44 \\\\
+x                       &= 136 \degree
+\end {aligned}
 $
 
 </div>
@@ -939,7 +954,7 @@ y =44°
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>B6391AE6-AFDE-4F0B-865B-5BD6985A8B78</p>
 </div>
@@ -950,7 +965,7 @@ y =44°
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -978,20 +993,25 @@ Which of the following could be the difference of the other two angles?
 <div class='workings'>
 <div class='working'>
 
-As per the question 
+*TODO:: Problem statement should be corrected, sum of angles instead of difference.*
+
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+Let the sum of other two angles be $= s$
+
+As per the question,
 
 $
 \begin{aligned}
-\text{Sum of the angles of a quadrilateral} =360\degree \\\\
-\text{lets other two angle be 'a'} \\\\
-a + a + 95 + 75 &= 360 \\\\
-2a + 95 + 75 &= 360 \\\\
-2a + 170     &= 360 \\\\
-2a           &= 360 - 170 \\\\
-2a           &= 190
+s + 95 + 75 &= 360 \\\\
+s + 170     &= 360 \\\\
+s           &= 360 - 170 \\\\
+s           &= 190 \degree
 \end{aligned}
 $
 
+Sum of the other two angles $= 190 \degree$
 
 </div>
 </div>
@@ -1001,7 +1021,7 @@ $
 </div>
 <div class='answer'>
 
-$190$
+$190 \degree$
 
 </div>
 </div>
@@ -1046,7 +1066,7 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C7288C8F-5D25-4733-9478-7992288F6CD7</p>
 </div>
@@ -1057,7 +1077,7 @@ CODING GUIDELINES.. write the statement properly.. search in SAHIL CHOUDHARY ALL
 <p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1140,6 +1160,11 @@ Find the size of the angle marked $y$.
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+As per the diagram,
 
 $
 \begin{aligned}

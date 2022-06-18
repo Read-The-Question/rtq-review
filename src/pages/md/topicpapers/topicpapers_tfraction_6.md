@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -470,7 +470,7 @@ $\dfrac {13} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
@@ -481,7 +481,7 @@ $\dfrac {13} {20}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -502,12 +502,11 @@ $
 \begin{aligned} 
 &= 22 \dfrac{1}{2} \div 5 \\\\ 
 &= \dfrac {45}{2} \times \dfrac {1}{5} \\\\
-&= \dfrac {45 \times 1} {2 \times 5} \\\\
+&= \dfrac {45} {2 \times 5} \\\\
 &= \dfrac {9 \times 5} {2 \times 5} \\\\
 &= \dfrac {9 \times \cancel{5}} {2 \times \cancel{5}} \\\\
 &= \dfrac {9} {2} \\\\
-&= 4 \dfrac {1} {2} \\\\
-&= 4.5
+&= 4 \dfrac {1} {2}
 \end{aligned}
 $
 
@@ -516,7 +515,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{9}{2}$ or $4 \dfrac{1}{2}$  or  $4.5$
+$4 \dfrac{1}{2}$
 
 </div>
 </div>
@@ -1297,7 +1296,7 @@ $\dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
 </div>
@@ -1308,7 +1307,7 @@ $\dfrac{3}{8}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1331,7 +1330,7 @@ $
 &= \dfrac {17} {4} - \dfrac {8} {5} \\\\
 &= \dfrac {17 \times 5} {4 \times 5} - \dfrac {8 \times 4} {5 \times 4} \\\\
 &= \dfrac {85} {20} - \dfrac {32} {20} \\\\
-&= \dfrac {85} {20} - \dfrac {32} {20} \\\\
+&= \dfrac {85 - 32} {20} \\\\
 &= \dfrac {53} {20} \\\\
 &= 2 \dfrac {13} {20}
 \end{aligned}
@@ -1342,7 +1341,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$2 \dfrac{13}{20}$ or $\dfrac{53}{20}$
+$2 \dfrac{13}{20}$
 
 </div>
 </div>
@@ -1393,7 +1392,7 @@ Give answer as only a mixed fraction
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
 </div>
@@ -1404,7 +1403,7 @@ Give answer as only a mixed fraction
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1435,12 +1434,12 @@ Write down a possible way in which he can add **__three or more__** cards to get
 <div class='workings'>
 <div class='working'>
 
-This can be inferred by using trial and error.
+This can be solved by using trial and error.
 
 $
 \begin{aligned}
 &= \dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4} \\\\
-&= \dfrac{2 \times 1}{2 \times 12} + \dfrac{4 \times 1}{4 \times 6} + \dfrac{6 \times 1}{6 \times 4} \\\\
+&= \dfrac{2}{2 \times 12} + \dfrac{4}{4 \times 6} + \dfrac{6}{6 \times 4} \\\\
 &= \dfrac{2}{24} + \dfrac{4}{24} + \dfrac{6}{24} \\\\
 &= \dfrac{2 + 4 + 6}{24}  \\\\
 &= \dfrac{12}{24}  \\\\
@@ -1449,7 +1448,6 @@ $
 &= \dfrac{1}{2}
 \end{aligned}
 $
-
 
 </div>
 </div>
@@ -1677,7 +1675,7 @@ $\dfrac {21} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
 </div>
@@ -1688,7 +1686,7 @@ $\dfrac {21} {25}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1704,8 +1702,6 @@ Subtract $1 \dfrac{3}{4}$ from $3 \dfrac{3}{8}$.
 </div>
 <div class='workings'>
 <div class='working'>
-
-As per the question,
 
 $
 \begin{aligned}
@@ -2111,7 +2107,7 @@ $2500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AD502CB4-2E22-4698-9006-B92D0D53A2AF</p>
 </div>
@@ -2122,7 +2118,7 @@ $2500$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2343,7 +2339,7 @@ $149.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>22C2C797-A9DB-44D3-9BA8-229285BB4917</p>
 </div>
@@ -2354,7 +2350,7 @@ $149.5$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2410,7 +2406,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{193} {12} \ \text{or} \ 16 \dfrac {1} {12}$
+$16 \dfrac {1} {12}$
 
 </div>
 </div>
@@ -2920,7 +2916,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
@@ -2931,7 +2927,7 @@ $16$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2952,13 +2948,13 @@ Odd one out
 <div class='workings'>
 <div class='working'>
 
-Let's write all the fractions in its lowest forms,
+Let's write all the fractions in their simplified form,
 
 $
 \begin{aligned}
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {18}, \quad \dfrac {10} {15} \\\\
-&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9 \times 1} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
-&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9} \times 1} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {9} {9 \times 2}, \quad \dfrac {5 \times 2} {5 \times 3} \\\\
+&\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {\cancel {9}} {\cancel {9} \times 2}, \quad \dfrac {\cancel {5} \times 2} {\cancel {5} \times 3} \\\\
 &\dfrac {1} {2}, \quad \dfrac {2} {3}, \quad \dfrac {3} {5}, \quad \dfrac {1} {2}, \quad \dfrac {2} {3} \\\\
 \end{aligned}
 $

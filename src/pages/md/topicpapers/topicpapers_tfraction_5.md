@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-17 18:35:44
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-17 18:35:44
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -45,12 +45,12 @@ Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
 
 $
 \begin{aligned}
-& = \dfrac {1} {2}  \bigg ({\dfrac {1} {3} + \dfrac{1} {2} } \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
-& = \dfrac {1} {2} \bigg (\dfrac {2 + 3} {6} \bigg) \\\\
-& = \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
-& = \dfrac {5} {12}
+&= \dfrac {1} {3} + \dfrac{1} {2} \\\\
+&= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \\\\
+&= \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
+&= \dfrac {2 + 3} {6} \\\\
+&= \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
+&= \dfrac {5} {12}
 \end{aligned}
 $
 
@@ -116,7 +116,7 @@ to make it easier
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E0A78854-701F-451E-8B91-1F4FE8B4DACB</p>
 </div>
@@ -127,7 +127,7 @@ to make it easier
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -146,18 +146,18 @@ $\dfrac{12}{20}, \quad \dfrac{30}{50}, \quad \dfrac{18}{30}, \quad \dfrac{21}{35
 <div class='workings'>
 <div class='working'>
 
-Let' reduce the fractions by listing and canceling the common factors.
+Lets eliminate the fractions by listing and canceling the common factors.
 
 $
 \begin{aligned}
 \dfrac {12} {20}, \quad \dfrac {30} {50}, \quad \dfrac {18} {30}, \quad \dfrac {21} {35}, \quad \dfrac {9} {25}, \quad \dfrac {27} {45} \\\\
-\dfrac {4 \times 3} {4 \times 5}, \quad \dfrac {30} {50}, \quad \dfrac {6 \times 3} {6 \times 5}, \quad \dfrac {7 \times 3} {7 \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {9 \times 3} {9 \times 5} \\\\
-\dfrac {\cancel {4} \times 3} {\cancel {4} \times 5}, \quad \dfrac {3 \cancel {0}} {5 \cancel {0}} , \quad \dfrac {\cancel {6} \times 3} {\cancel {6} \times 5}, \quad \dfrac {\cancel {7} \times 3} {\cancel {7} \times 5}, \quad \dfrac {9} {25}, \quad \dfrac {\cancel {9} \times 3} {\cancel {9} \times 5} \\\\
-\dfrac {3} {5}, \quad \dfrac {3} {5} , \quad \dfrac {3} {5}, \quad \dfrac {3} {5}, \quad \dfrac {9} {25}, \quad \dfrac {3} {5}
+\dfrac {4 \times 3} {4 \times 5}, \quad \dfrac {30} {50}, \quad \dfrac {6 \times 3} {6 \times 5}, \quad \dfrac {7 \times 3} {7 \times 5}, \quad \dfrac {9 \times 3} {25 \times 5}, \quad \dfrac {9 \times 3} {9 \times 5} \\\\
+\dfrac {\cancel {4} \times 3} {\cancel {4} \times 5}, \quad \dfrac {3 \cancel {0}} {5 \cancel {0}} , \quad \dfrac {\cancel {6} \times 3} {\cancel {6} \times 5}, \quad \dfrac {\cancel {7} \times 3} {\cancel {7} \times 5}, \quad \dfrac {27} {125}, \quad \dfrac {\cancel {9} \times 3} {\cancel {9} \times 5} \\\\
+\dfrac {3} {5}, \quad \dfrac {3} {5} , \quad \dfrac {3} {5}, \quad \dfrac {3} {5}, \quad \dfrac {27} {125}, \quad \dfrac {3} {5}
 \end{aligned}
 $
 
-The fractions that is **not** equivalent to $\dfrac {3} {5}$ is $= \dfrac {9} {25}$.
+The fractions that is **not** equivalent to $\dfrac {3} {5}$ is $\dfrac {9} {25}$.
 
 </div>
 </div>
@@ -221,7 +221,7 @@ Last sentence remove the = sign
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
 </div>
@@ -232,7 +232,7 @@ Last sentence remove the = sign
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -251,11 +251,11 @@ Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
 
 $
 \begin{aligned}
-\text {Difference}   &= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
-                     &= \dfrac {155} {3} - \dfrac {130} {3} \\\\
-                     &= \dfrac {155 - 130} {3} \\\\
-                     &= \dfrac {25} {3} \\\\
-                     &= 8 \dfrac {1} {3}
+&= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
+&= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+&= \dfrac {155 - 130} {3} \\\\
+&= \dfrac {25} {3} \\\\
+&= 8 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -482,7 +482,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F5BB2E80-58A6-4ACA-80C3-EEBED0513A81</p>
 </div>
@@ -493,7 +493,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -514,7 +514,7 @@ $
 \begin{aligned}
 &= \text{half of three-quarters} \\\\
 &= \dfrac {1} {2} \times \dfrac {3} {4} \\\\
-&= \dfrac {1 \times 3} {2 \times 4} \\\\
+&= \dfrac {3} {2 \times 4} \\\\
 &= \dfrac {3} {8}
 \end{aligned}
 $
@@ -935,7 +935,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
 </div>
@@ -946,7 +946,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -998,8 +998,6 @@ $
 \dfrac {4} {5}   &= 0.80
 \end{aligned}
 $
-
-$\dfrac {15} {11}$ is greater than $1$.
 
 </div>
 </div>
@@ -3726,7 +3724,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FF3E37F7-96DD-4E04-B676-7E81C801B314</p>
 </div>
@@ -3737,7 +3735,7 @@ TODOANSWER
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3778,7 +3776,7 @@ Work out one fifth of $180$
 
 $
 \begin{aligned}
-&=  \text {One fifth of} \ 180 \\\\
+&=  \text {one fifth of} \ 180 \\\\
 &=  \dfrac {1} {5} \times 180 \\\\
 &=  \dfrac {180} {5} \\\\
 &=  \dfrac {36 \times 5} {5} \\\\
@@ -3930,7 +3928,7 @@ $27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E2EDC047-57E7-441B-AAAF-8D7D1FE11E33</p>
 </div>
@@ -3941,7 +3939,7 @@ $27$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3965,7 +3963,7 @@ $\dfrac{1}{5} \quad \dfrac{3}{7} \quad \dfrac{5}{9} \quad \dfrac{7}{11}$
 
 $\dfrac {1} {2} = 0.5$
 
-Let's convert all the numbers to decimal.
+Let's convert all the numbers into decimal.
 
 $
 \begin {aligned}
@@ -3974,7 +3972,7 @@ $
 \end {aligned}
 $
 
-$0.55 = \dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
+$\dfrac {5} {9}$ is the closest to $\dfrac {1} {2}$.
 
 </div>
 </div>

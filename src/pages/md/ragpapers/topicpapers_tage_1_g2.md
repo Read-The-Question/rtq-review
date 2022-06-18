@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tage-1-g2"
 title: "TopicPaper - Age - 1 - G2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2028,6 +2028,140 @@ $20 \ \text {years} \ 11 \ \text {months}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-CEDD52CF-032F-4A9F-9B45-E9E5151A2F0A'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>460183B0-7FB1-4AE5-A539-6CE39B381434</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-2:0:24</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tage
+</li>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jessica was born on $5$ January $2003$ and her friend Amelia was born exactly $9$ days earlier. 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+On which date was Amelia born?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {Amelia's date of birth}  &= 5 \ \text {January} \ 2003 - 9 \ \text {days} \\\\
+                                &= 27 \ \text {December} \ 2002
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27 \ \text {December} \ 2002$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Jessica’s $12 \text{th}$ birthday was on a Monday.
+
+On what day of the week was Amelia’s $12 \text{th}$ birthday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text {Saturday}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text {Saturday}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='460183B0-7FB1-4AE5-A539-6CE39B381434' id='FORM-460183B0-7FB1-4AE5-A539-6CE39B381434' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-460183B0-7FB1-4AE5-A539-6CE39B381434'>Initial</p>
 </div>
 </div>
 </li>

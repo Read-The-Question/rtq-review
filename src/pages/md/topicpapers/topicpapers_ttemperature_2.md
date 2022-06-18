@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-17 18:35:44
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -107,7 +107,7 @@ $3 \degree \text {C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -192,7 +192,7 @@ $21 \degree \ \text {C}$
 <p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-b:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ub_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -395,7 +395,7 @@ Munich
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -473,7 +473,7 @@ $-6 \degree C$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ub_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -550,7 +550,7 @@ $-8 \degree \text {C}$
 <p>warwick-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

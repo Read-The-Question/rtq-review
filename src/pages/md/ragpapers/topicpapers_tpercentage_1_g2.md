@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g2"
 title: "TopicPaper - Percentage - 1 - G2"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -186,7 +186,7 @@ $92$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -270,7 +270,7 @@ $480$
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -354,7 +354,7 @@ $\pounds 212$
 <p>oundle-school--11-plus--maths--2016--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -440,7 +440,7 @@ $1$
 <p>oundle-school--11-plus--maths--2017--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g2</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

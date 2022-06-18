@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-oldpr"
 title: "TopicPaper - Temperature - 1 - OLDPR"
-date: 2022-06-17 18:35:44
+date: 2022-06-18 19:11:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-17 18:35:44
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -96,7 +96,7 @@ $61 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

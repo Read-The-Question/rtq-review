@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-g2"
 title: "TopicPaper - Fraction - 6 - G2"
-date: 2022-06-18 19:11:12
+date: 2022-06-18 20:20:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1125,7 +1125,8 @@ Work out $3 \dfrac{3}{4} \div 2 \dfrac{1}{2}$, giving your answer in its simples
 <div class='workings'>
 <div class='working'>
 
-Dividing by a fraction is the same as multiplying by the reciprocal (inverse) of the fraction.
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}

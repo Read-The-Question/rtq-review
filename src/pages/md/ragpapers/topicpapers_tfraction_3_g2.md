@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-3-g2"
 title: "TopicPaper - Fraction - 3 - G2"
-date: 2022-06-18 19:11:12
+date: 2022-06-18 20:20:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1387,7 +1387,8 @@ $\dfrac{3}{8}\div\dfrac{1}{4}$
 <div class='workings'>
 <div class='working'>
 
-Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}

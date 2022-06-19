@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-g0"
 title: "TopicPaper - Fraction - 4 - G0"
-date: 2022-06-18 19:11:12
+date: 2022-06-18 20:20:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -624,7 +624,8 @@ $\dfrac {1}{3} \div \dfrac {1}{6}$
 <div class='workings'>
 <div class='working'>
 
-Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}

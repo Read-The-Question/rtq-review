@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-06-18 19:11:12
+date: 2022-06-18 20:20:20
 ---
 <div class='paper'>
 <div class='meta'>
@@ -470,7 +470,7 @@ $\dfrac {13} {20}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>7A0547CE-4780-4C98-8F44-705D53000745</p>
 </div>
@@ -481,7 +481,7 @@ $\dfrac {13} {20}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1296,7 +1296,7 @@ $\dfrac{3}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>C135697D-F7AA-4A2E-9224-953D73C4FFCC</p>
 </div>
@@ -1307,7 +1307,7 @@ $\dfrac{3}{8}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1392,7 +1392,7 @@ Give answer as only a mixed fraction
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
 </div>
@@ -1403,7 +1403,7 @@ Give answer as only a mixed fraction
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1675,7 +1675,7 @@ $\dfrac {21} {25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0C204FF4-56BC-4832-8FCF-F9D7CC6ACE1E</p>
 </div>
@@ -1686,7 +1686,7 @@ $\dfrac {21} {25}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1880,7 +1880,8 @@ Work out $3 \dfrac{3}{4} \div 2 \dfrac{1}{2}$, giving your answer in its simples
 <div class='workings'>
 <div class='working'>
 
-Dividing by a fraction is the same as multiplying by the reciprocal (inverse) of the fraction.
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}
@@ -2107,7 +2108,7 @@ $2500$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>AD502CB4-2E22-4698-9006-B92D0D53A2AF</p>
 </div>
@@ -2118,7 +2119,7 @@ $2500$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2339,7 +2340,7 @@ $149.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>22C2C797-A9DB-44D3-9BA8-229285BB4917</p>
 </div>
@@ -2350,7 +2351,7 @@ $149.5$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2916,7 +2917,7 @@ $16$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>40063D7A-77F1-4202-9161-7E6E6C22F8EF</p>
 </div>
@@ -2927,7 +2928,7 @@ $16$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3204,7 +3205,7 @@ $\frac{1} {4} + \frac{1} {3}$
 $
 \begin{aligned}
 &= \dfrac{1} {4} + \dfrac {1} {3} \\\\
-&= \dfrac{1 \times 3} {4 \times 3} + \dfrac {1 \times 4} {3 \times 4} \\\\
+&= \dfrac{3} {4 \times 3} + \dfrac {4} {3 \times 4} \\\\
 &= \dfrac{3} {12} + \dfrac {4} {12} \\\\
 &= \dfrac{3 + 4} {12} \\\\
 &= \dfrac{7} {12}
@@ -3299,6 +3300,9 @@ $\frac{4} {5}\div\frac{3} {10}$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}
@@ -3443,7 +3447,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {41} {4} \ \text{or} \ 10 \dfrac {1} {4}$
+$10 \dfrac {1} {4}$
 
 </div>
 </div>
@@ -3975,7 +3979,7 @@ Calculate $\frac {1} {3} - \frac {1} {6}$
 $
 \begin{aligned}
 &= \dfrac {1} {3} - \dfrac {1} {6} \\\\
-&= \dfrac {1 \times 2} {3 \times 2} - \dfrac {1} {6} \\\\
+&= \dfrac {2} {3 \times 2} - \dfrac {1} {6} \\\\
 &= \dfrac {2} {6} - \dfrac {1} {6} \\\\
 &= \dfrac {2 - 1} {6} \\\\
 &= \dfrac {1} {6}

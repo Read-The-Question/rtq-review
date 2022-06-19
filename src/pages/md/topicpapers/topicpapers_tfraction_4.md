@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-18 20:20:20
+date: 2022-06-19 06:26:54
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-18 20:20:20
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-18 20:20:20
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -129,13 +129,15 @@ $\dfrac {4} {9} \div \dfrac {5} {11}$
 <div class='workings'>
 <div class='working'>
 
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+
 $
 \begin{aligned}
-&= \dfrac {4} {9} + \dfrac {5} {11} \\\\
-&= \dfrac {4 \times 11} {9 \times 11} + \dfrac {5 \times 9} {11 \times 9} \\\\
-&= \dfrac {44} {99} + \dfrac {45} {99} \\\\
-&= \dfrac {44 + 45} {99} \\\\
-&= \dfrac {89} {99}
+&= \dfrac {4} {9} \div \dfrac {5} {11} \\\\
+&= \dfrac {4} {9} \times \dfrac {11} {5} \\\\
+&= \dfrac {4 \times 11} {9 \times 5} \\\\
+&= \dfrac {44} {45}
 \end{aligned}
 $
 
@@ -144,7 +146,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {89} {99}$
+$\dfrac {44} {45}$
 
 </div>
 </div>
@@ -624,7 +626,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA</p>
 </div>
@@ -635,7 +637,7 @@ $\dfrac {3} {7}$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -703,6 +705,9 @@ $\dfrac {1} {4} \div \dfrac {1} {3}$
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
 
 $
 \begin{aligned}
@@ -915,7 +920,7 @@ $398$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>018B54D1-3C23-4B75-8420-8637D0627456</p>
 </div>
@@ -926,7 +931,7 @@ $398$
 <p>rag_ar_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4713,7 +4718,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3</p>
 </div>
@@ -4721,10 +4726,10 @@ $80$
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4766,47 +4771,7 @@ $\dfrac {7} {19}$
 </div>
 </div>
 
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-
-
-
-
-More detailed workings and change answer
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' id='FORM-CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-CBEC2C7D-D491-48AE-96B9-A2E72A76F5A3'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

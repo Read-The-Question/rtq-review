@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-2"
 title: "TopicPaper - Fraction - 2"
-date: 2022-06-18 20:20:20
+date: 2022-06-19 06:26:54
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4438,9 +4438,9 @@ Give your answer in its simplest form.
 
 $
 \begin{aligned}
-&= \dfrac {1} {2} \times ( \dfrac {3} {7} + \dfrac {4} {7} ) \\\\
-&= \dfrac {1} {2} \times ( \dfrac {3 + 4} {7} ) \\\\
-&= \dfrac {1} {2} \times \dfrac {7} {7} \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {3} {7} + \dfrac {4} {7} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {3 + 4} {7} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {7} {7} \bigg) \\\\
 &= \dfrac {1} {2} \times \dfrac {\cancel {7}} {\cancel {7}} \\\\
 &= \dfrac {1} {2}
 \end{aligned}

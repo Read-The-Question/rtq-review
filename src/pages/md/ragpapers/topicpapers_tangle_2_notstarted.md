@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-notstarted"
 title: "TopicPaper - Angle - 2 - NOTSTARTED"
-date: 2022-06-20 20:45:39
+date: 2022-06-20 22:07:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -43,24 +43,72 @@ Give reasons for your answers.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+*TODO:: Add an image with points marked as E F at which the line is intersecting the parallelogram. and also mark the angles of CEFB.*
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a transversal}$.
+
+ABBR: $\text{Opposite angles of a parallelogram are equal}$.
+
+Let the other two angles of quadrilateral CEFB $= a, \ b$
+
+As per the daiagram,
+
+$h = 80 \degree$
+
+Let's use the value of $h$ to find $a$.
+
+$
+\begin{aligned}
+h + a              &= 180 \\\\
+80 + a             &= 180 \\\\
+a                  &= 180 - 80 \\\\
+a                  &= 100 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + 80 + 60 + b           &= 360 \\\\
+100 + 80 + 60 + b         &= 360 \\\\
+b + 240                   &= 360 \\\\
+b                         &= 360 - 240 \\\\
+b                         &= 120 \degree
+\end{aligned}
+$
+
+$j$ and $b$ are opposite angles of a parallelogram.
+
+$
+\begin{aligned}
+\text {Therefore,} \ j &= b \\\\
+                    j &= 120 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$120 \degree$
 
 </div>
 </div>

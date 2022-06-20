@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g2"
 title: "TopicPaper - Fraction - 5 - G2"
-date: 2022-06-20 20:45:39
+date: 2022-06-20 22:07:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -250,6 +250,203 @@ $\dfrac {3}{8}$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-F5BB2E80-58A6-4ACA-80C3-EEBED0513A81'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>10F270FA-3D28-4A29-9359-CFDD5C4FD3D8</p>
+</div>
+<div class='papername'>
+<p>the-independent-schools-examinations-board--11-plus--maths--2016--sample-paper-5:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a list of fractions:
+
+$\dfrac{3}{4} \quad \dfrac{5}{8} \quad \dfrac{15}{11} \quad \dfrac{8}{12} \quad \dfrac{4}{5}$
+
+Choose from the list: 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a fraction which is greater than $1$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {15} {11} \\\\
+&= 1.36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {15} {11}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a fraction equivalent to $80\%$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 80\% \\\\
+&= \dfrac {80} {100} \\\\
+&= \dfrac {20 \times 4} {20 \times 5} \\\\
+&= \dfrac {\cancel{20} \times 4} {\cancel{20} \times 5} \\\\
+&= \dfrac {4} {5} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {5}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a fraction equivalent to $0.75$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 0.75 \\\\
+&= \dfrac {75} {100} \\\\
+&= \dfrac {25 \times 4} {25 \times 4} \\\\
+&= \dfrac {\cancel{25} \times 3} {\cancel{25} \times 4} \\\\
+&= \dfrac {3} {4}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3} {4}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+a fraction which is not in its simplest form.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\dfrac {8} {12}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {8} {12}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' id='FORM-10F270FA-3D28-4A29-9359-CFDD5C4FD3D8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-10F270FA-3D28-4A29-9359-CFDD5C4FD3D8'>Initial</p>
 </div>
 </div>
 </li>

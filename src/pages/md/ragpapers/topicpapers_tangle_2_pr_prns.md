@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-pr-prns"
 title: "TopicPaper - Angle - 2 - PR - PRNS"
-date: 2022-06-20 20:45:39
+date: 2022-06-20 22:07:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -356,7 +356,7 @@ Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
 
-ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a traversal}$.
+ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a transversal}$.
 
 As per the first diagram,
 

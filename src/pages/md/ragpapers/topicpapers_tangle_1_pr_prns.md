@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr-prns"
 title: "TopicPaper - Angle - 1 - PR - PRNS"
-date: 2022-06-20 20:45:39
+date: 2022-06-20 22:07:11
 ---
 <ul class='question default-decimal'>
 <li>
@@ -329,6 +329,134 @@ $35 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-7D88A99B-2884-41F7-AFBF-593C0094BC10'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>45D6CC57-CF40-4978-B0E0-366243A0E33D</p>
+</div>
+<div class='papername'>
+<p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the size of the angle labelled $x$ in the diagram? The diagram is not drawn to scale.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add an image with angles inside of the quadrilateral marked as "a, b, c" except the one which include x *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+Let three angles of quadrilateral $= a,b,c$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 145 &= 180 \\\\
+a       &= 180 - 145 \\\\
+a       &= 35 \degree
+\end{aligned}
+$
+
+Similarly,
+
+$b = 35 \degree$
+
+$c = 35 \degree$
+
+Let's use the value of $a$, $b$, and $c$ to find $x$.
+
+$
+\begin{aligned}
+a + b + c + 180 + x         &= 360 \\\\
+35 + 35 + 35 + 180 + x      &= 360 \\\\
+x + 285                     &= 360 \\\\
+x                           &= 360 - 285 \\\\
+x                           &= 75 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \degree$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' id='FORM-45D6CC57-CF40-4978-B0E0-366243A0E33D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-45D6CC57-CF40-4978-B0E0-366243A0E33D'>Initial</p>
 </div>
 </div>
 </li>

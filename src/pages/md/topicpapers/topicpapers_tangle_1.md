@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-20 20:45:39
+date: 2022-06-20 22:07:11
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2143,7 +2143,7 @@ Please change that, as formualas do not capture exterior angle either.
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>45D6CC57-CF40-4978-B0E0-366243A0E33D</p>
 </div>
@@ -2151,7 +2151,7 @@ Please change that, as formualas do not capture exterior angle either.
 <p>city-of-london-school--11-plus--maths--2008--sample-paper-group-2:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2177,29 +2177,97 @@ What is the size of the angle labelled $x$ in the diagram? The diagram is not dr
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+*TODO:: Add an image with angles inside of the quadrilateral marked as "a, b, c" except the one which include x *
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+Let three angles of quadrilateral $= a,b,c$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 145 &= 180 \\\\
+a       &= 180 - 145 \\\\
+a       &= 35 \degree
+\end{aligned}
+$
+
+Similarly,
+
+$b = 35 \degree$
+
+$c = 35 \degree$
+
+Let's use the value of $a$, $b$, and $c$ to find $x$.
+
+$
+\begin{aligned}
+a + b + c + 180 + x         &= 360 \\\\
+35 + 35 + 35 + 180 + x      &= 360 \\\\
+x + 285                     &= 360 \\\\
+x                           &= 360 - 285 \\\\
+x                           &= 75 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$75 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='45D6CC57-CF40-4978-B0E0-366243A0E33D' id='FORM-45D6CC57-CF40-4978-B0E0-366243A0E33D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-45D6CC57-CF40-4978-B0E0-366243A0E33D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3438,7 +3506,7 @@ $35 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>FAE2F782-518B-4206-8667-3503E5D88609</p>
 </div>
@@ -3446,7 +3514,7 @@ $35 \degree$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4339,7 +4407,7 @@ $51 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>21511D1A-FF15-4A6C-BE70-80AD295DC47B</p>
 </div>
@@ -4347,7 +4415,7 @@ $51 \degree$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

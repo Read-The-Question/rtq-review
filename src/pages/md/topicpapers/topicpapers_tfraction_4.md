@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-20 16:11:37
+date: 2022-06-20 17:14:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-20 16:11:37
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>29DE4114-CF16-4830-A1D8-498E9062A293</p>
 </div>
@@ -23,10 +23,10 @@ date: 2022-06-20 16:11:37
 <p>sevenoaks-school--11-plus--maths--2014--sample-paper-5:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -154,43 +154,30 @@ $\dfrac {44} {45}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) and b) show cancellation
-
-Part c) Write fraction division prompt and change the workings to 
-
-a division question
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' id='FORM-29DE4114-CF16-4830-A1D8-498E9062A293' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='29DE4114-CF16-4830-A1D8-498E9062A293' id='FORM-29DE4114-CF16-4830-A1D8-498E9062A293' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -300,7 +287,7 @@ $\dfrac {4} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>30A026A8-E41C-4B35-90F2-DDA249AA1791</p>
 </div>
@@ -308,10 +295,10 @@ $\dfrac {4} {9}$
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -332,8 +319,8 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Left over}                  &= \ \text {Total wire} - \text {piece cut off} \\\\
-                                   &= 15 \dfrac {1} {2} \text{m} - 2 \dfrac {3} {4} \text{m} \\\\
+\text {Left over}                  &= \ \text {Total length} - \text {Length cut off} \\\\
+                                   &= 15 \dfrac {1} {2}  - 2 \dfrac {3} {4} \\\\
                                    &= \dfrac {31} {2} - \dfrac {11} {4} \\\\
                                    &= \dfrac {31 \times 2} {2  \times 2} - \dfrac {11} {4} \\\\
                                    &= \dfrac {62} {4} - \dfrac {11} {4} \\\\
@@ -353,41 +340,30 @@ $12 \dfrac {3} {4} \ \text{m}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Change to Left over = Total wire - piece cut off, 
-
-Remove units from S6 and give answer as a mixed fraction not both options
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' id='FORM-30A026A8-E41C-4B35-90F2-DDA249AA1791' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='30A026A8-E41C-4B35-90F2-DDA249AA1791' id='FORM-30A026A8-E41C-4B35-90F2-DDA249AA1791' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -626,7 +602,7 @@ $\dfrac {3} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA</p>
 </div>
@@ -634,10 +610,10 @@ $\dfrac {3} {7}$
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -764,49 +740,30 @@ $7 \dfrac{7}{12}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part a) Change S2 to 1/4x3
-
-Part b) Remove S3
-
-Part c) Only give mixed number as answer option
-
-
-
-Part b) Write in fraction division prompt
-
-
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' id='FORM-6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' id='FORM-6057B7EF-0E76-4BB0-BC7E-7995CF36BCAA' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -920,7 +877,7 @@ $398$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>018B54D1-3C23-4B75-8420-8637D0627456</p>
 </div>
@@ -928,10 +885,10 @@ $398$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_ar_g0</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1125,45 +1082,30 @@ $\dfrac {13} {12}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-
-
-
-
-Part c) Insert S2 that says 3/7x9 and Remove 1 from S3
-
-Parr e) Remove first sentence
-
-
-
-In all parts remove 1 where not required
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' id='FORM-018B54D1-3C23-4B75-8420-8637D0627456' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='018B54D1-3C23-4B75-8420-8637D0627456' id='FORM-018B54D1-3C23-4B75-8420-8637D0627456' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

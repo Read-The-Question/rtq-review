@@ -1,9 +1,76 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-blocked"
 title: "TopicPaper - Fraction - 4 - BLOCKED"
-date: 2022-06-20 20:14:50
+date: 2022-06-20 20:45:39
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+tareaperimeter
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In the diagram the small squares are all the same size. What fraction of the large square is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the figure,
+
+If we look at the large square, we can see that $8$ portions have been shaded and there are $18$ portions in total.
+
+The fraction that has been shaded $= \dfrac {8} {18}$
+
+Let's find out what fraction of the large square is shaded.
+
+$
+\begin{aligned}
+&= \dfrac {8} {18} \\\\
+&= \dfrac {4 \times 2} {9 \times 2} \\\\
+&= \dfrac {4 \times \cancel{2}} {9 \times \cancel{2}} \\\\
+&= \dfrac {4} {9}
+\end{aligned}
+$
+
+Fraction of large square that has been shaded in simple fraction $= \dfrac {4} {9}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {4} {9}$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

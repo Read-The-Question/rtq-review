@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-4"
 title: "TopicPaper - Fraction - 4"
-date: 2022-06-20 20:14:50
+date: 2022-06-20 20:45:39
 ---
 <div class='paper'>
 <div class='meta'>
@@ -189,7 +189,7 @@ $\dfrac {44} {45}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -197,10 +197,10 @@ $\dfrac {44} {45}$
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -253,37 +253,6 @@ $\dfrac {4} {9}$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' id='FORM-27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -3704,7 +3673,7 @@ $\dfrac {7}{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
 </div>
@@ -3712,10 +3681,10 @@ $\dfrac {7}{2}$
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3760,48 +3729,11 @@ $
 \begin{aligned}
 \dfrac{1}{2} \times 20  &= \dfrac {1} {4} \times a \\\\
 \dfrac{1}{4} \times a   &= \dfrac {1} {2} \times 20 \\\\
-a                       &= \dfrac {1} {2} \times 20 \times 4 \\\\
-a                       &= \dfrac {1} {2} \times 20 \times 2 \times 2 \\\\
-a                       &= \dfrac {1} {\cancel{2}} \times 20 \times 2 \times \cancel{2} \\\\
+a                       &= \dfrac {20 \times 4} {2} \\\\
+a                       &= \dfrac {20 \times 2 \times 2} {2} \\\\
+a                       &= \dfrac {20 \times 2 \times \cancel {2}} {\cancel {2}} \\\\
 a                       &= 20 \times 2 \\\\
 a                       &= 40
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Let the missing number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac {3} {4} \times 100 &= \dfrac {1} {2} \times a \\\\
-\dfrac {1} {2} \times a   &= \dfrac {3} {4} \times 100 \\\\
-a                         &= \dfrac {3} {4} \times 100 \times 2 \\\\
-a                         &= \dfrac {3} {4} \times 25 \times 4 \times 2 \\\\
-a                         &= \dfrac {3} {\cancel{4}} \times 25 \times \cancel{4} \times 2 \\\\
-a                         &= 3 \times 25 \times 2 \\\\
-a                         &= 150
-\end{aligned}
-$
-
-</div>
-<div class='working'>
-
-Let the missing number $=a$
-
-As per the question,
-
-$
-\begin{aligned}
-\dfrac{1} {3} \times 60  &= \dfrac {2} {3} \times a \\\\
-\dfrac{2} {3} \times a   &= \dfrac {1} {3} \times 60 \\\\
-a                        &= \dfrac {1} {3} \times 60 \times \dfrac {3} {2} \\\\
-a                        &= \dfrac {1} {3} \times 30 \times 2 \times \dfrac {3} {2} \\\\
-a                        &= \dfrac {1} {\cancel{3}} \times 30 \times \cancel{2} \times \dfrac {\cancel{3}} {\cancel{2}}  \\\\
-a                        &= 30
 \end{aligned}
 $
 
@@ -3813,11 +3745,76 @@ $
 $40$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{3}{4}$ of $100 = \dfrac{1}{2}$ of $\ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=b$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac {3} {4} \times 100 &= \dfrac {1} {2} \times b \\\\
+\dfrac {1} {2} \times b   &= \dfrac {3} {4} \times 100 \\\\
+b                         &= \dfrac {3 \times 100 \times 2} {4}  \\\\
+b                         &= \dfrac {3 \times 4 \times 25 \times 2} {4}  \\\\
+b                         &= \dfrac {3 \times \cancel{4} \times 25 \times 2} {\cancel{4}}  \\\\
+b                         &= 3 \times \times 25 \times 2  \\\\
+b                         &= 150
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 $150$
 
 </div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\dfrac{1}{3}$ of $60 = \dfrac{2}{3}$ of $\ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the missing number $=c$
+
+As per the question,
+
+$
+\begin{aligned}
+\dfrac{1} {3} \times 60  &= \dfrac {2} {3} \times c \\\\
+\dfrac{2} {3} \times c   &= \dfrac {1} {3} \times 60 \\\\
+c                        &= \dfrac {60 \times 3} {3 \times 2} \\\\
+c                        &= \dfrac {30 \times 2 \times 3} {3 \times 2} \\\\
+c                        &= \dfrac {30 \times \cancel{2} \times \cancel{3}} {\cancel{3} \times \cancel{2}} \\\\
+c                        &= 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 $30$
@@ -3832,26 +3829,26 @@ $30$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='25E902FC-7725-4A86-B481-912E52709734' id='FORM-25E902FC-7725-4A86-B481-912E52709734' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='25E902FC-7725-4A86-B481-912E52709734' id='FORM-25E902FC-7725-4A86-B481-912E52709734' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

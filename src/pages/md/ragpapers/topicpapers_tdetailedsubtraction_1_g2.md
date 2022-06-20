@@ -1,9 +1,93 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedsubtraction-1-g2"
 title: "TopicPaper - Detailedsubtraction - 1 - G2"
-date: 2022-06-20 20:14:50
+date: 2022-06-20 20:45:39
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--2019--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much more than $523$ is $872$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{array}{cccccccccccccc}
+     &   8  &   7   &   2 \\
+ {}- &   5  &   2   &   3 \\
+\hline
+     &   3   &   4   &  9 \\
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$349$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' id='FORM-806A70B8-E2A8-4CC6-99FB-54DFD0C55F33' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-806A70B8-E2A8-4CC6-99FB-54DFD0C55F33'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
@@ -2083,6 +2167,94 @@ $82$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-DA7226BD-BE7F-487F-BDFB-D05F5FD59EFB'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>7002E449-EEBA-49EF-A1BD-DA0806D4924B</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedsubtraction
+</li>
+<li>
+tdecimal
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $30.03 - 3.3$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Remember to line up the decimal points.
+
+
+$
+\begin{array}{cccccccccccccc}
+    &   3   &   0 \ .    &    0  &   3 \\
+{}- &       &   3 \ .    &    3  &   0 \\
+\hline
+    &   2   &   6 \ .    &    7  &   3
+\end{array}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26.73$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='7002E449-EEBA-49EF-A1BD-DA0806D4924B' id='FORM-7002E449-EEBA-49EF-A1BD-DA0806D4924B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7002E449-EEBA-49EF-A1BD-DA0806D4924B'>Initial</p>
 </div>
 </div>
 </li>

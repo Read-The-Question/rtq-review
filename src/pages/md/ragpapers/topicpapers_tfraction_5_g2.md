@@ -1,9 +1,258 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g2"
 title: "TopicPaper - Fraction - 5 - G2"
-date: 2022-06-20 20:14:50
+date: 2022-06-20 20:45:39
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2009--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {1} {2} \times \bigg( \dfrac {1} {3} + \dfrac{1} {2} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2 + 3} {6} \bigg)  \\\\
+&= \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
+&= \dfrac {5} {12}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {5} {12}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' id='FORM-DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DDE5EDFE-50F3-4ED7-8F04-5F6059E36FDD'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>94F6515A-3D31-4CC3-B8C6-9C2867CCD37D</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the difference between $43 \dfrac{1}{3}$ and $51 \dfrac{2}{3}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 51 \dfrac {2} {3} - 43 \dfrac {1} {3} \\\\
+&= \dfrac {155} {3} - \dfrac {130} {3} \\\\
+&= \dfrac {155 - 130} {3} \\\\
+&= \dfrac {25} {3} \\\\
+&= 8 \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$8 \dfrac {1} {3}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' id='FORM-94F6515A-3D31-4CC3-B8C6-9C2867CCD37D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-94F6515A-3D31-4CC3-B8C6-9C2867CCD37D'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>F5BB2E80-58A6-4ACA-80C3-EEBED0513A81</p>
+</div>
+<div class='papername'>
+<p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is a half of three-quarters?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \text{half of three-quarters} \\\\
+&= \dfrac {1} {2} \times \dfrac {3} {4} \\\\
+&= \dfrac {3} {2 \times 4} \\\\
+&= \dfrac {3} {8}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac {3}{8}$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' id='FORM-F5BB2E80-58A6-4ACA-80C3-EEBED0513A81' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-F5BB2E80-58A6-4ACA-80C3-EEBED0513A81'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
@@ -1324,6 +1573,148 @@ $54$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-EA1B0CA0-D56A-4468-B448-41B64C640240'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>FF3E37F7-96DD-4E04-B676-7E81C801B314</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out one fifth of $180$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {1} {5} \times 180 \\\\
+&=  \dfrac {180} {5} \\\\
+&=  \dfrac {36 \times 5} {5} \\\\
+&=  \dfrac {36 \times \cancel {5}} {\cancel {5}} \\\\
+&=  36
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$36$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Work out $\dfrac{5}{8}$ of $96$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&=  \dfrac {5} {8} \ \text {of} \ 96 \\\\
+&=  \dfrac {5} {8} \times 96 \\\\
+&=  \dfrac {5 \times 96} {8} \\\\
+&=  \dfrac {5 \times 12 \times 8} {8} \\\\
+&=  \dfrac {5 \times 12 \times \cancel {8}} {\cancel {8}} \\\\
+&=  5 \times 12 \\\\
+&=  60
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$60$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='FF3E37F7-96DD-4E04-B676-7E81C801B314' id='FORM-FF3E37F7-96DD-4E04-B676-7E81C801B314' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FF3E37F7-96DD-4E04-B676-7E81C801B314'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tinfer-2"
 title: "TopicPaper - Infer - 2"
-date: 2022-06-20 20:14:50
+date: 2022-06-20 20:45:39
 ---
 <div class='paper'>
 <div class='meta'>

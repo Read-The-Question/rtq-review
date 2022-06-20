@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-oldpr"
 title: "TopicPaper - Sequence - 4 - OLDPR"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -2080,7 +2080,7 @@ What are the next two numbers in the sequence?
 <div class='workings'>
 <div class='working'>
 
- ABBR:  Let's find the relation between the consecutive terms of the sequence.
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 The difference between the terms is decreasing by $7$. Hence, the sequence would be

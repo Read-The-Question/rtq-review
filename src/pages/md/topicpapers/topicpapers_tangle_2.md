@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -637,7 +637,7 @@ $90 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC</p>
 </div>
@@ -645,7 +645,7 @@ $90 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -669,11 +669,6 @@ The diagram shows an angle A.
 
 </div>
 <div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 <div class='working'>
 
 TODOWORKING
@@ -703,24 +698,16 @@ What kind of angle is A?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Angle smaller than $90 \degree$ is called acute angle.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+Angle A is actue angle.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Acute angle
 
 </div>
 </div>
@@ -737,24 +724,14 @@ Estimate (do not use a protractor) the angle A in degrees.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+angle A $= 75 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$75 \degree$
 
 </div>
 </div>
@@ -763,6 +740,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' id='FORM-B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B3DF24ED-CC5C-4CA5-9919-6C17AC5039BC'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -942,7 +950,7 @@ $d$ $=$ $28 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>884210A5-5A22-4C28-BC32-2F3819EB8B3D</p>
 </div>
@@ -950,7 +958,7 @@ $d$ $=$ $28 \degree$
 <p>merchant-taylors-school--11-plus--maths--2008--practice-paper-1:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -976,19 +984,91 @@ Find the angles marked in the diagram.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+*TODO:: Add an image with vertex marked at angle v as H and the angle marked beside v as a.*
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text {Exterior angle of a triangle is equal to the sum of the two interior opposite angles}$.
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the angle in the triangle FGH $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+v + 64      &= 107 \\\\
+v           &= 107 - 64 \\\\
+v           &= 43 \degree
+\end{aligned}
+$
+
+Let's use the value of $v$ to find $a$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + v + 90          &= 180 \\\\
+a + 43 + 90         &= 180 \\\\
+a + 133             &= 180 \\\\
+a                   &= 180 - 133 \\\\
+a                   &= 47 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $w$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+w + a       &= 61 \\\\
+w + 47      &= 61 \\\\
+w           &= 61 - 47 \\\\
+w           &= 14 \degree
+\end{aligned}
+$
+
+Let's use the value of $w$ to find $u$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+u + 61      &= w + 64 \\\\
+u + 47      &= 14 + 64 \\\\
+u + 47      &= 78 \\\\
+u           &= 78 - 47 \\\\
+u           &= 31 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$
+\begin{aligned}
+u &= 31 \degree \\\\
+v &= 43 \degree \\\\
+w &= 14 \degree \\\\
+\end{aligned}
+$
 
 </div>
 <div class='answer'>
@@ -999,10 +1079,41 @@ TODOANSWER
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='884210A5-5A22-4C28-BC32-2F3819EB8B3D' id='FORM-884210A5-5A22-4C28-BC32-2F3819EB8B3D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-884210A5-5A22-4C28-BC32-2F3819EB8B3D'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>8C3738E6-75D6-4E8F-912D-0AA1EEB6F854</p>
 </div>
@@ -1010,7 +1121,7 @@ TODOANSWER
 <p>merchant-taylors-school--11-plus--maths--2009--practice-paper-2:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1038,19 +1149,126 @@ Find angles $b, x$ and $y$ in the following diagrams (not to scale):
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
 
+![missing image](/papers/missing_image.svg)
+
+
+
+*TODO:: Add the second figure with vertices marked ABCD. The bigger triangle should be ABC and smaller one ADC.*
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+ABBR: $\text {Alternate interior angles are equal when two parallel lines are cut by a traversal}$.
+
+As per the first diagram,
+
+$
+\begin{aligned}
+b + b + 108     &= 180 \\\\
+2b + 108        &= 180 \\\\
+2b              &= 180 - 108 \\\\
+2b              &= 72 \\\\
+b               &= \dfrac {72} {2} \\\\
+b               &= \dfrac {36 \times 2} {2} \\\\
+b               &= \dfrac {36 \times \cancel {2}} {\cancel {2}} \\\\
+b               &= 36 \degree
+\end{aligned}
+$
+
+Let the third angle in triangle ABC $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 48 + 34 + 53        &= 180 \\\\
+a + 135                 &= 180 \\\\
+a                       &= 180 - 135 \\\\
+a                       &= 45 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $x$.
+
+$
+\begin{aligned}
+x + x + a               &= 180 \\\\
+2x + 45                 &= 180 \\\\
+2x                      &= 180 - 45 \\\\
+2x                      &= 135 \\\\
+x                       &= \dfrac {135} {2} \\\\
+x                       &= 67.5 \degree
+\end{aligned}
+$
+
+Let's use the value of $x$ and $a$ to find $y$.
+
+As per the diagram, in triangle ADC
+
+$
+\begin{aligned}
+x + a + y + 34               &= 180 \\\\
+67.5 + 45 + y + 34           &= 180 \\\\
+y + 146.5                    &= 180 \\\\
+y                            &= 180 - 146.5 \\\\
+y                            &= 33.5 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$
+\begin{aligned}
+b &= 36 \degree \\\\
+x &= 67.5 \degree \\\\
+y &= 33.5 \degree \\\\
+\end{aligned}
+$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' id='FORM-8C3738E6-75D6-4E8F-912D-0AA1EEB6F854' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8C3738E6-75D6-4E8F-912D-0AA1EEB6F854'>Initial</p>
+</div>
 </div>
 </li>
 <li>

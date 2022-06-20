@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-oldpr"
 title: "TopicPaper - Fraction - 4 - OLDPR"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>27CD01EC-3953-42B4-BA5E-E1F1DE7E96A7</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-20 05:43:04
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -103,7 +103,7 @@ $\dfrac {4} {9}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>7241EB20-8C18-4489-BCB1-426409F62127</p>
 </div>
@@ -114,7 +114,7 @@ $\dfrac {4} {9}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -155,13 +155,15 @@ Find $\dfrac{5}{8}$ of $240 \ \text{m}$
 <div class='working'>
 
 $
-\begin{array}{cccccccccccccc}
-&=  \dfrac {5}{8} \times{240} \ \text{m} \\\\
-&=  \dfrac {1200}{8} \\\\
-&=  \dfrac {150\times 8} {8} \\\\
-&=  \dfrac {150 \times \cancel{8}} {\cancel 8} \\\\
-&=  150 \ \text{m}
-\end{array}
+\begin{aligned}
+&= \dfrac {5}{8} \times{240} \ \text{m} \\\\
+&= \dfrac {5 \times 240} {8} \\\\
+&= \dfrac {5 \times 8 \times 2 \times 3 \times 5} {8} \\\\
+&= \dfrac {5 \times \cancel{8} \times 2 \times 3 \times 5} {\cancel{8}} \\\
+&= 5 \times 2 \times 3 \times 5 \\\\
+&= 10 \times 15 \\\\
+&= 150 \ \text{m}
+\end{aligned}
 $
 
 </div>
@@ -289,7 +291,7 @@ $\dfrac{5}{8}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4A5640EB-A71C-4E96-8720-171B2B14F0CF</p>
 </div>
@@ -300,7 +302,7 @@ $\dfrac{5}{8}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -341,11 +343,12 @@ $2 \dfrac{1}{2} + 4 \dfrac{1}{4}$
 
 $
 \begin{array}{cccccccccccccc}
-&=  2\dfrac {1}{2} +4\dfrac{1}{4} \\\\
-&=  \dfrac{5}{2} + \dfrac{17}{4} \\\\
-&=  \dfrac{10+17}{4} \\\\
-&=  \dfrac{27}{4} \\\\
-&=  6\dfrac{3}{4}
+&= 2\dfrac {1}{2} +4\dfrac{1}{4} \\\\
+&= \dfrac{5}{2} + \dfrac{17}{4} \\\\
+&= \dfrac {5 \times 2} {2 \times 2} + \dfrac {17} {4} \\\\
+&= \dfrac{10+17}{4} \\\\
+&= \dfrac{27}{4} \\\\
+&= 6\dfrac{3}{4}
 \end{array}
 $
 
@@ -373,10 +376,13 @@ $4 \dfrac{1}{4} - 2 \dfrac{1}{2}$
 
 $
 \begin{array}{cccccccccccccc} 
-&=  4\dfrac {1}{4} -2\dfrac{1}{2} \\\\
+&= 4\dfrac {1}{4} - 2\dfrac{1}{2} \\\\
+&= \dfrac {17} {4} - \dfrac {5} {2} \\\\
+&= \dfrac {17} {4} - \dfrac {5 \times 2} {2 \times 2} \\\\
+&= \dfrac {17} {4} - \dfrac {10} {4} \\\\
 &= \dfrac{17-10}{4} \\\\
 &= \dfrac{7}{4} \\\\
-&=  1\dfrac{3}{4}
+&= 1\dfrac{3}{4}
 \end{array}
 $
 
@@ -428,7 +434,7 @@ $1\dfrac{3}{4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>2F56FD4F-E0EC-48C9-8B9F-6E6C23752C49</p>
 </div>
@@ -439,7 +445,7 @@ $1\dfrac{3}{4}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -483,7 +489,6 @@ $60\%$ to a fraction in its simplest form
 
 $
 \begin{aligned}
-&=  60\div{100} \\\\
 &=  \dfrac{60}{100} \\\\
 &=  \dfrac{20 \times 3}{20 \times 5} \\\\
 &=  \dfrac{\cancel{20} \times 3}{\cancel{20} \times 5} \\\\
@@ -515,7 +520,6 @@ $0.12$ to a fraction in its simplest form
 
 $
 \begin{aligned}
-&=  60\div{100} \\\\
 &=  \dfrac{12}{100} \\\\
 &=  \dfrac{4 \times 3}{4 \times 25} \\\\
 &=  \dfrac{\cancel 4 \times 3}{\cancel 4 \times 25} \\\\
@@ -571,7 +575,7 @@ $\dfrac{3}{25}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BFFF5136-E83F-4F59-9134-E57C8DF43C60</p>
 </div>
@@ -582,7 +586,7 @@ $\dfrac{3}{25}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -629,7 +633,7 @@ $
 &= \dfrac {6 \times 5 } {7 \times 9 }\\\\
 &=  \dfrac {2 \times 3 \times 5} {7 \times 3 \times 3} \\\\
 &=  \dfrac {2 \times \ \cancel 3 \times 5} {7 \times \cancel 3 \times 3} \\\\
-&=  \dfrac {\cancel{30} \ \ 10}{\cancel{63} \ \ 21} \\\\
+&=  \dfrac {2 \times 5}{7 \times 3} \\\\
 &=  \dfrac {10}{21}
 \end{aligned}
 $
@@ -658,10 +662,12 @@ $3\dfrac {2} {5} + 2\dfrac {3} {4}$
 
 $
 \begin{aligned}
-&=  3\dfrac {2}{5} + 2\dfrac {3}{4} \\\\
+&= 3\dfrac {2}{5} + 2\dfrac {3}{4} \\\\
+&= \dfrac {17}{5}  + \dfrac {11}{4} \\\\
 &= \dfrac {17 \times 4}{5 \times 4}  + \dfrac {11 \times 5}{4 \times 5} \\\\
-&=  \dfrac {17 \times 4 + 11 \times 5}{20} \\\\
-&=  \dfrac {123}{20}
+&= \dfrac {68}{20}  + \dfrac {55}{20} \\\\
+&= \dfrac {68 + 55}{20} \\\\
+&= \dfrac {123}{20}
 \end{aligned}
 $
 
@@ -690,7 +696,16 @@ $1\dfrac {2} {3} \div \dfrac {10} {21}$
 $
 \begin{aligned}
 &=  1\dfrac {2} {3} \div \dfrac {10} {21} \\\\
-&=  \dfrac {5} {3} \div \dfrac {10} {21} \\\\
+&=  \dfrac {5} {3} \div \dfrac {10} {21}
+\end{aligned}
+$
+
+ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
+
+
+$
+\begin{aligned}
+&=  \dfrac {5} {3} \times \dfrac {21} {10}
 &=  \dfrac {5} {3} \times \dfrac {7 \times 3} {2 \times 5} \\\\
 &=  \dfrac {\cancel 5} {\cancel 3} \times \dfrac {7 \times \cancel 3} {2 \times \cancel 5} \\\\
 &=  \dfrac {7}{2}
@@ -922,7 +937,7 @@ $30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>1F45A013-A394-4AD2-A795-8AA3EF051A9F</p>
 </div>
@@ -933,7 +948,7 @@ $30$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -962,7 +977,7 @@ $
 a                                   &= \dfrac {12} {18} \times 12 \\\\
 a                                   &= \dfrac {12 \times 12} {18} \\\\
 a                                   &= \dfrac {4 \times 3 \times 2 \times 6} {3 \times 6} \\\\
-a                                   &= \dfrac {4 \times \cancel{3} \times 2 \times 6} {\cancel{3} \times \cancel{6}} \\\\
+a                                   &= \dfrac {4 \times \cancel{3} \times 2 \times cancel{6}} {\cancel{3} \times \cancel{6}} \\\\
 a                                   &= 4 \times 2 \\\\
 \text {First missing number}        &= 8 \\\\
 \dfrac {b} {18}                     &= \dfrac {18} {12} \\\\
@@ -1020,7 +1035,7 @@ $8, 27$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>EC3E64BC-89F2-40BF-A533-FD22D897D87A</p>
 </div>
@@ -1031,7 +1046,7 @@ $8, 27$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1058,7 +1073,7 @@ As per the question,
 
 $
 \begin{aligned}
-&= \text{the two-fifth of} \ 45 \\\\
+&= \text{two-fifth of} \ 45 \\\\
 &= \dfrac{2}{5} \text{of} \ 45 \\\\
 &= \dfrac{2}{5} \times 45 \\\\
 &= \dfrac{2 \times 45}{5} \\\\

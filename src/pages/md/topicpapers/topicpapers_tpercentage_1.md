@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -486,7 +486,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>34889FE4-A959-410E-B6B7-7810931125D3</p>
 </div>
@@ -497,7 +497,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -748,7 +748,7 @@ $92$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8C475099-0739-4B04-B1D6-BDCA16ACE65F</p>
 </div>
@@ -759,7 +759,7 @@ $92$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -781,8 +781,9 @@ $
 &= 15 \% \ \text { of } 240 \\\\
 &= \dfrac {15} {100} \times 240  \\\\
 &= \dfrac {15 \times 240} {100} \\\\
-&= \dfrac {3600} {100} \\\\
-&= \dfrac {36 \cancel {00}} {1 \cancel{00}} \\\\
+&= \dfrac {15 \times 2 \times 120}{2 \times 50}\\\\
+&= \dfrac {15 \times 2 \times \cancel {120}}{\cancel {2} \times \cancel {50}}\\\\
+&= \dfrac {15\times 60}{25} \\\\
 &= 36
 \end {aligned}
 $
@@ -936,7 +937,7 @@ $400$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C2DA9491-EDDE-4593-8A44-2D8FCE3664C6</p>
 </div>
@@ -947,7 +948,7 @@ $400$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

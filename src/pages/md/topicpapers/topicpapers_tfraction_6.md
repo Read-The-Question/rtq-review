@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-6"
 title: "TopicPaper - Fraction - 6"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -49,8 +49,6 @@ $
                     &= \dfrac {1} {5} \ \text {of} \ 10 - \dfrac {1} {10} \ \text {of} \ 5 \\\\
                     &= \dfrac {1} {5} \times 10 - \dfrac {1} {10} \times 5 \\\\
                     &= \dfrac {10} {5} - \dfrac {5} {10} \\\\
-                    &= \dfrac {2 \times 5} {5} - \dfrac {5} {2 \times 5} \\\\
-                    &= \dfrac {2 \times \cancel {5}} {\cancel {5}} - \dfrac {\cancel {5}} {2 \times \cancel {5}} \\\\
                     &= 2 - \dfrac {1} {2} \\\\
                     &= \dfrac {2 \times 2} {1 \times 2} - \dfrac {1} {2} \\\\
                     &= \dfrac {4} {2} - \dfrac {1} {2} \\\\

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-notstarted"
 title: "TopicPaper - Sequence - 3 - NOTSTARTED"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1135,15 +1135,15 @@ The difference between the terms is $- 3$. Hence, the sequence would be:
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
- { (- 3)} }  
+ {(- 3)}}  
 &&  \footnotesize{\maroonC
- { (- 3)} }
+ {(- 3)}}
 &&  \footnotesize{\maroonC
- { (- 3)} } 
+ {(- 3)}} 
 &&  \footnotesize{\maroonC
- { (- 3)} }   
+ {(- 3)}}   
 &&  \footnotesize{\maroonC
- { (- 3)} } \\
+ {(- 3)}} \\
 -4,  &&    -7,  &&  -10,  &&   -13,  &&  \ldots,  &&  \ldots
 \end{matrix}
 $

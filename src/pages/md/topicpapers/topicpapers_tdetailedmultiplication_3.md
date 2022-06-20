@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-3"
 title: "TopicPaper - Detailedmultiplication - 3"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2487,7 +2487,7 @@ $24192$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
@@ -2498,7 +2498,7 @@ $24192$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2517,10 +2517,10 @@ Work out $3729 \times 6$
 
 $
 \begin{array}{cccccccccccccc}
-     &         &    3     &   2    &   7   &    9 \\
+     &         &    3     &   7    &   2   &    9 \\
      & \times  &          &        &       &    6 \\
 \hline
-     &    1    &    9     &   7    &   6   &    4
+     &    2    &    2     &   3    &   7   &    4
 \end{array}
 $
 
@@ -2529,7 +2529,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19764$
+$22374$
 
 </div>
 </div>

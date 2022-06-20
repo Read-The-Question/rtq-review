@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedsubtraction-1"
 title: "TopicPaper - Detailedsubtraction - 1"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-20 05:43:04
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>806A70B8-E2A8-4CC6-99FB-54DFD0C55F33</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-20 05:43:04
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,10 +46,12 @@ How much more than $523$ is $872$?
 As per the question,
 
 $
-\begin{aligned}
-\text{Difference}    &=  872 - 523 \\\\
-                     &=  349 
-\end{aligned}
+\begin{array}{cccccccccccccc}
+     &   8  &   7   &   2 \\
+ {}- &   5  &   2   &   3 \\
+\hline
+     &   3   &   4   &  9 \\
+\end{array}
 $
 
 </div>

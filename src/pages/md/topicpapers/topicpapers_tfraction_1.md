@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <div class='paper'>
 <div class='meta'>
@@ -405,8 +405,8 @@ $20$
 <div class='question subquestion'>
 
 $
-\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}} 
-= 
+\dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}}
+=
 \text{\textunderscore \textunderscore \textunderscore}
 $
 

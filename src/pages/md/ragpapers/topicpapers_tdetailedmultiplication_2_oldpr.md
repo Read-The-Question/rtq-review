@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-oldpr"
 title: "TopicPaper - Detailedmultiplication - 2 - OLDPR"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -90,7 +90,7 @@ Use array
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>42B172FC-BBD5-4557-9351-313D4B254286</p>
 </div>
@@ -101,7 +101,7 @@ Use array
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -142,10 +142,10 @@ $241 \times  7$
 
 $
 \begin{array}{cccccccccccccc}
-&       &       2       & 4     & 1     \\
-{}\times    &       &               &      & 7     \\
+&        &   2   &   4   &   1 \\
+& \times &       &       &   7 \\
 \hline
-&  1    &       6       & 7     & 8     \\
+&  1     &   6   &   8   &   7 \\
 \end{array}
 $
 
@@ -154,7 +154,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1678$
+$1687$
 
 </div>
 </div>
@@ -173,13 +173,13 @@ $39 \times 16$
 
 $
 \begin{array}{cccccccccccccc}
-&       &              & 3     & 9     \\
-{}\times    &       &              & 1     & 6     \\
+&       &        &   3   &   9 \\
+&       & \times &   1   &   6 \\
 \hline
-&      &       2       & 3     & 4     \\
-&      &       3       & 9     & 0     \\
+&      &   2     &   3   &   4 \\
+&      &   3     &   9   &   0 \\
 \hline
-&       &       6       & 2     & 4
+&      &   6     &   2   &   4
 \end{array}
 $
 

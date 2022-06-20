@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-1-blocked"
 title: "TopicPaper - Sequence - 1 - BLOCKED"
-date: 2022-06-20 05:43:04
+date: 2022-06-20 11:19:25
 ---
 <ul class='question default-decimal'>
 <li>
@@ -233,6 +233,67 @@ $52$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>38069E88-D243-49CC-BCD6-9BF82C104E6B</p>
+</div>
+<div class='papername'>
+<p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Liam started with the number $2$ and counted up in $3$s.
+He got the numbers $2, 5, 8, 11, \ldots$
+
+Louise started with the number $3$ and counted up in $2$s. She got the numbers $3, 5, 7, 9, \ldots$
+
+What is the difference between Liam's $50 \text{th}$ number and Louise's $50 \text{th}$ number?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let Liam's $50 \text{th}$ number $= a$.
+
+Let Louise's $50 \text{th}$ number $= b$.
+
+$
+\begin {aligned}
+\text {Difference between Liam's 50th number and Louise's 50th number}  &= a - b \\\\
+                                                                        &= (2 + 3 \times 49) - (3 + 2 \times 49) \\\\
+                                                                        &= (2 + 147) - (3 + 98) \\\\
+                                                                        &= 149 - 101 \\\\
+                                                                        &= 48
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$48$
+
+</div>
+</div>
+
 
 </div>
 </li>

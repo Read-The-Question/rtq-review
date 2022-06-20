@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <div class='paper'>
 <div class='meta'>
@@ -45,18 +45,14 @@ Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
 
 $
 \begin{aligned}
-&= \dfrac {1} {3} + \dfrac{1} {2} \\\\
-&= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \\\\
-&= \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
-&= \dfrac {2 + 3} {6} \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {1} {3} + \dfrac{1} {2} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2 + 3} {6} \bigg)  \\\\
 &= \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
 &= \dfrac {5} {12}
 \end{aligned}
 $
-
-The average of  $\dfrac {1} {3}$ and $\dfrac {1} {2} = \dfrac {5} {12}$
-
-So, fraction $\dfrac {5} {12}$ lies between $\dfrac {1} {3}$ and $\dfrac {1} {2}$.     
 
 </div>
 </div>
@@ -2600,7 +2596,7 @@ $15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A</p>
 </div>
@@ -2608,10 +2604,10 @@ $15$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2646,7 +2642,7 @@ $\dfrac {1} {4} = 0.25$
 
 Based on the calculation above,
 
-Numbers more than $\dfrac {1} {4} = 0.4, \quad \dfrac {3} {8}$
+Numbers more than $\dfrac {1} {4} = 0.4, \dfrac {3} {8}$
 
 </div>
 </div>
@@ -2662,26 +2658,26 @@ $0.4, \dfrac {3} {8}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' id='FORM-F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' id='FORM-F8C1A56A-D5D5-4BA2-971C-07B4313A4B2A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

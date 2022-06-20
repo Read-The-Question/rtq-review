@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-3"
 title: "TopicPaper - Detailedmultiplication - 3"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2487,7 +2487,7 @@ $24192$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_oldpr rag_prcr question'>
 <div class='uuid'>
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
@@ -2498,7 +2498,7 @@ $24192$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2538,6 +2538,10 @@ $22374$
 
 <h4>Review Comments</h4>
 solved wrong
+
+
+
+Extra emtpy line on left, empty & i think
 </div>
 
 <div class='review'>

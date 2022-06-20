@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4934,7 +4934,7 @@ $20 \degree, 80 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>79C9163C-A4D6-4C83-870C-4A5426B23C1E</p>
 </div>
@@ -4942,7 +4942,7 @@ $20 \degree, 80 \degree$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

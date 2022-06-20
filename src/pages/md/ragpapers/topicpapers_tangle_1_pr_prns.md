@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-1-pr-prns"
 title: "TopicPaper - Angle - 1 - PR - PRNS"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -764,6 +764,227 @@ $360 \degree$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-B5BFCDCA-D197-4C79-8537-F5E6D1C97217'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>277680C6-9DE8-4939-9C31-D456D52387D8</p>
+</div>
+<div class='papername'>
+<p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_na_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tangle
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How big is angle $x$ in this diagram? 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add an image with angles inside of the triangle shown. mark angle beside x as b and the other one as a.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the other two angles in triangle $= a, b$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 113     &= 180 \\\\
+a           &= 180 - 113 \\\\
+a           &= 67 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + b + 37      &= 180 \\\\
+67 + b + 37     &= 180 \\\\
+b + 104         &= 180 \\\\
+b               &= 180 - 104 \\\\
+b               &= 76 \degree
+\end{aligned}
+$
+
+Let's use the value of $b$ to find $x$.
+
+$
+\begin{aligned}
+x + b           &= 180 \\\\ 
+x + 76          &= 180 \\\\ 
+x               &= 180 - 76 \\\\ 
+x               &= 180 - 76 \\\\ 
+x               &= 104 \degree 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$104 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the value of $x$ in this diagram? 
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
+
+
+ABBR: $\text{Sum of angles in a quadrilateral} = 360 \degree$
+
+
+Let the fourth angle in quadrilateral $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 25 + 15 + 35        &= 360 \\\\
+a + 75                  &= 360 \\\\
+a                       &= 360 - 75 \\\\
+a                       &= 285 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $x$.
+
+$
+\begin{aligned}
+x + a               &= 360 \\\\
+x + 285             &= 360 \\\\
+x                   &= 360 - 285 \\\\
+x                   &= 75 \degree
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$75 \degree$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='277680C6-9DE8-4939-9C31-D456D52387D8' id='FORM-277680C6-9DE8-4939-9C31-D456D52387D8' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-277680C6-9DE8-4939-9C31-D456D52387D8'>Initial</p>
 </div>
 </div>
 </li>

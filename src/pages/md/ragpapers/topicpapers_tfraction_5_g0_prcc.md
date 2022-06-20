@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-5-g0-prcc"
 title: "TopicPaper - Fraction - 5 - G0 - PRCC"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,18 +35,14 @@ Write down any fraction between $\dfrac{1}{3}$ and $\dfrac{1}{2}$ .
 
 $
 \begin{aligned}
-&= \dfrac {1} {3} + \dfrac{1} {2} \\\\
-&= \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \\\\
-&= \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
-&= \dfrac {2 + 3} {6} \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {1} {3} + \dfrac{1} {2} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {1 \times 2} {3 \times 2} + \dfrac {1 \times 3} {2 \times 3} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2} {6} + \dfrac {3} {6} \bigg) \\\\
+&= \dfrac {1} {2} \times \bigg( \dfrac {2 + 3} {6} \bigg)  \\\\
 &= \dfrac {1} {2}  \times \dfrac {5} {6} \\\\
 &= \dfrac {5} {12}
 \end{aligned}
 $
-
-The average of  $\dfrac {1} {3}$ and $\dfrac {1} {2} = \dfrac {5} {12}$
-
-So, fraction $\dfrac {5} {12}$ lies between $\dfrac {1} {3}$ and $\dfrac {1} {2}$.     
 
 </div>
 </div>

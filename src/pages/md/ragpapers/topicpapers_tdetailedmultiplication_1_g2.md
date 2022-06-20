@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-1-g2"
 title: "TopicPaper - Detailedmultiplication - 1 - G2"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -35,13 +35,13 @@ Work out $235 \times 68$.
 
 $
 \begin{array}{cccccccccccccc}
-         &       &            &   2   &   3   &   5 \\
-         &       &   \times   &       &   6   &   8 \\
+         &            &   2   &   3   &   5 \\
+         &   \times   &       &   6   &   8 \\
 \hline 
-         &       &   1        &   8   &   8   &   0 \\
-         &   1   &   4        &   1   &   0   &   0 \\
+         &   1        &   8   &   8   &   0 \\
+         1   &   4        &   1   &   0   &   0 \\
 \hline
-         &   1   &   5        &   9   &   8   &   0
+         1   &   5        &   9   &   8   &   0
 \end{array}
 $
 
@@ -709,13 +709,13 @@ Multiply $168$ by $91$
 
 $
 \begin{array}{cccccccccccccc}
-       &        &             &   1   &   6   &   8 \\
-       &        &   \times    &       &   9   &   1 \\
+                &             &   1   &   6   &   8 \\
+                &   \times    &       &   9   &   1 \\
 \hline
-       &        &             &   1   &   6   &   8 \\
-       &    1   &   5         &   1   &   2   &   0 \\
+                &             &   1   &   6   &   8 \\
+            1   &   5         &   1   &   2   &   0 \\
 \hline
-       &    1   &   5         &   2   &   8   &   8
+            1   &   5         &   2   &   8   &   8
 \end{array}
 $
 

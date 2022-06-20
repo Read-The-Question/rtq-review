@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-g2"
 title: "TopicPaper - Detailedmultiplication - 2 - G2"
-date: 2022-06-20 18:18:19
+date: 2022-06-20 20:14:50
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1046,6 +1046,86 @@ $216000$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-A64047D5-B54A-426C-A41A-39320D26F531'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>A0351803-0890-4037-9AE0-32CA4800A3DD</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2012--sample-paper-3:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $2002 \times 10?$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 2002 \times 10 \\\\
+&= 20020
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20020$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='A0351803-0890-4037-9AE0-32CA4800A3DD' id='FORM-A0351803-0890-4037-9AE0-32CA4800A3DD' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-A0351803-0890-4037-9AE0-32CA4800A3DD'>Initial</p>
 </div>
 </div>
 </li>
@@ -2151,6 +2231,100 @@ $71685$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-ECEC7A62-D4D9-4EAF-B175-9EE097AC08AE'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g2 rag_prns question'>
+<div class='uuid'>
+<p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
+</div>
+<div class='papername'>
+<p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_ar_g2</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tdetailedmultiplication
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Multiply $6.4$ by $2.7$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: Let's first multiply the numbers ignoring the decimal points.
+
+
+$
+\begin{array}{cccccccccccccc}
+        &        &   6   &   4 \\
+        & \times &   2   &   7 \\
+\hline
+        &   4    &   4   &   8 \\
+   1    &   2    &   8   &   0 \\
+\hline
+   1    &   7    &   2   &   8
+\end{array}
+$
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 17.28$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$17.28$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='D9347C26-F870-4B64-A4DA-BD4DEBB0941E' id='FORM-D9347C26-F870-4B64-A4DA-BD4DEBB0941E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D9347C26-F870-4B64-A4DA-BD4DEBB0941E'>Initial</p>
 </div>
 </div>
 </li>

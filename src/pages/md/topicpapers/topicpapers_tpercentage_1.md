@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-20 13:18:50
+date: 2022-06-20 14:43:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1454,7 +1454,7 @@ $\pounds 428$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7B55D3DF-EF43-4C91-9AFF-E371FEF2FC3D</p>
 </div>
@@ -1465,7 +1465,7 @@ $\pounds 428$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1487,9 +1487,9 @@ $
 &= 5 \% \text{ of } 24 \\\\
 &= \dfrac {5} {100} \times 24 \\\\
 &= \dfrac {5 \times 24} {100} \\\\
-&= \dfrac {5 \times 2 \times 12} {2 \times 50} \\\\
-&= \dfrac {\cancel 5 \times \cancel 2 \times \cancel 12} {\cancel 2 \times \cancel 50} \\\\
-&= \dfrac{6}{5}
+&= \dfrac {5 \times 4 \times 6} {5 \times 5 \times 4} \\\\
+&= \dfrac {\cancel 5 \times \cancel 4 \times 6} {\cancel 5 \times 5 \times \cancel 4} \\\\
+&=\dfrac  {6}{5}
 \end{aligned}
 $
 
@@ -2556,9 +2556,8 @@ $
 &= 35\% \ \text{of}\ 80 \ \text{kg} \\\\
 &= \dfrac {35} {100} \times 80 \\\\
 &= \dfrac {35 \times 80} {100} \\\\
-&= \dfrac {35 \times 8 \cancel{0}} {10 \cancel{0}} \\\\
-&= \dfrac {7 \times 5 \times 4 \times 2}{5 \times 2} \\\\
-&= \dfrac {7 \times \cancel{5} \times 4 \times \cancel{2}}{\cancel{5} \times \cancel {2}} \\\\
+&= \dfrac {7 \times 5 \times 4 \times 2 \times 10}{10 \times 5\times 2  } \\\\
+&= \dfrac {7 \times \cancel 5 \times 4 \times \cancel 2 \times \cancel 10}{\cancel 10 \times \cancel 5\times \cancel 2  } \\\\
 &= 7 \times 4 \\\\
 &= 28 \ \text{kg}
 \end{aligned}

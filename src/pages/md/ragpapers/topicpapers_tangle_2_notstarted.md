@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-2-notstarted"
 title: "TopicPaper - Angle - 2 - NOTSTARTED"
-date: 2022-06-20 13:18:50
+date: 2022-06-20 14:43:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -38,78 +38,6 @@ ABCD is a **parallelogram**.
 Work out the sizes of angles *h* and *j*. 
 
 Give reasons for your answers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>A0A77D60-5EEA-4032-8189-BBF34C693D13</p>
-</div>
-<div class='papername'>
-<p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:25</p>
-</div>
-<div class='rag'>
-<p>rag_na_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tangle
-</li>
-<li>
-talgebra
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram shows five and six sided polygons in which all sides have the same length.
-
-Complete the table below.
-
-The following facts may be useful:
-
-the angle in one complete turn is $360 \degree$   
-the angles in a triangle add up to $180 \degree$ 
-
-![missing table](/papers/missing_table.svg)
-
-
-![missing image](/papers/missing_image.svg)
-
-![missing image](/papers/missing_image.svg)
-
 
 </div>
 <div class='workings'>

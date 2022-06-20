@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-blocked"
 title: "TopicPaper - Sequence - 2 - BLOCKED"
-date: 2022-06-20 13:18:50
+date: 2022-06-20 14:43:53
 ---
 <ul class='question default-decimal'>
 <li>
@@ -603,6 +603,77 @@ terms are required to reach the first negative term.
 <div class='answer'>
 
 $10$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>82854C40-B614-4CD0-A56D-9ADB8E4EDAD8</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-2:0:26</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Find the $30 \text{th}$ term of this sequence.
+
+$6, 10, 14, 18, \ldots$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
+6, && 10 , && 14 , && 18 , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+30 \text {th term}  &= 6 + 4 \times 29  \\\\
+                    &= 6 + 116 \\\\
+                    &= 122
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$122$
 
 </div>
 </div>

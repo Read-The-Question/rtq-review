@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-2"
 title: "TopicPaper - Angle - 2"
-date: 2022-06-20 13:18:50
+date: 2022-06-20 14:43:53
 ---
 <div class='paper'>
 <div class='meta'>
@@ -4726,7 +4726,7 @@ show working for y = 30 ... y = 180/6......
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>A0A77D60-5EEA-4032-8189-BBF34C693D13</p>
 </div>
@@ -4734,7 +4734,7 @@ show working for y = 30 ... y = 180/6......
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

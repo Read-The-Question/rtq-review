@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-20 17:14:59
+date: 2022-06-20 18:18:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1487,8 +1487,8 @@ $
 &= 5 \% \text{ of } 24 \\\\
 &= \dfrac {5} {100} \times 24 \\\\
 &= \dfrac {5 \times 24} {100} \\\\
-&= \dfrac {5 \times 4 \times 6} {5 \times 5 \times 4} \\\\
-&= \dfrac {\cancel 5 \times \cancel 4 \times 6} {\cancel 5 \times 5 \times \cancel 4} \\\\
+&= \dfrac {5 \times 4 \times 6} {4 \times 5 \times 5} \\\\
+&= \dfrac {\cancel 5 \times \cancel 4 \times 6} {\cancel 4 \times \cancel 5 \times  5} \\\\
 &=\dfrac  {6}{5}
 \end{aligned}
 $

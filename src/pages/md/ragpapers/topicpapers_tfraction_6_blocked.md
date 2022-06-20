@@ -1,9 +1,80 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-blocked"
 title: "TopicPaper - Fraction - 6 - BLOCKED"
-date: 2022-06-20 17:14:59
+date: 2022-06-20 18:18:19
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>341FE350-6A25-436A-A25E-E7AB9A1C6E15</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:18</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Irfan has six fraction cards as shown below.
+
+$
+\boxed{\dfrac{1}{24}} \quad 
+\boxed{\dfrac{1}{12}} \quad
+\boxed{\dfrac{1}{8}}  \quad 
+\boxed{\dfrac {1}{6}} \quad 
+\boxed{\dfrac{1}{4}}  \quad 
+\boxed{\dfrac{1}{3}}  \quad
+$ 
+
+Write down a possible way in which he can add **__three or more__** cards to get the answer $\dfrac{1}{2}$.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved by using trial and error.
+
+$
+\begin{aligned}
+&= \dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4} \\\\
+&= \dfrac{2}{2 \times 12} + \dfrac{4}{4 \times 6} + \dfrac{6}{6 \times 4} \\\\
+&= \dfrac{2}{24} + \dfrac{4}{24} + \dfrac{6}{24} \\\\
+&= \dfrac{2 + 4 + 6}{24}  \\\\
+&= \dfrac{12}{24}  \\\\
+&= \dfrac{12}{12 \times 2}  \\\\
+&= \dfrac{\cancel{12}}{\cancel{12} \times 2}  \\\\
+&= \dfrac{1}{2}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{1}{12} + \dfrac{1}{6} + \dfrac{1}{4}$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

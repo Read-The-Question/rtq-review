@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-3"
 title: "TopicPaper - Angle - 3"
-date: 2022-06-20 17:14:59
+date: 2022-06-20 18:18:19
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-20 17:14:59
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>F7B13CED-C215-4AE0-A046-CA11FC93E811</p>
 </div>
@@ -23,7 +23,7 @@ date: 2022-06-20 17:14:59
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -49,21 +49,28 @@ Work out the value of the angle labelled $x$ in the diagram below. The diagram i
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
+
+
+Let the third angle in triangle $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 36 + 42  &= 180 \\\\
+a + 78       &= 180 \\\\
+a            &= 180 - 78 \\\\
+a            &= 50 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1628,7 +1635,7 @@ $27 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>30F14B44-C370-42DC-ACB1-B6C24CB565FD</p>
 </div>
@@ -1636,7 +1643,7 @@ $27 \degree$
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

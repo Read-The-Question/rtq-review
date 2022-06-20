@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-g0-prcc"
 title: "TopicPaper - Sequence - 5 - G0 - PRCC"
-date: 2022-06-20 14:43:53
+date: 2022-06-20 16:11:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -989,7 +989,7 @@ $5.4, \quad 5.8, \quad 6.2, \quad 6.6, \quad \boxed{\phantom{11}}$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $0.4$. Hence, the sequence would be:
+The next term is calculated by adding $0.4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1007,7 +1007,7 @@ $
 
 $
 \begin{aligned}
-\text{Next number}        &= 6.6 + 0.4 \\\\
+\text{Missing number}     &= 6.6 + 0.4 \\\\
                           &= 7.0
 \end{aligned}
 $
@@ -1037,7 +1037,7 @@ $1.3, \quad 1.23, \quad \boxed{\phantom{11}}$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $0.07$. Hence, the sequence would be:
+The next term is calculated by subtracting $0.07$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1051,7 +1051,7 @@ $
 
 $
 \begin{aligned}
-\text{Next number}        &= 1.23 - 0.07 \\\\
+\text{Missing number}     &= 1.23 - 0.07 \\\\
                           &= 1.16
 \end{aligned}
 $
@@ -1088,7 +1088,7 @@ $\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldo
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1110,8 +1110,8 @@ $
 
 $
 \begin{aligned}
-\text{Seventh term in the sequence}        &= 18 + 4 + 4 \\\\
-                                           &= 26
+7 \text{th term}        &= 18 + 4 + 4 \\\\
+                        &= 26
 \end{aligned}
 $
 
@@ -1196,7 +1196,7 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by subtracting $7z$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1297,7 +1297,7 @@ $75, \quad 66, \quad \ldots, \quad 48, \quad 39$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $- 9$. Hence, the sequence would be:
+The next term is calculated by subtracting $9$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -1398,17 +1398,17 @@ $2.7, \quad 4.3, \quad \ldots, \quad 7.5, \quad 9.1$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is increasing by $1.6$. Hence, the sequence would be:
+The next term is calculated by adding $1.6$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
-&   \footnotesize{\maroonC
+&   \footnotesize {\maroonC
 {(+1.6)}} 
-&&  \footnotesize{\maroonC
+&&  \footnotesize {\maroonC
 {(+1.6)}}  
-&&  \footnotesize{\maroonC
+&&  \footnotesize {\maroonC
 {(+1.6)}}   
-&&  \footnotesize{\maroonC
+&&  \footnotesize {\maroonC
 {(+1.6)}}  \\
 2.7,  &&    4.3,  &&  \ldots, &&   7.5,  &&   9.1
 \end{matrix}

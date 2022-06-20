@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-2-oldpr"
 title: "TopicPaper - Detailedmultiplication - 2 - OLDPR"
-date: 2022-06-20 14:43:53
+date: 2022-06-20 16:11:37
 ---
 <ul class='question default-decimal'>
 <li>

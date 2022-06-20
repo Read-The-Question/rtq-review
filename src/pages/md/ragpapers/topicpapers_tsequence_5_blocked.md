@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-blocked"
 title: "TopicPaper - Sequence - 5 - BLOCKED"
-date: 2022-06-20 14:43:53
+date: 2022-06-20 16:11:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -438,7 +438,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$95, 191$
+$95$
+
+</div>
+<div class='answer'>
+
+$191$
 
 </div>
 </div>
@@ -489,7 +494,7 @@ $
 &&  \footnotesize{\maroonC
 {(+14)}}  
 &&  \footnotesize{\maroonC
-{(+15)}} \\
+{(+15)}}  \\
 33,  &&      44,  &&      56,  &&      \ldots,  &&      83,      &&      98
 \end{matrix}
 $
@@ -508,6 +513,204 @@ $
 <div class='answer'>
 
 $69$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>D2FE9565-387E-4FF3-BFA2-D8C35AC57EF1</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2018--arithmetic-a:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in the following sequence? 
+
+$2.3, \quad 3.4, \quad 4.7, \quad 6.2, \quad \ldots, \quad 9.8$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC {(+1.1)}} 
+&&  \footnotesize {\maroonC {(+1.3)}}  
+&&  \footnotesize {\maroonC {(+1.5)}}   
+&&  \footnotesize {\maroonC {(+1.7)}}  
+&&  \footnotesize {\maroonC {(+1.9)}} \\
+2.3,  &&    3.4,  &&    4.7,  &&   6.2,  &&   \ldots,  &&   9.8
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 6.2 + 1.7 \\\\
+                        &= 7.9
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.9$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>4066AA9A-0380-459C-81DF-A2F9AAEC3DE5</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2019--arithmetic-a:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the missing number in this list?
+
+$101, \quad 86, \quad 74, \quad 65, \quad \ldots, \quad 56$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC{(-15)}}
+&&  \footnotesize{\maroonC{(-12)}}
+&&  \footnotesize{\maroonC{(-9)}}
+&&  \footnotesize{\maroonC{(-6)}}
+&&  \footnotesize{\maroonC{(-3)}}  \\
+101,  &&      86,  &&      74,   &&      65,  &&      \ldots,  &&      56\\\\
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 65 - 6 \\\\
+                        &= 59
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$59$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>CCD7916B-9B67-4C37-BF22-A9593C78683E</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is a number sequence. Write in the missing number.
+
+3   6   10   15   $\Box$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+3,  &&    6,  &&  10,  &&   15, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}           &= 15 + 6 \\\\
+                                &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$21$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-20 14:43:53
+date: 2022-06-20 16:11:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2950,7 +2950,7 @@ $30 \%$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F86C566-74D4-41CB-ADC6-2648BC6CBC05</p>
 </div>
@@ -2961,7 +2961,7 @@ $30 \%$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3007,14 +3007,14 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Percentage of red sweets}    &= \dfrac {\text {Number of red sweets}} {\text {Total number of sweets}} \ \text {of} \ 100 \\\\
-                                    &= \dfrac {4} {16 + 4} \ \text {of} \ 100 \\\\
+\text {Percentage of red sweets}    &=\dfrac{4}{16 + 4} {of} \ 100 \\\\
+                                    &= \dfrac {4} {16 + 4} \ \times \ 100 \\\\
                                     &= \dfrac {4} {20} \times 100 \\\\
                                     &= \dfrac {4 \times 100} {20} \\\\
                                     &= \dfrac {4 \times 20 \times 5} {20} \\\\
                                     &= \dfrac {4 \times \cancel {20} \times 5} {\cancel {20}} \\\\
                                     &= 4 \times 5 \\\\
-                                    &= 20 \%
+                                    &= 20 \%   
 \end{aligned}
 $
 
@@ -3042,9 +3042,11 @@ What fraction of the sweets in the bag are now blue?
 <div class='workings'>
 <div class='working'>
 
-Now, Total sweets becomes $20 - 4 = 16$.
+Now, Total sweets becomes   = $20 -4
+                            = 16$.
 
-No of blue sweets $16 - 4 = 12$.
+No of blue sweets           = $16 - 4
+                            = 12$.
 
 $
 \begin{aligned}

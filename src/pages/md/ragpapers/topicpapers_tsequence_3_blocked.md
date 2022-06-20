@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-blocked"
 title: "TopicPaper - Sequence - 3 - BLOCKED"
-date: 2022-06-20 14:43:53
+date: 2022-06-20 16:11:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -64,6 +64,70 @@ $
 <div class='answer'>
 
 $\dfrac {20} {32}$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>DF932C38-6507-44AB-B10B-EC17B47BA0D0</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:5</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Bob makes a sequence using the following rule: $\text{‘double and subtract 3’}$. If the first number in his sequence is $5$, what will the fifth number in his sequence be?
+
+A: $157$ 
+
+B: $77$ 
+
+C: $19$ 
+
+D: $35$ 
+
+E: $67$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Fifth number}    &= 5 \times (5 \times 2 - 3) \\\\
+                        &= 5 \times (10 - 3) \\\\
+                        &= 5 \times 7 \\\\
+                        &= 35
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$35$
 
 </div>
 </div>
@@ -590,7 +654,7 @@ $
 &&  \footnotesize {\maroonC
  {(5 ^ 2)} }
 &&  \footnotesize {\maroonC
- {(6 ^ 2)} }  \\
+ {(6 ^ 2)} }  \\\\
 1, && 4, && 9, && 16, && \ldots, && \ldots
 \end{matrix}
 $

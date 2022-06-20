@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-6"
 title: "TopicPaper - Areaperimeter - 6"
-date: 2022-06-20 11:19:25
+date: 2022-06-20 12:21:01
 ---
 <div class='paper'>
 <div class='meta'>

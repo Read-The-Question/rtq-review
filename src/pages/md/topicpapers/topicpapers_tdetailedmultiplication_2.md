@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-06-20 11:19:25
+date: 2022-06-20 12:21:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2716,7 +2716,7 @@ $71685$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>D9347C26-F870-4B64-A4DA-BD4DEBB0941E</p>
 </div>
@@ -2727,7 +2727,7 @@ $71685$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2745,18 +2745,29 @@ Multiply $6.4$ by $2.7$
 <div class='working'>
 
 $
-\begin{aligned}
-&=  {6.24} \times {2.7} \\\\
-&=  16.848
-\end{aligned}
+\begin{array}{cccccccccccccc}
+        &        &   6   &   4 \\
+        & \times &   2   &   7 \\
+\hline
+        &   4    &   4   &   8 \\
+   1    &   2    &   8   &   0 \\
+\hline
+   1    &   7    &   2   &   8
+\end{array}
 $
+
+Between the two numbers, the total number of digits after the decimal point is two.
+
+Let's account for the decimal point now.
+
+$= 17.28$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16.848$
+$17.28$
 
 </div>
 </div>

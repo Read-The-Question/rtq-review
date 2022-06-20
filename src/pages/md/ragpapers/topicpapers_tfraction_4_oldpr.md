@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-oldpr"
 title: "TopicPaper - Fraction - 4 - OLDPR"
-date: 2022-06-20 11:19:25
+date: 2022-06-20 12:21:01
 ---
 <ul class='question default-decimal'>
 <li>
@@ -760,7 +760,7 @@ $\dfrac {7}{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>25E902FC-7725-4A86-B481-912E52709734</p>
 </div>
@@ -771,7 +771,7 @@ $\dfrac {7}{2}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -788,31 +788,13 @@ Fill in the missing numbers:
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= \dfrac {3} {4} 100 \\\\
-&= \dfrac {3} {2 \times 2} \times 50 \times 2 \\\\
-&= \dfrac {3} {2 \times \cancel{2}} \times 50 \times \cancel{2} \\\\
-&= \dfrac {3 \times 50} {2} \\\\
-&= \dfrac {1} {2} \times 150
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= \dfrac {1} {3} \times 60 \\\\
-&= \dfrac {1} {3} \times 2 \times 30 \\\\
-&= \dfrac {2} {3} \times 30
-\end{aligned}
-$
-
+%empty%
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$40, 150, 30$
-
+%empty%
 </div>
 </div>
 <ul class='subquestion lower-alpha'>

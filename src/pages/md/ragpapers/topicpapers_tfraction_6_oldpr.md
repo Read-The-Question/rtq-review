@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-6-oldpr"
 title: "TopicPaper - Fraction - 6 - OLDPR"
-date: 2022-06-20 11:19:25
+date: 2022-06-20 12:21:01
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>57857312-9D34-4AE2-9A5C-5DCF6B0AF748</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-20 11:19:25
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -93,7 +93,7 @@ $1.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C8B5AFE0-229B-4D30-9B2B-06F02E360468</p>
 </div>
@@ -104,7 +104,7 @@ $1.5$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -179,7 +179,7 @@ $149.5$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0116AD01-1516-4A9D-AD3F-738ECA82148C</p>
 </div>
@@ -190,7 +190,7 @@ $149.5$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

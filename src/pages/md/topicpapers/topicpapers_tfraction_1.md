@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-20 11:19:25
+date: 2022-06-20 12:21:01
 ---
 <div class='paper'>
 <div class='meta'>
@@ -325,7 +325,7 @@ $\dfrac {1} {2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A1071962-E86A-4F64-8561-62B747B80144</p>
 </div>
@@ -336,7 +336,7 @@ $\dfrac {1} {2}$
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -370,9 +370,11 @@ Work out
 <div class='question subquestion'>
 
 $
+\begin{aligned}
 \dfrac{1 \times 2 \times 3 \times 4 \times 5}{1 \times 2 \times 3}
-= 
+&= 
 \text{\textunderscore \textunderscore \textunderscore}
+\end{aligned}
 $
 
 </div>
@@ -405,9 +407,11 @@ $20$
 <div class='question subquestion'>
 
 $
+\begin{aligned}
 \dfrac{(1 \times 2 \times 3 \times 4 \times 5)^{2} }{(1 \times 2 \times 3)^{2}}
-=
+&=
 \text{\textunderscore \textunderscore \textunderscore}
+\end{aligned}
 $
 
 </div>

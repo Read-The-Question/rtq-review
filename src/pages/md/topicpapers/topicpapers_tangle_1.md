@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tangle-1"
 title: "TopicPaper - Angle - 1"
-date: 2022-06-19 06:26:54
+date: 2022-06-20 05:43:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -848,7 +848,7 @@ $79 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>D89D0F88-FC46-4178-A22E-462028F52077</p>
 </div>
@@ -856,7 +856,7 @@ $79 \degree$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:7</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -888,33 +888,93 @@ Give reasons for your answers.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the question,
+
+$x = 74 \degree$
+
+Let's use the value of $x$ in triangle ABD.
+
+$
+\begin{aligned}
+x  + y + 74                             &= 180 \\\\
+74 + y + 74                             &= 180 \\\\
+y + 148                                 &= 180 \\\\
+y                                       &= 180 - 148 \\\\
+y                                       &= 32 \degree \\\\
+\end{aligned}
+$
+
+Let's use the value of $x$ and $y$ in triangle ABC.
+
+$
+\begin{aligned}
+x + y + z + 28                              &= 180 \\\\
+74 + 32 + z + 28                            &= 180 \\\\
+z + 134                                     &= 180 \\\\
+z                                           &= 180 - 134 \\\\
+z                                           &= 46 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$x = 74 \degree$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$y = 32 \degree$
+
+</div>
+<div class='answer'>
+
+$z = 46 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='D89D0F88-FC46-4178-A22E-462028F52077' id='FORM-D89D0F88-FC46-4178-A22E-462028F52077' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-D89D0F88-FC46-4178-A22E-462028F52077'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>FEFD6CFA-CB81-4C1B-8D8E-B3859170445C</p>
 </div>
@@ -922,7 +982,7 @@ TODOANSWER
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -951,29 +1011,75 @@ One of the angles in an isosceles triangle is $30 \degree$. Which of these is a 
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the other angle $= a$
+
+As the triangle is an isosceles triangle, the third angle is also $= a$
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + a + 30      &= 180 \\\\
+2a + 30         &= 180 \\\\
+2a              &= 180 - 30 \\\\
+2a              &= 150 \\\\
+a               &= \dfrac {150} {2} \\\\
+a               &= \dfrac {75 \times 2} {2} \\\\
+a               &= \dfrac {75 \times \cancel{2}}{\cancel{2}} \\\\
+a               &= 75 \degree
+\end{aligned}
+$
+
+Other angle $= 75 \degree$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
+<div class='option'>
+<p>E</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$75 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' id='FORM-FEFD6CFA-CB81-4C1B-8D8E-B3859170445C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-FEFD6CFA-CB81-4C1B-8D8E-B3859170445C'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -1080,7 +1186,7 @@ $48 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>7D88A99B-2884-41F7-AFBF-593C0094BC10</p>
 </div>
@@ -1088,7 +1194,7 @@ $48 \degree$
 <p>bancrofts-school--11-plus--maths--2018--sample-paper-4:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1110,33 +1216,70 @@ What is the size of the smallest angle in the triangle?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the other angle of the right angled triangle $= a$
+
+As per the question,
+
+$
+\begin{aligned}
+a + 55 + 90     &= 180 \\\\
+a + 145         &= 180 \\\\
+a               &= 180 - 145 \\\\
+a               &= 35 \degree
+\end{aligned}
+$
+
+Smallest angle $= 35 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$35 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='7D88A99B-2884-41F7-AFBF-593C0094BC10' id='FORM-7D88A99B-2884-41F7-AFBF-593C0094BC10' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-7D88A99B-2884-41F7-AFBF-593C0094BC10'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>BB039FA3-8209-4CF6-9799-A0C653637CC6</p>
 </div>
@@ -1144,7 +1287,7 @@ TODOANSWER
 <p>benenden-school--11-plus--maths--2020--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1174,21 +1317,44 @@ Calculate the angles labelled $a$ to $f$ in the diagrams below. The diagrams are
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Angles on a straight line add up to} = 180 \degree$.
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the first diagram,
+
+$
+\begin{aligned}
+a + 151                 &= 180 \\\\
+a                       &= 180 - 151 \\\\
+a                       &= 29 \degree
+\end{aligned}
+$
+
+Let's use the value of $a$ to find $b$.
+
+$
+\begin{aligned}
+a + b                              &= 180 \\\\
+29 + b                             &= 180 \\\\
+b                                  &= 180 - 29 \\\\
+b                                  &= 151 \degree
+\end{aligned}
+$
+
+As per the second diagram,
+
+$
+\begin{aligned}
+c + 110 + 42                       &= 180 \\\\
+c + 152                            &= 180 \\\\
+c                                  &= 180 - 152 \\\\
+c                                  &= 28 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1455,7 +1621,7 @@ $y$ $=$ $52 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>50B5494E-DC4A-4A45-8247-A90EFE157F92</p>
 </div>
@@ -1463,7 +1629,7 @@ $y$ $=$ $52 \degree$
 <p>chigwell-school--11-plus--maths--2020--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1489,24 +1655,31 @@ Estimate the angle drawn below and then also measure it accurately with your pro
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Angles around a point add up to} = 360 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+Let the angle $= a$
+
+The reflex angle is approximately $255 \degree$.
+
+As per the diagram,
+
+$
+\begin{aligned}
+a + 255     &= 360 \\\\
+a           &= 360 - 255 \\\\
+a           &= 105 \degree
+\end{aligned}
+$
+
+Estimate angle $= 105 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$105 \degree$
 
 </div>
 </div>
@@ -1604,7 +1777,7 @@ $60 \ \text {degrees}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prcc rag_prns question'>
 <div class='uuid'>
 <p>80C8870A-6B9B-4FB9-A4D8-B4E543D84510</p>
 </div>
@@ -1612,7 +1785,7 @@ $60 \ \text {degrees}$
 <p>christs-hospital-school--11-plus--maths--2014--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_prcc</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1670,24 +1843,26 @@ Find the missing angle $x \degree$. Explain how you did it.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-</div>
-<div class='working'>
 
-TODOWORKING
+As per the diagram,
+
+$
+\begin{aligned}
+x + 44 + 70     &= 180 \\\\
+x + 114         &= 180 \\\\
+x               &= 180 - 144 \\\\
+x               &= 36 \degree
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$36 \degree$
 
 </div>
 </div>
@@ -1704,24 +1879,16 @@ What type of triangle is this?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Triangle has three different angles and none of its sides are equal in length.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+Therefore, it is a Scalene triangle.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Scalene triangle
 
 </div>
 </div>
@@ -2133,7 +2300,7 @@ $62 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97</p>
 </div>
@@ -2141,7 +2308,7 @@ $62 \degree$
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2196,24 +2363,55 @@ Find the size of angle $‘𝑎’$ in the diagram below.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+*ABBR: TODO:: Add drawing starts.*
 
-</div>
-<div class='working'>
+![missing image](/papers/missing_image.svg)
 
-TODOWORKING
+
+
+*TODO:: Add an image with vertices marked ABCD and name the third angle of right angled triangle x.
+The right angled trianlge is ABD and the bigger one is ABC.*
+
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
+
+
+Let the third angle in triangle ABD $= x$
+
+As per the diagram, in triangle ABD
+
+$
+\begin {aligned}
+x + 90 + 19         &= 180 \\\\
+x + 109             &= 180 \\\\
+x                   &= 180 - 109 \\\\
+x                   &= 71 \degree
+\end {aligned}
+$
+
+Let's use the value of $x$ in triangle ABC.
+
+As per the diagram, in triangle ABC
+
+$
+\begin {aligned}
+a + x + 72 + 17             &= 180 \\\\
+a + 71 + 72 + 17            &= 180 \\\\
+a + 160                     &= 180 \\\\
+a                           &= 180 - 160 \\\\
+a                           &= 20 \degree
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$20 \degree$
 
 </div>
 </div>
@@ -2230,24 +2428,16 @@ Would you describe $100\degree$? Acute, obtuse or reflex?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Angle greater than $90 \degree$ and less than $180 \degree$ is called obtuse angle.
 
-</div>
-<div class='working'>
-
-TODOWORKING
+Therefore, $100\degree$ is an obtuse angle.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+Obtuse angle
 
 </div>
 </div>
@@ -2256,6 +2446,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' id='FORM-DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DEE7F7D7-1FF4-4386-8CC8-8D0667A67E97'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2521,7 +2742,7 @@ $43 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4</p>
 </div>
@@ -2529,7 +2750,7 @@ $43 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2017--sample-paper-2:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2555,29 +2776,54 @@ ABCDEF is a regular hexagon. What is the size of angle $x$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{Each angle of an regular hexagon} = 120 \degree$
 
-</div>
-<div class='working'>
+As per the diagram,
 
-TODOWORKING
+$x = 120 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$120 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' id='FORM-64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-64FD1EC6-ED8D-44D6-BD41-D17B07CD9FE4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2768,7 +3014,7 @@ $122 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76</p>
 </div>
@@ -2776,7 +3022,7 @@ $122 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2019--sample-paper-4:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2802,29 +3048,54 @@ ABCDEF is a regular hexagon. What is the size of angle $x$?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{Each angle of an regular hexagon} = 120 \degree$
 
-</div>
-<div class='working'>
+As per the diagram,
 
-TODOWORKING
+$x = 120 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$120 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' id='FORM-2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-2AEEFFF0-25FA-4C42-9D96-9B86D7D7FB76'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -2921,7 +3192,7 @@ $91 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>B5BFCDCA-D197-4C79-8537-F5E6D1C97217</p>
 </div>
@@ -2929,7 +3200,7 @@ $91 \degree$
 <p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_na_notstarted</p>
+<p>rag_na_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2955,29 +3226,54 @@ What is the sum of the angles in the shape above?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$\text{Sum of angles in a parallelogram} = 360 \degree$
 
-</div>
-<div class='working'>
+As per the diagram, the shape is a parallelogram.
 
-TODOWORKING
+Sum of the angles $= 360 \degree$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$360 \degree$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='B5BFCDCA-D197-4C79-8537-F5E6D1C97217' id='FORM-B5BFCDCA-D197-4C79-8537-F5E6D1C97217' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-B5BFCDCA-D197-4C79-8537-F5E6D1C97217'>Initial</p>
+</div>
 </div>
 </li>
 <li>

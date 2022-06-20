@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-19 06:26:54
+date: 2022-06-20 05:43:04
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-19 06:26:54
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5882669A-98F2-45E1-9414-85C6288E9096</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-19 06:26:54
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -43,15 +43,14 @@ Jill scores $17$ out of twenty on a test. What percentage is this?
 <div class='workings'>
 <div class='working'>
 
-
 $
 \begin{aligned}
-&= \dfrac {17} {20} \times 100 \\\\
-&= \dfrac {17 \times 100} {20} \\\\
-&= \dfrac {17 \times 20 \times 5} {20} \\\\
-&= \dfrac {17 \times \cancel {20} \times 5} {\cancel {20}} \\\\
-&= 17 \times 5  \\\\
-&= 85 \%
+\text{Jill's marks} &= \dfrac {17} {20} \times 100 \\\\
+                    &= \dfrac {17 \times 100} {20} \\\\
+                    &= \dfrac {17 \times 20 \times 5} {20} \\\\
+                    &= \dfrac {17 \times \cancel {20} \times 5} {\cancel {20}} \\\\
+                    &= 17 \times 5  \\\\
+                    &= 85 \%
 \end{aligned}
 $
 
@@ -105,7 +104,7 @@ Write LHS \"Jills mark\"
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>416925A5-F078-4A2D-BB8E-871E9D3B167B</p>
 </div>
@@ -116,7 +115,7 @@ Write LHS \"Jills mark\"
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -194,9 +193,8 @@ $
 \begin{aligned}
 &= 15\% \text { of } 360 \\\\
 &= \dfrac {15} {100} \times 360 \\\\
-&= \dfrac {15 \times 360} {100} \\\\
-&= \dfrac {5 \times 3 \times 2 \times 18 \times 10} {2 \times 5 \times 10} \\\\
-&= \dfrac {\cancel {5} \times 3 \times \cancel {2} \times 18 \times \cancel {10}} {\cancel {2} \times \cancel {5} \times \cancel {10}} \\\\
+&= 3 \times \Big(\dfrac {5} {100} \times 360 \Big) \\\\
+&= 3 \times 18 \\\\
 &= 54
 \end{aligned}
 $
@@ -518,7 +516,7 @@ In her examination, Manreet got $16$ marks out of $20$. What was her mark as a p
 
 $
 \begin {aligned}
-\text {Mark obtained as percentage} &= \dfrac {16} {20} \times 100 \\\\
+\text {Manreets mark} &= \dfrac {16} {20} \times 100 \\\\
                                     &= \dfrac {16 \times 100} {20} \\\\
                                     &= \dfrac {2 \times 8 \times 100} {2 \times 10} \\\\
                                     &= \dfrac {\cancel {2} \times 8 \times 10 \cancel {0}} {\cancel {2} \times 1 \cancel {0}} \\\\
@@ -532,7 +530,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$80 \ %$
+$80 \%$
 
 </div>
 </div>
@@ -969,7 +967,7 @@ What is $15\%$ of $300$.
 $
 \begin{aligned}
 &= 15 \% \ \text {of} \ 300 \\\\
-&= \dfrac {15} {100} \times \dfrac {300} \\\\
+&= \dfrac {15} {100} \times {300} \\\\
 &= \dfrac {15 \times 300} {100} \\\\
 &= \dfrac {15 \times 3 \cancel {00}} {1 \cancel {00}} \\\\
 &= 15 \times 3 \\\\
@@ -1241,7 +1239,7 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Percentage shaded}   &= \text {Fraction shaded} \times 100 \% \\\\
+\text {Percentage shaded}   &= ?\times 100 \% \\\\
                             &= \dfrac {3} 5 \times 100 \\\\
                             &= \dfrac {3 \times 100} {5} \\\\
                             &= \dfrac {3 \times 20 \times 5} {5} \\\\

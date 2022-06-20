@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tangle-3-oldpr-prcc"
 title: "TopicPaper - Angle - 3 - OLDPR - PRCC"
-date: 2022-06-19 06:26:54
+date: 2022-06-20 05:43:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -269,19 +269,23 @@ Calculate the missing angle in the triangle shown below:
 <div class='workings'>
 <div class='working'>
 
-As we know, the sum of angles in a triangle is $180 \degree$. So,
+ABBR: $\text{Sum of angles in a triangle} = 180 \degree$
 
-Missing angle $+ \ 82 + 71 = 180$
+
+Let the missing angle $= a$
+
+As per the diagram,
 
 $
 \begin{aligned}
-&= 180 - 82 - 71 \\\\
-&= 180 - 153 \\\\
-&= 27 \degree
+a + 71 + 82     &= 180 \\\\
+a + 153         &= 180 \\\\
+a               &= 180 - 153 \\\\
+a               &= 27 \degree
 \end{aligned}
 $
 
-Missing angle = $27 \degree$
+Missing angle $= 27 \degree$
 
 </div>
 </div>

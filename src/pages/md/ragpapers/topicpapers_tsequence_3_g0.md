@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-g0"
 title: "TopicPaper - Sequence - 3 - G0"
-date: 2022-06-19 06:26:54
+date: 2022-06-20 05:43:04
 ---
 <ul class='question default-decimal'>
 <li>
@@ -39,11 +39,11 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
     \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{1} {1} )}} 
+{( \dfrac {5} {8} \times \dfrac{1} {1} )}}
 &&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{2} {2} )}} 
+{( \dfrac {5} {8} \times \dfrac{2} {2} )}}
 &&  \footnotesize{\maroonC
-{( \dfrac {5} {8} \times \dfrac{3} {3} )}}  
+{( \dfrac {5} {8} \times \dfrac{3} {3} )}}
 &&  \footnotesize{\maroonC
 {( \dfrac {5} {8} \times \dfrac{4} {4} )}} \\\\
 \dfrac {5} {8},  &&    \dfrac {10} {16},  &&  \dfrac {15} {24},   && \ldots
@@ -52,7 +52,7 @@ $
 
 $
 \begin{aligned}
-\text{Next fraction}        &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
+\text{Missing number}       &= \dfrac {5} {8} \times \dfrac{4} {4} \\\\
                             &= \dfrac {5 \times 4} {8 \times 4} \\\\
                             &= \dfrac {20} {32}
 \end{aligned}
@@ -156,23 +156,23 @@ $10,\:\: 13,\:\: 16,\:\:\:\: \:\: 25,\:\: 28$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is increasing by $3$. Hence, the sequence would be:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(+3)}} 
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+3)}}  
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+3)}}   
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+3)}}   
+{(+3)}}
 &&  \footnotesize{\maroonC
-{(+3)}}   
+{(+3)}}
 &&  \footnotesize{\maroonC
 {(+3)}}  \\
-10,  &&    13,  &&  16,  && \ldots, && \ldots, &&   25,  &&   28 
+10, && 13, && 16, && \ldots,&& \ldots, && 25, && 28
 \end{matrix}
 $
 
@@ -190,7 +190,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19, 21$
+$19$
+
+</div>
+<div class='answer'>
+
+$22$
 
 </div>
 </div>
@@ -210,25 +215,25 @@ $29,\:\: 22,\:\: 15,\:\: 8,\:\:\:\:\:\: -13,\:\: -20$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing by $7$. Hence, the sequence would be:
+The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(-7)}} 
+{(-7)}}
 &&  \footnotesize{\maroonC
-{(-7)}}  
+{(-7)}}
 &&  \footnotesize{\maroonC
-{(-7)}}   
+{(-7)}}
 &&  \footnotesize{\maroonC
-{(-7)}}   
+{(-7)}}
 &&  \footnotesize{\maroonC
-{(-7)}}   
+{(-7)}}
 &&  \footnotesize{\maroonC
-{(-7)}}   
+{(-7)}}
 &&  \footnotesize{\maroonC
 {(-7)}}  \\
-29,  &&    22,  &&  15,  &&  8,  && \ldots,  && \ldots, &&   -13,  &&   -20 
+29, && 22, && 15, && 8, && \ldots, && \ldots, && -13, && -20
 \end{matrix}
 $
 
@@ -246,7 +251,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1, -6$
+$1$
+
+</div>
+<div class='answer'>
+
+$-6$
 
 </div>
 </div>
@@ -271,22 +281,20 @@ The next term is calculated by multiplying the previous term by $-2$. Hence, the
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
-{(\times -2)}} 
+{(\times -2)}}
 &&  \footnotesize{\maroonC
-{(\times -2)}}  
+{(\times -2)}}
 &&  \footnotesize{\maroonC
-{(\times -2)}}   
+{(\times -2)}}
 &&  \footnotesize{\maroonC
-{(\times -2)}}   
+{(\times -2)}}
 &&  \footnotesize{\maroonC
-{(\times -2)}}   
+{(\times -2)}}
 &&  \footnotesize{\maroonC
-{(\times -2)}}   
-&&  \footnotesize{\maroonC
-{(\times -2)}}   
+{(\times -2)}}
 &&  \footnotesize{\maroonC
 {(\times -2)}}  \\
-1,  &&    -2,  &&  4,  &&  -8,  && \ldots,  && \ldots, &&   64,  &&   -128 
+1, && -2, && 4, && -8, && \ldots, && \ldots, && 64, && -128
 \end{matrix}
 $
 
@@ -304,7 +312,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16, -32$
+$16$
+
+</div>
+<div class='answer'>
+
+$-32$
 
 </div>
 </div>
@@ -400,23 +413,23 @@ $28,\ 25,\ 22,\    13,\ 10.$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-3$. Hence, the sequence would be:
+The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-3)} } 
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }  
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
  {(-3)} }
 &&  \footnotesize {\maroonC
  {(-3)} }  \\
-28,  &&  25,  &&  22,  &&  \ldots,  &&  \ldots,  &&  13,  &&  10
+28, && 25, && 22, && \ldots, && \ldots, && 13, && 10
 \end{matrix}
 $
 
@@ -434,7 +447,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$19, 16$
+$19$
+
+</div>
+<div class='answer'>
+
+$16$
 
 </div>
 </div>
@@ -457,20 +475,20 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+1)} } 
+ {(+1)} }
 &&  \footnotesize {\maroonC
- {(+2)} }  
+ {(+2)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+4)} }   
+ {(+4)} }
 &&  \footnotesize {\maroonC
  {(+5)} }
 &&  \footnotesize {\maroonC
  {(+6)} }
 &&  \footnotesize {\maroonC
  {(+7)} } \\
-3,  &&  4,  &&  6,  &&  9,  &&  13,  &&  \ldots,  &&  \ldots,  &&  31
+3, && 4, && 6, && 9, && 13, && \ldots, && \ldots, && 31
 \end{matrix}
 $
 
@@ -485,7 +503,18 @@ $
 
 </div>
 </div>
+<div class='answers'>
+<div class='answer'>
 
+$18$
+
+</div>
+<div class='answer'>
+
+$24$
+
+</div>
+</div>
 
 </div>
 </li>
@@ -507,18 +536,18 @@ The next term is calculated by multiplying the previous term by $-2$. Hence, the
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {\times (-2)} } 
+ {\times (-2)} }
 &&  \footnotesize {\maroonC
- {\times (-2)} }  
+ {\times (-2)} }
 &&  \footnotesize {\maroonC
- {\times (-2)} }   
+ {\times (-2)} }
 &&  \footnotesize {\maroonC
- {\times (-2)} }   
+ {\times (-2)} }
 &&  \footnotesize {\maroonC
  {\times (-2)} }
 &&  \footnotesize {\maroonC
  {\times (-2)} } \\
-5,  &&  -10,  &&  20,  &&  \ldots,  &&  \ldots,  &&  -160,  &&  -320
+5, && -10, && 20, && \ldots, && \ldots, && -160, &&-320
 \end{matrix}
 $
 
@@ -536,7 +565,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-40, 80$
+$-40$
+
+</div>
+<div class='answer'>
+
+$80$
 
 </div>
 </div>
@@ -619,10 +653,10 @@ E: $67$
 
 $
 \begin{aligned}
-\text{Fifty number of the sequence} &= 5 \times (2 \times 5 - 3) \\\\
-                                    &= 5 (10 - 3) \\\\
-                                    &= 5 \times 7 \\\\
-                                    &= 35
+\text {Fifth number}    &= 5 \times (5 \times 2 - 3) \\\\
+                        &= 5 \times (10 - 3) \\\\
+                        &= 5 \times 7 \\\\
+                        &= 35
 \end{aligned}
 $
 
@@ -727,21 +761,21 @@ $7, 14, 21, 28,$ _______, _______.
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+7)} } 
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }  
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }   
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }   
+ {(+7)} }
 &&  \footnotesize {\maroonC
  {(+7)} }  \\
-7,  &&    14,  &&  21,  &&   28,  &&   \ldots && \ldots
+7, && 14, && 21, && 28, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -759,7 +793,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$35, 42$
+$35$
+
+</div>
+<div class='answer'>
+
+$42$
 
 </div>
 </div>
@@ -784,16 +823,16 @@ The next term is calculated by multiplying the previous term by $2$. Hence, the 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(\times 2)} } 
+ {(\times 2)} }
 &&  \footnotesize {\maroonC
- {(\times 2)} }  
+ {(\times 2)} }
 &&  \footnotesize {\maroonC
- {(\times 2)} }   
+ {(\times 2)} }
 &&  \footnotesize {\maroonC
- {(\times 2)} }   
+ {(\times 2)} }
 &&  \footnotesize {\maroonC
  {(\times 2)} }  \\
-3,  &&    6,  &&  12,  &&   24,  &&   \ldots && \ldots
+3, && 6, && 12, && 24, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -811,7 +850,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$48, 96$
+$48$
+
+</div>
+<div class='answer'>
+
+$96$
 
 </div>
 </div>
@@ -834,16 +878,16 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-9)} } 
+ {(-9)} }
 &&  \footnotesize {\maroonC
- {(-8)} }  
+ {(-8)} }
 &&  \footnotesize {\maroonC
- {(-7)} }   
+ {(-7)} }
 &&  \footnotesize {\maroonC
- {(-6)} }   
+ {(-6)} }
 &&  \footnotesize {\maroonC
  {(-5)} }  \\
-50,  &&    41,  &&  33,  &&   26,  &&   \ldots && \ldots
+50, && 41, && 33, && 26, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -861,7 +905,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20, 15$
+$20$
+
+</div>
+<div class='answer'>
+
+$15$
 
 </div>
 </div>
@@ -985,7 +1034,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25, \ 36$
+$25$
+
+</div>
+<div class='answer'>
+
+$36$
 
 </div>
 </div>
@@ -1105,21 +1159,21 @@ $3, 6, 9, 12,$ ____, ____
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $3$. Hence, the sequence would be:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+3)} } 
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }  
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} } \\
-3,  &&    6,  &&  9,  &&   12,  &&   \ldots && \ldots
+ {(+3)} }  \\
+3, && 6, && 9, && 12, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1137,7 +1191,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$15, 18$
+$15$
+
+</div>
+<div class='answer'>
+
+$18$
 
 </div>
 </div>
@@ -1157,21 +1216,21 @@ $2, 7, 12, 17,$ ____, ____
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $5$. Hence, the sequence would be:
+The next term is calculated by adding $5$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+5)} } 
+ {(+5)} }
 &&  \footnotesize {\maroonC
- {(+5)} }  
+ {(+5)} }
 &&  \footnotesize {\maroonC
- {(+5)} }   
+ {(+5)} }
 &&  \footnotesize {\maroonC
- {(+5)} }   
+ {(+5)} }
 &&  \footnotesize {\maroonC
- {(+5)} } \\
-2,  &&    7,  &&  12,  &&   17,  &&   \ldots && \ldots
+ {(+5)} }  \\
+2, && 7, && 12, && 17, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1189,7 +1248,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$22, 27$
+$22$
+
+</div>
+<div class='answer'>
+
+$27$
 
 </div>
 </div>
@@ -1209,21 +1273,23 @@ $1, 4, 9, 16,$ ____, _____
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+It is a sequence of square numbers.
+
 $
 \begin{matrix}
-\footnotesize {\maroonC
- {(1 ^ 2)} } 
+    \footnotesize {\maroonC
+ {(1 ^ 2)} }
 &&  \footnotesize {\maroonC
- {(2 ^ 2)} }  
+ {(2 ^ 2)} }
 &&  \footnotesize {\maroonC
- {(3 ^ 2)} }   
+ {(3 ^ 2)} }
 &&  \footnotesize {\maroonC
- {(4 ^ 2)} }   
+ {(4 ^ 2)} }
 &&  \footnotesize {\maroonC
  {(5 ^ 2)} }
 &&  \footnotesize {\maroonC
- {(6 ^ 2)} } \\ 
-1,  &&    4,  &&  9,  &&   16,  &&   \ldots && \ldots
+ {(6 ^ 2)} }  \\
+1, && 4, && 9, && 16, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1241,7 +1307,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25, 36$
+$25$
+
+</div>
+<div class='answer'>
+
+$36$
 
 </div>
 </div>
@@ -1264,18 +1335,18 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-6)} } 
+ {(-6)} }
 &&  \footnotesize {\maroonC
- {(-5)} }  
+ {(-5)} }
 &&  \footnotesize {\maroonC
- {(-4)} }   
+ {(-4)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
  {(-2)} }
 &&  \footnotesize {\maroonC
  {(-1)} } \\
-29,  &&    23,  &&  18,  &&   14,  &&   11  &&   \ldots && \ldots
+29, && 23, && 18, && 14, && 11, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1293,7 +1364,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$9, 8$
+$9$
+
+</div>
+<div class='answer'>
+
+$8$
 
 </div>
 </div>
@@ -1389,23 +1465,23 @@ $10, \quad 13, \quad 16, \quad 19, \quad 22, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $3$. Hence, the sequence would be:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+3)} } 
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }  
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
- {(+3)} }   
+ {(+3)} }
 &&  \footnotesize {\maroonC
  {(+3)} }
 &&  \footnotesize {\maroonC
  {(+3)} }  \\
-10,  &&    13,  &&  16,  &&   19,  &&   22  &&   \ldots && \ldots
+10, && 13, && 16, && 19, && 22, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1423,7 +1499,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$25, 28$
+$25$
+
+</div>
+<div class='answer'>
+
+$28$
 
 </div>
 </div>
@@ -1446,18 +1527,18 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-1)} } 
+ {(-1)} }
 &&  \footnotesize {\maroonC
- {(-2)} }  
+ {(-2)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-4)} }   
+ {(-4)} }
 &&  \footnotesize {\maroonC
  {(-5)} }
 &&  \footnotesize {\maroonC
  {(-6)} }  \\
-60,  &&    59,  &&  57,  &&   54,  &&   50  &&   \ldots && \ldots
+60, && 59, && 57, && 54, && 50, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1475,7 +1556,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$45, 39$
+$45$
+
+</div>
+<div class='answer'>
+
+$39$
 
 </div>
 </div>
@@ -1498,18 +1584,18 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(\times 2)} } 
+ {(\times 2)} }
 &&  \footnotesize {\maroonC
- {(\times 3)} }  
+ {(\times 3)} }
 &&  \footnotesize {\maroonC
- {(\times 4)} }   
+ {(\times 4)} }
 &&  \footnotesize {\maroonC
- {(\times 5)} }   
+ {(\times 5)} }
 &&  \footnotesize {\maroonC
  {(\times 6)} }
 &&  \footnotesize {\maroonC
  {(\times 7)} }  \\
-1,  &&    2,  &&  6,  &&   24,  &&   120  &&   \ldots && \ldots
+1, && 2, && 6, && 24, && 120, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1528,7 +1614,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$720, 5040$
+$720$
+
+</div>
+<div class='answer'>
+
+$5040$
 
 </div>
 </div>
@@ -1624,21 +1715,21 @@ $5, \quad 12, \quad 19, \quad 26, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+7)} } 
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }  
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }   
+ {(+7)} }
 &&  \footnotesize {\maroonC
- {(+7)} }   
+ {(+7)} }
 &&  \footnotesize {\maroonC
  {(+7)} }  \\
-5,  &&    12,  &&  19,  &&   26,  &&   \ldots && \ldots
+5, && 12, && 19, && 26, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1656,7 +1747,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33, 40$
+$33$
+
+</div>
+<div class='answer'>
+
+$40$
 
 </div>
 </div>
@@ -1676,21 +1772,21 @@ $11, \quad 8, \quad 5, \quad 2, \quad \ldots, \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-3$. Hence, the sequence would be:
+The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-3)} } 
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }  
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
- {(-3)} }   
+ {(-3)} }
 &&  \footnotesize {\maroonC
  {(-3)} }  \\
-11,  &&    8,  &&  5,  &&   2,  &&   \ldots && \ldots
+11, && 8, && 5, && 2, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1708,7 +1804,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-1, -4$
+$-1$
+
+</div>
+<div class='answer'>
+
+$-4$
 
 </div>
 </div>
@@ -1733,16 +1834,16 @@ The next term is calculated by multiplying the previous term by $3$. Hence, the 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(\times 3)} } 
+ {(\times 3)} }
 &&  \footnotesize {\maroonC
- {(\times 3)} }  
+ {(\times 3)} }
 &&  \footnotesize {\maroonC
- {(\times 3)} }   
+ {(\times 3)} }
 &&  \footnotesize {\maroonC
- {(\times 3)} }   
+ {(\times 3)} }
 &&  \footnotesize {\maroonC
  {(\times 3)} }  \\
-2,  &&    6,  &&  18,  &&   54,  &&   \ldots && \ldots
+2, && 6, && 18, && 54, && \ldots, && \ldots
 \end{matrix}
 $
 
@@ -1760,7 +1861,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$162, 486$
+$162$
+
+</div>
+<div class='answer'>
+
+$486$
 
 </div>
 </div>
@@ -1856,21 +1962,21 @@ $7, \quad 9, \quad 11, \quad 13, \quad 15,  \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $2$. Hence, the sequence would be:
+The next term is calculated by adding $2$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(+2)} } 
+ {(+2)} }
 &&  \footnotesize {\maroonC
- {(+2)} }  
+ {(+2)} }
 &&  \footnotesize {\maroonC
- {(+2)} }   
+ {(+2)} }
 &&  \footnotesize {\maroonC
- {(+2)} }   
+ {(+2)} }
 &&  \footnotesize {\maroonC
- {(+2)} } \\
-7,  &&    9,  &&  11,  &&   13,  &&   15  &&   \ldots
+ {(+2)} }  \\
+7, && 9, && 11, && 13, && 15, && \ldots
 \end{matrix}
 $
 
@@ -1897,7 +2003,7 @@ $17$
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-$-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
+$-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$
 
 </div>
 <div class='workings'>
@@ -1906,19 +2012,19 @@ $-1, \quad -5, \quad -9, \quad -13,  \quad \ldots$$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $-4$. Hence, the sequence would be:
+The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
 &   \footnotesize {\maroonC
- {(-4)} } 
+ {(-4)} }
 &&  \footnotesize {\maroonC
- {(-4)} }  
+ {(-4)} }
 &&  \footnotesize {\maroonC
- {(-4)} }   
+ {(-4)} }
 &&  \footnotesize {\maroonC
  {(-4)} } \\
--1,  &&    -5,  &&  -9,  &&   -13,   &&   \ldots
+-1, && -5, && -9, && -13, && \ldots
 \end{matrix}
 $
 
@@ -1954,25 +2060,29 @@ $1, \quad 8, \quad 27, \quad 64,  \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+It is a sequence of cube numbers.
+
 $
 \begin{matrix}
-\footnotesize {\maroonC
- {(2 ^ 3)} } 
+    \footnotesize {\maroonC
+ {(1 ^ 3)} }
 &&  \footnotesize {\maroonC
- {(2 ^ 3)} } 
+ {(2 ^ 3)} }
 &&  \footnotesize {\maroonC
- {(3 ^ 3)} }  
+ {(3 ^ 3)} }
 &&  \footnotesize {\maroonC
- {(4 ^ 3)} }   
+ {(4 ^ 3)} }
 &&  \footnotesize {\maroonC
- {(5 ^ 3)} } \\
-1,  &&    8,  &&  27,  &&   64,   &&   \ldots
+ {(5 ^ 3)} }  \\
+1, && 8, && 27, && 64, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
 \text {Missing number} &= 5 ^ 3 \\\\
+                       &= 5 \times 5 \times 5 \\\\
+                       &= 25 \times 5 \\\\
                        &= 125
 \end{aligned}
 $

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-blocked"
 title: "TopicPaper - Sequence - 5 - BLOCKED"
-date: 2022-06-21 19:32:41
+date: 2022-06-21 21:30:20
 ---
 <ul class='question default-decimal'>
 <li>
@@ -633,6 +633,226 @@ $16$
 <div class='answer'>
 
 $22$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>E8D4D5F2-C0D7-46D0-B4F4-2E4A926190AB</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The number sequences in this question all go up or down by a fixed number.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Write a number in each box to continue the sequence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subsubquestion lower-roman'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+$5.4, \quad 5.8, \quad 6.2, \quad 6.6, \quad \boxed{\phantom{11}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $0.4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+0.4)} } 
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  
+&&  \footnotesize {\maroonC
+ {(+0.4)} }   
+&&  \footnotesize {\maroonC
+ {(+0.4)} }  \\
+5.4,  &&    5.8,  &&  6.2,  &&   6.6, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}     &= 6.6 + 0.4 \\\\
+                          &= 7.0
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7.0$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
+<div class='question subsubquestion'>
+
+$1.3, \quad 1.23, \quad \boxed{\phantom{11}}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting $0.07$ from the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(-0.07)} }   
+&&  \footnotesize {\maroonC
+ {(-0.07)} }  \\
+1.3,  &&    1.23, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}     &= 1.23 - 0.07 \\\\
+                          &= 1.16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$1.16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+In a number sequence, the $2 \text{nd}$ term is $6$ and the $5 \text{th}$ term is $18$, as shown below.
+
+What is the **$7 \text{th}$ term** in the sequence?
+
+$\ldots, \quad 6, \quad \ldots, \quad \ldots, \quad 18, \quad \ldots, \quad \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+4)} } 
+&&  \footnotesize {\maroonC
+ {(+4)} }  
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }   
+&&  \footnotesize {\maroonC
+ {(+4)} }  \\
+\ldots ,  &&    6,  &&  \ldots,  &&   \ldots, && 18,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Sixth term}      &= 18 + 4 \\\\
+                        &= 22 \\\\
+\text {Seventh term}    &= 22 + 4 \\\\
+                        &= 26
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$26$
 
 </div>
 </div>

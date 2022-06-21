@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-2"
 title: "TopicPaper - Areaperimeter - 2"
-date: 2022-06-21 21:30:20
+date: 2022-06-21 21:44:24
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2659,7 +2659,7 @@ Units missing in workings and answers
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
 </div>
@@ -2670,7 +2670,7 @@ Units missing in workings and answers
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2686,6 +2686,8 @@ If each side is $6 \ \text{centimetres}$ long, calculate the perimeter.
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3040,7 +3042,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
@@ -3051,7 +3053,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3080,8 +3082,9 @@ $
 \begin{aligned}
 \text{Number of slabs}  &= \dfrac {\text{Area of the garden}} {\text{Area of a slab}} \\\\
                         &= \dfrac {8 \times 5} {1 \times 0.5} \\\\
-                        &= \dfrac {8 \times 10 \times 0.5} {0.5} \\\\
-                        &= \dfrac {8 \times 10 \times \cancel {0.5}} {\cancel {0.5}} \\\\
+                        &= \dfrac {10 \times 8 \times 5} {10 \times 0.5} \\\\
+                        &= \dfrac {10 \times 8 \times 5} {5} \\\\
+                        &= \dfrac {10 \times 8 \times \cancel {5}} {\cancel {5}} \\\\
                         &= 8 \times 10 \\\\
                         &= 80
 \end{aligned}
@@ -3132,7 +3135,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
@@ -3143,7 +3146,7 @@ $80$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

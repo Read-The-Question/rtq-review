@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-notstarted"
 title: "TopicPaper - Money - 4 - NOTSTARTED"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -74,7 +74,7 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -119,7 +119,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2011--sample-paper-3:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -220,7 +220,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -354,7 +354,7 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -410,7 +410,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -455,7 +455,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -551,7 +551,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -609,7 +609,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -713,7 +713,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -825,7 +825,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -930,7 +930,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2012--group-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -981,7 +981,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2011--arithmetic-2:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1138,7 +1138,7 @@ TODOANSWER
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1460,7 +1460,7 @@ $1000 \ \text{g}$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1619,7 +1619,7 @@ TODOANSWER
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-4:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1673,7 +1673,7 @@ TODOANSWER
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

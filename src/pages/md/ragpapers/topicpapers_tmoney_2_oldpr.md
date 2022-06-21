@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-oldpr"
 title: "TopicPaper - Money - 2 - OLDPR"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

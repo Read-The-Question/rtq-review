@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-oldpr"
 title: "TopicPaper - Money - 3 - OLDPR"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -171,7 +171,7 @@ $\pounds 5.92$
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -268,7 +268,7 @@ $148 \ \text{p} \ \text{or} \ \pounds 1.48$
 <p>st-albans-high-school-for-girls--11-plus--maths--2016--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -363,7 +363,7 @@ $\pounds 1.09 \ \text{or} \ 109 \ \text{pence}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -537,7 +537,7 @@ $3 \ \text {people}$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -625,7 +625,7 @@ Cost in 1979...
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -755,7 +755,7 @@ $\pounds 64.9$
 <p>st-anselms-college--11-plus--maths--9999--sample-paper-4:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -924,7 +924,7 @@ $\pounds 2$
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-21 10:30:51
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-b:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -116,7 +116,7 @@ $135 \ \text {pence}$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-c:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -269,7 +269,7 @@ $\pounds 0.45$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-f:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -375,7 +375,7 @@ $\pounds 26$
 <p>dulwich-college--11-plus--maths--9999--specimen-paper-g:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -517,7 +517,7 @@ $\pounds 291.20$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -611,7 +611,7 @@ $(4.65 \div 15) \times 19$
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -741,7 +741,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <p>emanuel-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -879,7 +879,7 @@ $\pounds 12.56$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -981,7 +981,7 @@ $\pounds 5.06$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1128,7 +1128,7 @@ $\pounds 4.80$
 <p>forest-school--11-plus--maths--2020--sample-paper-3:0:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1227,7 +1227,7 @@ $\pounds 15$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1329,7 +1329,7 @@ $\pounds 64$
 <p>forest-school--11-plus--maths--9999--sample-paper-1:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1416,7 +1416,7 @@ $\pounds 4.15$
 <p>forest-school--11-plus--maths--9999--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1480,7 +1480,7 @@ TODOANSWER
 <p>hampton-court-house--11-plus--maths--9999--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1637,7 +1637,7 @@ TODOANSWER
 <p>highgate-school--11-plus--maths--2013--sample-paper-d:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1731,7 +1731,7 @@ $20 \ \text {p}$
 <p>highgate-school--11-plus--maths--9999--sample-paper-a:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2011,7 +2011,7 @@ $\pounds 3.60, \pounds 1.20$
 <p>highgate-school--11-plus--maths--9999--sample-paper-c:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2251,7 +2251,7 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2402,7 +2402,7 @@ $52$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2574,7 +2574,7 @@ $988$
 <p>james-allens-girls-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2632,7 +2632,7 @@ TODOANSWER
 <p>john-lyon-school--11-plus--maths--9999--sample-paper-1:0:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2725,7 +2725,7 @@ $\pounds 5.02$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2879,7 +2879,7 @@ $7$
 <p>kent-college--11-plus--maths--9999--sample-paper-1:0:20</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2964,7 +2964,7 @@ $641 \ \text {pence}$
 <p>kent-college-canterbury--11-plus--maths--2020--sample-paper-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3139,7 +3139,7 @@ $13$
 <p>kings-college-school--11-plus--maths--2014--specimen-paper-e:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3352,7 +3352,7 @@ TODOANSWER
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3406,7 +3406,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3477,7 +3477,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3541,7 +3541,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3608,7 +3608,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3708,7 +3708,7 @@ $\pounds 4.91$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3775,7 +3775,7 @@ TODOANSWER
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3872,7 +3872,7 @@ $\pounds 3.63$
 <p>latymer-upper-school--11-plus--maths--2020--sample-paper-2:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3939,7 +3939,7 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4019,7 +4019,7 @@ $\pounds 3.51$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_ak_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4136,7 +4136,7 @@ TODOANSWER
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-2:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4329,7 +4329,7 @@ $127 \text{p}$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4471,7 +4471,7 @@ $135 \degree$
 <p>leicester-high-school-for-girls--11-plus--maths--9999--sample-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4568,7 +4568,7 @@ $\pounds 15.42$
 <p>magdalen-college-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

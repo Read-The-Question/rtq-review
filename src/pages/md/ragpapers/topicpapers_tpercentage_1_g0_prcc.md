@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0-prcc"
 title: "TopicPaper - Percentage - 1 - G0 - PRCC"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -281,10 +281,9 @@ $
 &= 3 \dfrac {1} {3} \% \ \text{of} \ \pounds 60 \\\\
 &= 3 \dfrac {1} {3} \% \times 60 \\\\
 &= \dfrac {10} {3} \% \times 60 \\\\
-&= \dfrac {10 \% \times \ 60} {3} \\\\
-&= \dfrac {6} {3} \\\\
-&= \dfrac {2 \times 3} {3} \\\\
-&= \dfrac {2 \times \cancel{3}} {\cancel{3}} \\\\
+&= \dfrac {1} {3} \times \bigg ( 10 \% \times 60 \bigg) \\\\
+&= \dfrac {1} {3} \times 6 \\\\
+&= \dfrac {6} {3}  \\\\
 &= \pounds 2
 \end{aligned}
 $
@@ -338,6 +337,152 @@ Part a) Remove S2, Part b) Use answer from part a)
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-79E8390B-8FC1-4502-B81B-AD5DCAB65B68'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>558E748F-8D6C-4D98-8F6E-F9664B5818A1</p>
+</div>
+<div class='papername'>
+<p>reigate-grammar-school--11-plus--maths--2011--sample-paper-2:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_ub_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty%
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is $10\%$ of $\pounds 400$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 10\% \ \text{of} \ \pounds 400 \\\\
+&= \dfrac {10} {100} \times 400 \\\\
+&= \dfrac {4000} {100} \\\\
+&= \dfrac {40 \cancel {00}} {1 \cancel {00}} \\\\
+&= \pounds 40
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 40$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use your answer to write down $7\dfrac{1}{2}\%$ of $\pounds 400$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 7 \dfrac {1} {2}\% \ \text{of} \ \pounds 400 \\\\
+&= \dfrac {15\%} {2} \times \pounds 400 \\\\
+&= \dfrac {1}{2} \times \big(15 \% \  400 \big) \\\\
+&= \dfrac {1}{2} \times {60} \\\\
+&= \dfrac {60}{2}  \\\\
+&= \pounds 30
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 30$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+Part b) Use answer from part a)
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='558E748F-8D6C-4D98-8F6E-F9664B5818A1' id='FORM-558E748F-8D6C-4D98-8F6E-F9664B5818A1' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-558E748F-8D6C-4D98-8F6E-F9664B5818A1'>Initial</p>
 </div>
 </div>
 </li>

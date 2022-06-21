@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-notstarted"
 title: "TopicPaper - Percentage - 1 - NOTSTARTED"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -424,24 +424,14 @@ Work out:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -456,24 +446,23 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 50 \% \text{ of } 160 \\\\
+&= \dfrac {50} {100} \times 160 \\\\
+&= \dfrac {50 \times 160} {100} \\\\
+&= \dfrac {5 \cancel {0} \times 16 \cancel {0}} {1 \cancel{0} \cancel {0}} \\\\
+&= 5 \times 16 \\\\
+&= 80
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$80$
 
 </div>
 </div>

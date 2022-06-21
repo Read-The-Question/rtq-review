@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-g0"
 title: "TopicPaper - Money - 5 - G0"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -111,7 +111,7 @@ $189 \text{p}$
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_ak_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

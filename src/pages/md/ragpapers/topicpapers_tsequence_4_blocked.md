@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-blocked"
 title: "TopicPaper - Sequence - 4 - BLOCKED"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1458,27 +1458,30 @@ $1 \,\,\,\,  7 \,\,\,\,  13 \,\,\,\, 19 \,\,\,\, 25$  ...  ...
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
+
 $
-\begin{matrix}
-&   \footnotesize{ \red { (+6) } } 
-&&  \footnotesize{ \red { (+6) } }  
-&&  \footnotesize{ \red { (+6) } }   
-&&  \footnotesize{ \red { (+6) } }   
-&&  \footnotesize{ \red { (+6) } } 
-&&  \footnotesize{ \red { (+6) } } \\
-1,  &&  7,  &&  13,  &&   19,  &&   25,  && \ldots, && \ldots 
-\end{matrix}
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+-1,  &&    7,  &&  13,  &&   19,  &&  25, &&  \ldots, && \ldots
+\end {matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 25 + 6 \\\\
-                              &= 31
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\text{First missing number}    &= 25 + 6 \\\\
+                               &= 31 \\\\
 \text{Second missing number}   &= 31 + 6 \\\\
                                &= 37
 \end{aligned}
@@ -1489,7 +1492,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$31, 37$
+$31$
+
+</div>
+<div class='answer'>
+
+$37$
 
 </div>
 </div>
@@ -1509,27 +1517,30 @@ $1 \,\,\,\, 2 \,\,\,\, 4 \,\,\,\, 8 \,\,\,\, 16$  ...  ...
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+The next term is calculated by multiplying the previous term by $2$. Hence, the sequence would be:
+
 $
-\begin{matrix}
-&   \footnotesize{ \red { (\times 2) } } 
-&&  \footnotesize{ \red { (\times 2) } }  
-&&  \footnotesize{ \red { (\times 2) } }   
-&&  \footnotesize{ \red { (\times 2) } }   
-&&  \footnotesize{ \red { (\times 2) } }
-&&  \footnotesize{ \red { (\times 2) } } \\
-1,  &&    2,  &&  4,  &&   8,  &&   16,  && \ldots, && \ldots 
-\end{matrix}
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}
+&&  \footnotesize{\maroonC
+{(\times 2)}}  \\
+-1,  &&    2,  &&  4,  &&   8,  &&  16, &&  \ldots, && \ldots
+\end {matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 16 \ \times 2 \\\\
-                              &= 32
-\end{aligned}
-$
-
-$
-\begin{aligned}
+\text{First missing number}    &= 16 \ \times 2 \\\\
+                               &= 32 \\\\
 \text{Second missing number}   &= 32 \ \times 2 \\\\
                                &= 64
 \end{aligned}
@@ -1540,7 +1551,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$32, 64$
+$32$
+
+</div>
+<div class='answer'>
+
+$64$
 
 </div>
 </div>
@@ -1563,28 +1579,29 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 The next term is calculated by adding 2 to the difference in the sequence. Hence, the sequence would be:
 
 $
-\begin{matrix}
-&   \footnotesize{ \red { (+3) } } 
-&&  \footnotesize{ \red { (+5) } }  
-&&  \footnotesize{ \red { (+7) } }   
-&&  \footnotesize{ \red { (+9) } }   
-&&  \footnotesize{ \red { (+11) } } 
-&&  \footnotesize{ \red { (+13) } } \\
-1,  &&   4 ,  &&  9,  &&   16,  &&   25,  && \ldots, && \ldots 
-\end{matrix}
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}
+&&  \footnotesize{\maroonC
+{(+13)}}  \\
+1,  &&    4,  &&  9,  &&   16,  &&  25, &&  \ldots, && \ldots
+\end {matrix}
 $
 
 $
 \begin{aligned}
-\text{Missing first number}   &= 25 + 13 \\\\
-                              &= 38
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Missing first number}   &= 38 + 15 \\\\
-                              &= 53
+\text{First missing number}   &= 25 + 11 \\\\
+                              &= 36 \\\\
+\text{Second missing number}  &= 36 + 13 \\\\
+                              &= 49
 \end{aligned}
 $
 
@@ -1593,7 +1610,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$38, 53$
+$36$
+
+</div>
+<div class='answer'>
+
+$49$
 
 </div>
 </div>
@@ -1614,27 +1636,30 @@ ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
 $
-\begin{matrix}
-&   \footnotesize{ \red { (\times 3) } } 
-&&  \footnotesize{ \red { (\times 3) } }  
-&&  \footnotesize{ \red { (\times 3) } }   
-&&  \footnotesize{ \red { (\times 3) } }   
-&&  \footnotesize{ \red { (\times 3) } } 
-&&  \footnotesize{ \red { (\times 3) } }  \\
-1,  &&    2,  &&  5,  &&   14,  &&   41,  && \ldots, && \ldots 
-\end{matrix}
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3^0)}}
+&&  \footnotesize{\maroonC
+{(+3^1)}}
+&&  \footnotesize{\maroonC
+{(+3^2)}}
+&&  \footnotesize{\maroonC
+{(+3^3)}}
+&&  \footnotesize{\maroonC
+{(+3^4)}}
+&&  \footnotesize{\maroonC
+{(+3^5)}}  \\
+1,  &&    2,  &&  5,  &&   14,  &&  41, &&  \ldots, && \ldots
+\end {matrix}
 $
 
 $
 \begin{aligned}
-\text{First missing number}   &= 41 + 81 \\\\
-                              &= 122
-\end{aligned}
-$
-
-$
-\begin{aligned}
-\text{Second missing number}   &= 122 + 243 \\\\
+\text{First missing number}    &= 41 + 3^4 \\\\
+                               &= 41 + 81 \\\\
+                               &= 122 \\\\
+\text{Second missing number}   &= 122 + 3^5 \\\\
+                               &= 122 + 243 \\\\
                                &= 365
 \end{aligned}
 $
@@ -1644,7 +1669,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$122, 365$
+$122$
+
+</div>
+<div class='answer'>
+
+$365$
 
 </div>
 </div>
@@ -1953,7 +1983,7 @@ $37$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='question_envelope rag_blocked rag_prcc question'>
 <div class='uuid'>
 <p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
 </div>
@@ -1964,7 +1994,7 @@ $37$
 <p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prbd</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1981,9 +2011,7 @@ In this sequence each number is double the previous number. Write in the missing
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-Each number in the sequence is double the previous number. Hence the sequence would be :
+As per the question, the sequence would be:
 
 $
 \begin{matrix}
@@ -2000,18 +2028,18 @@ $
 &&  \footnotesize {\maroonC
 {(\times 2)}}
 &&  \footnotesize {\maroonC
-{(\times 2)}} \\
+{(\times 2)}}  \\
 \ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text {Second missing number}       &= \dfrac {3} {2} \\\\
-                                    &= 1.5 \\\\
-\text {First missing number}        &= \dfrac {3} {2 \times 2} \\\\
+\text {Second missing number}       &= 3 \div 2 \\\\
+                                    &= \dfrac {3} {2} \\\\
+\text {First missing number}        &= \dfrac {3} {2} \div 2 \\\\
+                                    &= \dfrac {3} {2 \times 2} \\\\
                                     &= \dfrac {3} {4} \\\\
-                                    &= 0.75
 \text {Third missing number}        &= 48 \times 2 \\\\
                                     &= 96
 \end{aligned}
@@ -2022,7 +2050,99 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96$
+$\dfrac {3} {2}$
+
+</div>
+<div class='answer'>
+
+$\dfrac {3} {4} $
+
+</div>
+<div class='answer'>
+
+$96$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>DA1C609B-7D16-4855-AF28-E9B812315F33</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here is part of a number sequence. The numbers increase by the same amount each time.
+
+$150, 165, 180, 195, 210$
+
+The sequence continues. 
+
+Circle **all** of the numbers below that would appear in the sequence:
+
+$315 \quad 561 \quad 240 \quad 620 \quad 964$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $15$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}
+&&  \footnotesize{\maroonC
+{(+15)}}  \\
+150,  &&    165,  &&  180,  &&   195,   &&   210,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+So, we can say that, the numbers that would appear in the sequence are multiples of $15$ .
+
+Numbers that are divisible by both 3 and 5 and would appear in the sequence are $=240, 315$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$240$
+
+</div>
+<div class='answer'>
+
+$315$
 
 </div>
 </div>
@@ -2170,6 +2290,371 @@ $
 <div class='answer'>
 
 $65$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>ED704D79-81D3-4EB7-A041-6E67CD5FE873</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+%empty% 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$13, \quad 9, \quad 5, \quad 1, \quad -3, \quad \ldots$
+
+What are the next two numbers in the sequence?
+
+- $-1, -5$
+- $-6, -9$
+- $-8, -12$
+- $-7, -11$
+- $0, -4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-4)}} 
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}   
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
+13,  &&    9,  &&  5,  &&   1,  &&   -3, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= -3 - 4 \\\\
+                               &= -7 \\\\\
+\text{Second missing number}   &= -7 - 4 \\\\
+                               &= -11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>D</p>
+</div>
+<div class='answer'>
+
+$-7, -11$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the rule of the above sequence?
+
+- $4n - 17$
+- $17 - 4n$
+- $-7n + 13$
+- $5 - 3n$
+- $9n + 4$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+The next term is calculated by subtracting $4$ from the previous term. Hence, the rule would be $= 17 - 4n$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
+<div class='answer'>
+
+$17 - 4n$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>2B5548B0-4A90-4DCB-A9E3-58324AFEF5E3</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:0</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+  
+
+This is a magic square.  
+
+All the columns, rows and diagonals add up to $30$.  
+
+Several numbers have been missed out.
+
+What number replaces $B$?
+
+- $6$
+- $8$
+- $7$
+- $5$
+- $10$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per hte question,
+
+All the columns, rows and diagonals add up to $30$
+
+$
+\begin{aligned}
+\text{In diagonal let the missing number br 'C' then} \\\\
+9 + 10 + C  &= 30 \\\\
+19 + C      &= 30 \\\\
+C           &= 30 - 19 \\\\
+C           &= 11 \\\\
+\text{if C} &= 11 \text{then,} \\\\
+13 + B + 11 &= 30 \\\\
+24 + B      &= 30 \\\\
+B           &= 30 - 24 \\\\
+B           &= 6 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
+<div class='answer'>
+
+$6$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>1BF5B2D6-98CF-4595-ACA4-62872303DF5D</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:1</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What number replaces $A$?
+
+- $12$ 
+- $13$  
+- $14$
+- $15$
+- $16$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per hte question,
+
+All the columns, rows and diagonals add up to $30$
+
+$
+\begin{aligned}
+A + 10 + B &= 30 \\\\
+\text{the value of B} &= 6 \\\\
+A + 10 + B &= 30 \\\\
+A + 10 + 6 &= 30 \\\\
+A          &= 30 -10 -6 \\\\
+A          &= 14
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>H</p>
+</div>
+<div class='answer'>
+
+$A = 14$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>21F86FF9-737E-4AF5-8F7F-6D8695AFFE38</p>
+</div>
+<div class='papername'>
+<p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A number of shapes have been made with matches.
+
+For this pattern:
+
+![missing image](/papers/missing_image.svg)
+
+
+How many matches will be in the $4 \text{th}$ shape?
+
+- $26$
+- $18$  
+- $24$   
+- $20$  
+- $22$  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The given pattern follow an arthemetic progression 
+
+$6$ matches increase $1$ on next one
+
+$ a = 4 , n = 4 , d = 6 $
+
+$
+\begin{aligned}
+\text{The arthemetic progression} \\\\
+a_4 &= a + (n-1)d \\\\
+&= 4 + (4-1) \times 6 \\\\
+&= 4 + 3 \times 6 \\\\
+&= 4 + 18 \\\\
+&= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>Q</p>
+</div>
+<div class='answer'>
+
+$22$
 
 </div>
 </div>

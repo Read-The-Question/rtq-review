@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-oldpr"
 title: "TopicPaper - Money - 1 - OLDPR"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -110,7 +110,7 @@ $\pounds 3.25$
 <p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -202,7 +202,7 @@ tunitpromt missing
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -293,7 +293,7 @@ Change Billy got
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

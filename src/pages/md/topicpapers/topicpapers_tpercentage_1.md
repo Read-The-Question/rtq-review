@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1889,10 +1889,9 @@ $
 &= 3 \dfrac {1} {3} \% \ \text{of} \ \pounds 60 \\\\
 &= 3 \dfrac {1} {3} \% \times 60 \\\\
 &= \dfrac {10} {3} \% \times 60 \\\\
-&= \dfrac {10 \% \times \ 60} {3} \\\\
-&= \dfrac {6} {3} \\\\
-&= \dfrac {2 \times 3} {3} \\\\
-&= \dfrac {2 \times \cancel{3}} {\cancel{3}} \\\\
+&= \dfrac {1} {3} \times \bigg ( 10 \% \times 60 \bigg) \\\\
+&= \dfrac {1} {3} \times 6 \\\\
+&= \dfrac {6} {3}  \\\\
 &= \pounds 2
 \end{aligned}
 $
@@ -1950,7 +1949,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>558E748F-8D6C-4D98-8F6E-F9664B5818A1</p>
 </div>
@@ -1961,7 +1960,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2004,9 +2003,8 @@ $
 \begin{aligned}
 &= 10\% \ \text{of} \ \pounds 400 \\\\
 &= \dfrac {10} {100} \times 400 \\\\
-&= \dfrac {10 \times 400} {100} \\\\
-&= \dfrac {10 \times 4 \cancel{00}} {1 \cancel{00}} \\\\
-&= 10 \times 4 \\\\
+&= \dfrac {4000} {100} \\\\
+&= \dfrac {40 \cancel {00}} {1 \cancel {00}} \\\\
 &= \pounds 40
 \end{aligned}
 $
@@ -2037,13 +2035,9 @@ $
 \begin{aligned}
 &= 7 \dfrac {1} {2}\% \ \text{of} \ \pounds 400 \\\\
 &= \dfrac {15\%} {2} \times \pounds 400 \\\\
-&= \dfrac {15\% \times 2 \times 400} {2 \times 2} \\\\
-&= \dfrac {30\% \times 400} {4} \\\\
-&= \dfrac {3 \times 10\% \times 400} {4} \\\\
-&= \dfrac {3 \times 40} {4} \\\\
-&= \dfrac {3 \times 10 \times 4} {4} \\\\
-&= \dfrac {3 \times 10 \times \cancel{4}} {\cancel{4}} \\\\
-&= 3 \times 10 \\\\
+&= \dfrac {1}{2} \times \big(15 \% \  400 \big) \\\\
+&= \dfrac {1}{2} \times {60} \\\\
+&= \dfrac {60}{2}  \\\\
 &= \pounds 30
 \end{aligned}
 $
@@ -2378,24 +2372,14 @@ Work out:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+%empty%
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+%empty%
 
 </div>
 </div>
@@ -2410,24 +2394,23 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= 50 \% \text{ of } 160 \\\\
+&= \dfrac {50} {100} \times 160 \\\\
+&= \dfrac {50 \times 160} {100} \\\\
+&= \dfrac {5 \cancel {0} \times 16 \cancel {0}} {1 \cancel{0} \cancel {0}} \\\\
+&= 5 \times 16 \\\\
+&= 80
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$80$
 
 </div>
 </div>

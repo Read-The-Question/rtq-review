@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-oldpr"
 title: "TopicPaper - Money - 4 - OLDPR"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 10:30:51
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -102,7 +102,7 @@ delete total money collected at end
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -193,7 +193,7 @@ missing unitconvert sentence..
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -296,7 +296,7 @@ $\pounds 1.33$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -374,7 +374,7 @@ $600 \ \text{g} \ \text{for} \ \pounds 3$
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

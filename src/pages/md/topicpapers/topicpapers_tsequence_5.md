@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2785,7 +2785,7 @@ $87$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>44FC571D-648D-4BAC-856A-7740FD79FC86</p>
 </div>
@@ -2796,7 +2796,7 @@ $87$
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2818,7 +2818,7 @@ $83, \quad 76, \quad 69, \quad 62, \quad \boxed{\phantom{11}}$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $7$. Hence, the sequence would be:
+The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -2836,7 +2836,7 @@ $
 
 $
 \begin{aligned}
-\text{Next missing number}  &= 62 - 7 \\\\
+\text{Missing number}       &= 62 - 7 \\\\
                             &= 55
 \end{aligned}
 $
@@ -2846,7 +2846,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$83, \quad 76, \quad 69, \quad 62, \quad \boxed{55}$
+$55$
 
 </div>
 </div>
@@ -4036,7 +4036,7 @@ $-1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
 </div>
@@ -4044,10 +4044,10 @@ $-1$
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4077,34 +4077,16 @@ Write the next two lines of the pattern
 <div class='workings'>
 <div class='working'>
 
-As per the question, the number pattern looks like 
-
-$
-\begin{matrix}
-&   \footnotesize{\maroonC
-{(+3)}}  
-&&  \footnotesize{\maroonC
-{(+5)}} 
-&&  \footnotesize{\maroonC
-{(+7)}}   
-&&  \footnotesize{\maroonC
-{(+9)}}
-&&  \footnotesize{\maroonC
-{(+11)}}
-&&  \footnotesize{\maroonC
-{(+13)}} \\
-1^2,  &&    2^2,  &&  3^2,  &&   4^2, && \ldots, && \ldots, &&\ldots
-\end{matrix}
-$
+As per the question, the next two lines of the pattern would be:
 
 $
 \begin{aligned}
-\text{First line }              &= 5^2 + 11 \\\\
+\text{First line}               &= 5^2 + 11 \\\\
                                 &= 25 + 11 \\\\
                                 &= 36 \\\\
-\text{Secondline }              &= 6^2 + 13 \\\\
+\text{Second line}              &= 6^2 + 13 \\\\
                                 &= 36 + 13 \\\\
-                                &= 49                      
+                                &= 49
 \end{aligned}
 $
 
@@ -4113,72 +4095,21 @@ $
 <div class='answers'>
 <div class='answer'>
 
-First line : $5^2 + 11 = 36$
+$5^2 + 11 = 36$
 
-Second line : $6^2 + 13 = 49$
+</div>
+<div class='answer'>
+
+$6^2 + 13 = 49$
 
 </div>
 </div>
 
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-As per the question, the number pattern looks like 
-
-
-
-(Sequence)...
-
-
-
-Put the dots in the squence shown properly and 2 times...and also +9 +11 and +13
-
-
-
-Secondline (put space) 
-
-
-
-Delete First line.....  49
-
-in blue answer after 36 \
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='1471A425-F628-4303-8DA0-7BB245A45C26' id='FORM-1471A425-F628-4303-8DA0-7BB245A45C26' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1471A425-F628-4303-8DA0-7BB245A45C26'>Initial</p>
-</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
 </div>
@@ -4186,10 +4117,10 @@ in blue answer after 36 \
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4214,20 +4145,38 @@ Explain how you know:
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
-The difference between the terms is $30$. Hence, the sequence would be multiples of $30$.
-
-As the sequence goes on increasing in the multiples of 30,
-
-For 1330 to be in the sequence, it should be a multiple of 30.
+As per the question, the sequence would be:
 
 $
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }  \\
+30,  &&    60,  &&  90,  &&   120,  &&  150,  && \ldots
+\end{matrix}
+$
+
+Let the number of term $= n$
+
+Rule for the sequence $= 30 + 30 (n - 1)$
+
+Now, let's check whether $1330$ is a number of the sequence or not
+$
 \begin{aligned}
-&= \dfrac {1330} {30} \\\\
-&= \dfrac {133 \cancel {0}} {3 \cancel {0}} \\\\
-&= \dfrac {133} {3} \\\\
-&= 44 \dfrac {1} {3} \\\\
+30 + 30 (n - 1) &= 1330 \\\\
+30 + 30n - 30   &= 1330 \\\\
+30n             &= 1330 \\\\
+n               &= \dfrac {1330} {30} \\\\
+n               &= \dfrac {133 \cancel {0}} {3 \cancel {0}} \\\\
+n               &= \dfrac {133} {3} \\\\
+n               &= 44 \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -4238,48 +4187,12 @@ $44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 3
 <div class='answers'>
 <div class='answer'>
 
-No
+%empty%
 
 </div>
 </div>
 
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-c and d
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='3CC14E76-50F8-4F46-9B87-410B0584474A' id='FORM-3CC14E76-50F8-4F46-9B87-410B0584474A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3CC14E76-50F8-4F46-9B87-410B0584474A'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4473,7 +4386,7 @@ $81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
 </div>
@@ -4481,10 +4394,10 @@ $81$
 <p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4526,7 +4439,7 @@ $11,\:\:\:15,\:\:\:19,\:\:\:23,\:\:\:………$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $4$. Hence, the sequence would be:
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -4537,15 +4450,15 @@ $
 &&  \footnotesize{\maroonC
 {(+4)}}
 &&  \footnotesize{\maroonC
-{(+4)}} \\
+{(+4)}}  \\
 11,  &&    15,  &&  19,  &&   23, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Next number}  &= 23 + 4 \\\\
-                    &= 27 \\\\
+\text{Missing number}   &= 23 + 4 \\\\
+                        &= 27
 \end{aligned}
 $
 
@@ -4574,7 +4487,7 @@ $17,\:\:\:12,\:\:\:7,\:\:\:2,\:\:\: ………$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $5$. Hence, the sequence would be:
+The next term is calculated by subtracting $5$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -4585,15 +4498,15 @@ $
 &&  \footnotesize{\maroonC
 {(-5)}}
 &&  \footnotesize{\maroonC
-{(-5)}} \\
+{(-5)}}  \\
 17,  &&    12,  &&  7,  &&   2, && \ldots
 \end{matrix}
 $
 
 $
 \begin{aligned}
-\text{Next number}  &= 2 - 5 \\\\
-                    &= -3
+\text{Missing number}    &= 2 - 5 \\\\
+                         &= -3
 \end{aligned}
 $
 
@@ -4622,7 +4535,8 @@ $2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be :
+The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be:
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
@@ -4639,8 +4553,8 @@ $
 
 $
 \begin{aligned}
-\text{Next number}  &= 11 + 5 \\\\
-                    &= 16
+\text{Missing number}  &= 11 + 5 \\\\
+                       &= 16
 \end{aligned}
 $
 
@@ -4657,43 +4571,7 @@ $16$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-5 to -5
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='2C62B880-A422-46C5-81F2-06361F7646FC' id='FORM-2C62B880-A422-46C5-81F2-06361F7646FC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-2C62B880-A422-46C5-81F2-06361F7646FC'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4759,7 +4637,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
 </div>
@@ -4767,10 +4645,10 @@ TODOANSWER
 <p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ak_oldpr</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4812,6 +4690,8 @@ $2,\:\: 4,\:\: 7,\:\: 11,\:\: …\:\: …$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
+The difference between the terms is $1$ more than the difference between the previous sequence. Hence the sequence would be :
+
 $
 \begin{matrix}
 &   \footnotesize{\maroonC
@@ -4823,7 +4703,7 @@ $
 &&  \footnotesize{\maroonC
 {(+5)}}
 &&  \footnotesize{\maroonC
-{(+6)}} \\
+{(+6)}}  \\
 2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
 \end{matrix}
 $
@@ -4842,7 +4722,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16, 22$
+$16$
+
+</div>
+<div class='answer'>
+
+$22$
 
 </div>
 </div>
@@ -4861,6 +4746,8 @@ $\frac {2} {3},\:\: 2,\:\: 6,\:\: 18,\:\: …\:\: ….$
 
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -4892,7 +4779,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$54 , 162$
+$54$
+
+</div>
+<div class='answer'>
+
+$162$
 
 </div>
 </div>
@@ -4911,32 +4803,30 @@ Explain why if the first term is $\frac{-2} {9}$ the second term is $\frac{1} {3
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+First term $= -\dfrac {2} {9}$
 
-The next number is tripled and added by one.
+As per the question,
 
 $
 \begin{aligned}
-&= \dfrac {-2} {9} \times 3 + 1 \\\\
-&= \dfrac {-2 \times 3} {9} + 1 \\\\
-&= \dfrac {-6} {9} + \dfrac {1 \times 9} {1 \times 9} \\\\
-&= \dfrac {-6} {9} + \dfrac {9} {9} \\\\
-&= \dfrac {-6 + 9} {9} \\\\
-&= \dfrac {3} {9} \\\\
-&= \dfrac {3} {3 \times 3} \\\\
-&= \dfrac {\cancel {3}} {\cancel {3} \times 3} \\\\
-&= \dfrac {1} {3}
+\text {Second term}     &= -\dfrac {2} {9} \times 3 + 1 \\\\
+                        &= -\dfrac {2 \times 3} {9} + 1 \\\\
+                        &= -\dfrac {2 \times 3} {3 \times 3} + 1 \\\\
+                        &= -\dfrac {2 \times \cancel {3}} {\cancel {3} \times 3} + 1 \\\\
+                        &= -\dfrac {2} {3} + 1 \\\\
+                        &= -\dfrac {2} {3} + \dfrac {1 \times 3} {1 \times 3} \\\\
+                        &= -\dfrac {2} {3} + \dfrac {3} {3} \\\\
+                        &= \dfrac {-2 + 3} {3} \\\\
+                        &= \dfrac {1} {3}
 \end{aligned}
 $
-
-The second term = $\dfrac {1} {3}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {1} {3}$
+%empty%
 
 </div>
 </div>
@@ -4953,26 +4843,19 @@ Find the fourth term
 <div class='workings'>
 <div class='working'>
 
+First term $= -\dfrac {2} {9}$
+
+Second term $= \dfrac {1} {3}$
+
 As per the question,
-
-The next number is tripled and added by one.
-
-Second term = $\dfrac {1} {3}$
 
 $
 \begin{aligned}
-\text {Third term}  &= \dfrac {1}{3} \times 3 + 1 \\\\
+\text {Third term}  &= \dfrac {1} {3} \times 3 + 1 \\\\
                     &= \dfrac {1 \times 3} {3} + 1 \\\\
                     &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
                     &= 1 + 1 \\\\
-                    &= 2
-\end{aligned}
-$
-
-Using the above solution, we get
-
-$
-\begin{aligned}
+                    &= 2 \\\\
 \text {Fourth term} &= 2 \times 3 + 1 \\\\\
                     &= 6 + 1 \\\\
                     &= 7
@@ -4992,43 +4875,7 @@ $7$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
 
-<h4>Review Comments</h4>
-description missing (Line2)
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='3487109B-E395-4D4B-9784-14DBAA11998B' id='FORM-3487109B-E395-4D4B-9784-14DBAA11998B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-3487109B-E395-4D4B-9784-14DBAA11998B'>Initial</p>
-</div>
 </div>
 </li>
 </ul>

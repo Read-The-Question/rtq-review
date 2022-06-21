@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-blocked"
 title: "TopicPaper - Sequence - 5 - BLOCKED"
-date: 2022-06-21 10:30:51
+date: 2022-06-21 12:34:13
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1089,6 +1089,166 @@ $21$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>1471A425-F628-4303-8DA0-7BB245A45C26</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tpower
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look carefully at this number pattern.
+
+$1^2 + 3 = 4$
+
+$2^2 + 5 = 9$
+
+$3^2 + 7 = 16$
+
+$4^2 + 9 = 25$
+
+Write the next two lines of the pattern
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the next two lines of the pattern would be:
+
+$
+\begin{aligned}
+\text{First line}               &= 5^2 + 11 \\\\
+                                &= 25 + 11 \\\\
+                                &= 36 \\\\
+\text{Second line}              &= 6^2 + 13 \\\\
+                                &= 36 + 13 \\\\
+                                &= 49
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5^2 + 11 = 36$
+
+</div>
+<div class='answer'>
+
+$6^2 + 13 = 49$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>3CC14E76-50F8-4F46-9B87-410B0584474A</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-2:0:15</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+This sequence of numbers goes up by $30$ each time.
+
+$30,\:\:\:\: 60,\:\:\:\: 90,\:\:\:\: 120,\:\:\:\: 150,\:\:\:\: …….$
+
+The sequence continues.
+
+Will the number $1330$ be in the sequence? 
+
+Explain how you know:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }
+&&  \footnotesize {\maroonC
+ {(+30)} }  \\
+30,  &&    60,  &&  90,  &&   120,  &&  150,  && \ldots
+\end{matrix}
+$
+
+Let the number of term $= n$
+
+Rule for the sequence $= 30 + 30 (n - 1)$
+
+Now, let's check whether $1330$ is a number of the sequence or not
+$
+\begin{aligned}
+30 + 30 (n - 1) &= 1330 \\\\
+30 + 30n - 30   &= 1330 \\\\
+30n             &= 1330 \\\\
+n               &= \dfrac {1330} {30} \\\\
+n               &= \dfrac {133 \cancel {0}} {3 \cancel {0}} \\\\
+n               &= \dfrac {133} {3} \\\\
+n               &= 44 \dfrac {1} {3}
+\end{aligned}
+$
+
+$44 \dfrac {1} {3}$ is not a whole number, as such $1330$ is not a multiple of 30. Hence, the number 1330 will not be in the sequence.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>0B7ECBC1-8D3F-45E4-9633-04391991C44B</p>
@@ -1275,6 +1435,437 @@ $81$
 </div>
 </div>
 
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>2C62B880-A422-46C5-81F2-06361F7646FC</p>
+</div>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:3</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next number in each of these sequences
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$11,\:\:\:15,\:\:\:19,\:\:\:23,\:\:\:………$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $4$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+4)}}  \\
+11,  &&    15,  &&  19,  &&   23, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 23 + 4 \\\\
+                        &= 27
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$17,\:\:\:12,\:\:\:7,\:\:\:2,\:\:\: ………$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting $5$ from the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}
+&&  \footnotesize{\maroonC
+{(-5)}}  \\
+17,  &&    12,  &&  7,  &&   2, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}    &= 2 - 5 \\\\
+                         &= -3
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2,\:\:\:4,\:\:\:7,\:\:\:11,\:\:\: ………$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The difference between the terms is 1 more than the difference between the previous sequence. Hence the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}} \\
+2,  &&    4,  &&  7,  &&   11 , && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}  &= 11 + 5 \\\\
+                       &= 16
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>3487109B-E395-4D4B-9784-14DBAA11998B</p>
+</div>
+<div class='papername'>
+<p>tonbridge-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two terms of the following sequences;
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2,\:\: 4,\:\: 7,\:\: 11,\:\: …\:\: …$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The difference between the terms is $1$ more than the difference between the previous sequence. Hence the sequence would be :
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+2)}}
+&&  \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+4)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+6)}}  \\
+2,  &&    4,  &&  7,  &&   11, && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 11 + 5 \\\\
+                                &= 16 \\\\
+\text{Second missing number}    &= 16 + 6 \\\\
+                                &= 22
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$16$
+
+</div>
+<div class='answer'>
+
+$22$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$\frac {2} {3},\:\: 2,\:\: 6,\:\: 18,\:\: …\:\: ….$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}} \\
+\dfrac {2} {3},  &&    2,  &&  6,  &&   18,  &&   \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 18 \times 3 \\\\
+                                &= 54 \\\\
+\text{Second missing number}    &= 54 \times 3 \\\\
+                                &= 162
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$54$
+
+</div>
+<div class='answer'>
+
+$162$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+A sequence follows the rule:
+Treble and add one
+Explain why if the first term is $\frac{-2} {9}$ the second term is $\frac{1} {3}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First term $= -\dfrac {2} {9}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Second term}     &= -\dfrac {2} {9} \times 3 + 1 \\\\
+                        &= -\dfrac {2 \times 3} {9} + 1 \\\\
+                        &= -\dfrac {2 \times 3} {3 \times 3} + 1 \\\\
+                        &= -\dfrac {2 \times \cancel {3}} {\cancel {3} \times 3} + 1 \\\\
+                        &= -\dfrac {2} {3} + 1 \\\\
+                        &= -\dfrac {2} {3} + \dfrac {1 \times 3} {1 \times 3} \\\\
+                        &= -\dfrac {2} {3} + \dfrac {3} {3} \\\\
+                        &= \dfrac {-2 + 3} {3} \\\\
+                        &= \dfrac {1} {3}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Find the fourth term
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+First term $= -\dfrac {2} {9}$
+
+Second term $= \dfrac {1} {3}$
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Third term}  &= \dfrac {1} {3} \times 3 + 1 \\\\
+                    &= \dfrac {1 \times 3} {3} + 1 \\\\
+                    &= \dfrac {1 \times \cancel{3}} {\cancel{3}} + 1 \\\\
+                    &= 1 + 1 \\\\
+                    &= 2 \\\\
+\text {Fourth term} &= 2 \times 3 + 1 \\\\\
+                    &= 6 + 1 \\\\
+                    &= 7
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$7$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

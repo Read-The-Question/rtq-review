@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-oldpr"
 title: "TopicPaper - Ratio - 2 - OLDPR"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>

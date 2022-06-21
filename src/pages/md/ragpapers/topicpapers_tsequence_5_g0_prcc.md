@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-g0-prcc"
 title: "TopicPaper - Sequence - 5 - G0 - PRCC"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1110,7 +1110,9 @@ $
 
 $
 \begin{aligned}
-7 \text{th term}        &= 18 + 4 + 4 \\\\
+\text {Sixth term}      &= 18 + 4 \\\\
+                        &= 22 \\\\
+\text {Seventh term}    &= 22 + 4 \\\\
                         &= 26
 \end{aligned}
 $
@@ -1196,7 +1198,7 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by subtracting $7z$ from the previous term. Hence, the sequence would be:
+The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}

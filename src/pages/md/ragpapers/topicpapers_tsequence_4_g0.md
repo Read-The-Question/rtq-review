@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-g0"
 title: "TopicPaper - Sequence - 4 - G0"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -335,93 +335,6 @@ $3$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-5C28841F-84FB-4482-AFA9-B7043D582BBA'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
-<p>1B375F52-BB72-4EF8-8C9F-B427D6323875</p>
-</div>
-<div class='papername'>
-<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:6</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcr</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsequence
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Which is the largest? 
-
-To compare, we can convert all the numbers to fractions, decimals or percentages. 
-
-In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
-
-$0.305, \quad \dfrac{1}{4}, \quad 0.3, \quad \dfrac{1}{3}, \quad 0.35$
-
-$0.305, \quad 0.25, \quad 0.3, \quad 0.33, \quad 0.35$
-
-The  largest number is $= 0.35$. 
-
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$0.35$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$0.35$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='1B375F52-BB72-4EF8-8C9F-B427D6323875' id='FORM-1B375F52-BB72-4EF8-8C9F-B427D6323875' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-1B375F52-BB72-4EF8-8C9F-B427D6323875'>Initial</p>
 </div>
 </div>
 </li>

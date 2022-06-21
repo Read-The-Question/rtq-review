@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-2-oldpr"
 title: "TopicPaper - Sequence - 2 - OLDPR"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>78B7CE75-C9BE-4EBA-9D61-96FCC5AA4D83</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-20 22:07:11
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,7 +41,7 @@ $
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is $3$. Hence, the sequence would be:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -59,8 +59,8 @@ $
 
 $
 \begin{aligned}
-\text{Fifth term}     &= 15 + 3 \\\\
-                      &= 18
+\text{Missing number }     &= 15 + 3 \\\\
+                           &= 18
 \end{aligned}
 $
 

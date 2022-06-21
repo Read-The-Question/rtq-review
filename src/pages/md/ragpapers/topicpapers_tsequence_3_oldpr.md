@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-oldpr"
 title: "TopicPaper - Sequence - 3 - OLDPR"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-20 22:07:11
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -78,9 +78,9 @@ $
 $
 \begin{aligned}
 \text{First missing number}         &= 6 \div 2 \\\\
-                                    &= 3\\\\
+                                    &= 3 \\\\
 \text{Second missing number}        &= 24 \times 2 \\\\
-                                    &= 48\\\\
+                                    &= 48
 \end{aligned}
 $
 
@@ -89,7 +89,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$ and $48$
+$3$
+
+</div>
+<div class='answer'>
+
+$48$
 
 </div>
 </div>
@@ -109,7 +114,7 @@ $4 \quad \ldots \quad 10 \quad 13 \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -139,7 +144,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7$ and $16$
+$7$
+
+</div>
+<div class='answer'>
+
+$16$
 
 </div>
 </div>
@@ -159,7 +169,7 @@ $\ldots \quad 16 \quad 8 \quad 4 \quad  \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -171,7 +181,7 @@ $
 {(\div 2)}}   
 &&  \footnotesize{\maroonC
 {(\div 2)}}  \\
-\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
+\ldots,  &&      16,  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
 
@@ -189,7 +199,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$32$ and $2$
+$32$
+
+</div>
+<div class='answer'>
+
+$2$
 
 </div>
 </div>
@@ -209,7 +224,7 @@ $\ldots \quad 6 \quad  3 \quad  0  \quad    -3$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
+The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}

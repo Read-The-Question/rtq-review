@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tdetailedmultiplication-3-oldpr"
 title: "TopicPaper - Detailedmultiplication - 3 - OLDPR"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-20 22:07:11
 <p>rag_ar_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -35,10 +35,10 @@ Work out $3729 \times 6$
 
 $
 \begin{array}{cccccccccccccc}
-     &         &    3     &   7    &   2   &    9 \\
-     & \times  &          &        &       &    6 \\
+        &    3     &   7    &   2   &    9 \\
+\times  &          &        &       &    6 \\
 \hline
-     &    2    &    2     &   3    &   7   &    4
+   2    &    2     &   3    &   7   &    4
 \end{array}
 $
 

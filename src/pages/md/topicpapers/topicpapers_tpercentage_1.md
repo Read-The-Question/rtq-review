@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1180,7 +1180,7 @@ $30\% \text{ of } \ 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>0F235D15-061A-4701-8EB6-C7E418A3084D</p>
 </div>
@@ -1191,7 +1191,7 @@ $30\% \text{ of } \ 30$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1215,7 +1215,7 @@ As per the diagram,
 
 $
 \begin {aligned}
-\text {Percentage shaded}   &= ?\times 100 \% \\\\
+\text {Percentage shaded}   &= \dfrac{3}{5}\ \text{of}\ 100 \% \\\\
                             &= \dfrac {3} 5 \times 100 \\\\
                             &= \dfrac {3 \times 100} {5} \\\\
                             &= \dfrac {3 \times 20 \times 5} {5} \\\\
@@ -1539,7 +1539,7 @@ $\dfrac {6} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DE2B4A57-B8DD-4C95-9E77-103AF639A833</p>
 </div>
@@ -1550,7 +1550,7 @@ $\dfrac {6} {5}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1572,8 +1572,8 @@ $
 &= 60 \% \ \text {of} \ 10 \% \ \text {of} \ 900 \\\\
 &= \dfrac {60} {100} \times \dfrac {10} {100} \times 900 \\\\
 &= \dfrac {60 \times 10 \times 900} {100 \times 100} \\\\
-&= \dfrac {6 \cancel {0} \times 1 \cancel {0} \times 9 \cancel {0} \cancel {0}} {1 \cancel {0} \cancel {0} \times 1 \cancel {0} \cancel {0}} \\\\
-&= 6 \times 9 \\\\
+&= \dfrac {540000} {10000} \\\\
+&= \dfrac {54 \cancel {0000} } {1 \cancel {0000}} \\\\
 &= 54
 \end{aligned}
 $
@@ -1583,7 +1583,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$600$
+$54$
 
 </div>
 </div>
@@ -1799,7 +1799,7 @@ $1.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>79E8390B-8FC1-4502-B81B-AD5DCAB65B68</p>
 </div>
@@ -1810,7 +1810,7 @@ $1.3$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1852,10 +1852,10 @@ What is $10\%$ of $\pounds 60$
 $
 \begin{aligned}
 &= 10\% \ \text{of} \ \pounds 60 \\\\
-&= 10\% \times 60 \\\\
 &= \dfrac {10} {100} \times 60 \\\\
 &= \dfrac {10 \times 60} {100} \\\\
-&= \dfrac {1 \cancel{0} \times 6 \cancel{0}} {1 \cancel{0} \cancel{0}} \\\\
+&= \dfrac {600} {100} \\\\
+&= \dfrac {6 \cancel {00}} {1 \cancel {00}} \\\\
 &= \pounds 6
 \end{aligned}
 $
@@ -2507,7 +2507,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F73B4CF0-A753-41AA-B759-D42A1107AB86</p>
 </div>
@@ -2518,7 +2518,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2540,8 +2540,8 @@ $
 &= 35\% \ \text{of}\ 80 \ \text{kg} \\\\
 &= \dfrac {35} {100} \times 80 \\\\
 &= \dfrac {35 \times 80} {100} \\\\
-&= \dfrac {7 \times 5 \times 4 \times 2 \times 10}{10 \times 5\times 2  } \\\\
-&= \dfrac {7 \times \cancel 5 \times 4 \times \cancel 2 \times \cancel 10}{\cancel 10 \times \cancel 5\times \cancel 2  } \\\\
+&= \dfrac {7 \times 5 \times 20 \times 4}{5 \times 20} \\\\
+&= \dfrac {7 \times \cancel 5 \times \cancel 20 \times 4}{\cancel 5 \times \cancel 20} \\\\
 &= 7 \times 4 \\\\
 &= 28 \ \text{kg}
 \end{aligned}

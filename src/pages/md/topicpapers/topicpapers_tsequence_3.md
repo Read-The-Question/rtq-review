@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-3"
 title: "TopicPaper - Sequence - 3"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -3839,7 +3839,7 @@ $21$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
 </div>
@@ -3847,10 +3847,10 @@ $21$
 <p>oundle-school--11-plus--maths--2016--sample-paper-2:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3932,37 +3932,6 @@ $\text{Circle}$
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='62C66561-F3E0-4965-B7E2-15DAB3203A00' id='FORM-62C66561-F3E0-4965-B7E2-15DAB3203A00' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-62C66561-F3E0-4965-B7E2-15DAB3203A00'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -6877,7 +6846,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>0DEAA0A4-5405-4CEB-BE4F-CFB79042ABEE</p>
 </div>
@@ -6888,7 +6857,7 @@ TODOANSWER
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -6950,9 +6919,9 @@ $
 $
 \begin{aligned}
 \text{First missing number}         &= 6 \div 2 \\\\
-                                    &= 3\\\\
+                                    &= 3 \\\\
 \text{Second missing number}        &= 24 \times 2 \\\\
-                                    &= 48\\\\
+                                    &= 48
 \end{aligned}
 $
 
@@ -6961,7 +6930,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$ and $48$
+$3$
+
+</div>
+<div class='answer'>
+
+$48$
 
 </div>
 </div>
@@ -6981,7 +6955,7 @@ $4 \quad \ldots \quad 10 \quad 13 \quad \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is increasing by $+3$. Hence, the sequence would be like:
+The next term is calculated by adding $3$ to the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -7011,7 +6985,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7$ and $16$
+$7$
+
+</div>
+<div class='answer'>
+
+$16$
 
 </div>
 </div>
@@ -7031,7 +7010,7 @@ $\ldots \quad 16 \quad 8 \quad 4 \quad  \ldots$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing. Every number is \dfrac{1}{2} of the previous number. Hence, the sequence would be like:
+The next term is calculated by dividing the previous term by $2$. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -7043,7 +7022,7 @@ $
 {(\div 2)}}   
 &&  \footnotesize{\maroonC
 {(\div 2)}}  \\
-\ldots,  &&      16  &&      8,   &&      4,  &&      \ldots
+\ldots,  &&      16,  &&      8,   &&      4,  &&      \ldots
 \end{matrix}
 $
 
@@ -7061,7 +7040,12 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$32$ and $2$
+$32$
+
+</div>
+<div class='answer'>
+
+$2$
 
 </div>
 </div>
@@ -7081,7 +7065,7 @@ $\ldots \quad 6 \quad  3 \quad  0  \quad    -3$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The difference between the terms is decreasing by (-3). Hence, the sequence would be like:
+The next term is calculated by subtracting $3$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}

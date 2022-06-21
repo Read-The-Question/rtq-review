@@ -1,9 +1,487 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-blocked"
 title: "TopicPaper - Sequence - 4 - BLOCKED"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>D33DC09F-B58A-476F-A745-66D21A031401</p>
+</div>
+<div class='papername'>
+<p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:2</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write down the next two numbers in each of the following sequences.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$-2.0, -1.7, -1.4 , -1.1$    
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $0.3$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}
+&&  \footnotesize{\maroonC
+{(+0.3)}}  \\
+-2.0,  &&   -1.7,  &&   -1.4,  &&   -1.1,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= -1.1 + 0.3 \\\\
+                              &= -0.8 \\\\
+\text{Second missing number}  &= -0.8 + 0.3 \\\\
+                              &= -0.5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-0.8$
+
+</div>
+<div class='answer'>
+
+$-0.5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$15, 11,  7, 3$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by subtracting $4$ from the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}
+&&  \footnotesize{\maroonC
+{(-4)}}  \\
+15,  &&   11,  &&   7,  &&   3,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 3 - 4 \\\\
+                              &= -1 \\\\
+\text{Second missing number}  &= -1 - 4 \\\\
+                              &= -5
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-1$
+
+</div>
+<div class='answer'>
+
+$-5$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$0 , \dfrac {3} {5}, 1\dfrac {1} {5}, 1\dfrac {4} {5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $\dfrac {3} {5}$ to the previous term. Hence, the sequence would be:
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}
+&&  \footnotesize{\maroonC
+{(+ \dfrac {3} {5})}}  \\
+0,  &&   \dfrac {3} {5},  &&   1 \dfrac {1} {5},  &&   1 \dfrac {4} {5},  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 1 \dfrac {4} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {9 + 3} {5} \\\\
+                              &= \dfrac {12} {5} \\\\
+                              &= 2 \dfrac {2} {5} \\\\
+\text{Second missing number}  &= 2 \dfrac {2} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12} {5} + \dfrac {3} {5} \\\\
+                              &= \dfrac {12 + 3} {5} \\\\
+                              &= \dfrac {15} {5} \\\\
+                              &= \dfrac {3 \times 5} {5} \\\\
+                              &= \dfrac {3 \times \cancel {5}} {\cancel {5}} \\\\
+                              &= 3
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \dfrac {2} {5}$
+
+</div>
+<div class='answer'>
+
+$3$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$5, 8 , 13, 20$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin {matrix}
+&   \footnotesize{\maroonC
+{(+3)}}
+&&  \footnotesize{\maroonC
+{(+5)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}}  \\
+5,  &&   8,  &&   13,  &&   20,  &&   \ldots,  &&   \ldots
+\end {matrix}
+$
+
+$
+\begin {aligned}
+\text{First missing number}   &= 20 + 9 \\\\
+                              &= 29 \\\\
+\text{Second missing number}  &= 29 + 11 \\\\
+                              &= 40
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$29$
+
+</div>
+<div class='answer'>
+
+$40$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>466857D6-9034-43F0-A8A6-12E5F1C6D0C0</p>
+</div>
+<div class='papername'>
+<p>solihull-school--11-plus--maths--9999--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is the next number in each of these sequences?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$3, 9, 15, 21, 27, 33, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $6$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+6)}} 
+&&  \footnotesize{\maroonC
+{(+6)}}  
+&&  \footnotesize{\maroonC
+{(+6)}}   
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}}
+&&  \footnotesize{\maroonC
+{(+6)}} \\
+3,  &&    9,  &&  15,  &&   21,  &&   27, &&   33,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 33 + 6 \\\\
+                        &= 39
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$39$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$2, 5, 10, 17, 26, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+3)}} 
+&&  \footnotesize{\maroonC
+{(+5)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+9)}}
+&&  \footnotesize{\maroonC
+{(+11)}} \\
+2,  &&    5,  &&  10,  &&   17,  &&   26, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 26 + 11 \\\\
+                        &= 37
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1000, 900, 810, 730, 660, \ldots$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $\dfrac {9} {10}$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}} 
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}   
+&&  \footnotesize{\maroonC
+{(\times \dfrac{9} {10})}}  \\
+1000,  &&    900,  &&  810,  &&   730,  &&   660, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing number}   &= 660 \times \dfrac{9} {10} \\\\
+                        &= \dfrac{660 \times 9} {10} \\\\
+                        &= \dfrac{66 \cancel {0} \times 9} {1 \cancel {0}} \\\\
+                        &= 66 \times 9 \\\\
+                        &= 594
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$594$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prcr question'>
 <div class='uuid'>
@@ -644,6 +1122,289 @@ $0.16, 0.032$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>1540DF4F-AD9B-49DE-8233-4569D99EFC30</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-1:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the next two numbers for each of the following sequences.  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$3 \,\,\,\,\, 10 \,\,\,\,\, 17 \,\,\,\,\, 24 \,\,\,\,\, 31$  ...  ... 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding $7$ to the previous term. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+7)}} 
+&&  \footnotesize{\maroonC
+{(+7)}}  
+&&  \footnotesize{\maroonC
+{(+7)}}   
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+7)}}
+&&  \footnotesize{\maroonC
+{(+7)}}  \\
+3,  &&    10,  &&  17,  &&   24,  &&   31, &&   \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 31 + 7 \\\\
+                               &= 38 \\\\
+\text{Second missing number}   &= 38 + 7 \\\\
+                               &= 45
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38$
+
+</div>
+<div class='answer'>
+
+$45$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\,\, 3 \,\,\,\,\, 9 \,\,\,\,\, 27 \,\,\,\,\, 81$  ... ... 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous term by $3$. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}} 
+&&  \footnotesize{\maroonC
+{(\times 3)}}  
+&&  \footnotesize{\maroonC
+{(\times 3)}}   
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}  \\
+1,  &&    3,  &&  9,  &&   27,  &&   81, &&   \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 81 \times 3 \\\\
+                               &= 243 \\\\
+\text{Second missing number}   &= 243 \times 3 \\\\
+                               &= 729
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$243$
+
+</div>
+<div class='answer'>
+
+$729$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$3 \,\,\,\,\, 4 \,\,\,\,\, 6  \,\,\,\,\, 10  \,\,\,\,\, 18$   …  …
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by multiplying the previous sequence difference by 2. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(+1)}} 
+&&  \footnotesize{\maroonC
+{(+2)}}  
+&&  \footnotesize{\maroonC
+{(+4)}}   
+&&  \footnotesize{\maroonC
+{(+8)}}
+&&  \footnotesize{\maroonC
+{(+16)}}
+&&  \footnotesize{\maroonC
+{(+32)}}  \\
+3,  &&    4,  &&  6,  &&   10,  &&   18, &&   \ldots,  && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}    &= 18 + 16 \\\\
+                               &= 34 \\\\
+\text{Second missing number}   &= 34 + 32 \\\\
+                               &= 66
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$34$
+
+</div>
+<div class='answer'>
+
+$66$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\,\, 1 \,\,\,\,\, 2 \,\,\,\,\, 3 \,\,\,\,\, 5 \,\,\,\,\, 8$  …  … 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding together the last two terms. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+ {(0 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 1)} }
+&&  \footnotesize {\maroonC
+ {(1 + 2)} }
+&&  \footnotesize {\maroonC
+ {(2 + 3)} }
+&&  \footnotesize {\maroonC
+ {(3 + 5)} }
+&&  \footnotesize {\maroonC
+ {(5 + 8)} }
+&&  \footnotesize {\maroonC
+ {(8 + 13)} }  \\
+1,  &&  1, &&  2, &&  3, &&  5,  &&  8,  && \ldots, && \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}       &= 5 + 8 \\\\
+                                  &= 13 \\\\
+\text {Second missing number}     &= 8 + 13 \\\\
+                                  &= 21
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$13$
+
+</div>
+<div class='answer'>
+
+$21$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>9BA84A0B-7FE1-41E1-B1DA-8819C7C372AF</p>
@@ -937,6 +1698,62 @@ $37$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>1B375F52-BB72-4EF8-8C9F-B427D6323875</p>
+</div>
+<div class='papername'>
+<p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:6</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Which is the largest? 
+
+To compare, we can convert all the numbers to fractions, decimals or percentages. 
+
+In this case, there are more decimals than fractions, so let's convert all the numbers into decimals.
+
+$0.305, \quad \dfrac{1}{4}, \quad 0.3, \quad \dfrac{1}{3}, \quad 0.35$
+
+$0.305, \quad 0.25, \quad 0.3, \quad 0.33, \quad 0.35$
+
+The  largest number is $= 0.35$. 
+
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$0.35$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$0.35$
+
+</div>
+</div>
+
 
 </div>
 </li>

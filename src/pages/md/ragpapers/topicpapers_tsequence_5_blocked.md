@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-5-blocked"
 title: "TopicPaper - Sequence - 5 - BLOCKED"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -197,6 +197,277 @@ Answer $= 2007, \ 918, \ 45$
 <div class='answer'>
 
 $2007, \ 918, \ 45$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>F69A4F2E-B19C-4D45-804D-704CE0DD4F2E</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:36</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this number sequence two numbers next to each other are added together to give the following number.
+    
+$
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+3     \quad
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+\text{\textunderscore \textunderscore \textunderscore} \quad 
+19
+$
+    
+Find the missing numbers in the sequence.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the first missing number $= a$
+
+As per the question,
+
+Second missing number $= a + 3$
+
+Third missing number $= 3 + a + 3$
+
+Fifth number in the sequence $= a + 3 + 3 + a + 3$
+
+$
+\begin{aligned}
+a + 3 + 3 + a + 3 &= 19 \\\\
+2 a + 9           &= 19 \\\\
+2 a               &= 19 - 9 \\\\
+2 a               &= 10 \\\\
+a                 &= \dfrac {10} {2} \\\\
+a                 &= \dfrac {2 \times 5} {2} \\\\
+a                 &= \dfrac {\cancel {2} \times 5} {\cancel {2}} \\\\
+a                 &= 5
+\end{aligned}
+$
+
+First number $= 5$
+
+$
+\begin {aligned}
+\text {First missing number}     &= 5 \\\\
+\text {Second missing number}    &= a + 3 \\\\
+                                 &= 5 + 3 \\\\
+                                 &= 8 \\\\
+\text {Third missing number}     &= 3 + 8 \\\\
+                                 &= 11
+\end {aligned}
+$     
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$5$
+
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+<div class='answer'>
+
+$11$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>61DF5227-3001-41C5-83ED-E0E7D5D0CCB3</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:32</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The second pattern has four small squares and is made from six lines. 
+
+How many lines are needed to draw $64$ small squares?
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$18$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$18$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:23</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+tnoexplanation
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Look at this pattern:
+  
+$
+\begin{aligned} 
+6 \times 6          &=  36         \\
+66 \times 66        &=  4356       \\
+666 \times 666      &=  443556     \\
+6666 \times 6666    &=  44435556   
+\end{aligned}
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Use the pattern to fill in the spaces:
+    
+$
+\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}
+\times
+\text{\textunderscore \textunderscore \textunderscore \textunderscore \textunderscore \textunderscore}
+= 44444435555556
+$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$6666666 \times 6666666 =  44444435555556$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$6666666 \times 6666666 =  44444435555556$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many digits are in the answer to
+
+$6666666666 \times 6666666666$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$20 \ \text {digits}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \ \text {digits}$
 
 </div>
 </div>
@@ -444,6 +715,105 @@ $95$
 <div class='answer'>
 
 $191$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>D4788CA3-B338-4047-8521-069529293876</p>
+</div>
+<div class='papername'>
+<p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+ttrialerror
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Andy works out the sums of numbers as follows $1 + 2, 1 + 2 + 3, 1 + 2 + 3 + 4$ and so on. What is the first of these sums of numbers that is greater than $80$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This is a triangular number sequence.
+
+Let's start with numbers starting with $= 10$.
+
+As we need to find the sum adding up to $80$, let's start with first $10$ numbers.
+
+We also use the result from the previous calculation to save effort.
+
+| Number    |         Sum                                           | $> 80$
+|:------:   |:----------------------------------------------------: | :-----:
+|  $10$     | $1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = \red{55}$   |  No
+|  $11$     | $\text{Sum}(10) + 11 = \red{66}$                      |  No
+|  $12$     | $\text{Sum}(11) + 12 = \red{78}$                      |  No
+|  $11$     | $\text{Sum}(12) + 13 = \green{91}$                    |  Yes
+
+Answer $= 91$
+
+</div>
+<div class='working'>
+
+Is there any way other than using trial and error? This is a sum of whole numbers in a sequence and we can use the formula for the sum of whole numbers.
+
+$\text{Sum} = \dfrac {n (n+1)}{2}$ 
+
+Let's try for $n = 12$.
+
+$
+\begin{aligned}
+&= \dfrac { 12 (12 + 1)}{2} \\\\
+&= \dfrac { 12 \times 13 }{2} \\\\
+&= \dfrac { 6 \times 2 \times 13 }{2} \\\\
+&= \dfrac { 6 \times \cancel{2} \times 13 }{\cancel{2}} \\\\
+&= 6 \times 13 \\\\
+&= 78
+\end{aligned}
+$
+
+$78$ is less than $80$, so let's try for $n = 13$.
+
+$
+\begin{aligned}
+&= \dfrac { 13 (13 + 1)}{2} \\\\
+&= \dfrac { 13 \times 14 }{2} \\\\
+&= \dfrac { 13 \times 7 \times 2 }{2} \\\\
+&= \dfrac { 13 \times 7 \times \cancel{2} }{\cancel{2}} \\\\
+&= 13 \times 7 \\\\
+&= 91
+\end{aligned}
+$
+
+$91$ is greater than $80$.
+
+Answer $= 91$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$91$
 
 </div>
 </div>
@@ -806,6 +1176,101 @@ $
 <div class='answer'>
 
 Missing numbers : 10, 17, 24
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
+</div>
+<div class='papername'>
+<p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+<li>
+talgebra
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Frank is making a sequence of numbers. The first number is $1$ and the third is $9$. Frank gets his sequence by multiplying the previous value by the same number each time. Write in the three missing numbers in the sequence shown.
+
+$1$. ___________, $9$, ___________, ___________
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+Let the difference between the number $= a$
+
+$
+\begin{aligned}
+1 \times a \times a             &= 9 \\\\
+a^2                             &= 9 \\\\
+a                               &= \sqrt {3} \\\\
+a                               &= 3
+\end{aligned}
+$
+
+As per the question, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}}
+&&  \footnotesize{\maroonC
+{(\times 3)}} \\
+1,  &&    1 \times 3,  &&  9,  &&   9 \times 3,  &&   9 \times 3 \times 3 \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}     &= 1 \times 3 \\\\
+                                &= 3 \\\\
+\text{Second missing number}    &= 9 \times 3 \\\\
+                                &= 27 \\\\
+\text{Third missing number}     &= 9 \times 3 \times 3 \\\\
+                                &= 81
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$3$
+
+</div>
+<div class='answer'>
+
+$27$
+
+</div>
+<div class='answer'>
+
+$81$
 
 </div>
 </div>

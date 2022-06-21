@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tsequence-5"
 title: "TopicPaper - Sequence - 5"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <div class='paper'>
 <div class='meta'>
@@ -640,7 +640,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>F69A4F2E-B19C-4D45-804D-704CE0DD4F2E</p>
 </div>
@@ -648,15 +648,18 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-2:0:36</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tsequence
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -678,15 +681,15 @@ Find the missing numbers in the sequence.
 <div class='workings'>
 <div class='working'>
 
-Let the first number $= a$
+Let the first missing number $= a$
 
 As per the question,
 
-Third number $= a + 3$
+Second missing number $= a + 3$
 
-Fourth number $= 3 + a + 3$
+Third missing number $= 3 + a + 3$
 
-Fifth number $= a + 3 + 3 + a + 3$
+Fifth number in the sequence $= a + 3 + 3 + a + 3$
 
 $
 \begin{aligned}
@@ -701,50 +704,40 @@ a                 &= 5
 \end{aligned}
 $
 
-Hence the sequence $= 5, \quad 3, \quad 8, \quad 11, \quad 19$
+First number $= 5$
+
+$
+\begin {aligned}
+\text {First missing number}     &= 5 \\\\
+\text {Second missing number}    &= a + 3 \\\\
+                                 &= 5 + 3 \\\\
+                                 &= 8 \\\\
+\text {Third missing number}     &= 3 + 8 \\\\
+                                 &= 11
+\end {aligned}
+$     
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$5, \quad 3, \quad 8, \quad 11, \quad 19$
+$5$
+
+</div>
+<div class='answer'>
+
+$8$
+
+</div>
+<div class='answer'>
+
+$11$
 
 </div>
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' id='FORM-F69A4F2E-B19C-4D45-804D-704CE0DD4F2E' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F69A4F2E-B19C-4D45-804D-704CE0DD4F2E'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -1007,7 +1000,7 @@ $81$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>61DF5227-3001-41C5-83ED-E0E7D5D0CCB3</p>
 </div>
@@ -1015,10 +1008,10 @@ $81$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-2:0:32</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1056,37 +1049,6 @@ $18$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' id='FORM-61DF5227-3001-41C5-83ED-E0E7D5D0CCB3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-61DF5227-3001-41C5-83ED-E0E7D5D0CCB3'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -1571,7 +1533,7 @@ $4$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B</p>
 </div>
@@ -1579,10 +1541,10 @@ $4$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-2:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1640,14 +1602,16 @@ $
 <div class='workings'>
 <div class='working'>
 
-$6666666 \times 6666666$
+As per the question,
+
+$6666666 \times 6666666 =  44444435555556$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$6666666 \times 6666666$
+$6666666 \times 6666666 =  44444435555556$
 
 </div>
 </div>
@@ -1666,14 +1630,16 @@ $6666666666 \times 6666666666$?
 <div class='workings'>
 <div class='working'>
 
-$20$
+As per the question,
+
+$20 \ \text {digits}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20$
+$20 \ \text {digits}$
 
 </div>
 </div>
@@ -1682,37 +1648,6 @@ $20$
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' id='FORM-B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B3E1E9F6-E5A9-4317-B19C-CB1A7E91050B'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -2498,7 +2433,9 @@ $
 
 $
 \begin{aligned}
-7 \text{th term}        &= 18 + 4 + 4 \\\\
+\text {Sixth term}      &= 18 + 4 \\\\
+                        &= 22 \\\\
+\text {Seventh term}    &= 22 + 4 \\\\
                         &= 26
 \end{aligned}
 $
@@ -2780,7 +2717,7 @@ $94 \quad \boxed{\phantom{11}} \quad 80 \quad 73 \quad 66$
 ABBR:  Let's find the relation between the consecutive terms of the sequence.
 
 
-The next term is calculated by subtracting $7z$ from the previous term. Hence, the sequence would be:
+The next term is calculated by subtracting $7$ from the previous term. Hence, the sequence would be:
 
 $
 \begin{matrix}
@@ -3473,7 +3410,7 @@ $57$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>D4788CA3-B338-4047-8521-069529293876</p>
 </div>
@@ -3481,10 +3418,10 @@ $57$
 <p>the-manchester-grammar-school--11-plus--maths--2012--arithmetic-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3569,37 +3506,6 @@ $91$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='D4788CA3-B338-4047-8521-069529293876' id='FORM-D4788CA3-B338-4047-8521-069529293876' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-D4788CA3-B338-4047-8521-069529293876'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -4472,7 +4378,7 @@ Missing numbers : 10, 17, 24
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>B413F8C6-736A-43A8-89EB-3A28FF88A2B5</p>
 </div>
@@ -4480,10 +4386,10 @@ Missing numbers : 10, 17, 24
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-5:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4548,43 +4454,22 @@ $
 <div class='answers'>
 <div class='answer'>
 
-Missing Numbers : $3 , 27 , 81$
+$3$
+
+</div>
+<div class='answer'>
+
+$27$
+
+</div>
+<div class='answer'>
+
+$81$
 
 </div>
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='B413F8C6-736A-43A8-89EB-3A28FF88A2B5' id='FORM-B413F8C6-736A-43A8-89EB-3A28FF88A2B5' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B413F8C6-736A-43A8-89EB-3A28FF88A2B5'>Initial</p>
-</div>
 </div>
 </li>
 <li>

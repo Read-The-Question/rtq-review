@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-3-blocked"
 title: "TopicPaper - Sequence - 3 - BLOCKED"
-date: 2022-06-20 22:07:11
+date: 2022-06-21 08:25:37
 ---
 <ul class='question default-decimal'>
 <li>
@@ -955,6 +955,102 @@ $720$
 <div class='answer'>
 
 $5040$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>62C66561-F3E0-4965-B7E2-15DAB3203A00</p>
+</div>
+<div class='papername'>
+<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Below is a repeated pattern of numbered shapes.
+
+![missing image](/papers/missing_image.svg)
+ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+If the pattern continues in the same way, write the numbers of the next two *stars* in the pattern.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$11, \ 16$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11, \ 16$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What shape will number $35$ be?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$\text{Circle}$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\text{Circle}$
 
 </div>
 </div>

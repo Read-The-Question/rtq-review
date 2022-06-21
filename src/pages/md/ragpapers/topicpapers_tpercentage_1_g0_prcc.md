@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0-prcc"
 title: "TopicPaper - Percentage - 1 - G0 - PRCC"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <ul class='question default-decimal'>
 <li>

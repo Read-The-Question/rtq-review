@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-5"
 title: "TopicPaper - Areaperimeter - 5"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -23,7 +23,7 @@ date: 2022-06-21 14:32:22
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -85,7 +85,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -147,7 +147,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -216,7 +216,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2017--sample-paper-8:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -412,7 +412,7 @@ Change blue answer accordingly.
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -516,7 +516,7 @@ Pertimeter of a rectangle =  2 x length x width = sum of all sides
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -628,7 +628,7 @@ Blue answer change $18 \ \text{cm}^2$
 <p>sevenoaks-school--11-plus--maths--2018--sample-paper-9:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -773,7 +773,7 @@ Area of a rectangle = length x width
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -833,7 +833,7 @@ TODOANSWER
 <p>sevenoaks-school--11-plus--maths--2019--sample-paper-10:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -890,7 +890,7 @@ TODOANSWER
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:1:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1120,7 +1120,7 @@ Area of a square &= Side^2
 <p>solihull-school--11-plus--maths--9999--sample-paper-1:2:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1285,7 +1285,7 @@ $6$
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1599,7 +1599,7 @@ solve like you did...
 <p>solihull-school--11-plus--maths--9999--sample-paper-2:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -1711,7 +1711,7 @@ step 5 will be = 5 x 100 and solve till end.. (No need to write end sentence.) I
 <p>st-albans-school--11-plus--maths--2019--sample-paper-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1956,7 +1956,7 @@ $32 \text {cm}$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2066,7 +2066,7 @@ $14 \ \text {cm}, 7 \ \text {cm}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2162,7 +2162,7 @@ $63 \text{m}^2, 32 \text {m}$
 <p>st-francis-college--11-plus--maths--2017--sample-paper-1:0:26</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2259,7 +2259,7 @@ $30 \ \text{cm}^2$
 <p>st-georges-college--11-plus--maths--2012--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2349,7 +2349,7 @@ Area &= 4 x 7.1
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2555,7 +2555,7 @@ change blue ansawer accrodingly.
 <p>st-georges-college--11-plus--maths--9999--sample-paper-2:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2758,7 +2758,7 @@ solve.. use correct units and spacing before units.. if needed
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -2862,7 +2862,7 @@ change step 1 : Jump the sides.
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2920,7 +2920,7 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-1:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2992,7 +2992,7 @@ $10 \ \text{cm}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3058,7 +3058,7 @@ $12 \ \text{m}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:1</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3123,7 +3123,7 @@ $64$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3195,7 +3195,7 @@ $4 \ \text{m}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3338,7 +3338,7 @@ $64 \ \text{cm}$
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3474,7 +3474,7 @@ Reflect the triangle in the x-axis and label your shape $B$.
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3635,7 +3635,7 @@ $18 \ \text{cm}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3746,7 +3746,7 @@ WRONG WORKING check tarea in site EDIT : Nothing changed??
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_g0</p>
+<p>rag_na_g0</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -3846,7 +3846,7 @@ $50 \ \text{cm}^{2}$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4022,7 +4022,7 @@ $36$
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:5</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4151,7 +4151,7 @@ Follow coding guilines.. no need to put l and b in text.. Write the statement(us
 <p>streatham-and-clapham-high-school--11-plus--maths--2019--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -4218,7 +4218,7 @@ TODOANSWER
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4320,7 +4320,7 @@ line 1: As per the question,  (A) (,)                                           
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4426,7 +4426,7 @@ line 1, 2, 3: Delete                                                            
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:0:22</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -4605,7 +4605,7 @@ part A                                                                          
 <p>streatham-and-clapham-high-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

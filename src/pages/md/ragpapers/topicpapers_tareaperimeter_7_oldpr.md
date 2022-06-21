@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-7-oldpr"
 title: "TopicPaper - Areaperimeter - 7 - OLDPR"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 14:32:22
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-1:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -202,7 +202,7 @@ PArt B = Not solved.solve please
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2015--group-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -314,7 +314,7 @@ not directly related. thou.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -416,7 +416,7 @@ not directly related. thou.
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:0:36</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -644,7 +644,7 @@ Blue answer = 18 Stickers
 <p>the-manchester-grammar-school--11-plus--maths--2016--arithmetic-a:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -758,7 +758,7 @@ rtq_abbr_katex_formula_perimeter_rectangle
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-1:0:19</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -886,7 +886,7 @@ Shaded Area = Area of ABCD - Area of rectangle inside ABCD (there is no T as you
 <p>the-perse-school--11-plus--maths--9999--specimen-paper-3:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

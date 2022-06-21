@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-oldpr"
 title: "TopicPaper - Areaperimeter - 2 - OLDPR"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 14:32:22
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -203,7 +203,7 @@ Line 3 = 3 x w
 <p>colfes-school--11-plus--maths--9999--sample-paper:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

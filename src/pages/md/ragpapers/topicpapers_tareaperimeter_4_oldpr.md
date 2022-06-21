@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-oldpr"
 title: "TopicPaper - Areaperimeter - 4 - OLDPR"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 14:32:22
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -169,7 +169,7 @@ part b formula ..katex error.
 <p>reigate-grammar-school--11-plus--maths--2020--sample-paper-7:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -274,7 +274,7 @@ Length of path change to  Width of path
 <p>sevenoaks-school--11-plus--maths--2015--sample-paper-6:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -380,7 +380,7 @@ Wrong working format.. simply equal to dfrac {area of abc} {area of xyz}
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>
@@ -532,7 +532,7 @@ Line 1.  So, and again down So, (delete 1 So,)
 <p>sevenoaks-school--11-plus--maths--2016--sample-paper-7:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_oldpr</p>
+<p>rag_na_oldpr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prcr</p>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-8-notstarted"
 title: "TopicPaper - Areaperimeter - 8 - NOTSTARTED"
-date: 2022-06-21 14:32:22
+date: 2022-06-21 14:58:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 14:32:22
 <p>the-peterborough-school--11-plus--maths--9999--sample-paper-1:0:7</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -142,7 +142,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -336,7 +336,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -467,7 +467,7 @@ TODOANSWER
 <p>tonbridge-school--scholarship--maths--2018--sample-paper-2:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -630,7 +630,7 @@ TODOANSWER
 <p>trinity-school-croydon--11-plus--maths--9999--sample-paper-1:0:18</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_na_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

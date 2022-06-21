@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g0"
 title: "TopicPaper - Money - 1 - G0"
-date: 2022-06-21 14:58:12
+date: 2022-06-21 19:32:41
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>46664E26-E770-4B0F-B7E5-14B5277F63F5</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-21 14:58:12
 <p>rag_wf_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -55,12 +55,16 @@ Neruka bought a pen costing $\pounds 4.93$, a pencil costing $24 \text{p}$ and a
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 $
 \begin{aligned}
-\text{Money spent} &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
-                   &= \pounds 4.93 + \pounds \dfrac {24} {100} + \pounds \dfrac {58} {100} \\\\
-                   &= \pounds 4.93 + \pounds 0.24 + \pounds 0.58 \\\\
-                   &= \pounds 5.75
+\text{Money spent}  &= \pounds 4.93 + 24 \text{p} + 58 \text{p} \\\\
+                    &= \pounds 4.93 + \pounds 0.24 + \pounds 0.58 \\\\
+                    &= \pounds 5.75
 \end{aligned}
 $
 
@@ -90,8 +94,8 @@ How much change did she get?
 
 $
 \begin{aligned}
-\text{Change received} &= 20 - 5.75 \\\\
-                       &= \pounds 14.25
+\text{Change received}  &= \pounds 20 - \pounds 5.75 \\\\
+                        &= \pounds 14.25
 \end{aligned}
 $
 
@@ -143,7 +147,7 @@ $\pounds 14.25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>220A15B1-DE6B-4182-AB32-E904EA0D4428</p>
 </div>
@@ -154,7 +158,7 @@ $\pounds 14.25$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -200,17 +204,19 @@ If Ola completes $8 \ \text{miles}$, how much money will he collect from Dad?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 As per the table,
 
 $
 \begin{aligned}
-\text {Money he collects from dad}    &= \pounds 5 + 8 \times 25 \ \text {p} \\\\
-                                      &= \pounds 5 + 8 \times \pounds \dfrac {25} {100} \\\\
-                                      &= 5 + \dfrac {8 \times 25} {100} \\\\
-                                      &= 5 + \dfrac {2 \times 4 \times 25} {4 \times 25} \\\\
-                                      &= 5 + \dfrac {2 \times \cancel {4} \times \cancel {25}} {\cancel {4} \times \cancel {25}} \\\\
-                                      &= 5 + 2 \\\\
-                                      &= \pounds 7
+\text {Money collected Dad} &= \pounds 5 + 8 \times 25 \text {p} \\\\
+                            &= \pounds 5 + 8 \times \pounds 0.25 \\\\
+                            &= 5 + 2 \\\\
+                            &= \pounds 7
 \end{aligned}
 $
 
@@ -236,15 +242,18 @@ If Ola completes $8 \ \text{miles}$, how much will he collect from Grandad?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 As per the table,
 
 $
 \begin{aligned}
-\text {Money he collects from grandad}    &=  10 \ \text {p} + 20 \ \text {p} + 30 \ \text {p} + 40 \ \text {p} + 50 \ \text {p} + 60 \ \text {p} + 70 \ \text {p} + 80 \ \text {p} \\\\
-                                          &= \pounds \dfrac {10} {100} + \pounds \dfrac {20} {100} + \pounds \dfrac {30} {100} + \pounds \dfrac {40} {100} + \pounds \dfrac {50} {100} + \pounds \dfrac {60} {100} + \pounds \dfrac {70} {100} + \pounds \dfrac {80} {100} \\\\
-                                          &= \dfrac {10 + 20 + 30 + 40 + 50 + 60 + 70 + 80} {100} \\\\
-                                          &= \dfrac {360} {100} \\\\
-                                          &= \pounds 3.60
+\text {Money collected from grandad}    &= 10 \text {p} + 20 \text {p} + 30 \text {p} + 40 \text {p} + 50 \text {p} + 60 \text {p} + 70 \text {p} + 80 \text {p} \\\\
+                                        &= \pounds 0.10 + \pounds 0.20 + \pounds 0.30 + \pounds 0.40 + \pounds 0.50 + \pounds 0.60 + \pounds 0.70 + \pounds 0.80 \\\\
+                                        &= \pounds 3.60
 \end{aligned}
 $
 
@@ -270,17 +279,19 @@ If Ola completes $8 \ \text{miles}$, how much money will he collect from everyon
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 As per the table,
 
 $
 \begin{aligned}
-\text {Total Money he collects from everyone}    &= \pounds 7 + \pounds 3.60 + 50 \ \text {p} \times 8 + \pounds 10 + \pounds 15 \\\\
-                                                 &= \pounds 7 + \pounds 3.60 + \pounds \dfrac {50} {100} \times 8 + \pounds 10 + \pounds 15 \\\\
-                                                 &= 7 + 3.60 + \dfrac {50 \times 8} {100} + 10 + 15 \\\\
-                                                 &= 10.60 + \dfrac {50 \times 2 \times 4} {50 \times 2} + 25 \\\\
-                                                 &= 10.60 + \dfrac {\cancel {50} \times \cancel {2} \times 4} {\cancel {50} \times \cancel {2}} + 25 \\\\
-                                                 &= 10.60 + 4 + 25 \\\\
-                                                 &= \pounds 39.60
+\text {Money collected from everyone}   &= \pounds 7 + \pounds 3.60 + 8 \times 50 \text {p} + \pounds 10 + \pounds 15 \\\\
+                                        &= \pounds 7 + \pounds 3.60 + 8 \times \pounds 0.50 + \pounds 10 + \pounds 15 \\\\
+                                        &= 10.60 + 4 + 25 \\\\
+                                        &= \pounds 39.60
 \end{aligned}
 $
 
@@ -310,10 +321,15 @@ As per the table,
 
 $
 \begin{aligned}
-\text {Money he collects for running 10 miles}    &= 7 + 1 + 3.60 + 0.90 + 1 + 4 + 1 + 10 + 15 \\\\
-                                                  &= \pounds 43.50 \\\\
-\text {Extra money he earned}                     &= 43.50 - 39.60 \\\\
-                                                  &= \pounds 3.90
+\text {Money collected from running} \ 10 \ \text {miles}    &= \pounds 7 + \pounds 1 + \pounds 3.60 + \pounds 0.90 + \pounds 1 + \pounds 4 + \pounds 1 + \pounds 10 + \pounds 15 \\\\
+                                                             &= \pounds 43.50
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Extra money collected}       &= 43.50 - 39.60 \\\\
+                                    &= \pounds 3.90
 \end{aligned}
 $
 
@@ -322,7 +338,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3.90$
+$\pounds 3.90$
 
 </div>
 </div>
@@ -365,7 +381,7 @@ $3.90$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
 </div>
@@ -376,7 +392,7 @@ $3.90$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -412,15 +428,17 @@ Sasha is selling greetings cards and gifts for Mothers' Day.
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
 <div class='question subquestion'>
 
-What is the total cot of a large card & envelope, candles and a small chocolate selection?
+What is the total cost of a large card & envelope, candles and a small chocolate selection?
 
 </div>
 <div class='workings'>
 <div class='working'>
 
+As per the table,
+
 $
 \begin{aligned}
-\text {Total cost}    &= 2.59 + 5.49 + 1.49 \\\\
+\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
                       &= \pounds 9.57
 \end{aligned}
 $
@@ -449,7 +467,8 @@ How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medi
 
 $
 \begin{aligned}
-\text {Change needed}    &= 10 - (1.79 + 3.65) \\\\
+\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
+                         &= 10 - 5.44 \\\\
                          &= \pounds 4.56
 \end{aligned}
 $
@@ -459,7 +478,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.56$
+$\pounds 4.56$
 
 </div>
 </div>
@@ -481,19 +500,29 @@ Which three prices total $\pounds 7.73$?
 
 $
 \begin{aligned}
-&= 2.59 + 1.49 + 3.65 \\\\
+&= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
 &= \pounds 7.73
 \end{aligned}
 $
 
-$2.59, 1.49, 3.65$ totals to $\pounds 7.73$.
+$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$2.59, 1.49, 3.65$
+$\pounds 2.59$
+
+</div>
+<div class='answer'>
+
+$\pounds 1.49$
+
+</div>
+<div class='answer'>
+
+$\pounds 3.65$
 
 </div>
 </div>
@@ -567,11 +596,11 @@ Robbie saves $\pounds 3.50$ every week. How much does he save in a year?
 <div class='workings'>
 <div class='working'>
 
-As we know, there are $52$ weeks in a year. Using that,
+As we know, there are $52$ weeks in a year.
 
 $
 \begin{aligned}
-\text {Savings in a year}      &= 52 \times 3.50  \\\\
+\text {Savings in a year}      &= 52 \times \pounds 3.50  \\\\
                                &= \pounds 182
 \end{aligned}
 $
@@ -621,7 +650,7 @@ $\pounds 182$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
 </div>
@@ -632,7 +661,7 @@ $\pounds 182$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,7 +680,7 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Total charges}    &= (1.60 \times 2) + (2.40 \times 3) + 1.50 \\\\
+\text{Total cost}       &= 2 \times \pounds 1.60 + 3 \times \pounds 2.40 + \pounds 1.50 \\\\
                         &= 3.20 + 7.20 + 1.50 \\\\
                         &= \pounds 11.90 \\\\
 \text{Change left }     &= 20 - 11.90 \\\\
@@ -704,7 +733,7 @@ $\pounds 8.10$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>03945F7F-BD1D-48F8-8123-918A9227D8EC</p>
 </div>
@@ -715,7 +744,7 @@ $\pounds 8.10$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -785,7 +814,7 @@ $\pounds 1.720$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE</p>
 </div>
@@ -796,7 +825,7 @@ $\pounds 1.720$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -817,7 +846,7 @@ $
 \begin{aligned}
 &= \pounds 17.20 \div 8 \\\\
 &= \dfrac {17.20} {8} \\\\
-&= \pounds 2.150
+&= \pounds 2.15
 \end{aligned}
 $
 
@@ -826,7 +855,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.150$
+$\pounds 2.15$
 
 </div>
 </div>
@@ -866,7 +895,7 @@ $\pounds 2.150$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>70533228-35C2-47ED-92E3-B482964231E0</p>
 </div>
@@ -877,7 +906,7 @@ $\pounds 2.150$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -895,18 +924,17 @@ I buy $11$ chocolate bars costing $38 \text{p}$ each. How much change would I ge
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert all the costs into $\pounds$.
+.
 
-As per the question,
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned} 
-\text {Cost of chocolate Bars}  &= 11 \times 38 \ \text{p} \\\\
-                                &= 11 \times \pounds \dfrac {38} {100} \\\\
-                                &= 11 \times \pounds 0.38 \\\\
-                                &= \pounds 4.18 \\\\
-\text {Change recieved}         &= 10 - 4.18 \\\\
-                                &= \pounds 5.82
+\text {Money spent}         &= 11 \times 38 \text{p} \\\\
+                            &= 11 \times \pounds 0.38 \\\\
+                            &= \pounds 4.18 \\\\
+\text {Change recieved}     &= 10 - 4.18 \\\\
+                            &= \pounds 5.82
 \end{aligned}
 $
 
@@ -955,7 +983,7 @@ $\pounds 5.82$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>27EEE3D8-3D73-41C4-9074-5E270CFC1767</p>
 </div>
@@ -966,7 +994,7 @@ $\pounds 5.82$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -984,18 +1012,17 @@ I buy $11$ chocolate bars costing $27 \text{p}$ each. How much change would I ge
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert all the costs into $\pounds$.
+.
 
-As per the question,
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned} 
-\text {Cost of chocolate Bars}  &= 11 \times 27 \ \text{p} \\\\
-                                &= 11 \times \pounds \dfrac {27} {100} \\\\
-                                &= 11 \times \pounds 0.27 \\\\
-                                &= \pounds 2.97 \\\\
-\text {Change recieved}         &= 5 - 2.97 \\\\
-                                &= \pounds 2.03
+\text {Money spent}         &= 11 \times 27 \text{p} \\\\
+                            &= 11 \times \pounds 0.27 \\\\
+                            &= \pounds 2.97 \\\\
+\text {Change recieved}     &= 5 - 2.97 \\\\
+                            &= \pounds 2.03
 \end{aligned}
 $
 
@@ -1044,7 +1071,7 @@ $\pounds 2.03$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A2C2EC3B-3FB5-49C8-859C-0063205198F7</p>
 </div>
@@ -1055,7 +1082,7 @@ $\pounds 2.03$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1074,11 +1101,9 @@ What is $\dfrac {3} {4}$ of $\pounds 4.48$?
 
 $
 \begin{aligned}
-&= \dfrac {3} {4} \times 4.48 \\\\
+&= \dfrac {3} {4} \ \text {of} \ \pounds 4.48 \\\\
 &= \dfrac {3 \times 4.48} {4} \\\\
-&= \dfrac {3 \times 1.12 \times 4} {4} \\\\
-&= \dfrac {3 \times 1.12 \times \cancel {4}} {\cancel {4}} \\\\
-&= 3 \times 1.12 \\\\
+&= \dfrac {13.44} {4} \\\\
 &= \pounds 3.36
 \end{aligned}
 $
@@ -1128,7 +1153,7 @@ $\pounds 3.36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8CB9E9FF-C1CF-493D-808B-3F8353350421</p>
 </div>
@@ -1139,12 +1164,15 @@ $\pounds 3.36$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
 <li>
 tmoney
+</li>
+<li>
+talgebra
 </li>
 </ul>
 </div>
@@ -1156,22 +1184,29 @@ What percentage of $\pounds 5$ is $\pounds 1$?
 <div class='workings'>
 <div class='working'>
 
+Let the percentage $= a$
+
+As per the question,
+
 $
 \begin{aligned}
-&=  \dfrac {1} {5} \times 100 \\\\
-&=  \dfrac {100} {5} \\\\
-&=  \dfrac {20 \times 5} {5} \\\\
-&=  \dfrac {20 \times \cancel {5}} {\cancel{5}} \\\\
-&=  20 \ \%
+a \% \ \text {of} \ \pounds 5   &= \pounds 1 \\\\
+\dfrac {a} {100} \times 5       &= 1 \\\\
+a                               &= \dfrac {1 \times 100} {5} \\\\
+a                               &= \dfrac {20 \times 5} {5} \\\\
+a                               &= \dfrac {20 \times \cancel {5}} {\cancel {5}} \\\\
+a                               &= 20 \%
 \end{aligned}
 $
+
+$20 \%$ of $\pounds 5$ is $\pounds 1$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \%$
+$20 \%$
 
 </div>
 </div>

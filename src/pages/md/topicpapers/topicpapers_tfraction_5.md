@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-5"
 title: "TopicPaper - Fraction - 5"
-date: 2022-06-21 14:58:12
+date: 2022-06-21 19:32:41
 ---
 <div class='paper'>
 <div class='meta'>
@@ -239,7 +239,7 @@ $8 \dfrac {1} {3}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>943C751C-1BA0-4C56-92E2-2D4FE404BCEB</p>
 </div>
@@ -247,7 +247,7 @@ $8 \dfrac {1} {3}$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:21</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -264,30 +264,8 @@ tfraction
 Work out the following giving your answers in fractions. 
 
 </div>
-<div class='workings'>
-<div class='working'>
 
-TODOWORKING
 
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
 <ul class='subquestion lower-alpha'>
 <li>
 <div class='question_envelope rag_not_found rag_not_found subquestion'>
@@ -299,32 +277,41 @@ $\dfrac{1}{2} + \dfrac{1}{4} =$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {1} {2} + \dfrac {1} {4} \\\\
+&= \dfrac {2} {2 \times 2} + \dfrac {1} {4} \\\\
+&= \dfrac {2} {4} + \dfrac {1} {4} \\\\
+&= \dfrac {2 + 1} {4} \\\\
+&= \dfrac {3} {4}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {1} {2} + \dfrac {1} {4} + \dfrac {1} {8} \\\\
+&= \dfrac {4} {2 \times 4} + \dfrac {2} {4 \times 2} + \dfrac {1} {8} \\\\
+&= \dfrac {4} {8} + \dfrac {2} {8} + \dfrac {1} {8} \\\\
+&= \dfrac {4 + 2 + 1} {8} \\\\
+&= \dfrac {7} {8}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+&= \dfrac {1} {2} + \dfrac {1} {4} + \dfrac {1} {8} + \dfrac {1} {16} \\\\
+&= \dfrac {8} {2 \times 8} + \dfrac {4} {4 \times 4} + \dfrac {2} {8 \times 2} + \dfrac {1} {16} \\\\
+&= \dfrac {8} {16} + \dfrac {4} {16} + \dfrac {2} {16} + \dfrac {1} {16} \\\\
+&= \dfrac {8 + 4 + 2 + 1} {16} \\\\
+&= \dfrac {15} {16}
+\end{aligned}
+$
 
 </div>
 <div class='working'>
@@ -351,32 +338,17 @@ TODOWORKING
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac {3} {4}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac {7} {8}$
 
 </div>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {15} {16}$
 
 </div>
 <div class='answer'>

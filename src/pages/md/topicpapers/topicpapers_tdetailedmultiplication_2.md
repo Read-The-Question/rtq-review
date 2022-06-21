@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-06-21 14:58:12
+date: 2022-06-21 19:32:41
 ---
 <div class='paper'>
 <div class='meta'>
@@ -351,7 +351,7 @@ $12$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AE9309E3-39F8-4402-875E-80C8ABE317C4</p>
 </div>
@@ -359,7 +359,7 @@ $12$
 <p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:0:2</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -391,37 +391,61 @@ E: $1440$
 
 $
 \begin{array}{cccccccccccccc}
-            &       &              & 4     & 5     \\
-{}\times    &       & 1              & 6     & 0     \\
+       &   1   &   6   &   0 \\
+\times &       &   4   &   5 \\
 \hline
-            &      &       8       & 0     & 0     \\
-           &      6&       4       & 0     & 0     \\
+       &   8   &   0   &   0 \\
+   6   &   4   &   0   &   0 \\
 \hline
-           &      7&       2       & 0     & 0
+   7   &   2   &   0   &   0
 \end{array}
 $
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-7200
-
+<div class='option'>
+<p>C</p>
 </div>
 <div class='answer'>
 
-TODOANSWER
+$7200$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AE9309E3-39F8-4402-875E-80C8ABE317C4' id='FORM-AE9309E3-39F8-4402-875E-80C8ABE317C4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AE9309E3-39F8-4402-875E-80C8ABE317C4'>Initial</p>
+</div>
 </div>
 </li>
 <li>

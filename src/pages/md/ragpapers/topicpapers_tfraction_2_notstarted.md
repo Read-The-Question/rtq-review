@@ -1,58 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-notstarted"
 title: "TopicPaper - Fraction - 2 - NOTSTARTED"
-date: 2022-06-21 14:58:12
+date: 2022-06-21 19:32:41
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>54F14BD1-9891-460E-AADD-7CA13489DC77</p>
-</div>
-<div class='papername'>
-<p>dulwich-college--11-plus--maths--9999--specimen-paper-a:0:22</p>
-</div>
-<div class='rag'>
-<p>rag_ar_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The diagram below is made from three squares.
-
-![missing image](/papers/missing_image.svg)
-
-
-Calculate the fraction of the larger square that is shaded, giving your answer in its lowest form.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac {1} {2}$
-
-</div>
-</div>
-
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>

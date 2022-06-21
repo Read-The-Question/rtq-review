@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-talgebra-16"
 title: "TopicPaper - Algebra - 16"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -445,7 +445,9 @@ Let the cost of an apple (in pence) $= a$
 
 Let the cost of an orange (in pence) $= b$
 
-It is really important to convert into the right units. Let's convert all the costs into pence.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
+Let's convert all the costs into pence.
 
 As per the question,
 
@@ -1487,7 +1489,8 @@ Number of $10 \text{p}$ coins $= 2a$
 
 Number of $20 \text{p}$ coins $= 4a$
 
-It is really important to convert into the right units. 
+ABBR: It is really important to use the right units in calculations and convert where required.
+.
 The amount is given in pounds and the coins are in pence. Let's convert the total amount into pence.
 
 As per the question,

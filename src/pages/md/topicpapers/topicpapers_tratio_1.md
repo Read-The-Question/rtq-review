@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tratio-1"
 title: "TopicPaper - Ratio - 1"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -14,6 +14,158 @@ date: 2022-06-21 12:34:13
 
 # Section A
 <ul class='question decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D24B2AA0-CEC4-4120-B456-6DFE977605BF</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much will $46$ lollipops cost if they cost $\pounds 1.25$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+1  \text{ lollipop}                 &: \pounds 1.25 \\\\
+1 \times 46  \text{ lollipops}         &: \pounds 1.25 \times 46 \\\\
+46  \text{ lollipops}                 &: \pounds 57.50
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 57.50$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>5860A867-7759-4511-AF82-70728B52390C</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jeff has $8$ pizzas to share between himself and his friends.
+
+If each person is to get $\dfrac{2}{3}$ of a pizza how many friends can he feed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+\dfrac{2}{3}  \text{ pizzas}                                                             &: 1 \text{ people} \\\\
+\dfrac{2}{3} \times \dfrac{3}{2} \text{ pizzas}                                         &: 1 \times \dfrac{3}{2} \text{ people} \\\\
+\dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} \text{ pizzas}     &: 1 \times \dfrac{3}{2} \text{ people} \\\\
+1 \text{ pizza}                                                                         &: \dfrac{3}{2} \text{ people} \\\\
+1 \times 8  \text{ pizzas}                                                                 &: \dfrac{3}{2} \times 8 \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 8}{2}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times 2}{2}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: 12  \text{ people} \\\\
+\end{aligned}
+$
+
+Since we have to find the number of friends and Jeff is also counted for in the total count, adjust the answer accordingly.
+
+$
+\begin{aligned}
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$ friends
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' id='FORM-5860A867-7759-4511-AF82-70728B52390C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5860A867-7759-4511-AF82-70728B52390C'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -3668,188 +3820,6 @@ $0.026 \ \text {g}$
 
 <p class='review_status initial' id='REVIEW-STATUS-7FE7F568-7B71-4112-B005-8AAA4EE29378'>Initial</p>
 </div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>1A426F4F-4B59-4DF9-A794-DCC831294DCC</p>
-</div>
-<div class='papername'>
-<p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:21</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-An alloy contains iron and tungsten in the ratio $5$ parts to $1$ part.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If the mass of the alloy is $72 \ \text{kg}$, how much iron and tungsten does it contain?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-If there is $15 \ \text{kg}$ of iron in a quantity of the alloy, how much tungsten is there?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>B40A7337-6CB2-482B-9E8A-9CDC6C2E5BC9</p>
-</div>
-<div class='papername'>
-<p>north-london-collegiate-school--11-plus--maths--9999--sample-paper-1:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tratio
-</li>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Five bags of apples cost $\pounds 3.25$.
-
-How much would $\text{seven}$ bags of apples cost?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Cost of 5 bags} &= \pounds 3.25\\\\
-\text {Cost of 1 bag}  &= \dfrac {3.25} {5} \\\\
-                       &= \dfrac {0.65 \times 5} {5} \\\\
-                       &= \dfrac {0.65 \times \cancel {5}} {\cancel {5}} \\\\
-                       &= \pounds 0.65 \\\\
-\text {Cost of 7 bags} &= 0.65 \times 7 \\\\
-                       &= \pounds 4.55
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.55$
-
-</div>
-</div>
-
-
 </div>
 </li>
 </ul>

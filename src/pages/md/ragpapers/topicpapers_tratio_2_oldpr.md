@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tratio-2-oldpr"
 title: "TopicPaper - Ratio - 2 - OLDPR"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -802,7 +802,8 @@ David is $15$ stone $11$. Andrew is $275$ pounds. If there are $14$ pounds in $1
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 
 As the answer is to be given in pounds, let's convert David's weight into pounds.
 

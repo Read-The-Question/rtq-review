@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-5-oldpr"
 title: "TopicPaper - Areaperimeter - 5 - OLDPR"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1140,7 +1140,8 @@ How many $20 \ \text{cm}$ by $30 \ \text{cm}$ carpet tiles are needed to cover a
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 
 The Floor measurement is given in metres while the tile measurement is given in cm.
 

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-blocked"
 title: "TopicPaper - Money - 2 - BLOCKED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -33,7 +33,8 @@ How many $26 \text{p}$ stamps can Antonia buy for $\pounds 10$ and how much chan
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 
 Let's convert the total amount into pence.
 

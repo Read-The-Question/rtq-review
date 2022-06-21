@@ -1,9 +1,66 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-5-notstarted"
 title: "TopicPaper - Money - 5 - NOTSTARTED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>1D648663-782C-480E-8F13-27198C60558A</p>
+</div>
+<div class='papername'>
+<p>the-queens-school--11-plus--maths--9999--sample-paper-1:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+I have FIVE coins in my pocket. 
+
+They add up to 77 \text{p}$.
+
+What are the coins?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+One $50 \text{p}$ coin.
+Two $10 \text{p}$ coins.
+One $5 \text{p}$ coin.
+One $2 \text{p}$ coin.
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -387,7 +444,8 @@ What percentage is $15 \text{p}$ out of $\pounds 3.00$?
 <div class='workings'>
 <div class='working'>
 
-It is really important to use the right units in calculations and convert where required.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 
 Let's convert the total amount into pence.
 

@@ -1,85 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-5-notstarted"
 title: "TopicPaper - Simpleword - 5 - NOTSTARTED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>C348B511-F106-439A-A97B-DC138894FA8E</p>
-</div>
-<div class='papername'>
-<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:19</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-On a farm 80 sheep gave birth. $30\%$ of the sheep gave birth to two lambs. The rest of the sheep gave birth to one lamb.In total, how many lambs were born? 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-
-sheeps who had 2 lamps 
-$
-\begin{aligned}
-&=30\% \times 80 \\\\
-&= \dfrac{30}{100}\times 80 \\\\
-&=3 \times 8 \\\\
-&= 24
-\end{aligned}
-$
-
-sheep gave birth to one lamb
-
-$
-\begin{aligned}
-&= 80-24 \\\\
-&= 56
-\end{aligned}
-$
-
-total lamps were born,
-
-$
-\begin{aligned}
-&= 56 + 24 \times 2 \\\\
-&= 56 + 48 \\\\
-&= 104
-\end{aligned}
-$
-
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$104$
-
-</div>
-</div>
-
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -533,6 +457,108 @@ TODOWORKING
 TODOANSWER
 
 </div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C56A7779-1D7A-41C9-B595-405FF4558BAF</p>
+</div>
+<div class='papername'>
+<p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:14</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A website advertises that, as a special offer, a new mobile phone game 
+will cost $40 \%$ less to download next week.
+
+If the game costs $80 \text{p}$ this week, how much will it cost next week?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>D9F5E368-303E-4350-B374-E1004752976E</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2008--group-1:0:13</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Nikita pays $\pounds 9.50$ a month for her mobile phone and an extra $17 \text{p}$ for each call that she makes. 
+How much does she pay in a month when she makes $50$ calls?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
 <div class='answer'>
 
 TODOANSWER

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -577,7 +577,7 @@ Change to single factor and cancellation step
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -588,7 +588,7 @@ Change to single factor and cancellation step
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -690,7 +690,8 @@ $
 \begin{aligned}
 &= 5\% \ \text{of} \ 80 \\\\
 &= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
-&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {1} {10} \times \big(50\% \times 80 \big) \\\\
+&= \dfrac {1} {10} \times 40 \\\\
 &= \dfrac {40}{10} \\\\
 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
 &= 4
@@ -726,9 +727,11 @@ $5\% \ \text{of} \ 80 = 4$ ,
 $
 \begin{aligned}
 &= 1\% \text{ of } 80 \\\\
-&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
-&= \dfrac {5 \%}{5} \times 80  \\\\
-&= \dfrac {5\% \times 80} {5} \\\\
+&= \dfrac {5\% \times 10} {5 \times 10} \times 80 \\\\
+&= \dfrac {1} {50} \times \big(50\% \times 80 \big)  \\\\
+&= \dfrac {1} {50} \times 40 \\\\
+&= \dfrac {40} {50} \\\\
+&= \dfrac {4 \cancel {0}} {5 \cancel {0}} \\\\
 &= \dfrac {4} {5}
 \end{aligned}
 $

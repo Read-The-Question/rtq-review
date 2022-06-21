@@ -1,239 +1,9 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-4-notstarted"
 title: "TopicPaper - Simpleword - 4 - NOTSTARTED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
-<li>
-<div class='question_envelope rag_notstarted rag_prns question'>
-<div class='uuid'>
-<p>74295121-5568-4006-9097-DC9FCB44ABB2</p>
-</div>
-<div class='papername'>
-<p>oundle-school--11-plus--maths--2016--sample-paper-2:0:0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_notstarted</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tsimpleword
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-%empty% 
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Tesco has $82$ stores in Wales and $79$ stores in Scotland.
-
-How many stores does Tesco have in Wales and Scotland?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of stores in Wales and Scotland} &= 82 + 79 \\\\
-                                              &= 161
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$161$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Forty-five thousand one hundred and thirty one flights leave Heathrow airport each month. In one particular month, seven thousand eight hundred and ninety five were cancelled.
-
-How many flights from Heathrow went ahead that month?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Number of flights from Heathrow went ahead} &= 45131 - 7895 \\\\
-                                                  &= 37236
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$37236$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A box contains $78$ tissues. How many tissues would there be in $46$ boxes?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Total tissues} &= 46 \times 78 \\\\
-                     &= 3588
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$3588$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-A boy shares $\pounds 24.48$ with two other boys. If all three boys get the same amount, how much does each one get?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Amount shared between three} &= \dfrac {24.48} {3} \\\\
-                                   &= \dfrac {8.16 \times 3} {3} \\\\
-                                   &= \dfrac {8.16 \times \cancel {3}} {\cancel {3}} \\\\
-                                   &= \pounds 8.16
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 8.16$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-$13053$ cakes need to be packaged into boxes which each contain $19$ cakes.
-
-How many boxes are needed?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Boxes required} &= \dfrac {13053} {19} \\\\
-                      &= \dfrac {687 \times 19} {19} \\\\
-                      &= \dfrac {687 \times \cancel {19}} {\cancel {19}} \\\\
-                      &= 687
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$687$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Work out $4809 + 47643 - 809$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 4809 + 47643 - 809 \\\\
-&= 52452 - 809 \\\\
-&= 51643
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$51643$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-</div>
-</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>
@@ -871,6 +641,82 @@ TODOANSWER
 <div class='answer'>
 
 TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>C348B511-F106-439A-A97B-DC138894FA8E</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--2018--sample-paper-3:0:19</p>
+</div>
+<div class='rag'>
+<p>rag_wf_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+On a farm 80 sheep gave birth. $30\%$ of the sheep gave birth to two lambs. The rest of the sheep gave birth to one lamb.In total, how many lambs were born? 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+
+sheeps who had 2 lamps 
+$
+\begin{aligned}
+&=30\% \times 80 \\\\
+&= \dfrac{30}{100}\times 80 \\\\
+&=3 \times 8 \\\\
+&= 24
+\end{aligned}
+$
+
+sheep gave birth to one lamb
+
+$
+\begin{aligned}
+&= 80-24 \\\\
+&= 56
+\end{aligned}
+$
+
+total lamps were born,
+
+$
+\begin{aligned}
+&= 56 + 24 \times 2 \\\\
+&= 56 + 48 \\\\
+&= 104
+\end{aligned}
+$
+
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$104$
 
 </div>
 </div>

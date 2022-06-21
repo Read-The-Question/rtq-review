@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2344,7 +2344,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E</p>
 </div>
@@ -2352,7 +2352,7 @@ TODOANSWER
 <p>st-albans-high-school-for-girls--11-plus--maths--2017--sample-paper-2:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2427,24 +2427,21 @@ $80$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+\begin{aligned}
+&= 25 \% \text{ of } 2000 \\\\
+&= \dfrac {25} {100} \times 2000 \\\\
+&= \dfrac {25 \times 2000} {100} \\\\
+&= \dfrac {25 \times 20 \cancel{00}} {1 \cancel {00}} \\\\
+&= 25 \times 20 \\\\
+&= 500
+\end{aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$500$
 
 </div>
 </div>
@@ -2461,24 +2458,21 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+\begin{aligned}
+&= 28 \% \text{ of } 200 \\\\
+&= \dfrac {28} {100} \times 200 \\\\
+&= \dfrac {28 \times 200} {100} \\\\
+&= \dfrac {28 \times 2 \cancel{00}} {1 \cancel {00}} \\\\
+&= 28 \times 2 \\\\
+&= 56
+\end{aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$56$
 
 </div>
 </div>
@@ -2487,6 +2481,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' id='FORM-AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3237,7 +3262,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -3248,7 +3273,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3350,7 +3375,8 @@ $
 \begin{aligned}
 &= 5\% \ \text{of} \ 80 \\\\
 &= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
-&= \dfrac {50\% \times 80} {100}  \\\\
+&= \dfrac {1} {10} \times \big(50\% \times 80 \big) \\\\
+&= \dfrac {1} {10} \times 40 \\\\
 &= \dfrac {40}{10} \\\\
 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
 &= 4
@@ -3386,9 +3412,11 @@ $5\% \ \text{of} \ 80 = 4$ ,
 $
 \begin{aligned}
 &= 1\% \text{ of } 80 \\\\
-&= \dfrac {1\% \times 5} {1 \times 5} \times 80 \\\\
-&= \dfrac {5 \%}{5} \times 80  \\\\
-&= \dfrac {5\% \times 80} {5} \\\\
+&= \dfrac {5\% \times 10} {5 \times 10} \times 80 \\\\
+&= \dfrac {1} {50} \times \big(50\% \times 80 \big)  \\\\
+&= \dfrac {1} {50} \times 40 \\\\
+&= \dfrac {40} {50} \\\\
+&= \dfrac {4 \cancel {0}} {5 \cancel {0}} \\\\
 &= \dfrac {4} {5}
 \end{aligned}
 $

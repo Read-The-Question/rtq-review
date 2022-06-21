@@ -1,9 +1,109 @@
 ---
 slug: "ragpapers/topicpapers-tratio-1-g0"
 title: "TopicPaper - Ratio - 1 - G0"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='uuid'>
+<p>5860A867-7759-4511-AF82-70728B52390C</p>
+</div>
+<div class='papername'>
+<p>aldenham-school--11-plus--maths--9999--sample-paper-4:0:20</p>
+</div>
+<div class='rag'>
+<p>rag_wf_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcr</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Jeff has $8$ pizzas to share between himself and his friends.
+
+If each person is to get $\dfrac{2}{3}$ of a pizza how many friends can he feed?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+This can be solved using ratios. 
+
+$
+\begin{aligned}
+\dfrac{2}{3}  \text{ pizzas}                                                             &: 1 \text{ people} \\\\
+\dfrac{2}{3} \times \dfrac{3}{2} \text{ pizzas}                                         &: 1 \times \dfrac{3}{2} \text{ people} \\\\
+\dfrac{\cancel{2}}{\cancel{3}} \times \dfrac{\cancel{3}}{\cancel{2}} \text{ pizzas}     &: 1 \times \dfrac{3}{2} \text{ people} \\\\
+1 \text{ pizza}                                                                         &: \dfrac{3}{2} \text{ people} \\\\
+1 \times 8  \text{ pizzas}                                                                 &: \dfrac{3}{2} \times 8 \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 8}{2}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times 2}{2}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: \dfrac{3 \times 4 \times \cancel{2}}{\cancel{2}}  \text{ people} \\\\
+8  \text{ pizzas}                                                                         &: 12  \text{ people} \\\\
+\end{aligned}
+$
+
+Since we have to find the number of friends and Jeff is also counted for in the total count, adjust the answer accordingly.
+
+$
+\begin{aligned}
+\text{Number of friends}    &= 12 - 1 \\\\
+                            &= 11
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$11$ friends
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='5860A867-7759-4511-AF82-70728B52390C' id='FORM-5860A867-7759-4511-AF82-70728B52390C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-5860A867-7759-4511-AF82-70728B52390C'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>

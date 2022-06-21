@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-talgebra-15-g0"
 title: "TopicPaper - Algebra - 15 - G0"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1291,7 +1291,8 @@ As per the question,
 
 Count of $20 \text {p}$ coins $= 2c$
 
-It is really important to convert into the right units.
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 
 Let's convert the total amount into pence.
 
@@ -2089,7 +2090,8 @@ Middle piece (in $\text{cm}$) $= a + 70$
 
 Largest piece (in $\text{cm}$) $= a + 70 + 40$
 
-It is really important to convert into the right units. 
+ABBR: It is really important to use the right units in calculations and convert where required.
+
 The pole measurement is given in metres while the measurement of the pieces are given in cms.
 Let's convert the total length into $\text{cm}$.
 

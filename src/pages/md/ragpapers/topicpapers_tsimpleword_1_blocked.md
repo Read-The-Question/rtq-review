@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-1-blocked"
 title: "TopicPaper - Simpleword - 1 - BLOCKED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
 <li>
@@ -77,6 +77,56 @@ Therefore, $80 \%$ of $20 \%$ of $200$ is greater then $90 \%$ of $10 \%$ of $30
 <div class='answer'>
 
 $80 \%$ of $20 \%$ of $200$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>B7872B8A-9943-4EDF-A994-E7E5E984DD66</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:9</p>
+</div>
+<div class='rag'>
+<p>rag_up_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsimpleword
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A teacher shares a large packet of sweets evenly to her class of $24$ pupils and then eats the left over sweets.
+There were $170$ sweets in the packet, how many does the teacher eat?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+&= 170 - 24 \\\\
+&= 146
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$146$
 
 </div>
 </div>

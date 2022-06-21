@@ -1,9 +1,125 @@
 ---
 slug: "ragpapers/topicpapers-ttime-5-notstarted"
 title: "TopicPaper - Time - 5 - NOTSTARTED"
-date: 2022-06-21 12:34:13
+date: 2022-06-21 14:32:22
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>21940B64-6F2A-4A2C-BA44-8B9664CEAEAB</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:17</p>
+</div>
+<div class='rag'>
+<p>rag_bs_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+![missing image](/papers/missing_image.svg)
+
+
+Clock $A$ is $12 \ \text{minutes}$ fast.
+
+
+How many minutes slow is clock $B$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='uuid'>
+<p>0D550CC6-50D9-46B0-B420-4CDCA6B61FC4</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_bs_notstarted</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttime
+</li>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Kyra parks her car at $10.30 \ \text{pm}$. 
+She collects the car at $2.15 \ \text{pm}$. 
+How much does she have to pay?
+
+![missing table](/papers/missing_table.svg)
+
+
+Car Park Charges
+
+**Time**              **Charge**
+
+Up to $1 \ \text{hour}$        $20 \text{p}$
+
+$1$ to $2 \ \text{hours}$      $50 \text{p}$
+
+$2$ to $3 \ \text{hours}$      $\pounds 1.00$
+
+$3$ to $4 \ \text{hours}$      $\pounds 1.70$
+
+Over to $4 \ \text{hours}$     $\pounds 5.00$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_notstarted rag_prns question'>
 <div class='uuid'>

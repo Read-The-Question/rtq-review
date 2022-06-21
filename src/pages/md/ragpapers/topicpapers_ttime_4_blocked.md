@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-blocked"
 title: "TopicPaper - Time - 4 - BLOCKED"
-date: 2022-06-21 08:25:37
+date: 2022-06-21 10:30:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 08:25:37
 <p>stockport-grammar-school--11-plus--maths--9999--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_wf_blocked</p>
+<p>rag_bs_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

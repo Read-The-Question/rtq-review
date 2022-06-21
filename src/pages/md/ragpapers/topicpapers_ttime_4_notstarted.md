@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttime-4-notstarted"
 title: "TopicPaper - Time - 4 - NOTSTARTED"
-date: 2022-06-21 08:25:37
+date: 2022-06-21 10:30:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -13,7 +13,7 @@ date: 2022-06-21 08:25:37
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -139,7 +139,7 @@ TODOANSWER
 <p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -254,7 +254,7 @@ $16 \ \text{hours}$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -303,7 +303,7 @@ $8 {:}19$
 <p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -428,7 +428,7 @@ TODOANSWER
 <p>sydenham-high-school--11-plus--maths--9999--sample-paper-1:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -500,7 +500,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2010--sample-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -587,7 +587,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2013--sample-paper-4:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -637,7 +637,7 @@ $10:30$
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2014--sample-paper-5:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -762,7 +762,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:13</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -816,7 +816,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2015--sample-paper-6:0:28</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -961,7 +961,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1019,7 +1019,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2016--sample-paper-7:0:23</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1150,7 +1150,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:9</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1212,7 +1212,7 @@ TODOANSWER
 <p>the-haberdashers-askes-boys-school--11-plus--maths--2017--sample-paper-8:0:25</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1488,7 +1488,7 @@ TODOANSWER
 <p>the-kings-school-chester--11-plus--maths--9999--sample-paper-1:0:24</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1542,7 +1542,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2009--group-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1642,7 +1642,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1737,7 +1737,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2010--group-1:0:17</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1787,7 +1787,7 @@ TODOANSWER
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_wf_notstarted</p>
+<p>rag_bs_notstarted</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>

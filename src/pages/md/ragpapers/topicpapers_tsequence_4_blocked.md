@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsequence-4-blocked"
 title: "TopicPaper - Sequence - 4 - BLOCKED"
-date: 2022-06-21 08:25:37
+date: 2022-06-21 10:30:51
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1405,6 +1405,257 @@ $21$
 </div>
 </li>
 <li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>AE9B538A-8351-4BCF-B36D-B5B1D18CF66B</p>
+</div>
+<div class='papername'>
+<p>st-anselms-college--11-plus--maths--9999--sample-paper-2:0:7</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Write the next two numbers for each of the following sequences 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\,  7 \,\,\,\,  13 \,\,\,\, 19 \,\,\,\, 25$  ...  ... 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{ \red { (+6) } } 
+&&  \footnotesize{ \red { (+6) } }  
+&&  \footnotesize{ \red { (+6) } }   
+&&  \footnotesize{ \red { (+6) } }   
+&&  \footnotesize{ \red { (+6) } } 
+&&  \footnotesize{ \red { (+6) } } \\
+1,  &&  7,  &&  13,  &&   19,  &&   25,  && \ldots, && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 25 + 6 \\\\
+                              &= 31
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second missing number}   &= 31 + 6 \\\\
+                               &= 37
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$31, 37$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\, 2 \,\,\,\, 4 \,\,\,\, 8 \,\,\,\, 16$  ...  ...
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{ \red { (\times 2) } } 
+&&  \footnotesize{ \red { (\times 2) } }  
+&&  \footnotesize{ \red { (\times 2) } }   
+&&  \footnotesize{ \red { (\times 2) } }   
+&&  \footnotesize{ \red { (\times 2) } }
+&&  \footnotesize{ \red { (\times 2) } } \\
+1,  &&    2,  &&  4,  &&   8,  &&   16,  && \ldots, && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 16 \ \times 2 \\\\
+                              &= 32
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second missing number}   &= 32 \ \times 2 \\\\
+                               &= 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$32, 64$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\,\,\,\,\, 4 \,\,\,\, 9 \,\,\,\, 16 \,\,\,\, 25$ ...  ... 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+The next term is calculated by adding 2 to the difference in the sequence. Hence, the sequence would be:
+
+$
+\begin{matrix}
+&   \footnotesize{ \red { (+3) } } 
+&&  \footnotesize{ \red { (+5) } }  
+&&  \footnotesize{ \red { (+7) } }   
+&&  \footnotesize{ \red { (+9) } }   
+&&  \footnotesize{ \red { (+11) } } 
+&&  \footnotesize{ \red { (+13) } } \\
+1,  &&   4 ,  &&  9,  &&   16,  &&   25,  && \ldots, && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 25 + 13 \\\\
+                              &= 38
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Missing first number}   &= 38 + 15 \\\\
+                              &= 53
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$38, 53$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+$1 \,\,\,\, 2 \,\,\,\, 5 \,\,\,\, 14 \,\,\,\, 41$  ... ...  
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR:  Let's find the relation between the consecutive terms of the sequence.
+
+
+$
+\begin{matrix}
+&   \footnotesize{ \red { (\times 3) } } 
+&&  \footnotesize{ \red { (\times 3) } }  
+&&  \footnotesize{ \red { (\times 3) } }   
+&&  \footnotesize{ \red { (\times 3) } }   
+&&  \footnotesize{ \red { (\times 3) } } 
+&&  \footnotesize{ \red { (\times 3) } }  \\
+1,  &&    2,  &&  5,  &&   14,  &&   41,  && \ldots, && \ldots 
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text{First missing number}   &= 41 + 81 \\\\
+                              &= 122
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text{Second missing number}   &= 122 + 243 \\\\
+                               &= 365
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$122, 365$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>9BA84A0B-7FE1-41E1-B1DA-8819C7C372AF</p>
@@ -1698,6 +1949,84 @@ $37$
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>0E67D44A-5CEB-4D9A-884E-E749B2C1F9D0</p>
+</div>
+<div class='papername'>
+<p>st-pauls-girls-school--11-plus--maths--2016--sample-paper-1:0:11</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tsequence
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+In this sequence each number is double the previous number. Write in the missing numbers:
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+Each number in the sequence is double the previous number. Hence the sequence would be :
+
+$
+\begin{matrix}
+&   \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}}
+&&  \footnotesize {\maroonC
+{(\times 2)}} \\
+\ldots ,  &&    \ldots , &&     3, &&   6, &&   12, &&      24, &&      48,  &&  \ldots
+\end{matrix}
+$
+
+$
+\begin{aligned}
+\text {Second missing number}       &= \dfrac {3} {2} \\\\
+                                    &= 1.5 \\\\
+\text {First missing number}        &= \dfrac {3} {2 \times 2} \\\\
+                                    &= \dfrac {3} {4} \\\\
+                                    &= 0.75
+\text {Third missing number}        &= 48 \times 2 \\\\
+                                    &= 96
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\dfrac{3}{2} \ \text{or} \ 1.5, \quad \dfrac{3}{4} \ \text{or} \ 0.75, \quad 96$
+
+</div>
+</div>
+
 
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-g0"
 title: "TopicPaper - Temperature - 2 - G0"
-date: 2022-06-22 17:15:44
+date: 2022-06-22 19:09:59
 ---
 <ul class='question default-decimal'>
 <li>
@@ -39,7 +39,7 @@ $
 \begin{aligned}
 \text {Difference in  temperature}  &= 9 - (- 12)\\\\
                                     &= 9 + 12 \\\\
-                                    &= 21 \degree \ \text {C}
+                                    &= 21 \degree \text {C}
 \end{aligned}
 $
 
@@ -50,7 +50,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$21 \degree \ \text {C}$
+$21 \degree \text {C}$
 
 </div>
 </div>
@@ -90,7 +90,7 @@ $21 \degree \ \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
@@ -101,7 +101,7 @@ $21 \degree \ \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -136,6 +136,15 @@ $-8 \degree \text {C}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken
+</div>
 
 <div class='review'>
 <ul class='review'>

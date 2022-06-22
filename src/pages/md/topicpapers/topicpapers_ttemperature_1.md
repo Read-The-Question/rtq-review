@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-06-22 17:15:44
+date: 2022-06-22 19:09:59
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1153,7 +1153,7 @@ $- 2 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>589CB670-19FF-4680-B62A-A16EE6BD7418</p>
 </div>
@@ -1161,7 +1161,7 @@ $- 2 \degree$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_pr</p>
+<p>rag_ub_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1230,14 +1230,14 @@ Write down the names of the two places that had the biggest difference in temper
 <div class='workings'>
 <div class='working'>
 
-$\text {Edinburgh}, \ \text {Plymouth}$
+Plymouth, Edinburgh
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Edinburgh}, \ \text {Plymouth}$
+Plymouth, Edinburgh
 
 </div>
 </div>
@@ -1256,10 +1256,10 @@ Work out the difference in temperature between these two places.
 
 $
 \begin {aligned}
-\text {Difference in temperature}  &= \text {Temperature in Plymouth} - \text {Temperature in Edinburgh} \\\\
-                                   &= 5 - (-7) \\\\
-                                   &= 5 + 7 \\\\
-                                   &= 12 \degree \text {C}
+\text {Difference}  &= \text {Temperature in Plymouth} - \text {Temperature in Edinburgh} \\\\
+                    &= 5 - (-7) \\\\
+                    &= 5 + 7 \\\\
+                    &= 12 \degree \text {C}
 \end {aligned}
 $
 
@@ -1290,14 +1290,14 @@ Write down the names of these places.
 <div class='workings'>
 <div class='working'>
 
-$\text {Belfast}, \ \text {Cadiff}$
+Belfast, Cadiff & Plymouth, London
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Belfast}, \ \text {Cadiff}$
+Belfast, Cadiff & Plymouth, London
 
 </div>
 </div>
@@ -1309,26 +1309,26 @@ $\text {Belfast}, \ \text {Cadiff}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' id='FORM-589CB670-19FF-4680-B62A-A16EE6BD7418' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' id='FORM-589CB670-19FF-4680-B62A-A16EE6BD7418' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1340,7 +1340,7 @@ $\text {Belfast}, \ \text {Cadiff}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
@@ -1348,7 +1348,7 @@ $\text {Belfast}, \ \text {Cadiff}$
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ub_pr</p>
+<p>rag_ub_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1393,9 +1393,7 @@ Which city had the lowest temperature at midnight?
 <div class='workings'>
 <div class='working'>
 
-As shown in the table,
-
-York has the lowest temperature in the midnight which is $-7 \degree \text{C}$
+York at $-7 \degree \text{C}$
 
 </div>
 </div>
@@ -1419,15 +1417,13 @@ Which city had the greatest rise in temperature between midnight and midday?
 <div class='workings'>
 <div class='working'>
 
-As shown in the table,
-
-Liverpool has the greatest rise in temperature between midnight and midday.
+Liverpool
 
 $
 \begin{aligned}
-&= 7 - (-4) \\\\
-&= 7 + 4 \\\\
-&= 11 \degree \text{C}
+\text{Temperature Rise}     &= 7 - (-4) \\\\
+                            &= 7 + 4 \\\\
+                            &= 11 \degree \text{C}
 \end{aligned}
 $
 
@@ -1453,20 +1449,22 @@ What is the greatest difference in temperature between any two cities at midnigh
 <div class='workings'>
 <div class='working'>
 
-As shown in the table,
+Bristol & York
 
-Bristol has $2 \degree \text{C}$ in midnight.
-
-York has $-7 \degree \text{C}$ in midnight.
-
-Bristol and York has the greatest temperature difference in midnight.
+$
+\begin{aligned}
+\text{Difference}       &= \text{Bristol} - \text{York} \\\\
+                        &= 2 - (-7) \\\\
+                        &= 9 \degree \text{C}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-Bristol and York
+Bristol & York
 
 </div>
 </div>
@@ -1486,10 +1484,7 @@ temperature in York and its temperature at midnight is $2 \degree \text{C}$ high
 <div class='workings'>
 <div class='working'>
 
-As shown in the table,
-
-Manchester has temperature at midday is $6 \degree \text{C}$ higher than the 
-temperature in York and its temperature at midnight is $2 \degree \text{C}$ higher than the temperature in Liverpool.
+Manchester
 
 </div>
 </div>
@@ -1504,35 +1499,30 @@ Manchester
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-ttable ttemprature 
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' id='FORM-0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' id='FORM-0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1544,7 +1534,7 @@ ttable ttemprature
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -1552,10 +1542,10 @@ ttable ttemprature
 <p>kings-college-school--11-plus--maths--2017--specimen-paper-2:0:15</p>
 </div>
 <div class='rag'>
-<p>rag_ub_oldpr</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1572,14 +1562,11 @@ If it is $-26.5 \degree \text{C}$ in Canada and $34.5 \degree \text{C}$ in Austr
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Difference in temperature} &= \text{Australia Temperature - Canada Temperature } \\\\
-                                 &= 34.5  - (-26.5 ) \\\\
-                                 &= 34.5 + 26.5   \\\\
-                                 &= 61 \degree \text{C}
+\text{Difference}   &= 34.5  - (-26.5 ) \\\\
+                    &= 34.5 + 26.5   \\\\
+                    &= 61 \degree \text{C}
 \end{aligned}
 $
 
@@ -1597,26 +1584,26 @@ $61 \degree \text{C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' id='FORM-A89896D7-6037-4DC0-B913-16736539B99A' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='A89896D7-6037-4DC0-B913-16736539B99A' id='FORM-A89896D7-6037-4DC0-B913-16736539B99A' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3097,7 +3084,7 @@ $5 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>4C30C140-DE0B-4840-B727-FB67ABC627E4</p>
 </div>
@@ -3105,7 +3092,7 @@ $5 \degree \text {C}$
 <p>the-independent-schools-examinations-board--11-plus--maths--2009--sample-paper-3:0:8</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3150,14 +3137,14 @@ Which city had the lowest temperature?
 <div class='workings'>
 <div class='working'>
 
-$\text {Edinburgh}$
+Edinburgh
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {Edinburgh}$
+Edinburgh
 
 </div>
 </div>
@@ -3176,8 +3163,8 @@ How many degrees warmer was it in Plymouth than in London?
 
 $
 \begin{aligned}
-&= 7 - 4 \\\\
-&= 3
+\text{Difference}   &= 7 - 4 \\\\
+                    &= 3 \degree \text{C}
 \end{aligned}
 $
 
@@ -3186,7 +3173,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$3$
+$3 \degree \text{C}$
 
 </div>
 </div>
@@ -3203,14 +3190,14 @@ Which two cities had a temperature difference of $6 \degree \text{C}$?
 <div class='workings'>
 <div class='working'>
 
-$\text {London}, \text {Edinburgh}$
+London & Edinburgh
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\text {London}, \text {Edinburgh}$
+London & Edinburgh
 
 </div>
 </div>
@@ -3231,9 +3218,9 @@ Write down the temperature in Liverpool in the evening,
 
 $
 \begin{aligned}
-\text {temperature in Liverpool in the evening} &= \text {temperature in the morning} - \text {$2 \degree \text{C}$} \\\\
-                                                &= -1 \degree \text {C} - 2 \degree \text {C} \\\\
-                                                &= -3 \degree \text {C}
+\text {Temperature in the evening}  &= \text {Temperature in the morning} - 2 \\\\
+                                    &= -1 - 2 \\\\
+                                    &= -3 \degree \text {C}
 \end{aligned}
 $
 
@@ -3242,7 +3229,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-3$
+$-3 \degree \text {C}$
 
 </div>
 </div>
@@ -3251,6 +3238,37 @@ $-3$
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='4C30C140-DE0B-4840-B727-FB67ABC627E4' id='FORM-4C30C140-DE0B-4840-B727-FB67ABC627E4' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-4C30C140-DE0B-4840-B727-FB67ABC627E4'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3314,7 +3332,7 @@ $
 \begin{aligned}
 &= 21 - (-3) \\\\
 &= 21 + 3 \\\\
-&= 24 \degree \ \text {C}
+&= 24 \degree \text {C}
 \end{aligned}
 $
 
@@ -3325,7 +3343,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$24 \degree \ \text {C}$
+$24 \degree \text {C}$
 
 </div>
 </div>
@@ -3349,7 +3367,7 @@ $
 &= -3 - (2) \\\\
 &= -3 - 2 \\\\
 &= -5 \\\\
-&= -5 \degree \ \text {C}
+&= -5 \degree \text {C}
 \end{aligned}
 $
 
@@ -3360,7 +3378,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-5 \degree \ \text{C}$
+$-5 \degree \text{C}$
 
 </div>
 </div>
@@ -3471,7 +3489,7 @@ As per the question,
 $
 \begin{aligned}
 \text{Current temparature}  &= 7.20  - 3.15  \\\\
-                            &= 4.05 \degree \ \text{C}
+                            &= 4.05 \degree \text{C}
 \end{aligned}
 $
 
@@ -3480,7 +3498,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$4.05 \degree \ \text{C}$
+$4.05 \degree \text{C}$
 
 </div>
 </div>
@@ -3746,7 +3764,7 @@ $-8 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9</p>
 </div>
@@ -3754,7 +3772,7 @@ $-8 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ub_pr</p>
+<p>rag_ub_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3799,14 +3817,14 @@ What was the temperature on Monday?
 <div class='workings'>
 <div class='working'>
 
-$-9 \degree \text{C} $
+$-8 \degree \text{C} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$-9 \degree \text{C} $
+$-8 \degree \text{C} $
 
 </div>
 </div>
@@ -3825,9 +3843,9 @@ By how much did the temprature rise between Monday and Tuesday?
 
 $
 \begin{aligned}
-\text{Rise in temperature} &= -9 -(-1) \\\\
-                           &= -9 +1    \\\\
-                           &= -8\degree \text{C}
+\text{Temperature rise} &= -2 - (-8) \\\\
+                        &= -2 + 8    \\\\
+                        &= 6 \degree \text{C}
 \end{aligned}
 $
 
@@ -3836,7 +3854,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$-8\degree \text{C}$
+$6 \degree \text{C}$
 
 </div>
 </div>
@@ -3848,26 +3866,26 @@ $-8\degree \text{C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4121,7 +4139,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
 </div>
@@ -4129,10 +4147,10 @@ $-7 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2013--group-1:0:14</p>
 </div>
 <div class='rag'>
-<p>rag_ub_oldpr</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4235,26 +4253,26 @@ $-7 \degree \text {C}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' id='FORM-4AFA9722-A256-4A92-AFFB-BD08EF68B439' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='4AFA9722-A256-4A92-AFFB-BD08EF68B439' id='FORM-4AFA9722-A256-4A92-AFFB-BD08EF68B439' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -4328,7 +4346,7 @@ $
 \begin{aligned}
 \text {Difference in  temperature}  &= 17 - (- 3) \\\\
                                     &= 17 + 3 \\\\
-                                    &= 20 \degree \ \text {C}
+                                    &= 20 \degree \text {C}
 \end{aligned}
 $
 
@@ -4339,7 +4357,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \degree \ \text {C}$
+$20 \degree \text {C}$
 
 </div>
 </div>
@@ -4363,7 +4381,7 @@ As per the diagram,
 $
 \begin{aligned}
 \text {Temperature outside at midnight}  &= - 3 - 2 \\\\
-                                         &= - 5 \degree \ \text {C}
+                                         &= - 5 \degree \text {C}
 \end{aligned}
 $
 
@@ -4372,7 +4390,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 5 \degree \ \text {C}$
+$- 5 \degree \text {C}$
 
 </div>
 </div>
@@ -4588,7 +4606,7 @@ $
 \begin{aligned}
 \text {Difference in  temperature}  &= 4 - (- 14) \\\\
                                     &= 4 + 14 \\\\
-                                    &= 18 \degree \ \text {C}
+                                    &= 18 \degree \text {C}
 \end{aligned}
 $
 
@@ -4599,7 +4617,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$18 \degree \ \text {C}$
+$18 \degree \text {C}$
 
 </div>
 </div>
@@ -4623,7 +4641,7 @@ As per the diagram,
 $
 \begin{aligned}
 \text {Temperature in the freezer should be}  &= - 14 - 3 \\\\
-                                              &= - 17 \degree \ \text {C}
+                                              &= - 17 \degree \text {C}
 \end{aligned}
 $
 
@@ -4632,7 +4650,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$- 17 \degree \ \text {C}$
+$- 17 \degree \text {C}$
 
 </div>
 </div>
@@ -4684,7 +4702,7 @@ Remove As per the diagram
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>91EAC938-64F8-4348-83F9-074560E4256F</p>
 </div>
@@ -4692,10 +4710,10 @@ Remove As per the diagram
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2014--group-2:0:30</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4745,13 +4763,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature of Freddie’s surroundings} &= (61 - 40) \div 7 + 10 \\\\
-                                             &= 21 \div 7 + 10 \\\\
-                                             &= \dfrac {21} {7} + 10 \\\\
-                                             &= \dfrac {7 \times 3} {7} + 10 \\\\
-                                             &= \dfrac {\cancel {7} \times 3} {\cancel {7}} + 10 \\\\\
-                                             &= 3 + 10 \\\\
-                                             &= 13 \degree \ \text{C}
+\text{Freddie’s surroundings temperature}   &= (61 - 40) \div 7 + 10 \\\\
+                                            &= 21 \div 7 + 10 \\\\
+                                            &= 3 + 10 \\\\
+                                            &= 13 \degree \text{C}
 \end{aligned}
 $
 
@@ -4760,7 +4775,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$13 \degree \ \text{C}$
+$13 \degree \text{C}$
 
 </div>
 </div>
@@ -4781,14 +4796,11 @@ Work out the temperature of Flora’s surroundings.
 
 $
 \begin{aligned}
-\text{Temperature of Flora’s surroundings}   &= (41 \times 2 - 40) \div 7 + 10 \\\\
-                                             &= (82 - 40) \div 7 + 10 \\\\
-                                             &= 42 \div 7 + 10 \\\\
-                                             &= \dfrac {42} {7} + 10 \\\\
-                                             &= \dfrac {7 \times 6} {7} + 10 \\\\
-                                             &= \dfrac {\cancel {7} \times 6} {\cancel {7}} + 10 \\\\\
-                                             &= 6 + 10 \\\\
-                                             &= 16 \degree \ \text{C}
+\text{Flora’s surroundings temperature}     &= (41 \times 2 - 40) \div 7 + 10 \\\\
+                                            &= (82 - 40) \div 7 + 10 \\\\
+                                            &= 42 \div 7 + 10 \\\\
+                                            &= 6 + 10 \\\\
+                                            &= 16 \degree \text{C}
 \end{aligned}
 $
 
@@ -4797,7 +4809,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$16 \degree \ \text{C}$
+$16 \degree \text{C}$
 
 </div>
 </div>
@@ -4816,31 +4828,31 @@ Work out how many times Flossie chirps in $1 \ \text{minute}$.
 <div class='workings'>
 <div class='working'>
 
-Let Flossie chirps for $= a$ times in $1 \ \text{minute}$.
+Let Flossie chirps (in $1 \ \text{minute}$) $= a$
 
 As per the question,
 
 $
 \begin{aligned}
-18         &= (a - 40) \div 7 + 10 \\\\
-18         &= \dfrac {a - 40} {7} + 10 \\\\
-18 - 10    &= \dfrac {a - 40} {7} \\\\
-8          &= \dfrac {a - 40} {7} \\\\
-a - 40     &= 8 \times 7 \\\\
-a - 40     &= 56 \\\\
-a          &= 56 - 40 \\\\
-a          &= 16
+18                          &= (a - 40) \div 7 + 10 \\\\
+18                          &= \dfrac {a - 40} {7} + 10 \\\\
+\dfrac {a - 40} {7} + 10    &= 18 \\\\
+\dfrac {a - 40} {7}         &= 18 - 10 \\\\
+\dfrac {a - 40} {7}         &= 8 \\\\
+a                           &= 8 \times 7 + 40 \\\\
+a                           &= 56 + 40 \\\\
+a                           &= 96
 \end{aligned}
 $
 
-
+Flossie chirps (in $1 \ \text{minute}$) $= 96$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$16$
+$96$
 
 </div>
 </div>
@@ -4852,26 +4864,26 @@ $16$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' id='FORM-91EAC938-64F8-4348-83F9-074560E4256F' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='91EAC938-64F8-4348-83F9-074560E4256F' id='FORM-91EAC938-64F8-4348-83F9-074560E4256F' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

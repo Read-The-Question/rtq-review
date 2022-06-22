@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-pr"
 title: "TopicPaper - Percentage - 1 - PR"
-date: 2022-06-22 16:36:35
+date: 2022-06-22 17:15:44
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 16:36:35
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -46,6 +46,7 @@ What percentage of **boys** walk to school?
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 \text{Percentage of boys in class walk to school}                      &= \dfrac {2} {2 + 8} \times 100 \\\\
                                                                        &= \dfrac {2} {10} \times 100 \\\\
@@ -53,10 +54,12 @@ What percentage of **boys** walk to school?
                                                                        &=  2 \times 10 \\\\
                                                                        &= 20 \%
 \end{aligned}
+$
 
 </div>
 <div class='working'>
 
+$
 \begin{aligned}
 \text{Percentage of pupils in class walk to school}                    &= \dfrac {2 + 5} {2 + 8 + 5 + 10} \times 100 \\\\
                                                                        &= \dfrac {7} {25} \times 100 \\\\
@@ -65,6 +68,7 @@ What percentage of **boys** walk to school?
                                                                        &=  7 \times 4  \\\\                                                    
                                                                        &= 28 \%
 \end{aligned}
+$
 
 </div>
 </div>
@@ -128,102 +132,7 @@ Katex broken!!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>211A5FCF-4F61-45F5-A728-04F4F08A4EC3</p>
-</div>
-<div class='papername'>
-<p>bancrofts-school--11-plus--maths--2021--sample-paper-7:0:11</p>
-</div>
-<div class='rag'>
-<p>rag_ub_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-The table below shows the results of a survey in which $60$ boys 
-were asked what colour of dress girls should wear.
-
-![missing table](/papers/missing_table.svg)
-
-
-What percentage of boys thought *girls* should wear pink?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text{Percentage of boys that thought girls should wear pink} &= \dfrac {24} {24 + 15 + 21} \times 100 \\\\
-                                                              &= \dfrac {24 \times 100} {60} \\\\
-                                                              &= \dfrac {4 \times 6 \times 10 \times 10} {6 \times 10} \\\\
-                                                              &= \dfrac {4 \times \cancel {6} \times \cancel 10 \times  {10}} {\cancel {6} \times \cancel {10}} \\\\
-                                                              &= 4 \times 10 \\\\
-                                                              &= 40 \%
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40 \%$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-tgraph, ttable
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='211A5FCF-4F61-45F5-A728-04F4F08A4EC3' id='FORM-211A5FCF-4F61-45F5-A728-04F4F08A4EC3' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-211A5FCF-4F61-45F5-A728-04F4F08A4EC3'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>15B131F5-D0A4-498C-A848-EB6913C98D06</p>
 </div>
@@ -234,7 +143,7 @@ tgraph, ttable
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -283,16 +192,18 @@ In a survey $30\%$ of people were left handed only, $10\%$ were both left and ri
 <div class='workings'>
 <div class='working'>
 
-\begin {aligned}
+$
+\begin {aligned} 
 \text {percentage of right handed only}                        &=60 \%                                                                   
 \end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$&=60 \%$
+$60 \%$
 
 </div>
 </div>
@@ -309,6 +220,7 @@ Find $50\%$ of $80$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= 50 \% \text {of} 80 \\\\
 &= \dfrac {50}{100} \times 80 \\\\
@@ -316,6 +228,7 @@ Find $50\%$ of $80$
 &= 5 \times 8 \\\\
 &= 40 \%
 \end{aligned}
+$
 
 </div>
 </div>
@@ -333,10 +246,12 @@ $400 \times 30$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= 400 \times 30 \\\\
 &= 12000
 \end{aligned}
+$
 
 </div>
 </div>
@@ -389,7 +304,7 @@ Katex broken!!!
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prcr question'>
+<div class='question_envelope rag_pr rag_prcc question'>
 <div class='uuid'>
 <p>AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E</p>
 </div>
@@ -400,7 +315,7 @@ Katex broken!!!
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -472,6 +387,7 @@ $80$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= 25 \% \text{ of } 2000 \\\\
 &= \dfrac {25} {100} \times 2000 \\\\
@@ -480,6 +396,7 @@ $80$
 &= 25 \times 20 \\\\
 &= 500
 \end{aligned}
+$
 
 </div>
 </div>
@@ -503,6 +420,7 @@ $500$
 <div class='workings'>
 <div class='working'>
 
+$
 \begin{aligned}
 &= 28 \% \text{ of } 200 \\\\
 &= \dfrac {28} {100} \times 200 \\\\
@@ -511,6 +429,7 @@ $500$
 &= 28 \times 2 \\\\
 &= 56
 \end{aligned}
+$
 
 </div>
 </div>

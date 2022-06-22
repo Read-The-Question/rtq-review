@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-oldpr-prcc"
 title: "TopicPaper - Temperature - 1 - OLDPR - PRCC"
-date: 2022-06-22 16:36:35
+date: 2022-06-22 17:15:44
 ---
 <ul class='question default-decimal'>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tinfer-2-g0"
 title: "TopicPaper - Infer - 2 - G0"
-date: 2022-06-22 16:36:35
+date: 2022-06-22 17:15:44
 ---
 <ul class='question default-decimal'>
 <li>

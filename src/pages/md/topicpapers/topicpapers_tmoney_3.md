@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-3"
 title: "TopicPaper - Money - 3"
-date: 2022-06-22 16:36:35
+date: 2022-06-22 17:15:44
 ---
 <div class='paper'>
 <div class='meta'>
@@ -471,7 +471,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C3168C71-1453-467B-B9E0-F3062E77C342</p>
 </div>
@@ -482,7 +482,7 @@ TODOANSWER
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -525,7 +525,7 @@ What is the combined cost?
 
 $
 \begin{aligned}
-\text{Combined cost} &= 2.46 + 1.29 \\\\
+\text{Total cost}    &= \pounds 2.46 + \pounds 1.29 \\\\
                      &= \pounds 3.75
 \end{aligned}
 $
@@ -556,7 +556,7 @@ How many chocolates are there, in total, in $18$ of the same boxes?
 
 $
 \begin{aligned}
-\text{Total chocolates} &= 37 \times 18 \\\\
+\text{Total chocolates} &= 18 \times 37\\\\
                         &= 666
 \end{aligned}
 $
@@ -587,8 +587,9 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 
 $
 \begin{aligned}
-\text{Total cost} &= 1.45 \times 0.65 \\\\
-                  &= \pounds 0.9425
+1 \ \text {litre}       &= \pounds 1.45 \\\\
+1 \times 0.65           &= 1.45 \times 0.65 \\\\
+0.65 \ \text {litres}   &= \pounds 0.9425
 \end{aligned}
 $
 
@@ -616,8 +617,9 @@ There are $1.09 \ \text{yards}$ in one metre. How many yards are there in $0.27 
 
 $
 \begin{aligned}
-\text{Total yards} &= 1.09 \times 0.27 \\\\
-                   &= 0.2943 \ \text{yards}
+1 \ \text {metre}       &= 1.09 \ \text {yards} \\\\
+1 \times 0.27           &= 1.09 \times 0.27 \\\\
+0.27 \ \text {metres}   &= 0.2943 \ \text {yards} \\\\
 \end{aligned}
 $
 
@@ -646,9 +648,9 @@ The total mass of $7$ identical computers is $259 \ \text{kg}$. What is the mass
 $
 \begin{aligned}
 \text{Mass of one computer} &= \dfrac {259} {7} \\\\
-                            &= \dfrac {37 \times 7} {7} \\\\
-                            &= \dfrac {37 \times \cancel {7}} {\cancel {7}} \\\\
-                            &= 37 \ \text{kg}
+                            &= \dfrac {7 \times 37} {7} \\\\
+                            &= \dfrac {\cancel {7} \times 37} {\cancel {7}} \\\\
+                            &= 37 \ \text {kg}
 \end{aligned}
 $
 

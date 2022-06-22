@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-2-g0"
 title: "TopicPaper - Areaperimeter - 2 - G0"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>83171B40-5CB7-43E9-84C7-6F8C993632BD</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-21 21:44:24
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -168,6 +168,23 @@ $40 \ \text {cm} ^ 2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Part b: Write a new abbreviation for perimeter of a polygon = sum of all sides and use that at the top and then calculate perimieter in begin aligned.
+
+
+
+Part b: Write a new abbreviation for perimeter of a polygon = sum of all sides and use that at the top and then calculate perimieter in begin aligned.
+
+
+
+Part a: 2 answers, use 2 answer tomls
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -203,7 +220,7 @@ $40 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>80790EEF-2304-4498-BB95-EF177366DBC9</p>
 </div>
@@ -214,7 +231,7 @@ $40 \ \text {cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -270,6 +287,23 @@ $18 \ \text {cm}, 14 \ \text {cm} ^ 2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Use the expanded abbrev, like rtq_abbr_katex_formula_area_rectangle_expanded so it shows Perimeter of rectangle, not sure why the smaller versions are there, i will check and remove them
+
+
+
+2 answeres, write in 2 different answer toml
+
+
+
+use key = Perimeter and Area in answer toml
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -305,7 +339,7 @@ $18 \ \text {cm}, 14 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>87087F13-14DD-46B1-A8A3-E1A8693515AD</p>
 </div>
@@ -316,7 +350,7 @@ $18 \ \text {cm}, 14 \ \text {cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -379,6 +413,41 @@ $28 \ \text {cm}^ 2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Area of parallelogram = b * h
+
+
+
+Use that formula instead instead of rectangle - triangle.
+
+
+
+In same aligned, write the following way
+
+
+
+As per the diagram,
+
+
+
+Aligned
+
+Height &= 4
+
+Base &= 9 - 2 
+
+     &= 7
+
+Area = 4 * 7
+
+     = 28 cm^2
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -414,7 +483,7 @@ $28 \ \text {cm}^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5A5A99FB-F341-46EE-95C4-A97BE92AF7E3</p>
 </div>
@@ -425,7 +494,7 @@ $28 \ \text {cm}^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -481,6 +550,19 @@ $18 \ \text{cm}, 14 \ \text{cm} ^ 2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+abbrev is broken!!
+
+
+
+2 answers, 2 tomls
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -516,7 +598,7 @@ $18 \ \text{cm}, 14 \ \text{cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B135AC08-8D4C-4E0C-8A85-A93842A7B0C6</p>
 </div>
@@ -527,7 +609,7 @@ $18 \ \text{cm}, 14 \ \text{cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -590,6 +672,15 @@ $28 \ \text {cm}^ 2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Same as previous question, refer comments in 87087F13-14DD-46B1-A8A3-E1A8693515AD
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -625,7 +716,7 @@ $28 \ \text {cm}^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>5EDF9D93-76BA-4A5B-84AC-A3D799C7B75C</p>
 </div>
@@ -636,7 +727,7 @@ $28 \ \text {cm}^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -734,6 +825,19 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+a. Use abbr and then solve, move formula out of aligned.
+
+
+
+a. Use abbr and then solve, move formula out of aligned.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -769,7 +873,7 @@ $7.5 \text { cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4949CC7C-97FA-4954-8FC3-B05DB7B7F7C1</p>
 </div>
@@ -780,7 +884,7 @@ $7.5 \text { cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -843,6 +947,53 @@ $55 \ \text{ cm}^2$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+abbr broken!!
+
+
+
+Incorrect statement: Let the wide (in cm) = a
+
+
+
+Change to \"Let the width (in cm) = a\"
+
+
+
+Refer answers in G2 state, as per the question, defining second variable etc are not consistent with the coding guidelines.
+
+
+
+
+
+Refer EE87B35D-AFC8-4F45-A49A-D40F8F3B3AA8 on how to define second variable and then how to write as per the question, its age question but rules are the same
+
+
+
+Change \"Now, lets find the area of the rectangle.\"
+
+
+
+to 
+
+
+
+Lets find the area of the rectangle.
+
+
+
+
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -878,7 +1029,7 @@ $55 \ \text{ cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D36EB8D1-F797-4291-92E6-21171425524C</p>
 </div>
@@ -889,7 +1040,7 @@ $55 \ \text{ cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -935,6 +1086,25 @@ $460 \ \text {m}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write abbre for perimeter of polygon
+
+
+
+Add comment to add a diagram with missing side calculated.
+
+
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -970,7 +1140,7 @@ $460 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B40F0224-3A38-441B-8EC1-C720B33CE28F</p>
 </div>
@@ -981,7 +1151,7 @@ $460 \ \text {m}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1023,6 +1193,15 @@ $12 \ \text{cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write abbr for perimeter for triangle
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1058,107 +1237,7 @@ $12 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>786619B1-FD62-4472-B91E-8153392F2D10</p>
-</div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_na_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tareaperimeter
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Estimate the area of this triangle
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
-
-
-As per the diagram,
-
-$
-\begin{aligned}
-\text {Area} &= \dfrac{1}{2} \times 4 \times 3 \\\\
-             &= \dfrac{4 \times 3} {2} \\\\
-             &= \dfrac{2 \times 2 \times 3} {2} \\\\
-             &= \dfrac{\cancel{2} \times 2 \times 3} {\cancel {2}} \\\\
-             &= 2 \times 3 \\\\
-             &= 6 \ \text {cm} ^2
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$6 \ \text {cm} ^2$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Redundant formula inside katex
-
-Make single num / den before solving
-
-Missing factors steps still
-
-Units missing in workings and answers
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='786619B1-FD62-4472-B91E-8153392F2D10' id='FORM-786619B1-FD62-4472-B91E-8153392F2D10' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-786619B1-FD62-4472-B91E-8153392F2D10'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>B38F91FE-988F-49E4-A160-D55F591DA695</p>
 </div>
@@ -1169,7 +1248,7 @@ Units missing in workings and answers
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1206,6 +1285,15 @@ $48 \ \text {cm}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write abbr for perimeter for a regular polygon, n * side
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1241,7 +1329,7 @@ $48 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>78B273A1-70B3-40B5-A9B9-E8FA95A37234</p>
 </div>
@@ -1252,7 +1340,7 @@ $48 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1299,6 +1387,15 @@ $80$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Use expanded abbrev for rectangle.
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1334,7 +1431,7 @@ $80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8F284311-E84B-46BB-9357-8253847A7DBB</p>
 </div>
@@ -1345,7 +1442,7 @@ $80$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1368,9 +1465,11 @@ What is the perimeter of the shape above?
 <div class='workings'>
 <div class='working'>
 
+As per the diagram,
+
 $
 \begin{aligned}
-\text{Perimeter}   &= a + b + a + b + a \\\\
+\text{Perimeter}   &= \text {Sum of all sides} \\\\
                    &= a + a + a + b + b \\\\
                    &= 3 a + 2 b
 \end{aligned}
@@ -1386,6 +1485,15 @@ $3 a + 2 b$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Write abbr for a polygon
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1421,7 +1529,7 @@ $3 a + 2 b$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A202F7A2-B7E9-47A2-8529-FED0F2ED6E6B</p>
 </div>
@@ -1432,7 +1540,7 @@ $3 a + 2 b$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1482,13 +1590,19 @@ Calculate the width of one of the tiles.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
 Let the width of the tile (in $\text{cm}$) $= w$
+
+As per the question,
 
 $
 \begin{aligned}
-w       &= \sqrt {\text {Area of the hole}} \\\\
-w       &= \sqrt {400} \\\\
-w       &= 20 \ \text{cm}
+w \times w        &= 400 \\\\
+w^2               &= 400 \\\\
+w                 &= \sqrt {400} \\\\
+w                 &= 20 \ \text{cm}
 \end{aligned}
 $
 
@@ -1516,6 +1630,11 @@ Calculate the length of one of the tiles.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the length of the tile (in $\text{cm}$) $= l$
+
 As per the question,
 
 $
@@ -1529,9 +1648,7 @@ $
 \end{aligned}
 $
 
-Let the length of the tile (in $\text{cm}$) $= l$
-
-Using the formula for area for a rectangle, we get
+Let's use this area to find $l$.
 
 $
 \begin{aligned}
@@ -1566,29 +1683,25 @@ Work out the perimeter of one of the tiles, giving your answer **in metres**.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+_expanded
+
 Let the perimeter of the tile (in $\text{cm}$) $= p$
 
-Using the formula for perimeter for a rectangle, we get
+As per the question,
 
 $
 \begin{aligned}
 p   &= 2 \times (60 + 20) \\\\
 p   &= 2 \times 80 \\\\
-p   &= 160 \ \text {cm}
+p   &= 160 \ \text {cm} \\\\
+p   &= 160 \times \dfrac {1} {100} \text{m} \\\\
+p   &= \dfrac {160} {100} \\\\
+p   &= 1.6 \ \text {m}
 \end{aligned}
 $
 
-$1 \ \text{cm} = \dfrac {1} {100} \text {m}$
-
-$
-\begin{aligned}
-160 \ \text{cm} &= 160 \times \dfrac {1} {100} \text {m} \\\\
-                &= \dfrac {160} {100} \\\\
-                &= 1.6 \text {m}
-\end{aligned}
-$
-
-Perimeter of one tile $= 1.6 \text {m}$
+Perimeter of one tile (in metres) $= 1.6$
 
 </div>
 </div>
@@ -1638,7 +1751,7 @@ $1.6 \ \text {m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F19F86D6-532F-48C6-9AD5-6CA77B08E693</p>
 </div>
@@ -1649,7 +1762,7 @@ $1.6 \ \text {m}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1677,19 +1790,24 @@ Note: all angles are right angles.
 <div class='workings'>
 <div class='working'>
 
-Lets divide the given shape into two rectangles, A and B
+*ABBR: TODO:: Add drawing starts.*
 
-Length of rectangle A $= 5 \ \text {cm}$
+![missing image](/papers/missing_image.svg)
 
-Width of rectangle A  $= 14 \ \text {cm}$
 
-Length of rectangle B $= 4 \ \text {cm}$
+*TODO:: Add a diagram to show two rectangles along with the measurements*
 
-Width of rectangle B $= 14 - 6 = 8 \ \text {cm}$
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into two rectangles
 
 $
 \begin{aligned}
-\text {Total Area} &= \text {Area of rectangle A} + \text {Area of rectangle B} \\\\
+\text {Total Area} &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
                    &= (5 \times 14) + (4 \times 8) \\\\
                    &= 70 + 32 \\\\
                    &= 102 \ \text {cm}^2
@@ -1749,7 +1867,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>59ACA68F-2784-4A15-88AD-80DE61754F35</p>
 </div>
@@ -1760,7 +1878,7 @@ $102 \ \text{cm}^2, 46 \ \text{cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1803,15 +1921,12 @@ and $h$.
 <div class='workings'>
 <div class='working'>
 
-Perimeter of rectangle $=$ Sum of all sides of the rectangle
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
 
-$
-\begin{aligned}
-&= \text {h} + \text {w} + \text {h} + \text {w} \\\\
-&= 2 \text {h} + 2 \text {w} \\\\
-&= 2 (h + w) \\\\
-\end{aligned}
-$
+
+As per the diagram,
+
+$\text {Perimeter} = 2 (h + w)$
 
 </div>
 </div>
@@ -1837,17 +1952,23 @@ Calculate the perimeter of the rectangle.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter} = 2 \times (\text{length} + \text{width})$
+_expanded
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the question,
+
 Factors of $55 = 1, 5, 11, 55$
 
 $5$ and $11$ are prime numbers.
 
-Perimeter $= 2 \text{(height + width)}$
-
 $
 \begin {aligned}
-&= 2 \times (5 + 11) \\\\
-&= 2 \times 16 \\\\
-&= 32 \ \text {cm}
+\text {Perimeter}   &= 2 \times (5 + 11) \\\\
+                    &= 2 \times 16 \\\\
+                    &= 32 \ \text {cm}
 \end{aligned}
 $
 
@@ -1899,7 +2020,7 @@ $32 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5602136F-AB86-4170-84F4-4C32BBF9BEA2</p>
 </div>
@@ -1910,7 +2031,7 @@ $32 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1938,26 +2059,27 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
-Lets divide the given shape into three rectangles, A, B and C
+*ABBR: TODO:: Add drawing starts.*
 
-Length of rectangle A $= 3 \ \text {cm}$
+![missing image](/papers/missing_image.svg)
 
-Width of rectangle A  $= 20 - 4 = 16 \ \text {cm}$
 
-Length of rectangle B $= 7 \ \text {cm}$
+*TODO:: Add a diagram to show three rectangles along with the measurements*
 
-Width of rectangle B $= 20 - 10 = 10 \ \text {cm}$
+*ABBR: TODO:: Add drawing ends.*
 
-Length of rectangle C $= 12 - (7 + 3) = 2 \ \text {cm}$
 
-Width of rectangle C $= 20 \ \text {cm}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
-\text {Area} &= \text {Area of rectangle A + Area of rectangle B + Area of rectangle C} \\\\
-             &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
-             &= 48 + 70 + 40 \\\\
-             &= 158 \ \text {cm}^2
+\text {Total Area}  &= \text {Rectangle 1 + Rectangle 2 + Rectangle 3} \\\\
+                    &= (3 \times 16) + (7 \times 10) + (2 \times 20) \\\\
+                    &= 48 + 70 + 40 \\\\
+                    &= 158 \ \text {cm}^2
 \end{aligned}
 $
 
@@ -2014,7 +2136,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BDFE7C42-E5DA-4E12-8BA2-EE31FFE0FA8B</p>
 </div>
@@ -2025,7 +2147,7 @@ $158 \ \text {cm}^2, \ 76 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2053,12 +2175,13 @@ Note: all angles are right angles but the diagram has not been drawn to scale.
 <div class='workings'>
 <div class='working'>
 
-Perimeter of the shape $=$ sum of all sides.
+As per the diagram,
 
 $
 \begin{aligned}
-&= 17 + 11 + 14 + 3 + 6 + 7 \\\\
-&= 58 \ \text {cm}
+\text {Perimeter}   &= \text {Sum of all sides} \\\\ 
+                    &= 17 + 11 + 14 + 3 + 6 + 7 \\\\
+                    &= 58 \ \text {cm}
 \end{aligned}
 $
 
@@ -2107,7 +2230,7 @@ $58 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>97A3E093-B7B6-443D-9FE2-CC20B3E4BA24</p>
 </div>
@@ -2118,7 +2241,7 @@ $58 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2165,12 +2288,14 @@ the perimeter of this square shape.
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text {Perimeter of square} &= 4 \times \text{Length of one side} \\\\
-                            &= 4 \times 40 \\\\
+\text {Perimeter of square} &= 4 \times 40 \\\\
                             &= 160 \ \text {cm}
 \end{aligned}
 $
@@ -2197,16 +2322,26 @@ the area of the shaded inner square.
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
-Length of shaded inner square $=$ Length of big square $- 2 \times$ width of rectangle.
 
-$40 - 2 \times 13 = 14 \ \text{cm}$
+Let the length of shaded inner square $= l$
+
+As per the question,
 
 $
 \begin{aligned}
-\text {Area of square} &= \text {Length} ^2 \\\\
-                       &= 14^2 \\\\
+\text {l}       &= 40 - (2 \times 13) \\\\
+\text {l}       &= 40 - 26 \\\\
+\text {l}       &= 14
+\end{aligned}
+$
+
+Let's use the value of $l$ to find area of shaded inner square.
+
+$
+\begin{aligned}
+\text {Area}           &= 14 \times 14 \\\\
                        &= 196 \ \text {cm} ^2
 \end{aligned}
 $

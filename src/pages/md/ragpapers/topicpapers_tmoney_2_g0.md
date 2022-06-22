@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0"
 title: "TopicPaper - Money - 2 - G0"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B8867E6-DD66-4F3F-811C-A4B71ADFBF90</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-21 21:44:24
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -41,15 +41,16 @@ Calculate how much cheaper it is to buy a multipack of $12$ cans than to buy $12
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. 
+.
+
+Let's convert all the expenses into pence.
 
 $
 \begin {aligned}
 \text {Cost of 12 cans}                 &= 12 \times 65 \ \text {pence} \\\\
                                         &= 780 \ \text {pence} \\\\
-\text {Difference in cost}              &= 780 \ \text {pence} - \pounds 6.95 \\\\
-                                        &= 780 \ \text {pence} - 6.95 \times 100 \ \text {pence} \\\\
-                                        &= 780 - 695 \\\\
+\text {Difference}                      &= 780 \ \text {pence} - \pounds 6.95 \\\\
+                                        &= 780 \ \text {pence} - 695 \ \text {pence} \\\\
                                         &= 85 \ \text {pence}
 \end {aligned}
 $
@@ -101,7 +102,7 @@ $85 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FBCDAF33-D756-4D8A-8443-2921CA509D4C</p>
 </div>
@@ -112,7 +113,7 @@ $85 \ \text {pence}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -134,16 +135,17 @@ Calculate how much cheaper it is to buy a multipack of $15$ packets of crisps th
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. 
+.
+
+Let's convert all the expenses into pence.
 
 $
 \begin {aligned}
-\text {Cost of 15 packets}              &= 15 \times 35 \ \text {pence} \\\\
-                                        &= 525 \ \text {pence} \\\\
-\text {Difference in cost}              &= 525 \ \text {pence} - \pounds 3.90 \\\\
-                                        &= 525 \ \text {pence} - 3.90 \times 100 \ \text {pence} \\\\
-                                        &= 525 - 390 \\\\
-                                        &= 135 \ \text {pence}
+\text {Cost of 15 packets}  &= 15 \times 35 \ \text {pence} \\\\
+                            &= 525 \ \text {pence} \\\\
+\text {Difference}          &= 525 \ \text {pence} - \pounds 3.90 \\\\
+                            &= 525 \ \text {pence} - 390 \ \text {pence} \\\\
+                            &= 135 \ \text {pence}
 \end {aligned}
 $
 
@@ -194,7 +196,7 @@ $135 \ \text {pence}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>17ECC185-3305-49FA-A442-3E835EDC1C60</p>
 </div>
@@ -205,7 +207,7 @@ $135 \ \text {pence}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -245,20 +247,21 @@ Work out how much money Clare had in total, giving your answer in pounds and pen
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Total money}     &= \text {Cost of a lollipop} \times \text {No. of lollipops she bought} + \text {the money left} \\\\
-                        &= 35 \ \text {p} \times 8 + 30 \ \text {p} \\\\
-                        &= \pounds \dfrac {35} {100} \times 8 + \pounds \dfrac {30} {100} \\\\
-                        &= 0.35 \times 8 + 0.30 \\\\
+\text {Total amount}    &= 8 \times 35 \text {p} + 30 \text {p} \\\\
+                        &= 8 \times \pounds 0.35 + \pounds 0.30 \\\\
                         &= 2.80 + 0.30 \\\\
                         &= \pounds 3.10
 \end{aligned}
 $
 
-Total money she had $= \pounds 3 \ \text {and} \ 10 \text {p}$.
+She had $= \pounds 3 \ \text {and} \ 10 \text {p}$
 
 </div>
 </div>
@@ -284,18 +287,21 @@ Work out the price of one packet of jelly gum.
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 As per the question,
 
 $
 \begin{aligned}
-\text {Cost of 5 lollipops}                 &= 35 \ \text {p} \times 5 \\\\
-                                            &= \pounds \dfrac {35} {100} \times 5 \\\\
-                                            &= 0.35 \times 5 \\\\
+\text {Cost of 5 lollipops}                 &= 5 \times 35 \text {p} \\\\
+                                            &= 5 \times \pounds 0.35 \\\\
                                             &= \pounds 1.75 \\\\
-\text {Cost of one packet of jelly gum}     &= \dfrac {\text {Total money} - \text {Cost of five lollipops}} {3} \\\\
-                                            &= \dfrac {3.1 - 1.75} {3} \\\\
+\text {Cost of one packet of jelly gum}     &= \dfrac {3.10 - 1.75} {3} \\\\
                                             &= \dfrac {1.35} {3} \\\\
-                                            &= \pounds 0.45 
+                                            &= \pounds 0.45
 \end{aligned}
 $
 

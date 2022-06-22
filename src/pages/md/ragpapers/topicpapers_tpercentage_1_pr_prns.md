@@ -1,9 +1,123 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-pr-prns"
 title: "TopicPaper - Percentage - 1 - PR - PRNS"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170</p>
+</div>
+<div class='papername'>
+<p>alderley-edge-school-for-girls--11-plus--maths--9999--sample-paper-2:2:1</p>
+</div>
+<div class='rag'>
+<p>rag_ub_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The table shows whether pupils in a class walk to school.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+
+
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What percentage of **boys** walk to school?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin{aligned}
+\text{Percentage of boys in class walk to school}                      &= \dfrac {2} {2 + 8} \times 100 \\\\
+                                                                       &= \dfrac {2} {10} \times 100 \\\\
+                                                                       &= \dfrac {2} {1 \cancel {0}} \times 10 \cancel{0} \\\\
+                                                                       &=  2 \times 10 \\\\
+                                                                       &= 20 \%
+\end{aligned}
+
+</div>
+<div class='working'>
+
+\begin{aligned}
+\text{Percentage of pupils in class walk to school}                    &= \dfrac {2 + 5} {2 + 8 + 5 + 10} \times 100 \\\\
+                                                                       &= \dfrac {7} {25} \times 100 \\\\
+                                                                       &= \dfrac {7} {25} \times  25 \times 4 \\\\
+                                                                       &= \dfrac {7} {\cancel {25}} \times \cancel {25} \times 4 \\\\
+                                                                       &=  7 \times 4  \\\\                                                    
+                                                                       &= 28 \%
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$20 \% $
+
+</div>
+<div class='answer'>
+
+$28 \% $
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' id='FORM-DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170'>Initial</p>
+</div>
+</div>
+</li>
 <li>
 <div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-blocked"
 title: "TopicPaper - Money - 1 - BLOCKED"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -185,6 +185,383 @@ $
 <div class='answer'>
 
 $18 \ \text {pence}$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>F46CBE4D-99F4-42BD-99FC-07C324ACDE6D</p>
+</div>
+<div class='papername'>
+<p>colfes-school--11-plus--maths--9999--sample-paper:0:25</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The cost in pounds, $C$, of going to the cinema can be worked out using the formula
+
+$C = 8a + 3k$
+
+In this formula $a$ stands for the number of adults and $k$ stands for the number of children.
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the cost if three adults and one child go to the cinema?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin {aligned}
+\text {Total Cost}  &= 8 \times 3 \ \text {adults} + 3 \times 1 \ \text {child} \\\\
+                    &= 24 + 3 \\\\
+                    &= \pounds 27
+\end {aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 27$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The total cost for the Bryant family is $\pounds 25$. How many adults and how many children are in the family?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+The maximum count of adult tickets possible with $\pounds 25 = 2$ adults.
+
+$
+\begin {aligned}
+8 \times 2 + 3k     &= 25 \\\\
+16 + 3k             &= 25 \\\\
+3k                  &= 25 - 16 \\\\
+3k                  &= 9 \\\\
+k                   &= \dfrac {9} {3} \\\\
+k                   &= \dfrac {3 \times 3} {3} \\\\
+k                   &= \dfrac {3 \times \cancel {3}} {\cancel {3}} \\\\
+k                   &= 3
+\end {aligned}
+$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+
+</div>
+<div class='working'>
+
+This can be inferred by using trial and error.
+
+Let's find the maximum number of adult tickets that can be bought with $\pounds 25$.
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per adult}}   &= \text {No. of adult tickets} \\\\
+\pounds \dfrac {25} {8}                                 &= \text {No. of adult tickets} \\\\
+\dfrac {8 \times 3 + 1} {8}                             &= 3 \ \text {adult tickets}  + \text {Rest} \ \pounds 1
+\end {aligned}
+$
+
+For $\pounds 1$ we cannot buy any child ticket. Let's reduce $1$ adult ticket and buy child tickets.
+
+$
+\begin {aligned}
+8 \times 2 \ \text {adults}     &= \pounds 16 \\\\
+\pounds 25 - \pounds 16         &= \pounds 9
+\end {aligned}
+$
+
+Let's find the maximum number of child tickets that can be bought with $\pounds 9$
+
+$
+\begin {aligned}
+\dfrac {\text {Total money}} {\text {Cost per child}}   &= \text {No. of child tickets} \\\\
+\pounds \dfrac {9} {3}                                  &= 3 \ \text {tickets}
+\end {aligned}
+$
+
+$8 \times 2 + 3 \times 3 = \pounds 25$
+
+Bryant family has,
+
+Adults $= 2$
+
+Children $= 3$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$
+\text {Adult}    = 2 \\
+\text {Children} = 3
+$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
+</div>
+<div class='papername'>
+<p>csse--11-plus--maths--2016--sample-paper-3:0:8</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Sasha is selling greetings cards and gifts for Mothers' Day.
+
+![missing table](/papers/missing_table.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What is the total cost of a large card & envelope, candles and a small chocolate selection?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the table,
+
+$
+\begin{aligned}
+\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
+                      &= \pounds 9.57
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 9.57$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
+                         &= 10 - 5.44 \\\\
+                         &= \pounds 4.56
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.56$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
+He knew that three items, bought tor=gether, have that total price.
+
+Which three prices total $\pounds 7.73$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
+&= \pounds 7.73
+\end{aligned}
+$
+
+$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.59$
+
+</div>
+<div class='answer'>
+
+$\pounds 1.49$
+
+</div>
+<div class='answer'>
+
+$\pounds 3.65$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>DDDE56A1-2ADE-4DAE-AEAA-26D6BFF18479</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:0:22</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+<li>
+tfakeratio
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Robbie saves $\pounds 3.50$ every week. How much does he save in a year?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As we know, there are $52$ weeks in a year.
+
+$
+\begin{aligned}
+\text {Savings in a year}      &= 52 \times \pounds 3.50  \\\\
+                               &= \pounds 182
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 182$
 
 </div>
 </div>

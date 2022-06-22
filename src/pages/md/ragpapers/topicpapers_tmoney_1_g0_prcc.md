@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g0-prcc"
 title: "TopicPaper - Money - 1 - G0 - PRCC"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
 <li>
@@ -213,10 +213,10 @@ As per the table,
 
 $
 \begin{aligned}
-\text {Money collected Dad} &= \pounds 5 + 8 \times 25 \text {p} \\\\
-                            &= \pounds 5 + 8 \times \pounds 0.25 \\\\
-                            &= 5 + 2 \\\\
-                            &= \pounds 7
+\text {Money collected from Dad}    &= \pounds 5 + 8 \times 25 \text {p} \\\\
+                                    &= \pounds 5 + 8 \times \pounds 0.25 \\\\
+                                    &= 5 + 2 \\\\
+                                    &= \pounds 7
 \end{aligned}
 $
 
@@ -383,190 +383,6 @@ $\pounds 3.90$
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>52153412-2F82-4D52-970C-B08AEBF2A3CC</p>
-</div>
-<div class='papername'>
-<p>csse--11-plus--maths--2016--sample-paper-3:0:8</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Sasha is selling greetings cards and gifts for Mothers' Day.
-
-![missing table](/papers/missing_table.svg)
-
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-What is the total cost of a large card & envelope, candles and a small chocolate selection?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the table,
-
-$
-\begin{aligned}
-\text {Total cost}    &= \pounds 2.59 + \pounds 5.49 + \pounds 1.49 \\\\
-                      &= \pounds 9.57
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 9.57$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-How much change would be needed, from a $\pounds 10$ note, if Sasha sells a medium card & envelope with a bunch of dried flowers?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-\text {Change needed}    &= \pounds 10 - (\pounds 1.79 + \pounds 3.65) \\\\
-                         &= 10 - 5.44 \\\\
-                         &= \pounds 4.56
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 4.56$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Sasha is asked for an itemised receipt for a bill of $\pounds 7.73$. 
-He knew that three items, bought tor=gether, have that total price.
-
-Which three prices total $\pounds 7.73$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \pounds 2.59 + \pounds 1.49 + \pounds 3.65 \\\\
-&= \pounds 7.73
-\end{aligned}
-$
-
-$\pounds 2.59, \pounds 1.49, \pounds 3.65$ totals to $\pounds 7.73$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.59$
-
-</div>
-<div class='answer'>
-
-$\pounds 1.49$
-
-</div>
-<div class='answer'>
-
-$\pounds 3.65$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='52153412-2F82-4D52-970C-B08AEBF2A3CC' id='FORM-52153412-2F82-4D52-970C-B08AEBF2A3CC' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-52153412-2F82-4D52-970C-B08AEBF2A3CC'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
 <p>ED073E19-C259-4CCE-9247-955B9E693C10</p>
 </div>
 <div class='papername'>
@@ -595,10 +411,10 @@ How much change would there be from a $\pounds 20$ note for Alice, Owen, Mum, Da
 
 $
 \begin{aligned}
-\text{Total cost}       &= 2 \times \pounds 1.60 + 3 \times \pounds 2.40 + \pounds 1.50 \\\\
+\text{Money spent}      &= 2 \times \pounds 1.60 + 3 \times \pounds 2.40 + \pounds 1.50 \\\\
                         &= 3.20 + 7.20 + 1.50 \\\\
                         &= \pounds 11.90 \\\\
-\text{Change left }     &= 20 - 11.90 \\\\
+\text{Change received}  &= 20 - 11.90 \\\\
                         &= \pounds 8.10
 \end{aligned}
 $
@@ -1017,6 +833,7 @@ What is $\dfrac {3} {4}$ of $\pounds 4.48$?
 $
 \begin{aligned}
 &= \dfrac {3} {4} \ \text {of} \ \pounds 4.48 \\\\
+&= \dfrac {3} {4} \times 4.48 \\\\
 &= \dfrac {3 \times 4.48} {4} \\\\
 &= \dfrac {13.44} {4} \\\\
 &= \pounds 3.36
@@ -1157,6 +974,179 @@ $20 \%$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-8CB9E9FF-C1CF-493D-808B-3F8353350421'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>AE91E319-28CD-4E72-BACB-3D5D6A529FA0</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:33</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+How much change would you get from $\pounds 10$ if you bought $7$ $\text{Chocco}^{\text{TM}}$ bars at $78 \text{p}$ each?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
+$
+\begin{aligned} 
+\text {Money spent}             &= 7 \times 78 \text {p} \\\\
+                                &= 7 \times \pounds 0.78 \\\\
+                                &= \pounds 5.46 \\\\
+\text {Change recieved}         &= 10 - 5.46 \\\\
+                                &= \pounds 4.54
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 4.54$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='AE91E319-28CD-4E72-BACB-3D5D6A529FA0' id='FORM-AE91E319-28CD-4E72-BACB-3D5D6A529FA0' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-AE91E319-28CD-4E72-BACB-3D5D6A529FA0'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='uuid'>
+<p>531E3BC7-C9D8-4A66-AD98-C9130D5EE75C</p>
+</div>
+<div class='papername'>
+<p>devonport-high-school-for-boys--11-plus--maths--2020--sample-paper-5:0:39</p>
+</div>
+<div class='rag'>
+<p>rag_ak_g0</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prcc</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What is $15 \%$ of $\pounds 120$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= 15 \% \ \text {of} \ \pounds 120 \\\\
+&= \dfrac {15} {100} \times 120 \\\\
+&= \dfrac {15 \times 120} {100} \\\\
+&= \dfrac {3 \times 5 \times 6 \times 20} {5 \times 20} \\\\
+&= \dfrac {3 \times \cancel {5} \times 6 \times \cancel {20}} {\cancel {5} \times \cancel {20}} \\\\
+&= 3 \times 6 \\\\
+&= \pounds 18
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 18$
+
+</div>
+</div>
+
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G1' data-uuid='531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' id='FORM-531E3BC7-C9D8-4A66-AD98-C9130D5EE75C' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-531E3BC7-C9D8-4A66-AD98-C9130D5EE75C'>Initial</p>
 </div>
 </div>
 </li>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-2"
 title: "TopicPaper - Detailedmultiplication - 2"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -645,7 +645,7 @@ $3648$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_prbd rag_prns question'>
 <div class='uuid'>
 <p>4B1284E8-4D88-4494-B100-80B79F71EDB1</p>
 </div>
@@ -653,7 +653,7 @@ $3648$
 <p>merchant-taylors-school--11-plus--maths--9999--practice-paper-4:0:34</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_prbd</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1774,7 +1774,7 @@ $40600$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>89CBFDE4-945C-49CB-88BA-378290DC6C26</p>
 </div>
@@ -1782,7 +1782,7 @@ $40600$
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1802,13 +1802,13 @@ Use your previous answer to write down $2030 \times 5$
 <div class='workings'>
 <div class='working'>
 
-Using our previous answer 
+Using our previous answer
 
 $2030 \times 20 = 40600$
 
 $2030 \times 5 \times 4 = 40600$
 
-$2030 \times 5 = dfrac {40600} {4}$
+$2030 \times 5 = \dfrac {40600} {4}$
 
 $
 \begin{aligned}
@@ -1827,16 +1827,47 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$10150$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='89CBFDE4-945C-49CB-88BA-378290DC6C26' id='FORM-89CBFDE4-945C-49CB-88BA-378290DC6C26' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-89CBFDE4-945C-49CB-88BA-378290DC6C26'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>745F518F-A5FF-426F-A2D5-6404A2A3F23D</p>
 </div>
@@ -1844,7 +1875,7 @@ TODOANSWER
 <p>reigate-grammar-school--11-plus--maths--2013--sample-paper-4:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1864,29 +1895,65 @@ Use these last two answers to write down $2030 \times 25$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+Using our previous answers 
 
-</div>
-<div class='working'>
+$2030 \times 5 = 10150$
 
-TODOWORKING
+$2030 \times 5 \times 5 = 10150 \times 5$
+
+$2030 \times 25 = 10150 \times 5$
+
+$
+\begin{array}{cccccccccccccc}
+       &   1   &   0   &   1   &   5   &   0 \\
+\times &       &       &       &       &   5 \\
+\hline
+       &   5   &   0   &   7   &   5   &   0
+\end{array}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$50750$
 
 </div>
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='745F518F-A5FF-426F-A2D5-6404A2A3F23D' id='FORM-745F518F-A5FF-426F-A2D5-6404A2A3F23D' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-745F518F-A5FF-426F-A2D5-6404A2A3F23D'>Initial</p>
+</div>
 </div>
 </li>
 <li>

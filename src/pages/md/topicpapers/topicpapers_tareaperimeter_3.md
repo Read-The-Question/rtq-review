@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tareaperimeter-3"
 title: "TopicPaper - Areaperimeter - 3"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-21 21:44:24
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BD44A344-8EDA-4BCD-978F-FE8E11154BA8</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-21 21:44:24
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -47,17 +47,22 @@ If the rectangle is twice as long as it is wide, what is its area?
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle $= a$.
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the width of the rectangle $= a$
+
+Length of the rectangle $= 2a$
 
 As per the question,
 
-Length of the rectangle $= 2a$.
-
 $
 \begin{aligned}
-\text{Perimeter of the rectangle}         &= 2 \times (\text {length} + \text {width}) \\\\
-30                                        &= 2 \times (2a + a) \\\\
-30                                        &= 2 \times 3a \\\\
+2 \times (2a + a)                         &= 30 \\\\
+2 \times 3a                               &= 30 \\\\
 6a                                        &= 30 \\\\
 a                                         &= \dfrac {30} {6} \\\\
 a                                         &= \dfrac {5 \times 6} {6} \\\\
@@ -66,14 +71,13 @@ a                                         &= 5 \ \text {cm}
 \end{aligned}
 $
 
-Width of the rectangle $= 5 \ \text {cm}$.
+Width of the rectangle $= 5 \ \text {cm}$
 
-Length of the rectangle $= 10 \ \text {cm}$.
+Length of the rectangle $= 10 \ \text {cm}$
 
 $
 \begin{aligned}
-\text{Area of the rectangle}        &= \text {length} \times \text {width} \\\\
-                                    &= 5 \times 10 \\\\
+\text{Area of the rectangle}        &= 5 \times 10 \\\\
                                     &= 50 \ \text {cm} ^2
 \end{aligned}
 $
@@ -194,7 +198,7 @@ $
 \begin{aligned}
 \text{Area of room}                                   &= \text{Length} \times \text{Width} \\\\
                                                       &= 8 \ \text{m} \times 20 \ \text{m}\\\\
-                                                      &= 160 \ \text{m}^2
+                                                      &= 160 \ \text{m}^2 \\\\
 \text{Largest square tile that can be used}           &= \dfrac {160} {40} \\\\
                                                       &= 4 \ \text{m}
 \end{aligned}
@@ -248,7 +252,7 @@ $4 \ \text{m}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4235F04-280E-476A-BD32-2553DE1134CA</p>
 </div>
@@ -259,7 +263,7 @@ $4 \ \text{m}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -289,17 +293,26 @@ What is the perimeter of the shape?
 <div class='workings'>
 <div class='working'>
 
-We know,
+*ABBR: TODO:: Add drawing starts.*
 
-Perimeter of a rectangle is $2(\text{length} + \text{width})$
+![missing image](/papers/missing_image.svg)
 
-As per the diagram,
+
+*TODO:: Show the given diagram divided into three rectangles with measurements shown.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+As per the diagram, the shape can be divided into three rectangles
 
 $
 \begin{aligned}
 \text{Perimeter of the shape}                  &= \text{Perimeter of 3 rectangles} - \text{4 Overlapping width} \\\\
-                                               &= 3 \times 2(8 + 3) - 4 \times 3 \\\\
-                                               &= 3 \times 2 \times 11 - 12 \\\\
+                                               &= 3 \times (2 \times (8 + 3)) - 4 \times 3 \\\\
+                                               &= 3 \times (2 \times 11) - 12 \\\\
                                                &= 3 \times 22 - 12 \\\\
                                                &= 66 - 12 \\\\
                                                &= 54 \ \text{m}
@@ -425,7 +438,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DF8291DD-BFBC-4F7B-A1AB-30A8DDB08EFF</p>
 </div>
@@ -436,7 +449,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -463,9 +476,11 @@ When $x = 1.5$ what is the value of the **perimeter** of the triangular area?
 <div class='workings'>
 <div class='working'>
 
+As per the diagram,
+
 $
 \begin{aligned}
-\text{Perimeter of triangle}                   &= \text{Sum of all sides} \\\\
+\text{Perimeter}                               &= \text{Sum of all sides} \\\\
                                                &= 3(x +1) + 2(x - 2) + 4x \\\\
                                                &= 3(1.5 +1) + 2(1.5 - 2) + 4 \times 1.5 \\\\
                                                &= 3 \times 2.5 + 2 \times (-0.5) + 6 \\\\
@@ -586,7 +601,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DFB28188-B181-4153-8449-33CBDC8CCDA6</p>
 </div>
@@ -597,7 +612,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -640,12 +655,15 @@ What is the area of the rectangle?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
 As per the diagram,
 
 $
 \begin{aligned}
-\text{Area of the rectangle}                        &= 5 \times 2 \\\\
-                                                    &= 10 \ \text{cm}^{2}
+\text{Area}                        &= 5 \times 2 \\\\
+                                   &= 10 \ \text{cm}^{2}
 \end{aligned}
 $
 
@@ -680,7 +698,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text{Number of triangles}                          &= \dfrac {\text{Area of rectangle}} {\text{Area of triangle}}  \\\\
+\text{Number of triangles}                          &= \dfrac {\text {Area of rectangle}} {\text {Area of triangle}}  \\\\
                                                     &= \dfrac {10} {\dfrac {1} {2} \times 1 \times 1} \\\\
                                                     &= \dfrac {10} {\dfrac {1} {2}} \\\\
                                                     &= 10 \times 2 \\\\
@@ -736,7 +754,7 @@ $20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>AA38A94F-9954-4B0A-859F-8177A118F2D7</p>
 </div>
@@ -747,7 +765,7 @@ $20$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -771,18 +789,31 @@ What has the perimeter increased by?
 <div class='workings'>
 <div class='working'>
 
-Let the length $= l$.
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
-Let the width $= w$.
 
-As per the question,
+Let the original length $= l$.
+
+Let the original width $= w$.
 
 $
 \begin{aligned}
-\text {perimeter of rectangle}  &= 2 \times (l + w) \\\\
-                                &= 2 \times (l + 10 + w + 10) \\\\
-                                &= 2 \times (l + w + 20) \\\\
-                                &= 2 \times (l + w) + 40
+\text {Perimeter of original rectangle}              &= 2 \times (l + w)
+\end{aligned}
+$
+
+As per the question,
+
+Increased length $= l + 10$
+
+Increased width $= w + 10$
+
+$
+\begin{aligned}
+\text {Perimeter of increased rectangle}    &= 2 \times (l + 10 + w + 10) \\\\
+                                            &= 2 \times (l + w + 20) \\\\
+                                            &= 2 \times (l + w) + 40 \\\\
+                                            &= \text {Perimeter of original rectangle} + 40
 \end{aligned}
 $
 
@@ -1059,7 +1090,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>9084E70D-57B3-42F0-867B-558AB1041DE5</p>
 </div>
@@ -1070,7 +1101,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1091,18 +1122,34 @@ What is the area of new rectangle?
 <div class='workings'>
 <div class='working'>
 
-Area of rectangle $= \text{Length} \times \text{Width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+Let the length of the rectangle $= l$
+
+Let the width of the rectangle $= w$
 
 As per the question,
 
-After making its sides double new area $= 2 \times \text{Length} \times 2 \times \text{Width}$
+$
+\begin{aligned}
+\text {Area of rectanlge}   &= 20 \\\\
+l \times w                  &= 20 \ \text {cm}^2
+\end{aligned}
+$
 
-Which means new area $= 4 \times \text {previous area}$
+After sides are doubled,
+
+New length $= 2 \times l$
+
+New width $= 2 \times w$
 
 $
 \begin{aligned}
-&= 4 \times 20 \ \text {cm} ^2 \\\\
-&= 80 \ \text {cm} ^2
+\text {New area}    &= (2 \times l) \times (2 \times w) \\\\
+                    &= 4 \times (l \times w) \\\\
+                    &= 4 \times 20 \ \text {cm} ^2 \\\\
+                    &= 80 \ \text {cm} ^2
 \end{aligned}
 $
 
@@ -1486,7 +1533,7 @@ Area $=$ $108 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>74657F27-CC78-4631-BFF4-E7AE538A47EC</p>
 </div>
@@ -1497,7 +1544,7 @@ Area $=$ $108 \ \text {cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1518,16 +1565,23 @@ A circle of radius $10 \ \text{cm}$ is inscribed inside a square as shown. Find 
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Area of circle} = \text{3.14} \times \text{radius} \times \text{radius}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
 \text{Area of square}                   &= 20 \times 20 \\\\
-                                        &= 400 \text{cm}^2 \\\\
-\text{Area of circle}                   &= \text{3.14} \times \text{radius} \times \text{radius} \\\\
-                                        &= 3.14 \times 10 \times 10 \\\\
-                                        &= 314 \text{cm}^2 \\\\
+                                        &= 400 \ \text{cm}^2 \\\\
+\text{Area of circle}                   &= 3.14 \times 10 \times 10 \\\\
+                                        &= 314 \ \text{cm}^2 \\\\
 \text{Area of shaded region}            &= \text{area of square - area of circle} \\\\
-                                        &= 400 - 314 \\\
-                                        &= 86 \text{cm}^2
+                                        &= 400 - 314 \\\\
+                                        &= 86 \ \text{cm}^2
 \end{aligned}
 $
 
@@ -1576,7 +1630,7 @@ $86 \text{cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3AC41847-B315-468A-A2D7-E375F2BF6A55</p>
 </div>
@@ -1587,7 +1641,7 @@ $86 \text{cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1610,32 +1664,39 @@ What is the perimeter of rectangle?
 <div class='workings'>
 <div class='working'>
 
-Let the width of the rectangle $= a$.
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
+Let the width of the rectangle $= a$
 
 As per the question, 
 
-Length of the rectangle $= 2a$. 
+Length of the rectangle $= 2a$
 
 $
 \begin {aligned}
-\text {Area of the rectangle}   &= \text {length} \times \text {width} \\\\
-128                             &= 2a \times a \\\\
+\text {Area of the rectangle}   &= 128 \\\\
+2a \times a                     &= 128 \\\\
 2a ^ 2                          &= 128 \\\\
 a ^ 2                           &= \dfrac {128} {2} \\\\
 a ^ 2                           &= \dfrac {64 \times 2} {2} \\\\
 a ^ 2                           &= \dfrac {64 \times \cancel {2}} {\cancel {2}} \\\\
 a ^ 2                           &= 64 \\\\
 a                               &= \sqrt {64} \\\\
-a                               &= 8
+a                               &= 8 \ \text{cm}
 \end {aligned}
 $
 
-Width of the rectangle $= 8 \ \text {cm}$, length of the rectangle $2 \times 8 = 16 \ \text {cm}$.
+Width of the rectangle $= 8 \ \text {cm}$
+
+Length of the rectangle $= 2 \times 8 = 16 \ \text {cm}$
 
 $
 \begin {aligned}
-\text {Perimeter of rectangle}  &= 2 (\text {length} + \text {width}) \\\\
-                                &= 2 \times (16 + 8) \\\\
+\text {Perimeter}               &= 2 \times (16 + 8) \\\\
                                 &= 2 \times 24 \\\\
                                 &= 48 \ \text {cm}
 \end {aligned}
@@ -2140,7 +2201,7 @@ Calculate the perimeter of this shape stating your units very carefully.
 ABBR: It is really important to use the right units in calculations and convert where required.
 
 
-Let's convert the all lenghts into meters.
+Let's convert all the lenghts into meters.
 
 $
 \begin {aligned}
@@ -2149,7 +2210,7 @@ $
                                 &= \dfrac {80} {100} \text {m} + 1.6 \text {m} + (1.8 \text {m} - \dfrac {80} {100} \text {m}) + \dfrac {30} {100} \text {m} + 1.8 \text {m} + (1.6 \text {m} + \dfrac {30} {100} \text {m}) \\\\
                                 &= 0.80 + 1.6 + (1.8 - 0.80) + 0.30 + 1.8 + (1.6 + 0.30) \\\\
                                 &= 2.40 + 1 + 2.1 + 1.90 \\\\
-                                &= 7.4 \text {m}
+                                &= 7.4 \ \text {m}
 \end {aligned}
 $
 
@@ -2229,16 +2290,24 @@ What is the area of this shape?
 <div class='workings'>
 <div class='working'>
 
-We can divide the shape into $2$ rectangle as per the diagram shown below.
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram the given shape divided into two rectangles.*
+
+*ABBR: TODO:: Add drawing ends.*
+
 
 ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
 
-As per the diagram,
+As per the diagram, the shape can be divided into two rectangle
 
 $
 \begin{aligned}
-\text {Area of the shape} &= \text {Area of Rectangle 1} + \text {Area of Rectangle 2} \\\\
+\text {Total Area}        &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
                           &= 24 \times 11 + 7 \times 4 \\\\
                           &= 264 + 28 \\\\
                           &= 292 \ \text {cm}^2
@@ -2290,7 +2359,7 @@ $292 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>66777738-C618-4271-96E5-1C9214C9F392</p>
 </div>
@@ -2301,7 +2370,7 @@ $292 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2326,6 +2395,11 @@ What is the perimeter of the cross shape tile?
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -2359,6 +2433,8 @@ Robert puts three tiles together to make the shape below. What is the perimeter 
 <div class='workings'>
 <div class='working'>
 
+As per the diagram,
+
 $
 \begin{aligned}
 \text{Perimeter} &= 3 \times \text{Perimeter of tile} - 4 \times \text{Common side between tiles} \\\\
@@ -2390,6 +2466,8 @@ Ravi put ten tiles together in a similar way. What is the perimeter of his shape
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the question,
 
 $
 \begin{aligned}
@@ -2449,7 +2527,7 @@ $132 \ \text{cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>C0AB44D2-C8F2-43F6-90E6-EE207A3C6863</p>
 </div>
@@ -2460,7 +2538,7 @@ $132 \ \text{cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2480,14 +2558,16 @@ Find the perimeter of this rectangle:
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
 As per the diagram,
 
 $
 \begin {aligned}
-\text {Perimeter of a rectangle}  &= 2 \times (\text {length} + \text {width}) \\\\
-                                  &= 2 \times (4.65 \text {m} + 1.8 \text {m}) \\\\
+\text {Perimeter}                 &= 2 \times (4.65 + 1.8) \\\\
                                   &= 2 \times 6.45 \\\\
-                                  &= 12.90 \text {m}
+                                  &= 12.90 \ \text {m}
 \end {aligned}
 $
 
@@ -2721,7 +2801,7 @@ $25$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B42A433-329F-41DC-9514-D33035E31C66</p>
 </div>
@@ -2732,7 +2812,7 @@ $25$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2756,14 +2836,16 @@ $144 \ \text{cm}^2$  $48 \ \text{cm}^2$  $36 \ \text{cm}^2$  $9 \ \text{cm}^2$  
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
 As per the question,
 
 As the radius of circle is $6 \ \text {cm}$, the length of a side of the square must be at least $12 \ \text {cm}$.
 
 $
 \begin {aligned}
-\text {Area of a square}  &= \text {Side} ^ 2 \\\\
-                          &= 12 ^ 2 \\\\
+\text {Area of a square}  &= 12 \times 12 \\\\
                           &= 144 \ \text {cm} ^ 2
 \end {aligned}
 $
@@ -3012,7 +3094,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5E2C0A12-2BC4-4C9F-9FD6-67D03AF333A0</p>
 </div>
@@ -3023,7 +3105,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3042,19 +3124,21 @@ What is the area of the shaded diamond below? **[Diagram not to scale]**
 ![missing image](/papers/missing_image.svg)
  
 
-A: $$34\ \ \text{cm}$^2$ 
+A: $34 \ \text{cm}^2$ 
 
-$B: 264 \ cm^2$ 
+B: $264 \ \text{cm}^2$ 
 
-$C: $198\ \ \text{cm}$^2$  
+C: $198 \ \text{cm}^2$  
 
-$D: $132\ \ \text{cm}$^2$  
+D: $132 \ \text{cm}^2$  
 
-$E: 66 \ cm^2$ 
+E: $66 \ \text{cm}^2$ 
 
 </div>
 <div class='workings'>
 <div class='working'>
+
+As per the diagram,
 
 $
 \begin{aligned}
@@ -3115,7 +3199,7 @@ $132 \ \text{cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A4CB4DBF-89A7-4F40-A1C4-CF10D56028A7</p>
 </div>
@@ -3126,7 +3210,7 @@ $132 \ \text{cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3149,11 +3233,24 @@ What is the area of the shape below?
 <div class='workings'>
 <div class='working'>
 
-As per the diagram,
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram with three rectangles.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into three rectangles
 
 $
 \begin{aligned}
-\text{Area of the shape} &= \text{Sum of area of three rectangles} \\\\
+\text{Total Area}        &= \text{Rectangle 1 + Rectangle 2 + Rectangle 3} \\\\
                          &= 3 \times 8 + 9 \times 5 + 2 \times 8 \\\\
                          &= 24 + 45 + 16 \\\\
                          &= 85 \ \text{cm} ^ 2
@@ -3205,7 +3302,7 @@ $85 \ \text{cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3742159D-D696-4318-A135-5CE5923F673E</p>
 </div>
@@ -3216,7 +3313,7 @@ $85 \ \text{cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3235,13 +3332,13 @@ What is the area of the shaded shape below? **[Diagram not to scale]**
 ![missing image](/papers/missing_image.svg)
  
 
-A: $$41\ \ \text{cm}$^2$ 
+A: $41 \ \text{cm}^2$ 
 
-B: $$49\ \ \text{cm}$^2$ 
+B: $49 \ \text{cm}^2$ 
 
-C: $$56\ \ \text{cm}$^2$ 
+C: $56 \ \text{cm}^2$ 
 
-D: $89 \ cm^2$ 
+D: $89 \ \text {cm}^2$ 
 
 E: $\text{More information needed}$
 
@@ -3249,14 +3346,24 @@ E: $\text{More information needed}$
 <div class='workings'>
 <div class='working'>
 
-We can divide the shape into 2 rectangle as per the diagram shown below.
+*ABBR: TODO:: Add drawing starts.*
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+![missing image](/papers/missing_image.svg)
 
+
+*TODO:: Add a diagram with two rectangles.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram, the shape can be divided into two rectangles
 
 $
 \begin{aligned}
-\text {Area of the shaded region} &= \text {Area of first Rectangle} + \text {Area of second Rectangle} \\\\
+\text {Total Area}                &= \text {Rectangle 1} + \text {Rectangle 2} \\\\
                                   &= 5 \times 3 + 13 \times 2 \\\\
                                   &= 15 + 26 \\\\
                                   &= 41 \ \text {cm}^2
@@ -3308,7 +3415,7 @@ $41 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1B8CFA67-79EE-4405-AF7C-75703EDA343B</p>
 </div>
@@ -3319,7 +3426,7 @@ $41 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3352,12 +3459,24 @@ E: $17.5 \ cm^2$
 <div class='workings'>
 <div class='working'>
 
+*ABBR: TODO:: Add drawing starts.*
+
+![missing image](/papers/missing_image.svg)
+
+
+*TODO:: Add a diagram with two triangle.*
+
+*ABBR: TODO:: Add drawing ends.*
+
+
 ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
 
 
+As per the diagram, the shape can be divided into two triangles
+
 $
 \begin{aligned}
-\text {Area of the shaded triangle} &= \text {Area of first triangle} + \text {Area of second triangle} \\\\
+\text {Total Area}                  &= \text {Triangle 1} + \text {Triangle 2} \\\\
                                     &= \dfrac {1} {2} \times 3.5 \times 2 + \dfrac {1} {2} \times 3.5 \times 6 \\\\
                                     &= \dfrac {3.5 \times 2} {2} + \dfrac {3.5 \times 2 \times 3} {2} \\\\
                                     &= \dfrac {3.5 \times \cancel {2}} {\cancel {2}} + \dfrac {3.5 \times \cancel {2} \times 3} {\cancel {2}} \\\\
@@ -3414,7 +3533,7 @@ $14 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F39DD2AD-6A07-4797-A7BC-FA6F904C2A63</p>
 </div>
@@ -3425,7 +3544,7 @@ $14 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3448,9 +3567,12 @@ Sid the spider goes for a walk around the whole perimeter of the shape below, st
 <div class='workings'>
 <div class='working'>
 
+As per the diagram,
+
 $
 \begin{aligned}
-\text{Perimeter} &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
+\text{Perimeter} &= \text {Sum of all sides} \\\\
+                 &= 4 + 9 + 5 + 9 + (12 - (5 + 4)) + 14 + 12 + 14 \\\\
                  &= 70 \ \text{cm}
 \end{aligned}
 $
@@ -3878,7 +4000,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F014D26-2CA6-44D6-B3C8-62FC95F45D0C</p>
 </div>
@@ -3889,7 +4011,7 @@ TODOANSWER
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3931,18 +4053,20 @@ Find the length of the side of the square.
 <div class='workings'>
 <div class='working'>
 
-Let the side of the square $=a$
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
 
-ABBR: $\text{Perimeter} = 4 \times \text{side})$
 
+Let the side of the square $= a$
+
+As per the question,
 
 $
 \begin{aligned}
-20                 &= 4 \times \text {a} \\\\
-4 a                &= 20 \\\\
-\text{a}           &= \dfrac {20} {4} \\\\
-\text{a}           &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
-\text{a}           &= 5 \ \text {cm}
+4 \times a          &= 20 \\\\
+4a                  &= 20 \\\\
+a                   &= \dfrac {20} {4} \\\\
+a                   &= \dfrac {5 \times \cancel {4}} {\cancel {4}} \\\\
+a                   &= 5 \ \text {cm}
 \end{aligned}
 $
 
@@ -3968,8 +4092,10 @@ Calculate the $\text{AREA}$ of the square.
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area} = \text{side} \times \text{side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
 
+
+As per the question,
 
 $
 \begin{aligned}

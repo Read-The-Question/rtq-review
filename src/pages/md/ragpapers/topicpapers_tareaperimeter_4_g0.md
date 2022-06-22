@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tareaperimeter-4-g0"
 title: "TopicPaper - Areaperimeter - 4 - G0"
-date: 2022-06-21 21:44:24
+date: 2022-06-22 06:44:49
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>73897DF2-60E6-44C7-A452-1BFF5324A5B8</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-21 21:44:24
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -65,8 +65,13 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
-ABBR: $\text{Area} = \text{length} \times \text{width}$
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
 
+
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+Let the side of square $= s$
 
 As per the diagram,
 
@@ -77,10 +82,7 @@ $
 \end{aligned}
 $
 
-ABBR: $\text{Area} = \text{side} \times \text{side}$
-
-
-Let the side of square $= s$
+As per the question,
 
 $
 \begin{aligned}
@@ -116,8 +118,10 @@ What is the **side length** of this square?
 <div class='workings'>
 <div class='working'>
 
-\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
+
+Let the side of square $= s$
 
 As per the diagram,
 
@@ -129,7 +133,7 @@ $
 \end{aligned}
 $
 
-Let the side of square $= s$
+As per the question,
 
 $
 \begin{aligned}
@@ -190,7 +194,7 @@ $5 \ \text {cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5D763DCC-BA8B-4FED-92C6-D8B848454B73</p>
 </div>
@@ -201,7 +205,7 @@ $5 \ \text {cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -224,18 +228,19 @@ Find the perimeter and area of this shape:
 <div class='workings'>
 <div class='working'>
 
-The shape is a trapezium. So,
+As per the diagram,
 
 $
 \begin{aligned}
-\text {Perimeter} &= 6 + 5 + 9 + 4 \\\\
-                  &= 24 \ \text {cm}
+\text {Perimeter}   &= \text {Sum of all sides} \\\\
+                    &= 6 + 5 + 9 + 4 \\\\
+                    &= 24 \ \text {cm}
 \end{aligned}
 $
 
 Let the parallel sides of trapezium $= a, b$
 
-And let height of trapezium $= h$
+Let the height of trapezium $= h$
 
 $
 \begin{aligned}
@@ -294,7 +299,7 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>BB81BF83-EBB0-482C-B728-A09A6CBDE335</p>
 </div>
@@ -305,7 +310,7 @@ $24 \ \text {cm}, \ 30 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -350,10 +355,14 @@ What is the area of the shaded face?
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+As per the diagram,
+
 $
 \begin{aligned}
-\text {Area of shaded face} &= \text {length} \times \text {width} \\\\
-                            &= 3 \times 6 \\\\
+\text {Area of shaded face} &= 3 \times 6 \\\\
                             &= 18 \ \text {cm}^2
 \end{aligned}
 $
@@ -437,7 +446,7 @@ $216 \ \text {cm}^2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DB9D1025-5B8E-4705-909E-7C92C3171975</p>
 </div>
@@ -448,7 +457,7 @@ $216 \ \text {cm}^2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -470,6 +479,9 @@ A right-angled triangle has the dimensions as shown. What is the area of the **u
 </div>
 <div class='workings'>
 <div class='working'>
+
+ABBR: $\text{Area of triangle} = \dfrac{1}{2} \times \text{base} \times \text{height}$
+
 
 As per the diagram,
 
@@ -531,7 +543,7 @@ $3 \ \text {cm} ^ 2$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB0BA478-C8E7-46D4-B41D-FC926DEEE733</p>
 </div>
@@ -542,7 +554,7 @@ $3 \ \text {cm} ^ 2$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -571,8 +583,10 @@ Write down an expression for the perimeter of the rectangle. **Fully simplify yo
 <div class='workings'>
 <div class='working'>
 
-\text{Perimeter} &= 2 \times (\text{length} + \text{width})
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
 
+
+As per the question,
 
 $
 \begin{aligned}
@@ -723,7 +737,7 @@ $\text {3cm, \ 3cm, \ 8cm}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>A9164CFF-D274-477E-B9D2-26D22F572507</p>
 </div>
@@ -734,7 +748,7 @@ $\text {3cm, \ 3cm, \ 8cm}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -754,15 +768,25 @@ The area of a square is $0.25 \ \text{m}^2$. What is the perimeter of the square
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square $= s$
+
+As per the question,
+
 $
 \begin{aligned}
-l \times l                                              &= 0.25 \\\\
-l ^ 2                                                   &= 0.25 \\\\
-l                                                       &= \sqrt(0.25) \\\\
-l                                                       &= 0.5 \\\\
-\text{perimeter}                                        &= 4 \times l \\\\
+s \times s                                              &= 0.25 \\\\
+s ^ 2                                                   &= 0.25 \\\\
+s                                                       &= \sqrt(0.25) \\\\
+s                                                       &= 0.5 \ \text{m} \\\\
+\text{Perimeter}                                        &= 4 \times s \\\\
                                                         &= 4 \times 0.25 \\\\
-                                                        &= 1
+                                                        &= 1 \ \text {m}
 \end{aligned}
 $
 
@@ -771,7 +795,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$1$
+$1 \ \text {m}$
 
 </div>
 </div>
@@ -811,7 +835,7 @@ $1$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EE39E7C4-5AC8-49F1-9A96-C9762A697117</p>
 </div>
@@ -822,7 +846,7 @@ $1$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -844,6 +868,12 @@ If the length of the rectangle is $2 \ \text{cm}$ longer than the width, calcula
 <div class='workings'>
 <div class='working'>
 
+ABBR: $\text{Area of rectangle} = \text{length} \times \text{width}$
+
+
+ABBR: $\text{Perimeter of rectangle} = 2 \times (\text{length} + \text{width})$
+
+
 Let the breadth of rectangle $= x$
 
 As per the question,
@@ -851,8 +881,9 @@ As per the question,
 $
 \begin{aligned}
 \text {Length}                                          &= x + 2 \\\\
-2 \times (l + b)                                        &= 14 \\\\
-2 \times(x + x + 2)                                     &= 14 \\\\
+\text {Perimeter}                                       &= 14 \\\\
+2 \times(x + (x + 2))                                   &= 14 \\\\
+2 \times(2x + 2)                                        &= 14 \\\\
 (2x + 2)                                                &= \dfrac {14} {2} \\\\
 (2x + 2)                                                &= \dfrac {7 \times 2} {2} \\\\
 (2x + 2)                                                &= \dfrac {7 \times \cancel {2}} {\cancel {2}} \\\\
@@ -860,15 +891,11 @@ $
 2x                                                      &= 7 - 2 \\\\
 2x                                                      &= 5 \\\\
 x                                                       &= \dfrac {5} {2} \\\\
-\text{length}                                           &= \dfrac {5} {2} + 2 \\\\
-                                                        &= \dfrac {5} {2} + \dfrac {2 \times 2} {1 \times 2} \\\\
-                                                        &= \dfrac {5} {2} + \dfrac {4} {2} \\\\
-                                                        &= \dfrac {5 + 4} {2} \\\\
-                                                        &= \dfrac{9}{2} \\\\
-\text {area}                                            &= \text {l} \times \text {b} \\\\
-                                                        &= \dfrac {5} {2} \times \dfrac {9} {2} \\\\
-                                                        &= \dfrac {5 \times 9} {2 \times 2} \\\\
-                                                        &= \dfrac {45} {4}
+x                                                       &= 2.5 \ \text {cm} \\\\
+\text{Length}                                           &= 2.5 + 2 \\\\
+                                                        &= 4.5 \ \text {m} \\\\
+\text {Area}                                            &= 2.5 \times 4.5 \\\\
+                                                        &= 11.25 \ \text{m}^2
 \end{aligned}
 $
 
@@ -877,7 +904,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac{45}{4}$
+$1.25 \ \text{m}^2$
 
 </div>
 </div>
@@ -1406,7 +1433,7 @@ $76 \text{m}^{2}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4AFBC40F-1638-4EA4-8624-F4D2729AD1A4</p>
 </div>
@@ -1417,7 +1444,7 @@ $76 \text{m}^{2}$
 <p>rag_na_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1437,28 +1464,33 @@ If a square has an area of $36cm^2$, what is its perimeter?
 <div class='workings'>
 <div class='working'>
 
-Area of a square $= \text{Side} \times \text{Side}$
+ABBR: $\text{Area of square} = \text{side} \times \text{side}$
+
+
+ABBR: $\text{Perimeter of square} = 4 \times \text{side}$
+
+
+Let the side of the square (in cm) $= a$
 
 As per the question,
-
-Let the length of the side of the square (in cm) $= a$
 
 $
 \begin{aligned}
 a \times a                                      &= 36 \ \text{cm}^2\\\\
-a^{2}                                           &= 6^{2} \\\\
+a^{2}                                           &= 36 \\\\
+a                                               &= \sqrt {36} \\\\
 a                                               &= 6 \ \text{cm}
 \end{aligned}
 $
 
-The length of the side of the square $= 6 \ \text{cm}$
+Side of the square $= 6 \ \text{cm}$
 
 Let's find the perimeter of the square.
 
 $
 \begin{aligned}
 \text{Perimeter of the square}                  &= 4 \times a \\\\
-                                                &= 4 \times 6 \ \text{cm} \\\\
+                                                &= 4 \times 6 \\\\
                                                 &= 24 \ \text{cm}
 \end{aligned}
 $

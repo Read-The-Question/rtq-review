@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -1153,7 +1153,7 @@ $- 2 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>589CB670-19FF-4680-B62A-A16EE6BD7418</p>
 </div>
@@ -1161,7 +1161,7 @@ $- 2 \degree$
 <p>epsom-college--11-plus--maths--9999--sample-paper-1:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1290,14 +1290,14 @@ Write down the names of these places.
 <div class='workings'>
 <div class='working'>
 
-
+$\text {Belfast}, \ \text {Cadiff}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\text {Belfast}, \ \text {Cadiff}$
 
 </div>
 </div>
@@ -1306,10 +1306,41 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='589CB670-19FF-4680-B62A-A16EE6BD7418' id='FORM-589CB670-19FF-4680-B62A-A16EE6BD7418' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-589CB670-19FF-4680-B62A-A16EE6BD7418'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>0237E500-6C62-4B6B-9D5F-1235E8D6E07B</p>
 </div>
@@ -1317,7 +1348,7 @@ TODOANSWER
 <p>james-allens-girls-school--11-plus--maths--2020--sample-paper-2:0:11</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1396,7 +1427,7 @@ $
 \begin{aligned}
 &= 7 - (-4) \\\\
 &= 7 + 4 \\\\
-&= 11
+&= 11 \degree \text{C}
 \end{aligned}
 $
 
@@ -1473,11 +1504,47 @@ Manchester
 </div>
 </li>
 </ul>
+<div class='review-comments'>
 
+<h4>Review Comments</h4>
+ttable ttemprature 
+</div>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='0237E500-6C62-4B6B-9D5F-1235E8D6E07B' id='FORM-0237E500-6C62-4B6B-9D5F-1235E8D6E07B' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-0237E500-6C62-4B6B-9D5F-1235E8D6E07B'>Initial</p>
+</div>
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -1488,7 +1555,7 @@ Manchester
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1509,8 +1576,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference in temperature} &= \text{Temperature (Australia)} - \text{Temperature (Canada)} \\\\
-                                 &= 34.5 \degree \text{C} - (-26.5 \degree \text{C}) \\\\
+\text{Difference in temperature} &= \text{Australia Temperature - Canada Temperature } \\\\
+                                 &= 34.5  - (-26.5 ) \\\\
+                                 &= 34.5 + 26.5   \\\\
                                  &= 61 \degree \text{C}
 \end{aligned}
 $
@@ -2313,7 +2381,7 @@ $4 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
 </div>
@@ -2324,7 +2392,7 @@ $4 \degree \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2345,10 +2413,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
-                                                                    &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
-                                                                    &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
-                                                                    &= 19 \degree \text{C}
+    \text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
+                                                                        &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
+                                                                        &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
+                                                                        &= 19 \degree \text{C}
 \end{aligned}
 $
 
@@ -2663,7 +2731,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -2674,7 +2742,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2699,8 +2767,9 @@ cities?
 
 $
 \begin{aligned}
-\text {Difference between the hottest and the coldest cities} &= 23 - 12 \\\\
-                                                              &= 11 \degree \text{C}
+\text {Difference between the hottest and the coldest cities}   &= \text{Hottest tempareture - Coldest tempareture} \\\\
+                                                                &= 23 - 12 \\\\
+                                                                &= 11 \degree \text{C}
 \end{aligned}
 $
 
@@ -2807,7 +2876,7 @@ As per the question,
 $
 \begin{aligned}
 \text{The average temperature  warmer is  London than Moscow } &= 7 - (-4) \\\\
-&= 7 - (-4) \\\\
+&= 7 + 4 \\\\
 &= 11 \degree \text{C}
 \end{aligned}
 $
@@ -2928,6 +2997,7 @@ What is the temperature in Exeter?
 $
 \begin{aligned}
 \text {The temperature in Exeter}   &= 12 + (-7) \\\\
+                                    &= 12 - 7 \\\\
                                     &= 5 \degree \text {C}
 \end{aligned}
 $
@@ -3134,7 +3204,7 @@ $-3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -3145,7 +3215,7 @@ $-3$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3198,7 +3268,7 @@ $
 \end{aligned}
 $
 
-It is $24 \degree \ \text {C}$ warmer inside than outside.
+
 
 </div>
 </div>
@@ -3227,12 +3297,13 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 $
 \begin{aligned}
 &= -3 - (2) \\\\
+&= -3 - 2 \\\\
 &= -5 \\\\
 &= -5 \degree \ \text {C}
 \end{aligned}
 $
 
-The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
+
 
 </div>
 </div>
@@ -3282,7 +3353,7 @@ $-5 \degree \ \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -3293,7 +3364,7 @@ $-5 \degree \ \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3316,7 +3387,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20  - 3.15  \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
@@ -3525,6 +3596,7 @@ On Monday it was was $-12 \degree \text{C}$. The temperature rose by $1 \degree 
 $
 \begin{aligned}
 \text{Temperature on Friday} &= -12 + 1 + 1 + 1 + 1 \\\\
+                             &= -12 + 4 \\\\
                              &= -8 \degree \text{C}
 \end{aligned}
 $
@@ -3912,7 +3984,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
 </div>
@@ -3923,7 +3995,7 @@ $-7 \degree \text{C}$
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3966,14 +4038,14 @@ How many degrees hotter was it in Rome than in London?
 
 $
 \begin{aligned}
-\text {Difference in temperature}  &= \text {Temperature in Rome} - \text {Temperature in London} \\\\
-                                   &= 12 \degree \text {C} - (-2 \degree \text {C}) \\\\
+\text {Difference in temperature}  &= \text {Rome Temperature - London Temperature} \\\\
+                                   &= 12  - (-2 ) \\\\
                                    &= 12 + 2 \\\\
                                    &= 14 \degree \text {C}
 \end{aligned}
 $
 
-Degrees Rome was hotter than in London $= 14 \degree \text {C}$.
+
 
 </div>
 </div>
@@ -4002,11 +4074,11 @@ What was the temperature in Oslo?
 As per the question,
 
 $
-\begin {aligned}
-\text {Temperature in Oslo}  &= \text {Temperature in London} - 5 \degree \text {C} \\\\
-                             &= -2 \degree \text {C} -5 \degree \text {C} \\\\
+\begin{aligned}
+\text {Oslo Temperature }   &= \text {London Temperature - 5 } \\\\
+                             &= -2-5 \\\\
                              &= -7 \degree \text {C}
-\end {aligned}
+\end{aligned}
 $
 
 </div>
@@ -4057,7 +4129,7 @@ $-7 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
 </div>
@@ -4068,7 +4140,7 @@ $-7 \degree \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4117,13 +4189,13 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 17 - (- 3) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 17 - (- 3) \\\\
                                     &= 17 + 3 \\\\
                                     &= 20 \degree \ \text {C}
 \end{aligned}
 $
 
-It is $20 \degree \ \text {C}$ warmer inside than outside the window.
+
 
 </div>
 </div>
@@ -4153,7 +4225,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature outside at midnight}  &= - 3 - 2 \degree \ \text {C} \\\\
+\text {Temperature outside at midnight}  &= - 3 - 2 \\\\
                                          &= - 5 \degree \ \text {C}
 \end{aligned}
 $
@@ -4307,7 +4379,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
 </div>
@@ -4318,7 +4390,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4364,13 +4436,13 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 4 - (- 14) \\\\
                                     &= 4 + 14 \\\\
                                     &= 18 \degree \ \text {C}
 \end{aligned}
 $
 
-The fridge is $18 \degree \ \text {C}$ warmer than the freezer.
+
 
 </div>
 </div>
@@ -4400,7 +4472,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \degree \ \text {C} \\\\
+\text {Temperature in the freezer should be}  &= - 14 - 3 \\\\
                                               &= - 17 \degree \ \text {C}
 \end{aligned}
 $
@@ -4453,7 +4525,7 @@ $- 17 \degree \ \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91EAC938-64F8-4348-83F9-074560E4256F</p>
 </div>
@@ -4464,7 +4536,7 @@ $- 17 \degree \ \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4602,7 +4674,7 @@ a          &= 16
 \end{aligned}
 $
 
-Flossie Chirps for $16$ times in $1 \ \text{minute}$.
+
 
 </div>
 </div>

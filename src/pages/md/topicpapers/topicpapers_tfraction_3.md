@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-3"
 title: "TopicPaper - Fraction - 3"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <div class='paper'>
 <div class='meta'>

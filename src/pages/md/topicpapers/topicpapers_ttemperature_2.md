@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-2"
 title: "TopicPaper - Temperature - 2"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -15,7 +15,7 @@ date: 2022-06-22 06:44:49
 # Section A
 <ul class='question decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A</p>
 </div>
@@ -26,7 +26,7 @@ date: 2022-06-22 06:44:49
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -48,8 +48,8 @@ What is the temperature in Paris?
 
 $
 \begin{aligned}
-\text {Temperature in Paris}  &= \text {Temperature in Moscow} + 14 \degree \\\\
-                              &= -11 \degree \text {C} + 14 \degree \\\\
+\text {Temperature in Paris}  &= \text {Temperature in Moscow} + 14 \\\\
+                              &= -11 + 14 \\\\
                               &= 3 \degree \text {C}
 \end{aligned}
 $
@@ -131,13 +131,13 @@ How many degrees warmer is it inside than outside?
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 9 - (- 12) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 9 - (- 12)\\\\
                                     &= 9 + 12 \\\\
                                     &= 21 \degree \ \text {C}
 \end{aligned}
 $
 
-It is $21 \degree$ warmer inside than outside.
+
 
 </div>
 </div>
@@ -387,7 +387,7 @@ Munich
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C77F4094-E254-4BDE-8724-852A89BFB58F</p>
 </div>
@@ -398,7 +398,7 @@ Munich
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -416,9 +416,12 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <div class='working'>
 
 As per the question,
-
-Temperature at midnight $ = 4 - 10 \degree C \\\\
-                        $ = -6 \degree C$
+$
+\begin{aligned}
+\text {Temperature at midnight} &= 4 - 10  \\\\
+                                &= -6 \degree \text {C}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -465,7 +468,7 @@ $-6 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
@@ -476,7 +479,7 @@ $-6 \degree C$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -493,9 +496,13 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin{aligned}
+\text {Temperature on New Year’s day}    &= -5 - 3 \\\\
+                                         &= -8 \degree \text {C}
 
-Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
+\end{aligned}
+$
 
 </div>
 </div>
@@ -542,7 +549,7 @@ $-8 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -553,7 +560,7 @@ $-8 \degree \text {C}$
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -577,7 +584,8 @@ As per the question,
 $
 \begin{aligned}
 \text{Temperature in midday}    &= -3 \degree C \\\\
-\text{Temperature at midnight}  &= -3 \degree C + 5 \degree C - 11 \degree C \\\\
+\text{Temperature at midnight}  &= -3 + 5 - 11 \\\\
+                                &= -14 + 5 \\\\
                                 &= -9 \degree C
 \end{aligned}
 $

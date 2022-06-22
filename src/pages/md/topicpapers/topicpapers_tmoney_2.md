@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tmoney-2"
 title: "TopicPaper - Money - 2"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -363,7 +363,7 @@ $\pounds 0.45$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>B2A70184-F3DC-4A6A-AC4D-2F3D1B344BA6</p>
 </div>
@@ -374,7 +374,7 @@ $\pounds 0.45$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -391,38 +391,37 @@ Jon has $30\%$ more money than Miguel and together they have $\pounds 46$. Calcu
 <div class='workings'>
 <div class='working'>
 
-Let Miguel has $x$ pounds.
+Let Miguel has in (in $\pounds$) $= a$
+
+Jon has (in $\pounds$) $= a + 30 \% \ \text {of} \ a$
 
 As per the question,
 
-Jon has $30 \%$ more money than Miguel.
-
-Then,
-
-Jon has $x + 30 \% \ \text {of} \ x$
-
-Now,
-
-Total amount $=$ Jon's money $+$ Miguel's money
-
 $
 \begin{aligned}
-x + x + 30 \% \ \text {of} \ x                    &= \pounds 46 \\\\
-2x + \dfrac {30} {100} \times x                   &= 46 \\\\
-2x + \dfrac {30x} {100}                           &= 46 \\\\
-\dfrac {2x \times 100} {100} + \dfrac {30x} {100} &= 46 \\\\
-\dfrac {200x + 30x} {100}                         &= 46 \\\\
-230x                                              &= 46 \times 100 \\\\
-x                                                 &= \dfrac {23 \times 2 \times 100} {23 \times 10} \\\\
-                                                  &= \dfrac {\cancel {23} \times 2 \times 10 \cancel{0}} {\cancel {23} \times 1 \cancel{0}} \\\\
-                                                  &= 2 \times 10 \\\\
-                                                  &= \pounds 20
+a + a + 30 \% \ \text {of} \ a  &= \pounds 46 \\\\
+2a + \dfrac {30} {100} \times a &= 46 \\\\
+2a + \dfrac {30a} {100}         &= 46 \\\\
+\dfrac {2a \times 100} {1 \times 100} + \dfrac {30a} {100}  &= 46 \\\\
+\dfrac {200a} {100} + \dfrac {30a} {100}                    &= 46 \\\\
+\dfrac {200a + 30a} {100}                                   &= 46 \\\\
+\dfrac {230a} {100}                                         &= 46 \\\\
+230a                                                        &= 46 \times 100 \\\\
+a                                                           &= \dfrac {46 \times 100} {230} \\\\
+a                                                           &= \dfrac {2 \times 23 \times 10 \times 10} {23 \times 10} \\\\
+a                                                           &= \dfrac {2 \times \cancel {23} \times \cancel {10} \times 10} {\cancel {23} \times \cancel {10}} \\\\
+a                                                           &= 2 \times 10 \\\\
+a                                                           &= \pounds 20
 \end{aligned}
 $
 
-Miguel has $\pounds 20$.
-
-Jon has $46 - 20 = \pounds 26$
+$
+\begin {aligned}
+\text {Miguel has}  &= \pounds 20 \\\\
+\text {Jon has}     &= 46 - 20 \\\\
+                    &= \pounds 26
+\end {aligned}
+$
 
 </div>
 </div>
@@ -469,7 +468,7 @@ $\pounds 26$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>16D11FD8-0B06-4EA3-9482-8E3AAC14E2A8</p>
 </div>
@@ -480,7 +479,7 @@ $\pounds 26$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -522,11 +521,11 @@ One third of $\pounds 120$.
 
 $
 \begin{aligned}
-&= \dfrac {1} {3} \text { of } \pounds 120 \\\\
+&= \dfrac {1} {3} \ \text {of} \ \pounds 120 \\\\
 &= \dfrac {1} {3} \times 120 \\\\
 &= \dfrac {120} {3} \\\\
-&= \dfrac {40 \times 3} {3} \\\\
-&= \dfrac {40 \times \cancel {3}} {\cancel {3}} \\\\
+&= \dfrac {3 \times 40} {3} \\\\
+&= \dfrac {\cancel {3} \times 40} {\cancel {3}} \\\\
 &= \pounds 40
 \end{aligned}
 $
@@ -555,7 +554,7 @@ $40\%$ of $\pounds 728$.
 
 $
 \begin{aligned}
-&= 40 \% \text { of } \pounds 728 \\\\
+&= 40 \% \text \ {of} \ \pounds 728 \\\\
 &= \dfrac {40} {100} \times 728 \\\\
 &= \dfrac {40 \times 728} {100} \\\\
 &= \dfrac {29120} {100} \\\\
@@ -611,7 +610,7 @@ $\pounds 291.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>FB46428B-2F3D-4896-AB84-0165582FAD90</p>
 </div>
@@ -619,10 +618,10 @@ $\pounds 291.20$
 <p>eltham-college--11-plus--maths--2019--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ak_g0</p>
+<p>rag_ak_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -651,7 +650,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Cost of 15 pens}                                 &= 4.65 \\\\
+\text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
 \text{Cost of 1 pen}                                   &= 4.65 \div 15 \\\\
 \text{Cost of 19 pens}                                 &= (4.65 \div 15) \times 19
 \end{aligned}
@@ -661,7 +660,7 @@ $
 </div>
 <div class='answers'>
 <div class='option'>
-<p>C</p>
+<p>c</p>
 </div>
 <div class='answer'>
 
@@ -671,37 +670,6 @@ $(4.65 \div 15) \times 19$
 </div>
 
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='FB46428B-2F3D-4896-AB84-0165582FAD90' id='FORM-FB46428B-2F3D-4896-AB84-0165582FAD90' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-FB46428B-2F3D-4896-AB84-0165582FAD90'>Initial</p>
-</div>
 </div>
 </li>
 <li>
@@ -835,7 +803,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>56B5BAC2-5E63-49EB-8820-A41F18FC8C94</p>
 </div>
@@ -846,7 +814,7 @@ $50 \text{p}, \ 5 \text{p}, \ 2 \text{p}, \ 2 \text{p} \ \text{and} \ 2 \text{p}
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -886,13 +854,10 @@ How much money does he spend altogether?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text{Total spent}                   &= \pounds 3.99 + \pounds 1.65 + \pounds 1.80 \\\\
-                                     &= 5.64 + 1.80 \\\\
-                                     &= \pounds 7.44
+\text{Money spent}  &= \pounds 3.99 + \pounds 1.65 + \pounds 1.80 \\\\
+                    &= \pounds 7.44
 \end{aligned}
 $
 
@@ -920,8 +885,8 @@ How much change should he get from the $\pounds 20$ note?
 
 $
 \begin{aligned}
-\text{Change left}                   &= \pounds 20 - \pounds 7.44 \\\\
-                                     &= \pounds 12.56
+\text{Change received}  &= \pounds 20 - \pounds 7.44 \\\\
+                        &= \pounds 12.56
 \end{aligned}
 $
 
@@ -973,7 +938,7 @@ $\pounds 12.56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>DE7C4BE1-D757-49FA-A818-1AF3DF2ECEEC</p>
 </div>
@@ -984,7 +949,7 @@ $\pounds 12.56$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1011,21 +976,20 @@ Work out how much change she should get.
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Total cost}      &= 64 \times 1 \dfrac {1} {2} + 4 \times 35 + 6 \times 43 \\\\
-                        &= 64 \times \dfrac {3} {2} + 140 + 258 \\\\
-                        &= \dfrac {64 \times 3} {2} + 398 \\\\
-                        &= \dfrac {2 \times 32 \times 3} {2} + 398 \\\\
-                        &= \dfrac {\cancel {2} \times 32 \times 3} {\cancel {2}} + 398 \\\\
-                        &= 32 \times 3 + 398 \\\\
-                        &= 96 + 398 \\\\
-                        &= 494 \ \text {p} \\\\
-\text {Change she get}  &= \pounds 10 - 494 \ \text {p} \\\\
-                        &= \pounds 10 - \pounds \dfrac {494} {100} \\\\
-                        &= 10 - 4.94 \\\\
+\text {Money spent}     &= 1 \dfrac {1} {2} \times 64 \text {p} + 4 \times 35 \text {p} + 6 \times 43 \text {p} \\\\
+                        &= \dfrac {3} {2} \times \pounds 0.64 + 4 \times \pounds 0.35 + 6 \times \pounds 0.43 \\\\
+                        &= \dfrac {3 \times 0.64} {2} + 1.40 + 2.58 \\\\
+                        &= \dfrac {1.92} {2} + 3.98 \\\\
+                        &= 0.96 + 3.98 \\\\
+                        &= \pounds 4.94 \\\\
+\text {Change received} &= 10 - 4.94 \\\\
                         &= \pounds 5.06
 \end{aligned}
 $
@@ -1075,7 +1039,7 @@ $\pounds 5.06$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>625C28CB-BB72-429B-8620-05BA56753590</p>
 </div>
@@ -1086,7 +1050,7 @@ $\pounds 5.06$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1130,13 +1094,11 @@ As per the question,
 
 $
 \begin{aligned}
-\text {Each family member gets}     &= \dfrac {54 - 12} {5} \\\\
+\text {Each family member gets}     &= \dfrac {\pounds 54 - \pounds 12} {5} \\\\
                                     &= \dfrac {42} {5} \\\\
                                     &= \pounds 8.4
 \end{aligned}
 $
-
-Each family member gets $\pounds 8.4$.
 
 </div>
 </div>
@@ -1164,13 +1126,12 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Donation not spent}                  &= \text{Total donated money} - \text{Donation spent} \\\\
-                                           &= 12 - 60\% \ \text{of} \ 12 \\\\
-                                           &= 12 - \dfrac {60} {100} \times 12 \\\\
-                                           &= 12 - \dfrac {60 \times 12} {100} \\\\
-                                           &= 12 - \dfrac {720} {100} \\\\
-                                           &= 12 - 7.20 \\\\
-                                           &= \pounds 4.80
+\text{Donation not spent}   &= \pounds 12 - 60 \% \ \text {of} \ \pounds 12 \\\\
+                            &= 12 - \dfrac {60} {100} \times 12 \\\\
+                            &= 12 - \dfrac {60 \times 12} {100} \\\\
+                            &= 12 - \dfrac {720} {100} \\\\
+                            &= 12 - 7.20 \\\\
+                            &= \pounds 4.80
 \end{aligned}
 $
 
@@ -1222,7 +1183,7 @@ $\pounds 4.80$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>5DEC1ED3-8832-4774-9EB9-74000A6C3998</p>
 </div>
@@ -1233,7 +1194,7 @@ $\pounds 4.80$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1259,29 +1220,33 @@ How much did he have to pay?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text{Total cost} &= 8 \times \dfrac {1} {4} \times \pounds 6 + 20 \times \dfrac {1} {2} \times 30 \ \text {p} \\\\
-                  &= \pounds \dfrac {8 \times 1 \times 6} {4} + \dfrac {20 \times 1 \times 30} {2} \ \text {p} \\\\
-                  &= \pounds \dfrac {4 \times 2 \times 1 \times 6} {4} + \dfrac {2 \times 10 \times 1 \times 30} {2} \ \text {p} \\\\
-                  &= \pounds \dfrac {\cancel {4} \times 2 \times 1 \times 6} {\cancel {4}} + \dfrac {\cancel {2} \times 10 \times 1 \times 30} {\cancel {2}} \ \text {p} \\\\
-                  &= \pounds 2 \times 1 \times 6 + 10 \times 1 \times 30 \ \text{p} \\\\
-                  &= \pounds 12 + 300 \ \text{p} \\\\
-                  &= \pounds 12 + \pounds 3 \\\\
-                  &= \pounds 15
+\text{Total cost}   &= 8 \times (\pounds 6 - \dfrac {1} {4} \times \pounds 6) + \dfrac {1} {2} \times 30 \text {p} \\\\
+                    &= 8 \times (\pounds 6 - \dfrac {6} {4}) + \dfrac {1} {2} \pounds 0.30 \\\\
+                    &= 8 \times (\dfrac {6 \times 4} {1 \times 4} - \dfrac {6} {4}) + \dfrac {0.30} {2} \\\\
+                    &= 8 \times (\dfrac {24} {4} - \dfrac {6} {4}) + 0.15 \\\\
+                    &= 8 \times (\dfrac {24 - 6} {4}) + 0.15 \\\\
+                    &= \dfrac {8 \times 18} {4} + 0.15 \\\\
+                    &= \dfrac {2 \times 4 \times 18} {4} + 0.15 \\\\
+                    &= \dfrac {2 \times \cancel {4} \times 18} {\cancel {4}} + 0.15 \\\\
+                    &= 2 \times 18 + 0.15 \\\\
+                    &= 36 + 0.15 \\\\
+                    &= \pounds 36.15
 \end{aligned}
 $
-
-He have to pay $\pounds 15$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 15$
+$\pounds 36.15$
 
 </div>
 </div>
@@ -1321,7 +1286,7 @@ $\pounds 15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>587B8A90-626D-4702-8677-57FD78D2E7DD</p>
 </div>
@@ -1332,7 +1297,7 @@ $\pounds 15$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>

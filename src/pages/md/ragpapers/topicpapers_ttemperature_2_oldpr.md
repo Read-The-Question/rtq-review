@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-oldpr"
 title: "TopicPaper - Temperature - 2 - OLDPR"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>CDD05D37-D2CC-42D7-9DB4-49E00FBA3F6A</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 06:44:49
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,8 +38,8 @@ What is the temperature in Paris?
 
 $
 \begin{aligned}
-\text {Temperature in Paris}  &= \text {Temperature in Moscow} + 14 \degree \\\\
-                              &= -11 \degree \text {C} + 14 \degree \\\\
+\text {Temperature in Paris}  &= \text {Temperature in Moscow} + 14 \\\\
+                              &= -11 + 14 \\\\
                               &= 3 \degree \text {C}
 \end{aligned}
 $
@@ -89,7 +89,7 @@ $3 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>C77F4094-E254-4BDE-8724-852A89BFB58F</p>
 </div>
@@ -100,7 +100,7 @@ $3 \degree \text {C}$
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -118,9 +118,12 @@ In Moscow at noon it is $4˚\,C$. By midnight the temperature has dropped by $10
 <div class='working'>
 
 As per the question,
-
-Temperature at midnight $ = 4 - 10 \degree C \\\\
-                        $ = -6 \degree C$
+$
+\begin{aligned}
+\text {Temperature at midnight} &= 4 - 10  \\\\
+                                &= -6 \degree \text {C}
+\end{aligned}
+$
 
 </div>
 </div>
@@ -167,7 +170,7 @@ $-6 \degree C$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>BA2765DA-2BA9-4476-B1E5-4B10DE8E89C6</p>
 </div>
@@ -178,7 +181,7 @@ $-6 \degree C$
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -202,7 +205,8 @@ As per the question,
 $
 \begin{aligned}
 \text{Temperature in midday}    &= -3 \degree C \\\\
-\text{Temperature at midnight}  &= -3 \degree C + 5 \degree C - 11 \degree C \\\\
+\text{Temperature at midnight}  &= -3 + 5 - 11 \\\\
+                                &= -14 + 5 \\\\
                                 &= -9 \degree C
 \end{aligned}
 $

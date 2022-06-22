@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-2-g0"
 title: "TopicPaper - Temperature - 2 - G0"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
 <li>
@@ -37,13 +37,13 @@ How many degrees warmer is it inside than outside?
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 9 - (- 12) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 9 - (- 12)\\\\
                                     &= 9 + 12 \\\\
                                     &= 21 \degree \ \text {C}
 \end{aligned}
 $
 
-It is $21 \degree$ warmer inside than outside.
+
 
 </div>
 </div>
@@ -90,7 +90,7 @@ $21 \degree \ \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>54012999-742D-48BD-A138-DB7E6775B4C3</p>
 </div>
@@ -101,7 +101,7 @@ $21 \degree \ \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -118,9 +118,13 @@ On Christmas day the temperature in Lisbon was $-5˚\,C$. On New Year’s day th
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+$
+\begin{aligned}
+\text {Temperature on New Year’s day}    &= -5 - 3 \\\\
+                                         &= -8 \degree \text {C}
 
-Temperature on New Year’s day $= -5 - 3 = -8 \degree \text {C}$
+\end{aligned}
+$
 
 </div>
 </div>

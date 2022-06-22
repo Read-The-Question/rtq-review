@@ -1,9 +1,58 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-blocked"
 title: "TopicPaper - Percentage - 1 - BLOCKED"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>AF607754-EAF8-425B-8E8A-1816DE1BE986</p>
+</div>
+<div class='papername'>
+<p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:10</p>
+</div>
+<div class='rag'>
+<p>rag_ub_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Put rings round **all** the numbers which are equal to $75 \%$ 
+
+$\dfrac{6}{8} \quad 34 \quad \% 0.75 \quad \dfrac{75}{100} \quad \dfrac{3}{4} \quad 0.34 \quad 0.3$ 
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
@@ -195,6 +244,179 @@ $30\% \text{ of } \ 30$
 </div>
 </div>
 
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
+</div>
+<div class='rag'>
+<p>rag_ub_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tpercentage
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+The information on a pack of ‘*Salmon pasta*’ is shown in the table.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+%empty%
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+%empty%
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin {aligned}
+10 \ \text {g}
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$10 \ \text {g}$
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What percentage of the ‘*Salmon pasta*’ is carbohydrate?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin {aligned}
+\text {percentage of the carbohydrate in Salmon pasta }              &= \dfrac {15} {10+15+5+2+0.2} \times 100 \\\\
+                                                                     &= \dfrac {15} {32.2} \times 100 \\\\
+                                                                     &= 0.458 \times 100  \\\\
+                                                                     &= 45.8 \\\\
+                                                                     &= 45.8 \%
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$45.8 \% $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+The mass of the fibre in a pack of ‘*Salmon pasta*’ is $7 \ \text{grams}$.
+
+What is the mass of ‘*Salmon pasta*’ in the whole pack?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+\begin {aligned}
+2 \ \text {g}
+\end{aligned}
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$2 \ \text {g}$
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What will be the mass of fat in a pack of ‘*Salmon pasta*’?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
 
 </div>
 </li>

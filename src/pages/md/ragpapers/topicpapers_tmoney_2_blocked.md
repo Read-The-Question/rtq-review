@@ -1,9 +1,72 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-blocked"
 title: "TopicPaper - Money - 2 - BLOCKED"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>FB46428B-2F3D-4896-AB84-0165582FAD90</p>
+</div>
+<div class='papername'>
+<p>eltham-college--11-plus--maths--2019--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A pack of $15$ pens cost $\pounds 4.65$.
+Pens are the same value if they are bought individually.
+
+What is the correct calculation to wrk out the cost of $19$ pens?
+
+-  $(4.65 \times 15) \div 19$
+-  $(15 \div 4.65) \times 19$
+-  $(4.65 \div 15) \times 19$
+-  $(15 \div 4.65) \div 19$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text{Cost of 15 pens}                                 &= \pounds 4.65 \\\\
+\text{Cost of 1 pen}                                   &= 4.65 \div 15 \\\\
+\text{Cost of 19 pens}                                 &= (4.65 \div 15) \times 19
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>c</p>
+</div>
+<div class='answer'>
+
+$(4.65 \div 15) \times 19$
+
+</div>
+</div>
+
+
+</div>
+</li>
 <li>
 <div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>

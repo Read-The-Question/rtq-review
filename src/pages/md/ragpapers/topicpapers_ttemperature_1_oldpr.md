@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-oldpr"
 title: "TopicPaper - Temperature - 1 - OLDPR"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>A89896D7-6037-4DC0-B913-16736539B99A</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 06:44:49
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -37,8 +37,9 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Difference in temperature} &= \text{Temperature (Australia)} - \text{Temperature (Canada)} \\\\
-                                 &= 34.5 \degree \text{C} - (-26.5 \degree \text{C}) \\\\
+\text{Difference in temperature} &= \text{Australia Temperature - Canada Temperature } \\\\
+                                 &= 34.5  - (-26.5 ) \\\\
+                                 &= 34.5 + 26.5   \\\\
                                  &= 61 \degree \text{C}
 \end{aligned}
 $
@@ -88,7 +89,7 @@ $61 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>4AFA9722-A256-4A92-AFFB-BD08EF68B439</p>
 </div>
@@ -99,7 +100,7 @@ $61 \degree \text{C}$
 <p>rag_ub_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -142,14 +143,14 @@ How many degrees hotter was it in Rome than in London?
 
 $
 \begin{aligned}
-\text {Difference in temperature}  &= \text {Temperature in Rome} - \text {Temperature in London} \\\\
-                                   &= 12 \degree \text {C} - (-2 \degree \text {C}) \\\\
+\text {Difference in temperature}  &= \text {Rome Temperature - London Temperature} \\\\
+                                   &= 12  - (-2 ) \\\\
                                    &= 12 + 2 \\\\
                                    &= 14 \degree \text {C}
 \end{aligned}
 $
 
-Degrees Rome was hotter than in London $= 14 \degree \text {C}$.
+
 
 </div>
 </div>
@@ -178,11 +179,11 @@ What was the temperature in Oslo?
 As per the question,
 
 $
-\begin {aligned}
-\text {Temperature in Oslo}  &= \text {Temperature in London} - 5 \degree \text {C} \\\\
-                             &= -2 \degree \text {C} -5 \degree \text {C} \\\\
+\begin{aligned}
+\text {Oslo Temperature }   &= \text {London Temperature - 5 } \\\\
+                             &= -2-5 \\\\
                              &= -7 \degree \text {C}
-\end {aligned}
+\end{aligned}
 $
 
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <div class='paper'>
 <div class='meta'>
@@ -451,7 +451,7 @@ tgraph, ttable
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>AF607754-EAF8-425B-8E8A-1816DE1BE986</p>
 </div>
@@ -459,7 +459,7 @@ tgraph, ttable
 <p>blackheath-high-school--11-plus--maths--2007--sample-paper-1:0:10</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2211,7 +2211,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>15B131F5-D0A4-498C-A848-EB6913C98D06</p>
 </div>
@@ -2219,7 +2219,7 @@ $23$
 <p>royal-russell-school--11-plus--maths--9999--sample-paper-1:0:12</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -2271,24 +2271,16 @@ In a survey $30\%$ of people were left handed only, $10\%$ were both left and ri
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+\begin {aligned}
+\text {percentage of right handed only}                        &=60 \%                                                                   
+\end{aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$&=60 \%$
 
 </div>
 </div>
@@ -2305,27 +2297,17 @@ Find $50\%$ of $80$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+\begin{aligned}
+&= 50 \% \text {of} 80 \\\\
+&= \dfrac {50}{100} \times 80 \\\\
+&= \dfrac {5 \cancel {0}} {1 \cancel {0} \cancel {0}} \times 8 \cancel{0} \\\\
+&= 5 \times 8 \\\\
+&= 40 \%
+\end{aligned}
 
 </div>
 </div>
+
 
 </div>
 </li>
@@ -2339,32 +2321,50 @@ $400 \times 30$
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+\begin{aligned}
+&= 400 \times 30 \\\\
+&= 12000
+\end{aligned}
 
 </div>
 </div>
+
 
 </div>
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='15B131F5-D0A4-498C-A848-EB6913C98D06' id='FORM-15B131F5-D0A4-498C-A848-EB6913C98D06' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-15B131F5-D0A4-498C-A848-EB6913C98D06'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -3116,7 +3116,7 @@ $\dfrac {3} {4}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prns question'>
 <div class='uuid'>
 <p>250A1C8B-2326-4F1A-B3AB-023EF672A3F8</p>
 </div>
@@ -3124,7 +3124,7 @@ $\dfrac {3} {4}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-2:0:16</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_blocked</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3169,7 +3169,9 @@ How many grams of protein are in $100 \ \text{g}$ of ‘*Salmon pasta*’?
 <div class='workings'>
 <div class='working'>
 
-$10 \ \text {g}$
+\begin {aligned}
+10 \ \text {g}
+\end{aligned}
 
 </div>
 </div>
@@ -3195,8 +3197,12 @@ What percentage of the ‘*Salmon pasta*’ is carbohydrate?
 
 $
 \begin {aligned}
-\text {}
-\end {aligned}
+\text {percentage of the carbohydrate in Salmon pasta }              &= \dfrac {15} {10+15+5+2+0.2} \times 100 \\\\
+                                                                     &= \dfrac {15} {32.2} \times 100 \\\\
+                                                                     &= 0.458 \times 100  \\\\
+                                                                     &= 45.8 \\\\
+                                                                     &= 45.8 \%
+\end{aligned}
 $
 
 </div>
@@ -3204,7 +3210,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$45.8 \% $
 
 </div>
 </div>
@@ -3223,19 +3229,16 @@ What is the mass of ‘*Salmon pasta*’ in the whole pack?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+\begin {aligned}
+2 \ \text {g}
+\end{aligned}
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$2 \ \text {g}$
 
 </div>
 <div class='answer'>

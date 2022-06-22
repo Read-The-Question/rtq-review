@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-g0"
 title: "TopicPaper - Temperature - 1 - G0"
-date: 2022-06-22 06:44:49
+date: 2022-06-22 14:29:12
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 06:44:49
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -37,10 +37,10 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
-                                                                    &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
-                                                                    &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
-                                                                    &= 19 \degree \text{C}
+    \text{Temperature difference}                                       &= \text{Temperature in Rome} - \text{Temperature in Moscow} \\\\
+                                                                        &= 13  \degree \text{C} - (- 6 \degree \text{C}) \\\\
+                                                                        &= 13  \degree \text{C} + 6 \degree \text{C} \\\\
+                                                                        &= 19 \degree \text{C}
 \end{aligned}
 $
 
@@ -176,7 +176,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -187,7 +187,7 @@ $-7 \degree \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -212,8 +212,9 @@ cities?
 
 $
 \begin{aligned}
-\text {Difference between the hottest and the coldest cities} &= 23 - 12 \\\\
-                                                              &= 11 \degree \text{C}
+\text {Difference between the hottest and the coldest cities}   &= \text{Hottest tempareture - Coldest tempareture} \\\\
+                                                                &= 23 - 12 \\\\
+                                                                &= 11 \degree \text{C}
 \end{aligned}
 $
 
@@ -320,7 +321,7 @@ As per the question,
 $
 \begin{aligned}
 \text{The average temperature  warmer is  London than Moscow } &= 7 - (-4) \\\\
-&= 7 - (-4) \\\\
+&= 7 + 4 \\\\
 &= 11 \degree \text{C}
 \end{aligned}
 $
@@ -441,6 +442,7 @@ What is the temperature in Exeter?
 $
 \begin{aligned}
 \text {The temperature in Exeter}   &= 12 + (-7) \\\\
+                                    &= 12 - 7 \\\\
                                     &= 5 \degree \text {C}
 \end{aligned}
 $
@@ -490,7 +492,7 @@ $5 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -501,7 +503,7 @@ $5 \degree \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -554,7 +556,7 @@ $
 \end{aligned}
 $
 
-It is $24 \degree \ \text {C}$ warmer inside than outside.
+
 
 </div>
 </div>
@@ -583,12 +585,13 @@ What was the temperature outside the window at $10 \ \text{p.m.}$?
 $
 \begin{aligned}
 &= -3 - (2) \\\\
+&= -3 - 2 \\\\
 &= -5 \\\\
 &= -5 \degree \ \text {C}
 \end{aligned}
 $
 
-The temperature outside the window at $10 \ \text {p.m.} = -5 \degree \ \text {C}$.
+
 
 </div>
 </div>
@@ -638,7 +641,7 @@ $-5 \degree \ \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -649,7 +652,7 @@ $-5 \degree \ \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -672,7 +675,7 @@ As per the question,
 
 $
 \begin{aligned}
-\text{Current temparature}  &= 7.20 \degree \ \text {C} - 3.15 \degree \ \text {C} \\\\
+\text{Current temparature}  &= 7.20  - 3.15  \\\\
                             &= 4.05 \degree \ \text{C}
 \end{aligned}
 $
@@ -753,6 +756,7 @@ On Monday it was was $-12 \degree \text{C}$. The temperature rose by $1 \degree 
 $
 \begin{aligned}
 \text{Temperature on Friday} &= -12 + 1 + 1 + 1 + 1 \\\\
+                             &= -12 + 4 \\\\
                              &= -8 \degree \text{C}
 \end{aligned}
 $
@@ -944,7 +948,7 @@ $-7 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
 </div>
@@ -955,7 +959,7 @@ $-7 \degree \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1004,13 +1008,13 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 17 - (- 3) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 17 - (- 3) \\\\
                                     &= 17 + 3 \\\\
                                     &= 20 \degree \ \text {C}
 \end{aligned}
 $
 
-It is $20 \degree \ \text {C}$ warmer inside than outside the window.
+
 
 </div>
 </div>
@@ -1040,7 +1044,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature outside at midnight}  &= - 3 - 2 \degree \ \text {C} \\\\
+\text {Temperature outside at midnight}  &= - 3 - 2 \\\\
                                          &= - 5 \degree \ \text {C}
 \end{aligned}
 $
@@ -1093,7 +1097,7 @@ $- 5 \degree \ \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
 </div>
@@ -1104,7 +1108,7 @@ $- 5 \degree \ \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1150,13 +1154,13 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Difference in  temperature}  &= 4 - (- 14) \degree \ \text {C} \\\\
+\text {Difference in  temperature}  &= 4 - (- 14) \\\\
                                     &= 4 + 14 \\\\
                                     &= 18 \degree \ \text {C}
 \end{aligned}
 $
 
-The fridge is $18 \degree \ \text {C}$ warmer than the freezer.
+
 
 </div>
 </div>
@@ -1186,7 +1190,7 @@ As per the diagram,
 
 $
 \begin{aligned}
-\text {Temperature in the freezer should be}  &= - 14 - 3 \degree \ \text {C} \\\\
+\text {Temperature in the freezer should be}  &= - 14 - 3 \\\\
                                               &= - 17 \degree \ \text {C}
 \end{aligned}
 $
@@ -1239,7 +1243,7 @@ $- 17 \degree \ \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>91EAC938-64F8-4348-83F9-074560E4256F</p>
 </div>
@@ -1250,7 +1254,7 @@ $- 17 \degree \ \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1388,7 +1392,7 @@ a          &= 16
 \end{aligned}
 $
 
-Flossie Chirps for $16$ times in $1 \ \text{minute}$.
+
 
 </div>
 </div>

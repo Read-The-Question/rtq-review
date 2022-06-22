@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -242,7 +242,7 @@ $54$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170</p>
 </div>
@@ -253,7 +253,7 @@ $54$
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -321,6 +321,15 @@ $28 \% $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -1204,7 +1213,7 @@ $30\% \text{ of } \ 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0F235D15-061A-4701-8EB6-C7E418A3084D</p>
 </div>
@@ -1215,7 +1224,7 @@ $30\% \text{ of } \ 30$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1563,7 +1572,7 @@ $\dfrac {6} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DE2B4A57-B8DD-4C95-9E77-103AF639A833</p>
 </div>
@@ -1574,7 +1583,7 @@ $\dfrac {6} {5}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1616,6 +1625,26 @@ $54$
 
 <h4>Review Comments</h4>
 Wrong answer written
+
+
+
+Cancel instead of multiplying!!
+
+
+
+in s4, cancel 0s in 100 and 900 and 60 and 10 and you will be left with 54. Do not first multiply and then cancel.
+
+
+
+Cancel instead of multiplying!!
+
+
+
+in s4, cancel 0s in 100 and 900 and 60 and 10 and you will be left with 54. Do not first multiply and then cancel.
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 </div>
 
 <div class='review'>
@@ -1823,7 +1852,7 @@ $1.3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>79E8390B-8FC1-4502-B81B-AD5DCAB65B68</p>
 </div>
@@ -1834,7 +1863,7 @@ $1.3$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1937,6 +1966,14 @@ $\pounds 2$
 
 <h4>Review Comments</h4>
 Part a) Remove S2, Part b) Use answer from part a)
+
+
+
+Cancel 0 in part a instead of 600 / 100 .
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 </div>
 
 <div class='review'>
@@ -1973,7 +2010,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>558E748F-8D6C-4D98-8F6E-F9664B5818A1</p>
 </div>
@@ -1984,7 +2021,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2083,6 +2120,14 @@ $\pounds 30$
 
 <h4>Review Comments</h4>
 Part b) Use answer from part a)
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86 
+
+
+
+cancel in part a instead of multiplying and cancel
 </div>
 
 <div class='review'>
@@ -2211,7 +2256,7 @@ $23$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>15B131F5-D0A4-498C-A848-EB6913C98D06</p>
 </div>
@@ -2222,7 +2267,7 @@ $23$
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2333,6 +2378,15 @@ $400 \times 30$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2368,7 +2422,7 @@ $400 \times 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E</p>
 </div>
@@ -2379,7 +2433,7 @@ $400 \times 30$
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2504,6 +2558,15 @@ $56$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2539,7 +2602,7 @@ $56$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>F73B4CF0-A753-41AA-B759-D42A1107AB86</p>
 </div>
@@ -2547,10 +2610,10 @@ $56$
 <p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:4</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2589,35 +2652,30 @@ $28 \ \text{kg}$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Change to single factor and cancellation step
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' id='FORM-F73B4CF0-A753-41AA-B759-D42A1107AB86' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' id='FORM-F73B4CF0-A753-41AA-B759-D42A1107AB86' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -3289,7 +3347,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
 </div>
@@ -3297,10 +3355,10 @@ TODOANSWER
 <p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
 </div>
 <div class='rag'>
-<p>rag_ub_g0</p>
+<p>rag_ub_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3394,15 +3452,11 @@ $5\%$ of $80$
 <div class='workings'>
 <div class='working'>
 
-Using previous answer
-
-$50\% \ \text{of} \ 80 = 40$ ,
-
 $
 \begin{aligned}
 &= 5\% \ \text{of} \ 80 \\\\
-&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
-&= \dfrac {1} {10} \times \big(50\% \times 80 \big) \\\\
+&= 5\% \times 80 \\\\
+&= \dfrac {1} {10} \times (50\% \times 80) \\\\
 &= \dfrac {1} {10} \times 40 \\\\
 &= \dfrac {40}{10} \\\\
 &= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
@@ -3432,15 +3486,12 @@ $1\%$ of $80$
 <div class='workings'>
 <div class='working'>
 
-Using previous answer
-
-$5\% \ \text{of} \ 80 = 4$ ,
-
 $
 \begin{aligned}
 &= 1\% \text{ of } 80 \\\\
+&= 1\% \times 80 \\\\
 &= \dfrac {5\% \times 10} {5 \times 10} \times 80 \\\\
-&= \dfrac {1} {50} \times \big(50\% \times 80 \big)  \\\\
+&= \dfrac {1} {50} \times (50\% \times 80)  \\\\
 &= \dfrac {1} {50} \times 40 \\\\
 &= \dfrac {40} {50} \\\\
 &= \dfrac {4 \cancel {0}} {5 \cancel {0}} \\\\
@@ -3475,14 +3526,6 @@ You can use part (a) to help you.
 <div class='workings'>
 <div class='working'>
 
-Using previous answers
-
-$50\% \ \text{of} \ 8 = 40$
-
-$5\% \ \text{of} \ 8 = 4$
-
-$1\% \ \text{of} \ 8 = \dfrac {4} {5}$
-
 $
 \begin{aligned}
 &= 56\% \text{ of } 80 \\\\
@@ -3490,10 +3533,6 @@ $
 &= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
 &= 40 + 4 + \dfrac {4} {5}  \\\\
 &= 44 + \dfrac {4} {5}  \\\\
-&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
-&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
-&= \dfrac {220 + 4} {5} \\\\
-&= \dfrac {224} {5} \\\\
 &= 44 \dfrac {4} {5}
 \end{aligned}
 $
@@ -3511,35 +3550,30 @@ $44 \dfrac {4} {5}$
 </div>
 </li>
 </ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part ii) and Part iii) and Part b) Solve with Uday
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' id='FORM-7DFC267A-0D8A-4352-AE89-670A945BAE89' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' id='FORM-7DFC267A-0D8A-4352-AE89-670A945BAE89' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

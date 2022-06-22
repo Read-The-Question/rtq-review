@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-blocked"
 title: "TopicPaper - Money - 2 - BLOCKED"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
@@ -60,6 +60,67 @@ $
 <div class='answer'>
 
 $(4.65 \div 15) \times 19$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>587B8A90-626D-4702-8677-57FD78D2E7DD</p>
+</div>
+<div class='papername'>
+<p>forest-school--11-plus--maths--9999--sample-paper-1:0:12</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+*SPECIAL OFFER ON THE MATHS BOOKS!*
+
+*Fun Trignometric Calculus For Pre-School, by Ian Tregation*
+
+*Only $16$ pounds each.*
+
+*Special offer: Buy $3$ and get $1$ free!*
+
+Subhan wants to get $5$ of these books.
+
+How much does he pay?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+As per the question,
+
+$
+\begin{aligned}
+\text {Total cost}  &= 4 \times \pounds 16 \\\\
+                    &= \pounds 64
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 64$
 
 </div>
 </div>

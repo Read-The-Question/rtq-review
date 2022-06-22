@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-ttemperature-1"
 title: "TopicPaper - Temperature - 1"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2381,7 +2381,7 @@ $4 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>4520A825-7CCE-49E3-BF14-4A90C942392B</p>
 </div>
@@ -2392,7 +2392,7 @@ $4 \degree \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2432,6 +2432,33 @@ $19 \degree \text{C}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+
+
+Drop as per the question
+
+
+
+Change \"Temperature difference\" to \"Degrees warmer\"
+
+
+
+Do not show C unit in S2, S3, show in S4 only. We do not show unit till the last line.
+
+
+
+Remove summary line Rome is warmer than ...
+
+
+
+
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -2731,7 +2758,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>8A17957B-1662-4775-ABE7-2482551AF10F</p>
 </div>
@@ -2742,7 +2769,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2783,6 +2810,29 @@ $11\degree \text{C}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Change \"Difference between the hottest and the coldest cities\" to \"Difference\"
+
+
+
+Remove \"Hottest tempareture - Coldest tempareture\", spelling is wrong too.
+
+
+
+Write  in katex
+
+
+
+Difference = 23 - 12
+
+           = 11
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3204,7 +3254,7 @@ $-3$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3D535ECB-6703-4719-9B5B-4F9C5CB1B9BC</p>
 </div>
@@ -3215,7 +3265,7 @@ $-3$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3318,6 +3368,39 @@ $-5 \degree \ \text{C}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+These are simple word problems, write LHS
+
+
+
+a). Write \"Difference\" in LHS on S1
+
+
+
+b). Write \"Temperature outside\" in LHS on S1
+
+
+
+
+
+a). Write \"Difference\" in LHS on S1
+
+
+
+b). Write \"Temperature outside\" in LHS on S1
+
+
+
+
+
+Do not write \ \text{C}. Write \text{C}
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3353,7 +3436,7 @@ $-5 \degree \ \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>3EA2D0FB-002E-4716-8D5D-0013DC93B64D</p>
 </div>
@@ -3364,7 +3447,7 @@ $-5 \degree \ \text{C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3402,6 +3485,23 @@ $4.05 \degree \ \text{C}$
 </div>
 </div>
 
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop \"As per the question\"
+
+
+
+Drop \"As per the question\"
+
+
+
+Write \text{C} instead of \ \text{C} in workings and answers
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -3646,7 +3746,7 @@ $-8 \degree \text{C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_pr rag_prns question'>
 <div class='uuid'>
 <p>1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9</p>
 </div>
@@ -3654,7 +3754,7 @@ $-8 \degree \text{C}$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:29</p>
 </div>
 <div class='rag'>
-<p>rag_ub_notstarted</p>
+<p>rag_ub_pr</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -3699,14 +3799,14 @@ What was the temperature on Monday?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$-9 \degree \text{C} $
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-9 \degree \text{C} $
 
 </div>
 </div>
@@ -3723,14 +3823,20 @@ By how much did the temprature rise between Monday and Tuesday?
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text{Rise in temperature} &= -9 -(-1) \\\\
+                           &= -9 +1    \\\\
+                           &= -8\degree \text{C}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$-8\degree \text{C}$
 
 </div>
 </div>
@@ -3739,6 +3845,37 @@ TODOANSWER
 </li>
 </ul>
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9'>Initial</p>
+</div>
 </div>
 </li>
 <li>
@@ -4129,7 +4266,7 @@ $-7 \degree \text {C}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>D27BFEB2-A85B-4CA2-A82E-D3AAB2EB725E</p>
 </div>
@@ -4140,7 +4277,7 @@ $-7 \degree \text {C}$
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4243,6 +4380,19 @@ $- 5 \degree \ \text {C}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Drop as per the diagram in both
+
+
+
+Change \ \text{C}
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -4379,7 +4529,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>6F2BA21C-2151-444A-9222-DD2992551BD5</p>
 </div>
@@ -4390,7 +4540,7 @@ TODOANSWER
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -4490,6 +4640,15 @@ $- 17 \degree \ \text {C}$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Remove As per the diagram
+</div>
 
 <div class='review'>
 <ul class='review'>

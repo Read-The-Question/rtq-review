@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g0"
 title: "TopicPaper - Money - 3 - G0"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>FB9C0752-B2BA-49B8-96AA-048619C2539C</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 14:29:12
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -90,7 +90,6 @@ a fifth of $\pounds 70$
 
 $
 \begin{aligned}
-&= \text {a fifth of } \pounds 70 \\\\
 &= \dfrac {1} {5} \times 70 \\\\
 &= \dfrac {70} {5} \\\\
 &= \dfrac {5 \times 14} {5} \\\\
@@ -123,11 +122,11 @@ $80\%$ of a half of $\pounds 70$
 
 $
 \begin{aligned}
-&= 80 \% \text { of a half of } \pounds 70 \\\\
+&= 80 \% \ \text {of} \ (\dfrac {1} {2} \times 70) \\\\
 &= \dfrac {80} {100} \times \dfrac {1} {2} \times 70 \\\\
 &= \dfrac {80 \times 70} {100 \times 2} \\\\
-&= \dfrac {40 \times 2 \times 70} {100 \times 2} \\\\
-&= \dfrac {4 \cancel {0} \times \cancel {2} \times 7 \cancel {0}} {1 \cancel {0} \cancel {0} \times \cancel {2}} \\\\
+&= \dfrac {2 \times 40 \times 70} {100 \times 2} \\\\
+&= \dfrac {\cancel {2} \times 4 \cancel {0} \times 7 \cancel {0}} {1 \cancel {0} \cancel {0} \times \cancel {2}} \\\\
 &= 4 \times 7 \\\\
 &= \pounds 28
 \end{aligned}

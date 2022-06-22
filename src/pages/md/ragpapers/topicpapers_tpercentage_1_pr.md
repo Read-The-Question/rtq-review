@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-pr"
 title: "TopicPaper - Percentage - 1 - PR"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>DC0AE9E8-3EE0-4BF6-A408-D5E6E1044170</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 14:29:12
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -84,6 +84,15 @@ $28 \% $
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -214,7 +223,7 @@ tgraph, ttable
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>15B131F5-D0A4-498C-A848-EB6913C98D06</p>
 </div>
@@ -225,7 +234,7 @@ tgraph, ttable
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -336,6 +345,15 @@ $400 \times 30$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>
@@ -371,7 +389,7 @@ $400 \times 30$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_pr rag_prcr question'>
 <div class='uuid'>
 <p>AA28C47E-EF5E-4489-BC7A-E42D9AB98D3E</p>
 </div>
@@ -382,7 +400,7 @@ $400 \times 30$
 <p>rag_ub_pr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -507,6 +525,15 @@ $56$
 </div>
 </li>
 </ul>
+<div class='review-comments'>
+
+<h4>Review Comments</h4>
+
+
+
+
+Katex broken!!!
+</div>
 
 <div class='review'>
 <ul class='review'>

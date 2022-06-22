@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-oldpr"
 title: "TopicPaper - Money - 2 - OLDPR"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_oldpr rag_prcr question'>
+<div class='question_envelope rag_oldpr rag_prcc question'>
 <div class='uuid'>
 <p>825BD361-93A9-49D1-8AB0-15E2950519CC</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 14:29:12
 <p>rag_ak_oldpr</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -38,10 +38,9 @@ What is the total cost ?
 
 $
 \begin {aligned}
-\text {Total cost}  &= \text {Cost of} \ (4 \times \text {sausage} + 5 \times \text {hotdog} + 7 \times \text {Drinks}) \\\\
-                    &= 4 \times 24 \text {p} + 5 \times 81 \text {p} + 7 \times 20 \text {p} \\\\
+\text {Total cost}  &= 4 \times 24 \ \text {pence} + 5 \times 81 \ \text {pence} + 7 \times 20 \ \text {pence} \\\\
                     &= 96 + 405 + 140 \\\\
-                    &= 641 \text {p}
+                    &= 641 \ \text {pence}
 \end {aligned}
 $
 

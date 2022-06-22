@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-2-g0"
 title: "TopicPaper - Money - 2 - G0"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
@@ -1215,108 +1215,6 @@ $\pounds 36.15$
 <li>
 <div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
-<p>587B8A90-626D-4702-8677-57FD78D2E7DD</p>
-</div>
-<div class='papername'>
-<p>forest-school--11-plus--maths--9999--sample-paper-1:0:12</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-*SPECIAL OFFER ON THE MATHS BOOKS!*
-
-*Fun Trignometric Calculus For Pre-School, by Ian Tregation*
-
-*Only $16$ pounds each.*
-
-*Special offer: Buy $3$ and get $1$ free!*
-
-Subhan wants to get $5$ of these books.
-
-How much does he pay?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question,
-
-Maths book cost $\pounds 16$ each.
-
-If he buys $3$ books he get $1$ free.
-
-It means if he buys $4$ books he will get $5$ books as per the offer.
-
-Then,
-
-$
-\begin{aligned}
-&= 4 \times 16 \\\\
-&= \pounds 64
-\end{aligned}
-$
-
-If he wants to buy $5$ books he will pay $\pounds 64$.
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 64$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='587B8A90-626D-4702-8677-57FD78D2E7DD' id='FORM-587B8A90-626D-4702-8677-57FD78D2E7DD' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-587B8A90-626D-4702-8677-57FD78D2E7DD'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcr question'>
-<div class='uuid'>
 <p>04E60919-69C3-46EF-8B39-2318EE791A04</p>
 </div>
 <div class='papername'>
@@ -1326,7 +1224,7 @@ $\pounds 64$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1344,16 +1242,19 @@ How much change does she receive from a $10$ pounds note?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received}     &= \pounds 10 - (4 \times 75 \text {p} + 3 \times 95 \text {p}) \\\\
-                            &= \pounds 10 - (4 \times \pounds \dfrac {75} {100} + 3 \times \pounds \dfrac {95} {100}) \\\\
-                            &= 10 - (4 \times 0.75 + 3 \times 0.95)  \\\\
-                            &= 10 - (3 + 2.85) \\\\
-                            &= 10 - 5.85 \\\\
-                            &= \pounds 4.15
+\text {Money spent}     &= 4 \times 75 \text {p} + 3 \times 95 \text {p} \\\\
+                        &= 4 \times \pounds 0.75 + 3 \times \pounds 0.95 \\\\
+                        &= 3 + 2.85 \\\\
+                        &= \pounds 5.85 \\\\
+\text {Change received} &= 10 - 5.85 \\\\
+                        &= \pounds 4.15
 \end{aligned}
 $
 
@@ -1402,7 +1303,7 @@ $\pounds 4.15$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>EAC133FF-F273-440A-9716-5A962E176B01</p>
 </div>
@@ -1413,7 +1314,7 @@ $\pounds 4.15$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1431,11 +1332,15 @@ How much change will she receive?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pence.
+
 $
 \begin {aligned}
-\text {Total cookies she can buy}   &= \dfrac {\pounds 10} {70 \ \text {p}} \\\\
-                                    &= \dfrac {10 \times 100 \ \text {p}} {70 \ \text {p}} \\\\
-                                    &= \dfrac {1000} {70} \\\\
+\text {Total cookies she can buy}   &= \dfrac {\pounds 10} {70 \text {p}} \\\\
+                                    &= \dfrac {1000 \text {p}} {70 \text {p}} \\\\
                                     &= 14.28
 \end {aligned}
 $
@@ -1444,10 +1349,9 @@ She can buy $14$ cookies with $\pounds 10$ note.
 
 $
 \begin {aligned}
-\text {Change received}     &= \pounds 10 - 14 \times 70 \ \text {p} \\\\
-                            &= 10 \times 100 \ \text {p} - 980 \ \text {p} \\\\
-                            &= 1000 - 980 \\\\
-                            &= 20 \ \text {p}
+\text {Change received}     &= \pounds 10 - 14 \times 70 \text {p} \\\\
+                            &= 1000 \text {p} - 980 \text {p} \\\\
+                            &= 20 \text {p}
 \end {aligned}
 $
 
@@ -1456,7 +1360,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$20 \ \text {p}$
+$20 \text {p}$
 
 </div>
 </div>
@@ -1496,7 +1400,7 @@ $20 \ \text {p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E61C8C9B-56DA-468B-93C1-334429701990</p>
 </div>
@@ -1507,7 +1411,7 @@ $20 \ \text {p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1551,14 +1455,17 @@ How much Karim spend in total?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 $
 \begin {aligned}
-\text {Total cost}  &= \text {Cost of burgers} + \text {Cost of steaks} \\\\
-                    &= 7 \times 61 \ \text {p} + 5 \times 84 \ \text {p} \\\\
-                    &= 7 \times \pounds \dfrac {61} {100} + 5 \times \pounds \dfrac {84} {100} \\\\
-                    &= 7 \times 0.61 + 5 \times 0.84 \\\\
-                    &= 4.27 + 4.20 \\\\
-                    &= \pounds 8.47
+\text {Money spent}     &= 7 \times 61 \text {p} + 5 \times 84 \text {p} \\\\
+                        &= 7 \times \pounds 0.61 + 5 \times \pounds 0.84 \\\\
+                        &= 4.27 + 4.20 \\\\
+                        &= \pounds 8.47
 \end {aligned}
 $
 
@@ -1588,9 +1495,13 @@ James spends $\pounds 9.10$ on sausages. How much sausages did James get?
 
 $
 \begin {aligned}
-\text {James got}   &= \dfrac {9.10} {1.30} \times 8 \\\\
-                    &= 7 \times 8 \\\\
-                    &= 56 \ \text {sausages}
+\text {Total number of sausages}    &= \dfrac {9.10} {1.30} \times 8 \\\\
+                                    &= \dfrac {9.10 \times 100} {1.30 \times 100} \times 8 \\\\
+                                    &= \dfrac {910 \times 8} {130} \\\\
+                                    &= \dfrac {7 \times 130 \times 8} {130} \\\\
+                                    &= \dfrac {7 \times \cancel {130} \times 8} {\cancel {130}} \\\\
+                                    &= 7 \times 8 \\\\
+                                    &= 56
 \end {aligned}
 $
 
@@ -1618,16 +1529,20 @@ What is the price of a chicken wing?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 $
 \begin {aligned}
-\text {Total cost of chicken wings}   &= \pounds 20 - \pounds 14.72 \\\\
-                                      &= 20 \times 100 \ \text {p} - 14.72 \times 100 \ \text {p} \\\\
-                                      &= 2000 - 1472 \\\\
-                                      &= 528 \ \text {p} \\\\
+\text {Money spent}                   &= \pounds 20 - \pounds 14.72 \\\\
+                                      &= 2000 \text {p} - 1472 \text {p} \\\\
+                                      &= 528 \text {p} \\\\
 \text {Cost of a chicken wing}        &= \dfrac {528} {16} \\\\
-                                      &= \dfrac {33 \times 16} {16} \\\\
-                                      &= \dfrac {33 \times \cancel {16}} {\cancel {16}} \\\\
-                                      &= 33 \ \text {p}
+                                      &= \dfrac {16 \times 33} {16} \\\\
+                                      &= \dfrac {\cancel {16} \times 33} {\cancel {16}} \\\\
+                                      &= 33 \text {p}
 \end {aligned}
 $
 
@@ -1636,7 +1551,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$33 \ \text {p}$
+$33 \text {p}$
 
 </div>
 </div>
@@ -1657,30 +1572,49 @@ Alisha bought $3$ slices. How many more slices than Alisha did Donald buy?
 <div class='workings'>
 <div class='working'>
 
-Let the total number of slices in the shop $= a$.
+Let total number of slices $= a$.
+
+Number of slices Donald bought $= \dfrac {a} {3}$.
 
 As per the question,
 
-Number of slices Donald bought $= \dfrac {1} {3} \times a = \dfrac {a} {3}$.
+$
+\begin {aligned}
+\text {Number of slices Alisha bought}                                      &= 3 \\\\
+\dfrac {1} {6} \times (a - \dfrac {a} {3})                                  &= 3\\\\
+\dfrac {1} {6} \times (\dfrac {a \times 3} {1 \times 3} - \dfrac {a} {3})   &= 3 \\\\
+\dfrac {1} {6} \times (\dfrac {3a} {3} - \dfrac {a} {3})                    &= 3 \\\\
+\dfrac {1} {6} \times \dfrac {3a - a} {3}                                   &= 3 \\\\
+\dfrac {1} {6} \times \dfrac {2a} {3}                                       &= 3 \\\\
+\dfrac {2a} {6 \times 3}                                                    &= 3 \\\\
+a                                                                           &= \dfrac {3 \times 6 \times 3} {2} \\\\
+a                                                                           &= \dfrac {3 \times 2 \times 3 \times 3} {2} \\\\
+a                                                                           &= \dfrac {3 \times \cancel {2} \times 3 \times 3} {\cancel {2}} \\\\
+a                                                                           &= 3 \times 3 \times 3 \\\\
+a                                                                           &= 27
+\end {aligned}
+$
 
-Remaining slices in the shop $= a - \dfrac {a} {3} = \dfrac {2a} {3}$.
-
-Number of slices Alisha bought $= \dfrac {2a} {3} \times \dfrac {1} {6} = \dfrac {a} {9}$.
+Total number of slices $= 27$
 
 $
-\begin{aligned}
-\text {Alisha bought} &= \dfrac {a} {9} \\\\
-3                     &= \dfrac {a} {9} \\\\
-a                     &= 3 \times 9 \\\\
-a                     &= 27
-\end{aligned}
+\begin {aligned}
+\text {Number of slices Donald bought}  &= \dfrac {a} {3} \\\\
+                                        &= \dfrac {27} {3} \\\\
+                                        &= \dfrac {3 \times 9} {3} \\\\
+                                        &= \dfrac {\cancel {3} \times 9} {\cancel {3}} \\\\
+                                        &= 9
+\end {aligned}
 $
 
-Total number of slices in the shop $= 27$.
+$
+\begin {aligned}
+\text {Difference}  &= 9 - 3 \\\\
+                    &= 6
+\end {aligned}
+$
 
-Donald bought $= \dfrac {27} {3} = 9$ slices.
-
-Donald bought $9 - 3 = 6$ slices more than Alisha.
+Donald bought $6$ slices more than Alisha.
 
 </div>
 </div>
@@ -1708,32 +1642,42 @@ How much do lamb chops and pork chops cost?
 <div class='workings'>
 <div class='working'>
 
-Let the price of pork chops $= a$.
+Let the cost of a pork chop $= a$
+
+Cost of a lamb chop $= 3a$
 
 As per the question,
 
-Price of lamb chops $= 3a$.
-
 $
 \begin{aligned}
-\text {Total cost} &= 2 \times a + 2 \times 3a \\\\
-9.60               &= 2a + 6a \\\\
-8a                 &= 9.60 \\\\
-a                  &= \dfrac {9.60} {8} \\\\
-a                  &= \pounds 1.20
+2 \times 3a + 2 \times a    &= \pounds 9.60 \\\\
+6a + 2a                     &= 9.60 \\\\
+8a                          &= 9.60 \\\\
+a                           &= \dfrac {9.60} {8} \\\\
+a                           &= \pounds 1.20
 \end{aligned}
 $
 
-Pork chops cost $= \pounds 1.20$.
+Cost of a pork chop $= \pounds 1.20$
 
-Lamb chops cost $3 \times 1.20 = \pounds 3.60$.
+$
+\begin {aligned}
+\text {Cost of a lamb chop} &= 3 \times 1.20 \\\\
+                            &= \pounds 3.60
+\end {aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 3.60, \pounds 1.20$
+$\pounds 1.20$
+
+</div>
+<div class='answer'>
+
+$\pounds 3.60$
 
 </div>
 </div>
@@ -1776,7 +1720,7 @@ $\pounds 3.60, \pounds 1.20$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1115708B-2D6C-4344-9D28-B19E0F519E68</p>
 </div>
@@ -1787,7 +1731,7 @@ $\pounds 3.60, \pounds 1.20$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1828,11 +1772,9 @@ How much change should they get?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {Total Cost}       &= 2 \times \pounds 3.69 + \pounds 1.55 \\\\
+\text {Money spent}      &= 2 \times \pounds 3.69 + \pounds 1.55 \\\\
                          &= 7.38 + 1.55 \\\\
                          &= \pounds 8.93 \\\\
 \text {Change received}  &= 20 - 8.93 \\\\
@@ -1864,7 +1806,7 @@ Work out how many cookies there are in a special offer tin.
 <div class='workings'>
 <div class='working'>
 
-Total cookies $= 40 + \dfrac {3} {10} \ \text {of} \ 40$
+As per the question,
 
 $
 \begin{aligned}
@@ -1927,7 +1869,7 @@ $52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>499E0105-A9AC-4D5F-A034-868FE7487E48</p>
 </div>
@@ -1938,7 +1880,7 @@ $52$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1957,35 +1899,35 @@ How much does each bag cost?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
+Let the cost of a bag (in \text {pence}) $= a$
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-Let's convert the total amount into pence.
+Let's convert all the expenses into pence.
 
-$
-\begin{aligned}
-\text{Total amount}  &= \pounds 2 \\\\
-                     &= 2 \times 100\text{p} \\\\
-                     &= 200 \text{p}
-\end{aligned}
-$
-
-Let the cost of each bag $= a$ 
+As per the question,
 
 $
-\begin{aligned}
-a     &= \text{Total amount}  - \text{Change received} \\\\
-a     &= 200 - 80 \\\\
-a     &= 120 \text{p}
-\end{aligned}
+\begin {aligned}
+3a  &= \pounds 2 - 80 \text {p} \\\\
+3a  &= 200 \text {p} - 80 \text {p} \\\\
+3a  &= 120 \\\\
+a   &= \dfrac {120} {3} \\\\
+a   &= \dfrac {3 \times 40} {3} \\\\
+a   &= \dfrac {\cancel {3} \times 40} {\cancel {3}} \\\\
+a   &= 40 \text {p}
+\end {aligned}
 $
+
+Cost of a bag $= 40 \text {p}$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-$120\text{p}$
+$40 \text{p}$
 
 </div>
 </div>
@@ -2025,7 +1967,7 @@ $120\text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>F4D77903-BECE-4A44-88EA-1781F5A261B0</p>
 </div>
@@ -2036,7 +1978,7 @@ $120\text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2057,18 +1999,16 @@ Gavin buys four bottles of cola at $\pounds 1.09$ each and $8$ chocolate bars at
 <div class='working'>
 
 ABBR: It is really important to use the right units in calculations and convert where required
-. Let's convert all the costs into $\pounds$.
+.
 
-Price of Cola $= \pounds 1.09$
-
-Price of $8$ Chocolate bars $= 62 \text{p}$
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received} &= \pounds 10 - (\text{Cost of cola} + \text{Cost of chocolate bars}) \\\\
-                        &= \pounds 10 - (4 \times \pounds 1.09 + 62 \text{p}) \\\\
-                        &= \pounds 10 - (\pounds 4.36 + \pounds 0.62) \\\\
-                        &= 10 - 4.98 \\\\
+\text {Money spent}     &= 4 \times \pounds 1.09 + 62 \text {p} \\\\
+                        &= \pounds 4.36 + \pounds 0.62 \\\\
+                        &= \pounds 4.98 \\\\
+\text {Change received} &= 10 - 4.98 \\\\
                         &= \pounds 5.02
 \end{aligned}
 $
@@ -2118,7 +2058,7 @@ $\pounds 5.02$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>00C311D7-5CAB-401B-AE03-78A75AFA3E88</p>
 </div>
@@ -2129,7 +2069,7 @@ $\pounds 5.02$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2177,14 +2117,17 @@ How much does Mary spend altogether?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
+
 $
 \begin {aligned}
-\text {Total money Mary spent}  &= \text {Entry cost} + 3 \times \text {Side shows cost} + \text {Cost of cream tea} \\\\
-                                &= 20 \ \text {p} + 3 \times 30 \ \text {p} + \pounds 2.60 \\\\
-                                &= \pounds \dfrac {20} {100} + 3 \times \pounds \dfrac {30} {100} + \pounds 2.60 \\\\
-                                &= 0.20 + 3 \times 0.30 + 2.60 \\\\
-                                &= 2.80 + 0.90 \\\\
-                                &= \pounds 3.70
+\text {Money spent} &= 20 \text {p} + 3 \times 30 \text {p} + \pounds 2.60 \\\\
+                    &= \pounds 0.20 + 3 \times \pounds 0.30 + \pounds 2.60 \\\\
+                    &= 0.20 + 0.90 + 2.60 \\\\
+                    &= \pounds 3.70
 \end {aligned}
 $
 
@@ -2212,17 +2155,22 @@ How many times can she visit a side show if she has a cream tea as well?
 <div class='workings'>
 <div class='working'>
 
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pence.
+
 $
 \begin {aligned}
-\text {Number of times Anna can visit a side show}  &= \dfrac {\text {Total money she has} - (\text {Entry cost} + \text {Cost of a cream tea})} {\text {Cost of a side show}} \\\\ 
-                                                    &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
-                                                    &= \dfrac {5 \times 100 \text {p} - (20 \text {p} + 2.60 \times 100 \text {p})} {30 \text {p}} \\\\
-                                                    &= \dfrac {500 - (20 + 260)} {30} \\\\
-                                                    &= \dfrac {500 - 280} {30} \\\\
-                                                    &= \dfrac {220} {30} \\\\
-                                                    &= 7
+\text {Number of times} &= \dfrac {\pounds 5 - (20 \text {p} + \pounds 2.60)} {30 \text {p}} \\\\
+                        &= \dfrac {500 \text {p} - (20 \text {p} + 260 \text {p})} {30 \text {p}} \\\\
+                        &= \dfrac {500 - 280} {30} \\\\
+                        &= \dfrac {220} {30} \\\\
+                        &= 7.33
 \end {aligned}
 $
+
+Anna can visit $7$ times a side show.
 
 </div>
 </div>
@@ -2272,7 +2220,7 @@ $7$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>3396FC7D-CAC5-48DF-9EEA-02DC624906F5</p>
 </div>
@@ -2283,7 +2231,7 @@ $7$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2360,8 +2308,8 @@ $
 &= 75 \% \ \text {of} \ \pounds 24 \\\\
 &= \dfrac {75} {100} \times 24 \\\\
 &= \dfrac {75 \times 24} {100} \\\\
-&= \dfrac {25 \times 3 \times 4 \times 6} {25 \times 4} \\\\
-&= \dfrac {\cancel {25} \times 3 \times \cancel {4} \times 6} {\cancel {25} \times \cancel {4}} \\\\
+&= \dfrac {3 \times 25 \times 4 \times 6} {4 \times 25} \\\\
+&= \dfrac {3 \times \cancel {25} \times \cancel {4} \times 6} {\cancel {4} \times \cancel {25}} \\\\
 &= 3 \times 6 \\\\
 &= \pounds 18
 \end{aligned}
@@ -2447,7 +2395,7 @@ $13$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4EC4603B-A686-444D-BCC6-4FF6758A4EF6</p>
 </div>
@@ -2458,7 +2406,7 @@ $13$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2485,16 +2433,18 @@ E: $\pounds4.81$
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-. Let's convert pence into pounds.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received} &= \text{Total money} - (\text{Cost of 4 Mega Bars} + \text{Cost of 3 Star Bars}) \\\\
-                        &= \pounds 10 - (65 \ \text {pence} \times 4 + 83 \ \text{pence} \times 3) \\\\
-                        &= \pounds 10 - (\pounds \dfrac {260} {100} + \pounds \dfrac {249} {100}) \\\\
-                        &= 10 - (2.6 + 2.49) \\\\
-                        &= 10 - 5.09 \\\\
+\text {Money spent}     &= 4 \times 65 \ \text {pence} + 3 \times 83 \ \text {pence} \\\\
+                        &= 4 \times \pounds 0.65 + 3 \times \pounds 0.83 \\\\
+                        &= 2.60 + 2.49 \\\\
+                        &= \pounds 5.09 \\\\
+\text {Change received} &= 10 - 5.09 \\\\
                         &= \pounds 4.91
 \end{aligned}
 $
@@ -2547,7 +2497,7 @@ $\pounds 4.91$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>4B28AE11-2084-4C86-AE35-A8F9C94E8B91</p>
 </div>
@@ -2558,7 +2508,7 @@ $\pounds 4.91$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2585,16 +2535,18 @@ E: $\pounds{6.37}$
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-. Let's convert pence into pounds.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received} &= \text{Total money} - (\text{Cost of 7 bags of Cheezos} + \text{4 bags of Nuttees}) \\\\
-                        &= \pounds 10 - (7 \times 55 \text {p} + 4 \times 63 \text {p}) \\\\
-                        &= \pounds 10 - (\pounds \dfrac {385} {100} + \pounds {252} {100}) \\\\
-                        &= 10 - (3.85 + 2.52) \\\\
-                        &= 10 - 6.37 \\\\
+\text {Money spent}     &= 7 \times 55 \ \text {pence} + 4 \times 63 \ \text {pence} \\\\
+                        &= 7 \times \pounds 0.55 + 4 \times \pounds 0.63 \\\\
+                        &= 3.85 + 2.52 \\\\
+                        &= \pounds 6.37 \\\\
+\text {Change received} &= 10 - 6.37 \\\\
                         &= \pounds 3.63
 \end{aligned}
 $
@@ -2602,6 +2554,9 @@ $
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>B</p>
+</div>
 <div class='answer'>
 
 $\pounds 3.63$
@@ -2644,7 +2599,7 @@ $\pounds 3.63$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>42297C05-D0A4-48DE-A8F4-3791DDC7D537</p>
 </div>
@@ -2655,7 +2610,7 @@ $\pounds 3.63$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2917,7 +2872,7 @@ $127 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>1E6D1523-E176-4AD8-9E79-64FF9FF7EBEE</p>
 </div>
@@ -2928,7 +2883,7 @@ $127 \text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3003,10 +2958,11 @@ $\dfrac{3} {4}$ of $180\degree$
 $
 \begin{aligned}
 &= \dfrac {3} {4} \ \text {of} \ 180 \degree \\\\
-&= \dfrac {3} {4} \times 180 \degree \\\\
+&= \dfrac {3} {4} \times 180 \\\\
 &= \dfrac {3 \times 180} {4} \\\\
-&= \dfrac {3 \times 45 \times 4} {4} \\\\
-&= \dfrac {3 \times 45 \times \cancel {4}} { \cancel {4}} \\\\
+&= \dfrac {3 \times 4 \times 45} {4} \\\\
+&= \dfrac {3 \times \cancel {4} \times 45} {\cancel {4}} \\\\
+&= 3 \times 45 \\\\
 &= 135 \degree
 \end{aligned}
 $
@@ -3059,7 +3015,7 @@ $135 \degree$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>7ED0E8A6-8797-4138-A006-85F2D567D9C5</p>
 </div>
@@ -3070,7 +3026,7 @@ $135 \degree$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3097,17 +3053,19 @@ Calculate how much change she will receive if she pays with a $\pounds20$ note.
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-. Let's convert pence into pounds.
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
-$\pounds 1 = 100 \text{p}$
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {Change received} &= \pounds 20 - (68 \text{p} + \pounds 3.29 + 5 \times 22 \text{p} + 2 \times 39 \text{p}) \\\\
-                        &= \pounds 20 - (\pounds 0.68 + \pounds 3.29 + \pounds 0.22 + \pounds 0.39) \\\\
-                        &= 20 - 4.58 \\\\
-                        &= \pounds 15.42
+\text {Money spent}     &= 68 \text {p} + \pounds 3.29 + 5 \times 22 \text {p} + 2 \times 39 \text {p} \\\\
+                        &= \pounds 0.68 + \pounds 3.29 + 5 \times \pounds 0.22 + 2 \times \pounds 0.39 \\\\
+                        &= \pounds 3.97 + \pounds 1.1 + 0.78 \\\\
+                        &= \pounds 5.85 \\\\
+\text {Change received} &= 20 - 5.85 \\\\
+                        &= \pounds 14.15
 \end{aligned}
 $
 
@@ -3116,7 +3074,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 15.42$
+$\pounds 14.15$
 
 </div>
 </div>

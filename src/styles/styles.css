@@ -102,7 +102,10 @@ img {
 .question_envelope.question.rag_pr  {
     /* background-color: rgba(0, 255, 0, 0.2); */
     /* background-color: lightgreen; */
-    background-color: hotpink;
+    /* background-color: hotpink; */
+    background-color: rgba(255, 105, 180, 0.5);
+    /* background-color: lightpink; */
+    /* background-color: rgba(173, 255, 47, 0.05); */
 }
 
 .question_envelope.question.rag_g0  {
@@ -110,7 +113,8 @@ img {
     /* background-color: lightgreen; */
     /* background-color: greenyellow; */
     /* background-color: lightpink; */
-    background-color: lightpink;
+    /* background-color: lightpink; */
+    background-color: rgba(173, 255, 47, 0.1);
     /* background-color: hotpink; */
     /* background-color:  rgba(173, 255, 47, 0.2); */
     /* background-color:  rgba(173, 255, 47, 0.4);; */

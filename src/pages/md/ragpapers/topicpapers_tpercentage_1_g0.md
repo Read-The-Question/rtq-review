@@ -1,11 +1,11 @@
 ---
 slug: "ragpapers/topicpapers-tpercentage-1-g0"
 title: "TopicPaper - Percentage - 1 - G0"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>0F235D15-061A-4701-8EB6-C7E418A3084D</p>
 </div>
@@ -16,7 +16,7 @@ date: 2022-06-22 14:29:12
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -102,7 +102,7 @@ per the diagram
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>DE2B4A57-B8DD-4C95-9E77-103AF639A833</p>
 </div>
@@ -113,7 +113,7 @@ per the diagram
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -155,6 +155,26 @@ $54$
 
 <h4>Review Comments</h4>
 Wrong answer written
+
+
+
+Cancel instead of multiplying!!
+
+
+
+in s4, cancel 0s in 100 and 900 and 60 and 10 and you will be left with 54. Do not first multiply and then cancel.
+
+
+
+Cancel instead of multiplying!!
+
+
+
+in s4, cancel 0s in 100 and 900 and 60 and 10 and you will be left with 54. Do not first multiply and then cancel.
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 </div>
 
 <div class='review'>
@@ -191,7 +211,7 @@ Wrong answer written
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>79E8390B-8FC1-4502-B81B-AD5DCAB65B68</p>
 </div>
@@ -202,7 +222,7 @@ Wrong answer written
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -305,6 +325,14 @@ $\pounds 2$
 
 <h4>Review Comments</h4>
 Part a) Remove S2, Part b) Use answer from part a)
+
+
+
+Cancel 0 in part a instead of 600 / 100 .
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86
 </div>
 
 <div class='review'>
@@ -341,7 +369,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcc question'>
+<div class='question_envelope rag_g0 rag_prcr question'>
 <div class='uuid'>
 <p>558E748F-8D6C-4D98-8F6E-F9664B5818A1</p>
 </div>
@@ -352,7 +380,7 @@ Part a) Remove S2, Part b) Use answer from part a)
 <p>rag_ub_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prcr</p>
 </div>
 <div class='topics'>
 <ul>
@@ -451,6 +479,14 @@ $\pounds 30$
 
 <h4>Review Comments</h4>
 Part b) Use answer from part a)
+
+
+
+Refer F73B4CF0-A753-41AA-B759-D42A1107AB86 
+
+
+
+cancel in part a instead of multiplying and cancel
 </div>
 
 <div class='review'>
@@ -483,358 +519,6 @@ Part b) Use answer from part a)
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-558E748F-8D6C-4D98-8F6E-F9664B5818A1'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>F73B4CF0-A753-41AA-B759-D42A1107AB86</p>
-</div>
-<div class='papername'>
-<p>st-albans-school--11-plus--maths--9999--sample-paper-2:0:4</p>
-</div>
-<div class='rag'>
-<p>rag_ub_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Find  $35\%$ $of$ $80\,kg$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 35\% \ \text{of}\ 80 \ \text{kg} \\\\
-&= \dfrac {35} {100} \times 80 \\\\
-&= \dfrac {35 \times 80} {100} \\\\
-&= \dfrac {7 \times 5 \times 20 \times 4}{5 \times 20} \\\\
-&= \dfrac {7 \times \cancel 5 \times \cancel 20 \times 4}{\cancel 5 \times \cancel 20} \\\\
-&= 7 \times 4 \\\\
-&= 28 \ \text{kg}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$28 \ \text{kg}$
-
-</div>
-</div>
-
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Change to single factor and cancellation step
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='F73B4CF0-A753-41AA-B759-D42A1107AB86' id='FORM-F73B4CF0-A753-41AA-B759-D42A1107AB86' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-F73B4CF0-A753-41AA-B759-D42A1107AB86'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>7DFC267A-0D8A-4352-AE89-670A945BAE89</p>
-</div>
-<div class='papername'>
-<p>woldingham-school--11-plus--maths--2014--sample-paper-1:1:6</p>
-</div>
-<div class='rag'>
-<p>rag_ub_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tpercentage
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-**Percentages**
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subquestion lower-alpha'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Write the missing numbers.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-%empty%
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-%empty%
-
-</div>
-</div>
-<ul class='subsubquestion lower-roman'>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='question subsubquestion'>
-
-$50\%$ of $80$ =
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= 50\% \ \text{of} \ 80 \\\\
-&= \dfrac {50} {100} \times 80 \\\\
-&= \dfrac {50 \times 80}{100}  \\\\
-&= \dfrac {5 \cancel {0} \times 8 \cancel {0}} {1 \cancel {0} \cancel {0}}  \\\\
-&= 5 \times 8 \\\\
-&= 40
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$40$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='question subsubquestion'>
-
-$5\%$ of $80$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer
-
-$50\% \ \text{of} \ 80 = 40$ ,
-
-$
-\begin{aligned}
-&= 5\% \ \text{of} \ 80 \\\\
-&= \dfrac {5\% \times 10} {1 \times 10} \times 80 \\\\
-&= \dfrac {1} {10} \times \big(50\% \times 80 \big) \\\\
-&= \dfrac {1} {10} \times 40 \\\\
-&= \dfrac {40}{10} \\\\
-&= \dfrac {4 \cancel {0}} {1 \cancel {0}} \\\\
-&= 4
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$4$
-
-</div>
-</div>
-
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subsubquestion'>
-<div class='question subsubquestion'>
-
-$1\%$ of $80$
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answer
-
-$5\% \ \text{of} \ 80 = 4$ ,
-
-$
-\begin{aligned}
-&= 1\% \text{ of } 80 \\\\
-&= \dfrac {5\% \times 10} {5 \times 10} \times 80 \\\\
-&= \dfrac {1} {50} \times \big(50\% \times 80 \big)  \\\\
-&= \dfrac {1} {50} \times 40 \\\\
-&= \dfrac {40} {50} \\\\
-&= \dfrac {4 \cancel {0}} {5 \cancel {0}} \\\\
-&= \dfrac {4} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\dfrac{4}{5}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_not_found rag_not_found subquestion'>
-<div class='question subquestion'>
-
-Work out $56\%$ of $80$
-
-You can use part (a) to help you.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-Using previous answers
-
-$50\% \ \text{of} \ 8 = 40$
-
-$5\% \ \text{of} \ 8 = 4$
-
-$1\% \ \text{of} \ 8 = \dfrac {4} {5}$
-
-$
-\begin{aligned}
-&= 56\% \text{ of } 80 \\\\
-&= (50\% + 5\% + 1\%) \times 80 \\\\
-&= 50\% \times 80 + 5\% \times 80 + 1\% \times 80 \\\\
-&= 40 + 4 + \dfrac {4} {5}  \\\\
-&= 44 + \dfrac {4} {5}  \\\\
-&= \dfrac {44 \times 5} {1 \times 5} + \dfrac {4} {5} \\\\
-&= \dfrac {220} {5} + \dfrac {4} {5} \\\\
-&= \dfrac {220 + 4} {5} \\\\
-&= \dfrac {224} {5} \\\\
-&= 44 \dfrac {4} {5}
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$44 \dfrac {4} {5}$
-
-</div>
-</div>
-
-</div>
-</li>
-</ul>
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-Part ii) and Part iii) and Part b) Solve with Uday
-</div>
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='7DFC267A-0D8A-4352-AE89-670A945BAE89' id='FORM-7DFC267A-0D8A-4352-AE89-670A945BAE89' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7DFC267A-0D8A-4352-AE89-670A945BAE89'>Initial</p>
 </div>
 </div>
 </li>

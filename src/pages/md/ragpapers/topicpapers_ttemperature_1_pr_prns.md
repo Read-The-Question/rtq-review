@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-ttemperature-1-pr-prns"
 title: "TopicPaper - Temperature - 1 - PR - PRNS"
-date: 2022-06-22 14:29:12
+date: 2022-06-22 16:36:35
 ---
 <ul class='question default-decimal'>
 <li>
@@ -392,6 +392,139 @@ ttable ttemprature
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-0237E500-6C62-4B6B-9D5F-1235E8D6E07B'>Initial</p>
+</div>
+</div>
+</li>
+<li>
+<div class='question_envelope rag_pr rag_prns question'>
+<div class='uuid'>
+<p>1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9</p>
+</div>
+<div class='papername'>
+<p>the-london-independent-girls-schools-consortium--11-plus--maths--2011--group-1:0:29</p>
+</div>
+<div class='rag'>
+<p>rag_ub_pr</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+ttemperature
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+Here are two thermometer readings taken at the same time on Monday and Tuesday.
+
+![missing image](/papers/missing_image.svg)
+
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+TODOWORKING
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+TODOANSWER
+
+</div>
+</div>
+<ul class='subquestion lower-alpha'>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+What was the temperature on Monday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$-9 \degree \text{C} $
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-9 \degree \text{C} $
+
+</div>
+</div>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_not_found rag_not_found subquestion'>
+<div class='question subquestion'>
+
+By how much did the temprature rise between Monday and Tuesday?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+\text{Rise in temperature} &= -9 -(-1) \\\\
+                           &= -9 +1    \\\\
+                           &= -8\degree \text{C}
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$-8\degree \text{C}$
+
+</div>
+</div>
+
+</div>
+</li>
+</ul>
+
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='PR' data-uuid='1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' id='FORM-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-1BA7BF9E-48BF-4FB7-99B4-5B3ECAB2C0F9'>Initial</p>
 </div>
 </div>
 </li>

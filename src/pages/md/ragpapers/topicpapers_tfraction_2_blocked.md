@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-2-blocked"
 title: "TopicPaper - Fraction - 2 - BLOCKED"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -140,6 +140,73 @@ TODOANSWER
 </div>
 </li>
 </ul>
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prbd question'>
+<div class='uuid'>
+<p>9D4AAB0C-13C4-481F-B671-A752B18754B0</p>
+</div>
+<div class='papername'>
+<p>latymer-upper-school--11-plus--maths--2014--sample-paper-1:1:12</p>
+</div>
+<div class='rag'>
+<p>rag_ar_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prbd</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tfraction
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+What fraction of this rectangle is shaded?
+
+![missing image](/papers/missing_image.svg)
+
+
+A: ${1}\diagup{10}$
+
+B: ${3}\diagup{10}$
+
+C: ${1}\diagup{3}$
+
+D: ${1}\diagup{2}$
+
+E: ${2}\diagup{5}$
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \dfrac {4} {10} \\\\
+&= \dfrac {2 \times 2} {2 \times 5} \\\\
+&= \dfrac {2 \times \cancel{2}} {\cancel{2} \times 5} \\\\
+&= \dfrac {2} {5} 
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='option'>
+<p>E</p>
+</div>
+<div class='answer'>
+
+${2}\diagup{5}$
+
+</div>
+</div>
+
 
 </div>
 </li>

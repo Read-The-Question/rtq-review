@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfactor-1-blocked"
 title: "TopicPaper - Factor - 1 - BLOCKED"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>

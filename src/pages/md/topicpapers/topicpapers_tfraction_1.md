@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tfraction-1"
 title: "TopicPaper - Fraction - 1"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -37,7 +37,7 @@ tfraction
 </div>
 <div class='question question'>
 
-%empty% 
+%empty%
 
 </div>
 <div class='workings'>
@@ -570,7 +570,7 @@ $\dfrac {4} {5}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>D435E1EA-B8F7-4683-AB3B-08D02CBDF31E</p>
 </div>
@@ -578,7 +578,7 @@ $\dfrac {4} {5}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-1:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -603,9 +603,6 @@ tfraction
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>B</p>
-</div>
 <div class='answer'>
 
 %empty%
@@ -687,11 +684,14 @@ $\dfrac{5}{6} - \dfrac{1}{2} =$
 
 $
 \begin{aligned}
-&= \dfrac {5} {6} + \dfrac {1} {2} \\\\
-&= \dfrac {5} {6} + \dfrac {3} {2 \times 3} \\\\
-&= \dfrac {5} {6} + \dfrac {3} {6} \\\\
-&= \dfrac {5 + 3} {6} \\\\
-&= \dfrac {8} {6}
+&= \dfrac {5} {6} - \dfrac {1} {2} \\\\
+&= \dfrac {5} {6} - \dfrac {3} {2 \times 3} \\\\
+&= \dfrac {5} {6} - \dfrac {3} {6} \\\\
+&= \dfrac {5 - 3} {6} \\\\
+&= \dfrac {2} {6} \\\\
+&= \dfrac {2} {2 \times 3} \\\\
+&= \dfrac {\cancel{2}} {\cancel{2} \times 3} \\\\
+&= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -700,7 +700,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {8} {6}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -720,7 +720,6 @@ $7 - \dfrac{3}{7} =$
 $
 \begin{aligned}
 &= 7 - \dfrac {3} {7} \\\\
-&= \dfrac {7} {1} - \dfrac {3} {7} \\\\
 &= \dfrac {7 \times 7} {7} - \dfrac {3} {7} \\\\
 &= \dfrac {49} {7} - \dfrac {3} {7} \\\\
 &= \dfrac {49 - 3} {7} \\\\
@@ -746,26 +745,26 @@ $6 \ \dfrac {4} {7}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' id='FORM-D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' id='FORM-D435E1EA-B8F7-4683-AB3B-08D02CBDF31E' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -866,7 +865,7 @@ $\dfrac{3} {10}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>9489B793-7526-44D8-9AA6-E5A36F2F7C5C</p>
 </div>
@@ -874,7 +873,7 @@ $\dfrac{3} {10}$
 <p>alleyns-school--11-plus--maths--9999--sample-paper-2:1:12</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -899,9 +898,6 @@ tfraction
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
 <div class='answer'>
 
 %empty%
@@ -932,7 +928,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$dfrac {2} {3}$
+$\dfrac {2} {3}$
 
 </div>
 </div>
@@ -964,7 +960,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$dfrac {7} {8}$
+$\dfrac {7} {8}$
 
 </div>
 </div>
@@ -983,14 +979,14 @@ $\dfrac{5}{6} - \dfrac{1}{2} =$
 
 $
 \begin{aligned}
-&= \dfrac {5} {6} + \dfrac {1} {2} \\\\
-&= \dfrac {5} {6} + \dfrac {3} {2 \times 3} \\\\
-&= \dfrac {5} {6} + \dfrac {3} {6} \\\\
-&= \dfrac {5 + 3} {6} \\\\
-&= \dfrac {8} {6} \\\\
-&= \dfrac {2 \times 4} {2 \times 3} \\\\
-&= \dfrac {\cancel{2} \times 4} {\cancel{2} \times 3} \\\\
-&= \dfrac {4} {3}
+&= \dfrac {5} {6} - \dfrac {1} {2} \\\\
+&= \dfrac {5} {6} - \dfrac {3} {2 \times 3} \\\\
+&= \dfrac {5} {6} - \dfrac {3} {6} \\\\
+&= \dfrac {5 - 3} {6} \\\\
+&= \dfrac {2} {6} \\\\
+&= \dfrac {2} {2 \times 3} \\\\
+&= \dfrac {\cancel{2}} {\cancel{2} \times 3} \\\\
+&= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -999,7 +995,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\dfrac {4} {3}$
+$\dfrac {1} {3}$
 
 </div>
 </div>
@@ -1019,12 +1015,11 @@ $7 - \dfrac{3}{7} =$
 $
 \begin{aligned}
 &= 7 - \dfrac {3} {7} \\\\
-&= \dfrac {7} {1} - \dfrac {3} {7} \\\\
 &= \dfrac {7 \times 7} {7} - \dfrac {3} {7} \\\\
 &= \dfrac {49} {7} - \dfrac {3} {7} \\\\
-&= \dfrac {49 + 3} {7} \\\\
-&= \dfrac {52} {7} \\\\
-&= 7 \ \dfrac {3} {7}
+&= \dfrac {49 - 3} {7} \\\\
+&= \dfrac {46} {7} \\\\
+&= 6 \ \dfrac {4} {7}
 \end{aligned}
 $
 
@@ -1033,7 +1028,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$7 \ \dfrac {3} {7}$
+$6 \ \dfrac {4} {7}$
 
 </div>
 </div>
@@ -1045,26 +1040,26 @@ $7 \ \dfrac {3} {7}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' id='FORM-9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='9489B793-7526-44D8-9AA6-E5A36F2F7C5C' id='FORM-9489B793-7526-44D8-9AA6-E5A36F2F7C5C' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1076,7 +1071,7 @@ $7 \ \dfrac {3} {7}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>943C4E11-3100-4607-BBF6-D6938AFB1B28</p>
 </div>
@@ -1084,7 +1079,7 @@ $7 \ \dfrac {3} {7}$
 <p>bancrofts-school--11-plus--maths--2013--sample-paper-1:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1109,9 +1104,6 @@ tfraction
 </div>
 </div>
 <div class='answers'>
-<div class='option'>
-<p>A</p>
-</div>
 <div class='answer'>
 
 %empty%
@@ -1129,18 +1121,13 @@ How many sixths are there in $3 \dfrac{1}{3}$?
 <div class='workings'>
 <div class='working'>
 
-$
-\begin{aligned}
-&= 3 \dfrac{1}{3} \div \dfrac {1} {6} \\\\
-&= \dfrac {10} {3} \div \dfrac {1} {6}
-\end{aligned}
-$
-
 ABBR: Dividing fractions is the same as multiplying by the reciprocal (inverse) of the second fraction.
 
 
 $
 \begin{aligned}
+&= 3 \dfrac{1}{3} \div \dfrac {1} {6} \\\\
+&= \dfrac {10} {3} \div \dfrac {1} {6} \\\\
 &= \dfrac {10} {3} \times 6 \\\\
 &= \dfrac {10 \times 6} {3} \\\\
 &= \dfrac {10 \times 2 \times 3} {3} \\\\
@@ -1202,26 +1189,26 @@ $12$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' id='FORM-943C4E11-3100-4607-BBF6-D6938AFB1B28' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='943C4E11-3100-4607-BBF6-D6938AFB1B28' id='FORM-943C4E11-3100-4607-BBF6-D6938AFB1B28' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1292,14 +1279,14 @@ Write down the decimal number that the arrow is pointing to:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$0.7$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$0.7$
 
 </div>
 </div>
@@ -1319,14 +1306,27 @@ Write down (in simplest form) the fraction that the arrow is pointing to:
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+/begin{aligned}
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {1} {2} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {2 \times 5} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3} {10} + \dfrac {5} {10} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {3 + 5} {10} \bigg ) \\\\
+&= \dfrac {1} {2} \bigg ( \dfrac {8} {10} \bigg ) \\\\
+&= \dfrac {8} {2 \times 10} \\\\
+&= \dfrac {8} {20} \\\\
+&= \dfrac {2 \times 4} {2 \times 5} \\\\
+&= \dfrac {\cancel{2} \times 4} {\cancel{2} \times 5} \\\\
+&= \dfrac {4} {5}
+/end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$\dfrac {4} {5}$
 
 </div>
 </div>
@@ -1356,14 +1356,29 @@ The jug contains water up to the level shown in the diagram. How many millilitre
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {Water in five divisions} &= 1 \text {litre} \\\\
+\text {Water in one division}   &= \dfrac {1} {5} \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {level of water} &= \text {Water in 9 divisions} \\\\
+                       &= 9 \times \text {Water in one division} \\\\
+                       &= 9 \times \dfrac {1} {5} \\\\
+                       &= \dfrac {9} {5} \\\\
+                       &= 1.8 \text {litres}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$1.8 \text {litres}$
 
 </div>
 </div>
@@ -1383,14 +1398,37 @@ Draw a line on the beaker to indicate the level of water in it.
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
+$
+\begin{aligned}
+\text {water in each beaker} &= \dfrac {total water} {total beakers} \\\\
+                             &= \dfrac {1.8} {6} \\\\
+                             &= 0.3 \text {litre} \\\\
+                             &= 300 \text {ml} \\\\
+\end{aligned}
+$
+
+$
+\begin{aligned}
+\text {Water in one division of beaker}       &= \dfrac {total capacity} {number of divisions} \\\\
+                                              &= \dfrac {400} {8} \\\\
+                                              &= \dfrac {8 \times 50} {8} \\\\
+                                              &= \dfrac {\cancel{8} \times 50} {\cancel{8}} \\\\
+                                              &= 50 \\\\
+\{number of divisions containing 300ml water} &= \dfrac {300} {50} \\\\
+                                              &= \dfrac {50 \times 6} {50} \\\\
+                                              &= \dfrac {\cancel{50} \times 6} {50} \\\\
+                                              &= 6
+\end{aligned}
+$
+
+6th division is to be marked.
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
+$6$
 
 </div>
 </div>
@@ -1436,7 +1474,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_g1 rag_prns question'>
 <div class='uuid'>
 <p>9D6B112A-1BBE-440D-9968-5629612AF55B</p>
 </div>
@@ -1444,7 +1482,7 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2016--sample-paper-2:1:13</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_g1</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1478,10 +1516,10 @@ What fraction of the marbles in the bag are blue?
 
 $
 \begin{aligned}
-&= \dfrac {8} {20} \\\\
-&= \dfrac {2 \times 4} {5 \times 4} \\\\
-&= \dfrac {2 \times \cancel{4}} {5 \times \cancel{4}} \\\\
-&= \dfrac {2} {5}
+\text{Fraction}             &= \dfrac {8} {20} \\\\
+                            &= \dfrac {2 \times 4} {5 \times 4} \\\\
+                            &= \dfrac {2 \times \cancel{4}} {5 \times \cancel{4}} \\\\
+                            &= \dfrac {2} {5}
 \end{aligned}
 $
 
@@ -1511,11 +1549,11 @@ Now what fraction of the marbles in the bag are blue?
 
 $
 \begin{aligned}
-&= \dfrac {8-2} {20-2} \\\\
-&= \dfrac {6} {18} \\\\
-&= \dfrac {6} {3 \times 6} \\\\
-&= \dfrac {\cancel{6}} {3 \times \cancel{6}} \\\\
-&= \dfrac {1} {3}
+\text{Fraction}             &= \dfrac {8-2} {20-2} \\\\
+                            &= \dfrac {6} {18} \\\\
+                            &= \dfrac {6} {3 \times 6} \\\\
+                            &= \dfrac {\cancel{6}} {3 \times \cancel{6}} \\\\
+                            &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -1536,26 +1574,26 @@ $\dfrac {1} {3}$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' id='FORM-9D6B112A-1BBE-440D-9968-5629612AF55B' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G1' data-uuid='9D6B112A-1BBE-440D-9968-5629612AF55B' id='FORM-9D6B112A-1BBE-440D-9968-5629612AF55B' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1744,7 +1782,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_notstarted rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>4AE454C7-A1FE-4AA5-81F3-60BA4730C49F</p>
 </div>
@@ -1752,10 +1790,10 @@ TODOANSWER
 <p>bancrofts-school--11-plus--maths--2020--sample-paper-5:1:7</p>
 </div>
 <div class='rag'>
-<p>rag_ar_notstarted</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -1780,18 +1818,8 @@ Give your answers as fully simplified fractions.
 TODOWORKING
 
 </div>
-<div class='working'>
-
-TODOWORKING
-
-</div>
 </div>
 <div class='answers'>
-<div class='answer'>
-
-TODOANSWER
-
-</div>
 <div class='answer'>
 
 TODOANSWER
@@ -1810,24 +1838,21 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Fraction shaded}  &= \dfrac {8} {16} \\\\
+                        &= \dfrac {8} {2 \times 8} \\\\
+                        &= \dfrac {\cancel{8}} {2 \times \cancel{8}} \\\\
+                        &= \dfrac {1} {2}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {2}$
 
 </div>
 </div>
@@ -1845,24 +1870,20 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text{Fraction shaded}           &= \dfrac {1} {2} + \dfrac {1} {2} \\\\
+                               &= 1 \\\\
+\text {Fraction}               &= \dfrac {1} {4}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {1} {4}$
 
 </div>
 </div>
@@ -1880,24 +1901,24 @@ TODOANSWER
 <div class='workings'>
 <div class='working'>
 
-TODOWORKING
-
-</div>
-<div class='working'>
-
-TODOWORKING
+$
+\begin{aligned}
+\text {number of shaded boxes} &= 1 + \dfrac {1} {2} + \dfrac {1} {4} \\\\
+                               &= \dfrac {4} {4} + \dfrac {2} {4} + \dfrac {1} {4} \\\\
+                               &= \dfrac {4 + 2 + 1} {4} \\\\
+                               &= \dfrac {7} {4} \\\\
+\text {Fraction}               &= \dfrac {7} {4} \times \dfrac {1} {4} \\\\
+                               &= \dfrac {7} {4 \times 4} \\\\
+                               &= \dfrac {7} {16}
+\end{aligned}
+$
 
 </div>
 </div>
 <div class='answers'>
 <div class='answer'>
 
-TODOANSWER
-
-</div>
-<div class='answer'>
-
-TODOANSWER
+$\dfrac {7} {16}$
 
 </div>
 </div>
@@ -3323,7 +3344,7 @@ TODOANSWER
 </div>
 </li>
 <li>
-<div class='question_envelope rag_pr rag_prns question'>
+<div class='question_envelope rag_blocked rag_prbd question'>
 <div class='uuid'>
 <p>B24A40C7-A2EB-46D8-9E64-2F701D48B7E1</p>
 </div>
@@ -3331,10 +3352,10 @@ TODOANSWER
 <p>city-of-london-school--11-plus--maths--2020--sample-paper-1:1:8</p>
 </div>
 <div class='rag'>
-<p>rag_ar_pr</p>
+<p>rag_ar_blocked</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prns</p>
+<p>rag_wf_prbd</p>
 </div>
 <div class='topics'>
 <ul>
@@ -3375,10 +3396,10 @@ What fraction of the above design is shaded? Give your fraction in its simplest 
 
 $
 \begin{aligned}
-&= \dfrac {4} {12} \\\\
-&= \dfrac {4} {4 \times 3} \\\\
-&= \dfrac {\cancel{4}} {\cancel{4} \times 3} \\\\
-&= \dfrac {1} {3}
+\text{Fraction shaded}  &= \dfrac {4} {12} \\\\
+                        &= \dfrac {4} {4 \times 3} \\\\
+                        &= \dfrac {\cancel{4}} {\cancel{4} \times 3} \\\\
+                        &= \dfrac {1} {3}
 \end{aligned}
 $
 
@@ -3406,13 +3427,13 @@ How many more of the hexagons need to be shaded so that $\dfrac{3} {4}$ of the d
 
 $
 \begin{aligned}
-&= \bigg(\dfrac {3} {4} \times 12 \bigg)- 4 \\\\
-&= \bigg(\dfrac {3 \times 12} {4}\bigg)- 4 \\\\
-&= \bigg(\dfrac {3 \times 3 \times 4} {4}\bigg)- 4 \\\\
-&= \bigg(\dfrac {3 \times 3 \times \cancel{4}} {\cancel{4}}\bigg)- 4 \\\\
-&= \bigg(3 \times 3\bigg)- 4 \\\\
-&= 9 - 4 \\\\
-&= 5
+\text{Fraction shaded}  &= \dfrac {3} {4} \times 12  - 4 \\\\
+                        &= \dfrac {3 \times 12} {4} - 4 \\\\
+                        &= \dfrac {3 \times 3 \times 4} {4} - 4 \\\\
+                        &= \dfrac {3 \times 3 \times \cancel{4}} {\cancel{4}} - 4 \\\\
+                        &= 3 \times 3- 4 \\\\
+                        &= 9 - 4 \\\\
+                        &= 5
 \end{aligned}
 $
 
@@ -3468,37 +3489,6 @@ $\dfrac {11} {16}$
 </li>
 </ul>
 
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' id='FORM-B24A40C7-A2EB-46D8-9E64-2F701D48B7E1' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-B24A40C7-A2EB-46D8-9E64-2F701D48B7E1'>Initial</p>
-</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tsimpleword-6-blocked"
 title: "TopicPaper - Simpleword - 6 - BLOCKED"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>

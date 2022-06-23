@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-blocked"
 title: "TopicPaper - Money - 1 - BLOCKED"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -562,6 +562,56 @@ $
 <div class='answer'>
 
 $\pounds 182$
+
+</div>
+</div>
+
+
+</div>
+</li>
+<li>
+<div class='question_envelope rag_blocked rag_prns question'>
+<div class='uuid'>
+<p>8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE</p>
+</div>
+<div class='papername'>
+<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:45</p>
+</div>
+<div class='rag'>
+<p>rag_ak_blocked</p>
+</div>
+<div class='rag'>
+<p>rag_wf_prns</p>
+</div>
+<div class='topics'>
+<ul>
+<li>
+tmoney
+</li>
+</ul>
+</div>
+<div class='question question'>
+
+A calculator is used to divide $\pounds 17.20$ by $8$. The display shows $2.15$. How much is $\pounds 17.20 \div 8$?
+
+</div>
+<div class='workings'>
+<div class='working'>
+
+$
+\begin{aligned}
+&= \pounds 17.20 \div 8 \\\\
+&= \dfrac {17.20} {8} \\\\
+&= \pounds 2.15
+\end{aligned}
+$
+
+</div>
+</div>
+<div class='answers'>
+<div class='answer'>
+
+$\pounds 2.15$
 
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-1-g0"
 title: "TopicPaper - Money - 1 - G0"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -541,87 +541,6 @@ $\pounds 1.720$
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-03945F7F-BD1D-48F8-8123-918A9227D8EC'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_g0 rag_prcc question'>
-<div class='uuid'>
-<p>8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE</p>
-</div>
-<div class='papername'>
-<p>dame-alice-owens-school--11-plus--maths--9999--sample-paper-1:1:45</p>
-</div>
-<div class='rag'>
-<p>rag_ak_g0</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prcc</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tmoney
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-A calculator is used to divide $\pounds 17.20$ by $8$. The display shows $2.15$. How much is $\pounds 17.20 \div 8$?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \pounds 17.20 \div 8 \\\\
-&= \dfrac {17.20} {8} \\\\
-&= \pounds 2.15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$\pounds 2.15$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='G1' data-uuid='8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' id='FORM-8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-8CB9D6BF-5D4D-49B0-93DC-89EC0BAA44AE'>Initial</p>
 </div>
 </div>
 </li>

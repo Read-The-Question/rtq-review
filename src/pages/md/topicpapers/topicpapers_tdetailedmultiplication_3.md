@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tdetailedmultiplication-3"
 title: "TopicPaper - Detailedmultiplication - 3"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -2487,7 +2487,7 @@ $24192$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_oldpr rag_prcc question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>8FAB0389-CCAC-493C-8213-8DFBF84F06CC</p>
 </div>
@@ -2495,10 +2495,10 @@ $24192$
 <p>the-london-independent-girls-schools-consortium--11-plus--maths--2016--group-1:1:3</p>
 </div>
 <div class='rag'>
-<p>rag_ar_oldpr</p>
+<p>rag_ar_g2</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcc</p>
+<p>rag_wf_prns</p>
 </div>
 <div class='topics'>
 <ul>
@@ -2534,39 +2534,30 @@ $22374$
 </div>
 </div>
 
-<div class='review-comments'>
-
-<h4>Review Comments</h4>
-solved wrong
-
-
-
-Extra emtpy line on left, empty & i think
-</div>
 
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='PR' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' id='FORM-8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='8FAB0389-CCAC-493C-8213-8DFBF84F06CC' id='FORM-8FAB0389-CCAC-493C-8213-8DFBF84F06CC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>

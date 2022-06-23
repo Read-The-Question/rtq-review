@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tfraction-4-pr"
 title: "TopicPaper - Fraction - 4 - PR"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -50,10 +50,10 @@ What fraction of her friends liked cheese and onion the best?
 
 $
 \begin{aligned}
-&= \dfrac {3} {12} \\\\
-&= \dfrac {3} {3 \times 4} \\\\
-&= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
-&= \dfrac {1} {4}
+\text{Fraction}     &= \dfrac {3} {12} \\\\
+                    &= \dfrac {3} {3 \times 4} \\\\
+                    &= \dfrac {\cancel{3}} {\cancel{3} \times 4} \\\\
+                    &= \dfrac {1} {4}
 \end{aligned}
 $
 
@@ -172,174 +172,6 @@ Part B & C wrong.
 </form>
 
 <p class='review_status initial' id='REVIEW-STATUS-84202E3A-3EB0-4F56-A2E9-E55A7EF7EA78'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>7C880FB9-423C-4D4A-BF9E-566DD6634617</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:2</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Calculate $286 \div 13$.
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-$
-\begin{aligned}
-&= \dfrac{286}{13} \\\\
-&= \dfrac{22 \times 13}{13} \\\\
-&= \dfrac{22 \times \cancel{13}}{\cancel{13}} \\\\
-&= 22
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$22$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='7C880FB9-423C-4D4A-BF9E-566DD6634617' id='FORM-7C880FB9-423C-4D4A-BF9E-566DD6634617' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-7C880FB9-423C-4D4A-BF9E-566DD6634617'>Initial</p>
-</div>
-</div>
-</li>
-<li>
-<div class='question_envelope rag_pr rag_prns question'>
-<div class='uuid'>
-<p>C6136B68-EFD7-48C2-A5A2-83850D03E47A</p>
-</div>
-<div class='papername'>
-<p>st-pauls-girls-school--11-plus--maths--2017--sample-paper-2:1:16</p>
-</div>
-<div class='rag'>
-<p>rag_ar_pr</p>
-</div>
-<div class='rag'>
-<p>rag_wf_prns</p>
-</div>
-<div class='topics'>
-<ul>
-<li>
-tfraction
-</li>
-</ul>
-</div>
-<div class='question question'>
-
-Freya has $24$ badges. If she gives $\dfrac{3}{8}$ of them to her brother, how many does she have left?
-
-</div>
-<div class='workings'>
-<div class='working'>
-
-As per the question
-
-$
-\begin{aligned}
-\text{Number of badges she have left}   &= 24 - \dfrac{3}{8} \times 24 \\\\
-                                        &= 24 - \dfrac{3 \times 24}{8} \\\\
-                                        &= 24 - \dfrac{3 \times 3 \times 8}{8} \\\\
-                                        &= 24 - \dfrac{3 \times 3 \times \cancel{8}}{\cancel{8}} \\\\
-                                        &= 24 - 9 \\\\
-                                        &= 15
-\end{aligned}
-$
-
-</div>
-</div>
-<div class='answers'>
-<div class='answer'>
-
-$15$
-
-</div>
-</div>
-
-
-<div class='review'>
-<ul class='review'>
-<li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRG</button>
-</li>
-<li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRCR</button>
-</li>
-<li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRCC</button>
-</li>
-<li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRR</button>
-</li>
-<li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRBD</button>
-</li>
-<li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' onclick='submitReview(event)'>PRCT</button>
-</li>
-</ul>
-
-<form class='review' data-sheet='PR' data-uuid='C6136B68-EFD7-48C2-A5A2-83850D03E47A' id='FORM-C6136B68-EFD7-48C2-A5A2-83850D03E47A' onsubmit='submitComment(event)'>
-<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
-<br>
-<input type='submit' value='Submit'>
-<input type='reset' value='Reset'>
-</form>
-
-<p class='review_status initial' id='REVIEW-STATUS-C6136B68-EFD7-48C2-A5A2-83850D03E47A'>Initial</p>
 </div>
 </div>
 </li>

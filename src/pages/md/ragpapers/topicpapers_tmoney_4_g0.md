@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-4-g0"
 title: "TopicPaper - Money - 4 - G0"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -91,7 +91,7 @@ $13 \text{p},23 \text{p},53 \text{p}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>30BCF600-D39C-411C-82F9-AC4685D34425</p>
 </div>
@@ -102,7 +102,7 @@ $13 \text{p},23 \text{p},53 \text{p}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -121,12 +121,12 @@ Find the difference between $10\%$ of $\pounds 20$ and $20\%$ of $\pounds 10$.
 
 $
 \begin{aligned}
-& = 10\% \ \text {of} \ \pounds 20 - 20\% \ \text {of} \ \pounds 10 \\\\
-& = \dfrac {10} {100} \times 20 - \dfrac {20} {100} \times 10 \\\\     
-& = \dfrac {10 \times 20} {100} - \dfrac {20 \times 10} {100} \\\\
-& = \dfrac {1 \cancel {0} \times 2 \cancel {0}} {1 \cancel {00} } - \dfrac {2 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
-& = 2-2 \\\\
-& = 0
+&= 10\% \ \text {of} \ \pounds 20 - 20\% \ \text {of} \ \pounds 10 \\\\
+&= \dfrac {10} {100} \times 20 - \dfrac {20} {100} \times 10 \\\\     
+&= \dfrac {10 \times 20} {100} - \dfrac {20 \times 10} {100} \\\\
+&= \dfrac {1 \cancel {0} \times 2 \cancel {0}} {1 \cancel {00} } - \dfrac {2 \cancel {0} \times 1 \cancel {0}} {1 \cancel {00}} \\\\
+&= 2-2 \\\\
+&= 0
 \end{aligned}
 $
 
@@ -229,9 +229,11 @@ Peter buys one burger, a portion of chips and a coffee. Work out the total cost.
 <div class='workings'>
 <div class='working'>
 
+As per the table,
+
 $
 \begin {aligned}
-\text {Total cost}  &= 0.99 + 1.20 + 0.65 \\\\
+\text {Total cost}  &= \pounds 0.99 + \pounds 1.20 + \pounds 0.65 \\\\
                     &= \pounds 2.84
 \end {aligned}
 $
@@ -418,7 +420,7 @@ $2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>531ECA32-EC61-4DC0-B7E2-A82CE25C7F7E</p>
 </div>
@@ -429,7 +431,7 @@ $2 \ \text {Meat Pie}, 1 \ \text {Cup of Tea}, 1 \ \text {Cups of Coffee}$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -448,11 +450,12 @@ How much did the call cost?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text{Call cost} &= \text{Start credit} - \text{Used credit} \\\\
-                 &= 8.17 - 7.65 \\\\
-                 &= \pounds 0.52
+\text{Call cost}    &= \pounds 8.17 - \pounds 7.65 \\\\
+                    &= \pounds 0.52
 \end{aligned}
 $
 
@@ -501,7 +504,7 @@ $\pounds 0.52$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>65468EB0-FBC5-44BD-A335-B722EBC5A7DC</p>
 </div>
@@ -512,7 +515,7 @@ $\pounds 0.52$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -534,19 +537,18 @@ If Fiona pays with a $\pounds 5$ note, how much change does she get?
 <div class='workings'>
 <div class='working'>
 
-ABBR: It is really important to use the right units in calculations and convert where required.
-
+ABBR: It is really important to use the right units in calculations and convert where required
+.
 
 Let's convert all the expenses into pounds.
 
 $
 \begin {aligned}
-\text {Change she get}  &= \text {Amount she paid} - \text {Amount she spent} \\\\
-                        &= \pounds 5 - (3 \times 85 \text {p} + 5 \times 30 \text {p}) \\\\
-                        &= 5 - (255 + 150) \\\\
-                        &= 5 - (\pounds \dfrac {255} {100} + \pounds \dfrac {150} {100}) \\\\
-                        &= 5 - (2.55 + 1.50) \\\\
-                        &= 5- 4.05 \\\\
+\text {Money spent}     &= 3 \times 85 \text {p} + 5 \times 30 \text {p} \\\\
+                        &= 3 \times \pounds 0.85 + 5 \times \pounds 0.30 \\\\
+                        &= 2.55 + 1.50 \\\\
+                        &= \pounds 4.05 \\\\
+\text {Change received} &= 5 - 4.05 \\\\
                         &= \pounds 0.95
 \end {aligned}
 $
@@ -596,7 +598,7 @@ $\pounds 0.95$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prcr question'>
+<div class='question_envelope rag_g0 rag_prcc question'>
 <div class='uuid'>
 <p>E8E2954E-2B81-496C-A114-5CD60C19FAC3</p>
 </div>
@@ -607,7 +609,7 @@ $\pounds 0.95$
 <p>rag_ak_g0</p>
 </div>
 <div class='rag'>
-<p>rag_wf_prcr</p>
+<p>rag_wf_prcc</p>
 </div>
 <div class='topics'>
 <ul>
@@ -649,12 +651,16 @@ How much does she spend?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pounds.
 
 $
 \begin{aligned}
-\text {She spend} &= 1.50 + 0.65 \\\\
-                  &= \pounds 21.5
+\text {Money spent} &= \pounds 1.50 + 65 \text {p} \\\\
+                    &= \pounds 1.50 + \pounds 0.65 \\\\
+                    &= \pounds 2.15
 \end{aligned}
 $
 
@@ -663,7 +669,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 21.5 $
+$\pounds 2.15$
 
 </div>
 </div>
@@ -682,12 +688,10 @@ How much does he pay?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
-
 $
 \begin{aligned}
-\text {He pays} &= 4 \times 1.90 \\\\
-                &= \pounds 7.6
+\text {Money spent} &= 4 \times \pounds 1.90 \\\\
+                    &= \pounds 7.60
 \end{aligned}
 $
 
@@ -696,7 +700,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 7.6$
+$\pounds 7.60$
 
 </div>
 </div>
@@ -715,8 +719,8 @@ How much change does he receive?
 
 $
 \begin{aligned}
-\text {He received} &= 10 - 7.6 \\\\
-                    &= \pounds 2.4  
+\text {Change received} &= \pounds 10 - 7.60 \\\\
+                        &= \pounds 2.40
 \end{aligned}
 $
 
@@ -725,7 +729,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2.4$
+$\pounds 2.40$
 
 </div>
 </div>
@@ -744,16 +748,18 @@ What is the cost, in pence, of one ice lolly?
 <div class='workings'>
 <div class='working'>
 
-As per the question,
+ABBR: It is really important to use the right units in calculations and convert where required
+.
+
+Let's convert all the expenses into pence.
 
 $
 \begin{aligned}
-\text {cost of one ice lolly} &= \dfrac {\pounds 1.92} {3} \\\\
-                              &= \dfrac {1.92 \times 100 \ \text {p}} {3} \\\\
-                              &= \dfrac {192} {3} \\\\
-                              &= \dfrac {3 \times 64} {3} \\\\
-                              &= \dfrac {\cancel {3} \times 64} {\cancel {3}} \\\\
-                              &= 64 \ \text {p}
+\text {Cost of one ice lolly}   &= \dfrac {\pounds 1.92} {3} \\\\
+                                &= \dfrac {192 \text {p}} {3} \\\\
+                                &= \dfrac {3 \times 64} {3} \\\\
+                                &= \dfrac {\cancel {3} \times 64} {\cancel {3}} \\\\
+                                &= 64 \text {p}
 \end{aligned}
 $
 
@@ -762,7 +768,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$64 \ \text {p}$
+$64 \text {p}$
 
 </div>
 </div>

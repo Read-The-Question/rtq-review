@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-g0"
 title: "TopicPaper - Money - 3 - G0"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -297,7 +297,7 @@ What does $0.65 \ \text{litres}$ of orange juice cost?
 $
 \begin{aligned}
 1 \ \text {litre}       &= \pounds 1.45 \\\\
-1 \times 0.65           &= 1.45 \times 0.65 \\\\
+0.65 \times 1           &= 0.65 \times 1.45 \\\\
 0.65 \ \text {litres}   &= \pounds 0.9425
 \end{aligned}
 $
@@ -327,8 +327,8 @@ There are $1.09 \ \text{yards}$ in one metre. How many yards are there in $0.27 
 $
 \begin{aligned}
 1 \ \text {metre}       &= 1.09 \ \text {yards} \\\\
-1 \times 0.27           &= 1.09 \times 0.27 \\\\
-0.27 \ \text {metres}   &= 0.2943 \ \text {yards} \\\\
+0.27 \times 1           &= 0.27 \times 1.09 \\\\
+0.27 \ \text {metres}   &= 0.2943 \ \text {yards}
 \end{aligned}
 $
 

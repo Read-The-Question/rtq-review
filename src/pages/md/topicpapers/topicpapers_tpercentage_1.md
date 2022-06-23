@@ -1,7 +1,7 @@
 ---
 slug: "topicpapers/topicpapers-tpercentage-1"
 title: "TopicPaper - Percentage - 1"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <div class='paper'>
 <div class='meta'>
@@ -855,7 +855,7 @@ $36$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_g0 rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>41469334-E26E-4288-858D-B1A86B728DBC</p>
 </div>
@@ -863,7 +863,7 @@ $36$
 <p>colfes-school--11-plus--maths--9999--sample-paper:1:25</p>
 </div>
 <div class='rag'>
-<p>rag_up_g0</p>
+<p>rag_up_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1010,26 +1010,26 @@ $400$
 <div class='review'>
 <ul class='review'>
 <li class='review'>
-<button class='review rag_prg' data-rag='PRG' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRG</button>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRG</button>
 </li>
 <li class='review'>
-<button class='review rag_prcr' data-rag='PRCR' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCR</button>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCR</button>
 </li>
 <li class='review'>
-<button class='review rag_prcc' data-rag='PRCC' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCC</button>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCC</button>
 </li>
 <li class='review'>
-<button class='review rag_prr' data-rag='PRR' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRR</button>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRR</button>
 </li>
 <li class='review'>
-<button class='review rag_prbd' data-rag='PRBD' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRBD</button>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRBD</button>
 </li>
 <li class='review'>
-<button class='review rag_prct' data-rag='PRCT' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCT</button>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' onclick='submitReview(event)'>PRCT</button>
 </li>
 </ul>
 
-<form class='review' data-sheet='G1' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' id='FORM-41469334-E26E-4288-858D-B1A86B728DBC' onsubmit='submitComment(event)'>
+<form class='review' data-sheet='G2' data-uuid='41469334-E26E-4288-858D-B1A86B728DBC' id='FORM-41469334-E26E-4288-858D-B1A86B728DBC' onsubmit='submitComment(event)'>
 <textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
 <br>
 <input type='submit' value='Submit'>
@@ -1209,7 +1209,7 @@ $480$
 </div>
 </li>
 <li>
-<div class='question_envelope rag_blocked rag_prns question'>
+<div class='question_envelope rag_g2 rag_prns question'>
 <div class='uuid'>
 <p>8CF1FA33-107D-436D-852E-0527BD6EE663</p>
 </div>
@@ -1217,7 +1217,7 @@ $480$
 <p>halifax-grammar-school--11-plus--maths--9999--sample-paper-1:1:9</p>
 </div>
 <div class='rag'>
-<p>rag_up_blocked</p>
+<p>rag_wf_g2</p>
 </div>
 <div class='rag'>
 <p>rag_wf_prns</p>
@@ -1246,53 +1246,39 @@ Let's calculate the first value.
 
 $
 \begin{aligned}
-&= 50\% \text{ of }  10 \\\\
-&= \dfrac{50}{100} \times 10 \\\\
-&= \dfrac{50 \times 10}{100}  \\\\
-&= \dfrac{5\cancel{0}\times 1 \cancel{0}}{1\cancel{0} \cancel{0}}  \\\\
-&= 5
-\end{aligned}
-$
-
-Let's calculate the second value.
-
-$
-\begin{aligned}
-&= 40\% \text{ of } \ 20 \\\\
-&= \dfrac{40}{100} \times 20 \\\\
-&= \dfrac{40 \times 20}{100}  \\\\
-&= \dfrac{4\cancel{0} \times 2\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 8
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 30\% \text{ of } \ 30 \\\\
-&= \dfrac{30}{100} \times 30 \\\\
-&= \dfrac{30 \times 30}{100}  \\\\
-&= \dfrac{3\cancel{0} \times 3\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 9
-\end{aligned}
-$
-
-$
-\begin{aligned}
-&= 20\% \text{ of } \ 40 \\\\
-&= \dfrac{20}{100} \times 40 \\\\
-&= \dfrac{20 \times 40}{100}  \\\\
-&= \dfrac{2\cancel{0} \times 4\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
-&= 8
+\text{First value}      &= 50\% \text{ of }  10 \\\\
+                        &= \dfrac{50}{100} \times 10 \\\\
+                        &= \dfrac{50 \times 10}{100}  \\\\
+                        &= \dfrac{5\cancel{0}\times 1 \cancel{0}}{1\cancel{0} \cancel{0}}  \\\\
+                        &= 5 \\\\
+\text{Second value}     &= 40\% \text{ of } \ 20 \\\\
+                        &= \dfrac{40}{100} \times 20 \\\\
+                        &= \dfrac{40 \times 20}{100}  \\\\
+                        &= \dfrac{4\cancel{0} \times 2\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+                        &= 8 \\\\
+\text{Third value}      &= 30\% \text{ of } \ 30 \\\\
+                        &= \dfrac{30}{100} \times 30 \\\\
+                        &= \dfrac{30 \times 30}{100}  \\\\
+                        &= \dfrac{3\cancel{0} \times 3\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+                        &= 9 \\\\
+\text{Fourth value}     &= 20\% \text{ of } \ 40 \\\\
+                        &= \dfrac{20}{100} \times 40 \\\\
+                        &= \dfrac{20 \times 40}{100}  \\\\
+                        &= \dfrac{2\cancel{0} \times 4\cancel{0}}{1\cancel{0}\cancel{0}}  \\\\
+                        &= 8
 \end{aligned}
 $
 
 Using the calculation above,
 
-
+Biggest value $= 30 \% \text{ of } 30$
 
 </div>
 </div>
 <div class='answers'>
+<div class='option'>
+<p>A</p>
+</div>
 <div class='answer'>
 
 $30\% \text{ of } \ 30$
@@ -1301,6 +1287,37 @@ $30\% \text{ of } \ 30$
 </div>
 
 
+<div class='review'>
+<ul class='review'>
+<li class='review'>
+<button class='review rag_prg' data-rag='PRG' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRG</button>
+</li>
+<li class='review'>
+<button class='review rag_prcr' data-rag='PRCR' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRCR</button>
+</li>
+<li class='review'>
+<button class='review rag_prcc' data-rag='PRCC' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRCC</button>
+</li>
+<li class='review'>
+<button class='review rag_prr' data-rag='PRR' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRR</button>
+</li>
+<li class='review'>
+<button class='review rag_prbd' data-rag='PRBD' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRBD</button>
+</li>
+<li class='review'>
+<button class='review rag_prct' data-rag='PRCT' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' onclick='submitReview(event)'>PRCT</button>
+</li>
+</ul>
+
+<form class='review' data-sheet='G2' data-uuid='8CF1FA33-107D-436D-852E-0527BD6EE663' id='FORM-8CF1FA33-107D-436D-852E-0527BD6EE663' onsubmit='submitComment(event)'>
+<textarea cols='30' name='comment' placeholder='Enter review comments ...' required rows='10'></textarea>
+<br>
+<input type='submit' value='Submit'>
+<input type='reset' value='Reset'>
+</form>
+
+<p class='review_status initial' id='REVIEW-STATUS-8CF1FA33-107D-436D-852E-0527BD6EE663'>Initial</p>
+</div>
 </div>
 </li>
 <li>

@@ -1,7 +1,7 @@
 ---
 slug: "ragpapers/topicpapers-tmoney-3-oldpr-prcc"
 title: "TopicPaper - Money - 3 - OLDPR - PRCC"
-date: 2022-06-23 12:04:24
+date: 2022-06-23 17:04:36
 ---
 <ul class='question default-decimal'>
 <li>
@@ -597,11 +597,12 @@ How much would it cost for $6$ adults to go to the zoo?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text {Total cost} &=  \text{cost for one adult } \times 6 \\\\
-                   &=  6 \times \pounds 12.50 \\\\
-                   &=  \pounds 75.00
+\text {Total cost}  &= 6 \times \pounds 12.50 \\\\
+                    &= \pounds 75
 \end{aligned}
 $
 
@@ -610,7 +611,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 75.00$
+$\pounds 75$
 
 </div>
 </div>
@@ -627,12 +628,13 @@ How much would it cost for $3$ adults and $4$ children?
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text {Total cost} &=  \text{cost for one adult } \times 3 + \text {cost for one child} \times 4 \\\\
-                   &=  3 \times \pounds 12.50 + 4 \times \pounds 8.00 \\\\
-                   &=  37.5 + 32 \\\\
-                   &=  \pounds 69.5
+\text {Total cost}  &= 3 \times \pounds 12.50 + 4 \times \pounds 8 \\\\
+                    &= 37.50 + 32 \\\\
+                    &= \pounds 69.50
 \end{aligned}
 $
 
@@ -641,7 +643,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 69.5$
+$\pounds 69.50$
 
 </div>
 </div>
@@ -658,13 +660,20 @@ The zoo has a Family Ticket for sale which allows two adults and three children 
 <div class='workings'>
 <div class='working'>
 
+As per the question,
+
 $
 \begin{aligned}
-\text {Total cost}  &=   \text{cost for one adult } \times 2 + \text {cost for one child} \times 3 - 38.00 \\\\
-                    &=   2 \times \pounds 12.50 + 3 \times \pounds 8.00 - \pounds 38.00 \\\\
-                    &=   25 + 16 - \pounds 38.00 \\\\
-                    &=   \pounds 41 - \pounds 38.00 \\\\
-                    &=   \pounds 2
+\text {Total cost of five separate tickets}     &= 2 \times \pounds 12.50 + 3 \times 8 \\\\
+                                                &= 25 + 24 \\\\
+                                                &= \pounds 49
+\end {aligned}
+$
+
+$
+\begin {aligned}
+\text {Money saved}     &= 49 - 38 \\\\
+                        &= \pounds 11
 \end{aligned}
 $
 
@@ -673,7 +682,7 @@ $
 <div class='answers'>
 <div class='answer'>
 
-$\pounds 2$
+$\pounds 11$
 
 </div>
 </div>
